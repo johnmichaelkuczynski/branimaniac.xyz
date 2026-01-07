@@ -47,4 +47,4 @@ SESSION_SECRET = "b87131dc6fda8da65b2fcea237a2f56c91c2522d2d30a9331b2a6a6f270ed0
 [deployment]
 deploymentTarget = "autoscale"
 build = ["npm", "run", "build"]
-run = ["node", "./dist/index.cjs"]
+run = ["npm", "run", "start"]
