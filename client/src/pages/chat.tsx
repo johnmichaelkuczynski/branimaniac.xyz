@@ -26,6 +26,22 @@ import { DialogueCreatorSection } from "@/components/dialogue-creator-section";
 import { InterviewCreatorSection } from "@/components/interview-creator-section";
 import { DebateCreatorSection } from "@/components/sections/debate-creator-section";
 import { ThinkingPanel } from "@/components/thinking-panel";
+import { AuditPanel } from "@/components/audit-panel";
+import { FileSearch } from "lucide-react";
+
+interface TraceEvent {
+  timestamp: number;
+  type: 'query' | 'search_start' | 'passage_found' | 'passage_rejected' | 'direct_answer' | 'alignment_check' | 'generation_start' | 'complete' | 'error';
+  table?: 'positions' | 'quotes' | 'chunks';
+  sql?: string;
+  passage?: string;
+  passageId?: number;
+  reason?: string;
+  answerNumber?: 1 | 2 | 3;
+  aligned?: boolean;
+  conflicting?: boolean;
+  message?: string;
+}
 
 const DEFAULT_PERSONA_SETTINGS: Partial<PersonaSettings> = {
   responseLength: 750,
@@ -50,6 +66,12 @@ export default function Chat() {
   const [comparisonModalOpen, setComparisonModalOpen] = useState(false);
   const [loginUsername, setLoginUsername] = useState("");
   const [showChatHistory, setShowChatHistory] = useState(false);
+  
+  // Audit mode state
+  const [auditMode, setAuditMode] = useState(false);
+  const [auditEvents, setAuditEvents] = useState<TraceEvent[]>([]);
+  const [auditReport, setAuditReport] = useState<string>("");
+  const [currentQuestion, setCurrentQuestion] = useState<string>("");
 
   // Content transfer system: refs to input setters
   const [chatInputContent, setChatInputContent] = useState<{ text: string; version: number }>({ text: "", version: 0 });
@@ -186,14 +208,24 @@ export default function Chat() {
     setIsStreaming(true);
     setStreamingMessage("");
     setPendingAssistantMessage("");
+    
+    // Reset audit state if in audit mode
+    if (auditMode) {
+      setAuditEvents([]);
+      setAuditReport("");
+      setCurrentQuestion(content);
+    }
 
     // CRITICAL FIX: Track pending user message to keep it visible until persisted
     const currentMessages = queryClient.getQueryData<Message[]>(["/api/messages"]) || [];
     setUserMessageCountBeforePending(currentMessages.length);
     setPendingUserMessage(content);
 
+    // Choose endpoint based on audit mode
+    const endpoint = auditMode ? "/api/chat/stream-audited" : "/api/chat/stream";
+
     try {
-      const response = await fetch("/api/chat/stream", {
+      const response = await fetch(endpoint, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -243,6 +275,18 @@ export default function Chat() {
               }
               try {
                 const parsed = JSON.parse(data);
+                
+                // Handle audit trace events
+                if (parsed.trace && auditMode) {
+                  setAuditEvents(prev => [...prev, parsed.trace as TraceEvent]);
+                }
+                
+                // Handle audit report
+                if (parsed.auditReport && auditMode) {
+                  setAuditReport(parsed.auditReport);
+                }
+                
+                // Handle regular content
                 if (parsed.content) {
                   accumulatedText += parsed.content;
                   setStreamingMessage(accumulatedText);
@@ -551,6 +595,31 @@ export default function Chat() {
                 </div>
                 <p className="text-xs text-muted-foreground mt-2">
                   When enabled, philosophers respond naturally with variable length answers and can ask questions back. When disabled, responses target the word count setting.
+                </p>
+              </div>
+
+              <div className="space-y-2 pt-3 border-t">
+                <div className="flex items-center justify-between">
+                  <div className="space-y-0.5">
+                    <Label htmlFor="audit-mode" className="text-sm font-medium flex items-center gap-1.5">
+                      <FileSearch className="w-4 h-4" />
+                      Audit Mode
+                    </Label>
+                    <p className="text-xs text-muted-foreground">
+                      {auditMode 
+                        ? "Full corpus search trace visible"
+                        : "Standard chat mode"}
+                    </p>
+                  </div>
+                  <Switch
+                    id="audit-mode"
+                    checked={auditMode}
+                    onCheckedChange={setAuditMode}
+                    data-testid="switch-audit-mode"
+                  />
+                </div>
+                <p className="text-xs text-muted-foreground mt-2">
+                  When enabled, shows live trace of every database query, passage found/rejected, and alignment decisions. Generates downloadable audit report.
                 </p>
               </div>
 
@@ -867,6 +936,32 @@ export default function Chat() {
           isActive={isStreaming}
         />
       </main>
+
+      {/* Audit Panel - appears when audit mode is enabled */}
+      {auditMode && (
+        <aside className="w-80 flex-shrink-0 border-l hidden lg:block">
+          <AuditPanel
+            isActive={isStreaming}
+            events={auditEvents}
+            question={currentQuestion}
+            onDownloadReport={() => {
+              if (auditReport) {
+                const blob = new Blob([auditReport], { type: "text/plain" });
+                const url = URL.createObjectURL(blob);
+                const a = document.createElement("a");
+                a.href = url;
+                a.download = `audit-report-${Date.now()}.txt`;
+                document.body.appendChild(a);
+                a.click();
+                document.body.removeChild(a);
+                URL.revokeObjectURL(url);
+              } else {
+                toast({ title: "No report available", description: "Ask a question first to generate an audit report." });
+              }
+            }}
+          />
+        </aside>
+      )}
 
       {/* Figure Chat Dialog */}
       <FigureChat 

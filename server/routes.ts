@@ -28,6 +28,7 @@ import * as pdfParse from "pdf-parse";
 import * as mammoth from "mammoth";
 import { authorAssetsCache } from "./author-assets-cache";
 import { unifiedSearch, formatCitations } from "./unified-search";
+import { auditedCorpusSearch, generateAuditReport, type TraceEvent, type AuditResult } from "./audit-search";
 
 // Get __dirname equivalent for ESM
 const __filename = fileURLToPath(import.meta.url);
@@ -1282,6 +1283,251 @@ Now respond as ${thinkerName}, grounding your answer in the database context:
       res.write(
         `data: ${JSON.stringify({ error: "Failed to generate response" })}\n\n`
       );
+      res.end();
+    }
+  });
+
+  // ============ AUDITED CHAT STREAM - FULL TRACE MODE ============
+  // This endpoint runs the full corpus search with live audit trail
+  app.post("/api/chat/stream-audited", async (req: any, res) => {
+    try {
+      const sessionId = await getSessionId(req);
+      const { message, figureId: bodyFigureId } = req.body;
+
+      if (!message || typeof message !== "string") {
+        res.status(400).json({ error: "Message is required" });
+        return;
+      }
+
+      const figureId = (bodyFigureId || "kuczynski").toLowerCase();
+      const thinkerDisplayNames: Record<string, string> = {
+        "kuczynski": "J.-M. Kuczynski",
+        "freud": "Sigmund Freud",
+        "nietzsche": "Friedrich Nietzsche",
+        "aristotle": "Aristotle",
+        "plato": "Plato",
+        "kant": "Immanuel Kant",
+        "hegel": "G.W.F. Hegel",
+        "hume": "David Hume",
+        "descartes": "René Descartes",
+        "spinoza": "Baruch Spinoza",
+        "locke": "John Locke",
+        "darwin": "Charles Darwin",
+        "newton": "Isaac Newton",
+        "rousseau": "Jean-Jacques Rousseau",
+        "voltaire": "Voltaire",
+      };
+      const thinkerName = thinkerDisplayNames[figureId] || figureId;
+
+      console.log(`[AUDITED CHAT] Starting audited search for: "${message.substring(0, 50)}..." with ${thinkerName}`);
+
+      // Get conversation
+      let conversation = await storage.getCurrentConversation(sessionId);
+      if (!conversation) {
+        conversation = await storage.createConversation(sessionId, {
+          title: `Audited Chat with ${thinkerName}`,
+        });
+      }
+
+      // Save user message
+      await storage.createMessage({
+        conversationId: conversation.id,
+        role: "user",
+        content: message,
+      });
+
+      // Setup SSE headers
+      res.setHeader("Content-Type", "text/event-stream");
+      res.setHeader("Cache-Control", "no-cache, no-transform");
+      res.setHeader("Connection", "keep-alive");
+      res.setHeader("X-Accel-Buffering", "no");
+      if (res.socket) res.socket.setTimeout(0);
+      res.flushHeaders();
+
+      // Store audit result for later report generation
+      let auditResult: AuditResult | null = null;
+
+      // Run audited corpus search with live trace streaming
+      auditResult = await auditedCorpusSearch(
+        message,
+        figureId,
+        (event: TraceEvent) => {
+          res.write(`data: ${JSON.stringify({ trace: event })}\n\n`);
+          if (res.socket) (res.socket as any).uncork?.();
+        }
+      );
+
+      // Emit audit result summary
+      res.write(`data: ${JSON.stringify({ 
+        auditSummary: {
+          directAnswerCount: auditResult.directAnswers.length,
+          aligned: auditResult.aligned,
+          conflicting: auditResult.conflicting,
+          finalDecision: auditResult.finalDecision
+        }
+      })}\n\n`);
+
+      // Build context from audit results
+      let contextBlock = "";
+      if (auditResult.directAnswers.length > 0) {
+        contextBlock = `\n\n=== DIRECT ANSWERS FROM ${thinkerName.toUpperCase()}'S CORPUS ===\n\n`;
+        for (let i = 0; i < auditResult.directAnswers.length; i++) {
+          const answer = auditResult.directAnswers[i];
+          contextBlock += `[Answer ${i + 1} from ${answer.source}]:\n"${answer.text}"\n\n`;
+        }
+        contextBlock += `=== END DIRECT ANSWERS ===\n\n`;
+      } else if (auditResult.adjacentMaterial.length > 0) {
+        contextBlock = `\n\n=== ADJACENT MATERIAL (No Direct Answers Found) ===\n\n`;
+        for (const mat of auditResult.adjacentMaterial) {
+          contextBlock += `${mat}\n\n`;
+        }
+        contextBlock += `=== END ADJACENT MATERIAL ===\n\n`;
+      }
+
+      // Build system prompt based on audit result
+      let systemPrompt: string;
+      
+      if (auditResult.finalDecision === 'conflicting') {
+        systemPrompt = `You are ${thinkerName}.
+
+The corpus search found THREE CONFLICTING answers to the user's question.
+
+You MUST present all three answers separately. Do NOT synthesize or reconcile them.
+
+Say: "I found three different answers in my writings. Here they are:"
+
+Then present each answer as a separate numbered section.
+
+${contextBlock}
+
+Present these conflicting views honestly. Do not attempt to smooth over the disagreement.`;
+      } else if (auditResult.finalDecision === 'no_direct_answer') {
+        systemPrompt = `You are ${thinkerName}.
+
+The corpus search did NOT find a direct answer to this question in my writings.
+
+The following is ADJACENT material that may be relevant:
+${contextBlock}
+
+You MUST:
+1. Acknowledge that you don't have a direct answer to this question in your corpus
+2. Use the adjacent material cautiously to give a partial response
+3. Clearly label any response as INDIRECT, saying something like: "While I don't address this directly in my writings, the closest I come is..."
+
+Do NOT pretend you have a direct answer when you don't.`;
+      } else {
+        // Aligned direct answers
+        systemPrompt = `You are ${thinkerName}. When you answer, you ARE this philosopher.
+
+The corpus search found ${auditResult.directAnswers.length} ALIGNED direct answers.
+${contextBlock}
+
+You MUST:
+1. Ground your response in these direct answers from the corpus
+2. Speak in first person as ${thinkerName}
+3. The direct answers above are the AUTHORITY - you're breathing intelligence into them, not inventing new positions
+
+CRITICAL RULES:
+- Quote directly from the passages above
+- Do NOT add modern disclaimers or academic hedging
+- Match ${thinkerName}'s rhetorical style and intellectual approach
+- You may elaborate and connect ideas, but stay consistent with the retrieved material`;
+      }
+
+      // Emit generation start event
+      res.write(`data: ${JSON.stringify({ trace: { 
+        timestamp: Date.now(), 
+        type: 'generation_start', 
+        message: 'Starting LLM generation with audited context' 
+      } })}\n\n`);
+
+      // Get persona settings
+      let personaSettings = await storage.getPersonaSettings(sessionId);
+      const isDialogueMode = personaSettings?.dialogueMode === true;
+      const maxTokens = isDialogueMode ? 500 : 8000;
+
+      // Stream LLM response
+      let accumulatedContent = "";
+      const selectedModel = personaSettings?.selectedModel || "zhi5";
+      const fallbackModels = getFallbackModels(selectedModel);
+      
+      for (const modelKey of fallbackModels) {
+        const currentLLM = MODEL_CONFIG[modelKey];
+        if (!currentLLM || !isProviderAvailable(currentLLM.provider)) continue;
+
+        try {
+          if (currentLLM.provider === "anthropic" && anthropic) {
+            const stream = await anthropic.messages.stream({
+              model: currentLLM.model,
+              max_tokens: maxTokens,
+              temperature: 0.7,
+              messages: [{ role: "user", content: `${systemPrompt}\n\nUser question: ${message}` }],
+            });
+
+            for await (const chunk of stream) {
+              if (chunk.type === 'content_block_delta' && chunk.delta.type === 'text_delta') {
+                const content = chunk.delta.text;
+                if (content) {
+                  accumulatedContent += content;
+                  res.write(`data: ${JSON.stringify({ content })}\n\n`);
+                  if (res.socket) (res.socket as any).uncork?.();
+                }
+              }
+            }
+          } else {
+            const apiClient = getOpenAIClient(currentLLM.provider);
+            if (!apiClient) continue;
+
+            const stream = await apiClient.chat.completions.create({
+              model: currentLLM.model,
+              messages: [
+                { role: "system", content: systemPrompt },
+                { role: "user", content: message }
+              ],
+              max_tokens: maxTokens,
+              temperature: 0.7,
+              stream: true,
+            });
+
+            for await (const chunk of stream) {
+              const content = chunk.choices[0]?.delta?.content || "";
+              if (content) {
+                accumulatedContent += content;
+                res.write(`data: ${JSON.stringify({ content })}\n\n`);
+                if (res.socket) (res.socket as any).uncork?.();
+              }
+            }
+          }
+          break; // Success
+        } catch (error) {
+          console.error(`[Audited Chat] ${modelKey} failed:`, error);
+          continue;
+        }
+      }
+
+      // Save assistant message
+      if (accumulatedContent) {
+        await storage.createMessage({
+          conversationId: conversation.id,
+          role: "assistant",
+          content: accumulatedContent,
+        });
+      }
+
+      // Send audit report data for download
+      if (auditResult) {
+        const reportData = generateAuditReport(auditResult);
+        res.write(`data: ${JSON.stringify({ auditReport: reportData })}\n\n`);
+        console.log('[AUDITED CHAT] Sent audit report to client');
+      } else {
+        console.log('[AUDITED CHAT] Warning: auditResult was null, no report generated');
+      }
+      
+      res.write(`data: [DONE]\n\n`);
+      res.end();
+    } catch (error) {
+      console.error("Error in audited chat stream:", error);
+      res.write(`data: ${JSON.stringify({ error: "Failed to generate audited response" })}\n\n`);
       res.end();
     }
   });

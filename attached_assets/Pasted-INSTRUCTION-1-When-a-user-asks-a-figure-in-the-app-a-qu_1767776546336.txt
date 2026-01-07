@@ -1,0 +1,548 @@
+INSTRUCTION 1: 
+
+When a user asks a figure in the app a question, the app must behave like this—always, for every figure:
+
+It does not answer immediately.
+It first searches that figure’s material for direct answers to the user’s exact question.
+
+It searches in a fixed order:
+
+(A) Position statements first
+
+(B) Quotes second
+
+(C) Full works / chunks last (only if A and B fail to produce a fully determinate answer)
+
+It must find three direct answers before it “moves forward.”
+
+It finds one direct answer, then
+
+it finds a second direct answer, then
+
+it finds a third direct answer.
+
+Alignment rule (no synthesis):
+
+If the three direct answers align, the app proceeds to answer.
+
+If they do not align, the app does not try to reconcile or synthesize them.
+It answers truthfully:
+“I found three different answers in this author’s work. Here they are.”
+And it presents the three answers separately.
+
+The LLM’s role is strictly limited:
+The LLM is allowed to:
+
+judge whether a passage is a direct answer
+
+judge its meaning, scope, and relevance
+
+decide whether two answers align or conflict
+
+phrase the final output in the author’s voice
+
+The LLM is not allowed to:
+
+invent an answer not supported by the author’s material
+
+“smooth over” disagreements by synthesizing conflicting answers into one
+
+replace missing evidence with a generic response
+
+If no direct answer is found:
+
+The app searches for answer-adjacent material (closest relevant passages).
+
+It then gives a cautious response based only on that material, clearly signaling that it is not a direct answer.
+
+In short:
+The app is a truthful corpus-searcher. It finds up to three on-point answers, checks whether they agree, and only then responds. If they disagree, it reports the disagreement instead of synthesizing. If no direct answer exists, it uses the closest material cautiously.
+
+INSTRUCTION 2: 
+
+NON-NEGOTIABLE IMPLEMENTATION REQUIREMENT: FULL STREAMING AUDIT MODE
+
+This app is not allowed to silently “think” and then drop a finished answer.
+If it does that, it will always cheat—by hallucinating, smoothing over conflicts, pretending it searched the corpus, or inventing support.
+
+So from now on:
+
+1) EVERY QUESTION MUST RUN IN FULL STREAMING / AUDIT MODE
+
+Whenever a user asks any figure a question, the app must open a live side-panel “Trace / Audit Window” and stream the entire process in real time.
+
+Nothing is permitted to happen invisibly.
+
+2) THE TRACE PANEL MUST SHOW EVERYTHING, LIVE
+
+The user must be able to watch the system work step-by-step, including:
+
+every database query (actual SQL / query text)
+
+every table searched, in order:
+
+position statements
+
+quotes
+
+full works / chunks
+
+every work opened and scanned
+
+every passage retrieved
+
+every passage rejected, with a plain reason (“not direct,” “off-topic,” “conflicts,” “too vague,” etc.)
+
+the first direct answer found
+
+the second direct answer found
+
+the third direct answer found
+
+the alignment check:
+
+“Aligned” → proceed
+
+“Conflicting” → stop synthesis and report conflict honestly
+
+the final generation step (LLM phrasing), only after the above is complete
+
+3) THE APP MUST NOT ANSWER UNTIL IT HAS THREE DIRECT ANSWERS OR IT FAILS HONESTLY
+
+The app must search the figure’s material until it finds three clearly on-point, direct answers.
+
+If it finds three that align, it proceeds.
+
+If it finds three that conflict, it does not synthesize or reconcile them.
+It says truthfully:
+“I found three different answers. Here they are.”
+
+If it cannot find a direct answer, it says so, and only then it may use answer-adjacent material cautiously, making it explicit that the corpus did not contain a direct answer.
+
+4) THE LLM IS NOT ALLOWED TO INVENT CONTENT OR SMOOTH OVER DISAGREEMENTS
+
+The LLM may ONLY:
+
+judge whether a passage is a direct answer
+
+judge its relevance and scope
+
+determine alignment vs conflict
+
+phrase the output in the author’s voice
+
+The LLM may NOT:
+
+invent an answer not supported by retrieved passages
+
+produce a clean synthesis from conflicting sources
+
+substitute generic academic filler when retrieval fails
+
+5) THE TRACE PANEL IS THE PRODUCT
+
+The audit stream is not a debugging feature.
+It is the core of the experience.
+It exists to make cheating impossible.
+
+If the user cannot watch the system search, reject, compare, and decide in real time, the system is broken.
+
+That is the instruction.
+
+INSTRUCTION 3:  
+
+NON-NEGOTIABLE REQUIREMENT: EVERY ANSWER MUST BE FULLY AUDITED — LIVE + DOWNLOADABLE
+
+This app is not allowed to silently “think” and then deposit a finished answer.
+If it does that, it will always cheat: hallucinate, smooth over conflicts, pretend it searched the corpus, or invent support.
+
+So from now on, every single question must run in Full Audit Mode, and every single answer must produce two deliverables:
+
+DELIVERABLE #1: THE ANSWER
+
+The app gives the user the best possible answer in the author’s voice, but only after doing the full corpus search procedure described below.
+
+DELIVERABLE #2: A DOWNLOADABLE AUDIT REPORT
+
+Every time the app answers, it must automatically generate a downloadable report that documents exactly what it did to produce the answer — with no gaps, no hand-waving, no “trust me.”
+
+This report is not optional.
+It is not a debug feature.
+It is a required second output every time.
+
+A. LIVE STREAMING AUDIT PANEL (DURING THE ANSWER)
+
+Whenever the user asks a question, the app must open a side-panel Trace / Audit Window and stream the entire process in real time.
+
+Nothing is permitted to happen invisibly.
+
+The trace must show, live:
+
+every database query (actual SQL / query text)
+
+every table searched, in order:
+
+position statements
+
+quotes
+
+full works / chunks
+
+every work opened / scanned
+
+every sentence or passage considered
+
+every retrieved passage
+
+every rejected passage with a reason
+
+the first direct answer found
+
+the second direct answer found
+
+the third direct answer found
+
+the alignment check:
+
+Aligned → proceed
+
+Conflicting → do not synthesize
+
+the final response generation step (LLM phrasing), only after the above steps complete
+
+B. SEARCH / ANSWER RULES (NO SYNTHESIS, NO CHEATING)
+
+The app does not answer immediately.
+
+It searches the figure’s corpus until it finds three clearly on-point, direct answers:
+
+It finds the first direct answer.
+
+Then the second.
+
+Then the third.
+
+Then:
+
+If the three answers align, the app proceeds to answer.
+
+If they do not align, the app does not attempt to reconcile them.
+It says truthfully:
+“I found three different answers in this author’s work. Here they are.”
+and presents them separately.
+
+If no direct answer exists:
+
+the app retrieves answer-adjacent material
+
+and gives a cautious response explicitly labeled as indirect.
+
+The LLM may ONLY:
+
+judge relevance
+
+judge directness
+
+judge alignment vs conflict
+
+phrase the output in the author’s voice
+
+The LLM may NOT:
+
+invent content
+
+“smooth” conflicts into one answer
+
+substitute generic modern academic filler when retrieval fails
+
+C. THE DOWNLOADABLE AUDIT REPORT (AFTER THE ANSWER)
+
+Every answer must generate a report the user can download immediately.
+
+This report must include:
+
+1) Question + Author
+
+exact user question
+
+figure/author ID
+
+timestamp
+
+app version / commit hash (or build ID)
+
+2) Full Execution Trace
+
+A step-by-step timeline of everything the app did, matching the live panel:
+
+every query executed (SQL/query text)
+
+parameters used (authorId, query string, filters)
+
+which tables were searched, in what order
+
+which works/files were opened
+
+which passages were examined
+
+which passages were returned
+
+which were rejected and why
+
+the three direct answer candidates
+
+alignment/conflict determination
+
+final decision: aligned / conflict / no direct answer found
+
+3) Evidence Section
+
+The report must include the exact passages used, with:
+
+table name (positions, quotes, chunks, etc.)
+
+row IDs
+
+work/source title (if available)
+
+chunk index / location
+
+the raw excerpt text
+
+4) LLM Usage Log
+
+The report must include:
+
+which model was used
+
+the exact prompt blocks (system + user + retrieved context) OR a redacted version if needed
+
+token counts (optional but preferred)
+
+temperature/settings
+
+5) Final Output
+
+the final answer shown to the user
+
+plus a “faithfulness note” summarizing whether it was direct-answer-based or adjacent-material-based
+
+D. CORE PRINCIPLE
+
+The trace panel is the product.
+The report is the receipt.
+
+If the user cannot watch the system work live, and then download a complete “receipt” of exactly what it did, then the system is broken.
+
+INSTRUCTION 4: 
+
+MASTER SPEC: AUDITED, DB-GROUNDED, NON-SYNTHESIZING ANSWER ENGINE
+Core rule
+
+The app is not allowed to silently think and then deposit a finished answer.
+If it does, it will cheat.
+So every question must run in Full Audit Mode, and every answer must produce:
+
+The Answer, and
+
+A Downloadable Audit Report (receipt) documenting exactly what the app did to generate that answer.
+
+1) FULL STREAMING / AUDIT MODE IS MANDATORY
+
+Whenever the user asks a question, the app must open a live side-panel Trace/Audit window and stream everything in real time.
+
+Nothing is permitted to happen invisibly.
+
+The trace window must stream, line by line:
+
+every database query (actual SQL / query text)
+
+every table searched, in order
+
+every work opened / scanned
+
+every sentence/passage considered
+
+every passage retrieved
+
+every passage rejected, with a plain reason
+
+the first direct answer found
+
+the second direct answer found
+
+the third direct answer found
+
+whether they align or conflict
+
+the final LLM phrasing step (only after evidence gathering is complete)
+
+The trace panel is not a debug feature.
+It is the core of the product.
+
+2) THE SEARCH ORDER IS FIXED
+
+For every question, the app searches the figure’s material in this order:
+
+Position statements
+
+Quotes
+
+Full works / chunks (only if positions+quotes fail to yield a fully determinate answer)
+
+3) “THREE DIRECT ANSWERS” RULE
+
+The app does not answer until it has searched the author’s corpus and attempted to find:
+
+one direct answer
+
+then a second direct answer
+
+then a third direct answer
+
+All three must be clearly on-point.
+
+4) ALIGNMENT RULE (NO SYNTHESIS)
+
+After finding three direct answers:
+
+If they align, the app proceeds to answer.
+
+If they do not align, the app must not synthesize them.
+It must truthfully say:
+
+“I found three different answers in this author’s work. Here they are.”
+
+and then present all three separately.
+
+5) IF NO DIRECT ANSWER EXISTS
+
+If the app cannot find a direct answer, it must:
+
+retrieve answer-adjacent material (closest relevant passages),
+
+cautiously run it by the LLM,
+
+produce an answer that is explicitly labeled as indirect, and
+
+never pretend it is a direct answer.
+
+6) THE AUTHOR MUST BE “READ” BEFORE ANSWERING
+
+The app must not answer for an author unless the author’s works are genuinely available/searchable in the database in a way that permits full-corpus searching.
+No pretending. No partial ingestion masquerading as “I searched the works.”
+
+If the corpus is not fully searchable, the app must refuse to answer, truthfully.
+
+7) THE LLM’S ROLE IS STRICTLY LIMITED
+
+The LLM is permitted to do only these things:
+
+decide whether retrieved material counts as a direct answer
+
+assess meaning, scope, and relevance
+
+decide whether direct answers align or conflict
+
+phrase the final output in the author’s voice
+
+The LLM is not permitted to:
+
+invent missing content
+
+smooth over conflicts by synthesizing
+
+output generic modern academic filler when retrieval fails
+
+claim it searched or found support when it didn’t
+
+8) EVERY ANSWER MUST PRODUCE TWO OUTPUTS
+
+Every single time the app answers, it must output:
+
+Output 1: The Answer
+
+The answer itself (either aligned single answer, or the “three conflicting answers” presentation, or cautious indirect answer).
+
+Output 2: A Downloadable Audit Report
+
+A downloadable report that documents exactly what happened.
+
+9) DOWNLOADABLE AUDIT REPORT REQUIREMENTS (THE RECEIPT)
+
+Every report must include:
+
+A) Question + figure
+
+exact user question
+
+figure/author ID
+
+timestamp
+
+app version/build/commit (if available)
+
+B) Full execution trace
+
+A step-by-step log matching the live panel:
+
+each query executed (SQL/query text)
+
+parameters used (authorId, question, filters)
+
+tables searched (positions → quotes → works)
+
+works/files opened
+
+passages examined
+
+passages retrieved
+
+passages rejected + reasons
+
+the three direct answer candidates
+
+alignment/conflict outcome
+
+final decision: aligned / conflict / no direct answer
+
+C) Evidence section
+
+For every passage actually used, include:
+
+table name (positions, quotes, chunks, etc.)
+
+row IDs
+
+work/source title (if available)
+
+chunk index / location
+
+the exact excerpt text
+
+D) LLM usage log
+
+which model was used
+
+the prompt blocks used (system + question + retrieved evidence) or a safe redaction
+
+settings (temperature etc.)
+
+E) Final output
+
+the final answer shown to user
+
+and whether it was:
+
+direct-answer-based
+
+conflict-reporting
+
+or cautious adjacent-material-based
+
+10) THE PRINCIPLE
+
+The Trace is the product.
+The Audit Report is the receipt.
+
+If the user cannot watch the system work live, and then download a complete receipt of exactly what it did, the system is broken.
