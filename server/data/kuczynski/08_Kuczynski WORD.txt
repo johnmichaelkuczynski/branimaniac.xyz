@@ -1,0 +1,840 @@
+﻿Chapter 8
+The Relationship between Thought and Language: Literal Meaning vs. Cognitive Content
+1.0 The objects of thought are always truths or falsehoods, and never objects, except in a derivative sense
+We obviously think about rocks, trees, people, and other things. But things are the objects of thought only in a derivative sense. The real object of thought is always some truth or falsehood concerning a thing.
+Some fiction will help. At time t, you are looking at a rock. You recognize the rock. It’s the rock that Joey, your arch nemesis, threw at your car. That incident was an emotionally charged one for you, and you decided to write a book about it. In order to have a concise way of referring to it, you gave it a name: you decided to call it “R.” It’s been a while since you’ve seen R. But when, at time t, you see it, you instantly recognize it. You recognize it as R—as the rock that Joey threw at your car.
+Your eyes are obviously telling you something. But what exactly? Here we must be careful to distinguish what your visual perception itself is telling from what, given the backlog of knowledge at your disposal, you can read into that perception. No sooner do you see R than you recognize it. But do your eyes tell you that it is R you are seeing? No. Given only what they are telling you, you could be looking at some other rock that happened to look just like that rock. Maybe you know that this is unlikely. Maybe you know that there’s basically no real chance of this. And maybe you know all of this instantaneously. You don’t have go through a conscious, drawn out process of inference. It’s obvious—just as obvious as it is that the person in front of you at your wedding is your beloved fiancée.
+But your eyes aren’t telling you any of this. Given only the information encoded in your visual perception, you could be seeing some duplicate of R. Given only what your eyes are telling you, it’s possible that R no longer exists and that what you are seeing is a perfect duplicate of it.
+What your eyes tell you isn’t: “that’s R over there.” What they tell you is:
+
+(RO) “there is a rock having such and such characteristics over there.”
+
+R satisfies that existence-claim; and you know that. On the basis of that knowledge along with the information bequeathed to you by your visual perception, you know that R has such and such characteristics. But that perception itself doesn’t bear any R-specific message. What your eyes are telling you, taken by itself, is consistent with R’s not even existing. Obvious extensions of these points show that, given any message given to you through vision or any other sensory modality, and given any object in the external world, that message is consistent with that object’s not existing.
+1.1 The exact way in which sense-perception is descriptive
+Our sense-perceptions obviously represent objects to us and can thus be said to describe them. But what isn’t obvious is that there is nothing to perceiving anything other than being perceptually apprised of some existence-claim satisfied by that object.
+Let’s suppose you are looking at your good friend Pat. Your seeing Pat obviously involves your seeing instances of various properties of various different kinds. Some of these property-instances are morphological (shape-related); others are chromatic (color-related); others are kinematic (motion-related). And so on.
+But you don’t just see various property-instances. You see an organized structure consisting of them. Your visual perception of Pat represents these property-instances as bearing various relations to one another. Being thus interrelated, they collectively form a coherent structure. Your seeing a coherent structure of property-instances, as opposed to a disorganized jumble of them, consists in your seeing various instances of various relations. It consists in your seeing that certain property-instances are to the right of certain others, that other property-instances are behind certain others, etc. Thus, your seeing Pat involves your seeing various instances of various properties and relations.
+It follows that your seeing him involves your being (visually, not verbally) apprised of an existence-claim: “there are, at the present moment, instances of such and such properties, in such and such places, bearing such and such relations to one another.” From now on, when I mention “property instances,” I am referring to instances of properties and of relations.
+We must now confront a delicate but deeply important question. You see Pat. That’s a given. This involves your seeing various instances of various properties and relations. That too is a given. But do you see anything other than property-instances instances? Is there something to your seeing Pat above and beyond your beholding these various instances? Do you see these instances, on the one hand, and Pat, on the other?
+No. Clearly you just see the instances. Your perception doesn’t represent Pat in addition to the various property-instances that are associated with him. Were your perception to have such a structure, it would involve Pat’s being represented to you as a featureless lump, a blank undifferentiated entity, with various property-instances piled on top of it, so to speak.
+But that clearly isn’t how that perception works. It’s absurd to suppose that a thing possibly be perceptually represented independently of the property-instances that it is being represented as having. That would involve its being represented as a featureless blank. The very idea of a thing’s being perceptually represented as a featureless blank is a non-starter. Thus, there is nothing to seeing (or otherwise sense-perceiving) an object other than seeing (same qualification) the property-instances associated with it.
+These properties are time- and place-indexed. Supposing what you are seeing is round, what you see isn’t just an instance of roundness, but an instance of roundness in a certain place, at the present time. So if O is what you are seeing, your seeing O consists in your being visually told that there are instances of various (time- and place-indexed) properties, these being properties had by O.
+Your seeing a given object consists in your being apprised of the truth of an existence-claim that it uniquely satisfies. And your seeing that a given object has property P consists in your being apprised of the truth of some existence-claim of the form: there exists exactly one object having such and such properties; moreover, any such object has P.
+Let me clarify these statements. Look at the last word of this very sentence. Your eyes don’t only tell you that certain (time- and place-indexed) properties are instantiated. They don’t only tell you that, at the present time, in a certain place, there is an instance of a certain morphology (i.e., that had by the following inscription: “sentence”) and of certain chromatic properties, and so on. They tell you that, in that place, at that time, there is exactly one such instance.
+Thus, you see objects by being visually apprised of existence-claims that they uniquely satisfy. And, of course, what we just said about vision is true of all sensory modalities. Perception is purely descriptive. For you to perceive an object is for you to be apprised (in a certain way) of an existence-claim that it uniquely satisfies. (Perceiving an object involves being causally connected to it. Some think this is inconsistent with the idea that perception is fundamentally descriptive in nature. Reasons to think otherwise are given later in the present Chapter.)
+1.2 The pre-semantic basis of communicated meaning
+The idea that anything should be perceptually represented as a featureless blank is not a complete non-starter, and so is the idea that anything should be cognitively represented in that way. Conception, like perception, is and must be fundamentally descriptive. To think of an object is to think some existence-claim that it uniquely satisfies. Russell (1917) saw this.
+But it’s easy to confuse issues relating to conception with issues relating to language. What people think isn’t always in complete lock-step with what is literally meant by the expressions that they use. Cognitive content doesn’t always coincide with literal meaning. There is a systematic relationship between the two—but it isn’t always one of identity.
+Another example will make it clear what I mean by this and will help us avoid confusing facts about thought with facts about language. (And this, in its turn, will help us develop a correct semantics along with a correct understanding of thought.)
+One day, you meet a person—you’ve never met this person before. You shake hands and introduce yourselves. He tells you his name (“Fred”). Of course, you see what he looks like and how, at that particular moment, he is behaving. You see that he has such and such features (e.g., he has brown hair), is moving about in such and such manner (he’s nervously wringing his hands), and wearing certain clothes (e.g., a checkered shirt).
+It is clear that, in seeing Fred, you are being a given a description of him. Your perception describes him to you as having such and such characteristics. In fact, it’s clear that your seeing him consists in your being given a description of him—not a verbal description, of course, but a visual description. Thus, your seeing him consists in your being a visually encoded description of Fred, and your seeing him for any length of time consists in your being given a series of such descriptions.
+Your visual perception tells you that, standing in front of you, at the present moment, there is a person (or, in any case, person-like entity) having such and such features (e.g., it has a certain general shape and height; it has certain facial and bodily characteristics; it has certain kinematic (movement-related) characteristics; it’s wearing clothes of a certain kind; and so on). Given that this person has told you his name, the information communicated to by your senses is, when described very approximately and abstractly, along the lines of:
+
+(F1) There is, at the present time, in a certain place (relative to what where I am located at the present time) an object x having such and such characteristics (e.g., its morphology is characteristic of a human being, it’s wearing a checkered shirt, it’s nervously wringing its hands, etc.); and, given what x just said, it can safely be assumed that “Fred” refers to x.
+
+The italicized part identifies the semantic rule for “Fred.” Let’s refer to that rule as SF (this abbreviation will be frequently used in what follows). Notice how descriptively impoverished SF is. All it does is assign a certain label to a certain object. F1, by contrast, is a descriptively very rich claim; it says a lot about the world. And you learn SF through F1.
+Semantic rules can’t just be known. They must known through sense-perception. “Socrates” refers to Socrates. But we could refer to him as “Gronk” if we chose to, and it’s only because you and I have had certain sense-perceptions that we know that “Socrates,” not “Gronk,” is his name.
+But the sense-perceptions through which we learn semantic rules are replete with information that has nothing to do with sense-perceptions. The semantic information is always embedded in non-semantic information. Your learning SF is embedded in your learning F1, for example.
+Because of this, what sentence-utterances convey may contain vast sums of information that they do not have for their literal meanings. Let’s suppose that, a few hours after you meet Fred, your friend Larry produces the following utterance while addressing you:
+(LS) “Fred is a professor of economics.” 
+LS attributes a certain property (that of being an economics professor) to a certain individual. And that’s all it does. It’s a very simple statement. If that individual has that property, then LS is true; otherwise, it isn’t. To put it more formally, there is some individual x (namely, Fred) such that LS attributes the property of being a professor of economics to x and such that LS is true if and only if
+
+(LP) x is a professor of economics.
+
+But given how you learned who “Fred” refers to, what LS conveys won’t be so threadbare. True—for some object x (namely Fred), SF merely slaps the label “Fred” on x. But your knowledge of SF is replete with non-semantic content. You know of Fred’s existence only because he was described to you. In seeing him, you were visually told that there was some individual x such that you met x at a certain time, in a certain place, and such that x had certain characteristics; and you were also told that “Fred” was x’s name. Your perception of him was therefore descriptive, and the same is therefore true of your subsequent concept of him. Given that you cognitively access SF through this information, what LS communicates to you is likely to be along the lines of:
+
+(LPC) There was, a little while ago a certain object x having such and such characteristics (e.g., was wearing a checkered shirt and nervously wringing its hands, etc.) and “Fred” refers to x and I’ve just been told that: x is a professor of economics.
+
+It should be pointed out that you’ll know that the literal meaning of LS is confined to the italicized part. You’ll know that “Fred” isn’t synonymous with ‹the guy who I met at time t and place p, who was wearing a checkered shirt and wringing his hands nervously [etc.].› And you’ll know that does not, at the level of literal meaning, say anything about anyone’s ever wearing a plaid shirt or wringing their hands.
+At the same time, given the circumstances under which you learned who “Fred” refers to, it’s inevitable that LS would convey some such message to you. Given the circumstances, the communicated, as opposed to literally meant, message soaked up some of the non-literal, descriptive information implicated in your initial tête-à-tête with Fred.
+To sum up, there is some individual x such that, in terms of its literal meaning, all LS does is to attribute the property of being an economics professor to x. So what LS literally means is pretty spare. But what it incidentally conveys to you isn’t so spare.
+1.3 Interlude: Mill on reference
+A moment ago we said that, for some object x (namely Fred), SF merely slaps the label “Fred” on x. This point, appropriately generalized, is that, given any proper name N, there is some object O such that N’s sole linguistic function is pick out O—such that, in other words, the semantic rule for N is simply: “N refers to O.” Names “denote” (pick out) but do not “connote” (describe). They are mere labels.
+This is what we said, and it’s plausible. But it’s not exactly self-evident. So we need an argument for it. John Stuart Mill provided that argument.
+Imagine, said Mill, that you decide to refer to a certain river as the “,” the reason being that, at the time of your naming it, that river’s mouth was at the sea-side city of . (Let’s suppose that you’re royalty, so that your linguistic practices automatically become part of the English language.) Should that river change its course as a result of some cataclysm, so that its mouth were no longer anywhere near the city of , it would still be called “the .” And therein lies the distinction between “,” which is a proper name, and “the river whose mouth is at the city of ,” which is not a proper name. The first merely labels a certain river; it doesn’t pick it out through a description. That’s why it labels that river even after that river ceases to fit the relevant description. And that’s why, if some other river were to change locations, in such a way that its mouth coincided with the city of , “the ” wouldn’t refer to it, and would still refer to the other river (the one whose mouth was originally at Dart).DartmouthDartDartmouthDart
+By contrast, “the river whose mouth is at the city of ” is not a mere label. (Like the authors whose work we’re about to evaluate, we are in this context operating on the assumption, definite descriptions are referring terms.) It refers to whatever it is that fits a certain description (i.e., “unique river whose mouth is at the city of ”). So it refers by describing, not by labeling.
+Here is another, similar argument. Suppose that You and I are spies in enemy terrain. We see a person in the distance. We can’t make out who it is. We don’t know who he is. But, the circumstances being what they are, we know that, whoever he is, he’s important. You and I are going to be talking about him a lot. We thus need a way of referring to him that, unlike the “the man in the distance,” won’t cease to be useful the moment he moves to a new place. We thus decide to give him a name. We name him “Gargantuan.”
+Russell and Frege would say that “Gargantuan” is synonymous with “the man in the distance” or, at any rate, with some other definite description. But we’ve already seen why that view is the wrong one. That person, whoever he is, can move to a new place; and some other person who isn’t identical with him can move into the place that he has vacated. But “Gargantuan” would not on this account cease to refer to one person and come to refer to someone else. Let us develop this point by telling a story.
+We finally meet Gargantuan. He turns out to be Mr. X, a high-level official in the government of the nation we’re spying on. We now know X’s name, of course. But when speaking to each other, we still refer to X as “Gargantuan.” We befriend X, and he turns out to an amicable and easy-going fellow. He is no longer distant in any sense, and “the man in the distance” no longer refers to him. But “Gargantuan” does refer to him. “The man in the distance” picks out whoever it is that fits the relevant description, and that person won’t always be X. But Garguantuan always picks out X. Given any property phi, such that, at some point in time or other, ‹the phi› picks out X, a similar argument shows that there are possible circumstances where ‹the phi› fails to refer to X, even though, in those same circumstances, “Gargantuan” still does refer to X.
+Thus, “Gargantuan” doesn’t refer to X by describing him, and X’s being picked out by “Gargantuan” isn’t contingent on his having this or that property. “Gargantuan” simply labels X. All X has to do to be labeled by “Gargantuan” is continue to be X. By contrast, to be referred to as “the man in the distance,” one has to be a man in the distance, which isn’t always easy.
+Mill’s argument decisively shows that proper names are mere labels. They are not “connotative;” they don’t have Fregean “senses.” By contrast, definite descriptions (supposing them to be referring terms) are connotative; they do have Fregean senses.
+Non-connotative referring terms are said to refer directly; connotative referring terms are said to refer indirectly. In Chapter 6, it is shown that all reference is direct reference and that the concept of indirect reference is a completely incoherent one. But we will not assume that here, since the authors whose work we're evaluating don't assume it.
+1.4 Perception, conception, literal meaning
+The just-discussed principles just are crucial. True—they’re obvious and easy to understand. But for some reason some leading analytic philosophers have overlooked them. The results have been catastrophic. Talented thinkers have wasted decades of their lives defending broken ideas.
+To prevent you from suffering the same hideous fate, I’m going to subject you to two more stories that, although little more than boring repetitions of the already boring stories already boringly told, will ensure that you base your philosophical career on the right principles. Somebody with a handle-bar mustache who is wearing a bolo tie who introduces himself to you as “Larry.” You obviously know that “Larry” isn’t synonymous with “the guy with the handle-bar mustache who is wearing a bolo tie who is introducing himself to me right now.” (When your spouse—who we’ll call “Pat”—was first introduced to you, did you think that “Pat” was synonymous with “the well-dressed charming person with whom I’m now having a conversation”? No!)What you know is that there is a certain individual—an individual who, it is true, has a handle-bar mustache, is wearing a bolo tie, and is currently introducing himself to you—and “Larry” refers to that individual. Thus, if it is stated in a formal and perspicuous manner, what you know is:
+(LD) There is some individual x such that x uniquely has the property of being a person with a handle-bar mustache who is wearing a bolo tie who is introducing himself to me at this exact moment; and “Larry” refers to x.
+
+Thus, there is some x such that the semantic rule for “Larry” is simply:
+
+(LSR) “Larry” picks out x.
+
+A corollary is that there is some x such that, at the level of literal meaning:
+
+(LT) “Larry is a talented astrologer”
+
+is true just in case x is a talented astrologer. Thus, for some x (such that x is Larry), LT has for its meaning the threadbare proposition:
+
+(LX) x is a talented astrologer.
+
+But given the circumstances under which you learned the semantic rule for “Larry,” LT will convey the descriptively much richer proposition:
+
+(LT2) There is currently somebody in front of me who is wearing a bolo tie and has a handle-bar mustache [etc.], and that person is a talented astrologer.
+
+So what LT will have one proposition (LX) for its literal meaning, but will non-literally suggest (or, as philosophers of language say, “implicate”) some richer proposition. This second proposition is (similar to) the one meant by the sentence:
+
+(LT3) “The person currently standing right in front of me who is wearing a bolo tie and has a handle-bar mustache [etc.], and that person is a talented astrologer.”
+1.5 Our ability to distinguish literally meant from presemantically implicated content
+The following extension of our Larry-story will ram these ideas home and will also help us move onto a new and important point.
+Brown is a friend of yours who knows Larry, and Brown is at the party where you meet Larry. While you are talking with Larry, Brown utters LT to you. For reasons already discussed, there is some x (namely, Larry) such that Brown’s utterance will have LX for its literal meaning, but will non-literally impart the richer proposition (LT2).
+But—and this is the just-advertised new (and important) point—you know that LT isn’t synonymous with (LT2) or with any other such sentence. You know (at some level) that nothing having to do with bolo ties or handle-bar mustaches is any part of what is literally meant by LT.
+I don’t mean that, if you have some training in semantics, you’ll know this. I mean that you’ll know it merely by virtue of being a competent and cognitively normal speaker of English—that, merely by virtue of satisfying these minimal conditions, you know (or would readily come to know, if you thought about it) that what is literally meant by Joe’s utterance doesn’t encode any information about anybody’s wearing a bolo tie or having a handle-bar mustache.
+Here’s why I say this. If asked whether:
+
+(LSC) “Larry does not have a handle-bar mustache”
+is self-contradictory, like “squares don’t have four sides,” as opposed to merely false, like “Barack Obama isn’t the president in 2009,” you’d know right away that it’s merely false. You’d know that, although Larry happens to have such a mustache, the idea of his not having one makes perfectly good sense. And given that you speak English, you know that LSC, though false, could be true, unlike “squares don’t have four sides.”
+But if “Larry” were synonymous with “the person who uniquely has the property of being somebody in front of me right now who is wearing a bolo tie and has a handle-bar mustache,” then LSC would be self-contradictory, since it would then be synonymous with the definitionally false sentence:
+
+(LSC2)’the person in front of me right now who is wearing a bolo tie and has a handle-bar mustache does not have a handle-bar mustache.”
+
+If LSC were definitionally false, you’d know it. You’d know it for the same reason that you know that “squares do not have four sides” is self-contradictory and, for that reason, doesn’t have a meaningful role in discourse. You’d know it because your knowing it is constitutive of your ability to speak English—of your ability to use English expressions in accordance with the appropriate rules.
+You can’t necessarily articulate this knowledge. But that means little. Given how you speak and what judgments you make, it’s clear that you are guided by it and, therefore, that it’s no less known to you than your own name.
+1.6 No non-descriptive knowledge
+But—and this must be emphasized—there is no way that you can non-descriptively think about Larry (or anything else). Larry can’t just be represented to you. He must be represented as having these or those properties. Circumstances being what they are, he is represented to you as the guy currently right in front of you wearing a bolo tie [etc.].
+This doesn’t mean that you’ll always think of Larry this way. You won’t. Tomorrow, you’ll think of him as the guy who yesterday was standing right in front of you and, at that time, had a handle-bar mustache [etc.]. And if you come to be friends with Larry, that description will be replaced by others.
+But you’ll always think of him descriptively. More precisely, it will always be by virtue of your knowing the truth of some existence-claim uniquely satisfied by Larry that you’ll be able to have thoughts about him. Your being able to think about him will always consist in your knowing that something uniquely has P, where P is some property that Larry has.
+1.7 Reference-fixing vs. meaning giving
+Question: how is it that you can think of Larry as “the person in front of me right now who is wearing a bolo tie and has a handle-bar mustache,” and yet know that Larry might not have had a handle-bar mustache (or been standing right here or been wearing a bolo tie)?
+Simple. Remember what Russell said about definite descriptions. (‹The phi has psi› means ‹something or other uniquely has phi, and any such thing has psi.›) In light of this, consider the sentence:
+
+(LD1) The guy now standing right in front of me who is wearing a bolo tie and has a handle-bar mustache [etc.,] is named “Larry.”
+
+There are two ways to interpret LD1. Here’s the first interpretation, which is the correct one:
+
+(LD2) Somebody x is uniquely such that x is now standing right in front of me and x has a handle-bar mustache [etc.]; moreover, “Larry” is x’s name.
+Here’s the second interpretation, which is the wrong one:
+
+(LD3) “Larry” names anyone x uniquely such that x has the property of now standing right in front of me and x is wearing a bolo tie and has a handle-bar mustache [etc.].
+
+LD3 says that “Larry” is by definition a unique handle-bar mustache having object x such that x is standing x right in front of me [etc.]. LD2 says that “Larry” names the person who, under the circumstances, is a unique handle-bar mustache having object x such that x is standing x right in front of me [etc.]. Both LD2 and LD3 use the same description (“unique thing x such that x has a handle-bar mustache [etc.]”). But they use it in different ways. LD3 says that “Larry” by definition picks out something fitting that description. LD2 says that “Larry” picks out the thing that, as it happens, fits that description. More precisely, LD2 says that something x fits that description and the semantic rule for “Larry”—the rule that you must know to know how to use “Larry” correctly—is: “Larry” refers to x.
+So, as Saul Kripke puts it, LD2 uses that description to fix the referent of “Larry,” whereas LD3 uses it to give its meaning of “Larry. LD3 is obviously wrong, since “Larry” obviously isn’t synonymous with “the guy now standing in front of me right who is wearing a bolo tie,” or anything of the sort; and LD2 is therefore correct.
+Given that LD3 is correct, there is some x such that, at the level of literal meaning, “Larry” does nothing other than pick out x, and such that, at the level of literal meaning, ‹Larry has psi›, does nothing other than attribute psi to x. But for reasons that we’ve made clear, ‹Larry has psi› has non-literal connotations, to use John Stuart Mill’s expression, that very much affect what it conveys and also, therefore, what it is used to convey.
+1.8 Identity statements and modality
+Suppose that, a day after meeting Larry, you meet a person who is clearly wearing a disguise. (Let’s not worry about why he is wearing a disguise or why you don’t find it alarming.) That person introduces himself to you as “Oliver.” You and he then proceed to have an amicable conversation. At that point, a series of events occur that parallel those of the previous day. Your friend Brown is in attendance and joins the conversation. Brown knows Oliver; and, addressing you, Brown says:
+
+(OT) “Oliver is a talented astrologer.”
+
+Given what we’ve already said, it’s clear what the consequences are. There is some x such that the semantic rule for “Oliver” is:
+
+(OSR) “Oliver” refers to x.
+
+A corollary is that OT has for its literal meaning the descriptively impoverished proposition:
+
+(OT1) x is a talented astrologer.
+
+At the same time, given the circumstances under which you learn who “Oliver” refers to, what Brown’s utterance of OT will convey to you (non-literally) will be descriptively richer than OT and will be along the lines of:
+
+(OT2) There is some individual such that, right now, that person uniquely has the property of being a person wearing a disguise who is standing right in front or me; moreover, that person is a talented astrologer.
+But, for reasons analogous to those given earlier, you will know (at some level) that OT doesn’t have OT2 or any other comparable proposition for its meaning; you know (at some level) that nothing having to do with disguise-wearing is any part of what is literally meant by OT.
+But Oliver is Larry. You don’t know this. It just happens to be the case. Unbeknownst to you, the person you know as “Larry”—the guy with the handle-bar mustache—is identical with the guy you know as “Oliver”—the guy wearing the mask.
+There is some one individual who goes by “Larry” and “Oliver.”
+It follows that there is some one individual x such that the semantic rule for “Oliver” is:
+
+(OSR) “Oliver” refers to x,
+
+and such that the semantic rule for “Larry” is:
+
+(LSR) “Larry” refers to x.
+
+There is thus some one individual x (this being Larry) such that, given that OSR and LSR are the semantic rule for “Oliver” and “Larry” Jones respectively, and such that, consequently:
+
+(OT) “Oliver is a talented astrologer”
+
+means
+
+(OT1) x is a talented astrologer
+
+and such that
+
+(LT) “Larry is a talented astrologer”
+
+means:
+
+(LX) x is a talented astrologer.
+
+In other words, OT and LT have the very same meaning. OT1 and LT are the same proposition. And that one proposition is what is meant by OT and by LT. LT and OT mean the same thing.
+But we have a problem. OT and LT convey very different things. LT conveys:
+
+(LT2) There is currently somebody in front of me who is wearing a bolo tie and has a handle-bar mustache [etc.], and that person is a talented astrologer.
+
+OT conveys the proposition that:
+
+(OT2) There is some individual such that, right now, that person uniquely has the property of being a person wearing a disguise who is standing right in front or me; moreover, that person is a talented astrologer.
+
+LT2 and OT2 are obviously very different propositions. Neither entails the other. Neither even makes the other probable (they’re confirmationally independent of each other).
+But how can this be? How can LT and OT convey such different propositions, given that they have the very same literal meaning?
+We’ve already explained this. Semantics isn’t learned in a vacuum. It’s learned empirically, that is, through sense-perceptions, and those sense-perceptions convey a lot of information that has nothing to do with the
+semantic information that they are also conveying. To access these semantic rules, one must work through this pre-semantic, and non-semantic, information; and the result is that what is communicated by a sentence may be much richer than its literal meaning. We’ve already explained why, under the circumstances in question, these particular sentences (LT and OT1) happen to convey these particular propositions (LT3 and OT2).
+Let’s continue our story. Addressing you, your friend Brown says:
+
+(LOI) “Larry Jones is identical with Oliver.”
+
+You are surprised. After all, “Oliver” was wearing a mask, and (we may suppose) his demeanor was very different from that of “Larry Jones.” Your initial reaction is one of disbelief. But “Oliver” takes off his mask and he is indeed Larry Jones. It also turns out that this person is legally named both “Oliver” and “Larry Jones.” (We don’t have to worry about the details.)
+Let’s consider the time just before Oliver takes off his mask—the time when you are still skeptical about Brown’s claim. Letting psi be any property, obvious extensions of what we’ve already said show that, under these circumstances:
+
+(LTP) ‹Larry has psi›
+
+will convey something along the lines of:
+
+(LTP*) yesterday, there was somebody in front of me who was wearing a bolo tie and had a handle-bar mustache [etc.], and that person has psi
+
+and
+
+(OTP) ‹Oliver has psi›
+
+will convey something along the lines of:
+
+(OTP*) There is some individual such that, right now, that person uniquely has the property of wearing a mask while standing right in front of me and having a conversation with me that’s been going on for a while; moreover, that person has psi.
+
+It follows that, given the circumstances, LOI will convey much the same thing as the sentence:
+
+(DLOI) “the guy who, yesterday, was standing in front of me and wearing a bolo tie [etc.] is identical with the guy who is currently standing in front of me and wearing a mask [etc.]”
+
+We know from Russell’s theory of descriptions that the meaning of DLOI is:
+
+(DLOITD) somebody x uniquely has the property of being a person who, yesterday, was standing in front of me while wearing bolo tie [etc.], and having that property being such a person also uniquely has the property of standing in front of me right now and wearing a mask [etc.].
+
+Of course, DLOITD is not a trivial proposition. It does not say of some individual x that x is identical with x. It says something radically different. It says that some one individual uniquely has each of two very different properties.
+But remember that names are mere labels, and that, consequently, there is some x such that “Oliver” and “Larry Jones” simply label x. It follows that there is some individual x (namely, Oliver/Larry Jones) such that what is literally meant by LOI is simply:
+(LOX) x is identical with x,
+
+which, of course, is utterly trivial. But that’s ok, since the non-triviality of what LOI communicates has already been accounted for.
+1.9 Frege and Russell on proper names
+Though they lived after Mill, Frege and Russell didn’t internalize his very good analysis of proper names and chose to replace it with a deeply defective one.
+Here was their reasoning. You and a friend are looking at the last celestial body to disappear from the morning sky—your friend tells you that it’s called “Hesperus.” (You don’t know anything about astronomy, but your friend does.) Later that day, just as evening is approaching, you and he are again looking at the heavens. He points to the first celestial body that appears in the evening sky and tells you it’s called “Phosphorous.”
+Given only how they appear to you on the occasions in question, you have no way of knowing whether or not “Hesperus” and “Phosphorous” co-refer. If you had to guess, you’d probably say that they did not, given that the celestial bodies referred to by “Hesperus” and “Phosphorous” respectively were in very different parts of the sky and seemed to have quite different features, so far as you could make out their appearances.
+In the late morning, just after being told what “Hesperus” refers to, your friend tells you (correctly):
+
+(H1) “Hesperus is less massive than the Earth.”
+
+In the early evening, just after being told what “Phosphorous” refers to, your friend tells you (correctly):
+
+(P1) “Hesperus is less massive than the Earth.”
+
+Given the circumstances, H1 and P1 convey very different propositions to you. H1 conveys the proposition that would be conveyed to you by:
+
+(MS) “The morning star is less massive than the Earth.”
+
+(In this context, take “the morning star” to be an abbreviation for “the last celestial body to disappear from the morning sky” and take “the evening star” in the same way mutatis mutandis.)
+And for the same reasons mutatis mutandis, P1 conveys the proposition that would be conveyed to you by:
+
+(ES) “The evening star is less massive than the Earth.”
+
+Thus, the propositions conveyed by MS and ES are, respectively, to the effect that:
+
+(MSTD) something is uniquely a last celestial body to disappear from the morning sky, and any such thing is less massive than the Earth
+
+and
+
+(ESTD) something is uniquely a first celestial body to appear in the evening sky, and any such thing is less massive than the Earth.
+
+Obviously MSTD and ESTD are different propositions. Neither entails the other. They are confirmationally independent of each other.
+Since MS and ES convey MSTD and ESTD, it might seem to follow that MS and ES have MSTD and ESTD for their respective literal meanings. And this is just what Russell and Frege inferred.
+The Russell-Frege analysis of proper names is this:
+
+(RF) If N is a proper name of some object O, that is because N is synonymous with ‹the phi›, for some property phi that O, and O alone, has. Thus N is O’s name only because O fits the description encoded in O. Proper names are not mere labels; Mill was wrong. They are descriptive.
+
+(Note: Russell and Frege disagreed about how to analyze ‹the phi.› Frege thought that it was a referring term. Russell thought otherwise. But they both accepted RF, and that’s what’s important here.)
+So “Homer” is, in their view, synonymous with “the blind bard who authored the Iliad,” or some such, and “Shakespeare” is synonymous with “the author of Hamlet,” or some such.
+We’ve already seen why this theory is wrong and also that Mill, whose work was known to both Frege and Russell, refuted this theory. But, for whatever reason, they didn’t internalize Mill’s argument. (That happens. There are many arguments that I’ve read and that, if I had understood them, I would have seen to refute cherished positions of mine.) And, even though (unbeknownst to them) there was a cogent reason not to hold it, there were some excellent reasons to hold it. In other words, apart from the fact that it’s wrong, it’s an excellent theory—one that models the data pretty well.
+Let us state these reasons as explicitly as possible. There are basically three.
+1.9.1 Reason #1: Since conception is descriptive, and since language mirrors thought, proper names are descriptive
+Russell and Frege believed that conception is descriptive—that to think O has psi is to think the phi has psi, where phi is some property had by O and O alone.
+They were 100% right about this. For reasons to be discussed in a moment, this insight of theirs, though accepted for the first 70 years of the last century, was promptly rejected in the early 1970s (for not very good reasons).
+Here’s where they went wrong. They assumed that what is true of language must be true of thought. Thinking (rightly) that one’s concept of Socrates, if put into words, would have the form ‹the phi›, for some property phi, they inferred (wrongly) that “Socrates,” the word, must be synonymous with ‹the phi.›
+They’re wrong, as we’ve seen; and, contrary to what they thought, the descriptive nature of conception is perfectly consistent with the supposition that proper names are mere labels.
+What made it possible for them to overlook the flaws in their logic was that they focused on names of historical figures (“Homer,” “Shakespeare,” “Napoleon”) or celestial bodies (“Hesperus,” “Phosphorous”)—names that are likely to be associated with a single definite description. It isn’t likely that “Phosphorous” will stop being “the evening star.” (It could happen; there could be some cataclysm. But it isn’t likely.) And it isn’t likely that “Shakespeare” will stop being synonymous with “the author of Hamlet.“ (It’s possible; it could be discovered that Francis Bacon wrote Hamlet. But it isn’t likely.) So each of “Hesperus” and “Shakespeare” is tethered to a definite description whose aptness events probably won’t threaten.
+But this isn’t true of names of living people. Remember what we said about “Larry.” What makes it so obvious that “Larry” isn’t synonymous with “the man with the handle-bar mustache [etc.]” is that Larry might shave his mustache tomorrow; maybe he already has. And maybe I’m now at some other party and am talking to some other man with a handle-bar mustache, and it is now this other man, not Larry, to whom “the man with the handle-bar mustache [etc.]” corresponds. Since living people change and, as it were, move from definite description to definite description, it’s clear, if one focuses on the names of the living that names aren’t definite descriptions. And it’s clear for the reasons that Mill gave. But Russell and Frege focused on a different class of names, and there it is.
+1.9.2 Reason #2: Replacing co-referring proper names changes meaning
+Let’s suppose that Mill is right—that names are mere labels and are not “connotative” (descriptive). In that case, there is some object—let O be that object—such that each of “Hesperus” and “Phosphorous” simply labels O. It follows that:
+
+(H1) “Hesperus is less massive than the Earth”
+
+has the very same proposition for its literal meaning as
+
+(P1) “Phosphorous is less massive than the Earth,” namely:
+
+(O1) O is less massive than the Earth;
+
+Indeed, it follows that, for any property psi,
+
+(H*1) ‹Hesperus has psi›
+
+has the very same proposition for its literal meaning as
+
+(P1) ‹Phosphorous has psi›,
+
+namely:
+
+(O*1) O has psi.
+
+In particular, it follows that:
+
+(IHP) “Hesperus is identical with Phosphorous”
+
+has the very same meaning as
+
+(IHH) “Hesperus is identical with Hesperus,”
+
+namely:
+
+(IO) O is identical with O.
+
+But this all seems very wrong. IHP is non-trivial. H1 and P1 convey very different propositions (namely, O*1 and P*1); the same is true, for any property psi of IHP and IHH. Given these facts, it seems de rigueur to accept the Russell-Frege position that “Hesperus” and “Phosphorous” are synonymous with different definite descriptions (“the morning star” and “the evening star,” or whatnot).
+But this reasoning is no good. We’ve already seen why. But let’s adapt what we said earlier to deal with the Hesperus-Phosphorous case. Let’s go back to the time when your friend was first telling you what “Hesperus” refers to. He points to a certain celestial body x, which is clearly the last one to disappear from the morning sky, and tells you that “Hesperus” refers to that thing—that is, that “Hesperus” refers to x. Thus, there is some x such that you know that x is the last celestial body to disappear from the morning sky and such that you are now being told that the semantic rule for “Hesperus” is:
+
+(HSR) “Hesperus” refers to x. 
+Given these circumstances, an utterance:
+
+(HSR2) “Hesperus is hotter than the Earth”
+
+would convey to you the information that:
+
+(HSR3) something is a last celestial body to disappear from the morning sky and any such thing is hotter than the Earth.
+
+And HSR2 would convey this even though its literal meaning would be the descriptively more impoverished proposition that:
+
+(HSLM) O is hotter than the Earth
+
+for some object O.
+
+In general, for any psi, an utterance of (H*1) would convey the information that:
+
+(HSRG3) something is a last celestial body to disappear from the morning sky and any such thing has psi.
+
+And, echoing what we just said, an utterance of H*1 would convey that even though its literal meaning was simply:
+
+(O*1) O has psi.
+
+And for the same reasons mutatis mutandis, an utterance of P*1 would convey:
+
+(PSRG3) something is a last celestial body to disappear from the morning sky and any such thing has psi
+
+enough that the utterance’s literal meaning would be O*1.
+Russell and Frege overlooked the fact that semantics isn’t learned in a vacuum and that, as a result, the non-semantic information through which semantic rules are learned is sometimes smuggled into the messages borne by utterances.
+Reason #3: Replacing co-referring sometimes proper names changes truth-value
+A person can know that:
+
+(H1) “Hesperus is less massive than the Earth”
+
+expresses a truth without knowing that
+
+(P1) “Phosphorous is less massive than the Earth”
+
+does so as well. Many a person who knows that
+
+(IHH) “Hesperus is identical with Hesperus”
+is true doesn’t know that
+
+(IHP) “Hesperus is identical with Phosphorous”
+
+is true as well.
+This data is naturally accounted for by supposing that “Hesperus” is synonymous with “the morning star” and “Phosphorous” is synonymous with the evening star. And that’s just what Frege and Russell did suppose. But, as we’ve seen, this isn’t the right way to model the data and it isn’t the only way. The supposition that H1 (IHH) and P1 (IHP) coincide in literal meaning does model that data provided that the points concerning pre-semantic information made earlier are taken into account.
+2.0 Kripke’s revival of Mill
+In 1969, Saul Kripke gave three very clever lectures in which he definitively showed that the Russell-Frege analysis of proper names is wrong. Those lectures are now published under the title Naming and Necessity. He said many insightful things in the course of those lectures, many of which went far beyond the scope of semantics. He also said some things that are quite clearly false, but that, oddly, were nevertheless accepted and, indeed, turned into orthodoxies. Let’s start with the insightful, correct things that Kripke said.
+2.1 The modal differences between names and definite descriptions
+For argument’s sake, suppose that:
+
+(SOC) “Socrates” is synonymous with some definite description—with, let us suppose, “the great philosopher who died of hemlock poisoning.”
+
+If SOC is right, then:
+
+(1) “Socrates did not die of hemlock poisoning”
+
+would be self-contradictory, since it would mean the same thing as
+
+(2) “the great philosopher who died of hemlock poisoning did not die of hemlock poisoning.”
+
+But (1) isn’t self-contradictory at all. We could imagine its being true. Suppose that historical research reveals that it wasn’t hemlock poisoning that killed Socrates—that the poison he drank was some other sort of poisoning. In that case, (1) would be false. This may not be likely, but there’s nothing incoherent in the idea of its happening; supposing this about Socrates isn’t like supposing that squares were really circles.
+2.1.1 The modal differences between names and definite descriptions (continued)
+A related point is that:
+
+(3) “Socrates died of hemlock poisoning”
+is not analytic. (An analytic statement is one that, given only what it means, must be true. So “squares have four sides” is analytic, but “Socrates was a wrestler” is not.) But it would be analytic if SOC were right, since it would then be synonymous with:
+
+(4) “the great philosopher who died of hemlock poisoning died of hemlock poisoning.”
+
+Why isn’t (3) a tautology? Because lots of people who know who “Socrates” refers to—who know that he’s the lead character in the Republic, or whatnot—may not know that he died of hemlock poisoning. Those people are not, for that reason, guilty of some semantic deficiency; they may know as well as anyone what the semantic rule governing “Socrates” is. There is some x (namely, Socrates) such that “Socrates” refers to x, and they know that. (4) is thus an empirical point.
+2.1.2 The modal differences between names and definite descriptions (continued)
+A consequence of these points is that:
+
+(5) “it’s necessarily the case that the great philosopher who died of hemlock poisoning died of hemlock poisoning”
+
+is true, whereas
+
+(6) “it’s necessarily the case Socrates died of hemlock poisoning”
+
+is false. Even if Socrates did die of hemlock poisoning, he might not have; he might fallen off a bridge on his way to the hemlock-drinking ritual.
+For exactly similar reasons, “Benjamin Franklin” isn’t synonymous with “the inventor of bifocals.” For:
+
+(7) it’s necessarily the case that the inventor of bifocals invented bifocals”
+
+is true, but
+
+(8) “it’s necessarily the case that Benjamin Franklin invented bifocals.”
+
+Kripke’s basic point is that proper names don’t have the same modal properties as co-referring definite descriptions. The “modal status” of a sentence lies, not in whether it is true, but in whether it, or its negation, can be true. The proposition that squares have four sides is necessarily true. That is its modal status. To say that it is necessarily true is to say that it cannot be false. (1) and (2) express propositions that have different modal statuses and are therefore distinct. Thus, replacing the occurrence in (1) of “Socrates” with “the great philosopher who died of hemlock poisoning” results in a sentence that expresses a proposition different from that expressed by (1). Thus, “Socrates” isn’t synonymous with “the great philosopher who died of hemlock poisoning” or, by the same logic, with any other definite description. Given obvious extensions of this reasoning, no proper name is synonymous with any definite descriptions.
+2.2 Kripke on identity and necessary a posteriori truth
+To understand Kripke’s influential non-semantic claims, we must define four terms and also assimilate an important principle that Kripke discovered.
+2.2.1 A priori vs. a posteriori knowledge
+The first two terms are “a priori” and “a posteriori.” These expressions are adjectives, and they modify expressions denoting knowledge. A priori knowledge is knowledge that one either has, or can acquire, merely by virtue of how one’s mind is structured; it can be thought of as knowledge that is coded into one’s cognitive structure or that follows from such knowledge. When you a buy a new computer, it typically comes “bundled” with new software. A priori knowledge can be compared to such software. A posteriori knowledge is knowledge that is not a priori.
+2.2.2 Rigid vs. non-rigid designators
+The remaining two terms are “rigid designator” and “non-rigid designator.” For reasons that will emerge in due course, the distinction between rigid and non-rigid designators is meaningless unless definite descriptions are taken to be referring terms. So in this context, we’ll suppose, just as Kripke does in Naming and Necessity, that definite descriptions are referring terms.
+Consider a world W that is semantically just like ours except that, in it, Al Gore, not Barack Obama, is the U.S. President in 2009. In W, “the U.S. President in 2009” would refer to Al Gore. So even though that expression would have the semantics that it has in our world, it wouldn’t pick out the same thing that it picks out in our world. In fact, given that, in W, Barack Obama isn’t the president in 2009, if “the U.S. President in 2009” did pick out “Barack Obama” in W, it couldn’t possibly have the same semantics that it has in our world.
+But suppose that, in world W* that is distinct from both W and our world, “Barack Obama” referred to Joseph Biden. In that case, W* would ipso facto not be semantically identical with our world. In our world, there is some individual x such that x is Barack Obama and, as a matter of semantics, “Barack Obama” refers to x. And any language in which “Barack Obama” picked somebody else would to that extent semantically diverge from the specific version English actually spoken (even if it was otherwise just like it). Given that “Barack Obama” refers to Barack Obama, it couldn’t possibly fail to refer to him in a world that is semantically like ours. It could fail to refer to him only in a world where expressions were not in all cases governed by the semantic rules that govern them in our world.
+“Barack Obama” is a rigid designator. E “rigidly designates” x if there is no possible world that is semantically just like ours where E fails to designate x. Proper names are rigid designators. Definite descriptions are not. “The inventor of bifocals” refers to Bob Denver in some possible worlds, to Walt Disney in others, and so on.
+Sometimes demonstrative expressions (e.g., “that person”) are described as “rigid designators.” The reasons for this are explained in Chapters 6 and 9. Suffice it to say that they are not rigid designators. In fact, they are about as non-rigid as designators can be. “The inventor of bifocals” is non-rigid in the sense that there are possible universes in which it refers to people other than Benjamin Franklin. But “that person” refers to many different people in our world.
+2.3 Identity and necessity
+Suppose that x and y are contingently identical—that, in other words, they’re identical but they don’t have to be. By Leibniz’s law, x and y have the very same properties. Obviously x is necessarily identical with x. Therefore, y has that property as well and, contrary to what we assumed, is necessarily identical with x.
+In general, identities hold necessarily if they hold at all. It isn’t a contingent fact that you are identical with you. If you exist, you can’t fail to be you.
+Some sentences seem to be counterexamples to this; for example, “the person standing over there is the person who owns the ice-cream store down the street.” But that isn’t really an identity claim. We know from Russell that its real meaning is: “something is both a person standing in that corner, unaccompanied by other people, and is also a sole proprietor of the ice-cream store down the street.” Given any apparent exception to
+the principle that, when it holds, identity holds necessarily, reparsing that sentence shows it not to be an identity claim.
+A sentence of the form “A is identical with B” expresses an identity claim only if “A” and “B” are rigid designators. Thus:
+
+(IHP) “Hesperus is identical with Phosphorous”
+
+is an identity claim. And so is
+
+(WH) “water is H2O”
+
+and so is
+
+(MT) “Mark Twain is Samuel Clemens.”
+2.4 Why Kripke believes that there are necessary a posteriori truths
+Kripke made it clear that “Hesperus” isn’t synonymous with “the morning star” or with any other non-rigid designator, and he showed the same thing mutatis mutandis to be true of “Phosphorous.” Given that Hesperus is Phosphorous, Hesperus can no more fail to be Phosphorous than it can fail to be Hesperus. So given that it holds, IHP holds necessarily.
+Kripke says that “IHP” encodes an a posteriori truth. The idea is that it can’t be known a priori that IHP (or any other synonymous sentence) is true. It can be known only through astronomical observation. Given that IHP is necessarily true, it follows that IHP is both necessary and a posteriori.
+2.5 Evaluating Kripke’s attempt to show that there are necessary a posteriori truths
+This is not a good argument. We made it clear earlier in this chapter that, although it doesn’t have such a claim for its literal meaning, IHP communicates a proposition of the form the phi is identical with the psi. In other words, it (non-literally) communicates a proposition of the form: something uniquely has phi, and anything that has phi also uniquely has psi.
+So IHP communicates a contingent truth. It communicates, as we saw, the proposition that is expressed by the sentence:
+
+(MS) “the last celestial body to disappear from the morning sky is identical with the first to appear in the evening sky” (which we’ve abbreviated as: “the morning star is identical with the evening star”).
+
+The proposition meant by MS is:
+
+(MSP) something is uniquely a last body to disappear from the morning sky, and anything having that property also uniquely has the property of being a first thing to appear in the evening sky.
+
+MSP is a posteriori. But it’s also contingent. It wouldn’t be true if matter were differently distributed.
+Kripke is quite right that IHP has a necessarily true proposition for its meaning. But that proposition is also analytic and knowable a priori.
+Here’s why. We’ve agreed with Kripke that, for any property phi, “Hesperus” isn’t synonymous with ‹the phi.› And we’ve also agreed with Kripke, and with commonsense, that “Hesperus” is a referring expression—
+that, in other words, there is some object x such that “Hesperus” picks x out. Trivially, either “Hesperus” picks out this object through the mediation of a description or it doesn’t. In other words, supposing that O is what “Hesperus” picks out, it either is, or is not, by virtue of O’s fitting some description that “Hesperus” picks out it. If it is, then “Hesperus” is ipso facto a non-rigid designator—a definite description. For supposing that the description that O must satisfy is unique thing having phi, “Hesperus” must be synonymous with ‹the phi.› But we know, from Kripke himself, that “Hesperus” is not synonymous with any such expression. So “Hesperus” does not refer to O through the mediation of a description. It picks O out—but not because it has this or that property. It picks it out because the semantic rule for “Hesperus” is to the effect that, no matter what properties O has, “Hesperus” is to pick it out—because, in other words, “Hesperus” picks out O, this not being contingent on O’s satisfying any condition (other than its being O). Thus, there is some object x (namely, O) such that the semantic rule for “Hesperus” is to the effect that, no matter how O is, “Hesperus” picks it out. In other words, “Hesperus” picks out O directly. It is directly referential.
+A consequence is, for some object x (such that x is Hesperus) such that, in virtue of having the form, ‹Hesperus has psi›, a sentence is true if and only if x has phi. For exactly similar reasons, “Phosphorous” is directly referential. It co-refers with “Hesperus.” Thus, there is some object x (such that x is Hesperus and Phosphorous) such that, in virtue of having the form, ‹Hesperus has psi›, a sentence is true if and only if x has phi and such that, in virtue of having the form, ‹Phosphorous has psi›, a sentence is true if and only if x has phi. Thus, ‹Hesperus has psi›and ‹Phosphorous has psi› have the very same literal meaning. In general, inter-substituting “Hesperus” and “Phosphorous” doesn’t change literal meaning. (This is entirely consistent with the fact such inter-substitutions may dramatically change suggested meaning, the reason being that one may learn what those two words refer to under very different circumstances and thus in connection with very different bodies of descriptive data. The way the “referent is fixed” will obviously affect the connotation of sentences containing the word in question, even though it won’t affect the literal meanings of such sentences.) Given that such inter-substitutions preserve meaning, it follows that:
+
+(IHP) “Hesperus is identical with Phosphorous”
+
+has the same literal meaning as
+
+(IHH) “Hesperus is identical with Hesperus”
+
+(even though, given how it is typically made known what these words refer to, they have very different non-literal connotations). We’ve agreed that, for some x, each of ‹Hesperus has psi› and ‹Phosphorous has psi› is true just in case x has phi. It follows that, for some x, each of IHP and IHH is true just in case x has the property of being identical with x. Thus, for some x, IHP means:
+
+(XSI) x is x.
+
+And XSI is an analytic, a priori knowable proposition if ever there was one.
+There is no a posteriori necessary truth. It appears otherwise only if one fails to distinguish sentences from the propositions that are their meanings. The gulf between the two can be large. This is but another example of the fact that metaphysics can’t be read off of sentential structure. Kripke’s disregard for this shibboleth of analytic philosophy comes as a shock. But that shock is nothing compared to the one we’re in for.
+3.0 A cure for Salmonella
+Kripke (1979) wrote an article in which he put forth a new argument (one not stated in Naming and Necessity) as to why the Russell-Frege analysis of the non-triviality of IHP fails.  is a monolingual speaker of French. He reads many books about  (which he knows as “Londres”). On the basis of the information
+contained in those books, he draws the rational inference that  is a beautiful city. Expressing this belief, he says:
+
+(1) “Londres est jolie.”
+
+It is to be emphasized that, given the data at his disposal, it is rational of  to accept (1).
+Our story continues.  is kidnapped and forced to live in a terrible part of . He doesn’t know that he’s living in the city known to him as “Londres.” He learns English, but he learns it as one learns a first language. In other words, he doesn’t learn what English words mean by learning what their French translations are—he learns them the way that a native speaker of English learns them. He learns what “snow” means, not by learning that it co-refers with “neige,” but by learning a certain crystalline substance that falls on rooftops in the winter is called “snow.” And he learns what “” refers to in the same way. Given the data at his disposal, it is rational of  to believe that the sentence:Pierre
+
+(2) “ is not pretty”
+
+expresses a truth—a truth to the effect that the city he is living in is not pretty. And  does assent to it, and he utters that very sentence, knowing what it means.
+Of course, (2) is the (English translation of the) negation of (1).
+“” is the translation of “Londres.” So if “” is synonymous with some definite description—with, let us suppose, “the most populous city on the ”—then “Londres” is synonymous with the French translation of that definite description. But if that were the case, then (1) would mean the same thing as:LondonThames
+
+(1R) “the most populous city on the  is pretty”Thames
+
+and (2) would be mean the same thing as:
+
+(2R) “the most populous city on the  is not pretty.”Thames
+
+ clearly isn’t in the same category as somebody who accepts both (1R) and (2R). So even if, as Russell and Frege thought, “” was synonymous with some definite description, that wouldn’t explain the fact that (1) and (2) communicate such different propositions. In other words, it would fail to account for the cognitive values of those sentences. (The “cognitive value” of a sentence is what it communicates.) Since the whole point of the Frege-Russell theory that proper names are (abbreviated) definite descriptions is to account for the cognitive values of sentences containing proper names, that theory fails to do what it’s supposed to do.
+3.1 A cure for Salmonella (continued)
+But Kripke’s parable exposes a problem much more profound than anything having to do with the semantics of a proper name. It’s a datum that  understands each of (1) and (2), that he assents to each, and sincerely utters each. So it’s a datum, or follows from data, that  is rationally accepting some sentence and its negation.
+This seems like a problem. A paradox. What’s the solution?  is rational. No denying it. And  understands each of (1) and (2). No denying that either. (To be sure, he doesn’t know as much about the thing that is referred to as “”/”Londres” as some other people. But so what? If I know who it is that “Larry” refers to, then I know the semantics of “Larry.” Obviously I don’t know who Larry is as a person as well as his therapist. But I know the semantics of “Larry” every bit as well.)
+Kripke says that he doesn’t know how to solve the problem. He says only that he’s inclined to suspect that “the apparatus of propositions breaks down here.” He doesn’t say what he means by this. Nor does it matter, since, whatever it means, it’s false, as we’ll see.
+Nathan Salmon says that, given Kripke’s parable, it follows that, at a given time, one can rationally accept a proposition and its negation.  would be rational, given what we’ve said so far, to believe that “Londres ≠ ” is a true sentence. Thus, there is some x (namely, ) such that, according to Salmon,  can rationally believe that: x ≠ x—that is, that x is not self-identical. Thus, Salmon’s position is that one can rationally believe that  is not self-identical—that, in fact, any given object is not identical with itself.PierreLondon
+3.2 Why, contrary to what Nathan Salmon ways, it is not rational to believe both P and not-P
+Salmon’s solution is not only desperate, but utterly incoherent. What is rationality? It’s the ability to draw the consequences of the information at one’s disposal. No truth is a consequence of its own negation, and every truth is incompatible with its own negation. Given that P and not-P is always false, it can never be rational to accept it or, therefore, to infer it. Salmon’s position is inconsistent with the very meaning of the word “rational.”
+Salmon sometimes defends his position by saying that one can rationally accept P and not-P only if one doesn’t know that what one is accepting is a proposition and its negation. But this makes no sense. You are irrational if you believe P and not-P or if you grasp both P and not-P and yet fail to generate the additional belief that they’re inconsistent with each other. For acceptance of P and not-P to be rational, it would be necessary that the data at your disposal not make it clear that you were accepting some proposition and its negation, which would be possible only if you didn’t know what it was you were accepting. And this seems to be what Salmon holds.
+But, contrary to what Salmon evidently thinks, you can’t accept a proposition without knowing what it is. The counterexamples to this are spurious. Suppose that Smith believes anything that he believes Jones to believe. If Jones believes that  is the capital of , does it follow that Smith also believes it? No. What follows it is if Smith were to know that Jones believed it, then Jones would believe it. In order to accept a proposition, it is not enough that it be described to you. You must actually grasp it. Another story will make this clear.Lima
+Person X is never convinced of anything unless it actually is true. This has been verified, and I know this. Smith and I have a mutual friend, Green, who has been missing for the last three weeks. One day Smith tells me that he knows where our friend Green has been for the last three weeks. I have no idea where Green has been. I couldn’t even guess. But Smith doesn’t tell me where Green has been—only that he knows where he’s been. So there is some proposition P such that, if correct, P says where Green has been and such that Smith accepts P. I know that whatever it is that Smith believes about Green’s whereabouts is correct. But do I, under these circumstances, accept the proposition that identifies his whereabouts? No. If I were told what that proposition was, I would accept it. But I do not now do so. I don’t know what the right value of P is.
+Suppose that, as Smith knows, Green has been in  for the last three weeks but that I’m not told this. Under these circumstances I don’t accept the proposition: Green has been in  for the last three weeks. I would accept it if I knew that Green accepted it. But I don’t yet know this, and I don’t yet accept it. The proposition that I do accept is this: I know that, whatever Smith believes to be the proposition describing Green’s whereabouts over the last three weeks, that proposition must be correct. But that proposition is very different from Green has been in  for the last three weeks. And I don’t yet accept the latter.
+What this shows is that one cannot accept a proposition without knowing that one is doing so. When it seems as though one does this, one accepts some distinct proposition that describes some unknown proposition. If you accept a proposition, you know it. So if, for some P, you accept both P and not-P, you know it. But if you know it, you’re not rational, since anyone who makes a faulty inference is ipso facto irrational (to that extent), and any inference whose conclusion is P and not-P is ipso facto faulty. 
+3.2.1 Why, contrary to what Nathan Salmon says, it is not rational to believe both P and not-P (continued)
+Salmon was driven to accept this preposterous view by his failure to take into account even the most basic points concerning the relationship between thought and language.  doesn’t learn what “” refers to in a vacuum. He is air-dropped into a horrible part of a certain city. There is garbage all around. His captors are rude to him, and so are the people with whom his captors associate. (The only Londoners with whom ’s captors consort are, uncharacteristically for Londoners, not very nice people.) He is then told: “Welcome to ! This is your new home.” Let us suppose, in fact, that one of his captors is a philosopher of language who, like all those in that field, has a penchant for making things explicit. So, when first introducing  to his new home, he says: “there is a certain city x, such that x is the city you are now occupying— this being the city whose dirty, garbage-ridden streets you are now beholding—and such that ‘’ refers to x.”Pierre
+What  is being told, in being told this, is something along the lines of:
+
+(L1) there is some vile, squalid, garbage-infested city x such that I am now in x and such that I was dragged here against my will and such that, because of x’s obvious horridness, I am now depressed; moreover, “” refers to x.
+
+An inevitable consequence of the fact that these are the circumstances under which  learns what “” refers to is that what an utterance ofPierre
+
+(2) “ is not pretty”
+
+would impart (not semantically encode) is something along the lines of:
+
+(L2) there is some vile, squalid, garbage-infested city x such that I am now in x [etc.] and such that “” refers to x; moreover, x is not pretty
+
+and, in general, that for any property psi
+
+(Ln) ‹London has psi›
+
+would impart (not semantically encode) something along the lines of:
+
+(L*P2) there is some vile, squalid, garbage-infested city x such that I am now in x [etc.] and such that “” refers to x; moreover, x has psi.
+
+We’ve already made it clear why, even though Ln would convey L*P2,  wouldn’t be under any illusions as to what the former literally means. It’s also obvious that, since it’s through L1 that  knows what “” refers to, it is rational of him to accept (2).Pierre
+Let’s think back to the time when , not yet having been abducted, was still in . As we’ve said,  has a lot of information about the city he knows as “Londres” and he draws the only reasonable inference that, given that information, he can draw; namely, that it is a pretty city. For he has read in various books that he knows to be authoritative that:Pierre
+(##) There is a certain city x such that x is more populous than any other in Britain, such that is the Capital of Britain, such that there are beautiful buildings in x, such that x’s streets are generally very clean, there isn’t much violent crime in x, there are beautiful buildings in x, etc.; moreover, “Londres” refers to x.
+
+Given that it is through some proposition along the lines of ## that  knows what “Londres” refers to, it is inevitable that an utterance of:
+
+(1) “Londres est jolie”
+
+would convey to him something along the lines of:
+
+(##^) There is a certain city x such that x is more populous than any other in  [etc.] and “Londres” refers to x; moreover, x is pretty.
+
+And given that (1) communicates (##^) to , it’s clear, given the information at his disposal, that he’s rational to accept (1).
+Here’s what’s going on.  knows what “” refers to and he also knows what “Londres” refer to. He doesn’t know that they refer to the same thing, since the body of descriptive information that he uses to attach “” to the right thing is different from the body of descriptive information that he uses to attach “Londres” to that thing. This is consistent with the supposition that he knows what “Londres” and “” refer to. (I may not know that my friend Smith is also the masked bandit and, therefore, that “the masked bandit” refers to Smith. But I know who “Smith” refers to—he refers to my amicable next-door neighbor. And I also know who “the masked bandit” refers to—it refers to the cape-wearing buffoon frequently featured on the evening news.) Given that  speaks both French and English, he understands (1) and (2). He rationally assents to both, even though the one is the negation of the other. This is not because he ratio-nally accepts some proposition and its negation. Nor is it because “the apparatus of propositions breaks down,” whatever that means. No—it’s because, given the information through which he learned the relevant semantic rules (the ones that, for some x (namely ), are to the effect that “Londres” refers to x and that “” refers to x), (1) and (2) communicate very different propositions to . Those propositions don’t entail each other, and they are, in addition, supported by very different bodies of data.PierreLondonLondon
+There is no proposition that  both accepts and rejects. Salmon is just plain wrong to think otherwise. And his contention that one can rationally accept propositions and their negations involves a number of rather obvious fallacies. First, sentences are not propositions. Suppose that sentence S1 encodes proposition P1 and that sentence S2 encodes the negation of P1. Given only that information, it doesn’t follow that a person who understands S1 and S2 can’t rationally accept both of those sentences. For it could be that, given the information through which that person learned the relevant semantic rules, the propositions conveyed to him by those sentences could both be true. Salmon agrees that, given only that the proposition encoded in the one sentence is the negation of the proposition encoded in the other, one can rationally accept both sentences. But he thinks this is because one can rationally accept propositions that are inconsistent with each other; Salmon thinks that one accept the propositions P and not-P without being irrational. This is a deeply irrational belief. Irrationality is acceptance of incoherencies, such as P and not-P.
+Salmon holds, correctly, that  is rational in accepting both (1) and (2). According to Salmon, it follows from this that  is rationally accepting some proposition and its negation. But that would follow only if what (1) and (2) conveyed to  were confined to what they literally mean. But what sentences convey isn’t always confined to what they literally mean. It’s seldom confined to it. (See Chapters 9 and 18.) Every semanticist knows this. It’s unclear why Salmon doesn’t know it or why, if he does, he didn’t see its bearing on this issue.
+3.3 Some final remarks on Frege’s conception of reference: Frege’s distinction between sense and reference are a distortion of the distinction between pre-semantics and semantics
+We’ve seen that if a proper name N refers to some object x, then, in virtue of having the form ‹N has psi›, a sentence S is true just in case:
+
+(i) x has psi.
+
+It immediately follows, as we’ve noted, that Frege’s analysis of proper names is false. According to Frege, proper names, and indeed all referring expressions, have “senses.” If a referring term M refers to y, M’s sense is some property phi that y uniquely instantiates. And, if Frege is right, in virtue of having the form ‹M has psi› a sentence S* is true just in case:
+
+(ii) phi is uniquely instantiated; moreover, any such instance has psi.
+
+No sooner is Frege’s analysis made clear than its incoherence is plain to see. (ii) is an existential generalization, and the reason for this is that it contains what Frege regards as a referring term. Thus, if Frege’s analysis of proper names is right, they are semantically indistinguishable from existential quantifiers and, therefore, are such quantifiers. But Frege says they’re referring terms. Since, therefore, Frege’s position is, in effect, that proper names both are and are not quantifiers, it is incoherent.
+3.3.1 Indirect reference = quantification = non-reference, direct reference = only true form of reference
+Frege’s position is that names refer indirectly. In other words, they refer through the mediation of a sense, and that sense is what makes it into the propositions meant by sentences containing those names. The referents of those names don’t make it into those propositions. By virtue of containing proper names of those objects, sentences containing those names merely describe their referents. But we’ve just seen that “indirect reference” is really just quantification.
+Frege’s distinction between “sense” and “reference” is an incoherent way of describing the distinction between semantics and pre-semantics. There is some entity O, namely , such that the proposition literally meant by 2 is true just in case:
+
+(ONP) O is not pretty,
+
+but such that, because of how  learned what “” refers to, what 2 conveys to him is (L*P2).Pierre
+Frege would have said that the sense of “” is some property uniquely had by  (e.g., the property of being a city that is vile, squalid, etc.). But that isn’t true. One’s knowing what “” refers to consists in there being a property phi—it doesn’t matter which one—such that one knows that phi is uniquely instantiated and that “” refers to any instance of it. There is no one property phi such that one’s knowing of what “” refers to consists in one’s knowing that phi specifically is uniquely instantiated and that “” refers to an instance of it.LondonLondonLondon
+And yet Frege constantly speaks of the sense of “Socrates,” “,” etc. Although this view is patently false, Frege has a good reason for holding it. He thinks that if “” had as many senses as there were people who knew what it referred to, then “” would be useless as a device of interpersonal communication. When I said “ is pretty,” I’d mean one thing (e.g., the most populous city in the  is pretty) and what you’d mean by that sentence would be something else (e.g., the city where grandma lives is pretty).LondonLondon
+But we’ve already seen why this is spurious. There is some x such that I know that x is the most populous city in  and such that I know that “” refers to x and, finally, such that, when I say “ is pretty,” what I am affirming, and what other English-speaking auditors (who know that I speak English) know me to be affirming, is:EnglandLondon
+
+(LP) x is pretty.
+
+And there is some x such that you know that x is where your grandmother lives and such that “” refers to x and, finally, such that, when you say “ is pretty,” what you are affirming, and what other English-speaking auditors (who know that you speak English) know you to be affirming isLondon
+
+(LP) x is pretty.
+
+So while it’s a fact that “” has one sense for me and a different sense for you, that doesn’t prevent us from using it to make ourselves understood to each other. And the reason is that these senses don’t make it into what we are affirming or what we believe ourselves to be affirming.
+Bearing these points in mind, let’s wrap up our discussion of .  has a thorough grasp of the semantics of “.” For him, the sense of “” is a squalid and horrible city where my kidnappers have forced me to live, or some such. There are others who grasp the semantics of “” but don’t associate that property with that expression. The sense of “” varies from person to person. (We’ve just explained why this does not undermine people’s ability to use that expression to make themselves understood to others.) This is because what the sense of “” is for a given person depends, not on its literal meaning, but on the information through which that person grasps that literal meaning. Sense, therefore, is pre-semantics, not semantics.Pierre
+3.4 Salmon on non-existence and mythical objects
+Nathan Salmon holds that one can say of a given thing x that x exists or that it does not exist. Indeed, Salmon says that one can correctly say of a given thing x that x does not exist. Of course, for one to correctly say of a given thing x that it doesn’t exist there must exist some thing such that one is correctly saying of it that it doesn’t exist. So there must exist something that doesn’t exist. Since this isn’t possible, Salmon is wrong.
+But arguments like the one just given have been around since Russell first produced them over a hundred years ago; and Salmon, being a devotee of Russell’s works, is well aware of these arguments. So why does he hold that one can correctly attribute non-existence and existence to objects?
+Salmon has a couple of reasons. The sentence:
+
+(1) “Socrates is Socrates”
+
+doesn’t mean the same thing as
+
+(2) “Socrates is the main character in most of Plato’s dialogues.”
+
+Thus, “Socrates” isn’t synonymous with “the main character in most of Plato’s dialogues” or, by obvious generalizations of this argument, with any other definite description. This argument, duly generalized, shows that proper names are not in general synonymous with definite descriptions. From this it follows that proper names are mere labels. “Socrates” no more describes “Socrates” than your social security number describes you.
+Definite descriptions describe their referents. To be referred to by “the tallest person in the room,” you have to have certain characteristics. You must uniquely be a tallest person in the room. If a taller person walks in the room, that expression won’t pick you out. But, whatever your name is, there isn’t any way you have to be
+for that expression to pick you. It doesn’t matter how tall or short you are; what your job is; etc. Thus, names are mere labels.
+It follows that, if you say “Bill Jeffries is tall,” there is some individual x such that “Bill Jeffries” refers to x and such that for your statement to be true, it is necessary and sufficient that x be tall—it being entirely irrelevant what other properties x has. The same thing mutatis mutandis obviously holds with respect to “Socrates,” “Winston Churchill,” etc.
+Thus, if N is a proper name (that isn’t a make-believe name or is otherwise one that doesn’t pick anything out) and psi is any property, there exists some object x such that ‹N has psi› is true iff x has psi—it being irrelevant what other properties x has or lacks.
+But now we have a problem. “Winston Churchill” isn’t an “empty” (non-referring) name. It isn’t in the same category as “Rooster Cogburn.” And “Winston Churchill was bald” is meaningful. But Churchill no longer exists. Thus, there does not exist an object x such that “Churchill” refers to x.
+Some people deal with this by trying to revive the idea that proper names are definite descriptions. But this isn’t a good idea, since the arguments just given are clearly probative. Salmon rightly avoids this path. Others deal with it by saying that, since existence is “four-dimensional,” nothing ever ceases to exist. But Salmon rightly rejects this tortured and implausible view.
+Unfortunately, the way Salmon deals with the problem is no more plausible than the two views that he rightly rejects. Salmon says that it is meaningful to say of a given thing (e.g., Churchill) that it doesn’t exist. Salmon’s position is that “Winston Churchill” does have a referent—a non-existent one.
+If Salmon were right to say that one could say of specific non-existent things that they were non-existent, it would follow that one could say of specific non-existent things that they were existent. If a proposition can be affirmed, so can its negation. (Of course, one couldn’t correctly say of a given non-existent thing that it existed. But one could still say it—just as one can say, albeit falsely, that Barack Obama is eight-feet tall.) For similar reasons, it would follow that one could meaningfully (though, of course, falsely) say of a given existing thing that it didn’t exist and also that it did exist.
+Of course, in saying that “Winston Churchill” has a non-existent referent, Salmon is saying that there exists something x such that “Winston Churchill” refers to x and such that x doesn’t exist. And, of course, that statement is self-contradictory—so far as, given the points made earlier, it isn’t completely meaningless. For some reason, Salmon isn’t bothered by the consequence of this theory.
+Salmon is quite right to hold that proper names are mere labels. But, contrary to what he thinks, that fact doesn’t license his desperate and incoherent views about existence. Consider the sentence:
+
+(S1) “JMK plays tennis.”
+
+This sentence is meaningful. In other words, there is some proposition that it expresses. Let P1 be this proposition. We’ve seen that there is some x such that “JMK” refers to x such that S1 is true just in case x plays tennis—that, in other words, P1 is true iff x plays tennis. Salmon knows this, and he concludes from this that JMK is a veritable constituent of P1. In other words, there is some proposition that I am actually a part of. This is a very contrived view, given that I’m a spatiotemporal entity, whereas propositions are not.
+In any case, it isn’t the right view. Under what circumstances is P1 true? First of all, the property of being a tennis player must be instantiated. (If nobody plays tennis, P1 is false.) For obvious reasons, it’s also necessary that the property of being identical with JMK be instantiated. Let PTP and PJMK be the property of being a tennis player and the property of being identical with JMK, respectively. Finally, let PJMT be the property of being identical with JMK and being a tennis player.
+Supposing that P# is the set containing PTP, PJMK, and PJMT, and not containing anything else, the members of P# are collectively instantiated if and only if P1 is true. There is thus no reason not to say that P1 is P# and that for P1 to be true is for all of P#’s members to be instantiated.
+The property of being identical with JMK will exist even after I no longer do, and it existed before I was born. It wasn’t until I was born that PJMK was instantiated; and when I die, it will cease to be instantiated. But that’s irrelevant: properties pre-exist and post-exist their instances.
+This analysis is consistent with the view (held by Salmon and myself) that “JMK” refers to me, not by describing me, but just by labeling me. Supposing, as we are, that P# is identical with P1, S1 has exactly the truth-conditions that Salmon believes it to have. There is some x (namely, JMK) such that for P1, as we’ve analyzed it, to be true, it is necessary and sufficient that:
+
+(TCS1) x likes tennis
+
+After I die, there won’t exist an object of the kind just described. But that’s irrelevant. After I die, P1 won’t be true; it will be false to say, at that point, that JMK plays tennis, the reason being that, sadly, he won’t be doing anything. But our analysis is consistent with that. After I die, PJMK won’t be instantiated.
+It will be true at that point that JMK did play tennis. But our analysis is consistent with that fact as well.
+The sentence:
+
+(S2) “JMK used to play tennis”
+
+says the same thing as:
+
+(S3) the proposition that JMK plays tennis used to be true.
+
+According to our analysis, S3 is true iff PTP, PJMK, and PJMT used to be collectively instantiated. And if uttered after my passing, S3 will be true exactly if, at the time of that utterance, those three used to be instantiated. Exactly similar points hold of the propositions expressed by “Churchill was bald,” “Socrates couldn’t read,” etc. Given each of these propositions, Salmon says that it contains a non-existent object. Salmon also says that each of these sentences has a “non-existent proposition” for its meaning. He grants that “Churchill was bald” is meaningful and, therefore, that it encodes a proposition. But he says that this proposition doesn’t exist. So that sentence is meaningful by virtue of encoding a non-existent proposition.
+This is disastrous—and unnecessary. Unlike Salmon’s analysis, ours doesn’t require that there exist anything that doesn’t exist. Ours doesn’t require any violations of logic or commonsense. Our analysis makes only three demands: (i) that there is such a thing as being me; (ii) that to be such a thing as being a tennis player; and (iii) that there be such a thing as me playing tennis. Each of those demands is met.
+I happen to be a Platonist, and I happen to think that each of those three things is a non-spatiotemporal object. But that’s irrelevant. This analysis goes through as long as those three things exist. It doesn’t matter how they’re thought of.
+Salmon doesn’t even consider anything like this analysis. Instead, he holds that, since proper names are labels, it follows more or less directly that there exist things that don’t exist. But surely it’s a very bad idea to throw out the most basic principles of logic and to overhaul our most basic beliefs about reality, just so as to validate some semantic result concerning a certain class of nouns. Moreover, Salmon’s way of validating that fact isn’t even the right one, since, as we’ve seen, that fact is easy to validate within a framework that is entirely congenial to commonsense and its philosophical derivatives.
+Salmon has another, similar reason for holding that one can meaningfully say of a given non-existent object that it exists (or that it doesn’t) and also that one can meaningfully say of a given existent object that it doesn’t exist (or that it does). It’s obvious that:
+
+(ZA) “Zeus is very angry right now”
+
+isn’t in the same category as “blarg blurbo gloxo.” Utterances of ZA communicate propositions. We don’t believe the proposition communicated by such utterances. But all that is relevant here is such that utterances do in fact convey propositions.
+Note: ZA is a sentence of English. But it will help if, whenever necessary, you let ZA represent its Ancient Greek translation.
+There was a time when people actually believed ZA (or its Ancient Greek equivalent rather). There may be people who believe it to this day. In general, there are proper names that don’t refer to anything. Here I’m not referring to names, such as “Socrates,” whose referents died long ago. I’m referring to genuinely “empty” names.
+Supposing that N is an empty name, one would think that:
+
+(NS) ‹N is a fierce warrior›
+
+would fail to convey anything—that, so far as what it communicates is concerned, it would be in the same category as:
+
+(ES) “__ is a fierce warrior.”
+
+But this isn’t the case. A story will make this clear. Your friend Smith, who is generally pretty credible, tells you a story about a friend of his who has the unusual name of “Gigantus.” You don’t know Gigantus. When Smith first tells you about him, he says:
+
+(SG) “My friend Gigantus is truly extraordinary. Gigantus was the first person to translate the complete works of Shakespeare into Albanian. Gigantus used to be a professor, but he now lives in the woods. He actually lives in a hollowed out tree trunk. For a while he was the best paid male model in  [etc.].”Europe
+
+Smith entertains you with stories about Gigantus for several weeks. Of course, these stories are replete with statements of the form ‹...Gigantus...› (e.g., “Gigantus recently read War and Peace,” “You’d really like Gigantus if you met him,” etc.). It goes without saying that, at least from your viewpoint, these statements aren’t like ES, let alone “blarg blurbo gloxo.” They’re quite as meaningful as “Socrates was a fine orator.”
+Then one day Smith tells you that there is no Gigantus. Smith made him up. It was all a hoax. There is no individual x such that “Gigantus” refers to x. It follows that:
+
+(GW) “Gigantus recently read War and Peace”
+
+fails to have a proposition for its literal meaning. So far as that sentence (or pseudo-sentence) has a meaning, its meaning is comparable to ES’s. (It’s meaning, it would seem is a propositional function, viz. __ recently read War and Peace.) So how are we to explain the fact that, as far as what it communicates is concerned, GW is in the same category as “Socrates was tall,” as opposed to “blarg blurbo gloxo”?
+Here is my answer. When you first encountered it, the name “Gigantus” was embedded in SG. (Remember that SG was told to you by your friend Smith.) It immediately follows that, when you first heard GW, what that utterance communicated to you was some message quite a bit richer than its (as it turns out, nonexistent) literal one. What that utterance of GW communicated to you was along the lines of:
+
+(GWC) There exists a certain extraordinary individual x such that “Gigantus” is x’s name, such that at this moment my friend Smith is telling me about x, such that x lives in the woods in a hollowed tree-trunk, even though x used to be a professor [etc.]; moreover, x recently read War and Peace.
+
+GWC is not GW’s literal meaning. This cannot be emphasized enough. But it is what, because of your circumstances, GWC conveys to you.
+The point is that, even though GW doesn’t have any proposition for its literal meaning, there is no difficulty accounting for the fact that, empty of literal meaning though they be, utterances of it are replete with non-literal communicated meaning. We’ve already seen why much of what sentence-utterances communicate isn’t literal meaning—why much of it is really pre-semantic content that reflects the idiosyncrasies of our knowledge of semantics and that we have some tendency to mistake for semantic content.
+Nowhere in all this did we suppose that “Gigantus” is synonymous with a definite description. We didn’t have to make that supposition to account for the data. Nor would it have been advisable for us to do so. “Gigantus” isn’t a definite description. It’s a proper name, albeit an empty one. Whatever it is that utterances of ‹...Gigantus...› might communicate, it isn’t because “Gigantus” is a definite description that they communicate it.
+Notice that our analysis is a very conservative one. We didn’t posit any new entities. We didn’t assume facts not in evidence (e.g., we didn’t presuppose the truth of any uncorroborated hypotheses or otherwise prejudge open questions).
+Now let’s look at what Nathan Salmon says about empty proper names, like “Gigantus.” He says that socalled “empty” proper names aren’t empty. He says that “Zeus” does refer to a Greek God. He says that “Vulcan” does refer to an actual planet. (“Vulcan” was the name given by astronomers in the 19th century to a planet that they posited, but that turned out not to exist.) Salmon concedes that Zeus and Vulcan don’t exist in space-time. If you flew around the solar system, you’d never come across Vulcan; if you climbed , you’d never see Zeus. But they do exist—they exist, Salmon says, as abstract entities. 
+Salmon’s primary reason for accepting this view is that, since he thinks that names are mere labels, he (rightly) doesn’t see it as an option to see “Vulcan” and “Zeus” as being synonymous or identical with definite descriptions. But he finds it puzzling that, for any psi, utterances of ‹Zeus has psi› and ‹Vulcan has psi› are so rich in communicated meaning. He doesn’t consider the proposal that we put forth a moment ago, and instead tries to solve the problem by saying that, in fact, “Vulcan” and “Zeus” do refer to things.
+This isn’t necessary. It’s also pointless. What is communicated by sentence-utterances of the form ‹Joseph Biden has psi› and ‹Charles Keating has psi›, and other sentence-utterances containing no non-empty names, diverges dramatically from what such utterances literally mean. This is a well-known fact. So what it is that “Joseph Biden is a democrat” conveys cannot be explained solely in terms of what it literally means. So even if Salmon were right to say that there is some actual God to whom “Zeus” refers, that wouldn’t explain any of the relevant data—it wouldn’t explain why utterances of “Zeus has a beard” communicate what they do.
+There’s also the fact that Zeus, if he exists, isn’t an abstract object. If he’s anything, he’s a God. If you pay me $1,000,000 to find Zeus, and all I find is an abstract object, I should give you your money back.
+Salmon says that “Vulcan” is a planet—albeit a mythical one. Planets are giant hunks of rock in outer space. “Mythical” planets aren’t hunks of rock. So they aren’t planets. The expression “mythical planet” is in the same category as “Mr. Right.” Its semantic function isn’t to refer to anything and is instead to help us abbreviate otherwise long and unwieldy statements.
+Salmon published an article, titled “Mythical Objects,” in which he attempts to corroborate these views of his. Here is the argument presented therein:
+
+
+(MO) Imagine the following. Smith and Jones both believe that Zeus exists, and they both think that he lives on  and can hurl lightning bolts. One day Smith wakes up with a terrible headache. He thinks that Zeus gave it to him. That same day, Jones can’t find his car. He thinks that Zeus destroyed it. Smith and Jones tell each other about their misfortunes, and they’re in agreement that Zeus is indeed the culprit in both cases. It is thus a fact that: 
+
+(1#) Smith and Jones believe some one deity (who lives on  and can hurl lightning bolts) to be responsible for Smith’s headache and also for the disappearance of Jones’ car. 
+
+(1#) is ambiguous, as it could mean either:
+
+(2#) there exists some deity x (such that x lives on  and can hurl lightning bolts) such that Smith and Jones both believe that x destroyed Jones’ car and also gave Smith a headache 
+
+or
+(3#) Each of Smith and Jones believes there to be some deity x (such that x lives on  and can hurl lightning bolts) such that x is identical with Zeus, such that x destroyed Jones’ car, and such that x gave Smith a headache. 
+
+(3#) cannot be the right disambiguation. (3#) says that Smith believes some one deity to be responsible for those two misfortunes, and that Jones believes some one deity to be responsible for them. But (3#) leaves it open whether the deity that Smith has in mind is identical with the one Jones has in mind. That means that (2#) is the correct disambiguation, and therefore, that there exists some deity who lives on , etc. 
+
+MO presupposes the truth of its own conclusion. Smith’s belief that Zeus exists is identical with his acceptance of something along the lines of:
+
+(Z) there exists a deity who lives on  and hurls lighting bolts (etc.), 
+
+the same being true of Jones’ corresponding belief.
+Thus, Smith’s belief that Zeus is responsible for both misfortunes is identical with his acceptance of something along the lines of:
+
+(ZMF) there exists a deity x who lives on  and hurls lighting bolts (etc.); moreover, x is responsible for both misfortunes 
+
+the same being true of Jones’ corresponding belief.
+And the statement that Smith and Jones “believe some one deity [etc.] to be responsible for Smith’s headache and the disappearance of Jones’ car” is just a loose way of saying that Jones and Smith both accept ZMF.
+If there is no Zeus, there is no one entity that Smith and Jones both blame for these misfortunes. Each individual may think that he and the other are both blaming some one deity. But they’re wrong. And (1#) is either false or it’s a misleading way of saying that Jones accepts ZMF and so does Smith. Salmon’s argument therefore fails unless it’s assumed that Zeus exists. But if this is assumed, the argument assumes the truth of its conclusion and is therefore broken.
+4.0 Natural kinds and the modality of identity-claims
+Consider the statement:
+
+(WH) “water is H2O.”
+
+According to Kripke, WH encodes a necessary a posteriori truth. Here is his argument.
+
+(KA) It obviously can’t be known a priori that water is H2O. Look at a glass of water. Can it be known through “pure reason” or through sheer logic chopping that it consists of H2O molecules? No! Thus, WH is a posteriori.
+We’ve discovered that water is H2O. Given this, suppose that we discovered some substance that was macroscopically just like water, but upon examination turned out not to be H2O. Would we say that it was water? Would we say that water can be something other than H2O? No. We’d say that we had discovered a water imposter. Since, therefore, water must be H2O, WH is necessary, while also being a posteriori.
+4.1 Evaluating KA
+There is much that is right in this argument. Consider the substance that we bathe in, drink, etc. If that substance is in fact H2O, it couldn’t fail to be H2O. And, just as Kripke says, you can’t have a priori knowledge of the chemical composition of the liquid you bathe in.
+But, contrary to what Kripke thinks, it doesn’t follow that there are any necessary a posteriori truths. The problem is that, as before, Kripke confuses semantics with pre-semantic information.
+Let us suppose that, when you were a child, your father pointed to the liquid in your drinking cup and said “that’s water,” and he said the same thing when pointing to the liquid in the bath you were about to step into, and so on. Kripke correctly says that:
+
+(W0) “water” refers to anything that is a clear liquid in drinking cups, bathtubs, etc.
+
+is false. There could, in principle, be liquids in bathtubs, drinking cups, etc. that weren’t H2O but in day-today contexts were macroscopically indistinguishable from water, and those liquids wouldn’t be water. But your father isn’t mis-defining “water.” For the correct interpretation of his definition is this:
+
+(W1) there is something x such that x is a clear liquid in drinking cups, bathtubs, etc., and “water” refers to x.
+
+W0 has the false consequence that “water” would refer to anything that is a clear liquid in bathtubs (etc). W1 doesn’t have this consequence. W1 says that there is a liquid x that as it happens is in bathtubs and is clear, etc., but may or may not necessarily be so, and “water” refers to that liquid.
+Let’s look at the fact that you learn what “water” refers to throughW1. W1 describes the referent of “water.” It says of this reference that, whatever it should turn out to be, it happens right now to be the clear liquid in bathtubs, etc. So it is through that description, or some other similar one, that you think about water. This doesn’t mean that you incorrectly believe that anything that fits that description is water. It means that you think that what in fact fits that description—but might fail to—is what is referred to as water. So you know that there is something x that in fact fits that description (i.e., is a clear liquid in bathtubs, etc.) and that “water” refers to x.
+Given it is by way of this sort of descriptive information that you know what “water” refers to, it’s inevitable that:
+
+(W2) “water becomes ice when it’s very cold outside”
+
+will convey the message to you that:
+
+(W3) there is something x that is a clear liquid in bathtubs, etc., and is referred to as “water”; moreover, x becomes ice when it’s very cold outside.
+
+To be sure, W3 is not W2’s literal meaning. Kripke has made this clear. There is some clear liquid L such that, as it happens, L is in bathtubs, etc., and such that “water” refers to x and such that W2’s literal meaning is:
+
+(W4) L turns to ice when it’s cold outside.
+
+There’s nothing about bathtubs (etc.) inW4.
+For exactly analogous reasons, there is some liquid L that we bathe in, drink, etc., such that, for any property psi,
+
+(W5) ‹water has psi›
+has for its literal meaning the proposition:
+
+(W6) L has psi,
+
+even though it will convey the proposition that:
+
+(W7) there is something x that is a clear liquid in bathtubs, etc., and is referred to as “water”; moreover, x has psi.
+
+In particular, it follows that:
+
+(W8) “water is H2O”
+
+will convey the message that:
+
+(W9) there is something x that is a clear liquid in bathtubs, etc., and is referred to as “water”; moreover, x is H2O (i.e., consists of dihydrogen monoxide molecules),
+
+even though there is something L such that W8’s literal meaning is:
+
+(W10) L is H2O.
+
+W9 is a posteriori. But it’s also contingent. Water doesn’t have to be in bathtubs. (There was water before there were bathtubs.) So we don’t yet have anything that’s both necessary and a posteriori. But, of course, it isW10, not W9, that is W8’s literal meaning. For the appropriate value of L, W10 is indeed necessary (just as Kripke says). But is W10 a posteriori?
+We must make two preliminary points before we take a stand on this delicate question. First, we must distinguishW10 from the information through which it might be grasped. W9 is an example of the sort of descriptive information through one graspsW10. Since one grasps W10 through such propositions, it’s easy to attribute their features to it. Since they are contingent, and we grasp W10 through them, it’s easy to think that W10 is contingent.
+The second point involves our outlining points that will be discussed more fully in Chapter 9. Consider the proposition:
+
+(JS) John snores.
+
+Under what circumstances is it true? The property of being identical with John must be instantiated. The property of being a smoker must be instantiated. And the property of being something that is and is also a smoker must be instantiated.
+We can thus identify JS with a set S consisting of those three properties (viz. that of being identical with John, that of being a smoker, and that of being a thing that is John that is smoking). Since all the members of S are instantiated if and only if JS is true, we may identify JS’s being true with its being the case that all the members of JS are instantiated. Thus, JS may be identified with a set of properties, and the fact that it’s true may be identified with the fact that those properties are instantiated.
+Let’s apply this reasoning to L10. That proposition is true if and only if anything that is an instance of the property of being identical with L is also an instance of the property of being identical with water. L is water. So the first property is the property of being identical with water. The property of being identical with water is the property of being identical with H2O. As Kripke himself stresses, it isn’t the property of being the clear liquid in bathtubs, etc. No—it’s the property of having a certain chemical composition, for something to have
+that composition is for it to consist of H2O molecules. So if W10 is true the property of being with water is instantiated just in case the property of having a certain chemical composition, viz. that of being H2O, is instantiated. Since the former is the property of having that composition, W10 is true just in case anything having that chemical composition has that composition. In other words, W10 is true just in case:
+
+(W11) anything that is H2O is H2O
+
+which, though necessary, is a priori.
+Once again, we find that Kripke’s claim that he’s found a necessary a posteriori truth involves his conflating two truths: one a posteriori and contingent, the other necessary but also analytic.
+5.0 The causal vs. the descriptive theories of conception
+According to Russell, “Socrates” is synonymous with a definite description; this might be “the great philosopher of antiquity who died of hemlock poisoning.” To understand the word “Socrates,” and thus to understand sentences of the form ‹...Socrates...›, one must obviously know the semantics of “Socrates.” So one must know that “Socrates” is synonymous with that definite description. Consequently, anyone who uses the word “Socrates” with understanding is able to produce a description that applies to Socrates and Socrates alone. In general, if one knows the semantics of a referring term, then one knows some description that applies uniquely to the referent of that term. (A description “uniquely applies” to x if x uniquely satisfies it. So the description “president of the  in 2009” applies to/is uniquely satisfied by Barack Obama.)
+As we’ve seen, Kripke demolished this view. Consider any description of Socrates that Socrates uniquely satisfies (e.g., greatest philosopher to have died of hemlock poisoning). One can understand ‹Socrates had psi› without knowing that a unique greatest philosopher to have died of hemlock poisoning had psi. The same thing mutatis mutandis holds of any description that singles out Socrates. It follows that “Socrates” isn’t synonymous with “the greatest philosopher to have died of hemlock poisoning” or with any other definite description and that the same thing mutatis mutandis is true of any other proper name.
+5.1 The causal theory of reference
+Rightly rejecting Russell’s view, according to which “Socrates” is a definite description that picks out Socrates, Kripke an alternative—to wit, “Socrates” refers to Socrates because a certain kind of causal relation holds between tokens of “Socrates” and Socrates himself (or, more exactly, states of affairs involving Socrates).
+According to Kripke, somebody saw Socrates. (Let’s call that person “Smith,” even though that obviously wasn’t his name.) Thus, Socrates’ presence caused Smith to have certain visual experiences. Smith then gave a name to Socrates. (Since it doesn’t matter in this context that Socrates’ actual name was something of which “Socrates” is a distorted Anglicization, we’ll make the false but expedient assumption that Socrates was in fact named “Socrates.”) Smith passed that name along to people who did not themselves see, or otherwise sense-perceive, Socrates. In order for Smith to pass along that name to a given person, that person had to be causally connected to Smith, and that person had to be causally connected to anyone to whom he transmitted that word. Since, let us assume, I am the 521st installment in this sequence, I can refer to Socrates by saying “Socrates.” Thus, when I say “Socrates,” my words refer to Socrates because they are causally connected to him in a certain way.
+In general, if an expression E refers to an object O, that is because tokens of E stand in a certain causal relation to states of affairs involving O.
+5.2 The anti-descriptivist theory of conception
+We’ve see that, for any property phi uniquely had by Socrates, one can refer to Socrates using the word “Socrates” without knowing that “Socrates” refers to a unique instance of phi. Presumably, understanding ‹Socrates had psi›, for any property psi, involves having a concept of Socrates. Taken together, these points strongly suggest that one can understand “Socrates,” and can therefore have a concept of Socrates, without knowing some truth of the form: something x uniquely has phi, and “Socrates” refer to x. This position is, of course, antithetical to the descriptivist conception of conception advocated by Russell.
+5.3 The causal theory of conception
+Because of Kripke’s work, many philosophers accept both a causal theory of reference and an anti-descriptivist theory of conception. Many such philosophers believe that, since these two views of theirs are true, it is de rigueur to accept a causal theory of conception. According to such a theory, x has a concept of y if and only if y has certain sorts of effects on x.
+David Kaplan (1968), himself an advocate of this view, made a point that helps bring out the raison d’être for it. Let X be a low-resolution, distorted photograph of Smith. Let Y be a high-resolution, undistorted photograph of somebody who isn’t Smith but looks just like him. X can be thought of as a distorted, low-resolution, inaccurate, description of Smith, and Y can be thought of as a very good and accurate description of some Smith look-alike. The reason that, despite its shortcomings, X is a picture of Smith is that X is an effect of Smith (or, more accurately, of some situation involving Smith—light bounced off Smith and headed in the direction of a certain camera, etc.). And the reason that, despite its encoding a description that Smith satisfies to a tee, Y is not a photograph of Smith is that it lacks just this sort of causal connection to him.
+Advocates of the causal theory of reference hold that concepts of Smith are to Smith what photographs of Smith are to him and that, for any x, concepts of x are to x what photographs of x are to x.
+I reject this view. I accept Kripke’s point that names aren’t definite descriptions. And, with some qualifications to be stated forthwith, I accept Kripke’s theory of reference. I agree that there is a causal component to conception, at least where spatiotemporal entities are concerned. (One’s concept of a non-spatiotemporal entity does not, I believe, have such a component.) But I agree with Russell that one’s concept of Socrates is descriptive. There is, we will see, an ineliminable causal component to it. But that component is internal to a description that singles out Socrates. And I agree with Russell that one’s concept of Socrates is descriptive and is expressed by a definite description. But, contrary to what Russell says, those definite descriptions aren’t at all like the ones that Russell had in mind.
+How can all of this be true? Simple: pre-semantics isn’t semantics. For elucidation, read on.
+5.4 The causal-descriptivist theory of conception
+Imagine the following. There are 30 numerically different, but qualitatively identical men in a certain place. Your friend Bob goes up to one of them, put his hand on his shoulder, and says:
+
+(1) This guy is named “Fred.”
+
+You thus know that:
+
+(2) there is some individual x such that x is uniquely a person whom Bob just picked out; and “Fred” names x.
+
+You thus know to whom “Fred” refers only because you know some true proposition of the form:
+
+(3) something x uniquely has phi; moreover, “Fred” refers to x.
+Your knowing who “Fred” refers to also depends on your having a causal connection to Fred. Your seeing Fred is important to your having this knowledge, and your seeing him involves your being at the receiving end of a causal process beginning with him. (x cannot see or otherwise sense-perceive y without being affected either by light signals bouncing off y or by other information-bearing processes originating with y.) But it’s involved only because it’s involved in your knowing some truth like (2)—some truth that describes the referent of the expression in question.
+5.4.1 The causal-descriptivist theory of conception (continued)
+Imagine that you are talking with your friends Smith and Jones. They suddenly starting talking about somebody named “Argo.” They are acquainted with Argo, but you are not. At no point in the conversation do they ever say anything like “Argo was my divorce lawyer” or “Argo was the best man at my wedding.” They never explicitly or implicitly tell you anything of the form:
+
+(4) something x uniquely has phi; moreover, “Argo” refers to x.
+
+Suppose that, during this conversation, at time t, Smith says “Argo was a cad.” Obviously the description ‹x is a cad› is indefinite, and many satisfy it. But on that occasion, there was, as you know, exactly one person who Smith was describing as being a cad, and you thus pick up knowledge of some claim along the lines of:
+
+(5) on occasion t, there was exactly one person who Smith described as being a cad, and ‘Argo’ refers to x.
+
+And, of course, (5) has (4) for its form.
+
+So merely by virtue of being in a position to “pick up” use of the term “Argo,” you are ipso facto in a position to know the truth of (1). Thus merely by virtue of being in a position to “pick up” use of the term “Argo” some existence-claim of the form: there is some x such that x uniquely has phi and “Argo” refers to x.
+It is plain that what enables you to pick up the term “Argo” is your knowledge of some claim of the sort just described. Your picking up a term like “Argo” involves your hearing or reading a sentence of the form ‹...Argo...›. It thus involves your encountering a case of somebody’s ascribing a property to Argo. (This is true even if you read such sentence: you are still, in effect, encountering somebody’s using that sentence to make such a statement.)Whenever you hear a token of ‹Argo has phi› you are thereby made aware of the fact that there is somebody x such that, on that occasion, the property of being a phi is being ascribed to x and x alone; and you are also being made aware of the fact that, on that occasion, “Argo” is being used to refer to x. On any such occasion, therefore, you are being apprised of an existence-claim that Argo uniquely satisfies, even though no such claim is being overtly stated.
+We must be careful to distinguish the following claims:
+
+(a) Exactly one person has phi.
+(b) Exactly one person is being described, on some particular occasion, as having phi.
+
+There are many cads. But there are many occasions where only one person is being described as a cad. Your learning who “Argo” refers to doesn’t involve your learning that:
+
+(6) exactly one person x is a cad, and “Argo” refers to x.
+
+You couldn’t possibly “learn” (6), since it’s false, given that there are many cads. Your learning who “Argo” refers to involves your learning that, on some occasion, somebody x is being described by some specific person (Smith) as a “cad.” 
+What these remarks show is that, even though names are merely labels, we can attach them to their referents only because we know of descriptions that single those referents out. Semantically, “Argo” and “Socrates” are mere labels. But pre-semantically, they are descriptions. The information that one must use to affix them to their referents is descriptive in nature, and so is the information one must work through to interpret utterances containing occurrences of them.
+5.5 The problem of forgotten start-up descriptions
+One typically forgets the existence-claim through which one added a name to one’s lexicon. One typically forgets the first time one heard “Shakespeare” or “Aristotle”; one often forgets one’s first meeting of a person. Given this, one is tempted to say:
+
+You don’t necessarily associate any uniquely individuating description with “Aristotle” or “Smith” or “Jones.” Such a description was needed to enable you to refer to those people, and to think about them. But once that ability is in place, the description drops out. At that point, there can be pure thought about the entities in question. You can just think about Aristotle and Smith; you don’t have to think about them through a uniquely individuating description.
+
+Remember what we said earlier about “Fred.” Your adding “Fred” to your lexicon involves your learning some truth of the form: somebody x uniquely has phi and “Fred” names x.
+Bearing this in mind, suppose that you and a friend are at a party. You see somebody wearing a bowler hat, talking animatedly. At time t, your friend points to that person and says “that is Fred.” Your adding “Fred” to your lexicon involves your knowing some existence-claim along the lines of:
+
+(E1) there is now somebody x who I am sense-perceiving and who is wearing a bowler hat; and “Fred” names x.
+
+Let us suppose that, a minute or so after “Fred” is ostensively defined for you, you go up to him and start talking. Now you have new information about Fred; you have a new uniquely individuating description of him. There are a number of reasons for this, the mere passage of time being one of them. At time t, E1 was your uniquely individuating description. But now that time has passed, E1 has been replaced with:
+
+(E2) there is somebody x whom, a minute or two ago, I was sense-perceiving and attending to, and who was then wearing a bowler hat, and “Fred” names x.
+
+Notice that E2 “interlocks” with E1. The uniquely individuating description changes. But the new one is related to the old one in such a way that some one object uniquely satisfies both of them. The new one thus “inherits” the verifier of the old one. In a moment we will say more about this process of inheritance or transmission.
+Things other than the mere passage of time, will lead to E1’s being replaced. Let’s suppose that you are now engaged in a conversation with Fred. You can see him more clearly than before. (Although, when looked at from afar, he looked healthy and strong, you now see that he is puffy and out of shape.) He is talking about the national debt. As a result, you generate a new uniquely individuating description of Fred, this one being given by an existence-claim along the lines of:
+
+(E3) there is somebody x such that, a minute or two ago, I was sense-perceiving x while standing several feet away from him, and such that, at the present time, I am listening to his puffy and out of shape self talk about the national debt; moreover, “Fred” names x.
+
+Notice that E3 and E2 interlock; E2 transmits its verifier to E3.
+Now that you have E3, you can drop E2 and E1. You can completely forget them; and that will not jeopardize your ability to think about Fred. Supposing that a moment has passed and that you have stopped talking with Fred, the mere passage of time replaces E3 with a slightly different claim:
+
+(E4) there is some x such that, a moment ago, x was talking about the national debt, and x looked puffy and unhealthy, and “Fred” names x.
+
+Given that you now know E4, you can forget each of E1–E3 without ceasing to be able to think about Fred. And, so long as you are able to think about Fred, this will continue to be the case.
+
+One’s ability to think about, and refer to, something can only be started up by one’s acquiring knowledge of the right kind of existence-claim. Typically, that specific claim is forgotten. But it is replaced by another interlocking existence-claim. And that second one will, in its turn, be replaced by a third; and so on. Thus, an integral part of one’s ability to think about or refer to an external object is one’s having knowledge of an existence-claim that it uniquely satisfies; i.e., it is my having a uniquely individuating description of him.
+None of this belittles the role that causal connections play in conception and reference. I am able to think about, and refer to, Fred precisely because I saw him: and seeing something involves being causally connected to it. But how is the causal connection involved? What enables me to think about Fred is my knowledge of some existence-claim that describes him: there is some guy whom I am now seeing and attending to, who is wearing a bowler hat, and “Fred” names that guy. The causal connection is involved in my seeing Fred; and my seeing Fred, in its turn, is involved in my having a uniquely individuating description of him. So what is doing the work is my knowledge of a uniquely individuating description of Fred; the causal connection, though essential, has a role that is subordinate and internal to my knowledge of that description.
+Here we need to very clear about a certain distinction: the distinction between literal meaning and cognitive content. “Fred” is just a label. The following statement is true:
+
+(F1) There is somebody x who I met on such and such occasion and who looked pale and talked about communism; and the semantic rule for “Fred” is: “Fred” names x.
+
+The following statement is false:
+
+(F2) The semantic rule for “Fred” is this: There is somebody x who I met on such and such occasion and who looked pale and talked about communism; and “Fred” names x.
+
+The following embodies even more falsehoods than F2:
+
+(F3) The semantic rule for “Fred” is this: for any predicate ‹...x...›, ‹...Fred...› means: There is somebody O who I met on such and such occasion, and who looked pale and talked about communism and...O...
+
+There is some x such that the literal meaning of
+
+(*) “Fred looked puffy and pale”
+
+is simply:
+
+(*LM) x looked puffy and pale.
+
+But remember that one knows what “Fred” refers to only insofar as one knows some claim of the form: somebody x uniquely has phi and “Fred” refers to x.
+Tyler Burge (1941–) overlooked these points. The result of his doing so was a doctrine known as content externalism that, in order to be kept from crashing, has had more epicycles added to it than just about any theory in human history. It is to this dark chapter of intellectual history that we turn. 
+ENDNOTES
+
+Name: ___________________________________ Date: ____________________________
+Exercises
+1.	Why do Russell and Frege believe that proper names are identical with definite descriptions?
+2.	How did Kripke prove that proper names are not synonymous with definite descriptions?
+3.	What is the causal theory of conception? What basis does it have in Kripke’s work?
+4.	Why does Salmon believe that it’s rational to believe that one and the same person is, at a given time, both on the moon and nowhere near the moon? What basis does his position have in Kripke’s (1979) argument concerning ? What doubtful assumptions does Salmon’s position make? (Hint: there is a difference between what a sentence literally means and what, given how it is that we learned its literal meaning and given also the circumstances in which we’re hearing it, it communicates to it.) 
+

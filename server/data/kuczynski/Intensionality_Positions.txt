@@ -1,0 +1,139 @@
+POSITION STATEMENTS: KUCZYNSKI - INTENSIONALITY (SEMANTICS AND PRESEMANTICS)
+
+================================================================================
+
+CORE THESIS: EXTENSIONALITY AND THE SEMANTICS/PRESEMANTICS DISTINCTION
+
+1. All contexts are extensional—intersubstituting co-referring terms always preserves truth-value.
+
+2. Kripke's arguments for necessary a posteriori truths appear probative only so long as one fails to distinguish between semantics and presemantics.
+
+3. The distinction between semantics and presemantics is between the literal meanings of sentences and the information on the basis of which one identifies those literal meanings.
+
+4. The failure to distinguish between semantics and presemantics underlies the popular thesis that intersubstituting co-referring terms sometimes changes truth values.
+
+5. Proper names are mere labels—they contribute only their referent to the proposition expressed.
+
+6. The dramatic communicative differences between "Hesperus is Phosphorous" and "Hesperus is Hesperus" are not due to differences in literal meaning.
+
+7. What a sentence communicates to somebody is not always confined to its literal meaning.
+
+8. The existence-claims through which one accesses the meanings of sentences change over time.
+
+================================================================================
+
+DIRECT REFERENTIALISM
+
+9. Direct referentialism readily explains why "Hesperus is Phosphorous" and "Hesperus is Hesperus" differ in respect of cognitive value.
+
+10. Direct referentialism, if correct, is no threat to extensionality.
+
+11. If direct referentialism is correct, sentences with co-referring terms coincide in respect of literal meaning and truth-value.
+
+12. At the level of semantics, proper names merely label individuals without describing them.
+
+13. The information through which one learns that a name labels something does describe it—this is presemantic, not semantic.
+
+14. The proposition literally meant by "Smith is a great racquetball player" and "Bob is a great racquetball player" are identical if Smith is Bob.
+
+15. Despite having the same literal meaning, such sentences may communicate entirely different propositions depending on presemantic knowledge.
+
+================================================================================
+
+DEFINITE DESCRIPTIONS
+
+16. Russell's Theory of Descriptions states that sentences with "the phi" express quantified generalizations.
+
+17. If Russell's Theory is correct, "the king of France" is not a referring term but a quantifier.
+
+18. Direct referentialism has many of the virtues ascribed to the Theory of Descriptions.
+
+19. Direct referentialism accounts for wide-scope and narrow-scope readings in terms of what utterances communicate.
+
+20. The Theory of Descriptions cannot be preferred to referentialism on grounds that referentialism is inconsistent with facts about what is communicated.
+
+21. Indirect referentialism (Frege's view that definite descriptions contribute senses) is semantically indistinguishable from Russellian quantification.
+
+22. Indirect referentialism is merely a confused version of Russellianism.
+
+23. There are no significant semantic differences between indirect reference and quantification.
+
+24. Indirect referentialism, taken with compositionality, has extremely counterintuitive consequences.
+
+25. Davidson argues cogently that Frege's view is inconsistent with the fact that languages are learnable.
+
+================================================================================
+
+PROPOSITIONS AND SENTENCE MEANING
+
+26. A proposition is the non-linguistic entity meant by a complete sentence.
+
+27. Sentence-tokens typically have propositions for their literal meanings (following Strawson, Kaplan, Salmon, Soames).
+
+28. The function meant by a sentence-type can fail to assign a proposition to a particular token (presupposition failure).
+
+29. Most sentence-types contain tense-markers, so the identity of the proposition depends on time of production.
+
+30. What an occurrence of a sentence communicates depends on presemantic knowledge about how to assign referents to terms.
+
+================================================================================
+
+CONTEXTUALISM CRITIQUE
+
+31. Contextualism holds that sentence-tokens require contextual facts to fill in semantic gaps.
+
+32. Cappelen and Lepore have made an extremely strong case against contextualism.
+
+33. Pinker has also made a strong case against contextualism.
+
+34. Searle's thesis that literal meaning is relative to background assumptions is consistent with the argument of this paper.
+
+35. One can, without dogmatism, hold that sentence-tokens as a rule do have truth-evaluable entities for their literal meanings.
+
+================================================================================
+
+PROPOSITIONAL ATTITUDES
+
+36. The expression "that snow is white" refers to the proposition semantically encoded in "snow is white."
+
+37. Belief ascriptions like "Fred believes that the inventor of bifocals snored" are extensional when properly analyzed.
+
+38. Apparent substitution failures in belief contexts are explained by presemantic differences, not semantic ones.
+
+39. The propositions believed are identical even when the sentences used to attribute beliefs differ in cognitive value.
+
+40. What is communicated by a belief ascription depends on presemantic knowledge, not differences in literal meaning.
+
+================================================================================
+
+QUANTIFIERS AND REFERENCE
+
+41. A quantifier is an expression that, embedded in a sentence, answers a question of the form "how many phi's are psi's?"
+
+42. If a sentence S contains a definite description, S encodes a proposition answering a quantificational question.
+
+43. Similarities between definite descriptions and other expressions are syntactic, not semantic.
+
+44. The fact that meaningful sentences result from substituting names or descriptions is syntactic, not evidence of shared semantics.
+
+45. "Some man" is semantically very different from any singular term, as Russell and Frege taught.
+
+================================================================================
+
+COGNITIVE VALUE AND COMMUNICATION
+
+46. Sentences with the same literal meaning can have entirely different cognitive values.
+
+47. Propositions communicated by sentences are not confined to their literal meanings.
+
+48. The existence-claim used to access the meaning of a sentence necessarily changes over time.
+
+49. Hearing a noise like "Bob" is one thing; knowing what it refers to is another.
+
+50. To affix a name to the right person, background knowledge must be exploited—this is presemantic.
+
+================================================================================
+
+TOTAL POSITIONS: 50
+
+================================================================================

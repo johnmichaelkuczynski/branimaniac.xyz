@@ -1,0 +1,11 @@
+=== EMBEDDING LOG FOR ISAAC NEWTON ===
+Figure ID: newton
+Source Folder: /home/runner/workspace/server/data/newton
+Started: 2025-12-13T04:07:29.460Z
+============================================================
+
+[2025-12-13T04:07:29.463Z] FLAGGED | Delphi Collected Works of Sir Isaac Newton (Illustrated) (Delphi Series Six Book 26).txt | 0 chunks | Contains 60 mentions of "Mill" - possible misattribution
+[2025-12-13T04:07:29.767Z] SUCCESS | Newton's Philosophy of Nature_ Selections from His Writings.txt | 418 chunks | 
+[2025-12-13T04:09:04.792Z] SUCCESS | Newton_Optics_Mechanics.txt | 26 chunks | 
+[2025-12-13T04:09:11.241Z] SUCCESS | Newton_Positions.txt | 9 chunks | 
+[2025-12-13T04:09:13.136Z] FLAGGED | The Principia_ Mathematical Principles of Natural Philosophy.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution

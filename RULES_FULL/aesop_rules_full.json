@@ -1,0 +1,1142 @@
+[
+  {
+    "id": 2491,
+    "topic": "Justice and Reciprocity",
+    "premise": "serving|wicked|expect|reward|thankful|escape",
+    "conclusion": "In serving the wicked, expect no reward and be thankful if you escape injury for your pains"
+  },
+  {
+    "id": 2492,
+    "topic": "Self-Reliance",
+    "premise": "self|help|best|pray|divine|assistance",
+    "conclusion": "Self-help is the best help; one should not pray for divine assistance until one has done one's best to help oneself"
+  },
+  {
+    "id": 2493,
+    "topic": "Prudence and Foresight",
+    "premise": "idle|times|plenty|suffer|want|scarcity",
+    "conclusion": "Those who idle in times of plenty will suffer want in times of scarcity"
+  },
+  {
+    "id": 2494,
+    "topic": "Self-Deception",
+    "premise": "loiterer|often|blames|delay|active|friend",
+    "conclusion": "The loiterer often blames delay on his more active friend"
+  },
+  {
+    "id": 2495,
+    "topic": "Greed and Loss",
+    "premise": "grasping|imaginary|gains|causes|lose|real",
+    "conclusion": "Grasping at imaginary gains causes one to lose real possessions"
+  },
+  {
+    "id": 2496,
+    "topic": "Self-Knowledge",
+    "premise": "claim|abilities|possess|expose|true|limitations",
+    "conclusion": "Those who claim abilities they do not possess expose their true limitations when tested"
+  },
+  {
+    "id": 2497,
+    "topic": "Perseverance",
+    "premise": "slow|steady|wins|race|consistency|outperforms",
+    "conclusion": "Slow but steady wins the race; consistency outperforms sporadic brilliance"
+  },
+  {
+    "id": 2498,
+    "topic": "Association and Judgment",
+    "premise": "judged|company|keeps|regardless|individual|character",
+    "conclusion": "One is judged by the company one keeps regardless of individual character"
+  },
+  {
+    "id": 2499,
+    "topic": "Ingratitude",
+    "premise": "greatest|kindness|bind|ungrateful",
+    "conclusion": "The greatest kindness will not bind the ungrateful"
+  },
+  {
+    "id": 2500,
+    "topic": "Nature and Character",
+    "premise": "arguments|give|courage|coward|fear|immune",
+    "conclusion": "No arguments will give courage to the coward; fear is immune to reason"
+  },
+  {
+    "id": 2501,
+    "topic": "Friendship",
+    "premise": "fair|weather|friends|worth|much|true",
+    "conclusion": "Fair weather friends are not worth much; true friendship endures hardship"
+  },
+  {
+    "id": 2502,
+    "topic": "Expectations vs Reality",
+    "premise": "great|expectations|often|produce|trivial|results",
+    "conclusion": "Great expectations often produce trivial results; do not make much ado about nothing"
+  },
+  {
+    "id": 2503,
+    "topic": "Desires and Consequences",
+    "premise": "wished|often|ruined",
+    "conclusion": "If men had all they wished, they would often be ruined"
+  },
+  {
+    "id": 2504,
+    "topic": "Hedonism and Restraint",
+    "premise": "pleasure|bought|pains|hurts|immediate|gratification",
+    "conclusion": "Pleasure bought with pains hurts; immediate gratification may lead to destruction"
+  },
+  {
+    "id": 2505,
+    "topic": "Bias and Perspective",
+    "premise": "side|tends|represent|contests|favor",
+    "conclusion": "Each side tends to represent contests in their own favor"
+  },
+  {
+    "id": 2506,
+    "topic": "Conflict of Interest",
+    "premise": "vested|interests|cannot|trusted|judge|impartially",
+    "conclusion": "Those with vested interests cannot be trusted to judge impartially"
+  },
+  {
+    "id": 2507,
+    "topic": "Wealth and Use",
+    "premise": "unused|wealth|well|exist|value|lies",
+    "conclusion": "Unused wealth might as well not exist; value lies in use, not possession"
+  },
+  {
+    "id": 2508,
+    "topic": "Nature vs Artifice",
+    "premise": "natural|advantages|often|prove|durable|artificial",
+    "conclusion": "Natural advantages often prove more durable than artificial beauty"
+  },
+  {
+    "id": 2509,
+    "topic": "Hypocrisy",
+    "premise": "easier|advise|good|behavior|practice|oneself",
+    "conclusion": "It is easier to advise good behavior than to practice it oneself"
+  },
+  {
+    "id": 2510,
+    "topic": "Truth and Pretense",
+    "premise": "boasters|exposed|called|prove|claims",
+    "conclusion": "Boasters are exposed when called upon to prove their claims"
+  },
+  {
+    "id": 2511,
+    "topic": "Moral Pretense",
+    "premise": "resort|evil|pretexts|justify|actions|deserve",
+    "conclusion": "Those who resort to evil pretexts to justify their actions deserve no sympathy when caught"
+  },
+  {
+    "id": 2512,
+    "topic": "Quality vs Quantity",
+    "premise": "quality|preferable|quantity|offspring|achievements",
+    "conclusion": "Quality is preferable to quantity in offspring and achievements"
+  },
+  {
+    "id": 2513,
+    "topic": "Bad Influence",
+    "premise": "evil|companions|bring|hurt|profit",
+    "conclusion": "Evil companions bring more hurt than profit"
+  },
+  {
+    "id": 2514,
+    "topic": "Karmic Justice",
+    "premise": "trickery|ultimately|rebounds|trickster",
+    "conclusion": "Trickery ultimately rebounds upon the trickster"
+  },
+  {
+    "id": 2515,
+    "topic": "Prudent Change",
+    "premise": "hurry|change|evil|another",
+    "conclusion": "Do not be in a hurry to change one evil for another"
+  },
+  {
+    "id": 2516,
+    "topic": "Boundaries and Respect",
+    "premise": "little|liberties|great|offenses|show|disrespect",
+    "conclusion": "Little liberties are great offenses when they show disrespect"
+  },
+  {
+    "id": 2517,
+    "topic": "Loyalty",
+    "premise": "friends|cannot|impunity|sacrificed",
+    "conclusion": "Old friends cannot with impunity be sacrificed for new ones"
+  },
+  {
+    "id": 2518,
+    "topic": "Reputation",
+    "premise": "notoriety|often|mistaken|fame|shame|worn",
+    "conclusion": "Notoriety is often mistaken for fame; shame may be worn as honor by the foolish"
+  },
+  {
+    "id": 2519,
+    "topic": "People-Pleasing",
+    "premise": "seek|please|everybody|nobody",
+    "conclusion": "Those who seek to please everybody please nobody"
+  },
+  {
+    "id": 2520,
+    "topic": "Pride and Downfall",
+    "premise": "pride|goes|destruction",
+    "conclusion": "Pride goes before destruction"
+  },
+  {
+    "id": 2521,
+    "topic": "Fortune and Acceptance",
+    "premise": "common|mortals|sustain|downs|fortune",
+    "conclusion": "The common lot of mortals is to sustain the ups and downs of fortune"
+  },
+  {
+    "id": 2522,
+    "topic": "Power and Credibility",
+    "premise": "rulers|without|power|appear|foolish|regardless",
+    "conclusion": "Rulers without power appear foolish regardless of their nominal authority"
+  },
+  {
+    "id": 2523,
+    "topic": "Tyranny",
+    "premise": "tyrants|justify|injustices|false|pretexts",
+    "conclusion": "Tyrants justify their injustices with false pretexts"
+  },
+  {
+    "id": 2524,
+    "topic": "Circumstance and Behavior",
+    "premise": "circumstances|alter|behavior|captivity|changes|options",
+    "conclusion": "Circumstances alter behavior; captivity changes one's options"
+  },
+  {
+    "id": 2525,
+    "topic": "Trust and Credibility",
+    "premise": "believing|liar|speaks|truth",
+    "conclusion": "There is no believing a liar, even when he speaks the truth"
+  },
+  {
+    "id": 2526,
+    "topic": "Situational Advantage",
+    "premise": "time|place|often|give|advantage|weak",
+    "conclusion": "Time and place often give the advantage to the weak over the strong"
+  },
+  {
+    "id": 2527,
+    "topic": "Self-Overestimation",
+    "premise": "overestimate|size|relative|others|court|destruction",
+    "conclusion": "Those who overestimate their own size relative to others court destruction"
+  },
+  {
+    "id": 2528,
+    "topic": "Stubbornness",
+    "premise": "willful|hurt",
+    "conclusion": "A willful man will have his way to his own hurt"
+  },
+  {
+    "id": 2529,
+    "topic": "Commitment",
+    "premise": "whatever|your",
+    "conclusion": "Whatever you do, do with all your might"
+  },
+  {
+    "id": 2530,
+    "topic": "Courage",
+    "premise": "hero|brave|deeds|well|words",
+    "conclusion": "The hero is brave in deeds as well as words"
+  },
+  {
+    "id": 2531,
+    "topic": "Preparedness",
+    "premise": "prepare|danger|times|safety",
+    "conclusion": "Prepare for danger in times of safety, not when danger is upon you"
+  },
+  {
+    "id": 2532,
+    "topic": "Desperation and Courage",
+    "premise": "trapped|corner|fight|desperate|courage",
+    "conclusion": "Men trapped in a corner will fight with desperate courage"
+  },
+  {
+    "id": 2533,
+    "topic": "Status and Risk",
+    "premise": "honor|danger",
+    "conclusion": "The more honor the more danger"
+  },
+  {
+    "id": 2534,
+    "topic": "Theory vs Practice",
+    "premise": "easier|propose|solutions|execute",
+    "conclusion": "It is easier to propose solutions than to execute them"
+  },
+  {
+    "id": 2535,
+    "topic": "Freedom vs Security",
+    "premise": "freedom|worth|comfort|servitude",
+    "conclusion": "Freedom is worth more than comfort in servitude"
+  },
+  {
+    "id": 2536,
+    "topic": "False Pride",
+    "premise": "wise|give|credit|others",
+    "conclusion": "They are not wise who give to themselves the credit due to others"
+  },
+  {
+    "id": 2537,
+    "topic": "Fair Distribution",
+    "premise": "shares|danger|ought|share|prize",
+    "conclusion": "He who shares the danger ought to share the prize"
+  },
+  {
+    "id": 2538,
+    "topic": "Honor and Insult",
+    "premise": "insults|despised|painful|equals",
+    "conclusion": "Insults from the despised are more painful than those from equals"
+  },
+  {
+    "id": 2539,
+    "topic": "Inner Strength",
+    "premise": "courage|fails|spirit|within|decays",
+    "conclusion": "Courage fails only when the spirit within decays"
+  },
+  {
+    "id": 2540,
+    "topic": "Consequences of Ill-Will",
+    "premise": "evil|wishes|like|chickens|come|home",
+    "conclusion": "Evil wishes, like chickens, come home to roost"
+  },
+  {
+    "id": 2541,
+    "topic": "Expectation vs Reality",
+    "premise": "mere|anticipations|life|outrun|realities",
+    "conclusion": "Our mere anticipations of life outrun its realities"
+  },
+  {
+    "id": 2542,
+    "topic": "Work Ethic",
+    "premise": "labor|source|blessing|none|work|entitled",
+    "conclusion": "Labor is the source of every blessing; none but those who work are entitled to eat"
+  },
+  {
+    "id": 2543,
+    "topic": "Priorities",
+    "premise": "quarreling|about|shadow|often|lose|substance",
+    "conclusion": "In quarreling about the shadow we often lose the substance"
+  },
+  {
+    "id": 2544,
+    "topic": "Risk and Certainty",
+    "premise": "certain|gain|preferable|uncertain|greater",
+    "conclusion": "A certain gain is preferable to an uncertain greater gain"
+  },
+  {
+    "id": 2545,
+    "topic": "Adaptability",
+    "premise": "stoop|conquer|flexibility|survives|rigidity|breaks",
+    "conclusion": "Stoop to conquer; flexibility survives where rigidity breaks"
+  },
+  {
+    "id": 2546,
+    "topic": "Innovation",
+    "premise": "necessity|mother|invention",
+    "conclusion": "Necessity is the mother of invention"
+  },
+  {
+    "id": 2547,
+    "topic": "Parental Love",
+    "premise": "mother|love|makes|child|beautiful|eyes",
+    "conclusion": "A mother's love makes her own child the most beautiful in her eyes"
+  },
+  {
+    "id": 2548,
+    "topic": "Short-Term vs Long-Term Thinking",
+    "premise": "kill|source|regular|small|gains|lose",
+    "conclusion": "Those who kill the source of regular small gains lose the prospect of greater future gains"
+  },
+  {
+    "id": 2549,
+    "topic": "Interdependence",
+    "premise": "mutual|support|among|interdependent|parts|essential",
+    "conclusion": "Mutual support among interdependent parts is essential for the whole to function"
+  },
+  {
+    "id": 2550,
+    "topic": "Gratitude",
+    "premise": "ingratitude|renders|previous|kindness|meaningless",
+    "conclusion": "Ingratitude renders previous kindness meaningless"
+  },
+  {
+    "id": 2551,
+    "topic": "Self-Interest",
+    "premise": "tends|recommend|serves|interest",
+    "conclusion": "Every man tends to recommend what serves his own interest"
+  },
+  {
+    "id": 2552,
+    "topic": "Character Revealed",
+    "premise": "trusted|friend|mistreats|family",
+    "conclusion": "He is not to be trusted as a friend who mistreats his own family"
+  },
+  {
+    "id": 2553,
+    "topic": "Natural Order",
+    "premise": "pretensions|small|cannot|match|power|great",
+    "conclusion": "The pretensions of the small cannot match the power of the great"
+  },
+  {
+    "id": 2554,
+    "topic": "Authenticity",
+    "premise": "assume|character|belong|make|ridiculous",
+    "conclusion": "Those who assume a character which does not belong to them only make themselves ridiculous"
+  },
+  {
+    "id": 2555,
+    "topic": "Self-Preservation",
+    "premise": "giving|natural|defenses|enemies|leads|destruction",
+    "conclusion": "Giving up one's natural defenses to enemies leads to destruction"
+  },
+  {
+    "id": 2556,
+    "topic": "Influence Methods",
+    "premise": "persuasion|better|force",
+    "conclusion": "Persuasion is better than force"
+  },
+  {
+    "id": 2557,
+    "topic": "Contentment",
+    "premise": "contentment|element|happiness",
+    "conclusion": "Contentment with our lot is an element of happiness"
+  },
+  {
+    "id": 2558,
+    "topic": "Gratitude for Present",
+    "premise": "desire|imaginary|benefits|often|involves|loss",
+    "conclusion": "The desire for imaginary benefits often involves the loss of present blessings"
+  },
+  {
+    "id": 2559,
+    "topic": "Prudent Decision-Making",
+    "premise": "count|cost|commit|yourselves",
+    "conclusion": "Count the cost before you commit yourselves"
+  },
+  {
+    "id": 2560,
+    "topic": "Caution",
+    "premise": "guard|against|strike|distance",
+    "conclusion": "Be on guard against men who can strike from a distance"
+  },
+  {
+    "id": 2561,
+    "topic": "Habituation",
+    "premise": "serves|overcome|dread|familiarity|diminishes|fear",
+    "conclusion": "Use serves to overcome dread; familiarity diminishes fear"
+  },
+  {
+    "id": 2562,
+    "topic": "Clarity in Relationships",
+    "premise": "friend|know|whether|trust|distrust",
+    "conclusion": "No one can be a friend if you know not whether to trust or distrust him"
+  },
+  {
+    "id": 2563,
+    "topic": "Compounded Unreliability",
+    "premise": "unreliable|parties|make|reliable|guarantee",
+    "conclusion": "Two unreliable parties do not make one reliable guarantee"
+  },
+  {
+    "id": 2564,
+    "topic": "Appearance vs Reality",
+    "premise": "fine|feathers|make|birds|external|beauty",
+    "conclusion": "Fine feathers do not make fine birds; external beauty does not indicate internal worth"
+  },
+  {
+    "id": 2565,
+    "topic": "Manipulation",
+    "premise": "manipulate|fear|deception|destroy|communities|within",
+    "conclusion": "Those who manipulate through fear and deception can destroy communities from within"
+  },
+  {
+    "id": 2566,
+    "topic": "Skepticism",
+    "premise": "tale|believed",
+    "conclusion": "Every tale is not to be believed"
+  },
+  {
+    "id": 2567,
+    "topic": "Self-Delusion",
+    "premise": "overestimate|based|circumstantial|appearances|meet|destruction",
+    "conclusion": "Those who overestimate themselves based on circumstantial appearances meet destruction"
+  },
+  {
+    "id": 2568,
+    "topic": "Loyalty and Treachery",
+    "premise": "switch|allegiances|based|advantage|despised|sides",
+    "conclusion": "Those who switch allegiances based on advantage are despised by all sides"
+  },
+  {
+    "id": 2569,
+    "topic": "Hasty Judgment",
+    "premise": "swallow|make|summer|single|signs|unreliable",
+    "conclusion": "One swallow does not make a summer; single signs are unreliable indicators"
+  },
+  {
+    "id": 2570,
+    "topic": "Empathy",
+    "premise": "misfortune|justify|mockery|reviler|face|similar",
+    "conclusion": "Misfortune does not justify mockery; the reviler may face similar fate"
+  },
+  {
+    "id": 2571,
+    "topic": "Cowardice",
+    "premise": "easy|kick|down",
+    "conclusion": "It is easy to kick a man that is down"
+  },
+  {
+    "id": 2572,
+    "topic": "Reputation Effects",
+    "premise": "evil|reputation|perform|good|deed|fail",
+    "conclusion": "Men of evil reputation, when they perform a good deed, fail to get credit for it"
+  },
+  {
+    "id": 2573,
+    "topic": "Early Indicators",
+    "premise": "character|revealed|youth|indicates|adult|behavior",
+    "conclusion": "Character revealed in youth indicates adult behavior"
+  },
+  {
+    "id": 2574,
+    "topic": "Credibility",
+    "premise": "cannot|heal|credibly|others",
+    "conclusion": "Those who cannot heal themselves cannot credibly heal others"
+  },
+  {
+    "id": 2575,
+    "topic": "Moral Responsibility",
+    "premise": "incite|violence|bear|responsibility|consequences",
+    "conclusion": "Those who incite violence bear responsibility for its consequences"
+  },
+  {
+    "id": 2576,
+    "topic": "Nature vs Nurture",
+    "premise": "natural|instincts|persist|despite|change|form",
+    "conclusion": "Natural instincts persist despite change of form or circumstance"
+  },
+  {
+    "id": 2577,
+    "topic": "Substance Over Form",
+    "premise": "matters|little|inferior|merit|appear|similar",
+    "conclusion": "It matters little if those inferior in merit appear similar in external markers"
+  },
+  {
+    "id": 2578,
+    "topic": "Adaptation",
+    "premise": "patience|customization|conquer|aversion",
+    "conclusion": "Patience and customization conquer aversion"
+  },
+  {
+    "id": 2579,
+    "topic": "Causation",
+    "premise": "blame|belongs|true|cause|apparent|instrument",
+    "conclusion": "Blame belongs to the true cause, not the apparent instrument"
+  },
+  {
+    "id": 2580,
+    "topic": "Virtue and Opposition",
+    "premise": "safeguards|virtue|hateful|evil|intentions",
+    "conclusion": "The safeguards of virtue are hateful to those with evil intentions"
+  },
+  {
+    "id": 2581,
+    "topic": "Reciprocity",
+    "premise": "good|deed|deserves|another|kindness|begets",
+    "conclusion": "One good deed deserves another; kindness begets kindness"
+  },
+  {
+    "id": 2582,
+    "topic": "Thoughtfulness",
+    "premise": "without|sufficient|thought|often|fall|unsuspected",
+    "conclusion": "They who act without sufficient thought will often fall into unsuspected danger"
+  },
+  {
+    "id": 2583,
+    "topic": "Appreciation",
+    "premise": "underrate|best|blessings",
+    "conclusion": "Some men underrate their best blessings"
+  },
+  {
+    "id": 2584,
+    "topic": "Relative Suffering",
+    "premise": "someone|worse|perspective|reveals|relative|fortune",
+    "conclusion": "There is always someone worse off; perspective reveals relative fortune"
+  },
+  {
+    "id": 2585,
+    "topic": "Universal Vulnerability",
+    "premise": "everyone|particular|weakness",
+    "conclusion": "Everyone has their own particular weakness"
+  },
+  {
+    "id": 2586,
+    "topic": "Honor and Death",
+    "premise": "better|sacrifice|oneself|honor|destroyed|dishonor",
+    "conclusion": "It is better to sacrifice oneself with honor than to be destroyed with dishonor"
+  },
+  {
+    "id": 2587,
+    "topic": "Golden Rule",
+    "premise": "practice|evil|others|cannot|complain",
+    "conclusion": "Those who practice evil on others cannot complain when others practice evil on them"
+  },
+  {
+    "id": 2588,
+    "topic": "Futility of Universal Approval",
+    "premise": "attempting|please|everyone|results|pleasing|losing",
+    "conclusion": "Attempting to please everyone results in pleasing no one and losing everything"
+  },
+  {
+    "id": 2589,
+    "topic": "Hierarchy of Power",
+    "premise": "prey|weak|facing|strong",
+    "conclusion": "Those who prey on the weak are themselves weak when facing the strong"
+  },
+  {
+    "id": 2590,
+    "topic": "Betrayal",
+    "premise": "harm|benefactors|deserve|condemnation",
+    "conclusion": "Those who harm their benefactors deserve condemnation"
+  },
+  {
+    "id": 2591,
+    "topic": "Wisdom Unheeded",
+    "premise": "good|counsel|ignored|leads|disaster",
+    "conclusion": "Good counsel ignored leads to disaster"
+  },
+  {
+    "id": 2592,
+    "topic": "Unequal Partnership",
+    "premise": "partnership|powerful|often|means|absorption|rather",
+    "conclusion": "Partnership with the powerful often means absorption rather than equality"
+  },
+  {
+    "id": 2593,
+    "topic": "Verification",
+    "premise": "trust|verify|reliability|committing",
+    "conclusion": "Try before you trust; verify reliability before committing"
+  },
+  {
+    "id": 2594,
+    "topic": "Cultivation of Vice",
+    "premise": "nurturing|evil|produces|consequences",
+    "conclusion": "Nurturing evil produces evil consequences"
+  },
+  {
+    "id": 2595,
+    "topic": "Prejudice and Perception",
+    "premise": "preconceptions|distort|perception|familiarity|breeds|confidence",
+    "conclusion": "Preconceptions distort perception; familiarity breeds confidence in familiar forms"
+  },
+  {
+    "id": 2596,
+    "topic": "Courage in Adversity",
+    "premise": "better|bear|troubles|bravely|escape",
+    "conclusion": "We had better bear our troubles bravely than try to escape them"
+  },
+  {
+    "id": 2597,
+    "topic": "Distribution of Fortune",
+    "premise": "ills|come|troops|goods|singly",
+    "conclusion": "Ills come in troops while goods come singly"
+  },
+  {
+    "id": 2598,
+    "topic": "Treachery and Justice",
+    "premise": "betraying|others|save|oneself|deserves|mercy",
+    "conclusion": "Betraying others to save oneself deserves no mercy"
+  },
+  {
+    "id": 2599,
+    "topic": "Deeds Over Words",
+    "premise": "work|faithfully|without|promises|deserve|promise",
+    "conclusion": "Those who work faithfully without promises deserve more than those who promise much"
+  },
+  {
+    "id": 2600,
+    "topic": "Civilization and Truth",
+    "premise": "truth|abandoned|cities|dwells|wilderness",
+    "conclusion": "Truth is abandoned in cities but dwells in the wilderness"
+  },
+  {
+    "id": 2601,
+    "topic": "Moral Universe",
+    "premise": "refuge|exists|truly|guilty",
+    "conclusion": "No refuge exists for the truly guilty"
+  },
+  {
+    "id": 2602,
+    "topic": "Hypocrisy of Thieves",
+    "premise": "seize|belong|cannot|complain|theft",
+    "conclusion": "Those who seize what does not belong to them cannot complain of theft"
+  },
+  {
+    "id": 2603,
+    "topic": "Envy and Downfall",
+    "premise": "jealousy|leads|self|defeating|overreach",
+    "conclusion": "Jealousy leads to self-defeating overreach"
+  },
+  {
+    "id": 2604,
+    "topic": "Prudent Mercy",
+    "premise": "kindness|extended|harm|restored",
+    "conclusion": "Kindness should not be extended to those who will harm you once restored"
+  },
+  {
+    "id": 2605,
+    "topic": "Fairness in Burden-Sharing",
+    "premise": "enjoy|benefits|peace|complain|burdens|difficulty",
+    "conclusion": "Those who enjoy benefits in peace should not complain of burdens in difficulty"
+  },
+  {
+    "id": 2606,
+    "topic": "Gratitude as Virtue",
+    "premise": "ingratitude|toward|benefactors|base",
+    "conclusion": "Ingratitude toward benefactors is base"
+  },
+  {
+    "id": 2607,
+    "topic": "Loyalty to Benefactors",
+    "premise": "cultivate|favor|your|true|benefactors|opportunistic",
+    "conclusion": "Cultivate the favor of your true benefactors, not opportunistic ones"
+  },
+  {
+    "id": 2608,
+    "topic": "Mutual Destruction",
+    "premise": "injury|oneself|acceptable|destroys|enemy|equally",
+    "conclusion": "Injury to oneself is acceptable if it destroys an enemy equally"
+  },
+  {
+    "id": 2609,
+    "topic": "Self-Awareness",
+    "premise": "vanity|blinds|true|position|relative|others",
+    "conclusion": "Vanity blinds one to one's true position relative to others"
+  },
+  {
+    "id": 2610,
+    "topic": "Deceptive Appearances",
+    "premise": "appearances|deceive|seems|beneficial|harmful",
+    "conclusion": "Appearances deceive; what seems beneficial may be harmful"
+  },
+  {
+    "id": 2611,
+    "topic": "Self-Advocacy",
+    "premise": "fail|interest|cannot|expect|others",
+    "conclusion": "Those who fail to act in their own interest cannot expect others to act for them"
+  },
+  {
+    "id": 2612,
+    "topic": "Unity and Strength",
+    "premise": "division|makes|strong|weak|united",
+    "conclusion": "Division makes the strong weak and the united strong"
+  },
+  {
+    "id": 2613,
+    "topic": "Timeliness",
+    "premise": "procrastination|face|danger|leads|disaster",
+    "conclusion": "Procrastination in the face of danger leads to disaster"
+  },
+  {
+    "id": 2614,
+    "topic": "Double Standards",
+    "premise": "action|receives|different|reception|based|performs",
+    "conclusion": "The same action receives different reception based on who performs it"
+  },
+  {
+    "id": 2615,
+    "topic": "Actions vs Words",
+    "premise": "deeds|reveal|character|words",
+    "conclusion": "Deeds reveal character more than words"
+  },
+  {
+    "id": 2616,
+    "topic": "Wisdom and Isolation",
+    "premise": "wisdom|often|dwells|solitude|rejected|crowd",
+    "conclusion": "Wisdom often dwells in solitude after being rejected by the crowd"
+  },
+  {
+    "id": 2617,
+    "topic": "Hubris",
+    "premise": "excess|pride|invites|destruction",
+    "conclusion": "Excess pride invites destruction from above"
+  },
+  {
+    "id": 2618,
+    "topic": "Identity and Revelation",
+    "premise": "true|nature|cannot|concealed|indefinitely|voice",
+    "conclusion": "True nature cannot be concealed indefinitely; the voice reveals what the costume hides"
+  },
+  {
+    "id": 2619,
+    "topic": "Situational Humility",
+    "premise": "mocked|safe|suffer|vulnerable",
+    "conclusion": "Those mocked while safe would suffer mocked while vulnerable"
+  },
+  {
+    "id": 2620,
+    "topic": "Small Revenge",
+    "premise": "small|creatures|exact|large|prices|great",
+    "conclusion": "Small creatures exact large prices from great ones"
+  },
+  {
+    "id": 2621,
+    "topic": "Unity",
+    "premise": "united|stand|divided|fall",
+    "conclusion": "United we stand, divided we fall"
+  },
+  {
+    "id": 2622,
+    "topic": "Rationalization of Evil",
+    "premise": "wicked|find|pretexts|justify|wickedness",
+    "conclusion": "The wicked find pretexts to justify their wickedness"
+  },
+  {
+    "id": 2623,
+    "topic": "Experience Over Theory",
+    "premise": "real|experience|surpasses|theoretical|knowledge",
+    "conclusion": "Real experience surpasses theoretical knowledge"
+  },
+  {
+    "id": 2624,
+    "topic": "Trust in Small Things",
+    "premise": "given|small|matters|cannot|trusted|great",
+    "conclusion": "Those given small matters cannot be trusted with great ones"
+  },
+  {
+    "id": 2625,
+    "topic": "Persistence of Vengeance",
+    "premise": "revenge|outlasts|grave",
+    "conclusion": "Revenge outlasts the grave"
+  },
+  {
+    "id": 2626,
+    "topic": "Psychological Injury",
+    "premise": "wounds|pride|hurt|body",
+    "conclusion": "Wounds to pride hurt more than wounds to body"
+  },
+  {
+    "id": 2627,
+    "topic": "Individual Differences",
+    "premise": "remedy|suit|constitutions",
+    "conclusion": "The same remedy does not suit all constitutions"
+  },
+  {
+    "id": 2628,
+    "topic": "Trade-offs",
+    "premise": "give|security|freedom|lose",
+    "conclusion": "Those who give up security for freedom may lose both"
+  },
+  {
+    "id": 2629,
+    "topic": "Hidden Enemies",
+    "premise": "false|friends|worse|open|enemies",
+    "conclusion": "False friends are worse than open enemies"
+  },
+  {
+    "id": 2630,
+    "topic": "Essential Nature",
+    "premise": "external|circumstances|cannot|fundamentally|alter|internal",
+    "conclusion": "External circumstances cannot fundamentally alter internal nature"
+  },
+  {
+    "id": 2631,
+    "topic": "Flattery and Destruction",
+    "premise": "trust|flatterers|destroyed|vanity",
+    "conclusion": "Those who trust flatterers are destroyed by their own vanity"
+  },
+  {
+    "id": 2632,
+    "topic": "Hollow Victory",
+    "premise": "victory|deception|hollow",
+    "conclusion": "Victory through deception is hollow"
+  },
+  {
+    "id": 2633,
+    "topic": "Power Dynamics",
+    "premise": "powerful|justify|powerless",
+    "conclusion": "The powerful need not justify themselves to the powerless"
+  },
+  {
+    "id": 2634,
+    "topic": "Coerced Promises",
+    "premise": "promises|made|desperation|worthless",
+    "conclusion": "Promises made in desperation are worthless"
+  },
+  {
+    "id": 2635,
+    "topic": "Fear and Paralysis",
+    "premise": "fear|worse|evils|often|prevents|escape",
+    "conclusion": "Fear of worse evils often prevents escape from present ones"
+  },
+  {
+    "id": 2636,
+    "topic": "Selective Perception",
+    "premise": "blinded|greed|desire",
+    "conclusion": "Those blinded by greed see only what they desire"
+  },
+  {
+    "id": 2637,
+    "topic": "Boasting and Shame",
+    "premise": "boasting|ends|shame",
+    "conclusion": "All boasting ends in shame"
+  },
+  {
+    "id": 2638,
+    "topic": "Deceptive Kindness",
+    "premise": "kind|words|hide|cruel|intentions",
+    "conclusion": "Kind words hide cruel intentions"
+  },
+  {
+    "id": 2639,
+    "topic": "Seasonal Prudence",
+    "premise": "wise|prepare|winter|summer",
+    "conclusion": "The wise prepare for winter during summer"
+  },
+  {
+    "id": 2640,
+    "topic": "Moderation",
+    "premise": "excess|leads|loss|moderation|preserves",
+    "conclusion": "Excess leads to loss; moderation preserves"
+  },
+  {
+    "id": 2641,
+    "topic": "Divided Loyalty",
+    "premise": "cannot|serve|masters|opposing|interests",
+    "conclusion": "One cannot serve two masters with opposing interests"
+  },
+  {
+    "id": 2642,
+    "topic": "Mercy and Justice",
+    "premise": "show|mercy|receive|none|deserve",
+    "conclusion": "Those who show mercy may receive it; those who show none deserve none"
+  },
+  {
+    "id": 2643,
+    "topic": "Substance and Sound",
+    "premise": "empty|vessels|make|noise",
+    "conclusion": "Empty vessels make the most noise"
+  },
+  {
+    "id": 2644,
+    "topic": "Self-Fulfilling Prophecy",
+    "premise": "fear|invite",
+    "conclusion": "What we most fear we most invite"
+  },
+  {
+    "id": 2645,
+    "topic": "Criminal Ethics",
+    "premise": "honor|among|thieves",
+    "conclusion": "There is no honor among thieves"
+  },
+  {
+    "id": 2646,
+    "topic": "Suffering and Solidarity",
+    "premise": "shared|suffering|creates|community",
+    "conclusion": "Shared suffering creates community"
+  },
+  {
+    "id": 2647,
+    "topic": "Exposed Pride",
+    "premise": "pride|position|leads|exposure|vulnerability",
+    "conclusion": "Pride in position leads to exposure of vulnerability"
+  },
+  {
+    "id": 2648,
+    "topic": "Natural Sufficiency",
+    "premise": "nature|requires|ornament",
+    "conclusion": "Nature requires no ornament"
+  },
+  {
+    "id": 2649,
+    "topic": "Dependent Weakness",
+    "premise": "depend|others|strength|weak",
+    "conclusion": "Those who depend on others' strength are weak"
+  },
+  {
+    "id": 2650,
+    "topic": "Hindsight",
+    "premise": "wisdom|comes|late|ignored|early|warnings",
+    "conclusion": "Wisdom comes too late to those who ignored early warnings"
+  },
+  {
+    "id": 2651,
+    "topic": "Tolerance of Evil",
+    "premise": "small|evils|tolerated|grow|great",
+    "conclusion": "Small evils tolerated grow into great evils"
+  },
+  {
+    "id": 2652,
+    "topic": "Gift-Giving",
+    "premise": "measure|gift|spirit|given",
+    "conclusion": "The measure of a gift is the spirit in which it is given"
+  },
+  {
+    "id": 2653,
+    "topic": "Self-Criticism First",
+    "premise": "criticize|others|faults|possesses|oneself",
+    "conclusion": "One should not criticize in others faults one possesses oneself"
+  },
+  {
+    "id": 2654,
+    "topic": "Character Testing",
+    "premise": "adversity|reveals|true|character",
+    "conclusion": "Adversity reveals true character"
+  },
+  {
+    "id": 2655,
+    "topic": "Patience and Vindication",
+    "premise": "laughs|last|longest",
+    "conclusion": "He who laughs last laughs longest"
+  },
+  {
+    "id": 2656,
+    "topic": "Intention vs Outcome",
+    "premise": "good|intentions|excuse|judgment",
+    "conclusion": "Good intentions do not excuse bad judgment"
+  },
+  {
+    "id": 2657,
+    "topic": "Persistence",
+    "premise": "constant|dripping|wears|stone|persistence|overcomes",
+    "conclusion": "Constant dripping wears the stone; persistence overcomes resistance"
+  },
+  {
+    "id": 2658,
+    "topic": "Violence and Fate",
+    "premise": "live|violence",
+    "conclusion": "Those who live by violence die by violence"
+  },
+  {
+    "id": 2659,
+    "topic": "Risk Aversion",
+    "premise": "better|small|certainty|great|uncertainty",
+    "conclusion": "Better a small certainty than a great uncertainty"
+  },
+  {
+    "id": 2660,
+    "topic": "Source Credibility",
+    "premise": "value|counsel|depends|gives",
+    "conclusion": "The value of counsel depends on who gives it"
+  },
+  {
+    "id": 2661,
+    "topic": "Preventive Hardship",
+    "premise": "present|pain|prevent|future|suffering",
+    "conclusion": "Present pain may prevent future suffering"
+  },
+  {
+    "id": 2662,
+    "topic": "Ingratitude",
+    "premise": "ungrateful|bite|hand|feeds",
+    "conclusion": "The ungrateful bite the hand that feeds them"
+  },
+  {
+    "id": 2663,
+    "topic": "Shared Burden",
+    "premise": "trouble|shared|halved",
+    "conclusion": "Trouble shared is trouble halved"
+  },
+  {
+    "id": 2664,
+    "topic": "Common Threat",
+    "premise": "common|danger|unites|enemies",
+    "conclusion": "A common danger unites even enemies"
+  },
+  {
+    "id": 2665,
+    "topic": "Inherited Nature",
+    "premise": "inherit|traits|cannot|escape|influence",
+    "conclusion": "Those who inherit traits cannot escape their influence"
+  },
+  {
+    "id": 2666,
+    "topic": "Age and Trade-offs",
+    "premise": "brings|wisdom|weakness",
+    "conclusion": "Age brings wisdom but also weakness"
+  },
+  {
+    "id": 2667,
+    "topic": "Temporal Hubris",
+    "premise": "confidence|based|current|strength|forgets|future",
+    "conclusion": "Confidence based on current strength forgets future vulnerability"
+  },
+  {
+    "id": 2668,
+    "topic": "Imprudent Generosity",
+    "premise": "generosity|enemies|rarely|repaid",
+    "conclusion": "Generosity to enemies is rarely repaid"
+  },
+  {
+    "id": 2669,
+    "topic": "Glory vs Shame",
+    "premise": "brief|glory|worth|lasting|shame",
+    "conclusion": "Brief glory is not worth lasting shame"
+  },
+  {
+    "id": 2670,
+    "topic": "Inner vs Outer Value",
+    "premise": "inner|worth|matters|outer|show",
+    "conclusion": "Inner worth matters more than outer show"
+  },
+  {
+    "id": 2671,
+    "topic": "Self-Mastery",
+    "premise": "cannot|control|others",
+    "conclusion": "Those who cannot control themselves cannot control others"
+  },
+  {
+    "id": 2672,
+    "topic": "Familiarity and Respect",
+    "premise": "familiarity|breeds|contempt",
+    "conclusion": "Familiarity breeds contempt"
+  },
+  {
+    "id": 2673,
+    "topic": "Freedom and Constraint",
+    "premise": "liberty|constrained|lost",
+    "conclusion": "Liberty constrained is liberty lost"
+  },
+  {
+    "id": 2674,
+    "topic": "Intrinsic Reward",
+    "premise": "good|deed|reward",
+    "conclusion": "A good deed is its own reward"
+  },
+  {
+    "id": 2675,
+    "topic": "Short-Sightedness",
+    "premise": "blinded|immediate|advantage|miss|long|term",
+    "conclusion": "Those blinded by immediate advantage miss long-term disaster"
+  },
+  {
+    "id": 2676,
+    "topic": "Self-Destructive Envy",
+    "premise": "envy|corrodes|envious",
+    "conclusion": "Envy corrodes the envious"
+  },
+  {
+    "id": 2677,
+    "topic": "Power Dynamics",
+    "premise": "strong|weak|suffer",
+    "conclusion": "The strong do what they will; the weak suffer what they must"
+  },
+  {
+    "id": 2678,
+    "topic": "Truth's Emergence",
+    "premise": "truth|matter|deeply|buried",
+    "conclusion": "Truth will out, no matter how deeply buried"
+  },
+  {
+    "id": 2679,
+    "topic": "Deception Karma",
+    "premise": "deceive|deceived",
+    "conclusion": "Those who deceive will be deceived"
+  },
+  {
+    "id": 2680,
+    "topic": "Sovereignty vs Service",
+    "premise": "better|rule|hell|serve|heaven|natures",
+    "conclusion": "Better to rule in hell than serve in heaven for some natures"
+  }
+]

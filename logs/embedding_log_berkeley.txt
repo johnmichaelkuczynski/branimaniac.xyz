@@ -1,0 +1,16 @@
+=== EMBEDDING LOG FOR GEORGE BERKELEY ===
+Figure ID: berkeley
+Source Folder: /home/runner/workspace/server/data/berkeley
+Started: 2025-12-13T04:08:44.361Z
+============================================================
+
+[2025-12-13T04:08:44.365Z] SUCCESS | Berkeley_Complete_Positions.txt | 43 chunks | 
+[2025-12-13T04:08:53.936Z] FLAGGED | Delphi Complete Works of George Berkeley (Illustrated) (Delphi Series Ten Book 11).txt | 0 chunks | Contains 54 mentions of "Mill" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 1
+Chunks created: 43
+Files flagged: 1
+Errors: 0
+Completed: 2025-12-13T04:08:54.051Z

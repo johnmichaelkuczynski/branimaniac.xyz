@@ -1,0 +1,199 @@
+From Organization to Generation: Rethinking Formalization in Light of AI
+
+
+
+Abstract: This paper argues that artificial intelligence presents an unprecedented opportunity to formalize not just the products of discovery but the process of discovery itself. While traditional mathematical and logical formalizations primarily systematize pre-existing knowledge, studying how AI systems learn and make discoveries could help derive a genuine logic of discovery. The paper examines how this approach differs from traditional formalization and what it reveals about the nature of knowledge generation.
+
+
+
+Introduction 
+
+
+
+The development of artificial intelligence presents us with an unprecedented opportunity: the chance to formalize not just the products of discovery, but the process of discovery itself (Langley et al., 1987). Throughout history, mathematicians and logicians have created formal systems to organize pre-existing knowledge - Euclid's axiomatization of geometry, Dedekind's formalization of arithmetic, and the logical systems of Boole, Frege, and Russell (Shapiro, 2000). However, these formalizations share two significant limitations. First, they primarily systematize knowledge we already possess rather than generate new insights. Second, being recursive systems built from axioms and rules of inference, they can only make explicit what was already implicit in their starting points (Lakatos, 1976). Now, by studying how AI systems actually learn and make discoveries, we might be able to derive a different kind of formalization - a true logic of discovery that captures the generative processes of knowledge acquisition.
+
+
+
+ The Nature and Limitations of Traditional Formalization
+
+
+
+Traditional formalizations are fundamentally recursive systems, built from axioms and rules of inference (Kleene, 1952). Their recursive nature reflects their primary function: organizing and making explicit knowledge that we already possess. When Euclid axiomatized geometry, he already understood geometric truths; his formalization provided a systematic way to arrange and derive this pre-existing knowledge (Mueller, 1981). Similarly, when logicians formalized basic inference patterns, they weren't discovering that "Jim is tall" entails "something is tall" -- they were systematizing relationships we already understood.
+
+
+
+Moreover, formal systems can sometimes actively impede the acquisition of new knowledge by prematurely ruling out meaningful concepts or blocking potentially fruitful lines of inquiry. Consider these examples:
+
+
+
+ The Case of Infinitesimals
+
+
+
+When developing calculus, Newton and Leibniz worked productively with infinitesimals - quantities smaller than any positive number but greater than zero (Katz & Sherry, 2013). Later formalization of calculus with epsilon-delta proofs seemed to show that infinitesimals were incoherent. However, this "proof" of their impossibility was too sweeping. In probability theory, for instance, the chance of selecting any specific real number from a continuous distribution must be greater than zero but smaller than any positive number - precisely an infinitesimal probability. Abraham Robinson's later development of non-standard analysis showed that infinitesimals could be rigorously formalized after all (Robinson, 1966).
+
+
+
+ The Vector Space Example
+
+
+
+A more subtle example comes from linear algebra (MacLane, 1996). The standard formalization of vector spaces requires that they be closed under addition and scalar multiplication. This seemingly natural requirement actually obscures important mathematical structures. Consider the set of points in three-dimensional space with positive coordinates. This set has many vector-like properties and is crucial in applications from computer graphics to optimization theory, but it isn't technically a vector space because adding two vectors might take you outside the positive region (Bourbaki, 1989).
+
+
+
+ The Continuous Function Case
+
+
+
+Early attempts to formalize the concept of continuous functions focused on the intuitive idea that you can draw them "without lifting your pencil." This led to the ε-δ definition, which became standard (Grabiner, 1981). However, this formalization obscured other meaningful types of continuity, such as functions that preserve adjacency relationships in discrete spaces or maintain connectivity in topological spaces.
+
+
+
+ The Nature of Traditional Formalization
+
+
+
+ The Euclidean Example
+
+
+
+Consider Euclid's Elements, perhaps the most influential formalization in mathematical history (Heath, 1956). Before Euclid, Greek mathematicians already knew that the angles of a triangle sum to 180 degrees, that the Pythagorean theorem held true, and that certain geometric constructions were possible. What Euclid provided was not these truths themselves, but rather a systematic organization showing how they could be derived from simpler principles.
+
+
+
+ Dedekind and Arithmetic
+
+
+
+Similarly, when Richard Dedekind formalized the natural numbers (Dedekind, 1888/1963), he wasn't teaching anyone to count. His axioms - including the crucial principle of mathematical induction - provided a rigorous foundation for arithmetic operations that humans had been performing for millennia (Sieg & Morris, 2018).
+
+
+
+ The Discovery Process in AI Systems
+
+
+
+In contrast to these formal systems, AI approaches mathematical discovery in ways that more closely resemble original human discovery processes (Lake et al., 2017). Here's a detailed look at how AI systems actually learn and discover mathematical patterns:
+
+
+
+ Pattern Recognition and Generalization
+
+
+
+When learning geometry, an AI system might (Marcus, 2020):
+
+- Process thousands of triangle images, building up an understanding of triangularity
+
+- Notice invariant properties
+
+- Recognize patterns of relationship
+
+- Generate hypotheses about general principles from specific cases
+
+
+
+ Relational Learning and Constraint Discovery
+
+
+
+AI systems build understanding through (Pearl & Mackenzie, 2018):
+
+- Identifying dependencies between variables
+
+- Recognizing boundary conditions and constraints
+
+- Building predictive models
+
+- Detecting invariant relationships across transformations
+
+
+
+ Hierarchical Understanding
+
+
+
+AI systems develop mathematical knowledge in layers (Tenenbaum et al., 2011):
+
+
+
+1. Basic Pattern Recognition
+
+2. First-Order Generalizations
+
+3. Higher-Order Principles
+
+4. Meta-Level Understanding
+
+
+
+ References
+
+
+
+Bourbaki, N. (1989). *Elements of mathematics: Algebra I*. Springer-Verlag.
+
+
+
+Dedekind, R. (1963). *Essays on the theory of numbers* (W. W. Beman, Trans.). Dover. (Original work published 1888)
+
+
+
+Grabiner, J. V. (1981). *The origins of Cauchy's rigorous calculus*. MIT Press.
+
+
+
+Heath, T. L. (1956). *The thirteen books of Euclid's Elements*. Dover.
+
+
+
+Katz, M., & Sherry, D. (2013). Leibniz's infinitesimals: Their fictionality, their modern implementations, and their foes from Berkeley to Russell and beyond. *Erkenntnis*, 78(3), 571-625.
+
+
+
+Kleene, S. C. (1952). *Introduction to metamathematics*. North-Holland.
+
+
+
+Lake, B. M., Ullman, T. D., Tenenbaum, J. B., & Gershman, S. J. (2017). Building machines that learn and think like people. *Behavioral and Brain Sciences*, 40, E253.
+
+
+
+Lakatos, I. (1976). *Proofs and refutations: The logic of mathematical discovery*. Cambridge University Press.
+
+
+
+Langley, P., Simon, H. A., Bradshaw, G. L., & Zytkow, J. M. (1987). *Scientific discovery: Computational explorations of the creative processes*. MIT Press.
+
+
+
+MacLane, S. (1996). *Categories for the working mathematician*. Springer.
+
+
+
+Marcus, G. (2020). *The next decade in AI: Four steps towards robust artificial intelligence*. arXiv preprint arXiv:2002.06177.
+
+
+
+Mueller, I. (1981). *Philosophy of mathematics and deductive structure in Euclid's Elements*. MIT Press.
+
+
+
+Pearl, J., & Mackenzie, D. (2018). *The book of why: The new science of cause and effect*. Basic Books.
+
+
+
+Robinson, A. (1966). *Non-standard analysis*. North-Holland.
+
+
+
+Shapiro, S. (2000). *Thinking about mathematics: The philosophy of mathematics*. Oxford University Press.
+
+
+
+Sieg, W., & Morris, R. (2018). Dedekind's structuralism: Creating concepts and deriving theorems. In E. H. Reck (Ed.), *Logic, philosophy of mathematics, and their history: Essays in honor of W.W. Tait* (pp. 251-301). College Publications.
+
+
+
+Tenenbaum, J. B., Kemp, C., Griffiths, T. L., & Goodman, N. D. (2011). How to grow a mind: Statistics, structure, and abstraction. *Science*, 331(6022), 1279-1285.

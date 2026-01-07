@@ -1,0 +1,94 @@
+Epistemology Naturalized
+J.-M. Kuczynski
+
+CORE THESIS
+
+Epistemology can be "naturalized," meaning that it can be profitably studied by studying actual cases of knowledge-acquisition, as opposed to merely engaging in armchair conceptual analysis. The development of AI is a successful naturalization of epistemology, and its continued development will deepen our understanding of the nature of knowledge.
+
+PART I: THE CASE FOR NATURALIZED EPISTEMOLOGY
+
+According to the philosophical conventional wisdom, epistemology cannot be naturalized. Philosophers either ignored or rejected Quine's proposal, which consequently had no effect on the course of epistemology. This paper seeks to revive and extend Quine's 1969 proposal for naturalizing epistemology.
+
+THE DISTINCTION BETWEEN BELIEF-FORMATION AND KNOWLEDGE
+
+First of all, there is a difference between describing how people generate beliefs in general and how they generate knowledge-constitutive beliefs. Obviously, we cannot read epistemic norms off of the processes involved in belief-formation, since they often violate those norms, or only comply with them accidentally, and therefore fail to lead to knowledge.
+
+However, when we focus on cases where beliefs constitute knowledge, we can identify processes that comply with epistemic norms. This distinction is crucial because it allows for the identification of processes that lead to knowledge, which is essential for naturalizing epistemology.
+
+INDIRECT KNOWLEDGE OF THOUGHT-PROCESSES
+
+We cannot directly know others' thought-processes. But if we could know exactly what a knowledge-acquisitive thought-process were, we would find it sensitive to epistemic norms, in accordance with Quine's proposal.
+
+AI AS A MODEL FOR HUMAN KNOWLEDGE ACQUISITION
+
+The answer lies in the fact that we can build systems that are functionally intelligent, if not actually so. Given an intelligent system that we ourselves have constructed, we know exactly what it is doing when it solves a given problem, since we were the ones who told it how to do so.
+
+We understand computers because we program them, and we don't understand brains because we don't program them. AI systems, which we construct and understand, can serve as models for human knowledge acquisition. By building AI that solves problems in ways similar to humans, we can infer the methods humans use to acquire knowledge.
+
+SCALABILITY OF PROBLEM-SOLVING STRATEGIES
+
+If somebody picks a winning stock once, it could be luck, and if it isn't luck, that person could have used various different methods. If somebody picks 1,000 winners in a row, then that person has a scalable strategy of some kind or other.
+
+But when a system can solve multiplicities of problems, the range of viable hypotheses as to how it solved a given problem is much narrower, since any such hypothesis must be compatible with hypotheses as to how that system solved various other problems.
+
+Consequently, epistemology can be naturalized by building AI that can solve unbounded sets of problem-sets that we too are able to solve. If an AI system can solve an unbounded range of problems, it is likely using methods similar to those used by humans.
+
+PART II: REPLICATION AND REVERSE ENGINEERING
+
+THE INADEQUACY OF TRADITIONAL METHODS
+
+Activity is inherently incapable of being understood strictly on the basis of physical configuration. Observation and experimentation are insufficient; a third operation must be added, namely, that of replication, otherwise known as reverse engineering.
+
+Replication is a distinctive form of empirical inquiry. Understanding complex systems like brains and intelligence requires replication or reverse engineering, as traditional methods of observation and experimentation are insufficient.
+
+THE NECESSITY OF REPLICATION
+
+By replicating software-based systems, we learn how they might work; and when we triangulate this knowledge with knowledge of their configuration and behavior, we know how, in all likelihood, they do work.
+
+One does not first understand intelligence and on that basis create it; rather, one creates it and on that basis understand it. This is analogous to understanding color: you cannot understand color without having experienced color through vision. Similarly, understanding intelligence requires the creation of intelligent systems.
+
+PART III: CRITIQUE OF FORMAL LOGIC
+
+THE LIMITATIONS OF FORMAL LOGIC
+
+There exists a discipline known as "formal logic" whose supposed purpose is to identify rules of inference—rules that say what can be inferred from what. However, following these rules doesn't generate new knowledge.
+
+Formal logic, while useful for identifying rules of inference, does not contribute to the generation of new knowledge or the understanding of intelligence. Logic is idle until all necessary conditions are met and becomes useless once those conditions are satisfied.
+
+HISTORICAL CONTEXT
+
+George Boole and Leibniz believed logic could describe the laws of thought, and Leibniz even proposed that logic might be mathematized to create a universal thinking machine. However, by the beginning of the 20th century, philosophers were quite aware that the so-called laws of logic, while being worthy objects of reasoning, were of little use to reasoning itself.
+
+Having given up on the idea that logic of some kind or other might describe or guide thought, philosophers and mathematicians decided that logic's rightful purpose was to delineate the foundations of mathematics, not to serve as a guide to thinking.
+
+PART IV: THE ANALYSIS OF FAILURE
+
+THE RELEVANCE OF FAILURE
+
+The reasons for failure are relevant to the present inquiry. Understanding the reasons for failure provides valuable insights into the nature of the inquiry itself. By examining why something failed, we can better understand the underlying assumptions and methodologies of the inquiry.
+
+Failure is an inherent part of the inquiry process, and its reasons must be studied to progress. All inquiries involve trial and error, and understanding the errors is key to moving forward. Ignoring the reasons for failure would hinder the inquiry's development.
+
+THEORETICAL IMPLICATIONS
+
+1. SHIFT IN EPISTEMOLOGICAL METHODOLOGY: The argument for naturalizing epistemology through the study of AI and actual cases of knowledge acquisition implies a significant shift in epistemological methodology, moving away from a priori conceptual analysis towards empirical research.
+
+2. INTEGRATION OF AI AND EPISTEMOLOGY: The development of AI can be seen as a successful naturalization of epistemology, implying a deeper integration of AI research with philosophical inquiry into the nature of knowledge.
+
+3. REEVALUATION OF EPISTEMIC NORMS: Epistemic norms can be revealed through the study of knowledge-constitutive beliefs, potentially challenging traditional views of normativity in epistemology.
+
+PRACTICAL CONSEQUENCES
+
+1. ADVANCEMENT OF AI RESEARCH: AI can serve as a model for understanding human knowledge acquisition, with practical consequences for advancing our understanding of knowledge and cognition.
+
+2. EDUCATIONAL APPLICATIONS: Insights gained from studying AI's problem-solving methods could have practical applications in education, particularly in developing more effective teaching strategies and learning technologies.
+
+3. COGNITIVE ENHANCEMENT: Understanding the processes of knowledge acquisition through AI could lead to practical applications in cognitive enhancement, such as developing tools to improve human problem-solving and decision-making.
+
+CONCLUSION
+
+If AI can solve an unbounded range of problems, it is likely using methods similar to those used by humans. By studying these methods, we can naturalize epistemology—understanding the nature of knowledge not through armchair speculation but through empirical investigation of actual knowledge-acquisitive processes.
+
+The brain's complexity and the difficulty in studying its processes do not preclude the possibility of naturalizing epistemology through AI. Rather, AI provides precisely the transparent, replicable system we need to understand how knowledge is acquired and what norms govern its acquisition.
+
+Epistemology is naturalized when we study real instances of knowledge generation rather than engaging in merely conceptual analysis. The development of AI represents the most successful naturalization of epistemology to date.

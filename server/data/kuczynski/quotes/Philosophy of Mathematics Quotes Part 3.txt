@@ -1,0 +1,50 @@
+314. Any answer seems arbitrary. If I say: 'it's exactly 3 inches', I'm making a stipulation; I'm not identifying a pre-existing fact.
+315. There could (and probably would) be clouds even if there were no sentient beings; and, in the absence of such beings, there would, given just about any cloud C, be molecules that were definitely parts of C and others that definitely weren't parts of C and, what is relevant, molecules x such that x is a constituent of C wouldn't exactly be true and wouldn't exactly be false--or, to make an equivalent point, such that x's constituency in C would not itself exactly be a constituent of the universe and also wouldn't exactly fail to be a constituent of the universe.
+316. We cannot expect our linguistic conventions to 'cut nature at the joints,' to use Francis Bacon's expression; we cannot expect them to be hewed to exactly those properties in terms of which the constitution of the world is to be delineated.
+317. Laws created 200 years ago necessarily fail to address issues relating to the disposal of motor-oil. There's nothing mysterious about this, and it's obviously no reason for saying that the world is intrinsically vague.
+318. Attempts to identify properties that are objectively indeterminate can be interpreted as cases where no one property has been identified, suggesting that so-called cases of objective indeterminacy are nothing more than projections into the external world of the platitude that open scientific questions are not to be solved by studying semantic rules.
+319. Z is not a 'thing.' If we were to list all the things in the world, my pen would be on the list, and so would the table on which it rests. But Z wouldn't be on the list. Why not? Because Z lacks the dynamic cohesiveness, and concomitant predictive and explanatory usefulness, that is had by the pen or the table or any other bona fide object.
+320. Things are ipso facto prediction- and explanation facilitators. One thing can be more prediction- and explanation-conducive than another.
+321. Because of its relatively high degree of causal integrity, a house made of bricks and mortar is more explanation- and prediction-conducive than a house of cards.
+322. A consequence of this analysis is that a given aggregate of molecules may be a thing in one respect and fail to be a thing in some other respect.
+323. In a context where the interactions holding among molecules m1.....mn facilitate prediction and explanation, m1....mn constitute a thing. In a different explanatory context, one where they don't have the aforementioned virtues, they don't constitute a thing.
+324. The relation of parthood is always to be understood in organizational terms.
+325. Whether object x can fit into organization y often depends on where x is in relation to y. (Hence the illusion that parthood is sometimes a purely spatial relation.)
+326. But it's only if x's bearing a certain spatial relation to y suffices for its being appropriately integrated into y that x's location relative to y suffices for its being a part of y.
+327. Thus, even clouds aren't mere heaps of molecules. Nothing is a mere heap.
+328. Any group of objects that is organized in one respect is disorganized in some other.
+329. A group of objects that is organized in one respect is necessarily disorganized in some other.
+330. Before we ask whether x is a part of y, there are three questions that we must answer: What kind of organization are we taking y to be? What conditions a given object must satisfy to belong to such an organization? How must a given object interact with a group of objects composing such an organization if it is to be one of them?
+331. For a multiplicity of grains of sand to qualify as a heap, it is necessary and (ultimately) sufficient that they satisfy the following requirements: each member of that heap must be contiguous with at least one other such member; taken jointly, those grains of sand must form a 3-D entity; and the entity in question cannot be a structure, at least not in the same sense as a building or a ship in a bottle.
+332. The difference between a heap of sand and a sand-castle seems to lie in the fact that there are quite strict conditions that a grain of sand must satisfy to become part of a sand-castle, whereas there are no conditions, apart from some very generic ones, that a grain of sand must satisfy to become part of a heap of sand.
+333. There are obviously degrees of heapiness---just as there are degrees of intelligence, tallness, etc. Whether a given mound of sound sand is 'heapy' is relative to the operative standard.
+334. There is no one number 3. Rather, there is 31, 32....3n... where 31 is the class of all triples of individuals, 32 is the class of triples of first-order classes; and so on.
+335. Linguistic surface structure often falsely suggests that what are in fact statements about classes are statements about individuals.
+336. If I say nothing, the proposition P1: I am saying nothing is true. So P1 isn't self-refuting; its truth doesn't entail its falsity.
+337. There are many occasions on which I am indeed saying and on which, therefore, the proposition I am saying nothing is true.
+338. The proposition that I am affirming is inconsistent, not with itself, but with the fact that somebody is saying it.
+339. All we have is a proposition whose truth is dependent on its not being stated.
+340. There are infinitely many numbers n such that, for some true proposition P, P: it is true that 2<n, and it is never said that 2<n.
+341. "The class of classes that are not members of themselves" means: "The class K of classes k such that k doesn't have p, for some property p such that x has p iff x is a member of K."
+342. "The class K of classes that do not belong to themselves does not belong to itself" means: "If K is the class of classes k such that k does not have p, for some property p such that x belongs to k iff x has p, then K does not have p."
+343. "Impredicative" is impredicative means "Does not fall within its own extension" does not fall within its own extension.
+344. "is a thing x such that x isn't true of x" isn't true of x.
+345. None of 1-4 warrants the position that predicates (both open and closed, open predicates corresponding to classes, closed predicates being sentences and thus corresponding to propositions) may range only over entities that belong to orders lower than do those predicates themselves.
+346. Propositions are sets of properties; and for a proposition to be true is for the members of the set with which it is identical to be jointly instantiated.
+347. Truth is identical with the property of being a set (of a certain kind) all of whose members are instantiated.
+348. The property of being identical with something that is smoking and is identical with Tommy.
+349. 1 is true if, and only if, each of A, B, and C is instantiated.
+350. One property 'combines' n other properties exactly if the first is instantiated exactly if the other n properties are jointly instantiated.
+351. A's being instantiated is necessary but not sufficient for C's being instantiated, the same being true of B's being instantiated.
+352. the proposition that Plato snores exists despite the failure of existence of entities on whose existence its own existence is constitutively dependent.
+353. the cardinality of the continuum is greater than that of the cardinals... is meaningless (neither true nor false), for the same reason that, given TT, 'I 31 have pairs of shoes' is meaningless.
+354. If I say 'snow is white, but I don't believe that snow is white,' what I am saying-the proposition I am affirming-is: Q: snow is white, and I don't believe that snow is white, which could obviously be true.
+355. LEM and LNC are LC-equivalent, meaning that (i)LEM entails that LEM is equivalent with LNC, and LNC entails that LNC is equivalent with LEM.
+356. the word 'theory' is not therefore ambiguous; rather it is polysemous... The word 'theory,' as logicians use it, is not a way of modeling empirical data and, to that extent, doesn't have the same meaning that it has when physicists use it.
+357. Every extension of arithmetic had a very specific practical justification... were it not for their results, those extensions of arithmetic would introduced incoherencies into the structure of mathematics and, technically, would have rendered the discipline defunct.
+358. there is no statement, and thus no falsehood, that isn't a logical consequence of an inconsistent body of statements.
+359. 8 is stated in a meta-language, unlike others. Also, 8 is not one axiom; in fact, it isn't an axiom at all: it is an axiom-schema, each of whose infinitely many instances are constitutive of the axiom-set in question.
+360. Thus, technically speaking, an axiom-set can contain infinitely many members. But the operative term is 'technically speaking.' There must be a finitary way of specifying the axioms of a theory.
+361. When it is said that a given theory comprises infinitely many axioms, what is being is that at least one of the axioms of that theory cannot be expressed in that theory and, moreover, licenses infinitely many distinct (though structurally analogous) transformation-rules.
+362. No such induction-axiom-schema qualifies as a well-formed formula in the language to which the sentences generated by that axiom-set belong. And this means that with respect to that language such an induction-axiom(-schema) represents infinitely many distinct axioms.
+363. Thus, given how vague the term 'Important' is and also how unclear it is whether a given axiom-set---or hypothesis or model---will some day be important, it follows that the term 'formal truth' has to be used with extreme care, lest it have no meaning.

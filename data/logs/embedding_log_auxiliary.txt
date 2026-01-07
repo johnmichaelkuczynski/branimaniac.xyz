@@ -1,0 +1,18 @@
+=== EMBEDDING LOG FOR AUXILIARY ===
+Figure ID: auxiliary
+Source Folder: /home/runner/workspace/server/data/auxiliary
+Started: 2025-12-13T04:16:03.639Z
+============================================================
+
+[2025-12-13T04:16:03.644Z] ERROR | Bergler_Positions.txt | 0 chunks | insert or update on table "paper_chunks" violates foreign key constraint "paper_chunks_figure_id_figures_id_fk"
+[2025-12-13T04:16:04.202Z] ERROR | Kernberg_Positions.txt | 0 chunks | insert or update on table "paper_chunks" violates foreign key constraint "paper_chunks_figure_id_figures_id_fk"
+[2025-12-13T04:16:04.570Z] ERROR | Reich_Positions.txt | 0 chunks | insert or update on table "paper_chunks" violates foreign key constraint "paper_chunks_figure_id_figures_id_fk"
+[2025-12-13T04:16:05.173Z] ERROR | Stekel_Positions.txt | 0 chunks | insert or update on table "paper_chunks" violates foreign key constraint "paper_chunks_figure_id_figures_id_fk"
+
+============================================================
+SUMMARY
+Files processed: 0
+Chunks created: 0
+Files flagged: 0
+Errors: 4
+Completed: 2025-12-13T04:16:05.533Z

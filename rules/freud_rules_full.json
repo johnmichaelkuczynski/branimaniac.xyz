@@ -1,0 +1,322 @@
+[
+  {
+    "id": "FREUD-UCS-001",
+    "year": 1915,
+    "premise": "unconscious|repressed|hidden|unaware",
+    "conclusion": "The unconscious is a system containing repressed mental contents that are denied access to consciousness. These contents remain dynamically active and influence behavior, symptoms, and dreams without the subject's awareness.",
+    "strength": 0.95,
+    "domain": "topography"
+  },
+  {
+    "id": "FREUD-UCS-002",
+    "year": 1915,
+    "premise": "preconscious|available|latent memory|recall",
+    "conclusion": "The preconscious contains mental contents not currently in consciousness but accessible through attention. Unlike unconscious contents, preconscious material faces no barrier to becoming conscious.",
+    "strength": 0.90,
+    "domain": "topography"
+  },
+  {
+    "id": "FREUD-REP-001",
+    "year": 1915,
+    "premise": "repress|repression|forget|suppress|push away",
+    "conclusion": "Repression is the fundamental defense mechanism by which unacceptable thoughts, memories, and wishes are expelled from consciousness and kept in the unconscious. What is repressed continues to exert pressure toward consciousness and must be constantly held back.",
+    "strength": 0.95,
+    "domain": "defense"
+  },
+  {
+    "id": "FREUD-REP-002",
+    "year": 1926,
+    "premise": "defense|protect|guard|ward off|avoid",
+    "conclusion": "Defense mechanisms are ego operations that protect against anxiety by distorting or denying reality. Besides repression, these include projection, reaction formation, isolation, undoing, rationalization, and sublimation.",
+    "strength": 0.90,
+    "domain": "defense"
+  },
+  {
+    "id": "FREUD-STRUCT-001",
+    "year": 1923,
+    "premise": "id |the id|instinct|impulse|primitive|drive",
+    "conclusion": "The id is the reservoir of psychic energy containing the instincts. It operates according to the pleasure principle, seeking immediate discharge of tension without regard for reality or morality. The id knows no values, no good or evil, no morality.",
+    "strength": 0.95,
+    "domain": "structure"
+  },
+  {
+    "id": "FREUD-STRUCT-002",
+    "year": 1923,
+    "premise": "ego|reality|adapt|mediate|rational",
+    "conclusion": "The ego develops from the id through contact with external reality. It operates according to the reality principle, mediating between id demands, superego prohibitions, and external constraints. The ego is the seat of anxiety and deploys defense mechanisms.",
+    "strength": 0.95,
+    "domain": "structure"
+  },
+  {
+    "id": "FREUD-STRUCT-003",
+    "year": 1923,
+    "premise": "superego|conscience|guilt|moral|ideal|should|ought",
+    "conclusion": "The superego is the internalization of parental and societal prohibitions and ideals. It comprises the conscience (source of guilt) and the ego-ideal (source of pride and shame). The superego can be as demanding and irrational as the id itself.",
+    "strength": 0.95,
+    "domain": "structure"
+  },
+  {
+    "id": "FREUD-OEDIP-001",
+    "year": 1910,
+    "premise": "oedip|mother|father|parent|rival|castrat",
+    "conclusion": "The Oedipus complex is the central complex of the neuroses. The child desires the opposite-sex parent and views the same-sex parent as a rival. Resolution requires identification with the same-sex parent and renunciation of incestuous wishes.",
+    "strength": 0.95,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-OEDIP-002",
+    "year": 1924,
+    "premise": "castration|anxiety|threat|punish|father",
+    "conclusion": "Castration anxiety is the boy's fear that the father will punish his incestuous desires by removing his penis. This anxiety motivates repression of Oedipal wishes and identification with the father, forming the superego.",
+    "strength": 0.90,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-DREAM-001",
+    "year": 1900,
+    "premise": "dream|sleep|night|nightmare|vision",
+    "conclusion": "The dream is the royal road to the unconscious. Every dream is a wish-fulfillment—the disguised fulfillment of a repressed wish. The dream-work transforms latent dream-thoughts into the manifest dream through condensation, displacement, and symbolization.",
+    "strength": 0.95,
+    "domain": "dreams"
+  },
+  {
+    "id": "FREUD-DREAM-002",
+    "year": 1900,
+    "premise": "manifest|content|surface|appear|seem",
+    "conclusion": "The manifest content is the dream as remembered and reported—the surface narrative. It is a distorted and censored version of the latent content, disguised by the dream-work to evade the censor and protect sleep.",
+    "strength": 0.90,
+    "domain": "dreams"
+  },
+  {
+    "id": "FREUD-DREAM-003",
+    "year": 1900,
+    "premise": "latent|hidden meaning|beneath|underlying|symbol",
+    "conclusion": "The latent content comprises the unconscious thoughts, wishes, and impulses that the dream expresses in disguised form. Dream interpretation reverses the dream-work to uncover these hidden meanings through free association.",
+    "strength": 0.90,
+    "domain": "dreams"
+  },
+  {
+    "id": "FREUD-DREAM-004",
+    "year": 1900,
+    "premise": "condensation|compress|combine|multiple|overdetermin",
+    "conclusion": "Condensation is a dream-work mechanism whereby multiple latent elements are combined into a single manifest element. A single dream image may represent several thoughts, persons, or wishes simultaneously—this is overdetermination.",
+    "strength": 0.85,
+    "domain": "dreams"
+  },
+  {
+    "id": "FREUD-DREAM-005",
+    "year": 1900,
+    "premise": "displacement|shift|substitute|transfer|indirect",
+    "conclusion": "Displacement shifts psychic intensity from significant to insignificant elements. The emotional charge attached to an important latent thought is transferred to a trivial manifest element, evading the censor.",
+    "strength": 0.85,
+    "domain": "dreams"
+  },
+  {
+    "id": "FREUD-SEX-001",
+    "year": 1905,
+    "premise": "libido|sexual energy|desire|erotic|lust",
+    "conclusion": "Libido is psychosexual energy derived from the sexual instincts. It can be attached to objects (object-libido) or directed toward the self (ego-libido or narcissistic libido). Neurosis results from disturbances in libidinal development and distribution.",
+    "strength": 0.95,
+    "domain": "sexuality"
+  },
+  {
+    "id": "FREUD-SEX-002",
+    "year": 1905,
+    "premise": "oral|mouth|breast|suck|feed|eat|devour",
+    "conclusion": "The oral stage is the first phase of psychosexual development (birth to ~18 months). Pleasure centers on the mouth through sucking, biting, and feeding. Fixation at this stage produces oral character traits: dependency, passivity, or oral aggression.",
+    "strength": 0.90,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-SEX-003",
+    "year": 1905,
+    "premise": "anal|bowel|toilet|control|retain|expel|clean|dirty",
+    "conclusion": "The anal stage (~18 months to 3 years) centers pleasure on bowel control. The child experiences conflict between the pleasure of retention/expulsion and parental demands for control. Fixation produces anal character traits: orderliness, parsimony, obstinacy.",
+    "strength": 0.90,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-SEX-004",
+    "year": 1905,
+    "premise": "phallic|genital|penis|clitoris|masturb",
+    "conclusion": "The phallic stage (~3 to 6 years) focuses libido on the genitals. The Oedipus complex emerges during this phase. Children discover anatomical sex differences, leading to castration anxiety in boys and penis envy in girls.",
+    "strength": 0.90,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-TRANS-001",
+    "year": 1912,
+    "premise": "transfer|analyst|doctor|therapist|project|patient",
+    "conclusion": "Transference is the displacement of feelings, attitudes, and wishes originally directed toward significant figures in childhood onto the analyst. It provides access to the patient's unconscious conflicts and becomes the main battlefield of treatment.",
+    "strength": 0.95,
+    "domain": "clinical"
+  },
+  {
+    "id": "FREUD-TRANS-002",
+    "year": 1912,
+    "premise": "resistance|block|avoid|refuse|difficult|stuck",
+    "conclusion": "Resistance is everything in the patient's words and actions that obstructs gaining access to the unconscious. It is a manifestation of repression operating during treatment and must be analyzed rather than overcome by force.",
+    "strength": 0.90,
+    "domain": "clinical"
+  },
+  {
+    "id": "FREUD-ANX-001",
+    "year": 1926,
+    "premise": "anxiety|fear|dread|panic|worry|nervous",
+    "conclusion": "Anxiety is a signal of danger to the ego. Realistic anxiety responds to external danger; neurotic anxiety signals internal danger from repressed instinctual demands; moral anxiety signals danger from the superego (guilt).",
+    "strength": 0.95,
+    "domain": "affect"
+  },
+  {
+    "id": "FREUD-ANX-002",
+    "year": 1926,
+    "premise": "phobia|fear of|afraid|avoid|flee",
+    "conclusion": "Phobias are anxiety displaced onto external objects or situations. The phobic object symbolically represents the true source of danger—typically castration anxiety or separation anxiety. Little Hans's horse phobia concealed fear of the father.",
+    "strength": 0.85,
+    "domain": "psychopathology"
+  },
+  {
+    "id": "FREUD-NEUR-001",
+    "year": 1917,
+    "premise": "neurosis|neurotic|symptom|illness|disorder|patholog",
+    "conclusion": "Neurosis results from conflict between ego and id—the ego's attempt to repress unacceptable instinctual wishes. The repressed returns in the form of symptoms, which are compromise formations satisfying both the wish and the defense against it.",
+    "strength": 0.95,
+    "domain": "psychopathology"
+  },
+  {
+    "id": "FREUD-NEUR-002",
+    "year": 1896,
+    "premise": "hysteri|conversion|paralysi|blind|mute|physical symptom",
+    "conclusion": "Hysteria converts psychic conflict into somatic symptoms. The symptom symbolically expresses the repressed idea while simultaneously punishing the wish. Anna O.'s arm paralysis expressed and punished her forbidden hostile wishes.",
+    "strength": 0.90,
+    "domain": "psychopathology"
+  },
+  {
+    "id": "FREUD-NEUR-003",
+    "year": 1909,
+    "premise": "obsess|compuls|ritual|intrusive thought|repetit|doubt",
+    "conclusion": "Obsessional neurosis involves the return of repressed hostile and sexual wishes in the form of intrusive thoughts and compulsive rituals. The obsessional's ambivalence—love and hate toward the same object—produces doubt and indecision.",
+    "strength": 0.90,
+    "domain": "psychopathology"
+  },
+  {
+    "id": "FREUD-NARC-001",
+    "year": 1914,
+    "premise": "narciss|self-love|ego-libido|grandiose|mirror",
+    "conclusion": "Primary narcissism is the original libidinal cathexis of the ego before object-love develops. Secondary narcissism results from withdrawal of libido from objects back to the ego, as in psychosis, severe injury, or sleep.",
+    "strength": 0.90,
+    "domain": "narcissism"
+  },
+  {
+    "id": "FREUD-DEATH-001",
+    "year": 1920,
+    "premise": "death drive|thanatos|destruct|aggress|repetition compulsion",
+    "conclusion": "Beyond the pleasure principle lies the death drive (Thanatos)—an urge to return to an inorganic state. It manifests as aggression, self-destruction, and the compulsion to repeat painful experiences. Life is a conflict between Eros and Thanatos.",
+    "strength": 0.90,
+    "domain": "drives"
+  },
+  {
+    "id": "FREUD-DEATH-002",
+    "year": 1920,
+    "premise": "repetition|repeat|compulsion|trauma|relive|again",
+    "conclusion": "The repetition compulsion drives individuals to repeat traumatic experiences, contradicting the pleasure principle. Patients re-enact rather than remember; they repeat in action what they cannot recall in thought.",
+    "strength": 0.85,
+    "domain": "drives"
+  },
+  {
+    "id": "FREUD-PLEAS-001",
+    "year": 1911,
+    "premise": "pleasure principle|satisfy|gratif|immediate|tension reduction",
+    "conclusion": "The pleasure principle governs the id, seeking immediate reduction of tension and avoidance of unpleasure. The mental apparatus strives to keep excitation as low as possible. Unpleasure corresponds to increase in excitation, pleasure to its decrease.",
+    "strength": 0.95,
+    "domain": "economics"
+  },
+  {
+    "id": "FREUD-PLEAS-002",
+    "year": 1911,
+    "premise": "reality principle|delay|postpone|adapt|external world",
+    "conclusion": "The reality principle governs the ego, modifying the pleasure principle by postponing gratification according to external conditions. The ego learns that immediate satisfaction may bring greater unpleasure later and delays discharge accordingly.",
+    "strength": 0.90,
+    "domain": "economics"
+  },
+  {
+    "id": "FREUD-SLIP-001",
+    "year": 1901,
+    "premise": "slip|mistake|error|forget|wrong word|paraprax",
+    "conclusion": "Parapraxes (Freudian slips) are failed actions revealing unconscious intentions. Slips of the tongue, forgetting, misreadings, and bungled actions are not accidents but express repressed wishes that momentarily overcome censorship.",
+    "strength": 0.90,
+    "domain": "unconscious"
+  },
+  {
+    "id": "FREUD-FREE-001",
+    "year": 1900,
+    "premise": "free associat|say everything|withhold nothing|whatever comes to mind",
+    "conclusion": "Free association is the fundamental rule of psychoanalysis: the patient must say everything that comes to mind without selection or censorship. This allows repressed material to emerge through chains of association that lead back to unconscious complexes.",
+    "strength": 0.90,
+    "domain": "technique"
+  },
+  {
+    "id": "FREUD-MOURN-001",
+    "year": 1917,
+    "premise": "mourn|grief|loss|death|bereave|melanchol|depress",
+    "conclusion": "Mourning is the normal reaction to loss of a loved object. Melancholia (depression) differs in that the lost object is incorporated into the ego, and reproaches against the object become self-reproaches. The shadow of the object falls upon the ego.",
+    "strength": 0.90,
+    "domain": "affect"
+  },
+  {
+    "id": "FREUD-GROUP-001",
+    "year": 1921,
+    "premise": "group|crowd|mass|leader|herd|collective",
+    "conclusion": "In groups, individuals regress: intellectual capacity diminishes, affect intensifies, and the ego-ideal is replaced by the leader. Group members identify with each other through their common relation to the leader, who occupies the place of the ego-ideal.",
+    "strength": 0.85,
+    "domain": "social"
+  },
+  {
+    "id": "FREUD-IDENT-001",
+    "year": 1923,
+    "premise": "identif|identify|become like|model|imitat",
+    "conclusion": "Identification is the earliest emotional tie with another person. The ego is formed through successive identifications with lost or renounced objects. The character of the ego is a precipitate of abandoned object-cathexes.",
+    "strength": 0.90,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-PROJ-001",
+    "year": 1911,
+    "premise": "project|projection|attribute|blame|external|paranoi",
+    "conclusion": "Projection expels unacceptable feelings from the self and locates them in another. 'I hate him' becomes 'He hates me.' Projection is prominent in paranoia, where repressed homosexual wishes are transformed: 'I love him' becomes 'He persecutes me.'",
+    "strength": 0.85,
+    "domain": "defense"
+  },
+  {
+    "id": "FREUD-SUBLIM-001",
+    "year": 1908,
+    "premise": "sublim|channel|redirect|art|creative|civiliz|culture",
+    "conclusion": "Sublimation redirects sexual or aggressive energy toward socially valued aims. Artistic creation, intellectual work, and cultural achievements are sublimated expressions of instinctual drives. Civilization itself is built on renounced instincts.",
+    "strength": 0.85,
+    "domain": "defense"
+  },
+  {
+    "id": "FREUD-CURE-001",
+    "year": 1917,
+    "premise": "cure|heal|recover|treatment|psychoanalysis|therapy",
+    "conclusion": "The aim of psychoanalysis is to make the unconscious conscious—where id was, there ego shall be. Cure comes through insight: bringing repressed material into consciousness dissolves symptoms by removing their raison d'être.",
+    "strength": 0.90,
+    "domain": "clinical"
+  },
+  {
+    "id": "FREUD-FIXAT-001",
+    "year": 1905,
+    "premise": "fixat|stuck|arrest|regress|earlier stage",
+    "conclusion": "Fixation is the persistence of libido at an earlier developmental stage due to excessive gratification or frustration. Under stress, regression returns libido to fixation points, determining the form neurosis takes—oral, anal, or phallic.",
+    "strength": 0.85,
+    "domain": "development"
+  },
+  {
+    "id": "FREUD-AMBIV-001",
+    "year": 1912,
+    "premise": "ambival|love.*hate|conflict|both|opposite|torn",
+    "conclusion": "Ambivalence is the simultaneous presence of love and hate toward the same object. It is especially prominent in obsessional neurosis and in the Oedipal relationship with the father. The taboo on killing arises from ambivalence toward the primal father.",
+    "strength": 0.85,
+    "domain": "affect"
+  }
+]

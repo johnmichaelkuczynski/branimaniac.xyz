@@ -1,0 +1,42 @@
+Does possible world semantics turn all propositions into necessary ones?
+
+Journal of Pragmatics 39 (2007) 872–916
+
+John-Michael Kuczynski
+Department of Philosophy, University of California, 5631 South Hall, Santa-Barbara, CA 931060-3090, USA
+
+Abstract
+
+A number of philosophical and semantic analyses make essential use of the concept of a possible world. Following tradition, we will refer to this family of analyses as "possible world semantics" (PWS). The present work argues that there is no interpretation of the term "world" that validates even a single one of the doctrines composing PWS. It is argued that, depending on what the word "world" is taken to mean, PWS entails either that all modal terms (words like "necessarily" and "possibly") are infinitely ambiguous or that all true propositions are necessarily true. It is also argued that David Lewis' PWS-based analysis of counterfactuals can succeed only relative to decidedly retrograde conceptions of space and time. Most importantly, it is shown that PWS is false even if it finds a way to neutralize the arguments just described. Given certain truisms about spatiotemporal existence, it is a substantive modal question whether the worlds needed to validate PWS are even possible. (As we will see, there is reason to believe that many of those worlds are in the same category as worlds that comprise light but not electromagnetic radiation.) The modal status of these worlds cannot be non-circularly resolved within a PWS-framework, and must be therefore resolved within some other modal framework, showing that PWS is parasitic on some more fundamental understanding of modality.
+
+Keywords: Possible-world semantics; David Lewis; Necessity; Modality; Modal knowledge; Modal realism; Counterfactuals; Causality
+
+1. Introduction
+
+A view known as "possible world semantics" (PWS) provides the basis for clear and rigorous analyses of many important concepts. PWS is given by three contentions:
+
+(1) A proposition is possibly true exactly if it is true in some world.
+(2) A proposition is necessarily true exactly if it is true in every world.
+(3) A proposition is the set of worlds where it is true (or, equivalently, it is a function that assigns truth to all and only the worlds in that set).
+
+The most obvious applications of PWS relate to the concepts of possibility, necessity, and meaning. But PWS has proven capable of shedding great light on the nature of counterfactuals, mental content, and even moral obligation.
+
+Despite its virtues, PWS is bedeviled by a number of problems. The main purpose of this paper is to show that PWS is even more problematic than has hitherto been realized. In particular, it will be argued that PWS has the unwelcome consequence that all true propositions become necessarily true, and all false propositions become necessarily false. So George W. Bush is U.S. president in 2006 is in the same modal category as 2 + 2 = 4, the same being true of John Kerry is U.S. president in 2006 and 2 + 2 = 5.
+
+Let us say a word on the basic structure of this paper. In Part I, we will discuss the motivations for PWS, and will delineate some of the applications of that doctrine. In Part II, we will argue that PWS is eviscerated unless the term "world" is taken literally. (Our arguments here will include, but will also go beyond, Lewis' (1986) arguments for the same point.) In Part III, we will find that, given the realistic conception of other worlds demanded by PWS, that doctrine has a number of unpalatable consequences, among them the one previously noted. In Part IV, we will examine some of Hintikka's applications of PWS to the analysis of substitution failures and of propositional attitudes. Finally, in Part V, we will examine Lewis' analysis of counterfactuals. Our discussion of PWS will take into account, and find many applications for, some striking insights due to Bealer (1998).
+
+2. Part I. Some of the virtues of PWS
+
+Let us begin with a brief discussion of the merits of PWS. (1) and (2) reduce the problematic notions of possible and necessary truth to that of truth simpliciter. (3) reduces the problematic notion of a proposition to the less problematic notion of a set. (1)–(3) thus reduce the intensional to the extensional.
+
+PWS analyzes other concepts along similar lines. Let P be the proposition Smith is a tall person, and let C be the set of worlds where that proposition is true. P is true in world W exactly if W is a member of C. We may thus identify P's being true in W with W's being a member of a certain set. The obscure but pivotal notion of a proposition's being true is elegantly articulated in terms of the transparent notion of membership in a set.
+
+PWS extensionalizes other important notions. According to that doctrine, for a proposition P1 to entail a proposition P2 is for the set of worlds identical with the first to be included in the set of worlds identical with the second. The concept of compatibility is also thereby explained, since P1 is compatible with P2 exactly if P1 does not entail the negation of P2.
+
+Let us turn to another of PWS's great (apparent) triumphs. The concept of a property is as problematic as it is fundamental. Instances of properties are spatio-temporal objects, but properties themselves are outside of space and time. The very notion of a non-spatiotemporal object is one that, almost by definition, lacks empirical respectability and that has consequently been resisted by thinkers of an empiricist turn of mind. At the same time, the notion of a property is not easily dispensed with: statements like "Smith and Jones have many properties in common" are often true, and they seem to presuppose the existence not just of property-instances, but of properties themselves.
+
+PWS gives us a way of ameliorating this uncomfortable situation. Let F be a function that assigns truth to an object exactly if that object is tall. Smith is tall exactly if Smith is assigned truth by F. Given this, we might as well identify the property of tallness with F, and the fact of Smith's being tall with his being assigned truth by F. In this way a clear and precise meaning is given to obscure and metaphysically loaded statements like "Bob and Fred both instantiate the property of tallness."
+
+The great virtue of PWS is that, if successful, it reduces the intensional to the extensional. Sets take the place of mysterious entities like propositions and properties. Dark relations like necessitation are replaced by perspicuous facts about set-overlap. An important corollary – one that will play a large role in the present paper – is that PWS is threatened to the extent that intensions cannot be eliminated in favor of extensions.
+
+[Paper continues with detailed philosophical analysis of possible world semantics, modal logic, necessity, and counterfactuals...]

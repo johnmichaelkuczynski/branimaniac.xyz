@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 12667,
+    "topic": "Sidereus Nuncius",
+    "premise": "moon|surface|rough|uneven|full|cavities",
+    "conclusion": "The moon's surface is rough, uneven, and full of cavities and prominences\u2014not a perfect sphere"
+  },
+  {
+    "id": 12668,
+    "topic": "Sidereus Nuncius",
+    "premise": "lunar|mountains|exist|measured|geometrically|shadows",
+    "conclusion": "Lunar mountains exist and can be measured geometrically by their shadows"
+  },
+  {
+    "id": 12669,
+    "topic": "Sidereus Nuncius",
+    "premise": "boundary|lunar|light|dark|regions|irregular",
+    "conclusion": "The boundary between lunar light and dark regions is irregular, not a smooth arc"
+  },
+  {
+    "id": 12670,
+    "topic": "Sidereus Nuncius",
+    "premise": "moon|intrinsic|light|reflects|sunlight",
+    "conclusion": "The moon has no intrinsic light but reflects sunlight"
+  },
+  {
+    "id": 12671,
+    "topic": "Sidereus Nuncius",
+    "premise": "earthshine|moon|reflected|light|earth",
+    "conclusion": "Earthshine on the moon is reflected light from Earth"
+  },
+  {
+    "id": 12672,
+    "topic": "Sidereus Nuncius",
+    "premise": "earth|appear|luminous|viewed|moon",
+    "conclusion": "Earth itself would appear luminous when viewed from the moon"
+  },
+  {
+    "id": 12673,
+    "topic": "Sidereus Nuncius",
+    "premise": "milky|composed|innumerable|individual|stars",
+    "conclusion": "The Milky Way is composed of innumerable individual stars"
+  },
+  {
+    "id": 12674,
+    "topic": "Sidereus Nuncius",
+    "premise": "nebulae|resolve|clusters|discrete|stars|magnification",
+    "conclusion": "Nebulae resolve into clusters of discrete stars under magnification"
+  },
+  {
+    "id": 12675,
+    "topic": "Sidereus Nuncius",
+    "premise": "fixed|stars|appear|points|rather|discs",
+    "conclusion": "The fixed stars appear as points rather than discs through the telescope"
+  },
+  {
+    "id": 12676,
+    "topic": "Sidereus Nuncius",
+    "premise": "jupiter|four|satellites|medicean|stars|orbiting",
+    "conclusion": "Jupiter has four satellites (the Medicean stars) orbiting it"
+  },
+  {
+    "id": 12677,
+    "topic": "Sidereus Nuncius",
+    "premise": "jupiter|moons|complete|orbits|different|periods",
+    "conclusion": "Jupiter's moons complete their orbits in different periods"
+  },
+  {
+    "id": 12678,
+    "topic": "Sidereus Nuncius",
+    "premise": "existence|jovian|moons|refutes|objection|earth",
+    "conclusion": "The existence of Jovian moons refutes the objection that Earth cannot move while retaining its moon"
+  },
+  {
+    "id": 12679,
+    "topic": "Sidereus Nuncius",
+    "premise": "telescope|reveals|stars|visible|naked",
+    "conclusion": "The telescope reveals far more stars than are visible to the naked eye"
+  },
+  {
+    "id": 12680,
+    "topic": "Sidereus Nuncius",
+    "premise": "star|magnitudes|traditionally|classified|unreliable",
+    "conclusion": "Star magnitudes as traditionally classified are unreliable"
+  },
+  {
+    "id": 12681,
+    "topic": "Sidereus Nuncius",
+    "premise": "telescope|reliable|instrument|astronomical|observation",
+    "conclusion": "The telescope is a reliable instrument for astronomical observation"
+  },
+  {
+    "id": 12682,
+    "topic": "Sidereus Nuncius",
+    "premise": "mathematical|reasoning|determine|physical|properties|celestial",
+    "conclusion": "Mathematical reasoning can determine physical properties of celestial bodies"
+  },
+  {
+    "id": 12683,
+    "topic": "Sidereus Nuncius",
+    "premise": "heavens|fundamentally|different|kind|earth",
+    "conclusion": "The heavens are not fundamentally different in kind from Earth"
+  },
+  {
+    "id": 12684,
+    "topic": "Sidereus Nuncius",
+    "premise": "observational|evidence|override|traditional|astronomical|authority",
+    "conclusion": "Observational evidence should override traditional astronomical authority"
+  },
+  {
+    "id": 12685,
+    "topic": "Sidereus Nuncius",
+    "premise": "ptolemaic|distinction|celestial|terrestrial|realms|false",
+    "conclusion": "The Ptolemaic distinction between celestial and terrestrial realms is false"
+  },
+  {
+    "id": 12686,
+    "topic": "Sidereus Nuncius",
+    "premise": "discoveries|require|revision|inherited|cosmological|frameworks",
+    "conclusion": "New discoveries require revision of inherited cosmological frameworks"
+  },
+  {
+    "id": 12687,
+    "topic": "Letters on Sunspots",
+    "premise": "sunspots|near|surface|distant|planets",
+    "conclusion": "Sunspots are on or very near the sun's surface, not distant planets"
+  },
+  {
+    "id": 12688,
+    "topic": "Letters on Sunspots",
+    "premise": "rotates|axis|approximately|monthly",
+    "conclusion": "The sun rotates on its axis approximately monthly"
+  },
+  {
+    "id": 12689,
+    "topic": "Letters on Sunspots",
+    "premise": "sunspots|generated|dissolve|permanent|bodies",
+    "conclusion": "Sunspots are generated and dissolve\u2014they are not permanent bodies"
+  },
+  {
+    "id": 12690,
+    "topic": "Letters on Sunspots",
+    "premise": "sunspots|resemble|terrestrial|clouds|smoke|behavior",
+    "conclusion": "Sunspots resemble terrestrial clouds or smoke in their behavior"
+  },
+  {
+    "id": 12691,
+    "topic": "Letters on Sunspots",
+    "premise": "immutable|perfect|celestial|body",
+    "conclusion": "The sun is not an immutable, perfect celestial body"
+  },
+  {
+    "id": 12692,
+    "topic": "Letters on Sunspots",
+    "premise": "aristotelian|celestial|immutability|empirically|false",
+    "conclusion": "Aristotelian celestial immutability is empirically false"
+  },
+  {
+    "id": 12693,
+    "topic": "Letters on Sunspots",
+    "premise": "venus|exhibits|full|range|phases|like",
+    "conclusion": "Venus exhibits a full range of phases like the moon"
+  },
+  {
+    "id": 12694,
+    "topic": "Letters on Sunspots",
+    "premise": "phases|venus|prove|orbits|earth",
+    "conclusion": "The phases of Venus prove it orbits the sun, not Earth"
+  },
+  {
+    "id": 12695,
+    "topic": "Letters on Sunspots",
+    "premise": "copernican|system|explains|phases|venus|ptolemaic",
+    "conclusion": "The Copernican system explains the phases of Venus; the Ptolemaic cannot"
+  },
+  {
+    "id": 12696,
+    "topic": "Letters on Sunspots",
+    "premise": "mercury|exhibits|phases|consistent|solar|orbit",
+    "conclusion": "Mercury also exhibits phases consistent with solar orbit"
+  },
+  {
+    "id": 12697,
+    "topic": "Letters on Sunspots",
+    "premise": "observation|trumps|philosophical|speculation|about|celestial",
+    "conclusion": "Observation trumps philosophical speculation about celestial matters"
+  },
+  {
+    "id": 12698,
+    "topic": "Letters on Sunspots",
+    "premise": "heavens|undergo|generation|corruption|like|terrestrial",
+    "conclusion": "The heavens undergo generation and corruption like terrestrial nature"
+  },
+  {
+    "id": 12699,
+    "topic": "Letters on Sunspots",
+    "premise": "traditional|physics|cannot|account|actual|celestial",
+    "conclusion": "Traditional physics cannot account for actual celestial phenomena"
+  },
+  {
+    "id": 12700,
+    "topic": "Letters on Sunspots",
+    "premise": "priority|disputes|settled|documented|evidence",
+    "conclusion": "Priority disputes must be settled by documented evidence"
+  },
+  {
+    "id": 12701,
+    "topic": "Letters on Sunspots",
+    "premise": "telescope|provides|access|truths|unavailable|naked",
+    "conclusion": "The telescope provides access to truths unavailable to naked-eye astronomy"
+  },
+  {
+    "id": 12702,
+    "topic": "Letters on Sunspots",
+    "premise": "solar|phenomena|studied|systematically|repeated|observation",
+    "conclusion": "Solar phenomena can be studied systematically through repeated observation"
+  },
+  {
+    "id": 12703,
+    "topic": "Letters on Sunspots",
+    "premise": "mathematical|analysis|applies|solar|well|planetary",
+    "conclusion": "Mathematical analysis applies to solar as well as planetary phenomena"
+  },
+  {
+    "id": 12704,
+    "topic": "Letters on Sunspots",
+    "premise": "distinction|sublunary|superlunary|physics|untenable",
+    "conclusion": "The distinction between sublunary and superlunary physics is untenable"
+  },
+  {
+    "id": 12705,
+    "topic": "Letters on Sunspots",
+    "premise": "copernicanism|merely|computational|device|physically|true",
+    "conclusion": "Copernicanism is not merely a computational device but physically true"
+  },
+  {
+    "id": 12706,
+    "topic": "Letters on Sunspots",
+    "premise": "natural|philosophy|reformed|basis|observations",
+    "conclusion": "Natural philosophy must be reformed on the basis of new observations"
+  },
+  {
+    "id": 12707,
+    "topic": "Il Saggiatore",
+    "premise": "philosophy|written|language|mathematics",
+    "conclusion": "Philosophy is written in the language of mathematics"
+  },
+  {
+    "id": 12708,
+    "topic": "Il Saggiatore",
+    "premise": "nature|characters|triangles|circles|geometrical|figures",
+    "conclusion": "Nature's characters are triangles, circles, and geometrical figures"
+  },
+  {
+    "id": 12709,
+    "topic": "Il Saggiatore",
+    "premise": "without|mathematics|natural|philosophy|incomprehensible",
+    "conclusion": "Without mathematics, natural philosophy is incomprehensible"
+  },
+  {
+    "id": 12710,
+    "topic": "Il Saggiatore",
+    "premise": "qualities|like|taste|odor|color|exist",
+    "conclusion": "Qualities like taste, odor, and color exist only in the perceiving subject"
+  },
+  {
+    "id": 12711,
+    "topic": "Il Saggiatore",
+    "premise": "primary|qualities|shape|size|motion|objective",
+    "conclusion": "Primary qualities (shape, size, motion) are objective; secondary qualities are subjective"
+  },
+  {
+    "id": 12712,
+    "topic": "Il Saggiatore",
+    "premise": "heat|produced|motion|minute|particles",
+    "conclusion": "Heat is produced by motion of minute particles"
+  },
+  {
+    "id": 12713,
+    "topic": "Il Saggiatore",
+    "premise": "sensory|qualities|caused|motions|configurations|matter",
+    "conclusion": "Sensory qualities are caused by motions and configurations of matter"
+  },
+  {
+    "id": 12714,
+    "topic": "Il Saggiatore",
+    "premise": "distinction|real|perceived|properties|fundamental",
+    "conclusion": "The distinction between real and perceived properties is fundamental"
+  },
+  {
+    "id": 12715,
+    "topic": "Il Saggiatore",
+    "premise": "comets|likely|sublunary|optical|phenomena|solid",
+    "conclusion": "Comets are likely sublunary optical phenomena, not solid bodies"
+  },
+  {
+    "id": 12716,
+    "topic": "Il Saggiatore",
+    "premise": "arguments|authority|carry|weight|natural|philosophy",
+    "conclusion": "Arguments from authority carry no weight in natural philosophy"
+  },
+  {
+    "id": 12717,
+    "topic": "Il Saggiatore",
+    "premise": "experimental|evidence|guide|natural|investigation",
+    "conclusion": "Experimental evidence must guide natural investigation"
+  },
+  {
+    "id": 12718,
+    "topic": "Il Saggiatore",
+    "premise": "poetic|language|inappropriate|scientific|discourse",
+    "conclusion": "Poetic language is inappropriate for scientific discourse"
+  },
+  {
+    "id": 12719,
+    "topic": "Il Saggiatore",
+    "premise": "precision|language|essential|avoiding|philosophical|error",
+    "conclusion": "Precision in language is essential to avoiding philosophical error"
+  },
+  {
+    "id": 12720,
+    "topic": "Il Saggiatore",
+    "premise": "natural|phenomena|require|mechanical|explanation",
+    "conclusion": "Natural phenomena require mechanical explanation"
+  },
+  {
+    "id": 12721,
+    "topic": "Il Saggiatore",
+    "premise": "traditional|natural|philosophy|verbose|empty|content",
+    "conclusion": "Traditional natural philosophy is verbose and empty of content"
+  },
+  {
+    "id": 12722,
+    "topic": "Il Saggiatore",
+    "premise": "single|demonstrative|proof|outweighs|thousand|probable",
+    "conclusion": "A single demonstrative proof outweighs a thousand probable arguments"
+  },
+  {
+    "id": 12723,
+    "topic": "Il Saggiatore",
+    "premise": "scientific|disputes|resolved|evidence|reasoning|status",
+    "conclusion": "Scientific disputes must be resolved by evidence and reasoning, not status"
+  },
+  {
+    "id": 12724,
+    "topic": "Il Saggiatore",
+    "premise": "nature|occult|qualities",
+    "conclusion": "Nature does not act through occult qualities"
+  },
+  {
+    "id": 12725,
+    "topic": "Il Saggiatore",
+    "premise": "atomistic|corpuscular|matter|theory|preferable|hylomorphism",
+    "conclusion": "Atomistic or corpuscular matter theory is preferable to hylomorphism"
+  },
+  {
+    "id": 12726,
+    "topic": "Il Saggiatore",
+    "premise": "science|proceeds|analysis|simple|components|mathematical",
+    "conclusion": "Science proceeds by analysis into simple components and mathematical relations"
+  },
+  {
+    "id": 12727,
+    "topic": "Dialogue on World Systems",
+    "premise": "earth|rotates|axis|daily",
+    "conclusion": "Earth rotates on its axis daily"
+  },
+  {
+    "id": 12728,
+    "topic": "Dialogue on World Systems",
+    "premise": "earth|revolves|around|annually",
+    "conclusion": "Earth revolves around the sun annually"
+  },
+  {
+    "id": 12729,
+    "topic": "Dialogue on World Systems",
+    "premise": "apparent|motion|heavens|caused|earth|real",
+    "conclusion": "The apparent motion of the heavens is caused by Earth's real motion"
+  },
+  {
+    "id": 12730,
+    "topic": "Dialogue on World Systems",
+    "premise": "stellar|parallax|undetectable|stars|immense|distance",
+    "conclusion": "Stellar parallax is undetectable because of the stars' immense distance"
+  },
+  {
+    "id": 12731,
+    "topic": "Dialogue on World Systems",
+    "premise": "falling|bodies|continue|share|earth|motion",
+    "conclusion": "Falling bodies continue to share Earth's motion\u2014there is no detectable effect of rotation"
+  },
+  {
+    "id": 12732,
+    "topic": "Dialogue on World Systems",
+    "premise": "terrestrial|physics|operates|identically|whether|earth",
+    "conclusion": "Terrestrial physics operates identically whether Earth moves or rests"
+  },
+  {
+    "id": 12733,
+    "topic": "Dialogue on World Systems",
+    "premise": "tides|caused|combined|effects|earth|rotation",
+    "conclusion": "The tides are caused by the combined effects of Earth's rotation and revolution"
+  },
+  {
+    "id": 12734,
+    "topic": "Dialogue on World Systems",
+    "premise": "copernican|system|simpler|coherent|ptolemaic",
+    "conclusion": "The Copernican system is simpler and more coherent than the Ptolemaic"
+  },
+  {
+    "id": 12735,
+    "topic": "Dialogue on World Systems",
+    "premise": "retrograde|planetary|motion|naturally|explained|earth",
+    "conclusion": "Retrograde planetary motion is naturally explained by Earth's orbital motion"
+  },
+  {
+    "id": 12736,
+    "topic": "Dialogue on World Systems",
+    "premise": "ptolemaic|system|requires|arbitrary|unconnected|epicycles",
+    "conclusion": "The Ptolemaic system requires arbitrary and unconnected epicycles"
+  },
+  {
+    "id": 12737,
+    "topic": "Dialogue on World Systems",
+    "premise": "uniform|circular|motion|natural|celestial",
+    "conclusion": "Uniform circular motion is not the only natural celestial motion"
+  },
+  {
+    "id": 12738,
+    "topic": "Dialogue on World Systems",
+    "premise": "moon|shows|face|synchronized|rotation",
+    "conclusion": "The moon always shows the same face because of synchronized rotation"
+  },
+  {
+    "id": 12739,
+    "topic": "Dialogue on World Systems",
+    "premise": "arguments|common|sense|against|earth|motion",
+    "conclusion": "Arguments from common sense against Earth's motion are fallacious"
+  },
+  {
+    "id": 12740,
+    "topic": "Dialogue on World Systems",
+    "premise": "relative|motion|cannot|detected|observers|within",
+    "conclusion": "Relative motion cannot be detected by observers within a moving system"
+  },
+  {
+    "id": 12741,
+    "topic": "Dialogue on World Systems",
+    "premise": "ship|hold|thought|experiments|demonstrate|relativity",
+    "conclusion": "Ship's-hold thought experiments demonstrate relativity of motion"
+  },
+  {
+    "id": 12742,
+    "topic": "Dialogue on World Systems",
+    "premise": "aristotelian|physics|contradicts|observational|evidence",
+    "conclusion": "Aristotelian physics contradicts observational evidence"
+  },
+  {
+    "id": 12743,
+    "topic": "Dialogue on World Systems",
+    "premise": "scriptural|interpretation|accommodate|demonstrated|physical|truths",
+    "conclusion": "Scriptural interpretation must accommodate demonstrated physical truths"
+  },
+  {
+    "id": 12744,
+    "topic": "Dialogue on World Systems",
+    "premise": "natural|philosophy|cannot|conducted|syllogistic|logic",
+    "conclusion": "Natural philosophy cannot be conducted by syllogistic logic alone"
+  },
+  {
+    "id": 12745,
+    "topic": "Dialogue on World Systems",
+    "premise": "fixed|stars|suns|varying|immense|distances",
+    "conclusion": "The fixed stars are suns at varying immense distances"
+  },
+  {
+    "id": 12746,
+    "topic": "Dialogue on World Systems",
+    "premise": "copernican|system|physical|reality|merely|predictive",
+    "conclusion": "The Copernican system has physical reality, not merely predictive utility"
+  },
+  {
+    "id": 12747,
+    "topic": "Two New Sciences",
+    "premise": "strength|materials|scale|proportionally|size",
+    "conclusion": "The strength of materials does not scale proportionally with size"
+  },
+  {
+    "id": 12748,
+    "topic": "Two New Sciences",
+    "premise": "larger|structures|require|disproportionately|material|equal",
+    "conclusion": "Larger structures require disproportionately more material for equal strength"
+  },
+  {
+    "id": 12749,
+    "topic": "Two New Sciences",
+    "premise": "natural|limits|size|animals|structures",
+    "conclusion": "There are natural limits to the size of animals and structures"
+  },
+  {
+    "id": 12750,
+    "topic": "Two New Sciences",
+    "premise": "beams|break|predictable|ways|depending|dimensions",
+    "conclusion": "Beams break in predictable ways depending on their dimensions and loading"
+  },
+  {
+    "id": 12751,
+    "topic": "Two New Sciences",
+    "premise": "resistance|fracture|calculated|mathematically",
+    "conclusion": "Resistance to fracture can be calculated mathematically"
+  },
+  {
+    "id": 12752,
+    "topic": "Two New Sciences",
+    "premise": "freely|falling|bodies|accelerate|uniformly|regardless",
+    "conclusion": "Freely falling bodies accelerate uniformly regardless of weight"
+  },
+  {
+    "id": 12753,
+    "topic": "Two New Sciences",
+    "premise": "distance|fallen|proportional|square|elapsed|time",
+    "conclusion": "Distance fallen is proportional to the square of elapsed time"
+  },
+  {
+    "id": 12754,
+    "topic": "Two New Sciences",
+    "premise": "velocity|falling|bodies|increases|linearly|time",
+    "conclusion": "Velocity of falling bodies increases linearly with time"
+  },
+  {
+    "id": 12755,
+    "topic": "Two New Sciences",
+    "premise": "projectile|motion|composed|uniform|horizontal|accelerated",
+    "conclusion": "Projectile motion is composed of uniform horizontal and accelerated vertical motion"
+  },
+  {
+    "id": 12756,
+    "topic": "Two New Sciences",
+    "premise": "trajectory|projectile|parabola",
+    "conclusion": "The trajectory of a projectile is a parabola"
+  },
+  {
+    "id": 12757,
+    "topic": "Two New Sciences",
+    "premise": "speed|descent|regardless|incline|angle",
+    "conclusion": "The speed at the end of descent is the same regardless of the incline's angle"
+  },
+  {
+    "id": 12758,
+    "topic": "Two New Sciences",
+    "premise": "pendulum|period|independent|amplitude|small|swings",
+    "conclusion": "Pendulum period is independent of amplitude for small swings"
+  },
+  {
+    "id": 12759,
+    "topic": "Two New Sciences",
+    "premise": "pendulum|period|depends|length|weight",
+    "conclusion": "Pendulum period depends on length, not on the weight of the bob"
+  },
+  {
+    "id": 12760,
+    "topic": "Two New Sciences",
+    "premise": "naturally|accelerated|motion|follows|precise|mathematical",
+    "conclusion": "Naturally accelerated motion follows precise mathematical laws"
+  },
+  {
+    "id": 12761,
+    "topic": "Two New Sciences",
+    "premise": "mean|speed|theorem|correctly|relates|distance",
+    "conclusion": "The mean-speed theorem correctly relates distance to uniformly accelerated motion"
+  },
+  {
+    "id": 12762,
+    "topic": "Two New Sciences",
+    "premise": "resistance|affects|falling|bodies|abstracted|analysis",
+    "conclusion": "Air resistance affects falling bodies but can be abstracted from in analysis"
+  },
+  {
+    "id": 12763,
+    "topic": "Two New Sciences",
+    "premise": "percussion|force|analyzed|accumulated|momentum",
+    "conclusion": "Percussion force can be analyzed as accumulated momentum"
+  },
+  {
+    "id": 12764,
+    "topic": "Two New Sciences",
+    "premise": "vibrating|strings|produce|frequencies|proportional|tension",
+    "conclusion": "Vibrating strings produce frequencies proportional to tension and inversely to length"
+  },
+  {
+    "id": 12765,
+    "topic": "Two New Sciences",
+    "premise": "consonance|explained|ratios|vibrational|frequencies",
+    "conclusion": "Consonance is explained by the ratios of vibrational frequencies"
+  },
+  {
+    "id": 12766,
+    "topic": "Two New Sciences",
+    "premise": "infinite|quantities|meaningfully|compared|correspondence",
+    "conclusion": "Infinite quantities can be meaningfully compared through one-to-one correspondence"
+  },
+  {
+    "id": 12767,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "scripture|nature|derive|cannot|truly|conflict",
+    "conclusion": "Scripture and nature both derive from God and cannot truly conflict"
+  },
+  {
+    "id": 12768,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "scripture|accommodates|language|understanding|common|people",
+    "conclusion": "Scripture accommodates its language to the understanding of common people"
+  },
+  {
+    "id": 12769,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "passages|describing|natural|phenomena|interpreted|literally",
+    "conclusion": "Passages describing natural phenomena should not be interpreted literally when science demonstrates otherwise"
+  },
+  {
+    "id": 12770,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "purpose|scripture|salvation|natural|philosophy",
+    "conclusion": "The purpose of Scripture is salvation, not natural philosophy"
+  },
+  {
+    "id": 12771,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "bible|teaches|heaven|heavens",
+    "conclusion": "The Bible teaches how to go to heaven, not how the heavens go"
+  },
+  {
+    "id": 12772,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "scientific|demonstrations|constrain|biblical|interpretation",
+    "conclusion": "Scientific demonstrations should constrain biblical interpretation"
+  },
+  {
+    "id": 12773,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "augustine|supported|literal|interpretation|science|demands",
+    "conclusion": "Augustine supported non-literal interpretation when science demands it"
+  },
+  {
+    "id": 12774,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "church|fathers|intend|cosmological|doctrines",
+    "conclusion": "The Church Fathers did not intend to fix cosmological doctrines"
+  },
+  {
+    "id": 12775,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "joshua|passage|better|interpreted|copernicanism|ptolemaism",
+    "conclusion": "The Joshua passage can be better interpreted under Copernicanism than Ptolemaism"
+  },
+  {
+    "id": 12776,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "stopping|ptolemaic|physics|extend|described",
+    "conclusion": "Stopping the sun in Ptolemaic physics would not extend the day as described"
+  },
+  {
+    "id": 12777,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "theological|authorities|prematurely|condemn|scientific|positions",
+    "conclusion": "Theological authorities should not prematurely condemn scientific positions"
+  },
+  {
+    "id": 12778,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "condemning|copernicanism|harm|church|later|proven",
+    "conclusion": "Condemning Copernicanism would harm the Church if later proven true"
+  },
+  {
+    "id": 12779,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "heresy|concerns|doctrine|necessary|salvation|physical",
+    "conclusion": "Heresy concerns doctrine necessary for salvation, not physical astronomy"
+  },
+  {
+    "id": 12780,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "natural|philosophers|competence|domain|theologians|respect",
+    "conclusion": "Natural philosophers have competence in their domain that theologians should respect"
+  },
+  {
+    "id": 12781,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "prohibiting|free|inquiry|damages|pursuit|truth",
+    "conclusion": "Prohibiting free inquiry damages the pursuit of truth"
+  },
+  {
+    "id": 12782,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "scientific|matters|decided|evidence|demonstration",
+    "conclusion": "Scientific matters should be decided by evidence and demonstration"
+  },
+  {
+    "id": 12783,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "ecclesiastical|censure|science|risks|making|church",
+    "conclusion": "Ecclesiastical censure of science risks making the Church appear ignorant"
+  },
+  {
+    "id": 12784,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "copernican|hypothesis|strong|empirical|support",
+    "conclusion": "The Copernican hypothesis has strong empirical support"
+  },
+  {
+    "id": 12785,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "prudence|requires|allowing|scientific|questions|remain",
+    "conclusion": "Prudence requires allowing scientific questions to remain open"
+  },
+  {
+    "id": 12786,
+    "topic": "Letter to Grand Duchess Christina",
+    "premise": "faith|reason|operate|complementary|competing|domains",
+    "conclusion": "Faith and reason operate in complementary, not competing, domains"
+  },
+  {
+    "id": 12787,
+    "topic": "Cosmology",
+    "premise": "celestial|bodies|perfectly|smooth|immutable",
+    "conclusion": "Celestial bodies are not perfectly smooth and immutable"
+  },
+  {
+    "id": 12788,
+    "topic": "Cosmology",
+    "premise": "jupiter|moons|constitute|miniature|planetary|system",
+    "conclusion": "Jupiter's moons constitute a miniature planetary system"
+  },
+  {
+    "id": 12789,
+    "topic": "Cosmology",
+    "premise": "universe|contains|previously|unknown|objects",
+    "conclusion": "The universe contains previously unknown objects"
+  },
+  {
+    "id": 12790,
+    "topic": "Cosmology",
+    "premise": "earth|center|orbital|motion",
+    "conclusion": "Earth is not the only center of orbital motion"
+  },
+  {
+    "id": 12791,
+    "topic": "Cosmology",
+    "premise": "number|known|celestial|bodies|greater|previously",
+    "conclusion": "The number of known celestial bodies is greater than previously taught"
+  },
+  {
+    "id": 12792,
+    "topic": "Scientific Method",
+    "premise": "empirical|observation|pure|philosophy|discovers|facts",
+    "conclusion": "Empirical observation, not pure philosophy, discovers new facts"
+  },
+  {
+    "id": 12793,
+    "topic": "Cosmology",
+    "premise": "heavens|perfect|immutable",
+    "conclusion": "The heavens are not perfect and immutable"
+  },
+  {
+    "id": 12794,
+    "topic": "Solar Physics",
+    "premise": "sunspots|distant|planets|solar|phenomena",
+    "conclusion": "Sunspots are not distant planets but solar phenomena"
+  },
+  {
+    "id": 12795,
+    "topic": "Cosmology",
+    "premise": "observations|directly|support|copernican|system",
+    "conclusion": "Observations directly support the Copernican system"
+  },
+  {
+    "id": 12796,
+    "topic": "Cosmology",
+    "premise": "venus|phases|demand|heliocentric|model",
+    "conclusion": "Venus's phases demand a heliocentric model"
+  },
+  {
+    "id": 12797,
+    "topic": "Natural Philosophy",
+    "premise": "book|nature|written|language|mathematics",
+    "conclusion": "The Book of Nature is written in the language of mathematics"
+  },
+  {
+    "id": 12798,
+    "topic": "Epistemology",
+    "premise": "knowledge|nature|rooted|sensory|experience|rigorous",
+    "conclusion": "Knowledge of nature must be rooted in sensory experience and rigorous proof"
+  },
+  {
+    "id": 12799,
+    "topic": "Philosophy of Mind",
+    "premise": "secondary|qualities|exist|consciousness|perceiver",
+    "conclusion": "Secondary qualities exist only in the consciousness of the perceiver"
+  },
+  {
+    "id": 12800,
+    "topic": "Metaphysics",
+    "premise": "primary|qualities|real|properties|matter",
+    "conclusion": "Primary qualities are the real properties of matter"
+  },
+  {
+    "id": 12801,
+    "topic": "Scientific Method",
+    "premise": "authority|subordinate|demonstration|reason|science",
+    "conclusion": "Authority is subordinate to demonstration and reason in science"
+  },
+  {
+    "id": 12802,
+    "topic": "Corpuscular Philosophy",
+    "premise": "nature|ultimately|composed|atoms|motion",
+    "conclusion": "Nature is ultimately composed of atoms in motion"
+  },
+  {
+    "id": 12803,
+    "topic": "Cosmology",
+    "premise": "copernican|system|physically|true|mathematically|convenient",
+    "conclusion": "The Copernican system is physically true, not just mathematically convenient"
+  },
+  {
+    "id": 12804,
+    "topic": "Cosmology",
+    "premise": "earth|moves|rotating|axis|revolving|around",
+    "conclusion": "The Earth moves, both rotating on its axis and revolving around the Sun"
+  },
+  {
+    "id": 12805,
+    "topic": "Relativity of Motion",
+    "premise": "apparent|stability|earth|illusion|shared|motion",
+    "conclusion": "The apparent stability of Earth is an illusion of shared motion"
+  },
+  {
+    "id": 12806,
+    "topic": "Science and Religion",
+    "premise": "church|scripture|decide|questions|natural|science",
+    "conclusion": "The Church should not use Scripture to decide questions of natural science"
+  },
+  {
+    "id": 12807,
+    "topic": "Kinematics",
+    "premise": "distance|falling|body|travels|proportional|square",
+    "conclusion": "The distance a falling body travels is proportional to the square of the elapsed time"
+  },
+  {
+    "id": 12808,
+    "topic": "Inertia",
+    "premise": "body|motion|perfectly|level|plane|continue",
+    "conclusion": "A body in motion on a perfectly level plane would continue forever"
+  },
+  {
+    "id": 12809,
+    "topic": "Kinematics",
+    "premise": "projectile|motion|follows|parabolic|path",
+    "conclusion": "Projectile motion follows a parabolic path"
+  },
+  {
+    "id": 12810,
+    "topic": "Pendulum Dynamics",
+    "premise": "motion|pendulum|isochronous",
+    "conclusion": "The motion of a pendulum is isochronous"
+  },
+  {
+    "id": 12811,
+    "topic": "Mechanics",
+    "premise": "mathematical|science|material|strength|failure",
+    "conclusion": "There is a mathematical science of material strength and failure"
+  },
+  {
+    "id": 12812,
+    "topic": "Kinematics",
+    "premise": "mathematical|science|motion",
+    "conclusion": "There is a mathematical science of motion"
+  },
+  {
+    "id": 12813,
+    "topic": "Physics",
+    "premise": "vacuum|real|physical|properties|effects",
+    "conclusion": "Vacuum has real physical properties and effects"
+  },
+  {
+    "id": 12814,
+    "topic": "Free Fall",
+    "premise": "bodies|regardless|weight|fall|speed|vacuum",
+    "conclusion": "All bodies, regardless of weight, fall at the same speed in a vacuum"
+  },
+  {
+    "id": 12815,
+    "topic": "Natural Philosophy",
+    "premise": "nature|laws|fundamentally|mathematical|discoverable|experiment",
+    "conclusion": "Nature's laws are fundamentally mathematical and discoverable through experiment"
+  },
+  {
+    "id": 12816,
+    "topic": "Natural Philosophy",
+    "premise": "book|nature|written|language|mathematics",
+    "conclusion": "The book of nature is written in the language of mathematics"
+  },
+  {
+    "id": 12817,
+    "topic": "Natural Philosophy",
+    "premise": "universe|open|direct|reading|know|language",
+    "conclusion": "The universe is open to the direct reading of those who know this language"
+  },
+  {
+    "id": 12818,
+    "topic": "Scientific Method",
+    "premise": "questions|science|authority|thousands|worth|humble",
+    "conclusion": "In questions of science, the authority of thousands is not worth the humble reasoning of a single individual"
+  },
+  {
+    "id": 12819,
+    "topic": "Cosmology",
+    "premise": "planets|revolving|around|center|universe",
+    "conclusion": "The Sun, with all the planets revolving around it, is the center of the universe"
+  },
+  {
+    "id": 12820,
+    "topic": "Cosmology",
+    "premise": "earth|center|universe|rather|moves|around",
+    "conclusion": "The Earth is not the center of the universe, but rather moves around the Sun"
+  },
+  {
+    "id": 12821,
+    "topic": "Cosmology",
+    "premise": "earth|motion|real|physical|merely|mathematical",
+    "conclusion": "The Earth's motion is a real, physical motion, not merely a mathematical convenience"
+  },
+  {
+    "id": 12822,
+    "topic": "Lunar Astronomy",
+    "premise": "moon|earth|like|surface|mountains|valleys",
+    "conclusion": "The Moon has an Earth-like surface, with mountains and valleys"
+  },
+  {
+    "id": 12823,
+    "topic": "Cosmology",
+    "premise": "jovian|moons|prove|celestial|motion|circles",
+    "conclusion": "These Jovian moons prove that not all celestial motion circles the Earth"
+  },
+  {
+    "id": 12824,
+    "topic": "Stellar Astronomy",
+    "premise": "milky|nebulous|vapor|composed|multitude|faint",
+    "conclusion": "The Milky Way is not a nebulous vapor but is composed of a multitude of faint stars"
+  },
+  {
+    "id": 12825,
+    "topic": "Solar Physics",
+    "premise": "sunspots|real|phenomena|near|body",
+    "conclusion": "Sunspots are real phenomena on or very near the body of the Sun itself"
+  },
+  {
+    "id": 12826,
+    "topic": "Solar Physics",
+    "premise": "rotates|axis|evidenced|motion|sunspots",
+    "conclusion": "The Sun rotates on its axis, as evidenced by the motion of sunspots"
+  },
+  {
+    "id": 12827,
+    "topic": "Planetary Astronomy",
+    "premise": "venus|shows|complete|phases|possible|orbits",
+    "conclusion": "Venus shows a complete set of phases, which is only possible if it orbits the Sun"
+  },
+  {
+    "id": 12828,
+    "topic": "Epistemology",
+    "premise": "sensory|experience|aided|instruments|foundation|knowledge",
+    "conclusion": "Sensory experience, aided by instruments, is the foundation of knowledge about the natural world"
+  },
+  {
+    "id": 12829,
+    "topic": "Epistemology",
+    "premise": "pure|logical|deduction|without|observation|insufficient",
+    "conclusion": "Pure logical deduction without observation is insufficient for understanding nature"
+  },
+  {
+    "id": 12830,
+    "topic": "Scientific Method",
+    "premise": "scientific|disputes|rely|authority|ancient|texts",
+    "conclusion": "In scientific disputes, one must not rely on the authority of ancient texts but on sense experience and necessary demonstrations"
+  },
+  {
+    "id": 12831,
+    "topic": "Philosophy of Mind",
+    "premise": "tastes|odors|colors|reside|consciousness|sentient",
+    "conclusion": "Tastes, odors, and colors reside only in the consciousness of the sentient body and have no true existence outside it"
+  },
+  {
+    "id": 12832,
+    "topic": "Metaphysics",
+    "premise": "properties|like|figure|number|motion|truly",
+    "conclusion": "Only properties like figure, number, and motion truly exist in external matter"
+  },
+  {
+    "id": 12833,
+    "topic": "Physics",
+    "premise": "motion|nothing|change|relation|material|object",
+    "conclusion": "Motion is nothing other than a change in the relation of one material object to another"
+  },
+  {
+    "id": 12834,
+    "topic": "Relativity of Motion",
+    "premise": "absolute|rest|motion|relative|observer",
+    "conclusion": "There is no absolute rest or absolute motion, only motion relative to an observer"
+  },
+  {
+    "id": 12835,
+    "topic": "Inertia",
+    "premise": "body|moving|perfectly|level|surface|impediments",
+    "conclusion": "A body moving on a perfectly level surface with no impediments would continue in motion forever"
+  },
+  {
+    "id": 12836,
+    "topic": "Free Fall",
+    "premise": "bodies|regardless|weight|fall|speed|vacuum",
+    "conclusion": "All bodies, regardless of weight, would fall at the same speed in a vacuum"
+  },
+  {
+    "id": 12837,
+    "topic": "Kinematics",
+    "premise": "path|projectile|parabola",
+    "conclusion": "The path of a projectile is a parabola"
+  },
+  {
+    "id": 12838,
+    "topic": "Mechanics",
+    "premise": "resistance|materials|breaking|depends|geometrical|shape",
+    "conclusion": "The resistance of materials to breaking depends on their geometrical shape and dimensions, not just their substance"
+  },
+  {
+    "id": 12839,
+    "topic": "Mechanics",
+    "premise": "true|measurable|science|strength|materials",
+    "conclusion": "There is a true and measurable science of the strength of materials"
+  },
+  {
+    "id": 12840,
+    "topic": "Science and Religion",
+    "premise": "scripture|nature|proceed|divine|word|cannot",
+    "conclusion": "Scripture and nature proceed from the same divine word, so they cannot contradict each other when properly interpreted"
+  },
+  {
+    "id": 12841,
+    "topic": "Science and Religion",
+    "premise": "demonstrated|physical|truth|seems|contradict|scripture",
+    "conclusion": "When a demonstrated physical truth seems to contradict Scripture, the Scriptural passage must be reinterpreted"
+  },
+  {
+    "id": 12842,
+    "topic": "Science and Religion",
+    "premise": "purpose|holy|ghost|teach|heaven|instruct",
+    "conclusion": "The purpose of the Holy Ghost is to teach us how to go to heaven, not to instruct us in astronomy"
+  },
+  {
+    "id": 12843,
+    "topic": "Epistemology",
+    "premise": "senses|trusted|properly|aided|conditions|observation",
+    "conclusion": "The senses must be trusted when they are properly aided and conditions for observation are correct"
+  },
+  {
+    "id": 12844,
+    "topic": "Cosmology",
+    "premise": "universe|infinite|least|incomparably|larger|previously",
+    "conclusion": "The universe is infinite, or at least incomparably larger than previously believed"
+  },
+  {
+    "id": 12845,
+    "topic": "Stellar Astronomy",
+    "premise": "stars|fixed|celestial|sphere|scattered|immense",
+    "conclusion": "The stars are not fixed to a celestial sphere but are scattered at immense and varying distances"
+  },
+  {
+    "id": 12846,
+    "topic": "Lunar Astronomy",
+    "premise": "moon|light|shines|reflected|sunlight",
+    "conclusion": "The Moon does not have its own light but shines by reflected sunlight"
+  },
+  {
+    "id": 12847,
+    "topic": "Lunar Astronomy",
+    "premise": "ashen|light|dark|part|moon|caused",
+    "conclusion": "The ashen light on the dark part of the Moon is caused by sunlight reflected from the Earth"
+  },
+  {
+    "id": 12848,
+    "topic": "Lunar Astronomy",
+    "premise": "earth|seen|moon|appear|luminous|disk",
+    "conclusion": "The Earth, seen from the Moon, would appear as a luminous disk in the lunar sky"
+  },
+  {
+    "id": 12849,
+    "topic": "Stellar Astronomy",
+    "premise": "apparent|size|stars|seen|naked|spurious",
+    "conclusion": "The apparent size of stars as seen with the naked eye is a spurious effect caused by irradiation"
+  },
+  {
+    "id": 12850,
+    "topic": "Stellar Astronomy",
+    "premise": "telescope|reveals|true|point|like|nature",
+    "conclusion": "The telescope reveals the true, point-like nature of stars"
+  },
+  {
+    "id": 12851,
+    "topic": "Natural Philosophy",
+    "premise": "nature|inexorable|immutable|cares|whether|secret",
+    "conclusion": "Nature is inexorable and immutable and cares not whether her secret reasons are understandable to men"
+  },
+  {
+    "id": 12852,
+    "topic": "Scientific Method",
+    "premise": "philosophical|arguments|based|authority|alone|worthless",
+    "conclusion": "Philosophical arguments based on authority alone are worthless"
+  },
+  {
+    "id": 12853,
+    "topic": "Natural Philosophy",
+    "premise": "mathematics|unlock|secrets|physical|world",
+    "conclusion": "Mathematics is the key with which we can unlock the secrets of the physical world"
+  },
+  {
+    "id": 12854,
+    "topic": "Kinematics",
+    "premise": "acceleration|falling|bodies|uniform|follows|simple",
+    "conclusion": "The acceleration of falling bodies is uniform and follows a simple mathematical law"
+  },
+  {
+    "id": 12855,
+    "topic": "Pendulum Dynamics",
+    "premise": "period|pendulum|swing|independent|amplitude",
+    "conclusion": "The period of a pendulum's swing is independent of the amplitude of the swing"
+  },
+  {
+    "id": 12856,
+    "topic": "Physics",
+    "premise": "vacuum|possible|real|physical|properties",
+    "conclusion": "A vacuum is possible and has real physical properties"
+  },
+  {
+    "id": 12857,
+    "topic": "Physics",
+    "premise": "weight|exerts|pressure",
+    "conclusion": "Air has weight and exerts pressure"
+  },
+  {
+    "id": 12858,
+    "topic": "Mechanics",
+    "premise": "motion|body|determined|forces|acting",
+    "conclusion": "The motion of a body is determined by the sum of all the forces acting upon it"
+  },
+  {
+    "id": 12859,
+    "topic": "Mechanics",
+    "premise": "circular|motion|natural|celestial|bodies|aristotelian",
+    "conclusion": "Circular motion is not natural for celestial bodies in the Aristotelian sense but is governed by the same principles as terrestrial motion"
+  },
+  {
+    "id": 12860,
+    "topic": "Cosmology",
+    "premise": "traditional|aristotelian|cosmology|physically|impossible|philosophically",
+    "conclusion": "The traditional Aristotelian cosmology is physically impossible and philosophically unsound"
+  },
+  {
+    "id": 12861,
+    "topic": "Tidal Theory",
+    "premise": "tides|caused|primarily|combined|motion|earth",
+    "conclusion": "The tides are caused primarily by the combined motion of the Earth's rotation and revolution"
+  },
+  {
+    "id": 12862,
+    "topic": "Stellar Astronomy",
+    "premise": "fixed|stars|immensely|distant|explain|lack",
+    "conclusion": "The fixed stars are immensely distant to explain the lack of observable parallax"
+  },
+  {
+    "id": 12863,
+    "topic": "Scientific Method",
+    "premise": "doubt|father|invention|necessary|precursor|discovery",
+    "conclusion": "Doubt is the father of invention and the necessary precursor to all discovery"
+  },
+  {
+    "id": 12864,
+    "topic": "Natural Philosophy",
+    "premise": "nature|means|many|things",
+    "conclusion": "Nature does not act by means of many things when it can act by means of a few"
+  },
+  {
+    "id": 12865,
+    "topic": "Natural Philosophy",
+    "premise": "variety|effects|perceived|nature|stems|simple",
+    "conclusion": "The variety of effects perceived in nature stems from a few simple causes and principles"
+  },
+  {
+    "id": 12866,
+    "topic": "Mechanics",
+    "premise": "laws|motion|apply|celestial|terrestrial|bodies",
+    "conclusion": "The same laws of motion apply to both celestial and terrestrial bodies"
+  },
+  {
+    "id": 12867,
+    "topic": "Scientific Method",
+    "premise": "measure|measurable|make",
+    "conclusion": "One must measure what is measurable and make measurable what is not so"
+  },
+  {
+    "id": 12868,
+    "topic": "Scientific Method",
+    "premise": "facts|seem|first|improbable|necessarily|denied",
+    "conclusion": "Facts which seem at first improbable are not necessarily to be denied but must be examined with greater care"
+  },
+  {
+    "id": 12869,
+    "topic": "Epistemology",
+    "premise": "truth|found|following|opinion|majority|reasoning",
+    "conclusion": "The truth is not found by following the opinion of the majority but by reasoning from evidence"
+  },
+  {
+    "id": 12870,
+    "topic": "Natural Philosophy",
+    "premise": "universe|cannot|read|learned|language|written",
+    "conclusion": "The universe cannot be read until we have learned the language in which it is written"
+  },
+  {
+    "id": 12871,
+    "topic": "Scientific Method",
+    "premise": "names|definitions|allowed|dominate|investigation|facts",
+    "conclusion": "Names and definitions must not be allowed to dominate the investigation of facts"
+  },
+  {
+    "id": 12872,
+    "topic": "Epistemology",
+    "premise": "testimony|nature|reliable",
+    "conclusion": "The testimony of nature is the most reliable testimony of all"
+  },
+  {
+    "id": 12873,
+    "topic": "Science and Religion",
+    "premise": "feel|obliged|believe|endowed|sense|reason",
+    "conclusion": "I do not feel obliged to believe that the same God who endowed us with sense, reason, and intellect intended us to forgo their use"
+  },
+  {
+    "id": 12874,
+    "topic": "Scientific Freedom",
+    "premise": "command|professors|astronomy|confute|observations",
+    "conclusion": "To command the professors of astronomy to confute their own observations is to command them not to see what they do see"
+  },
+  {
+    "id": 12875,
+    "topic": "Cosmology",
+    "premise": "number|planets|limited|known|ancients",
+    "conclusion": "The number of planets is not limited to those known to the ancients"
+  },
+  {
+    "id": 12876,
+    "topic": "Scientific Method",
+    "premise": "instruments|extend|powers|senses|reveal|truths",
+    "conclusion": "New instruments extend the powers of our senses and reveal new truths"
+  },
+  {
+    "id": 12877,
+    "topic": "Scientific Method",
+    "premise": "scientific|theory|able|account|observed|phenomena",
+    "conclusion": "A scientific theory must be able to account for all observed phenomena"
+  },
+  {
+    "id": 12878,
+    "topic": "Cosmology",
+    "premise": "simplicity|copernican|system|mark|truth",
+    "conclusion": "The simplicity of the Copernican system is a mark of its truth"
+  },
+  {
+    "id": 12879,
+    "topic": "Scientific Method",
+    "premise": "philosophical|arguments|about|natural|world|resolved",
+    "conclusion": "Philosophical arguments about the natural world must be resolved by appeals to nature, not to books"
+  },
+  {
+    "id": 12880,
+    "topic": "Epistemology",
+    "premise": "search|truth|precious|possession",
+    "conclusion": "The search for truth is more precious than its possession"
+  },
+  {
+    "id": 12881,
+    "topic": "Lunar Astronomy",
+    "premise": "moon|solid|opaque|spherical|body|illuminated",
+    "conclusion": "The Moon is a solid, opaque, spherical body, illuminated by the Sun"
+  },
+  {
+    "id": 12882,
+    "topic": "Lunar Astronomy",
+    "premise": "surface|moon|full|cavities|prominences|like",
+    "conclusion": "The surface of the Moon is full of cavities and prominences, like the face of the Earth"
+  },
+  {
+    "id": 12883,
+    "topic": "Lunar Astronomy",
+    "premise": "height|lunar|mountains|calculated|lengths|shadows",
+    "conclusion": "The height of lunar mountains can be calculated from the lengths of their shadows"
+  },
+  {
+    "id": 12884,
+    "topic": "Lunar Astronomy",
+    "premise": "dark|spots|moon|stains|deep|cavities",
+    "conclusion": "The dark spots on the Moon are not stains but deep cavities"
+  },
+  {
+    "id": 12885,
+    "topic": "Lunar Astronomy",
+    "premise": "bright|spots|moon|high|mountains|rims",
+    "conclusion": "The bright spots on the Moon are high mountains and the rims of cavities"
+  },
+  {
+    "id": 12886,
+    "topic": "Planetary Astronomy",
+    "premise": "planets|bodies|analogous|earth|opaque|receiving",
+    "conclusion": "The planets are bodies analogous to the Earth, opaque and receiving light from the Sun"
+  },
+  {
+    "id": 12887,
+    "topic": "Planetary Astronomy",
+    "premise": "planets|show|distinct|measurable|disks|unlike",
+    "conclusion": "The planets show distinct, measurable disks, unlike the point-like stars"
+  },
+  {
+    "id": 12888,
+    "topic": "Planetary Astronomy",
+    "premise": "saturn|unusual|appearance|ring|surrounds",
+    "conclusion": "Saturn's unusual appearance is due to a ring that surrounds it"
+  },
+  {
+    "id": 12889,
+    "topic": "Jovian Moons",
+    "premise": "medicean|stars|periods|revolution|calculated|predicted",
+    "conclusion": "The Medicean Stars have periods of revolution that can be calculated and predicted"
+  },
+  {
+    "id": 12890,
+    "topic": "Practical Astronomy",
+    "premise": "periods|provide|potential|method|determining|longitude",
+    "conclusion": "These periods provide a potential method for determining longitude at sea"
+  },
+  {
+    "id": 12891,
+    "topic": "Telescopic Observation",
+    "premise": "apparent|increase|size|planets|seen|telescope",
+    "conclusion": "The apparent increase in the size of planets when seen through a telescope is real, while the apparent increase in stars is not"
+  },
+  {
+    "id": 12892,
+    "topic": "Optics",
+    "premise": "power|lens|magnify|function|curvature",
+    "conclusion": "The power of a lens to magnify is a function of its curvature"
+  },
+  {
+    "id": 12893,
+    "topic": "Cosmology",
+    "premise": "imperfections|seen|celestial|bodies|refute|doctrine",
+    "conclusion": "The imperfections seen in celestial bodies refute the doctrine of perfect, incorruptible heavens"
+  },
+  {
+    "id": 12894,
+    "topic": "Natural Philosophy",
+    "premise": "universe|grand|book|stands|continually|open",
+    "conclusion": "The universe is a grand book which stands continually open to our eyes"
+  },
+  {
+    "id": 12895,
+    "topic": "Epistemology",
+    "premise": "value|discovery|single|truth|highly|argumentation",
+    "conclusion": "I value the discovery of a single truth more highly than all the argumentation on all other questions"
+  },
+  {
+    "id": 12896,
+    "topic": "Scientific Method",
+    "premise": "testimony|single|observed|fact|worth|volumes",
+    "conclusion": "The testimony of a single observed fact is worth more than the volumes of dialectical argument"
+  },
+  {
+    "id": 12897,
+    "topic": "Scientific Freedom",
+    "premise": "freedom|scientific|inquiry|essential|discovery|truth",
+    "conclusion": "The freedom of scientific inquiry is essential for the discovery of truth"
+  },
+  {
+    "id": 12898,
+    "topic": "Epistemology",
+    "premise": "presume|human|understanding|measure|things|nature",
+    "conclusion": "One should not presume that human understanding is the measure of all things in nature"
+  },
+  {
+    "id": 12899,
+    "topic": "Kinematics",
+    "premise": "motion|uniformly|accelerated|body|analyzed|considering",
+    "conclusion": "The motion of a uniformly accelerated body can be analyzed by considering its mean speed"
+  },
+  {
+    "id": 12900,
+    "topic": "Mechanics",
+    "premise": "strength|beam|resist|breaking|proportional|square",
+    "conclusion": "The strength of a beam to resist breaking is proportional to the square of its depth"
+  },
+  {
+    "id": 12901,
+    "topic": "Acoustics",
+    "premise": "sound|produced|rapid|vibrations|cause|waves",
+    "conclusion": "Sound is produced by rapid vibrations that cause waves in the air"
+  },
+  {
+    "id": 12902,
+    "topic": "Acoustics",
+    "premise": "pitch|sound|determined|frequency|vibrations",
+    "conclusion": "The pitch of a sound is determined by the frequency of these vibrations"
+  },
+  {
+    "id": 12903,
+    "topic": "Natural Philosophy",
+    "premise": "study|nature|noble|worthwhile|pursuit|human",
+    "conclusion": "The study of nature is the most noble and worthwhile pursuit of the human mind, revealing the majesty of God's creation"
+  },
+  {
+    "id": 12904,
+    "topic": "Free Fall",
+    "premise": "bodies|fall|acceleration|regardless|weight",
+    "conclusion": "All bodies fall with the same acceleration regardless of weight"
+  },
+  {
+    "id": 12905,
+    "topic": "Free Fall",
+    "premise": "vacuum|feather|cannonball|fall|together",
+    "conclusion": "In a vacuum, a feather and a cannonball fall together"
+  },
+  {
+    "id": 12906,
+    "topic": "Kinematics",
+    "premise": "free|fall|uniformly|accelerated|motion",
+    "conclusion": "Free fall is uniformly accelerated motion"
+  },
+  {
+    "id": 12907,
+    "topic": "Kinematics",
+    "premise": "velocity|increases|linearly|time|distance",
+    "conclusion": "Velocity increases linearly with time, not with distance"
+  },
+  {
+    "id": 12908,
+    "topic": "Kinematics",
+    "premise": "number|rule|states|distances|covered|successive",
+    "conclusion": "The odd-number rule states that distances covered in successive equal time intervals are as 1:3:5:7"
+  },
+  {
+    "id": 12909,
+    "topic": "Kinematics",
+    "premise": "mean|speed|theorem|applies|falling|bodies",
+    "conclusion": "The mean-speed theorem applies to falling bodies"
+  },
+  {
+    "id": 12910,
+    "topic": "Kinematics",
+    "premise": "speed|acquired|fall|depends|height|path",
+    "conclusion": "Speed acquired in fall depends only on height, not on path"
+  },
+  {
+    "id": 12911,
+    "topic": "Kinematics",
+    "premise": "body|falling|vertically|descending|incline|height",
+    "conclusion": "A body falling vertically and one descending an incline from the same height reach the bottom with equal speeds"
+  },
+  {
+    "id": 12912,
+    "topic": "Kinematics",
+    "premise": "inclined|planes|dilute|gravity",
+    "conclusion": "Inclined planes dilute gravity"
+  },
+  {
+    "id": 12913,
+    "topic": "Kinematics",
+    "premise": "acceleration|along|incline|proportional|sine|angle",
+    "conclusion": "Acceleration along an incline is proportional to the sine of the angle"
+  },
+  {
+    "id": 12914,
+    "topic": "Kinematics",
+    "premise": "projectile|motion|compound|composed|independent|motions",
+    "conclusion": "Projectile motion is compound motion composed of two independent motions"
+  },
+  {
+    "id": 12915,
+    "topic": "Kinematics",
+    "premise": "horizontal|vertical|motions|independent",
+    "conclusion": "Horizontal and vertical motions are independent"
+  },
+  {
+    "id": 12916,
+    "topic": "Kinematics",
+    "premise": "ball|dropped|fired|horizontally|height|ground",
+    "conclusion": "A ball dropped and a ball fired horizontally from the same height hit the ground simultaneously"
+  },
+  {
+    "id": 12917,
+    "topic": "Projectile Motion",
+    "premise": "maximum|range|occurs|launch|angle|given",
+    "conclusion": "Maximum range occurs at 45\u00b0 launch angle for a given initial speed on level ground"
+  },
+  {
+    "id": 12918,
+    "topic": "Projectile Motion",
+    "premise": "complementary|angles|yield|equal|ranges",
+    "conclusion": "Complementary angles yield equal ranges"
+  },
+  {
+    "id": 12919,
+    "topic": "Projectile Motion",
+    "premise": "range|tables|computed|mathematically",
+    "conclusion": "Range tables can be computed mathematically"
+  },
+  {
+    "id": 12920,
+    "topic": "Inertia",
+    "premise": "body|motion|tends|remain|without|external",
+    "conclusion": "A body in motion tends to remain in motion without external interference"
+  },
+  {
+    "id": 12921,
+    "topic": "Relativity of Motion",
+    "premise": "rest|privileged|over|uniform|motion",
+    "conclusion": "Rest is not privileged over uniform motion"
+  },
+  {
+    "id": 12922,
+    "topic": "Inertia",
+    "premise": "force|required|maintain|uniform|motion",
+    "conclusion": "No force is required to maintain uniform motion"
+  },
+  {
+    "id": 12923,
+    "topic": "Mechanics",
+    "premise": "force|causes|change|motion",
+    "conclusion": "Force causes change in motion, not motion itself"
+  },
+  {
+    "id": 12924,
+    "topic": "Relativity of Motion",
+    "premise": "ship|hold|thought|experiment|demonstrates|motion",
+    "conclusion": "The ship's hold thought experiment demonstrates that motion below decks reveals nothing about motion of the ship"
+  },
+  {
+    "id": 12925,
+    "topic": "Relativity of Motion",
+    "premise": "butterflies|fish|swim|drops|fall|identically",
+    "conclusion": "Butterflies fly, fish swim, drops fall identically whether the ship is docked or sailing smoothly"
+  },
+  {
+    "id": 12926,
+    "topic": "Pendulum Dynamics",
+    "premise": "small|amplitudes|pendulum|period|independent|amplitude",
+    "conclusion": "For small amplitudes, pendulum period is independent of amplitude"
+  },
+  {
+    "id": 12927,
+    "topic": "Pendulum Dynamics",
+    "premise": "pendulum|swinging|large|takes|approximately|time",
+    "conclusion": "A pendulum swinging through a large arc takes approximately the same time as one swinging through a small arc"
+  },
+  {
+    "id": 12928,
+    "topic": "Pendulum Dynamics",
+    "premise": "lead|cork|equal|length|swing|periods",
+    "conclusion": "A lead bob and a cork bob of equal length swing with equal periods"
+  },
+  {
+    "id": 12929,
+    "topic": "Pendulum Dynamics",
+    "premise": "longer|pendulums|swing|slowly",
+    "conclusion": "Longer pendulums swing more slowly"
+  },
+  {
+    "id": 12930,
+    "topic": "Pendulum Dynamics",
+    "premise": "period|proportional|square|root|length",
+    "conclusion": "Period is proportional to the square root of length"
+  },
+  {
+    "id": 12931,
+    "topic": "Pendulum Dynamics",
+    "premise": "pendulums|serve|timekeepers",
+    "conclusion": "Pendulums can serve as timekeepers"
+  },
+  {
+    "id": 12932,
+    "topic": "Pendulum Dynamics",
+    "premise": "sympathetic|resonance|occurs|pendulums|equal|length",
+    "conclusion": "Sympathetic resonance occurs between pendulums of equal length"
+  },
+  {
+    "id": 12933,
+    "topic": "Pendulum Dynamics",
+    "premise": "pendulums|equal|length|transfer|energy|different",
+    "conclusion": "Pendulums of equal length transfer energy; those of different lengths do not"
+  },
+  {
+    "id": 12934,
+    "topic": "Acoustics",
+    "premise": "pitch|determined|frequency|vibration",
+    "conclusion": "Pitch is determined by frequency of vibration"
+  },
+  {
+    "id": 12935,
+    "topic": "Acoustics",
+    "premise": "higher|frequency|means|pitch",
+    "conclusion": "Higher frequency means higher pitch"
+  },
+  {
+    "id": 12936,
+    "topic": "Acoustics",
+    "premise": "frequency|vibrating|string|inversely|proportional|length",
+    "conclusion": "Frequency of a vibrating string is inversely proportional to its length"
+  },
+  {
+    "id": 12937,
+    "topic": "Acoustics",
+    "premise": "halving|length|doubles|frequency",
+    "conclusion": "Halving the length doubles the frequency"
+  },
+  {
+    "id": 12938,
+    "topic": "Acoustics",
+    "premise": "frequency|depends|tension",
+    "conclusion": "Frequency depends on tension"
+  },
+  {
+    "id": 12939,
+    "topic": "Acoustics",
+    "premise": "greater|tension|produces|higher|pitch",
+    "conclusion": "Greater tension produces higher pitch"
+  },
+  {
+    "id": 12940,
+    "topic": "Acoustics",
+    "premise": "frequency|depends|string|density|thickness",
+    "conclusion": "Frequency depends on the string's density and thickness"
+  },
+  {
+    "id": 12941,
+    "topic": "Acoustics",
+    "premise": "thicker|denser|strings|vibrate|slowly",
+    "conclusion": "Thicker or denser strings vibrate more slowly"
+  },
+  {
+    "id": 12942,
+    "topic": "Acoustics",
+    "premise": "consonance|explained|frequency|ratios",
+    "conclusion": "Consonance is explained by frequency ratios"
+  },
+  {
+    "id": 12943,
+    "topic": "Acoustics",
+    "premise": "octave|corresponds|ratio",
+    "conclusion": "Octave corresponds to the ratio 2:1"
+  },
+  {
+    "id": 12944,
+    "topic": "Acoustics",
+    "premise": "fifth|corresponds|ratio",
+    "conclusion": "Fifth corresponds to the ratio 3:2"
+  },
+  {
+    "id": 12945,
+    "topic": "Acoustics",
+    "premise": "fourth|corresponds|ratio",
+    "conclusion": "Fourth corresponds to the ratio 4:3"
+  },
+  {
+    "id": 12946,
+    "topic": "Acoustics",
+    "premise": "simple|ratios|please|complex|sound|dissonant",
+    "conclusion": "Simple ratios please the ear; complex ratios sound dissonant"
+  },
+  {
+    "id": 12947,
+    "topic": "Acoustics",
+    "premise": "resonance|strings|occurs|vibrating|string|excites",
+    "conclusion": "Resonance in strings occurs when a vibrating string excites sympathetic vibration in another string tuned to the same pitch"
+  },
+  {
+    "id": 12948,
+    "topic": "Acoustics",
+    "premise": "scraped|plate|produces|pitch|determined|spacing",
+    "conclusion": "A scraped plate produces pitch determined by the spacing of grooves"
+  },
+  {
+    "id": 12949,
+    "topic": "Strength of Materials",
+    "premise": "strength|beam|scale|proportionally|size",
+    "conclusion": "The strength of a beam does not scale proportionally with size"
+  },
+  {
+    "id": 12950,
+    "topic": "Strength of Materials",
+    "premise": "doubling|dimensions|beam|double|strength",
+    "conclusion": "Doubling all dimensions of a beam does not double its strength"
+  },
+  {
+    "id": 12951,
+    "topic": "Strength of Materials",
+    "premise": "strength|scales|cross|sectional|area|weight",
+    "conclusion": "Strength scales with cross-sectional area; weight scales with volume"
+  },
+  {
+    "id": 12952,
+    "topic": "Strength of Materials",
+    "premise": "giants|enormous|structures|mechanically|impossible",
+    "conclusion": "Giants and enormous structures are mechanically impossible"
+  },
+  {
+    "id": 12953,
+    "topic": "Strength of Materials",
+    "premise": "large|animals|require|proportionally|thicker|bones",
+    "conclusion": "Large animals require proportionally thicker bones"
+  },
+  {
+    "id": 12954,
+    "topic": "Strength of Materials",
+    "premise": "beam|breaks|wall|cantilever|problem",
+    "conclusion": "A beam breaks at the wall in the cantilever problem"
+  },
+  {
+    "id": 12955,
+    "topic": "Strength of Materials",
+    "premise": "beam|projecting|horizontally|wall|fractures|point",
+    "conclusion": "A beam projecting horizontally from a wall fractures at the point of support"
+  },
+  {
+    "id": 12956,
+    "topic": "Strength of Materials",
+    "premise": "resistance|fracture|depends|cross|sectional|dimensions",
+    "conclusion": "Resistance to fracture depends on cross-sectional dimensions"
+  },
+  {
+    "id": 12957,
+    "topic": "Strength of Materials",
+    "premise": "hollow|tubes|stronger|unit|weight|solid",
+    "conclusion": "Hollow tubes are stronger per unit weight than solid rods"
+  },
+  {
+    "id": 12958,
+    "topic": "Strength of Materials",
+    "premise": "nature|exploits|hollow|structures|bones|plant",
+    "conclusion": "Nature exploits hollow structures in bones and plant stems"
+  },
+  {
+    "id": 12959,
+    "topic": "Strength of Materials",
+    "premise": "geometric|similarity|imply|mechanical",
+    "conclusion": "Geometric similarity does not imply mechanical similarity"
+  },
+  {
+    "id": 12960,
+    "topic": "Strength of Materials",
+    "premise": "scale|models|predict|behavior|full|structures",
+    "conclusion": "Scale models do not predict behavior of full-scale structures directly"
+  },
+  {
+    "id": 12961,
+    "topic": "Hydrostatics",
+    "premise": "bodies|float|sink|according|density|shape",
+    "conclusion": "Bodies float or sink according to density, not shape"
+  },
+  {
+    "id": 12962,
+    "topic": "Hydrostatics",
+    "premise": "thin|sheet|lead|sinks|hulled|ship",
+    "conclusion": "A thin sheet of lead sinks; a lead-hulled ship floats because the hull encloses air"
+  },
+  {
+    "id": 12963,
+    "topic": "Hydrostatics",
+    "premise": "buoyancy|depends|volume|displaced|fluid",
+    "conclusion": "Buoyancy depends on volume of displaced fluid"
+  },
+  {
+    "id": 12964,
+    "topic": "Hydrostatics",
+    "premise": "floats|less|dense|water|flat|shape",
+    "conclusion": "Ice floats because it is less dense than water, not because of its flat shape"
+  },
+  {
+    "id": 12965,
+    "topic": "Hydrostatics",
+    "premise": "apparent|weight|loss|fluid|equals|displaced",
+    "conclusion": "Apparent weight loss in fluid equals weight of displaced fluid"
+  },
+  {
+    "id": 12966,
+    "topic": "Vacuum Physics",
+    "premise": "vacuum|physical|effects",
+    "conclusion": "The vacuum has physical effects"
+  },
+  {
+    "id": 12967,
+    "topic": "Vacuum Physics",
+    "premise": "force|required|separate|smooth|plates",
+    "conclusion": "Force is required to separate two smooth plates"
+  },
+  {
+    "id": 12968,
+    "topic": "Vacuum Physics",
+    "premise": "suction|pumps|raise|water|limited|height",
+    "conclusion": "Suction pumps can only raise water to a limited height"
+  },
+  {
+    "id": 12969,
+    "topic": "Vacuum Physics",
+    "premise": "nature|horror|vacuum|finite|strength",
+    "conclusion": "Nature's horror of the vacuum has a finite strength"
+  },
+  {
+    "id": 12970,
+    "topic": "Vacuum Physics",
+    "premise": "water|columns|break|about|meters",
+    "conclusion": "Water columns break at about 10 meters"
+  },
+  {
+    "id": 12971,
+    "topic": "Vacuum Physics",
+    "premise": "measurable|limit|much|nature|resists|vacuum",
+    "conclusion": "There is a measurable limit to how much nature resists vacuum"
+  },
+  {
+    "id": 12972,
+    "topic": "Vacuum Physics",
+    "premise": "suction|pumps|work|pressure",
+    "conclusion": "Suction pumps work by air pressure"
+  },
+  {
+    "id": 12973,
+    "topic": "Vacuum Physics",
+    "premise": "force|vacuum|measured",
+    "conclusion": "The force of vacuum can be measured"
+  },
+  {
+    "id": 12974,
+    "topic": "Vacuum Physics",
+    "premise": "resistance|separation|surfaces|quantified",
+    "conclusion": "The resistance to separation of surfaces can be quantified"
+  },
+  {
+    "id": 12975,
+    "topic": "Simple Machines",
+    "premise": "balanced|systems|gained|force|lost|distance",
+    "conclusion": "In balanced systems, what is gained in force is lost in distance"
+  },
+  {
+    "id": 12976,
+    "topic": "Simple Machines",
+    "premise": "principle|virtual|velocities|underlies|analysis|levers",
+    "conclusion": "The principle of virtual velocities underlies analysis of levers, pulleys, and inclined planes"
+  },
+  {
+    "id": 12977,
+    "topic": "Inclined Plane",
+    "premise": "force|required|hold|body|incline|proportional",
+    "conclusion": "Force required to hold a body on an incline is proportional to the sine of the angle"
+  },
+  {
+    "id": 12978,
+    "topic": "Simple Machines",
+    "premise": "mechanical|advantage|free|lunch",
+    "conclusion": "Mechanical advantage has no free lunch"
+  },
+  {
+    "id": 12979,
+    "topic": "Simple Machines",
+    "premise": "machines|multiply|force|sacrificing|speed|distance",
+    "conclusion": "Machines multiply force by sacrificing speed and distance"
+  },
+  {
+    "id": 12980,
+    "topic": "Simple Machines",
+    "premise": "work|equals|mechanical|systems",
+    "conclusion": "Work in equals work out in mechanical systems"
+  },
+  {
+    "id": 12981,
+    "topic": "Kinematics",
+    "premise": "velocity|continuous|quantity",
+    "conclusion": "Velocity is a continuous quantity"
+  },
+  {
+    "id": 12982,
+    "topic": "Kinematics",
+    "premise": "body|passes|intermediate|speeds|doesn|jump",
+    "conclusion": "A body passes through all intermediate speeds; it doesn't jump instantaneously from one speed to another"
+  },
+  {
+    "id": 12983,
+    "topic": "Kinematics",
+    "premise": "acceleration|change|velocity|over|time",
+    "conclusion": "Acceleration is change of velocity over time"
+  },
+  {
+    "id": 12984,
+    "topic": "Mechanics",
+    "premise": "circular|motion|requires|continuous|deflection",
+    "conclusion": "Circular motion requires continuous deflection"
+  },
+  {
+    "id": 12985,
+    "topic": "Impact Mechanics",
+    "premise": "force|percussion|immense|brief",
+    "conclusion": "The force of percussion is immense but brief"
+  },
+  {
+    "id": 12986,
+    "topic": "Impact Mechanics",
+    "premise": "hammer|blow|delivers|enormous|momentary|force",
+    "conclusion": "A hammer blow delivers enormous momentary force"
+  },
+  {
+    "id": 12987,
+    "topic": "Impact Mechanics",
+    "premise": "accumulated|motion|produces|percussion|effects",
+    "conclusion": "Accumulated motion produces percussion effects"
+  },
+  {
+    "id": 12988,
+    "topic": "Impact Mechanics",
+    "premise": "slowly|raised|hammer|less|effect|swung",
+    "conclusion": "A slowly raised hammer has less effect than one swung through an arc"
+  },
+  {
+    "id": 12989,
+    "topic": "Impact Mechanics",
+    "premise": "motion|acquired|swing|matters|percussion",
+    "conclusion": "The motion acquired during the swing matters for percussion"
+  },
+  {
+    "id": 12990,
+    "topic": "Impact Mechanics",
+    "premise": "percussion|force|exceeds|static|weight",
+    "conclusion": "Percussion force exceeds any static weight"
+  },
+  {
+    "id": 12991,
+    "topic": "Impact Mechanics",
+    "premise": "matter|heavy|dead|weight|sufficiently|rapid",
+    "conclusion": "No matter how heavy a dead weight, a sufficiently rapid impact produces greater instantaneous force"
+  },
+  {
+    "id": 12992,
+    "topic": "Experimental Method",
+    "premise": "controlled|experimental|variation|isolates|variables",
+    "conclusion": "Controlled experimental variation isolates variables"
+  },
+  {
+    "id": 12993,
+    "topic": "Experimental Method",
+    "premise": "change|factor|time|measure|effect",
+    "conclusion": "Change one factor at a time and measure the effect"
+  },
+  {
+    "id": 12994,
+    "topic": "Experimental Method",
+    "premise": "idealization|necessary|discovery",
+    "conclusion": "Idealization is necessary for law discovery"
+  },
+  {
+    "id": 12995,
+    "topic": "Experimental Method",
+    "premise": "abstract|resistance|friction|imperfect|sphericity|discover",
+    "conclusion": "Abstract from air resistance, friction, and imperfect sphericity to discover the underlying mathematical law"
+  },
+  {
+    "id": 12996,
+    "topic": "Experimental Method",
+    "premise": "measurement|quantification|essential|physics",
+    "conclusion": "Measurement and quantification are essential to physics"
+  },
+  {
+    "id": 12997,
+    "topic": "Experimental Method",
+    "premise": "physics|advances|measuring|timing|computing|verbal",
+    "conclusion": "Physics advances by measuring, timing, and computing, not by verbal disputation"
+  },
+  {
+    "id": 12998,
+    "topic": "Experimental Method",
+    "premise": "reproducibility|validates|findings",
+    "conclusion": "Reproducibility validates findings"
+  },
+  {
+    "id": 12999,
+    "topic": "Experimental Method",
+    "premise": "experiments|repeated|others",
+    "conclusion": "Experiments can and should be repeated by others"
+  },
+  {
+    "id": 13000,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|relations|form|physical|laws",
+    "conclusion": "Mathematical relations are the form of physical laws"
+  },
+  {
+    "id": 13001,
+    "topic": "Natural Philosophy",
+    "premise": "laws|nature|ratios|proportions|geometric|relations",
+    "conclusion": "The laws of nature are ratios, proportions, and geometric relations\u2014not qualitative tendencies"
+  },
+  {
+    "id": 13002,
+    "topic": "Instrumentation",
+    "premise": "telescope|instrument|reveals|truths|invisible|naked",
+    "conclusion": "The telescope is the instrument that reveals truths invisible to the naked eye"
+  },
+  {
+    "id": 13003,
+    "topic": "Lunar Astronomy",
+    "premise": "lunar|cartography|possible|systematic|telescopic|observation",
+    "conclusion": "Lunar cartography is possible through systematic telescopic observation"
+  },
+  {
+    "id": 13004,
+    "topic": "Observational Method",
+    "premise": "celestial|phenomena|recorded|documented|systematically",
+    "conclusion": "Celestial phenomena can be recorded and documented systematically"
+  },
+  {
+    "id": 13005,
+    "topic": "Jovian Moons",
+    "premise": "jupiter|satellites|tracked|over|time",
+    "conclusion": "Jupiter's satellites can be tracked over time"
+  },
+  {
+    "id": 13006,
+    "topic": "Stellar Astronomy",
+    "premise": "stars|counted|positions|recorded",
+    "conclusion": "Stars can be counted and their positions recorded"
+  },
+  {
+    "id": 13007,
+    "topic": "Lunar Astronomy",
+    "premise": "lunar|features|illustrated|careful|observation",
+    "conclusion": "Lunar features can be illustrated through careful observation"
+  },
+  {
+    "id": 13008,
+    "topic": "Jovian Moons",
+    "premise": "three|star|alignment|near|jupiter|documented",
+    "conclusion": "The three-star alignment near Jupiter can be documented and tracked"
+  },
+  {
+    "id": 13009,
+    "topic": "Observational Method",
+    "premise": "celestial|motions|tracked|systematically",
+    "conclusion": "Celestial motions can be tracked systematically"
+  },
+  {
+    "id": 13010,
+    "topic": "Scientific Method",
+    "premise": "observational|data|compiled|analysis",
+    "conclusion": "Observational data can be compiled for analysis"
+  },
+  {
+    "id": 13011,
+    "topic": "Instrumentation",
+    "premise": "unprecedented|sights|reported|instruments",
+    "conclusion": "Unprecedented sights can be reported through new instruments"
+  },
+  {
+    "id": 13012,
+    "topic": "Observational Method",
+    "premise": "heavens|explored|systematically",
+    "conclusion": "The heavens can be explored systematically"
+  },
+  {
+    "id": 13013,
+    "topic": "Cosmology",
+    "premise": "worlds|identified|telescopic|observation",
+    "conclusion": "New worlds can be identified through telescopic observation"
+  },
+  {
+    "id": 13014,
+    "topic": "Lunar Astronomy",
+    "premise": "craters|sketched|documented",
+    "conclusion": "Craters can be sketched and documented"
+  },
+  {
+    "id": 13015,
+    "topic": "Lunar Astronomy",
+    "premise": "mountains|moon|depicted|measured",
+    "conclusion": "Mountains on the Moon can be depicted and measured"
+  },
+  {
+    "id": 13016,
+    "topic": "Instrumentation",
+    "premise": "power|instruments|confirmed|repeated|observation",
+    "conclusion": "The power of instruments can be confirmed through repeated observation"
+  },
+  {
+    "id": 13017,
+    "topic": "Scientific Method",
+    "premise": "empirical|evidence|collected|systematically",
+    "conclusion": "Empirical evidence can be collected systematically"
+  },
+  {
+    "id": 13018,
+    "topic": "Observational Method",
+    "premise": "modern|observational|astronomy|begins|systematic|telescopic",
+    "conclusion": "Modern observational astronomy begins with systematic telescopic study"
+  },
+  {
+    "id": 13019,
+    "topic": "Solar Physics",
+    "premise": "solar|phenomena|observed|systematically",
+    "conclusion": "Solar phenomena can be observed systematically"
+  },
+  {
+    "id": 13020,
+    "topic": "Solar Physics",
+    "premise": "dark|spots|analyzed",
+    "conclusion": "Dark spots on the sun can be analyzed"
+  },
+  {
+    "id": 13021,
+    "topic": "Cosmology",
+    "premise": "copernican|theory|defended|observation",
+    "conclusion": "The Copernican theory can be defended through observation"
+  },
+  {
+    "id": 13022,
+    "topic": "Cosmology",
+    "premise": "aristotelian|incorruptibility|disputed|evidence",
+    "conclusion": "Aristotelian incorruptibility can be disputed through evidence"
+  },
+  {
+    "id": 13023,
+    "topic": "Solar Physics",
+    "premise": "solar|rotations|tracked",
+    "conclusion": "Solar rotations can be tracked"
+  },
+  {
+    "id": 13024,
+    "topic": "Solar Physics",
+    "premise": "transient|features|interpreted|repeated|observation",
+    "conclusion": "Transient features can be interpreted through repeated observation"
+  },
+  {
+    "id": 13025,
+    "topic": "Cosmology",
+    "premise": "celestial|mutability|argued|evidence",
+    "conclusion": "Celestial mutability can be argued from evidence"
+  },
+  {
+    "id": 13026,
+    "topic": "Kinematics",
+    "premise": "apparent|motions|measured|analyzed",
+    "conclusion": "Apparent motions can be measured and analyzed"
+  },
+  {
+    "id": 13027,
+    "topic": "Solar Physics",
+    "premise": "spot|morphology|described|systematically",
+    "conclusion": "Spot morphology can be described systematically"
+  },
+  {
+    "id": 13028,
+    "topic": "Cosmology",
+    "premise": "traditional|cosmology|challenged|evidence",
+    "conclusion": "Traditional cosmology can be challenged through evidence"
+  },
+  {
+    "id": 13029,
+    "topic": "Solar Physics",
+    "premise": "solar|imperfection|demonstrated|observationally",
+    "conclusion": "Solar imperfection can be demonstrated observationally"
+  },
+  {
+    "id": 13030,
+    "topic": "Solar Physics",
+    "premise": "solar|substance|investigated|observation",
+    "conclusion": "Solar substance can be investigated through observation"
+  },
+  {
+    "id": 13031,
+    "topic": "Scientific Method",
+    "premise": "observational|truth|advocated|against|traditional|authority",
+    "conclusion": "Observational truth can be advocated against traditional authority"
+  },
+  {
+    "id": 13032,
+    "topic": "Scientific Method",
+    "premise": "previous|interpretations|corrected|evidence",
+    "conclusion": "Previous interpretations can be corrected through new evidence"
+  },
+  {
+    "id": 13033,
+    "topic": "Observational Method",
+    "premise": "sequential|changes|chronicled",
+    "conclusion": "Sequential changes can be chronicled"
+  },
+  {
+    "id": 13034,
+    "topic": "Solar Physics",
+    "premise": "sunspot|paths|demonstrated",
+    "conclusion": "Sunspot paths can be demonstrated"
+  },
+  {
+    "id": 13035,
+    "topic": "Scientific Method",
+    "premise": "flawed|reasoning|criticized|evidence",
+    "conclusion": "Flawed reasoning can be criticized through evidence"
+  },
+  {
+    "id": 13036,
+    "topic": "Scientific Method",
+    "premise": "factual|evidence|established|systematic|observation",
+    "conclusion": "Factual evidence can be established through systematic observation"
+  },
+  {
+    "id": 13037,
+    "topic": "Natural Philosophy",
+    "premise": "natural|causes|exposited|celestial|phenomena",
+    "conclusion": "Natural causes can be exposited for celestial phenomena"
+  },
+  {
+    "id": 13038,
+    "topic": "Solar Physics",
+    "premise": "planetary|shadows|rejected|explanation|sunspots",
+    "conclusion": "Planetary shadows can be rejected as explanation for sunspots"
+  },
+  {
+    "id": 13039,
+    "topic": "Solar Physics",
+    "premise": "solar|axial|rotation|confirmed|observation",
+    "conclusion": "Solar axial rotation can be confirmed through observation"
+  },
+  {
+    "id": 13040,
+    "topic": "Cosmology",
+    "premise": "evidence|copernicus|proclaimed|observation",
+    "conclusion": "Evidence for Copernicus can be proclaimed through observation"
+  },
+  {
+    "id": 13041,
+    "topic": "Scientific Method",
+    "premise": "scientific|debate|conducted|polemic",
+    "conclusion": "Scientific debate can be conducted through polemic"
+  },
+  {
+    "id": 13042,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|description|advocated|natural|phenomena",
+    "conclusion": "Mathematical description can be advocated for natural phenomena"
+  },
+  {
+    "id": 13043,
+    "topic": "Solar Physics",
+    "premise": "solar|surface|witnessed|telescopic|observation",
+    "conclusion": "The solar surface can be witnessed through telescopic observation"
+  },
+  {
+    "id": 13044,
+    "topic": "Observational Method",
+    "premise": "periodic|phenomena|documented",
+    "conclusion": "Periodic phenomena can be documented"
+  },
+  {
+    "id": 13045,
+    "topic": "Scientific Method",
+    "premise": "observational|data|analyzed|systematically",
+    "conclusion": "Observational data can be analyzed systematically"
+  },
+  {
+    "id": 13046,
+    "topic": "Scientific Debate",
+    "premise": "scheiner|claims|rebutted|evidence",
+    "conclusion": "Scheiner's claims can be rebutted through evidence"
+  },
+  {
+    "id": 13047,
+    "topic": "Cosmology",
+    "premise": "celestial|change|investigated",
+    "conclusion": "Celestial change can be investigated"
+  },
+  {
+    "id": 13048,
+    "topic": "Solar Physics",
+    "premise": "heliophysics|pioneered|systematic|solar|observation",
+    "conclusion": "Heliophysics can be pioneered through systematic solar observation"
+  },
+  {
+    "id": 13049,
+    "topic": "Natural Philosophy",
+    "premise": "superficial|philosophy|criticized",
+    "conclusion": "Superficial philosophy can be criticized"
+  },
+  {
+    "id": 13050,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|language|essential|natural|philosophy",
+    "conclusion": "Mathematical language is essential for natural philosophy"
+  },
+  {
+    "id": 13051,
+    "topic": "Scientific Method",
+    "premise": "polemic|valid|mode|scientific|discourse",
+    "conclusion": "Polemic is a valid mode of scientific discourse"
+  },
+  {
+    "id": 13052,
+    "topic": "Scientific Method",
+    "premise": "scientific|methodology|requires|explicit|articulation",
+    "conclusion": "Scientific methodology requires explicit articulation"
+  },
+  {
+    "id": 13053,
+    "topic": "Comets",
+    "premise": "cometary|nature|disputed|evidence",
+    "conclusion": "Cometary nature can be disputed through evidence"
+  },
+  {
+    "id": 13054,
+    "topic": "Epistemology",
+    "premise": "sensory|experiences|require|interpretation",
+    "conclusion": "Sensory experiences require interpretation"
+  },
+  {
+    "id": 13055,
+    "topic": "Metaphysics",
+    "premise": "primary|secondary|qualities|distinguished",
+    "conclusion": "Primary and secondary qualities must be distinguished"
+  },
+  {
+    "id": 13056,
+    "topic": "Corpuscular Philosophy",
+    "premise": "atomistic|conceptions|defended",
+    "conclusion": "Atomistic conceptions can be defended"
+  },
+  {
+    "id": 13057,
+    "topic": "Scientific Method",
+    "premise": "scientific|arguments|analyzed|validity",
+    "conclusion": "Scientific arguments can be analyzed for validity"
+  },
+  {
+    "id": 13058,
+    "topic": "Scientific Method",
+    "premise": "experiment|take|precedence|over|authority",
+    "conclusion": "Experiment should take precedence over authority"
+  },
+  {
+    "id": 13059,
+    "topic": "Scientific Method",
+    "premise": "empty|rhetoric|ridiculed",
+    "conclusion": "Empty rhetoric can be ridiculed"
+  },
+  {
+    "id": 13060,
+    "topic": "Natural Philosophy",
+    "premise": "book|nature|metaphor|illuminates|scientific|method",
+    "conclusion": "The Book of Nature metaphor illuminates scientific method"
+  },
+  {
+    "id": 13061,
+    "topic": "Natural Philosophy",
+    "premise": "occult|explanations|viewed|skepticism",
+    "conclusion": "Occult explanations should be viewed with skepticism"
+  },
+  {
+    "id": 13062,
+    "topic": "Scientific Method",
+    "premise": "reason|championed|natural|investigation",
+    "conclusion": "Reason should be championed in natural investigation"
+  },
+  {
+    "id": 13063,
+    "topic": "Scientific Method",
+    "premise": "causes|investigated|rather|assumed",
+    "conclusion": "Causes should be investigated rather than assumed"
+  },
+  {
+    "id": 13064,
+    "topic": "Scientific Method",
+    "premise": "logical|fallacies|exposed",
+    "conclusion": "Logical fallacies can be exposed"
+  },
+  {
+    "id": 13065,
+    "topic": "Scientific",
+    "premise": "intellectual|freedom|advocated",
+    "conclusion": "Intellectual freedom should be advocated"
+  },
+  {
+    "id": 13066,
+    "topic": "Scientific Communication",
+    "premise": "elegant|prose|valid|vehicle|scientific|communication",
+    "conclusion": "Elegant prose is a valid vehicle for scientific communication"
+  },
+  {
+    "id": 13067,
+    "topic": "Relativity of Motion",
+    "premise": "motion|argued|relative",
+    "conclusion": "Motion can be argued to be relative"
+  },
+  {
+    "id": 13068,
+    "topic": "Epistemology",
+    "premise": "scientific|epistemology|requires|explicit|formulation",
+    "conclusion": "Scientific epistemology requires explicit formulation"
+  },
+  {
+    "id": 13069,
+    "topic": "Metaphysics",
+    "premise": "quantity|distinguished|sensation",
+    "conclusion": "Quantity must be distinguished from sensation"
+  },
+  {
+    "id": 13070,
+    "topic": "Experimental Method",
+    "premise": "careful|measurement|essential|natural|philosophy",
+    "conclusion": "Careful measurement is essential to natural philosophy"
+  },
+  {
+    "id": 13071,
+    "topic": "Natural Philosophy",
+    "premise": "anthropocentric|views|nature|rejected",
+    "conclusion": "Anthropocentric views of nature should be rejected"
+  },
+  {
+    "id": 13072,
+    "topic": "Epistemology",
+    "premise": "empiricism|provides|foundation|natural|knowledge",
+    "conclusion": "Empiricism provides the foundation for natural knowledge"
+  },
+  {
+    "id": 13073,
+    "topic": "Cosmology",
+    "premise": "cosmologies|compared|systematically",
+    "conclusion": "Cosmologies can be compared systematically"
+  },
+  {
+    "id": 13074,
+    "topic": "Scientific Communication",
+    "premise": "copernican|arguments|expounded|dialogue",
+    "conclusion": "Copernican arguments can be expounded through dialogue"
+  },
+  {
+    "id": 13075,
+    "topic": "Cosmology",
+    "premise": "aristotelian|ptolemaic|system|criticized|empirical|grounds",
+    "conclusion": "The Aristotelian-Ptolemaic system can be criticized on empirical grounds"
+  },
+  {
+    "id": 13076,
+    "topic": "Scientific Communication",
+    "premise": "complex|ideas|popularized|literary|forms",
+    "conclusion": "Complex ideas can be popularized through literary forms"
+  },
+  {
+    "id": 13077,
+    "topic": "Cosmology",
+    "premise": "celestial|proofs|demonstrated|observation",
+    "conclusion": "Celestial proofs can be demonstrated through observation"
+  },
+  {
+    "id": 13078,
+    "topic": "Tidal Theory",
+    "premise": "tidal|phenomena|require|physical|explanation",
+    "conclusion": "Tidal phenomena require physical explanation"
+  },
+  {
+    "id": 13079,
+    "topic": "Relativity of Motion",
+    "premise": "relative|motion|discussed|thought|experiments",
+    "conclusion": "Relative motion can be discussed through thought experiments"
+  },
+  {
+    "id": 13080,
+    "topic": "Cosmology",
+    "premise": "earth|rotation|argued|evidence",
+    "conclusion": "Earth's rotation can be argued from evidence"
+  },
+  {
+    "id": 13081,
+    "topic": "Stellar Astronomy",
+    "premise": "stellar|parallax|objections|addressed|distance|arguments",
+    "conclusion": "Stellar parallax objections can be addressed through distance arguments"
+  },
+  {
+    "id": 13082,
+    "topic": "Scientific Method",
+    "premise": "thought|experiments|valid|tools|physical|reasoning",
+    "conclusion": "Thought experiments are valid tools for physical reasoning"
+  },
+  {
+    "id": 13083,
+    "topic": "Relativity of Motion",
+    "premise": "ship|cabin|experiment|illuminates|nature|motion",
+    "conclusion": "The ship's cabin experiment illuminates the nature of motion"
+  },
+  {
+    "id": 13084,
+    "topic": "Relativity of Motion",
+    "premise": "projectile|motion|moving|earth|behaves|identically",
+    "conclusion": "Projectile motion on a moving Earth behaves identically to motion on a stationary Earth"
+  },
+  {
+    "id": 13085,
+    "topic": "Scientific Method",
+    "premise": "traditional|physics|criticized|demonstration",
+    "conclusion": "Traditional physics can be criticized through demonstration"
+  },
+  {
+    "id": 13086,
+    "topic": "Scientific Communication",
+    "premise": "characters|dialogue|represent|different|philosophical|positions",
+    "conclusion": "Characters in dialogue can represent different philosophical positions"
+  },
+  {
+    "id": 13087,
+    "topic": "Cosmology",
+    "premise": "jupiter|moons|serve|model|solar|system",
+    "conclusion": "Jupiter's moons serve as a model for the solar system"
+  },
+  {
+    "id": 13088,
+    "topic": "Cosmology",
+    "premise": "sunspot|evidence|supports|heliocentrism",
+    "conclusion": "Sunspot evidence supports heliocentrism"
+  },
+  {
+    "id": 13089,
+    "topic": "Cosmology",
+    "premise": "diurnal|motion|earth|advocated",
+    "conclusion": "The diurnal motion of Earth can be advocated"
+  },
+  {
+    "id": 13090,
+    "topic": "Cosmology",
+    "premise": "planetary|motions|interpreted|different|systems",
+    "conclusion": "Planetary motions can be interpreted under different systems"
+  },
+  {
+    "id": 13091,
+    "topic": "Science and Religion",
+    "premise": "church|sanctioned|views|challenged|evidence",
+    "conclusion": "Church-sanctioned views can be challenged through evidence"
+  },
+  {
+    "id": 13092,
+    "topic": "Scientific Communication",
+    "premise": "literary|scientific|exposition|valid|genre",
+    "conclusion": "Literary scientific exposition is a valid genre"
+  },
+  {
+    "id": 13093,
+    "topic": "Cosmology",
+    "premise": "evidence|heliocentrism|collected|systematically",
+    "conclusion": "Evidence for heliocentrism can be collected systematically"
+  },
+  {
+    "id": 13094,
+    "topic": "Kinematics",
+    "premise": "falling|bodies|behave|according|mathematical|laws",
+    "conclusion": "Falling bodies behave according to mathematical laws"
+  },
+  {
+    "id": 13095,
+    "topic": "Cosmology",
+    "premise": "simplicity|copernican|system|argument|favor",
+    "conclusion": "The simplicity of the Copernican system is an argument in its favor"
+  },
+  {
+    "id": 13096,
+    "topic": "Cosmology",
+    "premise": "celestial|harmony|investigated",
+    "conclusion": "Celestial harmony can be investigated"
+  },
+  {
+    "id": 13097,
+    "topic": "Scientific Method",
+    "premise": "hypothetical|debate|valid|mode|scientific|discourse",
+    "conclusion": "Hypothetical debate is a valid mode of scientific discourse"
+  },
+  {
+    "id": 13098,
+    "topic": "Scientific Method",
+    "premise": "contrary|evidence|exposed|addressed",
+    "conclusion": "Contrary evidence can be exposed and addressed"
+  },
+  {
+    "id": 13099,
+    "topic": "Scientific Communication",
+    "premise": "literate|public|addressed|scientific|matters",
+    "conclusion": "The literate public can be addressed on scientific matters"
+  },
+  {
+    "id": 13100,
+    "topic": "Mechanics",
+    "premise": "science|strength|materials|founded",
+    "conclusion": "The science of the strength of materials can be founded"
+  },
+  {
+    "id": 13101,
+    "topic": "Kinematics",
+    "premise": "kinematics|pioneered|mathematical|science",
+    "conclusion": "Kinematics can be pioneered as a mathematical science"
+  },
+  {
+    "id": 13102,
+    "topic": "Kinematics",
+    "premise": "motion|investigated|systematically",
+    "conclusion": "Motion can be investigated systematically"
+  },
+  {
+    "id": 13103,
+    "topic": "Kinematics",
+    "premise": "falling|bodies|formulated|mathematically",
+    "conclusion": "The law of falling bodies can be formulated mathematically"
+  },
+  {
+    "id": 13104,
+    "topic": "Kinematics",
+    "premise": "uniform|acceleration|analyzed|precisely",
+    "conclusion": "Uniform acceleration can be analyzed precisely"
+  },
+  {
+    "id": 13105,
+    "topic": "Experimental Method",
+    "premise": "inclined|planes|allow|experimental|investigation|acceleration",
+    "conclusion": "Inclined planes allow experimental investigation of acceleration"
+  },
+  {
+    "id": 13106,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|relationships|nature|proven",
+    "conclusion": "Mathematical relationships in nature can be proven"
+  },
+  {
+    "id": 13107,
+    "topic": "Kinematics",
+    "premise": "motion|treated|geometrically",
+    "conclusion": "Motion can be treated geometrically"
+  },
+  {
+    "id": 13108,
+    "topic": "Mechanics",
+    "premise": "resistance|beams|studied|scientifically",
+    "conclusion": "The resistance of beams can be studied scientifically"
+  },
+  {
+    "id": 13109,
+    "topic": "Mechanics",
+    "premise": "concept|force|developed",
+    "conclusion": "The concept of force can be developed"
+  },
+  {
+    "id": 13110,
+    "topic": "Physics",
+    "premise": "properties|matter|explored|systematically",
+    "conclusion": "Properties of matter can be explored systematically"
+  },
+  {
+    "id": 13111,
+    "topic": "Kinematics",
+    "premise": "projectile|motion|theorized|mathematically",
+    "conclusion": "Projectile motion can be theorized mathematically"
+  },
+  {
+    "id": 13112,
+    "topic": "Kinematics",
+    "premise": "parabolic|trajectory|discovered|analysis",
+    "conclusion": "Parabolic trajectory can be discovered through analysis"
+  },
+  {
+    "id": 13113,
+    "topic": "Engineering",
+    "premise": "scientific|engineering|pioneered",
+    "conclusion": "Scientific engineering can be pioneered"
+  },
+  {
+    "id": 13114,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|physics|valid|discipline",
+    "conclusion": "Mathematical physics is a valid discipline"
+  },
+  {
+    "id": 13115,
+    "topic": "Scientific Practice",
+    "premise": "scientific|work|written|constraint",
+    "conclusion": "Scientific work can be written under constraint"
+  },
+  {
+    "id": 13116,
+    "topic": "Scientific Practice",
+    "premise": "scientific|works|smuggled|past|censorship",
+    "conclusion": "Scientific works can be smuggled past censorship"
+  },
+  {
+    "id": 13117,
+    "topic": "Kinematics",
+    "premise": "square|time|governs|falling|bodies",
+    "conclusion": "The square-of-time law governs falling bodies"
+  },
+  {
+    "id": 13118,
+    "topic": "Vacuum Physics",
+    "premise": "vacuum|effects|investigated",
+    "conclusion": "Vacuum effects can be investigated"
+  },
+  {
+    "id": 13119,
+    "topic": "Corpuscular Philosophy",
+    "premise": "atomic|structure|discussed",
+    "conclusion": "Atomic structure can be discussed"
+  },
+  {
+    "id": 13120,
+    "topic": "Physics",
+    "premise": "cohesion|analyzed",
+    "conclusion": "Cohesion can be analyzed"
+  },
+  {
+    "id": 13121,
+    "topic": "Scientific Method",
+    "premise": "thought|experiments|motion|valid|tools",
+    "conclusion": "Thought experiments on motion are valid tools"
+  },
+  {
+    "id": 13122,
+    "topic": "Kinematics",
+    "premise": "mean|speed|theorem|proven",
+    "conclusion": "The mean speed theorem can be proven"
+  },
+  {
+    "id": 13123,
+    "topic": "Inertia",
+    "premise": "inertia|established|conceptually",
+    "conclusion": "Inertia can be established conceptually"
+  },
+  {
+    "id": 13124,
+    "topic": "Experimental Method",
+    "premise": "experiments|designed|real|imagined",
+    "conclusion": "Experiments can be designed both real and imagined"
+  },
+  {
+    "id": 13125,
+    "topic": "Mechanics",
+    "premise": "aristotelian|dynamics|criticized",
+    "conclusion": "Aristotelian dynamics can be criticized"
+  },
+  {
+    "id": 13126,
+    "topic": "Mechanics",
+    "premise": "foundation|newtonian|mechanics|built",
+    "conclusion": "The foundation for Newtonian mechanics can be built"
+  },
+  {
+    "id": 13127,
+    "topic": "Mechanics",
+    "premise": "science|deformations|developed",
+    "conclusion": "The science of deformations can be developed"
+  },
+  {
+    "id": 13128,
+    "topic": "Scientific Method",
+    "premise": "natural|phenomena|quantified",
+    "conclusion": "Natural phenomena can be quantified"
+  },
+  {
+    "id": 13129,
+    "topic": "Mechanics",
+    "premise": "classical|mechanics|architected|systematic|investigation",
+    "conclusion": "Classical mechanics can be architected through systematic investigation"
+  },
+  {
+    "id": 13130,
+    "topic": "Cosmology",
+    "premise": "heavens|subject|physical|laws|earth",
+    "conclusion": "The heavens are subject to the same physical laws as Earth"
+  },
+  {
+    "id": 13131,
+    "topic": "Natural Philosophy",
+    "premise": "celestial|terrestrial|physics|unified",
+    "conclusion": "Celestial and terrestrial physics are unified"
+  },
+  {
+    "id": 13132,
+    "topic": "Cosmology",
+    "premise": "distinction|superlunary|sublunary|realms|artificial",
+    "conclusion": "The distinction between superlunary and sublunary realms is artificial"
+  },
+  {
+    "id": 13133,
+    "topic": "Cosmology",
+    "premise": "aristotelian|cosmology|rests|false|premises",
+    "conclusion": "Aristotelian cosmology rests on false premises"
+  },
+  {
+    "id": 13134,
+    "topic": "Cosmology",
+    "premise": "perfect|celestial|sphere|doctrine|empirically|refuted",
+    "conclusion": "The perfect celestial sphere doctrine is empirically refuted"
+  },
+  {
+    "id": 13135,
+    "topic": "Scientific Method",
+    "premise": "observational|astronomy|supersedes|armchair|speculation",
+    "conclusion": "Observational astronomy supersedes armchair speculation"
+  },
+  {
+    "id": 13136,
+    "topic": "Instrumentation",
+    "premise": "instruments|extend|human|cognitive|capacities",
+    "conclusion": "Instruments extend human cognitive capacities"
+  },
+  {
+    "id": 13137,
+    "topic": "Instrumentation",
+    "premise": "telescope|merely|optical|scientific|instrument",
+    "conclusion": "The telescope is not merely an optical toy but a scientific instrument"
+  },
+  {
+    "id": 13138,
+    "topic": "Optics",
+    "premise": "lenses|ground|specific|curvatures|magnification",
+    "conclusion": "Lenses can be ground to specific curvatures for magnification"
+  },
+  {
+    "id": 13139,
+    "topic": "Instrumentation",
+    "premise": "optical|instruments|require|systematic|calibration",
+    "conclusion": "Optical instruments require systematic calibration"
+  },
+  {
+    "id": 13140,
+    "topic": "Optics",
+    "premise": "magnification|power|measured|compared",
+    "conclusion": "Magnification power can be measured and compared"
+  },
+  {
+    "id": 13141,
+    "topic": "Experimental Method",
+    "premise": "telescopic|observations|replicated|others",
+    "conclusion": "Telescopic observations can be replicated by others"
+  },
+  {
+    "id": 13142,
+    "topic": "Scientific Communication",
+    "premise": "astronomical|discoveries|announced|publicly",
+    "conclusion": "Astronomical discoveries can be announced publicly"
+  },
+  {
+    "id": 13143,
+    "topic": "Scientific Practice",
+    "premise": "scientific|priority|established|publication",
+    "conclusion": "Scientific priority can be established through publication"
+  },
+  {
+    "id": 13144,
+    "topic": "Scientific Practice",
+    "premise": "patronage|relationships|support|scientific|work",
+    "conclusion": "Patronage relationships can support scientific work"
+  },
+  {
+    "id": 13145,
+    "topic": "Scientific Practice",
+    "premise": "naming|celestial|bodies|honors|patrons",
+    "conclusion": "Naming celestial bodies honors patrons"
+  },
+  {
+    "id": 13146,
+    "topic": "Jovian Moons",
+    "premise": "medicean|stars|commemorate|medici|family",
+    "conclusion": "The Medicean stars commemorate the Medici family"
+  },
+  {
+    "id": 13147,
+    "topic": "Scientific Practice",
+    "premise": "scientific|discovery|brings|prestige|patrons",
+    "conclusion": "Scientific discovery brings prestige to patrons"
+  },
+  {
+    "id": 13148,
+    "topic": "Scientific Practice",
+    "premise": "court|positions|support|scientific|research",
+    "conclusion": "Court positions can support scientific research"
+  },
+  {
+    "id": 13149,
+    "topic": "Scientific Practice",
+    "premise": "natural|philosophy|pursued|professionally",
+    "conclusion": "Natural philosophy can be pursued professionally"
+  },
+  {
+    "id": 13150,
+    "topic": "Scientific Practice",
+    "premise": "scientific|instruments|manufactured|sold",
+    "conclusion": "Scientific instruments can be manufactured and sold"
+  },
+  {
+    "id": 13151,
+    "topic": "Instrumentation",
+    "premise": "telescope|design|improved|iteratively",
+    "conclusion": "Telescope design can be improved iteratively"
+  },
+  {
+    "id": 13152,
+    "topic": "Telescopic Observation",
+    "premise": "higher|magnification|reveals|celestial|detail",
+    "conclusion": "Higher magnification reveals more celestial detail"
+  },
+  {
+    "id": 13153,
+    "topic": "Observational Method",
+    "premise": "systematic|observation|requires|consistent|methods",
+    "conclusion": "Systematic observation requires consistent methods"
+  },
+  {
+    "id": 13154,
+    "topic": "Observational Method",
+    "premise": "astronomical|records|dated|precisely",
+    "conclusion": "Astronomical records should be dated precisely"
+  },
+  {
+    "id": 13155,
+    "topic": "Observational Method",
+    "premise": "celestial|positions|recorded|accurately",
+    "conclusion": "Celestial positions should be recorded accurately"
+  },
+  {
+    "id": 13156,
+    "topic": "Observational Method",
+    "premise": "drawings|document|astronomical|observations",
+    "conclusion": "Drawings can document astronomical observations"
+  },
+  {
+    "id": 13157,
+    "topic": "Observational Method",
+    "premise": "sequential|observations|reveal|celestial|motions",
+    "conclusion": "Sequential observations reveal celestial motions"
+  },
+  {
+    "id": 13158,
+    "topic": "Jovian Moons",
+    "premise": "jupiter|moons|distinguished|orbital|periods",
+    "conclusion": "Jupiter's moons can be distinguished by their orbital periods"
+  },
+  {
+    "id": 13159,
+    "topic": "Planetary Astronomy",
+    "premise": "orbital|periods|calculated|repeated|observations",
+    "conclusion": "Orbital periods can be calculated from repeated observations"
+  },
+  {
+    "id": 13160,
+    "topic": "Planetary Astronomy",
+    "premise": "ephemerides|constructed|jupiter|satellites",
+    "conclusion": "Ephemerides can be constructed for Jupiter's satellites"
+  },
+  {
+    "id": 13161,
+    "topic": "Planetary Astronomy",
+    "premise": "satellite|positions|predicted",
+    "conclusion": "Satellite positions can be predicted"
+  },
+  {
+    "id": 13162,
+    "topic": "Practical Astronomy",
+    "premise": "longitude|determination|practical|application|astronomy",
+    "conclusion": "Longitude determination is a practical application of astronomy"
+  },
+  {
+    "id": 13163,
+    "topic": "Practical Astronomy",
+    "premise": "jovian|moon|eclipses|provide|timing|signals",
+    "conclusion": "Jovian moon eclipses provide timing signals"
+  },
+  {
+    "id": 13164,
+    "topic": "Practical Astronomy",
+    "premise": "navigation|benefit|astronomical|discoveries",
+    "conclusion": "Navigation can benefit from astronomical discoveries"
+  },
+  {
+    "id": 13165,
+    "topic": "Natural Philosophy",
+    "premise": "scientific|knowledge|practical|applications",
+    "conclusion": "Scientific knowledge has practical applications"
+  },
+  {
+    "id": 13166,
+    "topic": "Natural Philosophy",
+    "premise": "pure|research|yield|applied|benefits",
+    "conclusion": "Pure research can yield applied benefits"
+  },
+  {
+    "id": 13167,
+    "topic": "Planetary Astronomy",
+    "premise": "phases|venus|observable|telescope",
+    "conclusion": "The phases of Venus are observable through the telescope"
+  },
+  {
+    "id": 13168,
+    "topic": "Planetary Astronomy",
+    "premise": "venus|appears|largest|crescent|phase",
+    "conclusion": "Venus appears largest when in crescent phase"
+  },
+  {
+    "id": 13169,
+    "topic": "Planetary Astronomy",
+    "premise": "venus|appears|smallest|nearly|full",
+    "conclusion": "Venus appears smallest when nearly full"
+  },
+  {
+    "id": 13170,
+    "topic": "Planetary Astronomy",
+    "premise": "size|phase|relationship|venus|proves|solar",
+    "conclusion": "The size-phase relationship of Venus proves its solar orbit"
+  },
+  {
+    "id": 13171,
+    "topic": "Planetary Astronomy",
+    "premise": "mercury|phases|observed",
+    "conclusion": "Mercury's phases can also be observed"
+  },
+  {
+    "id": 13172,
+    "topic": "Planetary Astronomy",
+    "premise": "inner|planets|behave|differently|outer",
+    "conclusion": "Inner planets behave differently from outer planets"
+  },
+  {
+    "id": 13173,
+    "topic": "Planetary Astronomy",
+    "premise": "planetary|distances|vary",
+    "conclusion": "Planetary distances from the sun vary"
+  },
+  {
+    "id": 13174,
+    "topic": "Planetary Astronomy",
+    "premise": "orbital|geometry|explains|observed|planetary|appearances",
+    "conclusion": "Orbital geometry explains observed planetary appearances"
+  },
+  {
+    "id": 13175,
+    "topic": "Cosmology",
+    "premise": "ptolemaic|system|cannot|explain|venus|full",
+    "conclusion": "The Ptolemaic system cannot explain Venus's full phase cycle"
+  },
+  {
+    "id": 13176,
+    "topic": "Cosmology",
+    "premise": "epicycles|constructions|without|physical|basis",
+    "conclusion": "Epicycles are ad hoc constructions without physical basis"
+  },
+  {
+    "id": 13177,
+    "topic": "Cosmology",
+    "premise": "copernican|system|greater|explanatory|power",
+    "conclusion": "The Copernican system has greater explanatory power"
+  },
+  {
+    "id": 13178,
+    "topic": "Scientific Method",
+    "premise": "theoretical|simplicity|criterion|theory|choice",
+    "conclusion": "Theoretical simplicity is a criterion for theory choice"
+  },
+  {
+    "id": 13179,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|elegance|indicates|physical|truth",
+    "conclusion": "Mathematical elegance indicates physical truth"
+  },
+  {
+    "id": 13180,
+    "topic": "Natural Philosophy",
+    "premise": "universe|exhibits|rational|order",
+    "conclusion": "The universe exhibits rational order"
+  },
+  {
+    "id": 13181,
+    "topic": "Natural Philosophy",
+    "premise": "divine|creation|mathematically|structured",
+    "conclusion": "Divine creation is mathematically structured"
+  },
+  {
+    "id": 13182,
+    "topic": "Natural Philosophy",
+    "premise": "mathematician",
+    "conclusion": "God is a mathematician"
+  },
+  {
+    "id": 13183,
+    "topic": "Epistemology",
+    "premise": "human|reason|access|divine|order|mathematics",
+    "conclusion": "Human reason can access divine order through mathematics"
+  },
+  {
+    "id": 13184,
+    "topic": "Science and Religion",
+    "premise": "natural|philosophy|reveals|divine|wisdom",
+    "conclusion": "Natural philosophy reveals divine wisdom"
+  },
+  {
+    "id": 13185,
+    "topic": "Science and Religion",
+    "premise": "study|nature|form|worship",
+    "conclusion": "The study of nature is a form of worship"
+  },
+  {
+    "id": 13186,
+    "topic": "Science and Religion",
+    "premise": "scientific|inquiry|honors|creator",
+    "conclusion": "Scientific inquiry honors the Creator"
+  },
+  {
+    "id": 13187,
+    "topic": "Science and Religion",
+    "premise": "faith|science|compatible|properly|understood",
+    "conclusion": "Faith and science are compatible when properly understood"
+  },
+  {
+    "id": 13188,
+    "topic": "Science and Religion",
+    "premise": "theologians|pronounce|scientific|questions",
+    "conclusion": "Theologians should not pronounce on scientific questions"
+  },
+  {
+    "id": 13189,
+    "topic": "Science and Religion",
+    "premise": "scientists|pronounce|theological|questions",
+    "conclusion": "Scientists should not pronounce on theological questions"
+  },
+  {
+    "id": 13190,
+    "topic": "Science and Religion",
+    "premise": "disciplinary|boundaries|respected",
+    "conclusion": "Disciplinary boundaries should be respected"
+  },
+  {
+    "id": 13191,
+    "topic": "Science and Religion",
+    "premise": "cardinal|bellarmine|position|copernicanism|restrictive",
+    "conclusion": "Cardinal Bellarmine's position on Copernicanism was too restrictive"
+  },
+  {
+    "id": 13192,
+    "topic": "Science and Religion",
+    "premise": "injunction|against|copernicanism|prudentially|unwise",
+    "conclusion": "The 1616 injunction against Copernicanism was prudentially unwise"
+  },
+  {
+    "id": 13193,
+    "topic": "Scientific Freedom",
+    "premise": "scientific|truth|cannot|ultimately|suppressed",
+    "conclusion": "Scientific truth cannot ultimately be suppressed"
+  },
+  {
+    "id": 13194,
+    "topic": "Cosmology",
+    "premise": "future|generations|vindicate|copernicanism",
+    "conclusion": "Future generations will vindicate Copernicanism"
+  },
+  {
+    "id": 13195,
+    "topic": "Science and Religion",
+    "premise": "church|reputation|suffers|opposes|demonstrated|truth",
+    "conclusion": "The Church's reputation suffers when it opposes demonstrated truth"
+  },
+  {
+    "id": 13196,
+    "topic": "Science and Religion",
+    "premise": "ecclesiastical|authority|extend|natural|philosophy",
+    "conclusion": "Ecclesiastical authority does not extend to natural philosophy"
+  },
+  {
+    "id": 13197,
+    "topic": "Scientific Freedom",
+    "premise": "autonomy|science|defended",
+    "conclusion": "The autonomy of science must be defended"
+  },
+  {
+    "id": 13198,
+    "topic": "Scientific Freedom",
+    "premise": "censorship|impedes|progress|knowledge",
+    "conclusion": "Censorship impedes the progress of knowledge"
+  },
+  {
+    "id": 13199,
+    "topic": "Scientific Ethics",
+    "premise": "scientists|duty|speak|truth",
+    "conclusion": "Scientists have a duty to speak truth"
+  },
+  {
+    "id": 13200,
+    "topic": "Scientific Ethics",
+    "premise": "recantation|duress|change|physical|reality",
+    "conclusion": "Recantation under duress does not change physical reality"
+  },
+  {
+    "id": 13201,
+    "topic": "Cosmology",
+    "premise": "earth|moves|regardless|official|pronouncements",
+    "conclusion": "The Earth moves regardless of official pronouncements"
+  },
+  {
+    "id": 13202,
+    "topic": "Natural Philosophy",
+    "premise": "political|power|cannot|alter|natural|facts",
+    "conclusion": "Political power cannot alter natural facts"
+  },
+  {
+    "id": 13203,
+    "topic": "Epistemology",
+    "premise": "truth|independent|human|authority",
+    "conclusion": "Truth is independent of human authority"
+  },
+  {
+    "id": 13204,
+    "topic": "Epistemology",
+    "premise": "demonstration|compels|assent|reasonable|minds",
+    "conclusion": "Demonstration compels assent from reasonable minds"
+  },
+  {
+    "id": 13205,
+    "topic": "Scientific Method",
+    "premise": "evidence|cannot|wished|away",
+    "conclusion": "Evidence cannot be wished away"
+  },
+  {
+    "id": 13206,
+    "topic": "Natural Philosophy",
+    "premise": "nature|answers|observation|mathematics",
+    "conclusion": "Nature answers only to observation and mathematics"
+  },
+  {
+    "id": 13207,
+    "topic": "Scientific Method",
+    "premise": "tradition|criterion|truth",
+    "conclusion": "Tradition is not a criterion of truth"
+  },
+  {
+    "id": 13208,
+    "topic": "Scientific Method",
+    "premise": "antiquity|belief|establish|validity",
+    "conclusion": "Antiquity of belief does not establish validity"
+  },
+  {
+    "id": 13209,
+    "topic": "Scientific Method",
+    "premise": "aristotle|changed|views|given|evidence",
+    "conclusion": "Aristotle would have changed his views given new evidence"
+  },
+  {
+    "id": 13210,
+    "topic": "Scientific Method",
+    "premise": "authority|aristotle|override|observation",
+    "conclusion": "The authority of Aristotle should not override observation"
+  },
+  {
+    "id": 13211,
+    "topic": "Scientific Method",
+    "premise": "true|aristotelians|follow|aristotle|method|conclusions",
+    "conclusion": "True Aristotelians follow Aristotle's method, not his conclusions"
+  },
+  {
+    "id": 13212,
+    "topic": "Scientific Method",
+    "premise": "empirical|method|aristotle|genuine|legacy",
+    "conclusion": "Empirical method is Aristotle's genuine legacy"
+  },
+  {
+    "id": 13213,
+    "topic": "Scientific Method",
+    "premise": "scholastic|aristotelianism|betrays|aristotle|spirit",
+    "conclusion": "Scholastic Aristotelianism betrays Aristotle's spirit"
+  },
+  {
+    "id": 13214,
+    "topic": "Scientific Method",
+    "premise": "peripatetic|philosophy|become|dogmatic",
+    "conclusion": "Peripatetic philosophy has become dogmatic"
+  },
+  {
+    "id": 13215,
+    "topic": "Scientific Practice",
+    "premise": "university|natural|philosophy|requires|reform",
+    "conclusion": "University natural philosophy requires reform"
+  },
+  {
+    "id": 13216,
+    "topic": "Scientific Practice",
+    "premise": "academic|institutions|resist|knowledge",
+    "conclusion": "Academic institutions resist new knowledge"
+  },
+  {
+    "id": 13217,
+    "topic": "Scientific Practice",
+    "premise": "professional|jealousy|impedes|scientific|progress",
+    "conclusion": "Professional jealousy impedes scientific progress"
+  },
+  {
+    "id": 13218,
+    "topic": "Scientific Practice",
+    "premise": "priority|disputes|distract|substantive|inquiry",
+    "conclusion": "Priority disputes distract from substantive inquiry"
+  },
+  {
+    "id": 13219,
+    "topic": "Scientific Practice",
+    "premise": "collaboration|advances|knowledge|competition",
+    "conclusion": "Collaboration advances knowledge more than competition"
+  },
+  {
+    "id": 13220,
+    "topic": "Scientific Communication",
+    "premise": "scientific|correspondence|spreads|discoveries",
+    "conclusion": "Scientific correspondence spreads discoveries"
+  },
+  {
+    "id": 13221,
+    "topic": "Scientific Communication",
+    "premise": "letters|announce|defend|discoveries",
+    "conclusion": "Letters can announce and defend discoveries"
+  },
+  {
+    "id": 13222,
+    "topic": "Scientific Communication",
+    "premise": "vernacular|italian|appropriate|scientific|writing",
+    "conclusion": "Vernacular Italian is appropriate for scientific writing"
+  },
+  {
+    "id": 13223,
+    "topic": "Scientific Communication",
+    "premise": "latin|exclusive|language|science",
+    "conclusion": "Latin need not be the exclusive language of science"
+  },
+  {
+    "id": 13224,
+    "topic": "Scientific Communication",
+    "premise": "broader|audiences|understand|natural|philosophy",
+    "conclusion": "Broader audiences can understand natural philosophy"
+  },
+  {
+    "id": 13225,
+    "topic": "Scientific Communication",
+    "premise": "dialogue|form|makes|complex|ideas|accessible",
+    "conclusion": "Dialogue form makes complex ideas accessible"
+  },
+  {
+    "id": 13226,
+    "topic": "Dialogue on World Systems",
+    "premise": "salviati|represents|voice|reason|evidence",
+    "conclusion": "Salviati represents the voice of reason and evidence"
+  },
+  {
+    "id": 13227,
+    "topic": "Dialogue on World Systems",
+    "premise": "sagredo|represents|intelligent|layman",
+    "conclusion": "Sagredo represents the intelligent layman"
+  },
+  {
+    "id": 13228,
+    "topic": "Dialogue on World Systems",
+    "premise": "simplicio|represents|traditional|aristotelian|philosophy",
+    "conclusion": "Simplicio represents traditional Aristotelian philosophy"
+  },
+  {
+    "id": 13229,
+    "topic": "Scientific Communication",
+    "premise": "dramatic|form|convey|philosophical|argument",
+    "conclusion": "Dramatic form can convey philosophical argument"
+  },
+  {
+    "id": 13230,
+    "topic": "Scientific Communication",
+    "premise": "irony|legitimate|rhetorical|tools",
+    "conclusion": "Irony and wit are legitimate rhetorical tools"
+  },
+  {
+    "id": 13231,
+    "topic": "Scientific Practice",
+    "premise": "pope|arguments|placed|simplicio|mouth",
+    "conclusion": "The Pope's arguments should not be placed in Simplicio's mouth"
+  },
+  {
+    "id": 13232,
+    "topic": "Scientific Practice",
+    "premise": "political|sensitivity|necessary|scientific|publication",
+    "conclusion": "Political sensitivity is necessary for scientific publication"
+  },
+  {
+    "id": 13233,
+    "topic": "Scientific Practice",
+    "premise": "patronage|relationships|require|careful|management",
+    "conclusion": "Patronage relationships require careful management"
+  },
+  {
+    "id": 13234,
+    "topic": "Scientific Practice",
+    "premise": "scientific|autonomy|exists|tension|political|dependence",
+    "conclusion": "Scientific autonomy exists in tension with political dependence"
+  },
+  {
+    "id": 13235,
+    "topic": "Scientific Practice",
+    "premise": "house|arrest|cannot|prevent|intellectual|work",
+    "conclusion": "House arrest cannot prevent intellectual work"
+  },
+  {
+    "id": 13236,
+    "topic": "Scientific Practice",
+    "premise": "blindness|scientific|productivity",
+    "conclusion": "Blindness need not end scientific productivity"
+  },
+  {
+    "id": 13237,
+    "topic": "Scientific Practice",
+    "premise": "dictation|allows|continued|scientific|output",
+    "conclusion": "Dictation allows continued scientific output"
+  },
+  {
+    "id": 13238,
+    "topic": "Scientific Practice",
+    "premise": "students|carry|forward|master|work",
+    "conclusion": "Students can carry forward a master's work"
+  },
+  {
+    "id": 13239,
+    "topic": "Scientific Practice",
+    "premise": "viviani|torricelli|continue|galilean|tradition",
+    "conclusion": "Viviani and Torricelli continue the Galilean tradition"
+  },
+  {
+    "id": 13240,
+    "topic": "Scientific Practice",
+    "premise": "scientific|schools|perpetuate|methodological|approaches",
+    "conclusion": "Scientific schools perpetuate methodological approaches"
+  },
+  {
+    "id": 13241,
+    "topic": "Scientific Method",
+    "premise": "experimental|method|taught",
+    "conclusion": "The experimental method can be taught"
+  },
+  {
+    "id": 13242,
+    "topic": "Natural Philosophy",
+    "premise": "mathematical|physics|learned",
+    "conclusion": "Mathematical physics can be learned"
+  },
+  {
+    "id": 13243,
+    "topic": "Observational Method",
+    "premise": "observation|skills|developed",
+    "conclusion": "Observation skills can be developed"
+  },
+  {
+    "id": 13244,
+    "topic": "Instrumentation",
+    "premise": "instrument|requires|training",
+    "conclusion": "Instrument use requires training"
+  },
+  {
+    "id": 13245,
+    "topic": "Scientific Practice",
+    "premise": "scientific|apprenticeship|transmits|tacit|knowledge",
+    "conclusion": "Scientific apprenticeship transmits tacit knowledge"
+  },
+  {
+    "id": 13246,
+    "topic": "Scientific Practice",
+    "premise": "accademia|lincei|supports|scientific|work",
+    "conclusion": "The Accademia dei Lincei supports scientific work"
+  },
+  {
+    "id": 13247,
+    "topic": "Scientific Practice",
+    "premise": "scientific|academies|advance|knowledge",
+    "conclusion": "Scientific academies advance knowledge"
+  },
+  {
+    "id": 13248,
+    "topic": "Scientific Practice",
+    "premise": "collective|inquiry|surpasses|individual|effort",
+    "conclusion": "Collective inquiry surpasses individual effort"
+  },
+  {
+    "id": 13249,
+    "topic": "Scientific Practice",
+    "premise": "peer|review|improves|scientific|work",
+    "conclusion": "Peer review improves scientific work"
+  },
+  {
+    "id": 13250,
+    "topic": "Scientific Communication",
+    "premise": "publication|makes|knowledge|available",
+    "conclusion": "Publication makes knowledge available"
+  },
+  {
+    "id": 13251,
+    "topic": "Scientific Communication",
+    "premise": "printing|enables|wide|dissemination",
+    "conclusion": "Printing enables wide dissemination"
+  },
+  {
+    "id": 13252,
+    "topic": "Scientific Communication",
+    "premise": "illustrations|enhance|scientific|texts",
+    "conclusion": "Illustrations enhance scientific texts"
+  },
+  {
+    "id": 13253,
+    "topic": "Scientific Communication",
+    "premise": "diagrams|clarify|geometric|arguments",
+    "conclusion": "Diagrams clarify geometric arguments"
+  },
+  {
+    "id": 13254,
+    "topic": "Scientific Communication",
+    "premise": "tables|organize|quantitative|data",
+    "conclusion": "Tables organize quantitative data"
+  },
+  {
+    "id": 13255,
+    "topic": "Scientific Communication",
+    "premise": "precise|terminology|prevents|confusion",
+    "conclusion": "Precise terminology prevents confusion"
+  },
+  {
+    "id": 13256,
+    "topic": "Scientific Method",
+    "premise": "definitions|stipulated|clearly",
+    "conclusion": "Definitions must be stipulated clearly"
+  },
+  {
+    "id": 13257,
+    "topic": "Scientific Communication",
+    "premise": "ambiguity|enemy|understanding",
+    "conclusion": "Ambiguity is the enemy of understanding"
+  },
+  {
+    "id": 13258,
+    "topic": "Scientific Communication",
+    "premise": "mathematical|notation|conveys|precision",
+    "conclusion": "Mathematical notation conveys precision"
+  },
+  {
+    "id": 13259,
+    "topic": "Natural Philosophy",
+    "premise": "proportional|reasoning|language|physics",
+    "conclusion": "Proportional reasoning is the language of physics"
+  },
+  {
+    "id": 13260,
+    "topic": "Natural Philosophy",
+    "premise": "ratios|express|physical|relationships",
+    "conclusion": "Ratios express physical relationships"
+  },
+  {
+    "id": 13261,
+    "topic": "Natural Philosophy",
+    "premise": "geometry|provides|structure|physical",
+    "conclusion": "Geometry provides the structure of physical law"
+  },
+  {
+    "id": 13262,
+    "topic": "Natural Philosophy",
+    "premise": "euclidean|method|applies|physics",
+    "conclusion": "Euclidean method applies to physics"
+  },
+  {
+    "id": 13263,
+    "topic": "Natural Philosophy",
+    "premise": "deductive|structure|organizes|physical|knowledge",
+    "conclusion": "Deductive structure organizes physical knowledge"
+  },
+  {
+    "id": 13264,
+    "topic": "Natural Philosophy",
+    "premise": "axioms|ground|physical|demonstrations",
+    "conclusion": "Axioms ground physical demonstrations"
+  },
+  {
+    "id": 13265,
+    "topic": "Natural Philosophy",
+    "premise": "theorems|follow|axioms|necessary|reasoning",
+    "conclusion": "Theorems follow from axioms by necessary reasoning"
+  },
+  {
+    "id": 13266,
+    "topic": "Scientific Method",
+    "premise": "proper|inquiry|taught",
+    "conclusion": "Proper inquiry can be taught"
+  },
+  {
+    "id": 13267,
+    "topic": "Kinematics",
+    "premise": "ratio|distances|fallen|equal|successive|time",
+    "conclusion": "The ratio of distances fallen in equal successive time intervals is 1:3:5:7:9"
+  },
+  {
+    "id": 13268,
+    "topic": "Kinematics",
+    "premise": "distance|fallen|rest|equals|half|product",
+    "conclusion": "Distance fallen from rest equals half the product of acceleration and time squared"
+  },
+  {
+    "id": 13269,
+    "topic": "Kinematics",
+    "premise": "velocity|acquired|free|fall|proportional|elapsed",
+    "conclusion": "The velocity acquired in free fall is proportional to elapsed time"
+  },
+  {
+    "id": 13270,
+    "topic": "Kinematics",
+    "premise": "body|falling|rest|traverses|second|unit",
+    "conclusion": "A body falling from rest traverses in the second unit of time three times the distance of the first"
+  },
+  {
+    "id": 13271,
+    "topic": "Kinematics",
+    "premise": "third|unit|time|falling|body|traverses",
+    "conclusion": "In the third unit of time a falling body traverses five times the initial distance"
+  },
+  {
+    "id": 13272,
+    "topic": "Kinematics",
+    "premise": "total|distance|fallen|last|interval|numbers",
+    "conclusion": "The total distance fallen is to the distance in the last interval as the sum of odd numbers to the last odd number"
+  },
+  {
+    "id": 13273,
+    "topic": "Kinematics",
+    "premise": "mean|velocity|uniformly|accelerated|motion|equals",
+    "conclusion": "Mean velocity during uniformly accelerated motion equals half the final velocity"
+  },
+  {
+    "id": 13274,
+    "topic": "Kinematics",
+    "premise": "distance|traveled|mean|velocity|equals|uniform",
+    "conclusion": "Distance traveled at mean velocity equals distance traveled under uniform acceleration"
+  },
+  {
+    "id": 13275,
+    "topic": "Projectile Motion",
+    "premise": "body|projected|horizontally|falls|vertical|distance",
+    "conclusion": "A body projected horizontally falls the same vertical distance as one dropped simultaneously"
+  },
+  {
+    "id": 13276,
+    "topic": "Projectile Motion",
+    "premise": "horizontal|component|projectile|motion|remains|constant",
+    "conclusion": "The horizontal component of projectile motion remains constant throughout flight"
+  },
+  {
+    "id": 13277,
+    "topic": "Projectile Motion",
+    "premise": "vertical|component|projectile|motion|accelerates|uniformly",
+    "conclusion": "The vertical component of projectile motion accelerates uniformly downward"
+  },
+  {
+    "id": 13278,
+    "topic": "Projectile Motion",
+    "premise": "parabola|generated|composition|uniform|accelerated|motion",
+    "conclusion": "The parabola is generated by the composition of uniform and accelerated motion"
+  },
+  {
+    "id": 13279,
+    "topic": "Projectile Motion",
+    "premise": "semi|parabola|describes|path|horizontally|projected",
+    "conclusion": "The semi-parabola describes the path of any horizontally projected body"
+  },
+  {
+    "id": 13280,
+    "topic": "Projectile Motion",
+    "premise": "range|maximized|angle|projection|equals|degrees",
+    "conclusion": "Range is maximized when the angle of projection equals 45 degrees"
+  },
+  {
+    "id": 13281,
+    "topic": "Projectile Motion",
+    "premise": "projection|angles|yield|identical|horizontal|ranges",
+    "conclusion": "Projection angles of 30\u00b0 and 60\u00b0 yield identical horizontal ranges"
+  },
+  {
+    "id": 13282,
+    "topic": "Projectile Motion",
+    "premise": "projection|angles|yield|identical|horizontal|ranges",
+    "conclusion": "Projection angles of 15\u00b0 and 75\u00b0 yield identical horizontal ranges"
+  },
+  {
+    "id": 13283,
+    "topic": "Projectile Motion",
+    "premise": "altitude|projectile|flight|proportional|square|sine",
+    "conclusion": "The altitude of projectile flight is proportional to the square of the sine of the projection angle"
+  },
+  {
+    "id": 13284,
+    "topic": "Projectile Motion",
+    "premise": "range|projectile|proportional|sine|twice|projection",
+    "conclusion": "The range of a projectile is proportional to the sine of twice the projection angle"
+  },
+  {
+    "id": 13285,
+    "topic": "Projectile Motion",
+    "premise": "time|flight|proportional|sine|projection|angle",
+    "conclusion": "The time of flight is proportional to the sine of the projection angle"
+  },
+  {
+    "id": 13286,
+    "topic": "Inclined Planes",
+    "premise": "body|sliding|down|chord|vertical|circle",
+    "conclusion": "A body sliding down any chord of a vertical circle starting from the highest point takes equal time"
+  },
+  {
+    "id": 13287,
+    "topic": "Inclined Planes",
+    "premise": "acceleration|inclined|plane|gravitational|height|length",
+    "conclusion": "The acceleration on an inclined plane is to gravitational acceleration as the height is to the length"
+  },
+  {
+    "id": 13288,
+    "topic": "Inclined Planes",
+    "premise": "component|gravitational|force|along|incline|equals",
+    "conclusion": "The component of gravitational force along an incline equals the weight times sine of the angle"
+  },
+  {
+    "id": 13289,
+    "topic": "Inclined Planes",
+    "premise": "body|descending|inclined|plane|given|height",
+    "conclusion": "A body descending any inclined plane from a given height acquires the same terminal velocity"
+  },
+  {
+    "id": 13290,
+    "topic": "Inclined Planes",
+    "premise": "time|descent|along|incline|vertical|fall",
+    "conclusion": "The time of descent along an incline is to the time of vertical fall as the length is to the height"
+  },
+  {
+    "id": 13291,
+    "topic": "Inclined Planes",
+    "premise": "body|ascend|height|opposite|incline|descended",
+    "conclusion": "A body will ascend the same height on an opposite incline that it descended"
+  },
+  {
+    "id": 13292,
+    "topic": "Inertia",
+    "premise": "perfectly|horizontal|plane|body|motion|continue",
+    "conclusion": "On a perfectly horizontal plane, a body in motion would continue indefinitely"
+  },
+  {
+    "id": 13293,
+    "topic": "Pendulum Dynamics",
+    "premise": "period|simple|pendulum|proportional|square|root",
+    "conclusion": "The period of a simple pendulum is proportional to the square root of its length"
+  },
+  {
+    "id": 13294,
+    "topic": "Pendulum Dynamics",
+    "premise": "doubling|pendulum|length|increases|period|factor",
+    "conclusion": "Doubling the pendulum length increases the period by the factor \u221a2"
+  },
+  {
+    "id": 13295,
+    "topic": "Pendulum Dynamics",
+    "premise": "quadrupling|pendulum|length|doubles|period",
+    "conclusion": "Quadrupling the pendulum length doubles the period"
+  },
+  {
+    "id": 13296,
+    "topic": "Pendulum Dynamics",
+    "premise": "period|pendulum|independent|mass",
+    "conclusion": "The period of a pendulum is independent of the mass of the bob"
+  },
+  {
+    "id": 13297,
+    "topic": "Pendulum Dynamics",
+    "premise": "period|pendulum|independent|amplitude|small|oscillations",
+    "conclusion": "The period of a pendulum is independent of the amplitude for small oscillations"
+  },
+  {
+    "id": 13298,
+    "topic": "Pendulum Dynamics",
+    "premise": "pendulum|traverses|equal|arcs|times|regardless",
+    "conclusion": "A pendulum traverses equal arcs in equal times regardless of arc size for small swings"
+  },
+  {
+    "id": 13299,
+    "topic": "Acoustics",
+    "premise": "frequency|vibrating|string|inversely|proportional|length",
+    "conclusion": "The frequency of a vibrating string is inversely proportional to its length"
+  },
+  {
+    "id": 13300,
+    "topic": "Acoustics",
+    "premise": "halving|string|length|raises|pitch|octave",
+    "conclusion": "Halving the string length raises the pitch by one octave"
+  },
+  {
+    "id": 13301,
+    "topic": "Acoustics",
+    "premise": "frequency|vibrating|string|proportional|square|root",
+    "conclusion": "The frequency of a vibrating string is proportional to the square root of its tension"
+  },
+  {
+    "id": 13302,
+    "topic": "Acoustics",
+    "premise": "quadrupling|tension|raises|pitch|octave",
+    "conclusion": "Quadrupling the tension raises the pitch by one octave"
+  },
+  {
+    "id": 13303,
+    "topic": "Acoustics",
+    "premise": "frequency|vibrating|string|inversely|proportional|square",
+    "conclusion": "The frequency of a vibrating string is inversely proportional to the square root of its linear density"
+  },
+  {
+    "id": 13304,
+    "topic": "Acoustics",
+    "premise": "octave|corresponds|frequency|ratio",
+    "conclusion": "The octave corresponds to a frequency ratio of 2:1"
+  },
+  {
+    "id": 13305,
+    "topic": "Acoustics",
+    "premise": "perfect|fifth|corresponds|frequency|ratio",
+    "conclusion": "The perfect fifth corresponds to a frequency ratio of 3:2"
+  },
+  {
+    "id": 13306,
+    "topic": "Acoustics",
+    "premise": "perfect|fourth|corresponds|frequency|ratio",
+    "conclusion": "The perfect fourth corresponds to a frequency ratio of 4:3"
+  },
+  {
+    "id": 13307,
+    "topic": "Acoustics",
+    "premise": "major|third|corresponds|frequency|ratio",
+    "conclusion": "The major third corresponds to a frequency ratio of 5:4"
+  },
+  {
+    "id": 13308,
+    "topic": "Acoustics",
+    "premise": "minor|third|corresponds|frequency|ratio",
+    "conclusion": "The minor third corresponds to a frequency ratio of 6:5"
+  },
+  {
+    "id": 13309,
+    "topic": "Acoustics",
+    "premise": "consonant|intervals|correspond|ratios|small|whole",
+    "conclusion": "Consonant intervals correspond to ratios of small whole numbers"
+  },
+  {
+    "id": 13310,
+    "topic": "Acoustics",
+    "premise": "dissonance|arises|complex|frequency|ratios",
+    "conclusion": "Dissonance arises from complex frequency ratios"
+  },
+  {
+    "id": 13311,
+    "topic": "Acoustics",
+    "premise": "sound|consists|periodic|compressions|rarefactions",
+    "conclusion": "Sound consists of periodic compressions and rarefactions of air"
+  },
+  {
+    "id": 13312,
+    "topic": "Acoustics",
+    "premise": "pitch|determined|frequency|aerial|vibrations",
+    "conclusion": "Pitch is determined by the frequency of aerial vibrations"
+  },
+  {
+    "id": 13313,
+    "topic": "Strength of Materials",
+    "premise": "resistance|cylindrical|beam|fracture|proportional|cube",
+    "conclusion": "The resistance of a cylindrical beam to fracture is proportional to the cube of its diameter"
+  },
+  {
+    "id": 13314,
+    "topic": "Strength of Materials",
+    "premise": "resistance|rectangular|beam|proportional|product|width",
+    "conclusion": "The resistance of a rectangular beam is proportional to the product of width and square of depth"
+  },
+  {
+    "id": 13315,
+    "topic": "Strength of Materials",
+    "premise": "breaking|strength|beam|inversely|proportional|length",
+    "conclusion": "The breaking strength of a beam is inversely proportional to its length"
+  },
+  {
+    "id": 13316,
+    "topic": "Strength of Materials",
+    "premise": "beam|supported|ends|bear|four|times",
+    "conclusion": "A beam supported at both ends can bear four times the load of a cantilever of equal dimensions"
+  },
+  {
+    "id": 13317,
+    "topic": "Strength of Materials",
+    "premise": "neutral|axis|bent|beam|experiences|neither",
+    "conclusion": "The neutral axis of a bent beam experiences neither tension nor compression"
+  },
+  {
+    "id": 13318,
+    "topic": "Strength of Materials",
+    "premise": "material|neutral|axis|compressed|stretched",
+    "conclusion": "Material above the neutral axis is compressed; material below is stretched"
+  },
+  {
+    "id": 13319,
+    "topic": "Strength of Materials",
+    "premise": "strength|geometrically|similar|structures|scale|size",
+    "conclusion": "The strength of geometrically similar structures does not scale with their size"
+  },
+  {
+    "id": 13320,
+    "topic": "Strength of Materials",
+    "premise": "strength|scales|square|linear|dimension|weight",
+    "conclusion": "Strength scales as the square of linear dimension; weight scales as the cube"
+  },
+  {
+    "id": 13321,
+    "topic": "Strength of Materials",
+    "premise": "large|animals|require|proportionally|thicker|bones",
+    "conclusion": "Large animals require proportionally thicker bones than small animals"
+  },
+  {
+    "id": 13322,
+    "topic": "Strength of Materials",
+    "premise": "hollow|cylinder|stronger|unit|weight|solid",
+    "conclusion": "A hollow cylinder is stronger per unit weight than a solid cylinder of equal material"
+  },
+  {
+    "id": 13323,
+    "topic": "Strength of Materials",
+    "premise": "optimal|cross|section|beam|given|weight",
+    "conclusion": "The optimal cross-section for a beam of given weight is hollow, not solid"
+  },
+  {
+    "id": 13324,
+    "topic": "Strength of Materials",
+    "premise": "nature|uses|hollow|structures|bones|plant",
+    "conclusion": "Nature uses hollow structures in bones and plant stems to maximize strength per weight"
+  },
+  {
+    "id": 13325,
+    "topic": "Lunar Astronomy",
+    "premise": "lunar|mountains|measured|length|shadows|terminator",
+    "conclusion": "Lunar mountains can be measured by the length of their shadows at the terminator"
+  },
+  {
+    "id": 13326,
+    "topic": "Lunar Astronomy",
+    "premise": "height|lunar|mountain|equals|shadow|length",
+    "conclusion": "The height of a lunar mountain equals the shadow length times the sine of the solar elevation angle"
+  },
+  {
+    "id": 13327,
+    "topic": "Lunar Astronomy",
+    "premise": "lunar|mountains|exceed|four|italian|miles",
+    "conclusion": "Some lunar mountains exceed four Italian miles in height"
+  },
+  {
+    "id": 13328,
+    "topic": "Lunar Astronomy",
+    "premise": "moon|diameter|approximately|quarter|earth",
+    "conclusion": "The Moon's diameter is approximately one-quarter that of Earth"
+  },
+  {
+    "id": 13329,
+    "topic": "Lunar Astronomy",
+    "premise": "distance|moon|estimated|apparent|angular|size",
+    "conclusion": "The distance to the Moon can be estimated from its apparent angular size"
+  },
+  {
+    "id": 13330,
+    "topic": "Planetary Astronomy",
+    "premise": "jupiter|apparent|diameter|approximately|fifteenth|moon",
+    "conclusion": "Jupiter's apparent diameter is approximately one-fifteenth that of the Moon"
+  },
+  {
+    "id": 13331,
+    "topic": "Jovian Moons",
+    "premise": "periods|jupiter|four|satellites|range|approximately",
+    "conclusion": "The periods of Jupiter's four satellites range from approximately 42 hours to 17 days"
+  },
+  {
+    "id": 13332,
+    "topic": "Jovian Moons",
+    "premise": "innermost|medicean|star|completes|orbit|about",
+    "conclusion": "The innermost Medicean star completes its orbit in about 42 hours"
+  },
+  {
+    "id": 13333,
+    "topic": "Jovian Moons",
+    "premise": "outermost|medicean|star|period|approximately|days",
+    "conclusion": "The outermost Medicean star has a period of approximately 17 days"
+  },
+  {
+    "id": 13334,
+    "topic": "Jovian Moons",
+    "premise": "satellites|jupiter|maintain|fixed|distance|ratios",
+    "conclusion": "The satellites of Jupiter maintain fixed distance ratios in their orbits"
+  },
+  {
+    "id": 13335,
+    "topic": "Jovian Moons",
+    "premise": "orbital|radii|jupiter|moons|measured|jovian",
+    "conclusion": "The orbital radii of Jupiter's moons can be measured in Jovian diameters"
+  },
+  {
+    "id": 13336,
+    "topic": "Hydrostatics",
+    "premise": "buoyant|force|equals|weight|fluid|displaced",
+    "conclusion": "Buoyant force equals the weight of fluid displaced"
+  },
+  {
+    "id": 13337,
+    "topic": "Hydrostatics",
+    "premise": "body|floats|average|density|less|fluid",
+    "conclusion": "A body floats when its average density is less than the density of the fluid"
+  },
+  {
+    "id": 13338,
+    "topic": "Hydrostatics",
+    "premise": "body|sinks|average|density|exceeds|fluid",
+    "conclusion": "A body sinks when its average density exceeds the density of the fluid"
+  },
+  {
+    "id": 13339,
+    "topic": "Hydrostatics",
+    "premise": "floats|density|approximately|water",
+    "conclusion": "Ice floats because its density is approximately 9/10 that of water"
+  },
+  {
+    "id": 13340,
+    "topic": "Hydrostatics",
+    "premise": "fraction|floating|body|submerged|equals|ratio",
+    "conclusion": "The fraction of a floating body submerged equals the ratio of its density to the fluid's density"
+  },
+  {
+    "id": 13341,
+    "topic": "Vacuum Physics",
+    "premise": "water|cannot|raised|suction|pumps|beyond",
+    "conclusion": "Water cannot be raised by suction pumps beyond approximately 18 braccia"
+  },
+  {
+    "id": 13342,
+    "topic": "Vacuum Physics",
+    "premise": "limiting|height|water|suction|pump|approximately",
+    "conclusion": "The limiting height of water in a suction pump is approximately 10 meters"
+  },
+  {
+    "id": 13343,
+    "topic": "Vacuum Physics",
+    "premise": "resistance|vacuum|finite|measurable",
+    "conclusion": "The resistance of a vacuum is finite and measurable"
+  },
+  {
+    "id": 13344,
+    "topic": "Vacuum Physics",
+    "premise": "weight|exerts|pressure",
+    "conclusion": "Air has weight and exerts pressure"
+  },
+  {
+    "id": 13345,
+    "topic": "Vacuum Physics",
+    "premise": "force|required|separate|polished|surfaces|contact",
+    "conclusion": "The force required to separate two polished surfaces in contact measures the vacuum's resistance"
+  },
+  {
+    "id": 13346,
+    "topic": "Free Fall",
+    "premise": "bodies|different|weights|dropped|height|reach",
+    "conclusion": "Bodies of different weights dropped from the same height reach the ground nearly simultaneously"
+  },
+  {
+    "id": 13347,
+    "topic": "Free Fall",
+    "premise": "vacuum|bodies|fall|exactly|rate",
+    "conclusion": "In a vacuum, all bodies would fall at exactly the same rate"
+  },
+  {
+    "id": 13348,
+    "topic": "Free Fall",
+    "premise": "resistance|accounts|observed|differences|fall|times",
+    "conclusion": "Air resistance accounts for observed differences in fall times"
+  },
+  {
+    "id": 13349,
+    "topic": "Free Fall",
+    "premise": "resistance|greater|bodies|larger|surface|area",
+    "conclusion": "Air resistance is greater for bodies of larger surface area relative to weight"
+  },
+  {
+    "id": 13350,
+    "topic": "Free Fall",
+    "premise": "dense|bodies|fall|faster|light|size",
+    "conclusion": "Dense bodies fall faster in air than light bodies of the same size"
+  },
+  {
+    "id": 13351,
+    "topic": "Free Fall",
+    "premise": "velocity|falling|body|medium|approaches|terminal",
+    "conclusion": "The velocity of a falling body in a medium approaches a terminal value"
+  },
+  {
+    "id": 13352,
+    "topic": "Free Fall",
+    "premise": "terminal|velocity|depends|ratio|body|density",
+    "conclusion": "Terminal velocity depends on the ratio of the body's density to the medium's density"
+  },
+  {
+    "id": 13353,
+    "topic": "Free Fall",
+    "premise": "denser|media|body|falls|slowly",
+    "conclusion": "In denser media, the same body falls more slowly"
+  },
+  {
+    "id": 13354,
+    "topic": "Free Fall",
+    "premise": "effect|medium|proportional|density",
+    "conclusion": "The effect of the medium is proportional to its density"
+  },
+  {
+    "id": 13355,
+    "topic": "Solar Physics",
+    "premise": "rotates|axis|period|approximately|month",
+    "conclusion": "The Sun rotates on its axis with a period of approximately one month"
+  },
+  {
+    "id": 13356,
+    "topic": "Solar Physics",
+    "premise": "sunspots|traverse|solar|disk|about|days",
+    "conclusion": "Sunspots traverse the solar disk in about 14 days"
+  },
+  {
+    "id": 13357,
+    "topic": "Solar Physics",
+    "premise": "paths|sunspots|curved|axis|inclined|line",
+    "conclusion": "The paths of sunspots are curved when the Sun's axis is inclined to the line of sight"
+  },
+  {
+    "id": 13358,
+    "topic": "Solar Physics",
+    "premise": "apparent|velocity|sunspots|greater|solar|disk",
+    "conclusion": "The apparent velocity of sunspots is greater at the solar disk's center than at the limbs"
+  },
+  {
+    "id": 13359,
+    "topic": "Solar Physics",
+    "premise": "sunspots|appear|foreshortened|near|solar|limb",
+    "conclusion": "Sunspots appear foreshortened near the solar limb"
+  },
+  {
+    "id": 13360,
+    "topic": "Solar Physics",
+    "premise": "rotational|axis|inclined|approximately|degrees|ecliptic",
+    "conclusion": "The Sun's rotational axis is inclined approximately 7 degrees to the ecliptic"
+  },
+  {
+    "id": 13361,
+    "topic": "Solar Physics",
+    "premise": "sunspots|vary|size|small|points|areas",
+    "conclusion": "Sunspots vary in size from small points to areas larger than the Earth"
+  },
+  {
+    "id": 13362,
+    "topic": "Solar Physics",
+    "premise": "individual|sunspots|persist|days|weeks|dissolving",
+    "conclusion": "Individual sunspots persist for days to weeks before dissolving"
+  },
+  {
+    "id": 13363,
+    "topic": "Solar Physics",
+    "premise": "sunspots|form|disappear",
+    "conclusion": "New sunspots form while old ones disappear"
+  },
+  {
+    "id": 13364,
+    "topic": "Planetary Distances",
+    "premise": "approximately|times|farther|earth|moon",
+    "conclusion": "The Sun is approximately 20 times farther from Earth than the Moon"
+  },
+  {
+    "id": 13365,
+    "topic": "Stellar Astronomy",
+    "premise": "distance|stars|incomparably|greater|diameter|earth",
+    "conclusion": "The distance to the stars is incomparably greater than the diameter of Earth's orbit"
+  },
+  {
+    "id": 13366,
+    "topic": "Stellar Astronomy",
+    "premise": "stellar|parallax|detectable|stars|enormously|distant",
+    "conclusion": "Stellar parallax would be detectable if stars were not so enormously distant"
+  },
+  {
+    "id": 13367,
+    "topic": "Stellar Astronomy",
+    "premise": "apparent|diameter|stars|telescope|spurious|caused",
+    "conclusion": "The apparent diameter of stars through the telescope is spurious, caused by irradiation"
+  },
+  {
+    "id": 13368,
+    "topic": "Stellar Astronomy",
+    "premise": "stars|appear|points|spurious|irradiation|eliminated",
+    "conclusion": "Stars appear as points when the spurious irradiation is eliminated"
+  },
+  {
+    "id": 13369,
+    "topic": "Stellar Astronomy",
+    "premise": "first|magnitude|stars|necessarily|closer|sixth",
+    "conclusion": "First magnitude stars are not necessarily closer than sixth magnitude stars"
+  },
+  {
+    "id": 13370,
+    "topic": "Stellar Astronomy",
+    "premise": "stars|vary|intrinsic|brightness|distance",
+    "conclusion": "Stars may vary in intrinsic brightness, not only in distance"
+  },
+  {
+    "id": 13371,
+    "topic": "Stellar Astronomy",
+    "premise": "milky|resolves|countless|individual|stars|magnification",
+    "conclusion": "The Milky Way resolves into countless individual stars under magnification"
+  },
+  {
+    "id": 13372,
+    "topic": "Stellar Astronomy",
+    "premise": "nebulae|praesepe|resolve|star|clusters",
+    "conclusion": "Nebulae such as Praesepe resolve into star clusters"
+  },
+  {
+    "id": 13373,
+    "topic": "Stellar Astronomy",
+    "premise": "number|visible|stars|increases|enormously|telescopic",
+    "conclusion": "The number of visible stars increases enormously with telescopic observation"
+  },
+  {
+    "id": 13374,
+    "topic": "Simple Machines",
+    "premise": "force|along|lever|inversely|proportional|distance",
+    "conclusion": "The force along a lever arm is inversely proportional to the distance from the fulcrum"
+  },
+  {
+    "id": 13375,
+    "topic": "Simple Machines",
+    "premise": "mechanical|advantage|lever|equals|ratio|lengths",
+    "conclusion": "The mechanical advantage of a lever equals the ratio of arm lengths"
+  },
+  {
+    "id": 13376,
+    "topic": "Simple Machines",
+    "premise": "gained|force|lost|distance|simple|machines",
+    "conclusion": "What is gained in force is lost in distance in all simple machines"
+  },
+  {
+    "id": 13377,
+    "topic": "Simple Machines",
+    "premise": "screw|inclined|plane|wrapped|around|cylinder",
+    "conclusion": "The screw is an inclined plane wrapped around a cylinder"
+  },
+  {
+    "id": 13378,
+    "topic": "Simple Machines",
+    "premise": "mechanical|advantage|screw|depends|pitch",
+    "conclusion": "The mechanical advantage of a screw depends on the pitch"
+  },
+  {
+    "id": 13379,
+    "topic": "Simple Machines",
+    "premise": "pulley|redirects|force|single|fixed|provides",
+    "conclusion": "The pulley redirects force but a single fixed pulley provides no mechanical advantage"
+  },
+  {
+    "id": 13380,
+    "topic": "Simple Machines",
+    "premise": "movable|pulley|doubles|mechanical|advantage",
+    "conclusion": "A movable pulley doubles the mechanical advantage"
+  },
+  {
+    "id": 13381,
+    "topic": "Simple Machines",
+    "premise": "block|tackle|systems|multiply|force|number",
+    "conclusion": "Block and tackle systems multiply force by the number of supporting rope segments"
+  },
+  {
+    "id": 13382,
+    "topic": "Simple Machines",
+    "premise": "wedge|double|inclined|plane",
+    "conclusion": "The wedge is a double inclined plane"
+  },
+  {
+    "id": 13383,
+    "topic": "Simple Machines",
+    "premise": "simple|machines|obey|principle|force|times",
+    "conclusion": "All simple machines obey the principle that force times distance is conserved"
+  },
+  {
+    "id": 13384,
+    "topic": "Impact Mechanics",
+    "premise": "percussion|hammer|exceeds|static|pressure|regardless",
+    "conclusion": "The percussion of a hammer exceeds any static pressure regardless of weight"
+  },
+  {
+    "id": 13385,
+    "topic": "Impact Mechanics",
+    "premise": "percussion|force|depends|velocity|striking|body",
+    "conclusion": "Percussion force depends on the velocity of the striking body"
+  },
+  {
+    "id": 13386,
+    "topic": "Impact Mechanics",
+    "premise": "effect|percussion|concentrated|brief|instant",
+    "conclusion": "The effect of percussion is concentrated in a brief instant"
+  },
+  {
+    "id": 13387,
+    "topic": "Impact Mechanics",
+    "premise": "small|hammer|moving|fast|drive|nail",
+    "conclusion": "A small hammer moving fast can drive a nail that a heavy weight resting on it cannot"
+  },
+  {
+    "id": 13388,
+    "topic": "Impact Mechanics",
+    "premise": "momentum|body|equals|weight|times|velocity",
+    "conclusion": "The momentum of a body equals its weight times its velocity"
+  },
+  {
+    "id": 13389,
+    "topic": "Kinematics",
+    "premise": "velocity|continuous|magnitude|admitting|infinite|degrees",
+    "conclusion": "Velocity is a continuous magnitude admitting of infinite degrees"
+  },
+  {
+    "id": 13390,
+    "topic": "Kinematics",
+    "premise": "body|cannot|pass|rest|velocity|without",
+    "conclusion": "A body cannot pass from rest to any velocity without passing through all intermediate velocities"
+  },
+  {
+    "id": 13391,
+    "topic": "Kinematics",
+    "premise": "instantaneous|velocity|limit|average|over|diminishing",
+    "conclusion": "Instantaneous velocity is the limit of average velocity over diminishing time intervals"
+  },
+  {
+    "id": 13392,
+    "topic": "Kinematics",
+    "premise": "uniform|velocity|means|equal|distances|traversed",
+    "conclusion": "Uniform velocity means equal distances traversed in equal times"
+  },
+  {
+    "id": 13393,
+    "topic": "Kinematics",
+    "premise": "uniformly|accelerated|motion|means|equal|increments",
+    "conclusion": "Uniformly accelerated motion means equal increments of velocity in equal times"
+  },
+  {
+    "id": 13394,
+    "topic": "Kinematics",
+    "premise": "ratio|distances|uniformly|accelerated|motion|squares",
+    "conclusion": "The ratio of distances in uniformly accelerated motion is as the squares of the times"
+  },
+  {
+    "id": 13395,
+    "topic": "Kinematics",
+    "premise": "ratio|velocities|uniformly|accelerated|motion|times",
+    "conclusion": "The ratio of velocities in uniformly accelerated motion is as the times"
+  },
+  {
+    "id": 13396,
+    "topic": "Kinematics",
+    "premise": "space|traversed|accelerated|motion|rest|equals",
+    "conclusion": "The space traversed in accelerated motion from rest equals that traversed at half the final velocity"
+  },
+  {
+    "id": 13397,
+    "topic": "Kinematics",
+    "premise": "velocity|proportional|distance|motion|instantaneous",
+    "conclusion": "If velocity were proportional to distance, motion would be instantaneous"
+  },
+  {
+    "id": 13398,
+    "topic": "Kinematics",
+    "premise": "velocity|proportional|time|distance|uniformly|accelerated",
+    "conclusion": "Velocity must be proportional to time, not distance, in uniformly accelerated motion"
+  },
+  {
+    "id": 13399,
+    "topic": "Projectile Motion",
+    "premise": "angle|projectile|initial|velocity|decomposed|horizontal",
+    "conclusion": "The angle of a projectile's initial velocity can be decomposed into horizontal and vertical components"
+  },
+  {
+    "id": 13400,
+    "topic": "Projectile Motion",
+    "premise": "vertical|component|determines|time|flight",
+    "conclusion": "The vertical component determines the time of flight"
+  },
+  {
+    "id": 13401,
+    "topic": "Projectile Motion",
+    "premise": "horizontal|component|determines|range|given|flight",
+    "conclusion": "The horizontal component determines the range for a given flight time"
+  },
+  {
+    "id": 13402,
+    "topic": "Projectile Motion",
+    "premise": "projectiles|horizontal|vertical|components|follow|identical",
+    "conclusion": "Two projectiles with the same horizontal and vertical components will follow identical paths"
+  },
+  {
+    "id": 13403,
+    "topic": "Projectile Motion",
+    "premise": "parabola|unique|curve|generated|uniform|horizontal",
+    "conclusion": "The parabola is the unique curve generated by uniform horizontal and accelerated vertical motion"
+  },
+  {
+    "id": 13404,
+    "topic": "Projectile Motion",
+    "premise": "segment|parabolic|trajectory",
+    "conclusion": "Any segment of a parabolic trajectory is itself parabolic"
+  },
+  {
+    "id": 13405,
+    "topic": "Inertia",
+    "premise": "body|natural|tendency|neither|upward|downward",
+    "conclusion": "A body's natural tendency is neither upward nor downward but along its line of motion"
+  },
+  {
+    "id": 13406,
+    "topic": "Inertia",
+    "premise": "circular|motion|around|earth|perpetual|absence",
+    "conclusion": "Circular motion around Earth would be perpetual in the absence of resistance"
+  },
+  {
+    "id": 13407,
+    "topic": "Projectile Motion",
+    "premise": "curvature|earth|surface|allows|horizontally|projected",
+    "conclusion": "The curvature of Earth's surface allows a horizontally projected body to travel farther before falling"
+  },
+  {
+    "id": 13408,
+    "topic": "Orbital Motion",
+    "premise": "sufficient|horizontal|velocity|projectile|orbit|earth",
+    "conclusion": "At sufficient horizontal velocity, a projectile would orbit Earth without falling"
+  },
+  {
+    "id": 13409,
+    "topic": "Orbital Motion",
+    "premise": "moon|orbit|maintained|tangential|velocity",
+    "conclusion": "The Moon's orbit is maintained by its tangential velocity"
+  },
+  {
+    "id": 13410,
+    "topic": "Tidal Theory",
+    "premise": "tides|result|composition|earth|rotation|revolution",
+    "conclusion": "The tides result from the composition of Earth's rotation and revolution"
+  },
+  {
+    "id": 13411,
+    "topic": "Tidal Theory",
+    "premise": "period|tides|approximately|hours|based|theory",
+    "conclusion": "The period of the tides should be approximately 12 hours based on this theory"
+  },
+  {
+    "id": 13412,
+    "topic": "Tidal Theory",
+    "premise": "different|seas|tidal|periods|geometry",
+    "conclusion": "Different seas have different tidal periods due to their geometry"
+  },
+  {
+    "id": 13413,
+    "topic": "Tidal Theory",
+    "premise": "enclosed|basins|oscillate|periods|determined|length",
+    "conclusion": "Enclosed basins oscillate at periods determined by their length and depth"
+  },
+  {
+    "id": 13414,
+    "topic": "Tidal Theory",
+    "premise": "oscillation|water|basin|analogous|sloshing|moving",
+    "conclusion": "The oscillation of water in a basin is analogous to water sloshing in a moving vessel"
+  },
+  {
+    "id": 13415,
+    "topic": "Kinematics",
+    "premise": "horizontal|vertical|components|motion|mutually|independent",
+    "conclusion": "Horizontal and vertical components of motion are mutually independent"
+  },
+  {
+    "id": 13416,
+    "topic": "Kinematics",
+    "premise": "cannonball|fired|horizontally|tower|falls|distance",
+    "conclusion": "A cannonball fired horizontally from a tower falls the same distance as one dropped"
+  },
+  {
+    "id": 13417,
+    "topic": "Kinematics",
+    "premise": "horizontal|distance|traveled|depends|initial|velocity",
+    "conclusion": "The horizontal distance traveled depends on initial horizontal velocity"
+  },
+  {
+    "id": 13418,
+    "topic": "Kinematics",
+    "premise": "vertical|distance|fallen|depends|time|gravitational",
+    "conclusion": "The vertical distance fallen depends only on time and gravitational acceleration"
+  },
+  {
+    "id": 13419,
+    "topic": "Kinematics",
+    "premise": "motion|analyzed|decomposing|independent|perpendicular|components",
+    "conclusion": "Motion can be analyzed by decomposing it into independent perpendicular components"
+  },
+  {
+    "id": 13420,
+    "topic": "Kinematics",
+    "premise": "laws|falling|bodies|apply|equally|vertical",
+    "conclusion": "The laws of falling bodies apply equally to the vertical component of projectile motion"
+  },
+  {
+    "id": 13421,
+    "topic": "Pendulum Dynamics",
+    "premise": "pendulum|motion|approximates|simple|harmonic|small",
+    "conclusion": "Pendulum motion approximates simple harmonic motion for small amplitudes"
+  },
+  {
+    "id": 13422,
+    "topic": "Pendulum Dynamics",
+    "premise": "restoring|force|pendulum|proportional|displacement|small",
+    "conclusion": "The restoring force on a pendulum is proportional to displacement for small angles"
+  },
+  {
+    "id": 13423,
+    "topic": "Pendulum Dynamics",
+    "premise": "cycloidal|pendulum|truly|isochronous|amplitudes",
+    "conclusion": "A cycloidal pendulum would be truly isochronous for all amplitudes"
+  },
+  {
+    "id": 13424,
+    "topic": "Kinematics",
+    "premise": "brachistochrone|path|quickest|descent|points",
+    "conclusion": "The brachistochrone is the path of quickest descent between two points"
+  },
+  {
+    "id": 13425,
+    "topic": "Kinematics",
+    "premise": "circle|provides|faster|descent|straight|incline",
+    "conclusion": "An arc of a circle provides faster descent than a straight incline between the same endpoints"
+  },
+  {
+    "id": 13426,
+    "topic": "Kinematics",
+    "premise": "among|chords|circle|highest|point|descent",
+    "conclusion": "Among all chords of a circle from the highest point, descent time is equal"
+  },
+  {
+    "id": 13427,
+    "topic": "Mathematics",
+    "premise": "infinite|meaningfully|discussed|correspondence",
+    "conclusion": "The infinite can be meaningfully discussed through one-to-one correspondence"
+  },
+  {
+    "id": 13428,
+    "topic": "Mathematics",
+    "premise": "many|perfect|squares|natural|numbers",
+    "conclusion": "There are as many perfect squares as there are natural numbers"
+  },
+  {
+    "id": 13429,
+    "topic": "Mathematics",
+    "premise": "part|equal|whole|infinite|collections",
+    "conclusion": "The part can be equal to the whole in infinite collections"
+  },
+  {
+    "id": 13430,
+    "topic": "Mathematics",
+    "premise": "infinite|quantities|obey|axiom|whole|greater",
+    "conclusion": "Infinite quantities do not obey the axiom that the whole is greater than the part"
+  },
+  {
+    "id": 13431,
+    "topic": "Mathematics",
+    "premise": "continuous|magnitudes|divided|infinitely",
+    "conclusion": "Continuous magnitudes can be divided infinitely"
+  },
+  {
+    "id": 13432,
+    "topic": "Mathematics",
+    "premise": "points|line|infinitely|many",
+    "conclusion": "Between any two points on a line there are infinitely many points"
+  },
+  {
+    "id": 13433,
+    "topic": "Mathematics",
+    "premise": "infinitesimals|building|blocks|continuous|quantities",
+    "conclusion": "Infinitesimals are the building blocks of continuous quantities"
+  },
+  {
+    "id": 13434,
+    "topic": "Mathematics",
+    "premise": "mathematical|proof|proceeds|axioms|necessary|demonstration",
+    "conclusion": "Mathematical proof proceeds from axioms through necessary demonstration"
+  },
+  {
+    "id": 13435,
+    "topic": "Mathematics",
+    "premise": "geometric|relationships|admit|certain|knowledge",
+    "conclusion": "Geometric relationships admit of certain knowledge"
+  },
+  {
+    "id": 13436,
+    "topic": "Natural Philosophy",
+    "premise": "physical|laws|certainty|geometric|theorems|properly",
+    "conclusion": "Physical laws have the same certainty as geometric theorems when properly demonstrated"
+  },
+  {
+    "id": 13437,
+    "topic": "Natural Philosophy",
+    "premise": "proportional|reasoning|reveals|structure|physical|relationships",
+    "conclusion": "Proportional reasoning reveals the structure of physical relationships"
+  },
+  {
+    "id": 13438,
+    "topic": "Mathematics",
+    "premise": "fourth|proportional|found|given|three|magnitudes",
+    "conclusion": "The fourth proportional can always be found given three magnitudes"
+  },
+  {
+    "id": 13439,
+    "topic": "Mathematics",
+    "premise": "similar|triangles|yield|proportions|applicable|physical",
+    "conclusion": "Similar triangles yield proportions applicable to physical problems"
+  },
+  {
+    "id": 13440,
+    "topic": "Mathematics",
+    "premise": "properties|parabolas|derived|definition|conic|section",
+    "conclusion": "The properties of parabolas can be derived from the definition as a conic section"
+  },
+  {
+    "id": 13441,
+    "topic": "Mathematics",
+    "premise": "tangent|parabola|point|makes|equal|angles",
+    "conclusion": "The tangent to a parabola at any point makes equal angles with the axis and the focal radius"
+  },
+  {
+    "id": 13442,
+    "topic": "Projectile Motion",
+    "premise": "trajectory|projectile|tangent|initial|direction",
+    "conclusion": "The trajectory of a projectile is tangent to its initial direction"
+  },
+  {
+    "id": 13443,
+    "topic": "Projectile Motion",
+    "premise": "latus|rectum|projectile|parabola|determined|initial",
+    "conclusion": "The latus rectum of the projectile's parabola is determined by initial velocity and acceleration"
+  },
+  {
+    "id": 13444,
+    "topic": "Projectile Motion",
+    "premise": "doubling|initial|velocity|quadruples|range|angle",
+    "conclusion": "Doubling initial velocity quadruples the range at the same angle"
+  },
+  {
+    "id": 13445,
+    "topic": "Projectile Motion",
+    "premise": "maximum|height|projectile|proportional|square|vertical",
+    "conclusion": "The maximum height of a projectile is proportional to the square of the vertical velocity component"
+  },
+  {
+    "id": 13446,
+    "topic": "Projectile Motion",
+    "premise": "velocity|point|trajectory|computed|initial|conditions",
+    "conclusion": "The velocity at any point on the trajectory can be computed from initial conditions"
+  },
+  {
+    "id": 13447,
+    "topic": "Kinematics",
+    "premise": "body|thrown|vertically|upward|returns|speed",
+    "conclusion": "A body thrown vertically upward returns with the same speed it was thrown"
+  },
+  {
+    "id": 13448,
+    "topic": "Kinematics",
+    "premise": "time|ascent|equals|descent|vertically|thrown",
+    "conclusion": "The time of ascent equals the time of descent for a vertically thrown body"
+  },
+  {
+    "id": 13449,
+    "topic": "Kinematics",
+    "premise": "deceleration|ascent|equals|acceleration|descent",
+    "conclusion": "The deceleration during ascent equals the acceleration during descent"
+  },
+  {
+    "id": 13450,
+    "topic": "Kinematics",
+    "premise": "height|reached|vertically|thrown|body|proportional",
+    "conclusion": "The height reached by a vertically thrown body is proportional to the square of initial velocity"
+  },
+  {
+    "id": 13451,
+    "topic": "Kinematics",
+    "premise": "bodies|dropped|different|heights|ground|velocities",
+    "conclusion": "Two bodies dropped from different heights hit the ground with velocities proportional to the square roots of the heights"
+  },
+  {
+    "id": 13452,
+    "topic": "Energy Conservation",
+    "premise": "velocity|acquired|falling|given|height|regardless",
+    "conclusion": "The velocity acquired in falling a given height is the same regardless of the path"
+  },
+  {
+    "id": 13453,
+    "topic": "Energy Conservation",
+    "premise": "pendulum|rises|height|released|minus|frictional",
+    "conclusion": "A pendulum rises to the height from which it was released, minus frictional losses"
+  },
+  {
+    "id": 13454,
+    "topic": "Energy Conservation",
+    "premise": "speed|bottom|pendulum|swing|depends|height",
+    "conclusion": "The speed at the bottom of a pendulum swing depends only on the height of release"
+  },
+  {
+    "id": 13455,
+    "topic": "Mechanics",
+    "premise": "work|against|gravity|proportional|weight|times",
+    "conclusion": "Work against gravity is proportional to weight times height lifted"
+  },
+  {
+    "id": 13456,
+    "topic": "Inclined Planes",
+    "premise": "force|required|drag|body|inclined|plane",
+    "conclusion": "The force required to drag a body up an inclined plane is less than lifting it vertically"
+  },
+  {
+    "id": 13457,
+    "topic": "Inclined Planes",
+    "premise": "ratio|force|weight|incline|equals|height",
+    "conclusion": "The ratio of force to weight on an incline equals the ratio of height to length"
+  },
+  {
+    "id": 13458,
+    "topic": "Free Fall",
+    "premise": "acceleration|gravity|constant|near|earth|surface",
+    "conclusion": "The acceleration due to gravity is constant near Earth's surface"
+  },
+  {
+    "id": 13459,
+    "topic": "Free Fall",
+    "premise": "bodies|fall|approximately|braccia|first|second",
+    "conclusion": "Bodies fall approximately 15 braccia in the first second from rest"
+  },
+  {
+    "id": 13460,
+    "topic": "Free Fall",
+    "premise": "seconds|body|falls|four|times|distance",
+    "conclusion": "In two seconds, a body falls four times the distance it falls in one second"
+  },
+  {
+    "id": 13461,
+    "topic": "Free Fall",
+    "premise": "three|seconds|body|falls|nine|times",
+    "conclusion": "In three seconds, a body falls nine times the first-second distance"
+  },
+  {
+    "id": 13462,
+    "topic": "Experimental Method",
+    "premise": "spacing|marks|inclined|plane|reveals|square",
+    "conclusion": "The spacing of marks on an inclined plane reveals the square-of-time law"
+  },
+  {
+    "id": 13463,
+    "topic": "Experimental Method",
+    "premise": "water|clocks|measure|small|time|intervals",
+    "conclusion": "Water clocks can measure small time intervals for kinematic experiments"
+  },
+  {
+    "id": 13464,
+    "topic": "Experimental Method",
+    "premise": "musical|rhythm|provides|method|timing|falling",
+    "conclusion": "Musical rhythm provides a method for timing falling bodies"
+  },
+  {
+    "id": 13465,
+    "topic": "Kinematics",
+    "premise": "geometric|mean|distances|corresponds|arithmetic|corresponding",
+    "conclusion": "The geometric mean of two distances corresponds to the arithmetic mean of the corresponding times"
+  },
+  {
+    "id": 13466,
+    "topic": "Tidal Theory",
+    "premise": "period|oscillation|basin|proportional|square|root",
+    "conclusion": "The period of oscillation in a basin is proportional to the square root of length divided by depth"
+  }
+]

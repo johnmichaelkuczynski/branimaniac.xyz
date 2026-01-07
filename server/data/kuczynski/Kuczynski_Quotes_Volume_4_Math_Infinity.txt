@@ -1,0 +1,92 @@
+KUCZYNSKI QUOTES VOLUME 4: NUMBER, INFINITY, AND PHILOSOPHY OF MATHEMATICS
+J.-M. Kuczynski, PhD
+
+TRANSFINITE NUMBERS AND REFLEXIVE CLASSES
+
+A transfinite number is the number of a reflexive class. A class K is reflexive iff K can be bijected with a proper subset of itself.
+
+There are two distinct but equally legitimate answers to the question of class-size equality:
+Answer #1: [K]=[K*] iff K≈K*.
+Answer #2: [K]=[K*] iff (i) K≈K*, (ii) Neither class is identical with, or capable of being bijected with, any class that is a proper subset of the other.
+
+ORDERS OF MAGNITUDE
+
+An order of magnitude is not a specific magnitude, but is rather a range of magnitudes that are mathematically similar in some important respect.
+
+For the purposes of set-theory, this being the study of class-size, there are ultimately three orders of magnitude: (i) Finite, (ii) Infinite and recursive, and (iii) Infinite and non-recursive.
+
+K is recursively definable iff, for some object α and some function ϕ, x∈K iff (i) x= α or (ii) x=ϕ(β), where β∈K.
+
+BIJECTIONS AND CARDINALITY
+
+ϕ bijects ℕ and ℤ, where (i) ϕ(0)=−1, (ii) ϕ(n+1)=+n whenever ϕ(n)=−n, and (iii) ϕ(n+1)=−n whenever ϕ(n)=+n.
+
+ϕ recursively defines ℚ, and in so doing it bijects ℕ and ℚ. Thus [ℕ]=[ℚ]=ℵ.
+
+CONTINUITY AND LIMITS
+
+A continuous series is a compact series that contains each of its own limits.
+
+L is a limit of S just in case (i) Any given element of S bears R to L, (ii) L does not bear R to any element of S, and (iii) There is no non-element N of S such that N bears R to L.
+
+DIAGONAL ARGUMENT AND NON-DENUMERABILITY
+
+D(S) generates a number N such that, for each n, the figure in the nth decimal place in N is different from the figure in the nth decimal place in the nth member of S.
+
+If α∈k, then α∉ϕ(α); and if α∉ϕ(α), then α∉k. Therefore, α∈k iff α∉k.
+
+POWER-SET THEOREM
+
+Given a class K, let PK is the power-set of K, meaning that PK is the set of all subsets of K.
+
+Proposition: Given any class K, ∅ is an element of PK.
+
+Proposition: For any K, whether finite or infinite, [PK]=2^[K].
+
+Given that [PK]=2^[K]>[K], for any K, whether finite or infinite, it follows that there are infinitely many transfinites and, therefore, infinitely many orders of infinity.
+
+CONTINUUM HYPOTHESIS
+
+The Continuum Hypothesis is the position that [ℝ]=[Pℕ]=ℵ₁.
+
+The Generalized Continuum Hypothesis is position that, for any infinitely large class K, [PK] is the smallest number that is greater than [K].
+
+CARDINAL VS ORDINAL ARITHMETIC
+
+Cardinal arithmetic concerns unordered classes, as opposed to sequences (ordered classes).
+
+Therefore, cardinal addition and multiplication are always distinct operations from their ordinal analogues.
+
+Where finite cardinals are concerned, cardinal addition and multiplication are in lockstep with their ordinal analogues.
+
+This is not the case where transfinite cardinals are concerned, and it was only when the arithmetic or transfinites was first seriously investigated that the distinction between cardinals and ordinals was first made.
+
+ℵ×2=ℵ. For any finite n, obvious generalizations of this reasoning establish that ℵ×n=ℵ, and non-obvious generalizations establish ℵ×ℵ=ℵ.
+
+If A and B are transfinite cardinals, A−B is infinitely ambiguous, and so is A÷B.
+
+ORDINAL NUMBERS AND SERIES
+
+Just as a cardinal number is the number of a class, an ordinal number is the number of a series.
+
+If a series S is finite, rearranging S's member always yields a series S* that has the same number of elements as S. But if S is an infinitely long series, rearranging S's members may yield a series S* that does not contain the same number of elements as S.
+
+Addition and multiplication are commutative where finite ordinals are concerned but not where transfinite ordinals are concerned.
+
+Addition and multiplication are commutative where scalar (one-dimensional) magnitudes are concerned, but not, except under special circumstances, where vector (n-dimensional, for n>1) magnitudes are concerned.
+
+An ordinal number is a serial number, i.e. it is the number of a series.
+
+STRUCTURE AND ORDINAL IDENTITY
+
+Any two structured manifolds are ordinally identical just in case any truth concerning the elements of the one can be expressed as truths concerning elements of the other.
+
+Ordinal numbers are mathematical representations of structure, and any given structure is described by an ordinal number, with the qualification that the two-dimensional ordinals that we have been considering describe extremely primitive structures.
+
+DIMENSION AND CARDINALITY
+
+Given that [ℝ]=[ℝ]^n, it follows that a line can be 'transformed' into a plane. More plainly, it follows that if a line segment is appropriately curved, it can fill out a two-dimensional space.
+
+If a line could not fill out a plane, then it would not be possible for the trajectory of an object to cover every point on a plane. This means that the trajectory of an object would---for reasons of mathematics, as opposed to physics or circumstance-specific fact---be limited to a proper subset of a given plane's points.
+
+So the fact that [ℝ]=[ℝ]^n, for any finite n, is not a theoretical curiosity. On the contrary, it is an important part of the mathematical foundation of kinematics (the study of motion) and therefore of dynamics (the study force-governed motion).

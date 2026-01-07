@@ -1,0 +1,559 @@
+Chapter 11
+
+Cartesian Skepticism and the Birth of Epistemology
+
+1.0 Descartes’ importance to philosophy
+
+Pre-modern philosophy tended to focus on two questions: (i) Does God exist? (ii) Do universals exist independently of thought? A universal is a property or characteristic.
+
+Modern philosophy is generally held to have begun with the work of Rene Descartes (1596–1650). Descartes believed in God’s existence, and he also believed that he knew exactly how God’s existence was to be proved. He therefore considered the case to be closed on question (i). Descartes wasn’t interested in question (ii) and said little about it.
+
+Descartes’ single-handedly invented the discipline of analytic epistemology. But Descartes’ specific epistemological views aren’t what make him so important to philosophy. What did so was his conviction that we shouldn’t believe anything that cannot be rigorously established. For Descartes, nothing ought to be taken on faith. Everything, including God’s existence and the legitimacy of scripture, had to be established. Even though he himself believed in God, he felt it necessary to justify his belief in God. And did he justify it, or at least tried to, by providing two carefully constructed argument’s for God’s existence, which we’ll consider in a few pages.
+
+Thus, the central tenet of Descartes’ work is that nothing ought to be accepted unless there is a logical, as opposed to faith-based, reason for doing so. So far as this was even a tenet or pre-Cartesian philosophy, it wasn’t the main tenet of it. But it is the main tenet of modern philosophy, which is why Descartes is generally seen as the founder of it.
+
+In addition to being a great philosopher, Descartes was a great mathematician. He invented the discipline of analytic geometry. This fact about him is deeply relevant to his philosophical work. Descartes believed that all knowledge ought to be modeled on geometrical knowledge—more specifically, on Euclid’s axiomatization of geometry.
+
+Euclid attempted, with some success, to show that every accepted principle of geometry could be derived from a small number of assumptions that he referred to as “axioms” or “postulates.” (The distinction between axioms and postulates isn’t important, and these days only the term “axiom” is used.) As contemporary logicians and mathematicians use it, the word “axiom” refers to any statement that, in a given argumentative context, is simply assumed to be true and therefore isn’t argued for. But Euclid used this word (or its Ancient Greek counterpart, rather) to refer to what he believed to be self-evident truths—truths that could not be grasped without being seen to be true and that neither required nor admitted of justification. (Among Euclid’s axioms are “all right angles are equal to each other,” “any two points are connected by some straight line,” and “a given line segment can be extended ad infinitum.”)
+
+Descartes tried to show that what Euclid did for geometrical knowledge could be done for all knowledge. That is, he tried to show that human knowledge could be derived from a few self-evident truths. This was one of the objectives of his most famous work, the Meditations on First Philosophy (or simply “the Meditations”).
+
+The other objective of that work is to refute skepticism. Skepticism is the doctrine that we can’t establish that any of our sense-perceptions represent the world as it really is—that we can’t know that our experiences aren’t just one big hallucination or dream.
+
+I believe that I am now typing on a keyboard. But how do I know this? This question might seem trivial. But it turns out not to be so easy to answer. Descartes tried to answer it. He failed. He also failed to axiomatize human knowledge. But he made some good points along the way. Plus, many a correct and important epistemological view is to be understood in terms of Descartes’ views, which is why, even though the latter are often wrong, they deserve careful consideration.
+
+Even though the Meditations are concerned primarily with the justification of our beliefs, they also concern the existence and nature of God, the roles played by reason and sense-perception in the acquisition of knowledge, and the relation of mind to body. Descartes felt it necessary, with some justice, to deal with these topics in order to deal with the epistemological problem with which the work is primarily concerned. Below are summaries and critical evaluations of the meditations.
+
+2.0 Meditation 1: “Of the things of which we may doubt”
+
+How do I know that I have two hands? The obvious answer is: I can just see that I do. But how do I know I am not hallucinating or dreaming? This question is not so easy to answer.
+
+Historically, there have been two ways of answering this question: the foundationalist way and the coherentist way. Aristotle was a foundationalist, and so was Descartes. According to foundationalism, all knowledge coincides with, or rests on top of, knowledge of certain self-evident principles. So the structure of a person’s knowledge is like that of a building. There is a ground floor, or foundation, on which everything else rests. Different foundationalists have different views as to which principles are foundational. We’ll discuss Descartes’ views on this in a moment.
+
+Coherentists say that there are no foundational pieces of knowledge; there is no ground floor, so to speak— no self-evidently correct beliefs with which either all knowledge coincides or on which it rests. Coherentists say that knowledge is what results when, given various data that are not knowledge—for example, various sensations or perceptions—if those data support one another in certain ways, then certain reasonable inferences can be made on their basis, those inferences leading, in favorable cases, to knowledge. For example, right now, I am having various sense-perceptions (or, in any case, various experiences that I take to be sense-perceptions). I see (or think I see) a table and computer in front of me, etc. I also have various other perceptions (e.g., I feel a certain resistance every time I push one of the buttons on the keyboard that, so I believe, I am using to write this document). I have had various similar experiences in the past. For example, visual experiences of a certain kind (e.g., experiences as of seeing keyboards) have been accompanied by tactile experiences of a certain kind (e.g., experiences as of touching keyboards); and I’ve noticed that experiences of the one kind are connected, in regular and predictable ways, with the experiences of the other kind. This point mutatis mutandis holds of our sensory experiences in general. So my various experiences, taken jointly, form a coherent and consistent picture of the world; and for that reason, I can reasonably infer that there is an external world of which those experiences are a more or less faithful picture, albeit a very incomplete one.
+
+For the coherentist, no perception by itself constitutes knowledge. Only vast collections of experiences, supplemented by inferences, do so. For the foundationalist, on the other hand, there are some self-evidently correct beliefs—some beliefs that cannot be had without ipso facto having knowledge.
+
+Descartes is, ultimately, a foundationalist, although towards the end of the Meditations he makes some coherentist points. Aristotle is a hard-core foundationalist. (See the first five pages of the Posterior Analytics.) Since around 1950, coherentism has been more popular than foundationalism, even though there are some contemporary foundationalists (e.g., Roderick Chisholm, who died in 1998, advocated a very compelling form of foundationalism—one which, incidentally, is not unlike Descartes’).
+
+In any case, when trying to answer the question “how do I know that my perceptions are not hallucinations?” Descartes does not, at least not in Meditation 1, consider the possibility that a coherentist answer might be correct. He says that what he must do to answer that question is to find “indubitable” principles on which all knowledge rests. This brings us to:
+
+3.0 Meditation 2: “Of the nature of the human mind; and that it is more easily known than the body”
+
+Descartes says that certain beliefs about our own minds are self-evidently correct, but that the same can never be said of our beliefs about external objects. First of all, Descartes says, whereas I can doubt that there is an external world, the reason being that I might be perpetually hallucinating or dreaming, I cannot doubt that
+
+my mind exists. After all, I can doubt the existence of my own mind only if I have a mind: there is doubt only where there are minds, since doubting is a form of mental activity. (Author’s commentary: This point seems spot on.) So any doubt as to the existence of mental processes is self-undermining. But doubt as to the existence of the external world is not self-undermining: given only that I seem to see a stick, it doesn’t follow that there really is a stick there (for, as we said before, I could be hallucinating or dreaming).
+
+In another work (not in the Meditations), Descartes famously says “I think; therefore I am.” We have just seen the meaning of this. One cannot think without existing. Since doubting is a form of thinking, and since thinking involves existing, one cannot doubt one’s existence without existing. Therefore, doubt as to one’s own existence is incoherent. This gives Descartes an Archimedean point on which to build the structure of human knowledge: he knows that he exists; and, so he believes, he can on that basis justify all of the beliefs that we pretheoretically regard as true (e.g., that there is an external world with people and rocks and dogs in it).
+
+Descartes makes another good point about the difference between knowledge of self and knowledge of the world. As just noted, given only that you have an experience like that of seeing a stick, it doesn’t follow that there really is a stick there. But given only that you have an experience like that of being in pain, it does follow that you really are in pain. After all, an experience like pain is pain, whereas an experience like that of seeing a stick isn’t necessarily an experience of seeing a stick. Descartes seems to hold that what we just said about knowledge of pain is true of all cases of self-knowledge. This is, in my view, a gross over-statement. But we don’t need to pursue this, since it isn’t central to Descartes’ main project; and Descartes’ core point (that at least certain kinds of self-awareness couldn’t be delusional) seems correct.
+
+Descartes makes another, extremely clever point. He says that, although we think that our basic beliefs about the physical world are purely perceptual, those beliefs are actually replete with inferential, even theoretical, content. Imagine the following. There is a piece of wax in front of you. It is solid and has a definite shape. You put it on a warm pan. It slowly loses its shape. You are watching it the whole time. After 10 minutes, the wax doesn’t really have a shape, and is just an amorphous puddle. Nonetheless, you know, after the 10 minutes have passed, that the puddle you are looking at is identical with the hexagonal solid object that you were looking at 10 minutes earlier. This knowledge, Descartes says, cannot be purely perception-based. For, if you stick strictly to what your senses are telling you, you would hold that the waxy puddle now in front of you is not identical with the previously seen solid object, your reason being that the puddle and the hexagon have different shapes. Therefore, your identification of the puddle with the solid object must involve a certain theoretical or inferential component: it involves your having the belief that an object does not lose its identity solely on account of changes in its shape—that is, that certain kinds of transformations undergone by objects (e.g., changes in temperature, shape, or fragrance) are consistent with the continued existence of those objects. That piece of knowledge is not perceptual and is better characterized as metaperceptual or as preperceptual, since it is a precondition for your acquiring knowledge from your senses. For if you didn’t have it, then every time you saw an object change, you would falsely believe that it had been obliterated and then replaced by an other, similar object. But that isn’t how it works: you believe that you are seeing some one object undergo change; and that is why you form the correct belief that the world consists of objects that, although constantly changing, do so more or less continuously, as opposed to the false belief that, at every moment, everything is obliterated and immediately thereafter replaced with new objects. (Author’s commentary: I am touching up Descartes’ argument a bit, so as to make it continuous with our discussion of rationalism. But the touch-up is more or less consistent with Descartes’ original argument.)
+
+Thus, any belief about the external world involves an element of inference, an element of theoretical extrapolation, and is to that extent precarious: after all, the more inferences you make, the more likely you are to be wrong. By contrast, one’s knowledge that one is sad doesn’t involve any inference and is thus not precarious. So our beliefs concerning our own minds—concerning their existence and natures—are considerably more solid and reliable than those concerning the external world. And those beliefs constitute the core of self-evident truths on which, in Descartes’ view, our knowledge of everything else (apart from purely conceptual truths; e.g., 1 + 1 = 2) rests. To clarify the parenthetical remark: Descartes is a hard-core rationalist and thus believes that not all knowledge is derived from the senses. Indeed, as we just saw, he thinks that some knowledge is a precondition for perceptual knowledge. He also thinks that it can be known, without having to any empirical work, that triangles have three sides, that causes precede their effects, etc. Descartes’ foundationalismis strikingly modern and resembles Chisholm’s quite a lot. (I happen to accept Chisholm’s foundationalism, at least with some reservations.)
+
+4.0 Meditation 3: “Of God, that He exists”
+
+Although Descartes believes that some beliefs about oneself are self-evidently true, he doesn’t think that our common-sense beliefs about the external world, which he believes to be true and which he wishes to justify, can be justified solely on the basis of our self-knowledge. Descartes thinks that, in order to justify our beliefs about the external world, it must be supposed that God exists and that, moreover, God is all-good (and would, for that reason, guarantee that our beliefs are more or less on the right track, at least most of the time).
+
+In this Meditation, Descartes provides an argument for God’s existence. (In Meditation 5, he provides a different argument.) The argument given in Meditation 3 is much better than the one given in Meditation 5.) Here it is.
+
+The cause of an event must have “at least as much reality as the effect.” The idea seems to be that something cannot come from nothing. If you make a statue, you’re not going to create new clay (or marble); you’re simply going to redistribute the clay that was there to begin with. (Everything comes from pre-existing materials: the quantity of matter in the universe is preserved, and all changes involve redistribution in that matter, as opposed to creation ex nihilo of new matter. “Ex nihilo” means “out of nothing.”) Similarly, events consist in redistributions of objects, not in creation ex nihilo. (Author’s commentay: This point has been denied, and perhaps it is false; but it is obviously reasonable enough.)
+
+Descartes actually goes on to affirm a very strong version of the principle that something never comes from nothing. He says that effects must not only consist of the same material as their causes but must actually resemble their causes. The idea seems to be that the hotness of the pan resembles the hotness of the flame which made the pan hot and, further, that all cause-effect relations can be understood on this model. (Author’s commentary: This doesn’t seem right. Redistributions in mass-energy often lead to states of affairs that have little or no resemblance to their predecessors. Mozart’s 40th symphony resulted from various mental and neural events, but it doesn’t resemble those events very much, except perhaps in some extremely abstract sense. Effects are often wildly different from their causes.)
+
+Here is the next step in Descartes’ argument. Each of us has concepts of various forms of infinity—of infinite goodness, infinite intelligence, etc. That means, says Descartes, that infinite goodness, intelligence, etc., must in some sense be in each of us. (Author’s commentary: This is where I think Descartes goes totally wrong. I can have an idea of a trillion dollars without a trillion dollars being “in” me, in any significance sense. Similarly, I can have an idea of infinite intelligence without being infinitely intelligent myself.)
+
+Descartes then combines the points just made. He says that since
+
+(i) something never comes from nothing,
+
+(ii) that effects resemble their causes, and
+
+(iii) that there is, in some way or other, infinite goodness, intelligence, etc., in each of us,
+
+it follows that
+
+(iv) there really must be an infinitely intelligent, good, etc., being in the world—that, in other words, there must really be a God.
+
+5.0 Meditation 4: “Of the true and the false”
+
+Having, so he believes, established that a good God exists, Descartes has, so he believes, made it possible to establish that most of our beliefs are correct. The argument here is straightforward. Since God is good, he wouldn’t want us to be wrong all the time. So God has given us the power to generate correct beliefs and he
+
+has set up the world in such a way that our belief-forming mechanisms (our senses and our methods of inference) tend to generate a correct picture of the world.
+
+But here, as Descartes points out, we run into a problem. Even though we seem to have some correct beliefs, we’re also disastrously wrong a great deal of the time. If God is so well-disposed towards us, why would he let us have so many wrong beliefs?
+
+Here Descartes provides a rather Byzantine argument, which may be summarized as follows. God has given us free will. That was good of him to do, of course, since we’d rather be free than be robots. Next step: We arrive at wrong beliefs only when we abuse our free will. Just as a person may abuse his/her free will by doing drugs, so he/she may abuse it by drawing inferences without sufficient evidence. So, being good, God had no choice but to give us free will. But since we have free will, some of us will inevitably abuse it and make wrong inferences (and also do other bad things).
+
+But, says Descartes, there is a bright side to this story. If we don’t draw conclusions that are not warranted by the evidence, we’ll have only correct beliefs. Here Descartes ends up putting forth an argument to the effect that most of our beliefs about the external world are correct, and that argument has both foundationalist and coherentist elements. (It’s a pretty good argument, I think, even though two of the premises are clearly false.) First of all, we have self-evidently correct beliefs about our mental states (as we discussed a while ago). Second, something never comes from nothing and, moreover, effects resemble their causes. So the perceptions that we have must have causes and, moreover, they must resemble those causes. Further, Descartes says, those causes don’t lie within us. How do we know this? Because, Descartes says, one’s mind is completely transparent to its owner; and when a given person looks inside himself, he doesn’t encounter anything that resembles the perception he is having of (say) the table in front of him—he just encounters the perception. So the causes of our perceptions must lie in the external world. Thus, our perceptions are accurate, at least most of the time, the same being true of the beliefs based thereupon.
+
+Why do some unfortunates have hallucinations, etc., despite God’s infinite goodness and his desire for our perceptions to be correct? As Descartes realizes, this question cannot be answered by saying “because those people have abused their free wills,” since hallucinations are involuntary. Descartes’ way of dealing with this problem is ad hoc and unconvincing; so we’ll skip it.
+
+5.1 Evaluating Descartes’ argument
+
+Descartes’ first premise (minds are completely transparent to themselves) is unqualifiedly false. (See Chapter 10 for a discussion of why this is so.)
+
+The second premise (effects always resemble their causes) is also false. How does your pushing the alarm button resemble the ensuing noise?
+
+But it might be possible to fix up this premise. My pushing the button is a highly indirect cause of the bell’s ringing. The shorter the series of events linking (distal) cause and effect, the more likely cause and effect are to resemble each other. It may even be (though this is a very strong claim) that, for any degree of resemblance R, short of 100%, there is some length L such that, if the series is cut down to L or less, output will resemble input to degree R. So even though Descartes is not right to say, without qualification, that effects resemble their causes, a closely related point may be correct, namely: effects tend to resemble their causes.
+
+Twentieth- and twenty-first-century philosophers ridicule Descartes for assuming that effects resemble their causes. I myself think it is in this point that an adequate refutation of skepticism lies. This cryptic assertion is clarified and defended in Chapter 12.
+
+6.0 Meditation 5: “Of the essence of material things; and, again, of God: that he exists”
+
+The main point of this Meditation is that there is a second proof of God’s existence. This second argument coincides, nearly enough, with Anselm’s “ontological argument.” Here it is. God is maximally excellent, by
+
+definition. Anything bad or ugly or stupid would, for that reason, not be God. In general, anything that is deficient in any way cannot be God. Not existing is a way of being deficient. So God exists.
+
+In Chapter 25, it is explained why this argument fails.
+
+7.0 Meditation 6: “Of the existence of material things, and of the distinction between the mind and body of man”
+
+Here Descartes puts forth his (in)famous argument for mind-body dualism, the doctrine that mental entities (e.g., beliefs) are not identical with physical entities (e.g., patterns of neural stimulation). Here is that argument.
+
+Let x be a belief. Suppose that I rightly believe x to be a belief. In other words, suppose that x has the property of being believed by me to be a belief. For any pattern of neural stimulation y, it doesn’t follow that I believe that y is a belief. That is, it doesn’t follow that y has the property of being believed by me to be a belief. So x and y don’t have the same properties and therefore cannot be identical.
+
+The customary response to this argument is to say that it involves an “intensional fallacy.” Benjamin Franklin was the first postmaster general and he was also the inventor of bifocals. So the first postmaster general = the inventor of bifocals. But one can believe that the first postmaster general = the first postmaster general without believing that the first postmaster general = the inventor of bifocals. And from the fact that one can have the first belief without having the second, it obviously doesn’t follow, and it isn’t the case, that the first postmaster general ≠ the inventor of bifocals. For the same reason, from the fact that believing that belief x = belief x doesn’t entail believing that belief x = pattern of neural stimulation y, it doesn’t follow that x ≠ y.
+
+The idea is that, in certain sentential contexts, Leibniz’s Law breaks down (or, rather, appears to breakdown), and that verbs such as “believe,” “know,” and “doubt” create such contexts. Such contexts are referred to as “intensional” contexts. A context that is not “intensional” is “extensional.” So a context is “intensional” if it is one where there can be an apparent violation of Leibniz’s Law, and a context is otherwise “extensional.” Why, exactly, intensional contexts are created by certain expressions is an extremely delicate question, as is the related question of how these apparent breakdowns are to be reconciled with the fact that there are surely no actual exceptions to Leibniz’s Law, since Leibniz’s Law is identical, ultimately, with the obviously correct principle that nothing can fail to have a property that it has. But in this context we may set these subtleties aside. (They are thoroughly discussed in Chapter 6.)
+
+Given only that Descartes’ argument fails, it doesn’t follow that mind is body. But it does mean that Descartes’ argument must either be augmented, or replaced with a different argument, if it is to be established that mind and body are distinct. Efforts in this direction have been made in recent years, some by yours truly (although I now believe that beliefs are patterns of neural stimulation). The relationship between mind and body is the topic of the rest of the present chapter.
+
+8.0 Different views as to the relation between mind and body
+
+Beliefs, hopes, tickles, pains, aspirations, dreads, intentions, fantasies, and longings are mental entities. Chairs, explosions, rocks, gusts of air, and quagmires are physical entities.
+
+How is the mental related to the physical? Here are the different views:
+
+
+
+(1) Dualism: mental entities are not physical entities.
+
+(2) Materialism: mental entities are physical entities.
+
+(3) Dual aspect theory: the mental and the physical are different aspects of the same thing.
+
+(4) Mental eliminativism: there is no such thing as the mental. There are brain-states—but no beliefs, tickles, etc.
+
+(5) Idealism: there is no such thing as the physical. There are experiences, hopes, etc. but no chairs, rocks, etc.,
+
+Right now, let us focus on (1) and (2), since they are, pretty obviously, the only two of these five views that have any real chance of being correct. Later we’ll discuss why, despite their obvious falseness, people have held (3)–(5).
+
+First of all, (2) is not the view that mental entities don’t exist. (2) must be distinguished at all costs from (4). According to (2), perceptions, beliefs, doubts, and so on, all exist—but they are identical with brain-states. The materialist says that, just as water is H2O, so your belief that 1 + 1 = 2 is identical with some pattern of neural stimulation (or some such). Just as the physical chemist isn’t denying the existence of water in identifying it with H2O, so the materialist isn’t denying the existence of the mental in identifying it with physical entities. Although there may be some tendency on the part of materialists to be dismissive of certain features of the psychological realm, they don’t have to be thus dismissive: Chomsky is a materialist, as was Freud—and those two were nothing if not great believers in the psyche.
+
+Advocates of (2) typically (but not universally) hold that mental entities are identical with brain-events and brain-structures. For obvious reasons, they don’t usually hold that mental entities are identical with trees or rocks or anything else that is not a part of one’s body (or, more specifically, one’s central nervous system).
+
+I have published some papers arguing for dualism. I am now a materialist. But I am still fundamentally open on this issue.
+
+Here are my own views. I believe (as I just said) that materialism is correct. Second, I believe (very strongly) that functionalism (a very popular form of materialism: to be defined later) is wrong. Third, although I believe that materialism is correct, I don’t think (paradoxical though it may sound initially) that it can ever be explained why the mental is identical with (some aspects of) the physical.
+
+Right now, let us focus on some of the basic arguments for and against (1). (In the process of discussing these arguments, we will find that there are different versions of both materialism and dualism.) Of course, since (1) is the negation of (2), any argument for (1) is an argument against (2), and any argument for (2) is an argument against (1).
+
+9.0 Arguments for dualism
+
+First argument
+
+
+
+The mental obviously has properties not had by the physical. For example: mental entities are representational; they are purposive; they have “phenomenology” (i.e., there is something it is like to have them). Since physical events obviously don’t have those properties, physical events aren’t mental. (This argument was given by Franz Brentano in Psychology from an Empirical Standpoint.)
+
+This argument evaluated
+
+Though it has force, there is a problem with this argument. The materialist can say that physical events do have these properties, but that this simply isn’t obvious to introspection. For example, physical events have lots of properties that aren’t obvious. When you look at a chair or a rock or a pool of water, your perception doesn’t tell you anything about the microstructural properties of what you are seeing—but it would obviously be absurd to conclude that what you were seeing didn’t have invisible (to the naked eye) microstructural properties. Similarly, says the materialist, when you introspect a pain or a tickle or a belief, your introspection doesn’t tell you anything about the neural properties of what you are introspecting—but it would be absurd to conclude, on that basis alone, that what you were introspecting didn’t have neural properties.
+
+A counter-argument
+
+Some mental entities seem to be appearances. Consider your perception of (e.g.) some nearby table. Your perception is just the event of something’s appearing to you. It doesn’t make sense to say that there is more to an appearance than meets the eye. After all, what doesn’t meet the eye is ipso facto not an appearance. Your perception of the table obviously doesn’t seem to consist of lots of neural events. So if it did consist of such events, they are beneath the surface—they don’t “meet the eye” of introspection. But given what we said a moment ago, this would mean that such events aren’t part of that perception.
+
+This counterargument evaluated
+
+I’m genuinely open as to whether this argument is a good one. I believe (for reasons that I will follow) that materialism is correct. But I cannot find any errors in the just-stated counter-response (though others claim to be able to do so). If you can identify some consideration that resolves the matter, or that gives some weight to a certain (attempted) way of resolving the matter, I would be extremely interested in what you have to say.
+
+Second argument for dualism—the explanatory gap
+
+Consider some psychological statement; for example,
+
+
+
+(P) Last year I was very sad, because I completely failed in my efforts to write a best-selling novel.
+
+
+
+(P) is obviously the kind of statement that could be true. But can the truth of (P) be understood in terms of facts about neural-firings? Can we conceive of some statement about a person’s body that made it clear why (P) was true? Of course, we can imagine discovering that people feel sad when, and only when, certain neurons in their brains are firing. But would such a discovery really give us any insight into the nature of the dependence (if any there be) of that psychological fact on the existence of those neural states of affairs?
+
+Let us generalize this point. There is no denying that we can discover psycho-physical concomitances; that is, that we can discover truths of the form mental phenomenon m occurs when, and only when, physical phenomenon p occurs. But there always seems to be a “gap” between the neural event and the associated psychological event. Permit me to clarify this last point.
+
+Water is H2O. Of course, when you look at a glass of water, you cannot see that it consists of H2O molecules. But suppose that you could shrink yourself down to the size of such a molecule. In that case, you could literally see the molecules with which physical chemists identify water.
+
+When you look at a brain, you see beige tissue—you don’t see emotions, beliefs, etc. If you were to shrink yourself down the size of a molecule, you still wouldn’t see emotions, beliefs, etc. In other words, you still wouldn’t see the entities that the materialist identifies with brain-states. You would see the entities with which the physical chemist identifies brain-states (atoms, molecules of various kinds) but not, as we just said, those with which the materialist identifies such states. This suggests that psychophysical identifications (e.g., “pain is c-fiber stimulation”) are not comparable to typical scientific identifications (e.g., “water is H2O”); and this makes it questionable whether psychophysical identifications are correct.
+
+Also, the fact that you could coherently imagine seeing water molecules (even though, for many reasons, our ability to see such things is limited) seems to be bound up (in a way that isn’t easy to articulate) with the fact that identifications such as “water is H2O” are explanatory. The identification of water with H2O renders explicable otherwise inexplicable facts about water (e.g., that the amount of space occupied by a frozen gram of water is larger than that occupied by a liquid gram of water). But, at an intuitive level at least, it doesn’t seem that a comparable gain of insight into the nature of pain is gained as a result of the identification of pain with c-fiber stimulation. Imagine somebody who, because of some defect, didn’t feel pain. If that person were to learn everything there was to know about structure of the neural events underlying pain, he would still be ignorant of what pain was. By the same token, somebody who has no idea what a neuron is can know exactly what pain is.
+
+This suggests that psychophysical identifications are, in a fundamental way, not comparable to garden-variety scientific identifications. Somebody who knows what water tastes like, looks like, etc., doesn’t necessarily know what water is. But somebody who knows that water consists of H2O molecules really does know what water is—it doesn’t really matter what other knowledge he has or lacks. It thus becomes very hard to sustain the idea that (A) “pain is c-fibre stimulation” is in the same category as (B) “water is H2O.” There is a clear sense in which somebody who knows (A) may not know what pain is but in which somebody who knows (B) cannot possibly fail to know what water is. In connection with this, there is reason to think that there is an explanatory gap between the mental and the physical—to believe, in other words, that there is no way to understand the mental in terms of the physical. And if this is the case, then it would seem to follow that the mental is not the physical.
+
+This argument evaluated
+
+Even if the mental cannot be understood in terms of the physical, it doesn’t follow that the mental isn’t identical with the physical. Even if the fact that Jerry is sad cannot be understood in terms of the fact that Jerry’s brain is in such and such a condition, it doesn’t follow that Jerry’s sadness isn’t identical with his brain’s being in that condition.
+
+We know that biological phenomena (e.g., digestion, respiration) are identical with interactions of atomic and sub-atomic parts. But there would be no way to translate a biological statement (e.g. “Smith is now breathing”) into a statement about atoms bouncing off of one another. Because statements belonging to biology involve concepts (e.g., respiration) that aren’t found in physics, it is to be expected that the former are not going to be capable of being translated into, or otherwise understood in terms of, the latter. Biology talk isn’t physics talk, even though all biological events are physical events. Similarly, psychology talk isn’t physics talk (or chemistry talk or biology talk), even though psychological events are physical events. Because psychology uses concepts not found in any physical science (e.g., chemistry or physics), it is to be expected that statements belonging to the former are not going to be capable of being translated into, or otherwise understood in terms of, statements belonging to the former to the latter.
+
+Counter-response
+
+Although this argument obviously has merit, and is widely accepted, I am not convinced by it. (But it is an argument that must be thoroughly understood.) There seems to me to be a significant difference between the relationship that holds between statements belonging to physics and statements belonging to biology, on the one hand, and the relationship holding between statements belonging to psychology and statements belonging to physics (or chemistry or biology . . .) on the other. This viewpoint is defended in Sections 9.1–9.2.1 of the present chapter.
+
+A counter-response to the counter-response
+
+The mental can be understood in terms of the physical. There is no more of an explanatory gap between the mental and the physical than between the biological and the chemical. In other words, there is no explanatory gap. Right now we’ll discuss why, according to many, there is no such gap.
+
+9.1 Is there an explanatory gap?
+
+So far as advocates of the view just described provide clear grounds for it, those grounds lie in two doctrines. Right now, we will discuss just one of them. (In a moment, we’ll discuss the other.)
+
+Some—for example, Carl Hempel (1905–1997)—hold that to explain why one state of affairs accompanies or follows another simply to show that , taken together, they instantiate a general regularity. To explain why, in this one instance, smoke follows fire is simply to identify some comprehensive regularity of which this particular sequence of events is an instance. If it is shown that fire is always followed by smoke, it has ipso facto been explained why, in this case, fire was followed by smoke. Similarly, were we to establish perfect concomitances between mental events and physical events, we would ipso facto have explained the mental in terms of the physical.
+
+A counter-response to the argument given
+
+Hempel’s conception of explanation is wrong. The basic problem is that it’s too liberal: if it were right, anything could be said to be the cause of anything. The reasons for this are given in Chapter 17. But here’s the basic idea.
+
+I grab my phone, so as to pick it up and make a call; just after I do so, it rings. By coincidence, I’m getting a call at that exact moment. Hempel’s theory has the obviously false consequence that my grabbing the phone is what caused it to ring. Let E1 be the event consisting of my grabbing the phone, and let E2 be the event
+
+consisting of the phone’s ringing. Obviously E1 will be unique in many respects—no other event will involve exactly the same mass-energy distributions that it does. It follows that E1 uniquely has some property P1. The same thing mutatis mutandis is true of E2; and E2 therefore uniquely has some property P2. Thus, the sequence of events consisting of E1 and E1 is a unique instance of the true universal generalization that any instance of P1 is immediately followed by, and adjacent to, an instance of P2. If Hempel’s analysis were right, then my grabbing the phone would have caused it to ring. Since it didn’t, Hempel’s analysis is wrong.
+
+Another counter-response
+
+Setting this aside, it isn’t widely held that mind-brain concomitances (other than obviously contrived, explanatorily irrelevant ones similar to the one just described in connection with E1 and E1) are to be found. The reason: it is widely believed that the mental is “multiply realizable.” Instances of any kind of mental category can, it is alleged, be constituted by physical events of very different kinds; and for this reason, there are no true statements of the form “events having such and such biochemical properties occur iff events having thus and such psychological properties occur.”
+
+9.1.1 How the functionalist tries to eliminate the explanatory gap
+
+But, even though, for the reason just given, the alleged multiple realizability of mental states seems to eliminate one way of closing the explanatory gap between mind and matter, it actually opens what many (myself not included) claim to be a promising way of closing that gap. As previously noted, almost all contemporary materialists hold that mental entities are multiply realizable—that, for example, a belief that snow is white could be composed of virtual material. For X to be such a belief, it is said, is not for it to be composed of this or that material, but is for it to have certain cause and effects. They hold, in general, that given any mental category M, for a given physical entity P to fall into M simply is for P to have certain causes and certain effects. This doctrine is known as functionalism.
+
+In Sections 12.0–12.1.3 of the present chapter, it will be argued that functionalism is false, the reason being that it collapses into the obviously false view that there are no mental entities. It goes without saying that, if it’s false, functionalism does nothing to close the explanatory gap. In any case, I’d now like to put forth a positive reason to believe that there is no way to close the explanatory gap.
+
+9.2 The reason there is an explanatory gap
+
+For argument’s sake, suppose that every mental event is identical with (or realized by) some physical event. In that case, my feeling remorseful that I stole my sister’s cookie is identical with some brain-event of mine. Let M be my feeling of remorse, and let B be the corresponding brain-event. Suppose that I sincerely and accurately express my remorse—taking care to discuss its origins, its exact content, etc. Let SM be this statement. And suppose that I see an accurate image of B on a giant monitor, and I thoroughly and accurately describe what I see. Let SB be this statement.
+
+SM describes the very same event as SB. But the data of which SM is a synthesis doesn’t even overlap with the data of which SB is a synthesis. Even if mental events are identical with physical events, the data of which mentalistic statements are syntheses doesn’t even overlap with the data of which physicalistic statements are syntheses. This means that, given the data of which any mentalistic statement is a correct synthesis, it is epistemically possible that none of the data of which any given physicalistic statement is a correct synthesis even exists. Mentalistic statements don’t model the same data as physicalistic statements, or vice versa. So even though the facts described by the former probably are identical with (a subset of) the facts described by the latter, any statement belonging to the one category leaves it completely open whether any given statement belonging to the other is correct or not.
+
+9.2.1 Davidson’s argument for the explanatory gap
+
+In his paper “Mental Events,” Donald Davidson argues that there is an explanatory gap. Here is his argument:
+
+
+
+(DA) Suppose the following. x is some event in Smith’s brain. x also constitutes a desire on Smith’s part to become a lawyer.
+
+Question: why does x constitute such a desire? Answer: because, given the thoughts and deeds on Smith’s part that x follows and given the thoughts and Smith’s part that x precedes, it makes sense to see x as a desire on Smith’s part to become a lawyer. It is analytic that a desire on somebody’s part to become a lawyer have certain causes and also certain effects. It is analytic that, given certain circumstances, a desire to become a lawyer lead one to study for the LSAT, apply to law school, and so on. And it’s analytic that, given certain circumstances, a desire to become a lawyer result from one’s belief that the lawyering is the best way to promote the interests of justice (or whatnot).
+
+Before we take the next step in our argument, we must generalize these points. Let P be an arbitrary physical event and let M be an arbitrary mental category. (An example of a mental category would be belief that snow is white, desire to become a senator, regret at never having learned to play a musical instrument. So for x to fall into the category desire to become a senator is for x to be a desire to become a senator.) If P is to fall into M, it is necessary and sufficient that, given what P’s owner thought and did prior to P’s occurrence, and given also what P’s owner thought and did after its occurrence, it makes sense to suppose that P is an instance of M. In other words, for P to fall into M is for P to be such that it can be reasonably interpreted as falling into M. To be a belief that 1 + 1 = 2 is to be interpretable as being such a belief.
+
+This must be understood aright. Supposing that P is a belief that 1 + 1 = 2, there isn’t anything other than P’s being interpretable as being such a belief that makes it be such a belief. It’s being thus interpretable isn’t a consequence of it’s being such a belief: it is its being such a belief. In general, there isn’t anything to anything’s being an instance of mental category M other than it’s being such that it can reasonably be seen as being such an instance.
+
+To move forward, let us continue to suppose that P is a belief that 1 + 1 = 2. Let us also suppose that P is a brain-event and, in addition, that P falls into physical category C.
+
+For P to fall into C isn’t for P to be such that it can reasonably be interpreted as falling into C. It isn’t in virtue of what P’s owner does or thinks before or after P’s occurrence that P falls into this as opposed to that physical category. If P falls into a given physical category, it is in virtue of its chemical structure, or some such, it being irrelevant whether so categorizing P has the consequence that P’s owner is rational or not.
+
+It follows that, even though mental events are identical with brain-events, the reasons for which a given event is mental are different from those in virtue of which it’s physical. Moreover, the former reasons cannot be understood in terms of the latter. Thus, there is an explanatory gap.
+
+
+
+Although I personally agree with Davidson that there is an explanatory gap, DA utterly fails to establish this. This is because it depends on two false assumptions.
+
+The first is the assumption that to be a belief that 1 + 1 = 2 (or a desire to lose weight or an intention to buy a car, etc.) is to be interpretable as being such a belief (or desire or wish, etc.). In addition to being deeply counterintuitive, Davidson’s “interpretivist” view of the mental is demonstrably false. According to Davidson’s interpretivism, for brain-event x, had by person A, to fall into mental category M is for it to be the case that, if x is assumed to fall into M, then A is, to that that extent, rational. If this were right, nobody could possibly make any erroneous inferences; nobody could ever think or act irrationally. For, by Davidson’s lights, if x doesn’t have the consequences that a belief that 1 + 1 = 2 should have, it ipso facto isn’t a belief that 1 + 1 = 2. But people make erroneous inferences from their beliefs; people aren’t always rational. Therefore, Davidson is wrong.
+
+Also, Davidson’s argument assumes the truth of functionalism which, as previously stated, we will find to be false in Sections 12.0–12.1.3.
+
+9.3 Descartes’ arguments for dualism
+
+Descartes provided a straightforward and, at an intuitive level, compelling argument for (1). Here it is. I can believe that x is a feeling (or belief or intention) without believing that x is a brain-state. Therefore, x cannot be a brain-state if x is a feeling (or belief or intention).
+
+This argument evaluated
+
+This argument is guilty of the so-called “intensional” fallacy. Remember what we said about intensional contexts: given only that “Smith thinks that the inventor of bifocals invented bifocals” is true, it doesn’t follow that “Smith thinks that the first postmaster general invented bifocals” is true, even though the first postmaster general is identical with the inventor of bifocals. Similarly, given only that “Smith thinks that x is a belief” is true, it doesn’t follow that “Smith thinks that x is a brain-state” is true, even if beliefs are in fact brain-states.
+
+Let us put this more explicitly. The objects of doubt, belief, and all other propositional attitudes are (as you might guess) propositions. So when Descartes says:
+
+(i) I can doubt the existence of a world that is not made of matter,
+
+what he is really saying is:
+
+(i*) I can doubt that there exists a world that is made of matter.
+
+And when Descartes says:
+
+(i) I cannot doubt the existence of my own mind,
+
+he is really saying.
+
+(i*) I cannot doubt that my mind exists.
+
+The italicized propositions are distinct. So while it is true that they differ in their properties, since only one of them has the property of being capable of being doubted by Descartes, it doesn’t follow that mind isn’t matter, since the entities that, in this case, differ in their properties are not mind and matter, but are instead the two underlined propositions.
+
+An aside: these reflections show that intensional fallacies arise, at least sometimes, when grammatical complements don’t coincide with logical complements. The grammatical complement of the occurrence of “doubt” in (i) is “the existence of a world that is not made of matter,” but its logical complement is “that there exists a world that is made of matter.” The second expression denotes a proposition; the former does not. In general, intensional fallacies arise when it is assumed that, since the grammatical object of some expression doesn’t denote a proposition, the actual object of that expression is also non-propositional.
+
+A refinement of Descartes’ arguments for dualism
+
+Here is an improved version of Descartes’ argument that, so its proponents believe, isn’t vulnerable to the points just made.
+
+I can coherently think:
+
+(*) “x is a feeling, but x is not a brain-state.”
+
+In other words, (*) is not analytically false.
+
+All necessary truth is analytic truth. In other words, if a statement is necessarily true, that is because it holds entirely in virtue of the concepts composing its meaning (i.e., it is analytic). Therefore, given that (*) is not
+
+analytically false, it follows that it isn’t necessarily false and, therefore, that it could be true. So feelings could be distinct from brain-states.
+
+Next-step: identity holds necessarily if it holds at all. If x and y are identical, then they are necessarily so. Proof: suppose that x and y are identical, but only contingently so. Obviously x cannot be contingently identical with itself. So if x and y are contingently identical, then y has a property that x lacks: y has the property of being contingently identical with x, whereas x does not have the property. Thus, contrary to our supposition, x is not identical with y, showing that it is incoherent to suppose that there is such a thing as “contingent” identity.
+
+Thus, given that (*) could be true, and given that identity holds necessarily if it holds at all, it follows that feelings (and, for exactly similar reasons, beliefs and pains) are not brain-states.
+
+This argument evaluated
+
+First of all, it is easy to adapt what we said about (i) and (ii) to this argument. So this refinement of Descartes’ argument is, like the first, guilty of the intensional fallacy.
+
+But there’s another reason to question that argument. According to many contemporary philosophers, not all necessity is analytic. The sentence “water is identical with H2O,” it is said, expresses a proposition that, although non-analytic, is necessarily true. There is no possible circumstance where water is anything other than H2O. There are circumstances where liquids that, in terms of their macroscopic properties, resemble water are not H2O. But there are no circumstances where water is not H2O.
+
+Why is this? The categories in terms of which science explains the world are known as “natural kinds.” Examples of natural kinds are zebra, metal, proton, water, emotion, human being, acid, base, star and penguin. Natural kinds are generated by properties that are predictively and explanatorily fecund. Properties that don’t have those virtues (e.g., person who drives a green car, edible substance on Larry’s table) don’t generate natural kinds. The property of being H2O generates a natural kind. Two things that are explanatorily and predictively very different can, at least within the narrow horizons within which non-experimentalists typically operate, be indistinguishable in respect of their macro-characteristics. Given that two things that are explanatorily and predictively very different can, for all practical intents and purposes, be indistinguishable in respect of their macro-characteristics it follows that the property of having such and such macro-characteristics does not determine a natural kind.
+
+But two things that are indistinguishable in respect of their micro-characteristics (e.g., their chemical compositions) cannot be explanatorily and predictively different. Thus, the property of having such and such micro-characteristics generates a natural kind. It can’t be known a priori what chemical composition water has. But, for the reasons just given, its having that composition, whatever it turns out to be, is essential to it. Supposing that x is some body of water, x’s being water is identical with x’s having that composition. Since, therefore, water necessarily has that composition—and, therefore, is necessarily H2O—and since it cannot be known a priori that it has that composition, “water is H2O” expresses a necessary, but non-analytic truth.
+
+Evaluating this counter-response
+
+This is a prima facie very compelling line of thought, and it is almost universally accepted. For reasons that I state in Chapters 8, 9, and 18, I do not accept it (even though I accept some parts of it; e.g., the part about how natural kinds are individuated by their microstructures or by whatever it is about them that makes them explanatorily and predictively useful). In any case, these reflections naturally bring us to Kripke’s compelling argument for dualism.
+
+2.4 Kripke’s argument for dualism
+
+All identities hold necessarily, and some identities are indeed a posteriori. Nonetheless, dualism can be established by means of an argument not entirely unlike Descartes’. Consider some (alleged) necessary, nonanalytic truth; for example:
+
+
+
+(WH) water is H2O.
+
+(In this context, we’ll assume for argument’s sake that WH is non-analytic.) The reason that WH is non-analytic is that something that appeared, visually and otherwise, to be just like water might not be water, as it might have the wrong micro-structure. In general, whenever a statement of the form x = y is non-analytic, it is because objects that aren’t x can appear just like x. But it makes no sense to say that something that appeared (felt) just like a pain wasn’t actually a pain. Anything that feels just like a pain is a pain. “Pain is identical with brain state X” would be non-analytic, if it were true. Thus, since what makes it possible for it to be non-analytic that water is H2O is that appearing like water is different from being water, and the same thing mutatis mutandis being true of all non-analytic necessities, it follows that “pain is identical with brain state X” is not true.
+
+10.0 Arguments for materialism
+
+First argument for materialism: It is obvious the mental events create, and otherwise affect, physical events; and it is obvious that physical events create, and otherwise affect, mental events. A hot iron is pressed to your skin (physical event); as a result, you feel pain (mental event). You intend to go to the store (mental event); as a result, you end up going to the store (physical event). You feel nervous (mental event); as a result, your heart races (physical event).
+
+There is extremely strong evidence to the effect that any physical event is the result only of other physical events. To explain why a person’s body moves a certain way, it is necessary only to know what the strictly physical (neural, muscular, . . .) antecedents of that event are, and it is not necessary to know what its psychological antecedents are. The behavior of a person’s body is no more in need of “mentalistic” explanation than is the behavior of a brick. (Of course, a knowledge of a person’s psychological condition is often sufficient, given knowledge of easy-to-ascertain facts about the external world, for a knowledge of what that person is going to do next. But such knowledge is not necessary: such predictions can, in principle, be made without having any knowledge as to the relevant person’s psychology.)
+
+Given that every fact about a person’s bodily behavior can be explained in strictly physical terms, we can take one of two positions. We can say either:
+
+
+
+(i) the mental does not, contrary to appearances, have any effects on the body,
+
+
+
+or
+
+
+
+(ii) the mental does have such effects—and the mental is identical with the physical events that we know to have those effects.
+
+
+
+Since it is very hard to believe that the mental is without effect on the physical, (i) is almost certainly false. Hence (ii) is the right view.
+
+Evaluating this argument: My own personal view is that this argument is pretty solid, that being why I am a materialist. Others have responded (or, given their positions, would respond) differently to this argument.
+
+For example, according to epiphenomenalism, even though the physical affects the mental, the mental does not affect the physical.
+
+But epiphenomenalism is clearly wrong. It’s an empirical datum that the mental affects the physical and vice versa. Should it be denied that this is a datum, or even that it’s true, I would respond by showing that epiphenomenalism is at odds with a fundamental fact about the nature of causation. Causation is bidirectional. If my hand affects the table (e.g., if my hand pushes the table), then the table affects my hand. So if, as the epiphenomenalist believes, the physical affected the mental, then the mental would affect the physical. But in that case, epiphenomenalism is false.
+
+The epiphenomenalist might counter-respond by saying that there are exceptions to the principle of bidirectionality that I’ve been advocating: physical situations create, and have effects on, shadows; but shadows don’t have effects on anything.
+
+But this move is a non-starter. Mental entities, unlike shadows, really do have causal powers. Even the epiphenomenalist doesn’t deny that they affect one another. Given this fact, along with the fact mental events result from physical events, it follows that some of the energy associated with physical states of affairs is transferred to them. So unless energy is implausibly assumed to vanish from the physical world, never to return, we must assume that the mental can, so to speak, spit it back into the physical world and, therefore, that the mental can affect the physical. And, as we’ve seen, once it is granted the mental can affect the physical, it must be granted that the mental is physical.
+
+Another argument for materialism
+
+As we’ve seen, the mental clearly affects the physical. If mental entities are subject to physical laws, they are ipso facto physical. (After all, what would it be to be physical, if not to obey physical laws?) And if something obeys physical laws, it is ipso facto physical. What would it mean to say “X obeys the laws of physics —but it isn’t physical”? X is physical iff X obeys physical laws.
+
+Thus, if mental entities are not physical, they are not subject to physical laws. So if mental entities were non-physical, things that didn’t fall within the scope of physical law would constantly have effects on the physical world, resulting in physical events that couldn’t be explained in terms of physical laws—in physical events that were, in fact, violations of physical law. But such violations do not occur. In any case, there is no evidence that they occur, and certainly no evidence that they occur with anything even approaching the frequency with which, if dualism were correct, they would occur.
+
+A counter-response
+
+Surely we could imagine physical objects breaking physical laws. We can imagine people sprouting wings and flying—even though, given the structures of our bodies, such events would be violations of physical law.
+
+A counter-response to the counter-response
+
+Bertrand Russell said that objects are sequences of events that are governed by physical law. I agree with him. If Russell is right, it makes no sense to speak of a physical object that is in violation of all physical laws. So when we imagine a person sprouting wings we are imagining something that is subject to physical laws (albeit laws that are different from those that are actually operative). Second, so far as the objects of one’s thoughts aren’t law-governed, those thoughts involve incoherent or otherwise impoverished views as to the nature of physical law. A defense of this controversial point of view lies outside the scope of the present book.
+
+Third argument for materialism—Fodor’s argument
+
+The mental obviously affects the physical. Anything that affects the physical is ipso facto physical itself. What is there to be physical other than being able to displace mass-energy (or whatever it is that events consist of)?
+
+Evaluating this argument
+
+I personally find this argument compelling, and I don’t know of any cogent responses to it in the literature.
+
+11.0 Interlude: the problems with dual aspect theory, eliminativism, and idealism
+
+Supposing that the mental and the physical are two aspects of the same thing, we must ask: what is that thing? It can’t be mental; for surely the mental is not an aspect of the mental. (My belief that snow is white is not an aspect of itself or of any other mental thing.) And it can’t be physical; for surely the physical is not an aspect of the mental. (The chair is not an aspect of itself or of any other physical thing.) So (3) is either
+
+incoherent or it presupposes that there is something spatiotemporal that is not either physical or mental. But it is incoherent to suppose that there is anything spatiotemporal that is not either mental or physical. It follows that (3) is simply incoherent.
+
+It seems to me that so-called “dual aspect” theorists are really just materialists who have misstated their view. So far as that’s correct, we can forget about (3), and focus on (2). And since we’ve already discussed (2), we can move on to (4).
+
+(4) is obviously a non-starter. But, for what extremely little it’s worth, here’s the argument behind it. Scientific hypotheses are supposed to deal with things that can be publicly verified. Suppose that scientist Smith insisted that he, and he alone, were able to see (or otherwise sense-perceive) the data that confirmed some hypothesis of his. Obviously Smith wouldn’t be taken seriously. My pains, tickles, etc., cannot be witnessed by anyone other than myself. For this reason, some psychologists who were attempting to scientize their discipline said that such things had no place within science and, therefore, that they had no place in a scientific world-view. Given this position, it is a short step to saying that pains, tickles, etc., don’t exist at all. In a word, science deals with what is objective; mental states are subjective; therefore, mental states don’t exist.
+
+There are many fallacies in this argument. One of them is that, in actuality, the existence of pains, tickles, etc., is easily verified. Of course, you cannot have my pains. But you can have your pains, and you can therefore confirm that pains exist.
+
+Also, that argument involves a failure to distinguish two meanings of the term “subjective.” Sometimes when we describe something as subjective,” we mean that it is influenced by personal biases. (So and so’s reaction to the incident was extremely subjective—it wasn’t impartial and logical.) But when we say that mental entities are “subjective,” we mean—not that they are biased—but that they must be had in order to exist. There can’t be orphan pains and beliefs floating around: a belief must be somebody’s belief. Mental states thus have, as John Searle puts it, a “first-person ontology.” Obviously science mustn’t be “subjective” (i.e., it mustn’t be biased); but it doesn’t follow that it mustn’t deal with the subjective (i.e., with things having a first-person ontology). In any case, it’s a plain fact that mental entities exist, and eliminativism is a hideous monstrosity to which we shall give no further thought.
+
+(5) is not a view that anyone really holds (even though a few—e.g., George Berkeley, William James, Bertrand Russell—have claimed to do so). (5) is really more of an epistemological view than it is a view about the relation between body and mind: so far philosophers advocate (5), it is on the grounds that it is the only viable response to skepticism about the external world. (Skepticism is the focus of Chapter 12 in its entirety and of Sections 6.0–8.0 of Chapter 13.)
+
+12.0 The different versions of materialism-behaviorism
+
+There are different versions of materialism. Let us now consider them, starting with behaviorism.
+
+According to the behaviorist, to believe that 1 + 1 = 2 is only to have a disposition to respond with certain overt behaviors to certain physical stimuli. If when asked “what is 1 + 1?,” you say “2”—if, in general, you respond to sensory inputs in ways that are characteristic of a belief that 1 + 1 = 2—then in virtue of that very fact, you believe that 1 + 1 = 2. In other words, according to the behaviorist, behaving in the right way is believing that 1 + 1 = 2. It isn’t a consequence of such knowledge. It is such knowledge.
+
+The general definition of behaviorism is this. If M is any mental category, P is an instance of M just in case P is a disposition on the part of some individual to respond with certain overt behaviors to certain sensory inputs.
+
+Behaviorism is false. How a person reacts to a given sensory input is a function, not only of what that input is, but also of what that person’s existing mental states are. If you don’t speak English, an utterance of “what is 1 + 1?” will not cause you to say “2.” It is only in people who have various pieces of background knowledge (e.g., knowledge of linguistic conventions) that such a disposition corresponds to a knowledge that 1 + 1 = 2. What we said about that particular disposition is true (mutatis mutandis) of any other. By itself, no disposition to engage in a certain kind of overt behavior, given certain stimuli, corresponds to any mental state: what does so is such a disposition plus various pre-existing mental states. So mental states cannot be reduced
+
+to behavioral dispositions. At most, they can be reduced to behavioral dispositions plus various mental states. But this means that they can’t be reduced to behavioral dispositions.
+
+Aware of these problems with behaviorism, but still wanting to holding onto the idea that mental entities could be dispositionalized (identified with tendencies to respond with certain overt behaviors to certain inputs), many philosophers of mind responded to this by adopting functionalism, which we’ve already discussed and will now discuss further.
+
+12.1 Functionalism (revisited)
+
+Consider the kinds of situations that characteristically give rise to a belief that snow is white (e.g., visual perceptions of white snow), and consider all the thoughts and behaviors that characteristically result from such a belief (e.g., one’s forming the belief that snow is not green). According to the functionalist, for a brain-state to be a belief that snow is white just is for it to have the right causes and effects. So if brain-state B has the right causes and effects, B is ipso facto a belief that snow is white (or a desire to become president or a pain or a feeling of euphoria). B’s having those causes and effects isn’t evidence of its being such a belief; nor is it a consequence of its being such a belief. It is its being such a belief.
+
+The functionalist says that, for any mental type M, mental entities are among the characteristic causes and effects of instances of that type. So the functionalist—unlike the behaviorist—allows that among the causes of (e.g.) a belief that snow is white are other mental entities (e.g., perceptions of white snow), and that among the effects of such a belief are other mental entities (e.g., a belief that snow is not green).
+
+Remember that behaviorism falsely supposes that a person who had no linguistic knowledge would react by saying “2” to an utterance of “what is 1 + 1?” and, in general, that behaviorism identifies mental states with dispositions that can be understood in strictly behavioral terms. Functionalism doesn’t run into this problem. Unlike behaviorism, functionalism can (supposedly) accommodate the fact that among the causes and effects of a mental entity are other mental entities. (Why “supposedly”? Keep reading.)
+
+For something is (e.g.) a belief that snow is white wholly in virtue of its causal role. In general, for any mental category M, there is some causal role C such that x falls into M if and only if x has C. (This statement may not be easy to follow, but there is simpler ways of saying what functionalism is.)
+
+12.1.1 Problems with functionalism
+
+For something to be a pain is for it to feel a certain way—its causal role is secondary. It is true, of course, that pains are likely to have certain causes (kicks to the shins) and certain effects (screaming loudly). But for something to be a pain isn’t for it to have a certain causal role; for something to be a pain is for it to feel a certain way.
+
+Since it says otherwise, functionalism is wrong.
+
+There is a related point. Supposing that P is some pain, P’s having a given causal role is a consequence of its being a pain; its being a pain is not a consequence of its having that causal role. Supposing that P is some pain of yours, your writhing and screaming is an effect of P’s being a pain and, contrary to what the functionalist alleges, it thus cannot be constitutive of its being a pain.
+
+Let’s move on. Functionalism says that x is a belief that snow is white iff x has the right causal role. But that causal role, we have seen, involves other mental entities. So it sounds as though functionalism analyzes the mental into causal role plus the mental: the mental is thus not eliminated—it’s still there, making it questionable whether functionalism really is a form of materialism.
+
+If cogent, this criticism of functionalism is devastating, given that the whole raison d’être for that doctrine is that it supposedly explains the relationship between mind and body. Functionalists respond by saying that, through judicious use of a technical device known as the “Ramsey sentence,” it can be shown that functionalism does reduce the mental to the physical, while at the same time doing justice to the fact that, given any arbitrary mental type M, instances of M may have other mental entities for their causes and effects. Here is their reasoning:
+
+(RS) We must distinguish the concept of all from the concept of any. Among the causes and/or effects of practically every given mental entity are (a) other mental entities and (b) strictly physical inputs (e.g., photons striking one’s retinas) and strictly behavioral outputs (e.g., one’s reaching for the glass). But even though any given mental entity is to be understood in terms of other mental entities, nonetheless the totality of a person’s mental entities can be understood entirely in terms of strictly physical inputs and strictly behavioral outputs. Let MS (short for “mental sentence”) be a single, very large sentence that says, for any given mental kind (e.g., belief that snow is white, dread of visiting one’s mother in law, etc.), what the causes and effects of instances of that kind are. MS is going to contain “constants”: it will contain expressions, such as “dread of going jogging in the morning,” that refer to kinds of mental entities. Given any such expression, replace it with a variable. The result will be an open sentence (an expression that contains a free variable but is otherwise just like a sentence). Bind the occurrences of that variable in that open sentence with an existential quantifier. Do the same thing mutatis mutandis for each occurrence of any expression that refers to a mental kind. But don’t do it for any of the expressions that refer to physical kinds. The result will be a sentence that completely describes the causes and effects of instances of each mental kind, but that does so without using any expressions that refer to anything mental. The mental will thus be completely described in terms of the physical. But that sentence will do justice to the fact that mental events cause other mental events to occur, and it will do justice to the precise way in which they do so.
+
+
+
+By saying that causal role fixes content, RS makes content too brittle: any deviations of any kind between any two mental states ipso facto amount to differences in content. No two mental entities have exactly the same causal roles. (There isn’t anything in your mind that has exactly the same causal role as my belief that 2 is an even prime. There isn’t anything in any person’s mind that has exactly the same causal role as anything in anyone else’s mind.) It follows that, if RS is right, no two people can believe that 1 + 1 = 2 or that Mongolia is in Asia, etc. Since that is obviously false, so is RS.
+
+A story may clarify this point. Both Smith and Jones believe that snow is white. Smith is a physicist who focuses on the reflective properties of white surfaces. Jones doesn’t know anything about physics. Obviously the functional role of Smith’s belief that snow is white will be very different from that of Jones’ corresponding belief. But if, as functionalism holds, a brain-state’s being a belief that snow is white just is its having a certain functional role, then presumably one person’s belief that snow is white shouldn’t be able to differ, at least not too drastically, from another person’s belief that snow is white.
+
+12.1.3 The real problem with functionalism
+
+It is not objects, but states of affairs, that have causal properties. What shatters the window is not the rock—it is rather the rock’s moving with a certain velocity, in a certain direction, etc. Similarly, if B is the brain-state that realizes your belief that (e.g.) water quenches thirst, it isn’t B that causes things to happen—it is B’s having these or those properties. According to functionalism, B’s being identical with a belief that water quenches thirst is identical with B’s having certain causes and effects—it is identical with (e.g.) its causing you to drink water when thirsty. But if B’s being identical with that belief is identical with B’s causing you to drink water (when thirsty), then B’s being such a belief cannot cause such behavior. Cause and effect must be distinct: if x causes y, then x is not identical with y (and neither is a part of the other). So if functionalism is correct, then the fact that you believe that water quenches thirst cannot cause you to do things like drink water when thirsty. Thus, if functionalism is right, then your belief that water quenches thirst does nothing.
+
+Given any other behavior that we know to be caused by the existence of a certain kind of mental entity, an analogous argument shows that, if functionalism is right, such an entity cannot possibly cause that behavior. If a speaker of English who wishes to be sincere says “I believe that water quenches thirst,” his uttering those words is caused by (among other things) his belief that snow is white. Functionalism says that there is some brain-state B such that that B’s being a belief that snow is white is identical with (among other things) B’s causing that person to utter those words. But if B’s being such a belief is identical with its causing that utterance,
+
+then B’s being such a belief cannot cause that utterance to occur. So functionalism strips the mental of any causal powers. Given that the mental does have causal powers, it follows that functionalism is wrong.
+
+13.0 Conclusion
+
+Given the fact that mind and body interact, along with the fact that such interactions seem not to involve violations of physical law, it seems that materialism is probably correct. But there are two facts that, when taken together, pose a serious threat to materialism:
+
+
+
+1. The mental seems to be different from the physical.
+
+2. The appearance-reality dichotomy seems inapplicable to at least some mental entities (e.g., mental images), the reason being that some mental entities are appearances.
+
+
+
+Taken together, 1 and 2 suggest that the apparent differences between the mental and the physical are at least sometimes actual differences.
+
+ENDNOTES
+
+Name:_______________________________________ Date: _______________________________
+
+Exercises
+
+1. Which of the following statements would Descartes accept without any reservations? (For the purposes of the question, consider only what Descartes says in the first two Meditations.)
+
+a. Although the external world is in some ways (though by no means all) better known than the mind, many facts about it are unknown and can be known only through high-level scientific inquiry.
+
+b. The body is better known than the mind.
+
+c. The mind and the body cannot really be separated, even though, in our ignorance, we might think them separable.
+
+d. The mind is better known than the body.
+
+
+
+2. Which of the following statements is supported, or at least meant to be supported, by Descartes “wax-argument”?
+
+a. Self-knowledge sometimes has a highly theoretical character.
+
+b. Our knowledge of pedestrian physical facts (e.g., that tree has grown in the last year) is typically richer in inferential structure, and therefore more precarious, than we are inclined to think.
+
+c. Both knowledge of self and knowledge of the external world are replete with inferential and theoretical structure, making knowledge of both kinds difficult, though not impossible, to obtain.
+
+
+
+3. Supposing that Smith is a philosopher or scientist who believes that there is a small number of self-evident truths from which everything that there is to know can be deduced, which of the following statements is true?
+
+a. Smith is a coherentist, since he believes that all truths cohere with one another by virtue of being derivable from the aforementioned list of self-evident truths.
+
+b. Smith is not a foundationalist, since foundationalists recognize the absurdity of the concept of a “self-evident” truth.
+
+c. Smith is neither a foundationalist nor a coherentist.
+
+d. None of the above.
+
+
+
+4. What is mind-body dualism? (You simply need to identify the doctrine, not argue for it, and your answer needn’t be more than one sentence.)
+
+
+
+5. What is materialism? (Same qualification as last time.)
+
+
+
+6. Give an argument for materialism. (Your answer needn’t be more than four sentences.)
+
+
+
+7. Give another argument for materialism. (Same qualification as last time.)
+
+
+
+8. What is Descartes’ argument for dualism? (You simply need to give the argument, not evaluate it. Your answer should be anywhere from two to four sentences.)
+
+
+
+9. Does Descartes’ argument for dualism go through? Explain your answer. (Your answer should be no more than three sentences.)
+
+
+
+10. Even if
+
+
+
+a. “Smith believes that water is identical with water”
+
+
+
+is true, it doesn’t follow that
+
+
+
+b. “Smith believes that water is identical with H2O”
+
+
+
+is true. This seems to entail that water has some property not had by H2O—more specifically, that water has, whereas H2O lacks, the property of being believed by Smith to be identical with water. But if indeed water has some property that H2O lacks, then according to a certain important logical principle water is not identical with H2O.
+
+
+
+Identify that logical principle (the one just referred to in italics). Then explain why, even if (a) is true and (b) is false, that principle has not been violated. Finally, say whether that principle can ever be violated, and defend your response.

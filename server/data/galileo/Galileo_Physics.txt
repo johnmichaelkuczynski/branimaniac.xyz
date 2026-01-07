@@ -1,0 +1,106 @@
+GALILEO'S PHYSICS DISCOVERIES
+
+I. KINEMATICS OF FALLING BODIES
+
+All bodies fall with the same acceleration regardless of weight — Refuted Aristotle's claim that heavier bodies fall faster. In a vacuum, a feather and a cannonball fall together.
+Free fall is uniformly accelerated motion — Velocity increases linearly with time, not with distance.
+Distance fallen is proportional to the square of elapsed time — d ∝ t². The fundamental law of falling bodies.
+The odd-number rule — Distances covered in successive equal time intervals are as 1:3:5:7... (follows from d ∝ t²).
+The mean-speed theorem applies to falling bodies — Total distance equals that which would be covered at the mean velocity over the interval.
+Speed acquired in fall depends only on height, not on path — A body falling vertically and one descending an incline from the same height reach the bottom with equal speeds.
+Inclined planes dilute gravity — Acceleration along an incline is proportional to the sine of the angle. This allowed Galileo to "slow down" gravity for measurement.
+
+
+II. PROJECTILE MOTION
+
+Projectile motion is compound motion — Composed of two independent motions: uniform horizontal and uniformly accelerated vertical.
+The trajectory of a projectile is a parabola — Follows mathematically from the composition of uniform and accelerated motion.
+Horizontal and vertical motions are independent — A ball dropped and a ball fired horizontally from the same height hit the ground simultaneously.
+Maximum range occurs at 45° launch angle — For a given initial speed on level ground.
+Complementary angles yield equal ranges — 30° and 60°, or 20° and 70°, produce the same horizontal distance.
+Range tables can be computed mathematically — Galileo produced gunnery tables from his parabolic theory.
+
+
+III. THE PRINCIPLE OF INERTIA
+
+A body in motion tends to remain in motion — Without external interference, a moving body continues moving. Overturned 2,000 years of Aristotelian physics requiring continuous causation.
+Rest is not privileged over uniform motion — No internal experiment distinguishes a stationary system from one in uniform motion. (Galilean relativity.)
+No force is required to maintain uniform motion — Force causes change in motion, not motion itself.
+The ship's hold thought experiment — Butterflies fly, fish swim, drops fall identically whether the ship is docked or sailing smoothly. Motion below decks reveals nothing about motion of the ship.
+
+
+IV. PENDULUM PHENOMENA
+
+Isochronism of the pendulum — For small amplitudes, period is independent of amplitude. A pendulum swinging through a large arc takes the same time as one swinging through a small arc (approximately).
+Pendulum period is independent of the bob's weight — A lead bob and a cork bob of equal length swing with equal periods.
+Pendulum period depends on length — Longer pendulums swing more slowly. Period proportional to the square root of length (though Galileo didn't state it in that form).
+Pendulums can serve as timekeepers — Galileo proposed pendulum-regulated clocks; Huygens built them.
+Sympathetic resonance of pendulums — Pendulums of equal length transfer energy; those of different lengths do not.
+
+
+V. ACOUSTICS AND VIBRATING STRINGS
+
+Pitch is determined by frequency of vibration — Higher frequency means higher pitch.
+Frequency of a vibrating string is inversely proportional to its length — Halving the length doubles the frequency (raises pitch by an octave).
+Frequency depends on tension — Greater tension produces higher pitch.
+Frequency depends on the string's density/thickness — Thicker or denser strings vibrate more slowly.
+Consonance explained by frequency ratios — Octave (2:1), fifth (3:2), fourth (4:3). Simple ratios please the ear; complex ratios sound dissonant.
+Resonance in strings — A vibrating string can excite sympathetic vibration in another string tuned to the same pitch or a harmonic.
+Scraped plate produces pitch — The spacing of grooves determines frequency. Galileo noted a bronze plate scraped by a chisel.
+
+
+VI. STRENGTH OF MATERIALS
+
+The strength of a beam does not scale proportionally with size — Doubling all dimensions of a beam does not double its strength. Strength scales with cross-sectional area; weight scales with volume.
+There are natural limits to size — Giants and enormous structures are mechanically impossible. Large animals require proportionally thicker bones.
+A beam breaks at the wall — Galileo analyzed the cantilever problem: a beam projecting horizontally from a wall fractures at the point of support.
+Resistance to fracture depends on cross-sectional dimensions — Galileo attempted to calculate breaking strength from geometry.
+Hollow tubes are stronger per unit weight than solid rods — Nature exploits this in bones and plant stems.
+Geometric similarity does not imply mechanical similarity — Scale models do not predict behavior of full-scale structures directly.
+
+
+VII. HYDROSTATICS AND FLOATING BODIES
+
+Bodies float or sink according to density, not shape — Contra Aristotelians who attributed floating to flat shape. A thin sheet of lead sinks; a lead-hulled ship floats because the hull encloses air.
+Buoyancy depends on volume of displaced fluid — Archimedes' principle defended and clarified against contemporary misunderstandings.
+Ice floats because it is less dense than water — Not because of its flat shape, as Aristotelians claimed.
+Apparent weight loss in fluid equals weight of displaced fluid — Quantitative buoyancy relation.
+
+
+VIII. VACUUM AND AIR PRESSURE
+
+The vacuum has physical effects — Galileo noted the force required to separate two smooth plates and the limited height to which suction pumps could raise water.
+Nature's "horror of the vacuum" has a finite strength — Water columns break at about 10 meters. There's a measurable limit to how much nature "resists" vacuum.
+Suction pumps work by air pressure — Galileo approached but did not fully articulate this; Torricelli completed the insight.
+The "force of vacuum" can be measured — Galileo devised experiments to quantify the resistance to separation of surfaces.
+
+
+IX. MECHANICS AND SIMPLE MACHINES
+
+The principle of virtual velocities (implicit) — In balanced systems, what is gained in force is lost in distance. Underlies analysis of levers, pulleys, inclined planes.
+Correct analysis of the inclined plane — Force required to hold a body on an incline is proportional to the sine of the angle. Resolved ambiguities from earlier treatments.
+Mechanical advantage has no free lunch — Machines multiply force by sacrificing speed/distance. Work in equals work out (before that concept was formalized).
+
+
+X. PROPERTIES OF MOTION
+
+Velocity is a continuous quantity — A body passes through all intermediate speeds; it doesn't jump instantaneously from one speed to another.
+Acceleration is change of velocity over time — Galileo distinguished uniform velocity from uniformly accelerated motion with precision no predecessor achieved.
+Motion is relative — The same motion can be described differently from different reference frames. There is no absolute standard of rest detectable by mechanical experiments.
+Circular motion is not "natural" — Though Galileo sometimes wavered on this, his analysis points toward recognizing that circular motion requires continuous deflection (later: centripetal force).
+
+
+XI. PERCUSSION AND IMPACT
+
+The force of percussion is immense but brief — A hammer blow delivers enormous momentary force. Galileo struggled to quantify this but recognized its importance.
+Accumulated motion produces percussion effects — A slowly raised hammer has less effect than one swung through an arc. The motion acquired during the swing matters.
+Percussion force exceeds any static weight — No matter how heavy a dead weight, a sufficiently rapid impact produces greater instantaneous force.
+
+
+XII. EXPERIMENTAL METHOD
+
+Controlled experimental variation isolates variables — Change one factor at a time (length, weight, angle) and measure the effect.
+Idealization is necessary for law discovery — Abstract from air resistance, friction, imperfect sphericity to discover the underlying mathematical law.
+Measurement and quantification are essential — Physics advances by measuring, timing, and computing, not by verbal disputation.
+Reproducibility validates findings — Experiments can and should be repeated by others.
+Mathematical relations are the form of physical laws — The laws of nature are ratios, proportions, geometric relations—not qualitative tendencies.

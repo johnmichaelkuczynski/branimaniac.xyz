@@ -1,0 +1,192 @@
+KUCZYNSKI: ANALYTIC PHILOSOPHY CHAPTER 4 - WHAT IS A LANGUAGE?
+Positions and Core Arguments
+
+═══════════════════════════════════════════════════════════════════
+THE THREE MEANINGS OF "MEANING"
+═══════════════════════════════════════════════════════════════════
+
+• The word "meaning" has three different meanings, and only one directly relates to the nature of language.
+
+• MEANING #1 (EVIDENTIAL): To say that x "means" y is to say that x is evidence of y—that x and y are causally interrelated such that, given x, it can reasonably be inferred that y. "Smith's hacking cough means he has a lung infection."
+
+• MEANING #2 (PSYCHOLOGICAL): When we use sentences, we mean things by them. This is a psychological notion—what I intend to communicate in speaking.
+
+• MEANING #3 (LINGUISTIC): The sentence "snow is white" says something about something; it attributes the property of being white to snow. This kind of meaning is in a class by itself.
+
+• Linguistic meaning is neither evidential nor psychological—it requires separate analysis.
+
+═══════════════════════════════════════════════════════════════════
+LINGUISTIC MEANING ≠ PSYCHOLOGICAL MEANING
+═══════════════════════════════════════════════════════════════════
+
+• Meaning in the psychological sense involves, but does not coincide with, meaning in the linguistic sense.
+
+• What a sentence means is not identical with what people mean in uttering it.
+
+• There are many sentences that have determinate meanings even though they've never been uttered before and no one has ever meant anything by them. Example: "The cube root of three is Sir Lawrence Olivier's favorite irrational number between one and four" has a determinate meaning, even though that sentence probably has never been uttered.
+
+• The relationship a sentence bears to its meaning doesn't depend on anyone having uttered it or meant it.
+
+• PSYCHOLOGICAL MEANING PRESUPPOSES LINGUISTIC MEANING: What a person means when uttering a sentence is a function of their beliefs about what that sentence already means. You must believe that "snow is white" means snow is white if you intend to speak literally.
+
+• One cannot, in uttering a given sentence, mean anything by it unless one knows what it already means.
+
+• Meaning in the psychological sense is parasitic on meaning in the linguistic sense—the two are entirely distinct.
+
+═══════════════════════════════════════════════════════════════════
+LINGUISTIC MEANING ≠ EVIDENTIAL MEANING
+═══════════════════════════════════════════════════════════════════
+
+• The sense in which "snow is white" means that snow is white isn't comparable to the sense in which smoke means fire.
+
+• The fact that smoke means fire has nothing to do with conventions. But "snow is white" meaning what it does is at least in part a matter of convention.
+
+• Utterances embody judgments. The presence of smoke doesn't embody any judgment about anything. But utterances of "snow is white" embody judgments about snow, about language, and about human psychology.
+
+• There is a normative dimension to language use that is absent where purely natural, non-conventional cause-effect relations are concerned.
+
+═══════════════════════════════════════════════════════════════════
+THERE ARE NO MEANINGLESS EXPRESSIONS
+═══════════════════════════════════════════════════════════════════
+
+• Nothing meaningless is a linguistic expression.
+
+• Chomsky famously said "colorless green dreams sleep furiously" is both meaningless and a bona fide sentence. This reasoning is no good.
+
+• "Colorless green dreams sleep furiously" either (i) says that there are dreams that are green and also colorless that sleep furiously, in which case it's FALSE, or (ii) says that nothing is a colorless green dream that doesn't also sleep furiously, in which case it's VACUOUSLY TRUE.
+
+• We wrongly see sentences with absurd meanings as having no meaning.
+
+• There are three sources of confusion: (1) expression-like entities that phonetically resemble expressions but have no meaning (like "blerko"); (2) meaningful sentences expressing propositions not worth affirming (mistaken for meaningless); (3) homonyms occurring in contexts where no semantic rule assigns meaning (e.g., "the absolute is one"—the occurrence of "absolute" is assigned no meaning, making this a sentence-imposter, not a sentence).
+
+═══════════════════════════════════════════════════════════════════
+PROPOSITIONS AND DIGITAL STRUCTURE
+═══════════════════════════════════════════════════════════════════
+
+• The meaning of a true or false sentence is a proposition.
+
+• Propositions are not themselves sentences. That's why different sentences (e.g., "schnee ist weiss" and "snow is white") can express the same proposition.
+
+• Propositions, when true, are truths. Propositions have existed as long as there have been truths—they are not human creations.
+
+• Propositions consist of discrete parts corresponding to discrete parts of sentences. Sentences are structurally like the propositions they express (proposition-isomorphs).
+
+• PROPOSITIONS ARE DIGITAL STRUCTURES: Like sentences and unlike visual perceptions, propositions have unique decompositions into minimal significant units.
+
+• Visual perceptions, unlike sentences and propositions, have non-digital or analogue structures.
+
+• Given that some thought involves processing perceptual information, thought at least sometimes has a structure very different from language.
+
+═══════════════════════════════════════════════════════════════════
+SEMANTICS, SYNTAX, AND PRAGMATICS
+═══════════════════════════════════════════════════════════════════
+
+• SEMANTICS: The discipline that attempts to make clear what utterances literally mean. It has no interest in what is conveyed through suggestion or innuendo.
+
+• PRAGMATICS: Studies the use of language. Sometimes literal, sometimes not. What we mean is often not exhausted by literal meaning.
+
+• SYNTAX: Studies the structures of meanings of complex expressions—how meanings of complex expressions depend on those of their parts. Syntax studies semantic structure.
+
+• The discipline of syntax doesn't study meanings per se—it studies the relationships such meanings have to those of their constituents.
+
+═══════════════════════════════════════════════════════════════════
+THE NEED FOR SEMANTICS
+═══════════════════════════════════════════════════════════════════
+
+• Even though we know what "John wants to catch a 20-pound striped bass" means, we don't know what it is that we know in knowing this. Semanticists supply the missing metaknowledge.
+
+• The sentence doesn't describe a relationship between John and some non-existent fish. It affirms a relationship between John and a PROPOSITION.
+
+• Proper analysis: "John wants it to be the case that: there exists some fish x such that x is a 20-pound striped bass and John catches x."
+
+• Semanticists clarify the structure of meanings that are already known. Literal meaning is often cloaked by pre-semantic information through which it is grasped.
+
+═══════════════════════════════════════════════════════════════════
+SEMANTIC RULES
+═══════════════════════════════════════════════════════════════════
+
+• A language is a systematic way of pairing off sentences with meanings. Any rule that assigns a meaning to an expression is a "semantic rule." Languages are sets of semantic rules.
+
+• Something has to have meaning in order to be an expression. Expressions aren't assigned meanings—they already have them. Therefore, semantic rules assign meanings to non-expressions (to properties of physical objects—morphological or acoustical properties).
+
+• A semantic rule assigns a meaning to a property, and language is a set of such rules.
+
+═══════════════════════════════════════════════════════════════════
+SEMANTIC RULES ARE NOT MATHEMATICAL FUNCTIONS
+═══════════════════════════════════════════════════════════════════
+
+• Many believe linguistic meaning is to be understood in function-theoretic terms—that semantic rules are mathematical functions.
+
+• This view is FALSE. Mathematical functions have always existed and always will. But semantic rules haven't always existed—they came into existence quite recently.
+
+• If semantic rules for English were mathematical functions, there would exist a language where "Socrates" referred to Lincoln and "snow is white" meant all horses weigh 18,000 lbs. But there is no such language (though one could be invented).
+
+• Semantic rules are not rules in the mathematical sense.
+
+═══════════════════════════════════════════════════════════════════
+WITTGENSTEIN REFUTED: "MEANING IS USE" IS INCOHERENT
+═══════════════════════════════════════════════════════════════════
+
+• Wittgenstein advocated that "roughly speaking, meaning is use." This statement isn't even roughly true.
+
+• Expressions have meanings. A meaningless burst of noise isn't an expression.
+
+• Since anything that is a linguistic expression ipso facto has meaning, there are no expressions to be used before noises, ink-marks, etc., have been assigned meanings.
+
+• Since there can be no expression-use until after there is expression-meaning, it makes no sense to say that expression-use determines expression-meaning.
+
+• "Meaningful expression" is a pleonasm. Contrary to Wittgenstein, meaning isn't use.
+
+═══════════════════════════════════════════════════════════════════
+GRICE REFUTED: LITERAL MEANING ≠ SPEAKER'S MEANING
+═══════════════════════════════════════════════════════════════════
+
+• According to Grice, for expression E to have literal meaning M is for it to be the case that, when people utter E, M is what they mean.
+
+• This view is FALSE. Literal meaning is not identical with speaker's meaning and is not to be understood in terms of it.
+
+• The meaning of a subsentential expression cannot be what a person means. "Or" has a meaning, but whatever "or" means cannot, by itself, be what a person means.
+
+• Psychological meaning presupposes linguistic meaning—not the other way around.
+
+═══════════════════════════════════════════════════════════════════
+SALMON-SOAMES VIEW REFUTED
+═══════════════════════════════════════════════════════════════════
+
+• The view that semantic rules are psychologically inert idealizations of speaker-behavior (held by Nathan Salmon and Scott Soames) is wrong.
+
+• If semantic rules merely describe existing semantic activity, then that activity isn't answerable to semantic norms. But it IS—so the Salmon-Soames view is wrong.
+
+• Knowledge of semantic rules underlies all non-defective speech-acts.
+
+• Semantic rules have psychological reality—awareness of them guides what people say.
+
+═══════════════════════════════════════════════════════════════════
+INDEXICALS AND CONTEXT-SENSITIVITY
+═══════════════════════════════════════════════════════════════════
+
+• Indexicals are expressions whose reference depends on the context of utterance: "I," "you," "he," "today," "here," "now," "that man."
+
+• The semantics of "I" refers to the person who produced the utterance. The mediating concept remains the same regardless of who uses it.
+
+• Indexicals have a "two-dimensional" semantic structure: the meaning of a token is its referent; the meaning of the corresponding type is the rule that assigns that referent to that token.
+
+• Demonstratives are indexicals requiring an accompanying demonstration to eliminate doubt about the referent.
+
+• Nothing perspectival—nothing embodying information relating to the speaker's perspective—can be expressed without using an indexical.
+
+• An indexical-free language would be extremely impoverished. One could not express "I am JM" or "I am that guy in the mirror."
+
+• No sentence-type containing a context-sensitive component is either true or false. It is tokens that make statements, not sentence-types.
+
+═══════════════════════════════════════════════════════════════════
+LITERAL MEANING VS. SPEAKER'S MEANING
+═══════════════════════════════════════════════════════════════════
+
+• Two utterances can have identical literal meanings without the speaker knowing this.
+
+• Example: I yell "that man is a thief!" at a masked pickpocket (U1), then later jokingly say "that man is a thief!" about my office-mate Steve eating my cupcake (U2). Unbeknownst to me, Steve was the pickpocket. U1 and U2 have the very same literal meanings—but I don't know this even though I speak English perfectly.
+
+• Sense-perceptions describe things. The threadbare literal meaning is grasped through descriptively rich visual perception. Different perceptual descriptions can deliver the same literal meaning without one knowing it.
+
+• Literal meaning is often cloaked by the pre-semantic information through which it is grasped.

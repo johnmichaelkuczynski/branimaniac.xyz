@@ -1,0 +1,28 @@
+=== EMBEDDING LOG FOR BERTRAND RUSSELL ===
+Figure ID: russell
+Source Folder: /home/runner/workspace/server/data/russell
+Started: 2025-12-13T04:01:31.784Z
+============================================================
+
+[2025-12-13T04:01:31.788Z] FLAGGED | BERTRAND RUSSELL GUTENBERG WORKS.txt | 0 chunks | Contains 36 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.076Z] FLAGGED | CORPUS_ANALYSIS_Russell_Database_1.txt | 0 chunks | Contains 10 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.127Z] FLAGGED | Complete Philosophical Writings of Bertrand Russell_Part1.txt | 0 chunks | Contains "by Mill" - likely wrong author
+[2025-12-13T04:01:32.186Z] FLAGGED | Complete Philosophical Writings of Bertrand Russell_Part2.txt | 0 chunks | Contains 6 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.249Z] FLAGGED | Complete Philosophical Writings of Bertrand Russell_Part3.txt | 0 chunks | Contains 11 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.303Z] FLAGGED | Complete Philosophical Writings of Bertrand Russell_Part4.txt | 0 chunks | Contains 18 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.359Z] FLAGGED | Complete Philosophical Writings of Bertrand Russell_Part5.txt | 0 chunks | Contains 9 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.416Z] FLAGGED | Complete Philosophical Writings of Bertrand Russell_Part6.txt | 0 chunks | Contains 20 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.475Z] FLAGGED | Epistemology and Sensory Data Part 4.txt | 0 chunks | Contains 46 mentions of "Mises" - possible misattribution
+[2025-12-13T04:01:32.555Z] FLAGGED | Epistemology and Universals Part 3.txt | 0 chunks | Contains 53 mentions of "Mises" - possible misattribution
+[2025-12-13T04:01:32.612Z] FLAGGED | Human Knowledge_ Its Scope and Value_Part1.txt | 0 chunks | Contains 28 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.660Z] FLAGGED | Human Knowledge_ Its Scope and Value_Part2.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.712Z] FLAGGED | Human Knowledge_ Its Scope and Value_Part3.txt | 0 chunks | Contains 8 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:32.759Z] SUCCESS | Human Knowledge_ Its Scope and Value_Part4.txt | 9 chunks | 
+[2025-12-13T04:01:34.913Z] FLAGGED | Non-Euclidean Geometry Part 2.txt | 0 chunks | Contains 18 mentions of "Mises" - possible misattribution
+[2025-12-13T04:01:34.966Z] FLAGGED | Philosophy of Mathematics and Logic Part 1.txt | 0 chunks | Contains 12 mentions of "Mill" - possible misattribution
+[2025-12-13T04:01:35.013Z] SUCCESS | Principles of Mathematics (Routledge Classics)_Part1.txt | 386 chunks | 
+[2025-12-13T04:02:58.176Z] SUCCESS | Principles of Mathematics (Routledge Classics)_Part2.txt | 393 chunks | 
+[2025-12-13T04:04:22.235Z] SUCCESS | Principles of Mathematics (Routledge Classics)_Part3.txt | 397 chunks | 
+[2025-12-13T04:05:47.994Z] SUCCESS | Principles of Mathematics (Routledge Classics)_Part4.txt | 78 chunks | 
+[2025-12-13T04:06:04.355Z] SUCCESS | Russell_Major_Works_Positions.txt | 19 chunks | 
+[2025-12-13T04:06:08.477Z] FLAGGED | russell_abc_relativity.txt | 0 chunks | Contains 13 mentions of "Mill" - possible misattribution

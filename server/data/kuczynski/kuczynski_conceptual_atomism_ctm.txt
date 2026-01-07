@@ -1,0 +1,2055 @@
+﻿Conceptual Atomism and the Computational Theory of MindAdvances in Consciousness Research (AiCR)
+
+Provides a forum for scholars from different scientific disciplines and fields of 
+knowledge who study consciousness in its multifaceted aspects. Thus the Series 
+includes (but is not limited to) the various areas of cognitive science, including 
+cognitive psychology, brain science, philosophy and linguistics. The orientation 
+of the series is toward developing new interdisciplinary and integrative 
+approaches for the investigation, description and theory of consciousness, as well 
+as the practical consequences of this research for the individual in society. 
+From 1999 the Series consists of two subseries that cover the most important 
+types of contributions to consciousness studies:
+Series A: Theory and Method. Contributions to the development of theory and 
+
+method in the study of consciousness; 
+
+
+Editor
+
+Maxim I. Stamenov
+Bulgarian Academy of Sciences
+
+
+Editorial Board 
+
+David J. Chalmers
+                              Stephen L. Macknik
+Australian National University
+                              Barrow Neurological Institute, Phoenix, AZ, 
+Gordon G. GlobusUSA
+University of California at Irvine
+                              George Mandler
+Ray JackendoffUniversity of California at San Diego
+Brandeis University
+                              Susana Martinez-Conde
+Christof KochBarrow Neurological Institute, Phoenix, AZ, 
+California Institute of TechnologyUSA
+
+Stephen M. KosslynJohn R. Searle
+Harvard UniversityUniversity of California at Berkeley
+
+Earl Mac CormacPetra Stoerig
+Duke UniversityUniversität Düsseldorf
+
+
+Volume 69
+
+Conceptual Atomism and the Computational Theory of Mind. A defense of 
+content-internalism and semantic externalism
+John-Michael Kuczynski  Conceptual Atomism and  
+
+  the Computational Theory of Mind
+
+  A defense of content-internalism  
+
+  and semantic externalism
+
+
+
+
+
+  John-Michael Kuczynski
+
+  Virginia Commonwealth University
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  John Benjamins Publishing Company
+
+    Amsterdam / PhiladelphiaTMThe paper used in this publication meets the minimum requirements of 
+8
+  American National Standard for Information Sciences – Permanence of 
+  Paper for Printed Library Materials, ansi z39.48-1984.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Library of Congress Cataloging-in-Publication Data
+
+  Kuczynski, John-Michael.
+  Conceptual atomism and the computational theory of mind : a defense of content-
+      internalism and semantic externalism / John-Michael Kuczynski.
+       p. cm. --  (Advances in consciousness research, issn 1381-589X ; v. 69)
+  Includes bibliographical references and index.
+ 1.  Philosophy of mind. 2.  Knowledge, Theory of. 3.  Cognitive science. 4.  Atomism. 
+      5.  Internalism (Theory of knowledge) 6.  Externalism (Philosophy of mind)  I. 
+      Title.
+  BD418.3.K83    2007
+  128'.2--dc22 2007008592
+  ISBN 978 90 272 5205 0 (hb : alk. paper)
+
+© 2007 – John Benjamins B.V.
+No part of this book may be reproduced in any form, by print, photoprint, microfilm, or any 
+other means, without written permission from the publisher.
+
+John Benjamins Publishing Co. · P.O. Box 36224 · 1020 me Amsterdam · The Netherlands
+John Benjamins North America · P.O. Box 27519 · Philadelphia pa 19118-0519 · usa  Table of contents
+
+
+
+Introduction ix
+
+
+Part I 
+A defense of content-internalism and of a descriptivist theory of concepts
+
+chapter 1 
+Basic concepts 3
+
+chapter 2 
+The predicative nature of sense-perception 25
+
+chapter 3 
+Uniquely individuating descriptions 41
+
+chapter 4 
+Some semantic consequences or our analysis: Tokens versus types, 
+semantics versus pre-semantics 69
+
+chapter 5 
+Modality, intensionality, and a posteriori necessity 97
+
+chapter 6 
+Cognitive maps and causal connections: Why the causal story is an  
+important part of the descriptive story 109
+
+chapter 7 
+Conception as knowledge of series of interlocking existence-claims 123
+
+chapter 8 
+The problem of de re senses 129
+
+chapter 9 
+Publicity problems and the nature of linguistic communication 153	Conceptual Atomism and the Computational Theory of Mind
+
+
+chapter 10 
+Content-externalism and self-knowledge 163
+
+chapter 11 
+Why one’s mental content is fixed by one’s epistemic situation 181
+
+chapter 12 
+Jackson and Pettit on program-causality and content-externalism 189
+
+
+Part II 
+Fodor, conceptual atomism, and computationalism
+
+chapter 13 
+Content-externalism and conceptual atomism 217
+
+chapter 14 
+The concept of a symbol 261
+
+chapter 15 
+Event-causation and the root-problem with the Computational 
+Theory of Mind 285
+
+chapter 16 
+Fodor’s first argument for conceptual atomism 293
+
+chapter 17 
+Fodor’s second argument for conceptual atomism 315
+
+chapter 18 
+Fodor’s third argument for conceptual atomism 327
+
+chapter 19 
+Some arguments for the Symbolic Conception of Thought 397
+
+chapter 20 
+A positive argument against the Symbolic Conception of Thought 409
+
+chapter 21 
+Another argument against the Symbolic Conception of Thought: 
+The concept of non-conceptual content 419 Table of contents 
+
+
+chapter 22 
+Propositional structure and the ineliminability of non-conceptual content 429
+
+chapter 23 
+Conceptual content and the structure of the proposition 443
+
+chapter 24 
+Peacocke on concept-possession 467
+
+chapter 25 
+Semantics versus psychology 483
+
+Conclusion 507
+
+Bibliography 509
+
+Index 517  Introduction
+
+
+A doctrine known as “content-externalism” is widely taken to provide a correct analy-
+sis of mental content. A doctrine known as the Computational Theory of Mind (CTM) 
+is widely taken to provide a correct analysis of mental operations. These doctrines sup-
+port each other.
+The present work is divided into two parts. In Part I (Chapters 1–12) it is argued 
+that content-externalism is false, but that a related doctrine known as “semantic exter-
+nalism” is correct. An alternative to content-externalism is proposed.
+In Part II (Chapters 13–25) it is argued that CTM is false. Special attention is paid 
+to the concept of syntactic form. It is seen that CTM involves a misunderstanding of 
+this concept, and that this misunderstanding is embedded in misunderstandings that 
+are reinforced by content-externalism.  part I 
+
+
+  A defense of content-internalism and 
+
+  of a descriptivist theory of concepts  chapter 1 
+
+
+  Basic concepts
+
+
+
+Content-externalism
+
+Let W and W* be two different possible worlds satisfying the following conditions. In 
+W, Max sees rock R at time t. In W*, Twin-Max sees rock R* at the same time. R is 
+numerically distinct from R*. But apart from that, there are no differences between 
+W at t and W*at t. (It follows that Max and Twin-Max are numerically identical.) So 
+even though R and R* are numerically distinct, they nonetheless look the same, and 
+have the same mass, shape, and so on. And even though Max is looking at one rock, 
+whereas Twin-Max is looking at some other rock, the physiological disturbances that 
+result in the one case are qualitatively identical with those that result in the other.
+Of course, Max and Twin-Max do not have exactly the same relational properties. 
+For example, Max’s visual experience at time t is caused by R, not R*, and Twin-Max’s 
+corresponding experience is caused by R*, not R. Nonetheless, Max and Twin-Max are 
+obviously extremely similar. So long as we consider the regions of space-time occupied 
+by their bodies, there is nothing that distinguishes Max from Twin-Max. If there is an 
+electron-jump in the region occupied by Max, there is a qualitatively identical elec-
+tron-jump in the region occupied by Twin-Max.
+According to a widely held doctrine, Max’s perceptions and subsequent thoughts 
+don’t have the same contents as Twin-Max’s corresponding perceptions and thoughts. 
+Here is the reasoning behind this claim:
+
+  Max’s visual perception is veridical exactly if R has certain properties, it being ir-
+  relevant whether R* has those properties. And Twin-Max’s visual perception is 
+  veridical  exactly  if R* has  certain  properties,  it  being  irrelevant  whether  R  has 
+  those properties. Similarly when Max thinks that rock is lovely, his thought is cor-
+  rect exactly if R is lovely, it being irrelevant whether R* is lovely. And when Twin-
+  Max thinks that rock is lovely, his thought is correct exactly if R* is lovely, it being 
+  irrelevant  whether  R  is  lovely.  Therefore  Max’s  R-perceptions  and  subsequent 
+  thoughts don’t have the same truth-conditions, or therefore the same contents, as 
+  Twin-Max’s R*-perception and subsequent-thoughts.
+  Leaving aside facts about the origins of their conditions, Max and Twin-Max are 
+  qualitatively identical. So it is solely in virtue of the fact that they are embedded in 
+  different environments that they have perceptions and thoughts with different con-
+  tents. Thus, in at least some cases, a mental state’s content is fixed, at least in part, by 
+  facts about the origins of that state. Two brain-states can be qualitatively identical, 
+  leaving aside facts about their causal origins, and yet have different contents. Thus, 	Conceptual Atomism and the Computational Theory of Mind
+
+
+  what a person (or creature) is thinking is constitutively (and not just causally) de-
+  pendent on facts about his environment, the same being true of the information en-
+  coded in his sense-perceptions.1
+
+The doctrine just described is known as “content externalism.” The present work is con-
+cerned with content-externalism (among other things). We will argue that it is false.
+Content-externalism must at all costs be distinguished from another doctrine that 
+we will refer to as “semantic externalism.”
+
+
+Semantic externalism
+
+A continuation of our story about Max and Twin-Max will help us define the term 
+“semantic externalism.” Max later tells people about R, referring to it as “Rocko.” Be-
+cause Max is an eminent person, “Rocko” becomes part of the English language. So 
+people who have never seen R refer to it as “Rocko”, and they say things like: “the rock 
+in your backyard is smaller than Rocko” and “Rocko is supposedly the most beautiful 
+rock in the world.” Thus, in W, “Rocko” refers to R, i.e. it becomes a semantic rule of 
+English that “Rocko” refers to R (just as, in actuality, it is a semantic rule of English that 
+“Socrates” refers to Socrates). Everything that we just said about Max is true mutatis 
+mutandis of Twin-Max. Thus, in W*, “Rocko” refers to R*.
+Here is what semantic externalism says about this situation. In W, an utterance of 
+“Rocko  weighs  over  five  lbs”  has  for  its  literal  meaning  the  singular  proposition R 
+weighs over five lbs. In general, for any predicate phi, an utterance in W of FRocko has 
+phiG has for its literal meaning the singular proposition R has phi. For exactly similar 
+reasons, an utterance of FRocko has phiG in W* has for its literal meaning the singular 
+proposition R* has phi. Thus, what is literally meant by an utterance in W of FRocko 
+has phiG neither entails, nor is entailed by, what is literally meant by a homonymous 
+utterance in W*. (Salmon 1986, Kaplan 1989, Soames 1989, 2001, 2005).
+Content-externalism and semantic-externalism are distinct doctrines.2 The first is a 
+doctrine about what people think. The second is a doctrine about what our words mean. 
+As we will see, a failure to distinguish between these two doctrines has led to much con-
+fusion in contemporary thought. We will find that semantic-externalism is unqualifiedly 
+true, even though content-externalism is unqualifiedly false.
+There are many well-known apparent problems with semantic-externalism. For ex-
+ample,  if  semantic-externalism  is  right,  then  “Hesperus=Hesperus”  has  precisely  the 
+same literal meaning as “Hesperus=Phosphorous.” But surely, it will be said, these sen-
+
+
+
+1.  See Burge (1979, 1982), Kaplan (1989b: 322-326), McGinn (1986), Salmon (1986), and  Da-
+vidson (2004: 77-86).  
+
+2.  Blackburn (1984: 328-333) makes this point.  Chapter 1.  Basic concepts 
+
+
+tences must have different meanings, given that one of them is trivial whereas the other 
+is non-trivial.
+We will find that this problem, and others like it, vanish when we take a few basic 
+facts into account – in particular, the fact that one must always exploit background 
+semantic and non-semantic knowledge to compute the meanings of the sentence-to-
+kens that one encounters.
+
+
+Some apparent problems with content-externalism
+
+As we have already seen, there is much to be said for content-externalism. It is a datum 
+that,  notwithstanding  their  similarities,  Max  and  Twin-Max  are  seeing,  and  subse-
+quently thinking about, different rocks. So it seems a datum that the contents of Max’s 
+mental  states  are,  to  that  extent,  different  from  the  content’s  of  Twin-Max’s  mental 
+states. Finally, there is no way to explain these differences except in terms of the fact 
+that Max’s mental states don’t have the same origins as Twin-Max’s. These differences 
+have no intra-cranial basis, and must therefore be sought in what is extra-cranial, i.e. 
+in what is external.
+But there is a problem. So long as we confine ourselves to the regions occupied by 
+their bodies, there is nothing that distinguishes Max from Twin-Max. It immediately 
+follows that they are physically identical. And unless we take the dubious measure of 
+saying that their minds engulf regions of space larger than those encompassed by their 
+bodies3, it also follows that they are psychologically identical.4 So to the extent that it 
+must be understood along content-externalist lines, mental content is without any psy-
+chological significance: what a person is thinks, believes, and doubts is irrelevant to 
+how that person is psychologically. But it would seem to be a truism that two people 
+differ psychologically if they differ in respect of what they believe, think, or doubt. As 
+we will see, some authors reject this supposed truism on the grounds that it conflicts 
+with content-externalism. But it is prima facie to the discredit of that doctrine that it 
+has such a revisionist consequence.
+Before moving on, we should consider a possible externalist rejoinder to the argu-
+ment just given:
+
+  You say that Max’s mind is confined to his cranium, and that to think otherwise is 
+  “dubious.” But in saying this, you are simply begging the question. The essence of 
+    content-externalism is that some facts about Max’s mind are fixed by extra-cra-
+  nial facts. So if that doctrine is correct, it is not absurd to say that someone’s mind 
+  literally encompasses some remote region of space-time; and it is thus not absurd 
+
+
+3.  This position is taken by McGinn (1986: 20-30).
+
+4.  Stich (1978: 590-591) powerfully explains why it is not an option, even for the content-ex-
+ternalist, to say that Max and Twin-Max are psychologically different. 	Conceptual Atomism and the Computational Theory of Mind
+
+
+  to say that Max and Twin-Max have qualitatively different minds. So I don’t see 
+  that you’ve made any headway here against content-externalism.5
+
+It is easy to show that this response has consequences too revisionist to accept. Because 
+light travels at a finite speed, one often sees stars that went out of existence long ago. 
+Given this, suppose that, instead of being nearby rocks, R and R* are qualitatively iden-
+tical but numerically distinct stars that went out of existence 100 million years ago. In 
+that case, the objector’s response amounts to this: at least some portion of Max’s mind 
+was around 100 million years ago. But that is straightforwardly false. There were no 
+human minds back then.
+This point can be generalized. One sees states of affairs, not objects. You don’t just 
+see Smith. Rather, you see a dated situation that has Smith as a component. Because 
+light travels at a finite speed, anything that you see has since ceased to exist, and any-
+thing that is contemporaneous with your visual perception is, at most, a successor or 
+continuation of the state of affairs that you are seeing. Since content-externalism makes 
+the thing you are seeing into a veritable constituent of the content of your perception, it 
+follows that the objector’s response drains all of your perceptions of any content. Given 
+that our perceptions obviously do have content, we may conclude that Max and Twin-
+Max are psychologically and physically identical, contrary to what the objector says.
+
+
+Some apparent problems with content-externalism (continued)
+
+Suppose  that  Max  does,  whereas  Twin-Max  does  not,  believe  that  there  is  a  nearby 
+ATM machine that is spitting out hundred dollar bills. There will be an immediate dif-
+ference between Max and Twin-Max in regards to what they feel, want, and do. Max 
+will,  whereas  Twin-Max  will  not,  experience  a  crisis  of  conscience  (“should  I  take 
+money that is not mine?”). Max will, whereas Twin-Max will not, repress feelings of 
+guilt that result from committing theft. Max does, whereas Twin-Max does not, de-
+velop a feeling of self-loathing, which is defensively cloaked under a veneer of exces-
+sive self-confidence. And so on.
+Here, we have a situation where Max’s mental content clearly differs from Twin-
+Max’s. That initial difference quickly ramifies into others, and Max and Twin-Max for-
+ever cease to have parallel lives.
+
+
+5.  McGinn  holds  that  content-externalism  is  correct  and  that,  consequently,  one’s  mind is 
+spread out all over the cosmos. See McGinn (1986: 20-30). McGinn then argues that this conse-
+quence of content-externalism is innocuous since the mind is not a “substance.” 
+ It is extremely unclear what it means to say that the mind is not a “substance.” But what is clear 
+is that there are representational mental events. Once this is granted, it follows (as we will now see) 
+that, if content-externalism is right, parts of your mind existed millions of years ago. It follows that 
+content-externalism is false, given that your mind came into existence only a few decades ago. Chapter 1.  Basic concepts 
+
+
+To see why this is a problem for the content-externalist, let us return to the previ-
+ous scenario – the one where the only differences between Max and Twin-Max coin-
+cide with, or derive from, the fact that the one person saw R while the other saw R*. In 
+that scenario, the alleged difference in content doesn’t lead to any lack of parallelism. 
+Even if we concede to the content-externalism that Max and Twin-Max have different 
+psychological contents, those contents are perfectly parallel.
+ For reasons of a purely methodological nature, that perfect parallelism is suspi-
+cious. We are reminded of Poincare’s famous thought-experiment. Let W and W* be 
+two different universes. (These needn’t coincide with the two homonymously named 
+universes previously discussed.) At time t, everything in W undergoes a tenfold in-
+crease in size. Apart from that, W and W* are qualitatively identical.
+Is there any difference between W and W*? Poincaré famously said “no”, and his 
+answer  was  vindicated  by  later  developments  in  both  physics  and  logic.  Because  the 
+changes that occurred in W were perfectly uniform, the relational properties of events in 
+the one world remain identical with those of events in the other world. Thus, I am twice 
+as tall as my niece in W iff I am twice as tall as she is in W*. If my pants are too tight in 
+W, then they are too tight by exactly the same amount in W*. It is obvious that these 
+points generalize without limit. There is thus no conceivable way of differentiating be-
+tween W and W*, and the statement “I am in W, as opposed to W*” is without any ex-
+planatory or experimental significance. So we are guilty of making a distinction without 
+a corresponding difference if we say that those worlds differ. It follows that the notion of 
+absolute size, and therewith of absolute position (and velocity and mass…), are empty.6
+The differences between Max and Twin-Max are like those between the worlds in 
+Poincare’s  thought-experiment.  Genuine  differences  destroy  parallelism  and  disrupt 
+relational facts. But the supposed differences between Max and Twin-Max are com-
+pletely non-disruptive. Those two individuals remain in perfect lock-step (Fodor 1987, 
+Jackson and Pettit 2004: 45–46).
+A content-externalist might respond by saying:
+
+  You are begging the question. Max and Twin-Max don’t remain in lock-step. Max 
+  has dreams about R, whereas Twin-Max has dreams about R*. Max wants to build 
+  a miniature replica of R, whereas Twin-Max wants to build a miniature replica of 
+  R*. And these differences do ramify into others. Given that both Max and Twin-
+  Max believe that there are no square circles, Max comes to believe either R weighs 
+  over five lbs or there are square circles whereas Twin-Max comes to believe either 
+
+
+
+
+6.  Matters are actually not quite as simple as this. Given only the just-described similarities 
+between W and W*, it is still possible that they are dynamically different, even though kinema-
+tically they are the same. See Schlick (1919) and Reichenbach (1958). The thought-experiment 
+has to be developed further to generate the result that Poincaré wants. But these subtleties are 
+obviously not relevant here.  	Conceptual Atomism and the Computational Theory of Mind
+
+
+  R* weighs over five lbs or there are square circles. So contrary to what you said, we 
+  don’t have one difference: we have a whole pattern of differences.7
+
+The content-externalist wishes to show that, because Max’s perception results from R 
+as opposed to R*, his mental content is qualitatively different from Twin-Max’s. All of 
+the differences cited by the objector presuppose that this is the case. So the differences 
+cited  by  the  objector  in  defense  of  the  content-externalist’s  position  presuppose the 
+truth of that position, and thus don’t provide any independent support for it.
+
+
+Content-internalism versus content-externalism
+
+A theory is a way of modeling data. In philosophy, these data consist of intuitions. For 
+example,  we  all  have  the  intuition  that  killing  infants  is  evil;  and  any  viable  ethical 
+theory must either validate that intuition or it must show that, relative to intuitions of 
+an even more fundamental kind, it can be explained away.
+It is a datum that some of Max’s thoughts are made true by facts about R, and that 
+Twin-Max’s corresponding thoughts are made true by facts about R*. It is also a datum 
+that there are certain apparent similarities between Max’s R-thoughts and Twin-Max’s 
+R*-thoughts. Content-externalism provides one model of such data. Content-internal-
+ism rejects that model, and must therefore propose an alternative to it.8 (By “content-
+internalism” I mean the doctrine that content-externalism is false.) This work will pro-
+pose a content-internalist model of the data in question.
+These days most philosophers believe that content-externalism is correct. In other 
+words, most philosophers believe that, because of the differences between W and W*, 
+Max and Twin-Max differ in respect of the identity of the information encoded in their 
+sense-perceptions and subsequent thoughts.
+For the reasons given a moment ago, it seems very reasonable to believe that there is 
+a kind of representational content that Max and Twin-Max have in common, and that 
+this common content is not affected by the differences between their two worlds. Follow-
+ing convention, we will refer to that kind of content (supposing that it exists) as “narrow 
+content” (Loar 1985, Jackson and Pettit 2004c). So supposing that individuals x and y are 
+qualitatively identical, leaving aside facts about the origins of their conditions, x and y 
+cannot differ in respect of the narrow contents of their perceptions and thoughts.
+Of course, all content-internalists believe that there is such a thing as narrow-con-
+tent, and so do some content-externalists. Such content-externalists are forced to ad-
+
+
+
+7.  This is John McDowell’s position. See McDowell’s commentary on Chapter 6 of Evans’ Va-
+rieties of Reference (Evans 1982: 203-204).
+
+8.  It is an open question in the philosophy of science whether there can be two different but 
+equivalent ways of modeling the same data.   Chapter 1.  Basic concepts 
+
+
+vocate a “two-tiered” or “two-dimensional” conception of mental content. We will re-
+fer to this position as “soft content-externalism.”9
+A number of eminent content-externalists deny that there is such a thing as nar-
+row-content. Of these, the most prominent are probably Tyler Burge, Gareth Evans, 
+and John McDowell. We will refer to this position as “hard-line content-externalism.”
+In this work I will argue that both forms of content-externalism are quite false. I 
+will also argue that semantic externalism is entirely correct. We will see that many of 
+the grounds for content-externalism vanish as soon as that doctrine is sharply distin-
+guished from semantic externalism.
+Jerry Fodor (1998) is a hard-line externalist who has proposed a very definite view 
+as to the nature of conception, and he has presented a number of powerful arguments 
+for that view. Indeed, given an acceptance of hard-line content-externalism, Fodor’s 
+analysis of conception follows, as we will see in a moment.
+The essence of Fodor’s position is this. For individual x to have a concept of object 
+y is for some of x’s states to have been caused, in a certain way, by states of affairs in-
+volving y. (In other words, there is some causal relation R such that x has a concept of 
+y just in case some state of affairs involving y R-caused x to undergo changes of a cer-
+tain kind.) Fodor’s view can be understood in terms of the following scenario. I see 
+Fred. This involves some state of affairs involving Fred causing me to have certain psy-
+chological  states  (various  sensory  experiences  and  attendant  thought-processes).  In 
+their turn, those states lead to my being able to think about Fred, i.e. they lead to my 
+subsequently having a concept of Fred. Here we have a case where one thing’s having a 
+concept of some other thing involves the second thing’s having some kind of effect on 
+the first thing. Since it is an obvious fact that there exist situations like the one just 
+described, nobody denies that conception may involve a causal connection between 
+subject and object. But Fodor goes a step further, saying that any instance of concep-
+tion not only involves, but is identical with, an instance of the kind of causal relation 
+just discussed. My having a concept of Socrates not only involves, but is identical with, 
+my being on the receiving end of a causal chain that begins with some state of affairs 
+involving Socrates.10 Fodor attempts to show that my concepts of theoretical entities 
+(e.g. muons) and also of abstract entities (e.g. the property of justice) can be explained 
+along similar lines.11
+Of course, this conception of conception is not an easy one to accept. But Fodor 
+provides  independent  corroboration  for  it.  More  specifically,  he  successfully  shows 
+that each of three widely held and independently plausible doctrines implicitly presup-
+poses the truth of his analysis (Fodor 1975, 1987, 1994, 1998). Those doctrines are the 
+Computational Theory of Mind (CTM), the Symbolic Conception of Thought (SCT), 
+
+9.  Loar (1985) is a soft content-externalist. So are Jackson and Pettit (2004b). Chalmers’ (1996) 
+argument for dualism involves a version of soft content-externalism.
+
+10.  Fodor (1998). 
+
+11.  Fodor (1990). 	Conceptual Atomism and the Computational Theory of Mind
+
+
+and content-externalism. SCT is the view that we think in symbols and thus in some 
+kind of language. CTM is the view that all thinking is computing. In due course, we 
+will say more completely what SCT and CTM are.
+Given that each of these doctrines presupposes the truth of Fodor’s analysis, it fol-
+lows that there is at least as much support for the latter as there is for the best sup-
+ported of those three doctrines. Further, there is, as we will see, considerable indepen-
+dent  support  for  each  of  these  doctrines.  So  even  though  Fodor’s  analysis  might 
+initially seem counterintuitive, there is much to be said in support of it.
+
+
+Conceptual atomism and content-externalism
+
+As I will be using the word “concept”, x has a concept of y iff x can have thoughts about 
+y. Because you are able to think about Socrates, you have a concept of the man.
+If correct, Fodor’s analysis warrants the acceptance of a doctrine that we will refer to 
+as “conceptual atomism.” Consider your concept of Socrates. It would seem, on the face 
+of it, that you can have that concept only because you already have various others. Sup-
+posing that X is a creature that has no conception of space or time or corporeality, could 
+X have a concept of Socrates? Most of us would say “no.” It seems absurd to suppose that 
+a creature so totally lacking in cognitive wherewithal could possibly have a concept of 
+Socrates. More generally, it seems absurd to suppose that, for anything x, an otherwise 
+conceptless creature could have a concept of x. It seems, therefore, that one’s concept of 
+Socrates (or of anything else) is not an “atom”, and is necessarily embedded in a network 
+of other concepts. Some kind of conceptual non-atomism seems obligatory.12 One of the 
+objectives of this work is to show that conceptual non-atomism is in fact correct.
+But if Fodor’s analysis is right, conceptual atomism is not only permissible, but de 
+rigueur. According to that analysis, my having a concept of Socrates consists solely in my 
+having a certain causal connection with Socrates. Whatever causal connection I have with 
+Socrates could presumably be had by an otherwise conceptless being, e.g. a photographic 
+plate. So Fodor’s analysis seems to allow that such a being could have a concept of Socrates. 
+In general, it seems that if we accept a strictly causal analysis of conception, such as that 
+advocated by Fodor, then we are committed to conceptual atomism.
+Fodor recognizes this and, true to his own premises, he accepts conceptual atom-
+ism. Fodor says that an otherwise conceptless creature could have a concept of Socrates 
+– or of my desk or of justice or of the color green. Because he is keenly aware that many 
+
+
+12.  Sellars (1963) made a strong case for non-atomism. Non-atomism is now generally, but not 
+universally,  accepted.  Bonjour  (1985)  discusses  why  non-atomist  must  be  accepted.  Fodor 
+(1998) argues that it must be rejected. In Kuczynski (2003, 2004), I provide non-Sellarsian argu-
+ments for non-atomism. Elsewhere (Kuczynski 2007c), I have argued that a version of Sellars’ 
+argument was given by Berkeley in A Theory of Vision and, in fact, that Berkeley’s version is su-
+perior to Sellars’.  Chapter 1.  Basic concepts 
+
+
+will disagree with this atomism, he attempts to find independent corroboration for it. 
+The merits of these attempts will be evaluated in Chapters 16–18.
+Fodor’s atomism is easily shown to be at least conditionally correct. (Here we will out-
+line an argument that we will give in full in Chapter 13.) Suppose that content-externalism 
+is correct. In that case, two people can be qualitatively identical but for the fact that one of 
+them has one concept where the other has some different concept. According to the con-
+tent-externalist, Max has a concept of R instead of a concept of R*, even though, apart from 
+that,  Max  and  Twin-Max  are  qualitatively  identical. If  all  concepts  were constitutively 
+linked with other concepts, then it wouldn’t be possible for two people to differ with re-
+spect to just one concept. So to the extent that mental content is to be understood along 
+content-externalist lines, concepts come one at a time, and not in clusters.
+A brief digression may help. Suppose that members of species X don’t have hearts. 
+In that case, it won’t be a biological possibility that members of that species are other-
+wise just like human beings. Members of that species must differ systemically from 
+people – otherwise they would be in the same health-situation as a person without a 
+heart, and would thus immediately go out of existence.
+According to the non-atomist, what we just said about hearts is true of concepts. If 
+Smith  has  the  concept  of  a  conversion-reaction  whereas  Jones  does  not,  then  Smith 
+must have other concepts that Jones does not. Jones’ acquiring the concept of a conver-
+sion-reaction involves his acquiring other concepts – e.g. the concepts of repression, of 
+a punitive super-ego, and of unconscious mental activity. The non-atomist says that any 
+acquisition of a single concept involves an acquisition of multiple concepts; and this is 
+equivalent to the view, stated a moment ago, that conceptual differences between peo-
+ple cannot be confined to a single concept. (We will develop this argument in Chapter 
+13.) As we’ve seen, content-externalism presupposes the falsity of that view.
+So given content-externalism, Fodor’s atomism follows, as does his strictly causal 
+conception of conception, as we will now see. According to the content-externalist, 
+Max has a concept of R, this being the one concept that Max has that Twin-Max lacks. 
+Max is causally connected to R, this being the one thing that distinguishes Max from 
+Twin-Max. Of course, exactly the same points mutatis mutandis hold of Twin-Max. 
+The conceptual differences between Max and Twin-Max supervene wholly on the dif-
+ferences in their causal liaisons. The fact that Max does, whereas Twin-Max does not, 
+have a concept of R is wholly a function of the fact that Max is, whereas Twin-Max is 
+not, causally connected to R in a certain way. So to the extent that the content-exter-
+nalist account of mental content is the right one, it follows that differences in concepts 
+are to be understood in strictly causal terms, and therefore that conception itself is so 
+to  be  understood.  So  given an  acceptance  of  content-externalism,  Fodor’s  atomism 
+and his strictly causal conception of conception both follow.13
+
+
+13.  This general line of thought lurks beneath the arguments found in Fodor (1990). But it is 
+not explicitly stated there. Nor, to my knowledge, is it explicitly stated anywhere in the externa-
+list (or, for the matter, the internalist) literature. 	Conceptual Atomism and the Computational Theory of Mind
+
+
+Thus, Fodor is simply being true to his own premises in accepting these two doc-
+trines. Most other content-externalists have not gone so far as to say that conception is 
+to be understood in purely causal terms or that a strictly atomistic view of concepts is 
+correct. But so far as this is the case, the systems advocated by those other content-
+externalists are not consistent ones.
+
+
+The relation of CTM to conceptual-atomism
+
+But Fodor’s primary reason for accepting conceptual atomism is not that content-ex-
+ternalism demands it. His primary reason is that he accepts CTM and, as Fodor him-
+self  cogently  argues,  the  truth  of  CTM  depends  on  that  of  atomism.  (Fodor  (1968, 
+1975) accepted CTM before content-externalism even came into existence.) In Chap-
+ters 13–22 we will argue that CTM is not viable and that the arguments for it are falla-
+cious. Let us briefly outline what we will say.
+For the sake of argument, suppose that CTM is right. In other words, suppose that  
+all thinking is “computing.” A question immediately arises: What exactly does the word 
+“compute” mean in this context?
+Right now, I could compute a sum – I could add 134 to 397. But that kind of com-
+putation obviously presupposes various cognitive faculties, and thus cannot underlie 
+all cognition.
+Fodor is aware of this, and he defines the word “computation” in a way that, he 
+believes, does not render CTM viciously circular. A computation, he says, is a “formal 
+operation on symbols” (Fodor 1987: 19). It is an operation that is causally driven by the 
+forms, not the meanings, of the symbols involved. A machine can respond to the form 
+of the expression “23+15” in such a way that it produces the right output. No thinking 
+is needed to perform a purely formal operation. Given that computing is a purely for-
+mal operation, it follows that there is no vicious circularity in supposing that thinking 
+is computing (Fodor 1981: 13–17, Fodor 1987: 18–20).
+An immediate consequence of CTM – indeed, the very essence of it – is that think-
+ing is not content-driven (Fodor 1987: 19). Of course, such a position initially strikes 
+us as very odd. I learn that Bill fell off of a tall building, and I immediately thereafter 
+form the belief that Bill is now injured or deceased. Surely my believing the proposi-
+tion Bill fell off of a tall building led, or at least might have led, to my believing the 
+proposition Bill is now injured or deceased. Thus, at least some sequences of thoughts 
+are content-driven. So supposing that we think in symbols, it is very hard to believe 
+that the semantic properties of those symbols are causally inert.
+But Fodor (1987, 1990) has produced an argument that, if cogent, shows why we 
+mustn’t put too much stock in this particular criticism of CTM. The purely formal prop-
+erties of symbols can be coordinated with their representational properties in such a way 
+that all of the relevant facts are easily explained – e.g. the fact that, if I believe that Bill 
+has seven cars, then I am likely to form the belief that Bill has a prime number of cars.  Chapter 1.  Basic concepts 
+
+
+True – this account does strip the mental per se of causal efficacy. But theories are to be 
+evaluated in terms of their degree of concordance with the relevant data, not in terms of 
+their concordance with our a priori conceptions. In this case, the relevant datum is that 
+certain kinds of thoughts are likely to follow other kinds of thoughts. It is not a datum 
+that semantics is what is causally responsible for these patterns.
+
+
+The concept of syntax: an introduction
+
+ There are a number of points to make in response to the argument just outlined. I will 
+now only outline these points, since they will be discussed at length later on.
+Supposing that a computation is understood to be a “form-driven” operation, we 
+must ask: what is meant by the term “form”? Sometimes Fodor says that what he has in 
+mind is syntactic form. So Fodor’s position becomes: a computation is a syntax-driven 
+operation. Is this claim feasible?
+Before we can answer this question, we must note that the term “syntax” is am-
+biguous: what linguists mean by it isn’t what mathematical logicians mean by it. Let us 
+now see if either disambiguation of the term “syntax” validates Fodor’s position. Ac-
+cording to a linguist, the sentences:
+
+  (*)  “John punched Fred”
+
+and
+
+  (**)  “Larry kissed Mary”
+
+have similar (or identical) syntactical structures. What does this mean? It means that they 
+have similar derivation-trees. To say that they have similar derivation-trees is to say that 
+the (complex) semantic rule that assigns meaning to the one sentence is structurally sim-
+ilar to the semantic rule that assigns meaning to the other. Those sentences are syntacti-
+cally similar because of how they are assigned their respective meanings by the semantic 
+rules of English. In general, the syntax of a sentence lies not in what it means, but in how 
+it means what it means. Syntax is meaning-how. (Semantics is meaning-what.) The con-
+cept of syntax is therefore not a meaning-innocent one.
+So supposing, as Fodor does, that thinking is an operation on expressions, syntax-
+driven  operations are  meaning-driven.  They  are  driven  by  a  sensitivity  not  to what the 
+operands mean, but to how they mean what they mean. Sensitivity to meaning-how, no 
+less than sensitivity to meaning-what, presupposes a heavy cognitive arsenal. It is therefore 
+not tenable to suppose that syntax-driven operations could be cognitively foundational.
+Let us give a different version of the argument just outlined. The term “wet” is not 
+interchangeable with the expression “the property of wetness.” After all, “one shouldn’t 
+drive on wet roads” is meaningful, whereas “one shouldn’t drive on the property of 
+wetness roads” is not. If you know only that the term “wet” denotes or expresses a cer-	Conceptual Atomism and the Computational Theory of Mind
+
+
+tain property, and do not know the syntactic properties of that expression, then you are 
+ignorant of a crucial aspect of its meaning. Syntax is thus an aspect of meaning.
+More  precisely,  syntax  is  combinatorial  semantics.  One  knows  the  syntax  of  a 
+complex expression when one knows the combinatorial semantic properties of its con-
+stituents. Equivalently, one knows the syntax of an expression when one knows how its 
+meaning is derived from those of its constituents – when, in other words, one knows 
+its derivation tree. Thus, an operation is syntax-driven iff it is driven by a sensitivity to 
+combinatorial semantics. Since such an operation can be carried out only where there 
+is already an awareness of meaning, it is not an option to hold that such operations 
+form the foundation of our cognitive lives.
+The  linguist’s  disambiguation  of  the  term  “syntax”  thus  fails  to  validate  Fodor’s 
+position. Let us now see if Fodor’s position is validated by the mathematical logician’s 
+disambiguation of that term.
+First of all, how are the two disambiguations different? Most linguists would say that
+
+  (1)  “Bob is tall or Bob is not tall”
+
+has the same syntax as
+
+  (2)  “Bob is tall and Bob is not tall.”
+
+The linguist sees “or” as being in the same syntactic category as “and.” From his stand-
+point, (1) and (2) are no more syntactically different than “Bob is tall” and “Bob is 
+short.” But the mathematical logician says that, because (2) has an “or” in the place 
+where (1) has an “and”, those sentences are in different syntactic categories. What is the 
+basis of this (apparent) disagreement?
+When a mathematical logician says that a sentence S, belonging to language L, is 
+“syntactically true”, he means that it is a theorem or consequence of the semantic rules 
+of L that S is true.14 And when a mathematical logician says that two sentences S and 
+S* have the same syntax, he means that they are interchangeable from a proof-theo-
+retic standpoint. Equivalently, S and S have the same “syntax” iff….S…is syntacti-
+                    121
+cally true iff the same is true of…S….(So, for example, if there is some sentence S 
+                        23
+such that S→S is a semantic theorem and S→S is not, then S is syntactically different 
+    13231
+from S.) It is a theorem of the rules of English semantics that (1) is true, but not that 
+2
+(2) is true. (Indeed, it is a theorem of those rules that (2) is false.) And that is why, from 
+a mathematical logician’s standpoint, S and S are syntactically different.
+                          12
+Even though the mathematical logician’s disambiguation of the term “syntax” is dif-
+ferent from the linguist’s, the former poses the same problems for Fodor’s analysis as the 
+latter. On both disambiguations, a sentence’s syntax lies in how it means what it means.
+Of course, the linguist and the logician don’t have quite the same thing in mind 
+when they think about how a sentence is assigned the meaning that it has. The latter is 
+
+
+14.  We will defend this claim in Chapter 13. It is anticipated by Carnap (1937, 1956) and Gödel 
+(1953). Chapter 1.  Basic concepts 
+
+
+concerned  with  non-psychological  notions  such  as  provability;  the  former  is  con-
+cerned with psychological notions such as comprehension and learnability. But in both 
+cases, a sentence’s syntax lies in a relationship that holds between the semantic rules of 
+the relevant language and the sentence’s meaning. So given either disambiguation of 
+the term “syntax”, syntax-driven operations are meaning-driven. This immediately en-
+tails that Fodor’s position is a non-starter
+
+
+Indexicality and the impossibility of a syntactic characterization of logical form
+
+There is an entirely different reason why CTM is in trouble if “form” is identified with 
+syntax. For CTM to work, it must be possible to coordinate syntax with semantics. But 
+there is no disambiguation of the term “syntax” that makes such a coordination pos-
+sible. A linguist would say that:
+
+  (^)  “Smith is ill because Smith doesn’t smoke.”
+
+has the same syntax as
+
+  (^^)  “Smith is ill and Smith doesn’t smoke.”
+
+Given  this  sense  of  the  word  “syntax”,  if  some  syntax-driven  entity  accepts  each  of 
+“Smith is ill” and “Smith doesn’t smoke”, it is just as likely to transition to (^) as it is to 
+transition to (^^). But this clearly doesn’t correspond to the transitions that a rational 
+person would make. So the linguist’s definition of “syntax” fails to validate the idea that 
+thinking consists in syntax-driven operations.
+According to the mathematical logician, (^) and (^^) do have different syntactic 
+structures. Indeed, from the mathematical logician’s viewpoint, the “syntax” of a sen-
+tence is by definition identical with its logical form. So it would seem that this disam-
+biguation of the term “syntax” would validate Fodor’s analysis.
+But this is not so. Relative to this reading of the term “syntax”, syntax tracks logical 
+form only if the language in question satisfies conditions that would make that lan-
+guage useless in the way of mediating rational thought. In that sense of the word “syn-
+tax”, an utterance of “that [accompanied by an ostension of Smith] is identical with 
+that [accompanied by an ostension of Jones]” has the same syntax as an utterance of 
+“that [accompanied by an ostension of Smith] is identical with that [accompanied by 
+another ostension of Smith].” So a purely syntax-driven entity wouldn’t be capable of 
+registering the profound logical differences between these two utterances. Since it is 
+obvious that human beings can do so, it follows that, in this sense of the word “syntax”, 
+we aren’t syntax-driven entities (Kuczynski 2006b).
+What we just said about “that” is true of “here”, “now”, “this”, “over there”, and any 
+other context-sensitive expression. Syntax can be coordinated with logical form only 
+where there is no context-sensitivity. So supposing that we think in a language whose 	Conceptual Atomism and the Computational Theory of Mind
+
+
+syntactic structures are coordinated with their logical forms, it follows that those sen-
+tences have no context-sensitive component and, consequently, that one isn’t capable of 
+thinking things like it is now 3:00 p.m. or that guy is Jones. Since we obviously do have 
+such thoughts, our thoughts are not mediated by a language of the kind just described.
+
+
+Syntax as morphology
+
+Sometimes when Fodor talks about sentential “form”, he is referring to the property of 
+having a certain shape. He is referring to form in a purely geometrical sense (Fodor 
+1987: 18–20).
+But this disambiguation of the word “form” doesn’t validate the contention that 
+thought  is  syntax-driven  or,  therefore,  that  it  is  meaningfully  described  as 
+computational. Syntax is not morphology. Syntax doesn’t supervene on morphology. 
+Syntax is no more capable than semantics of being coordinated with morphology. (We 
+will argue for these claims in Chapter 14.) So in direct opposition to what Fodor holds, 
+thought is not syntax-driven, and is therefore not computational, to the extent that it 
+is morphology-driven.
+To be sure, there is a long tradition of identifying syntax with morphology. But 
+that tradition is mistaken, and it involves erroneous views as to the meanings of ex-
+pressions such as “syntax”, “algorithm”, “mechanical procedure”, and “formal truth.” It 
+might be appropriate to outline what we will say in defense of these claims. Given two 
+sentence-tokens that have the same syntax, there is no limit to how different they can 
+be in respect of morphology. And given two sentence-tokens that have the same mor-
+phology, there is no limit to how different they can be in respect of syntax. So syntax 
+isn’t  morphology,  and  it  isn’t  realized  by  morphology.  It  is  true  that,  within  narrow 
+contexts, a “morphological characterization” of syntax is possible, making it appear as 
+though morphology-driven processes are syntax-driven. But this appearance is mis-
+leading. To say that there is a “morphological characterization” syntax is to say that 
+there is a function that assigns syntactic structures to symbol-tokens on the basis of 
+their shapes. Given this, it is clear why, even in a context where a morphological char-
+acterization of syntax is possible, no process can possibly be syntax-driven in virtue of 
+its being morphology-driven. Suppose that, in possible world W, all round wheels are 
+red and all square wheels are green. In W, a vehicle with red wheels would ceteris pari-
+bus function better than a vehicle with green wheels; and we could say that, in W, there 
+is a “chromatic characterization” of what it is to be a good wheel. But the red wheels 
+aren’t good because they are red – they are good because they are round. Similarly even 
+if all and only those expressions having a certain shape have a certain syntax, they don’t 
+have  that  shape because  they  have  that  syntax.  A  corollary  is  that,  even  in  contexts 
+where morphology tracks syntax, it doesn’t do so because morphology is (or realizes) 
+syntax.  Thus,  morphology-driven  processes  are  no  more  syntax-driven  than,  in  W, 
+instances of successful transportation are color-driven. Chapter 1.  Basic concepts 
+
+
+The idea that formal (morphology-driven) processes are also formal (syntax-driv-
+en) involves a failure to see that the term “form” is ambiguous between two totally dif-
+ferent meanings. The terms “mechanical procedure”, “algorithm”, and “formal truth” are 
+comparably ambiguous and are used in a comparably equivocal manner by CTM. Once 
+these equivocations are exposed, that doctrine loses its intuitive appeal and the argu-
+ments for it crumble.
+
+
+The root-problem with CTM and content-externalism
+
+But there is a problem with CTM, and also with content-externalism, more fundamen-
+tal  than  any  thus  far  mentioned.  It  is  states  of  affairs,  not  objects,  that  make  things 
+happen. It is not the rock that breaks the window – it is the rock’s colliding with the 
+window. In light of this point, suppose  that brain-state B realizes a condition of believ-
+ing that Socrates was bald. There is no doubt that B has causal properties: it has a cer-
+tain shape and a certain mass; it consists of particles with certain charges; and so forth. 
+But , for the reasons given earlier, B’s encoding the proposition that Socrates was bald 
+is causally inert, at least so far as content is to be understood along externalist lines, 
+and B’s having that content thus becomes as explanatorily idle  as its having the prop-
+erty of being a thing x such that x is either a circle or not a circle (Jackson and Pettit 
+2004: 46–48, Kuczynski 2006c).
+It  follows  that  content-externalism  threatens  the  very existence of  mental  content. 
+Where the occupants of the spatiotemporal are concerned, existence and causal potency are 
+indistinguishable. Fodor (1968) himself makes this point very clearly,15 and so does Jaegwon 
+Kim (1993: 348). A state of affairs that has no causal powers is no state of affairs at all. Since 
+content-externalism strips mental content of causal powers, it denies its existence.
+John McDowell argues that content-externalism is compatible with the causal ef-
+ficacy of the mental.16 But McDowell’s argument is a straightforward non-starter, as we 
+will see in a moment.
+Fodor sees clearly that, if content-externalism is right, no brain-state has causal 
+powers in virtue of its representational properties; i.e. he sees that content-externalism 
+strips content of causal efficacy. (That is why, in his view, it is the “syntactic structures” 
+of brain-states, not their semantic (representational) properties, that do all the causal 
+work.) But Fodor seems not to see that this jeopardizes the very existence of represen-
+tational, and therefore mental, properties.
+Like McDowell, Frank Jackson and Philip Pettit hold that content-externalism is 
+consistent with the causal potency of the mental (Jackson and Pettit 2004–2004c). But 
+their argument is very different from McDowell’s, and has considerably more merit. 
+
+15.  Of course, spatiotemporal points and lines, and so forth, lack causal powers. But they are 
+not occupants of space-time. Rather, they are sets of space-time coordinates.
+
+16.  See McDowell’s commentary in Evans (1982: 203-204).	Conceptual Atomism and the Computational Theory of Mind
+
+
+Their argument is based on a distinction between what they call “program-causality” 
+and “efficient-causality.” They argue that content-externalism allows representational 
+states of affairs (e.g. a brain-state’s being a belief that Plato was wise) to be program-
+causes, even though it doesn’t allow them to be efficient-causes.
+I believe that the Jackson-Pettit analysis of causality is accurate and that the dis-
+tinction  between  program-causality  and  efficient-causality  is  of  the  highest  impor-
+tance. But their worthy analysis of causality does not show that content-externalism is 
+compatible  with  the  presumption  representational  states  of  affairs  have any causal 
+properties: it no more allows mental states to be program-causes than it allows them to 
+be efficient causes. This will be shown in Chapter 12.
+
+
+Thee key distinctions
+
+In this work, it will be argued that, so far as content-externalism appears plausible, that 
+is because we are failing to make the following three distinctions:
+
+  (1)  The  distinction  between  what  is  literally  meant  by  our  expressions  and  the 
+  information  that  is  imparted  to  us in  the  process  of  computing  their  literal 
+  meanings.
+
+  (2)  The distinction between content and truth-maker.
+
+  (3)  The distinction between perceptual and meta-perceptual data (between what 
+  is encoded in our perceptions, taken by themselves, and what we infer from 
+  our perceptions).
+
+Since much of Part I will be spent delineating (1)-(3), I will now only give an outline of 
+what they mean. For the sake of argument, suppose that, as Kaplan (1989) holds, de-
+monstrative expressions are “directly referential.” In that case, the proposition literally 
+meant by a token of:
+
+  (A)  “that  overbearing  and  generally  unsavory  man  standing  over  there  next  to 
+  that atrocious painting is a professor of anthropology”
+
+is simply:
+
+  (B)  x is a professor of anthropology,
+
+for some value of x. But obviously what is communicated by a token of (A) will not be 
+so threadbare. What is communicated is (inter alia) that somebody is overbearing and 
+generally unsavory and is also standing next to some atrocious painting. Thus, what is 
+communicated by a token of (A) will involve concepts like painting, overbearing, unsa-
+vory that are quite absent from (B). How is this to be reconciled with Kaplan’s thesis 
+that (B) is the literal meaning of (A)? Chapter 1.  Basic concepts 
+
+
+There is no problem. We need only take into account the fact that people typically 
+understand the expressions that they encounter on the basis of their knowledge of the 
+semantic rules that assign them meaning. The semantic rule for the demonstrative ex-
+pression “that overbearing and generally unsavory man standing over there next to 
+that atrocious painting” is:
+
+  (C)  For any context C, and any predicate phi, if somebody x in C is uniquely a 
+  salient overbearing and generally unsavory man standing next to a uniquely 
+  salient painting, then a token in C of Fthat overbearing and generally unsa-
+  vory man standing over there next to that atrocious painting has phiG means: 
+  x has phi.
+
+The rule for (A) specifically is:
+
+  (D)  For any context C, if somebody x in C is uniquely a salient overbearing and 
+  generally unsavory man standing next to a uniquely salient painting, then a 
+  token in C of “that overbearing and generally unsavory man standing over 
+  there next to that atrocious painting is a professor of anthropology” means: x 
+  is a professor of anthropology.
+
+When one hears a token of (A), one has to work through (D). Anyone who knows (D) 
+will know that an utterance of (A) will not be true unless, in the context of utterance, 
+somebody x is a uniquely salient overbearing and generally unsavory man standing 
+next to a uniquely salient atrocious painting and, moreover, x is a professor of anthro-
+pology. So even though what a token of (A) literally means is (B), and thus doesn’t in-
+volve the concepts of being unsavory or overbearing, what such a token communicates 
+to someone does concern these very concepts. Because of the information that one 
+must work through in order to assign the right proposition to a token of (A), what such 
+a token communicates is very different from what it literally means.
+I will refer to information conveyed in this way as “pre-semantic implicature.” We 
+will find that what we just said about tokens of (A) is true, to some degree or other, of 
+all sentences. In connection with this, we will find that pre-semantic implicatures are 
+exponentially more powerful than the post-semantic implicatures studied by Grice.
+Let us now briefly say what is meant by (2) and (3). Consider the sentence:
+
+  (S)  “Somebody invented bifocals.”
+
+This sentence is true because Benjamin Franklin invented bifocals. So Franklin’s in-
+venting bifocals is the truth-maker of (S). But the meaning of (S) obviously isn’t: Frank-
+lin invented bifocals. After all, even though it is false, “somebody invented bifocals, but 
+Franklin did not do so” is not self-contradictory.17 What we just said about sentences is 
+true of perceptions and thoughts. When I look at an ice-cube, what makes my percep-
+tion veridical is that there are various HO-molecules in a certain configuration in a 
+                          2
+
+17.  I am borrowing an argument given by Russell (1919: 165).	Conceptual Atomism and the Computational Theory of Mind
+
+
+certain region of space-time. So the truth-maker of my perception is given by some 
+proposition having the form: in region R, there are various molecules consisting of hy-
+drogen and oxygen atoms, and those molecules are interrelated in such and such a man-
+ner. But what my perception tells me isn’t given by such a proposition. So the content of 
+my perception doesn’t involve the concepts molecule, oxygen, or hydrogen. 
+Distinction  (3)  is  easily  understood  in  terms  of  these  points.  Given  my  sense-
+perception, along with my knowledge of chemistry, I can infer that there are various 
+molecules of a certain kind in front of me. But, as we just saw, the concepts molecule, 
+oxygen, and so on, are no part of the content of my perception. We mustn’t confuse 
+what, given one’s background knowledge, one can infer from a given perception with 
+what  that  perception  itself  tells  one;  we  mustn’t  confuse  perceptual  data  with  post-
+perceptual meta-data.
+In his landmark work the Varieties of Reference, Gareth Evans put forth deep and 
+original  analyses  of  conception,  semantic  content,  and  the  relationship  between  the 
+two. I believe that, by combining Evans’ insights with (1)-(3), we are able to produce 
+models of both semantic and cognitive content that satisfy two important requirements. 
+First, those models enable us to hold onto all of the pre-theoretic intuitions that are 
+prima facie inconsistent with consent-externalism. For example, those models enable 
+us  to  hold  onto  our  intuition  that,  in  at  least  some  cases,  our  beliefs  about  our  own 
+minds are characterized by a kind of certainty and incorrigibility that could not possi-
+bly characterize our beliefs about the external world. (As we will see, content-external-
+ism cannot accommodate this datum.) Second, those models enable us to account for 
+the important fact, stressed (but misunderstood) by content-externalism, that our con-
+cepts of spatiotemporal objects have an ineliminable causal component.
+ Evans’ notion of a “cognitive map” is going to play a crucial role in our analysis of 
+conception. We will also find important applications for Evans’ distinction between 
+“conceptual” and “non-conceptual” content. Evans’ idea of a de re sense (Evans 1985: 
+Chapter 10) – which came to have an important place in McDowell’s work (McDowell 
+1998: Chapters 10–13) – will also be discussed at length. We will find that it is an inco-
+herent synthesis of a number of deep insights.
+
+
+McDowell on mental causality
+
+We will end this chapter by substantiating a point made earlier. As previously noted, 
+John  McDowell  holds  that  content-externalism is  consistent  with  the  fact  that  the 
+mental is causally efficacious. McDowell’s position can be understood in terms of the 
+following story. Let w* be a world that is just like ours except that w* contains XYZ, 
+instead of HO. Let Smith be a person in our world, and let Smith* be Smith’s doppel-
+    2
+ganger in w*. In our world, Smith’s perception of a certain glass of HO causes him to 
+                                                  2
+reach for that glass. In w*, Smith*’s perception of a certain glass of XYZ causes him to 
+reach for that glass. Chapter 1.  Basic concepts 
+
+
+Here is what McDowell says about this situation. Smith’s perception has a different 
+content from Smith*’s. There is some glass x such that the content of Smith’s perception 
+does, whereas the content of Smith*’s perception does not, have x has a constituent. And 
+there is some glass y such that the content of Smith*’s perception does, whereas the con-
+tent of Smith’s perception does not, have y has a constituent. Further, there is some natu-
+ral kind N – namely, HO – such that the content of Smith’s perception does, whereas the 
+            2
+content of Smith*’s perception does not, have N has a constituent. Finally, there is some 
+natural  kind  N*  –  namely,  XYZ  –  such  that  the  content  of  Smith*’s  perception  does, 
+whereas the content of Smith*’s perception does not, have N* has a constituent.
+(Before we continue, we should note that we’ve already seen some reason to believe 
+that the contentions just stated are wrong, as they involve a conception of perceptual 
+content that is rendered incoherent by its failure to recognize some key distinctions – 
+in particular, the distinction between data and meta-data, between literal and cogni-
+tive  meaning,  and  between  content  and  truth-maker.  But  let  us  leave  that  aside  for 
+now, and continue with our exposition of McDowell’s analysis.)
+According to McDowell, it is obvious why content-externalism is consistent with 
+the fact that the mental has causal powers. In virtue of having glass x, as opposed to 
+glass y, for its content, Smith’s perception has causal powers not had by Smith*’s per-
+ception. Smith’s perception does, whereas Smith*’s perception does not, cause some-
+body to reach for glass x. And in virtue of having glass y, as opposed to glass x, for its 
+content, Smith*’s perception has causal powers not had by Smith’s perception. Smith*’s 
+perception does, whereas Smith’s perception does not, cause somebody to reach for 
+glass y. Similar remarks explain why, in virtue of having HO, as opposed to XYZ, for 
+                                          2
+part of their contents, Smith’s post-perceptual mental states (e.g. his intention not to 
+make loud slurping noises when drinking the contents of the glass in question) have 
+causal powers not had by Smith*’s post-perceptual mental states. 
+But contrary to what McDowell says, the scenario just described is consistent with 
+the view that the causal properties of Smith’s perception and post-perceptual states are 
+identical with those of Smith*’s corresponding states. Magnet A is attracted to magnet 
+B. Magnet B happens to be green. But ceteris paribus if B were red or purple or orange, 
+A would still be attracted to it. It is true that, because B is green, A is behaving in a way 
+that it would not behave if B were some other color. (A is drawn towards a green mag-
+net, instead of a red one.) But it doesn’t follow that B’s color has anything to do with A’s 
+behavior. A’s behavior wouldn’t ceteris paribus be different in a world where B were 
+some other color. In other words, A’s behavior wouldn’t be relevantly different. This 
+shows that B’s being green has no effect on what A does, notwithstanding that, because 
+B  is  green,  A  is  doing  something  (namely  moving  towards  a  green  magnet)  that  it 
+wouldn’t be doing if B were red.
+Similarly, given only that Smith’s behavior is caused by HO, as opposed XYZ, it 
+                                            2
+doesn’t follow that the glass’s containing HO has any effect on Smith’s behavior and 
+                            2
+mentation that the glass’s containing XYZ would not have had.	Conceptual Atomism and the Computational Theory of Mind
+
+
+And it is easily shown that, indeed, Smith and Smith* coincide in respect of their 
+causal properties. Let C…C be Smith’s causal properties. Given that Smith has those 
+              1n
+properties, it follows that he will act just like Smith* if he is embedded in a situation 
+exactly like the one in which, in the scenario described a moment ago, Smith* is em-
+bedded. The same thing mutatis mutandis is true of Smith*. It would therefore be ab-
+surd to conclude from the differences between Smith’s behavior and Smith*’s behavior 
+(viz. that Smith reaches for a glass of HO whereas Smith* reaches for a glass of XYZ) 
+                          2
+that they have different causal powers.
+This argument is basically identical with one given by Fodor (1987b). Let S be the 
+situation described by McDowell. Now suppose that Smith and Smith* switch places, 
+but that otherwise w* and our world remain the same. Let S* be the situation that results. 
+Obviously Smith and Smith* are going to act differently given that they are confronted 
+with numerically different objects. But that doesn’t mean that one of them is causally 
+different from the other. Two individuals are causally different just in case, were they to 
+switch places but all other factors were held constant, they would act differently from how 
+they in fact act. Smith and Smith* don’t satisfy this condition. Nor, for exactly similar 
+reasons, do any two individuals who differ only in respect of how their current condi-
+tions originated. It follows that mental content is without causal powers to the extent 
+that it is to be understood along content-externalist lines. And from this it follows that 
+content-externalism strips mental content of causal potency and thus of existence itself.
+An object’s causal properties are to be understood not strictly in terms of its behav-
+ior in actual circumstances, but in terms of those aspects of its behavior that are invari-
+ant with respect to counterfactual changes in those circumstances (Fodor 1987b). Mc-
+Dowell’s argument involves a failure to appreciate this fact, and that is why it crumbles.
+McDowell’s analysis also involves a failure to distinguish causal properties from 
+instances of such properties. On Monday, Jones beats Aaronson in a boxing match. On 
+Tuesday, Jones beats Brown in a boxing match. Jones uses the very same boxing tech-
+niques  on  both  days.  So  Jones’  boxing  capabilities  are  instantiated  on  Monday,  and 
+those same capabilities are instantiated again on Tuesday. Of course, what Jones is do-
+ing on Monday is different from what he is doing on Tuesday: on Monday, he is defeat-
+ing Aaronson; on Tuesday he is defeating Brown. But this is because some one set of 
+causal powers is instantiated in two different contexts.
+Smith’s causal properties are instantiated in one context, and Smith*’s causal prop-
+erties are instantiated in a qualitatively different context. But it obviously doesn’t follow 
+that the properties being instantiated are different. Each of Smith and Smith* is behav-
+ing in exactly the way in which, were the two to switch places (but everything else was 
+held constant), the other would behave. This is consistent with their being identical in 
+respect of their causal properties. So if, as the content-externalist alleges, Smith and 
+Smith* differ in respect of the contents of their mental states, those differences have no 
+causal  significance.  Once  causal  properties  are  distinguished  from  their  instances, 
+there ceases to be any temptation to say that Smith and Smith* are causally different. Chapter 1.  Basic concepts 
+
+
+Content-externalism is the view two individuals may have different mental con-
+tents even though, leaving aside facts about the origins of their conditions, those indi-
+viduals are qualitatively identical. But we’ve seen that those alleged differences in men-
+tal content are causally inert. In other words, there are no differences in causal properties 
+without differences in intrinsic properties. (How a given set of causal properties is ex-
+pressed is a function of what is in the environment of the individual whose properties 
+we are considering. But that is irrelevant, as we have seen.) Mental properties are not 
+Cambridge properties; instance of them are not causally inert or explanatorily trivial. If 
+they are anything at all, mental properties are causal properties. So a difference in men-
+tal properties must mean a difference in causal properties.18 If Smith’s mental content 
+really is different from Smith*’s, then Smith’s thoughts must be causally different from 
+Smith*’s. The supposed differences between Smith and Smith* turn out to be causally 
+inert, and this means that those differences don’t exist.
+Let us sum up. Differences in mental content are causally inert, and therefore non-
+existent,  so  far  as  they  are  to  be  understood  along  externalist  lines.  A  corollary  is  that 
+content-externalism is inconsistent not only with the causal potency of the mental, but 
+with its very existence.
+Stephen Stich (1978, 1983) sees that content-externalism is inconsistent with the 
+presumption  that  instances  of  representational  properties  can  do  any  causal  or  ex-
+planatory work. (As Stich puts it, content-externalism is inconsistent with the “auton-
+omy of the mental.”) At the same time, Stich takes it for granted that content-external-
+ism  provides  a  correct  analysis  of  the  concept  of  representational  content.  On  this 
+basis, Stich holds that we must reject the idea that our mental states are to be under-
+stood in terms of the concept of representation or in terms of any concepts that involve 
+that concept (e.g. the concepts of belief, hope, doubt, desire, and so on). Stich con-
+cludes that “folk-psychology” in its entirety must be thrown out and replaced with an 
+entirely different kind of psychology.
+Stich is right to say that content-externalism strips representational properties of 
+any causal or explanatory significance. But Stich is guilty of a major non-sequitur in 
+inferring from this that folk-psychology must be jettisoned. For, as we will see, folk-
+psychology is easily reconciled with content-internalism and thus with the fact that 
+psychological properties are causally and explanatorily important.
+
+
+
+
+
+
+
+
+
+18.  See Kim (1993: 339-367).  chapter 2 
+
+
+                                                          1
+  The predicative nature of sense-perception
+
+
+
+Let us begin by considering a statement made by Jon Barwise (1989: 26):
+
+  When I look around I cannot see a single thing-it-itself, some sort of ideal physi-
+  cal object stripped of its properties and its relations with other objects. What I do 
+  see is a scene, a complex of objects having properties and bearing relations to one 
+  another. The properties and relations are every bit as important to what I see as the 
+  idealized thing-in-itself. In fact, what really counts is the whole complex of ob-
+      jects-having-properties-and-bearing-relations which constitutes the scene.
+
+One sees states of affairs. One does not see objects simpliciter. This must be understood 
+aright. Obviously one does see objects. That is a datum. But one sees objects by seeing 
+the states of affairs in which they are embedded. You don’t just see Fido. You see an 
+object with certain properties (e.g. it has beige fur and a certain number of legs) in a 
+certain location. That location is, in its turn, visually represented to you in relational 
+terms. Your seeing a given place consists in your being given visual information that 
+describes  that  place.  Your  seeing  the  place  occupied  by  Fido  consists  in  your  being 
+visually told that there is a place L such that Toonces the cat is next to L and such that 
+L is underneath the piano, and so on.
+Everything that we just said about Fido is true mutatis mutandis of each of the 
+objects  in  terms  of  which  Fido  is  visually  represented  to  you.  One  doesn’t  just  see 
+Toonces.  One  sees an object  with  certain  morphological,  chromatic,  and  kinematic 
+properties. One sees a four-legged creature with black with white spots, moving about 
+in such and such a manner.
+Before drawing what I believe to be some of the consequences of these points, I 
+would like to make a distinction. Barwise rightly says that you don’t ever see a bare 
+thing-in-itself: whenever something is given to you in visual perception, it is given to 
+you as having various properties and standing various relations vis-à-vis other objects. 
+But there are two ways to interpret this point. We can take it to mean:
+
+  (*)  You see a bare thing-in-itself plus various instances of various properties and 
+  relations.
+
+
+
+
+1.  Stroud (2001) describes sense-perception as “predicative.” I am using this term in the same 
+way as Stroud.   	Conceptual Atomism and the Computational Theory of Mind
+
+
+Or we can take it to mean:
+
+  (**)  You don’t see a bare thing-in-itself at all. Your seeing a given thing consists in 
+  instances of various properties and relations being given to you. It does not 
+  consist in your seeing some bare thing which is, so to speak, surrounded by 
+  various instances of properties and relations.
+
+(*) and (**) are inconsistent with each other. If there is any possibility of a thing’s being 
+visually represented to one as a bare particular – even as a bare particular that happens 
+to be surrounded, so to speak, by various instances of properties and relations – then 
+it is ipso facto false to say that things must be represented as being propertied and inter-
+related. So if (*) is right, then (**) is false. Given that sense-perception is necessarily 
+predicational, it follows that there is no prospect of a thing’s being visually represented 
+as a bare particular and that (**) is therefore the right thesis. In perception you are not 
+given  a  bare  particular  alongside instances  of  properties  and  relations.  You  are  just 
+given those instances.
+Sense-perceived particulars are represented to you in terms of instances of proper-
+ties and relations. When you see Fido, the content of your visual perception (so far as 
+it can be put into words) is not given by a noun (“Fido”), but by a sentence (“at this 
+point in time there is, in a certain place, a creature that has four legs and beige fur…”). 
+For you to see Fido is for Fido to be described to you. Perception is description.
+Here an anticipation is in order. Later we will find that the content of a perception 
+is not a proposition, even though the content of any perception can, at least up to a 
+point,  be  given  by  a  proposition.  But  this  doesn’t  affect  the  substance  of  our  points 
+about perception. The information encoded in any sense-perception is descriptive and 
+existential in nature. The content of that perception is given by information that af-
+firms  the  existence  of  situations  satisfying  certain  conditions  and  that,  in  so  doing, 
+describes objects. A consequence is that, so far as that information can be verbalized, 
+it  is  given  by  existence-claims  (“there  is  a  four-legged  animal  with  beige  fur,  sitting 
+underneath the piano…”), and not by mere nouns (“Fido”). We will often refer speak 
+of  this  information  as  consisting  in  “propositions.”  But  this  is  simply  an  expository 
+device – the word “information” can always be substituted for “proposition”, provided 
+the needed grammatical changes are made – and it mustn’t be supposed that we are 
+taking it for granted that perceptual content is propositional in nature. On the con-
+trary, we will later go to great lengths (Chapters 22–23) to show that it is not, this being 
+one of the reasons why SCT crumbles.
+
+
+Some consequences of the predicative nature of sense-perception
+
+We’ve seen that perception is description – that a perception of an object gives one a 
+description of that object. This fact, taken in conjunction with a platitude of semantics, 
+has far reaching consequences as to the nature of representational content. That se- Chapter 2.  The predicative nature of sense-perception 
+
+
+mantic platitude is this: expression-types must be distinguished from expression-to-
+kens. The expression-type “I” doesn’t refer to anyone; but any given token of it does 
+refer (to the person who produced it). The expression-type “I am tired” isn’t true or 
+false, but particular tokens of it are.
+Given these points, consider the following semantic rule:
+
+  (S)  Tokens of “Smith” refer directly to Smith. In other words, there is some object 
+  x such that x is identical with Smith and such that, in virtue of having the form  
+  FSmith has phiG, a sentence-token is true exactly if x has phi, it being irrelevant 
+  what other properties x might have.
+
+At the moment, we may set aside the question whether natural languages in fact contain se-
+mantic rules like (S). (Our discussion of (S) will itself help us settle that empirical question.)
+The import of (S) is this. Tokens of “Smith” are not “connotative” or “descriptive.” For 
+a token of “Smith is tall” to be true, it is necessary and sufficient that Smith be tall; and it 
+is irrelevant whether Smith has any properties other than that of being tall. Put more 
+formally, there is some individual x such that x is identical with Smith and such that a 
+token t of “Smith is tall” is true iff x is tall, it being entirely irrelevant what other proper-
+ties x may or may not have. So, for some x such that x is identical with Smith, a token of 
+“Smith is tall” has for its literal meaning the singular proposition x is tall.
+But we must distinguish (S) itself from one’s knowledge of (S). First of all, (S) is a 
+primitive  semantic  rule,  i.e.  it  is  a  rule  that  assigns  meaning  to  an  expression  that 
+doesn’t decompose into other expressions. It must therefore be assumed that people 
+know (S). There can be unknown derived semantic rules. There are semantic rules of 
+English that assign meaning to sentences that are 27,000 words long. Nobody knows 
+those rules. But matters are different with primitive semantic rules. If nobody knew 
+that “red” meant red, then “red” wouldn’t mean red. An unknown primitive semantic 
+rule is no semantic rule. (Astonishingly, some philosophers, e.g. Soames 2001, have 
+denied that any semantic rules, whether primitive or derived, need be known. In the 
+course of this book, we will see many reasons to reject this view, and we will identify 
+the  fallacies  in  the  arguments  of  those  who  have  thought  otherwise.)  No  unknown 
+semantic rule can assign meaning to any sentence that people understand or to any 
+part of any sentence that people understand. People therefore know (S), given that they 
+understand sentences of the form form F…Smith…G Considering how fundamental a 
+knowledge of semantic rules is to communication, it is not unreasonable to expect that 
+a high-resolution understanding of this knowledge will shed light on the relationship 
+between literal and communicated meaning – between semantics and pragmatics.
+Such high-resolution knowledge is not hard to obtain. We need only answer a very 
+basic question: How does one learn (S)? There are a few of different ways, and we will 
+soon discuss all of them. But right now we may focus on the most fundamental one.	Conceptual Atomism and the Computational Theory of Mind
+
+
+Smith is right in front of you. Your companion points to him and says “that guy – 
+the one picking up a tennisball – is Smith.” Here there is some x such that the semantic 
+rule that you are learning is simply this:
+
+  “Smith” refers to x [or, more precisely, tokens of “Smith” refer to x].
+
+Now that you know (S), you can understand and meaningfully produce sentences of 
+the form F…Smith…G Your knowledge of (S) is thus implicated in your being able to 
+understand and intelligently use expressions of that form. (By an “intelligent” use of an 
+expression I mean one that embodies an understanding of what it means. People do, 
+whereas parrots do not, intelligently say “it’s cold out today.”)
+But here we come to a crucial point. In order for you to know (S), you have to be 
+able to affix that label to the right person, and you thus have to know who Smith is, at 
+least on one delineation of that expression. Of course, you do know who Smith is, and 
+you do know whom the word “Smith” labels. You know this on the basis of the osten-
+sive  definition  discussed  in  the  last  paragraph:  you  saw  Smith,  and  were  told  that 
+“Smith” labels him. But what was the content of the visual experience through which 
+Smith was represented to you?
+For reasons that we discussed a little while ago, you didn’t just see Smith. You didn’t 
+see a “bare thing in itself.” Of course, you did see Smith. But what was visually repre-
+sented to you, in your seeing him, was not a bare thing-in-itself, but was rather an object 
+having a certain morphology (e.g. it had a certain number of limbs), certain kinematic 
+properties (e.g. it was picking up a tennis-ball), certain spatiotemporal properties (e.g. it 
+was next to a certain water-fountain near a certain tennis-court in a certain park…).
+So  even  though  (S)  itself  is  descriptively  threadbare,  the  information  through 
+which (S) was made known to you was replete with descriptive content. Consequently, 
+you  must  access  (S) through such  information.  Semantically,  “Smith”  simply  labels 
+Smith.  But  you grasp (S)  by  having  a  mental  state  whose  content  is  given  by  some 
+proposition of the form:
+
+  (#)  there is an individual x such that x had such and such morphological, spatio-
+  temporal, kinematic…properties, and such that I saw x on such and such an 
+  occasion, and such that “Smith” labels x.
+
+As (#) indicates, you know that, for some x, “Smith” is a mere label of x. But given the 
+truth of (#), it follows that there is no x such that what a token of “Smith is tall” conveys 
+to you is confined to the bare proposition x is tall. What follows, in fact, is that what 
+such a token conveys to you has the form:
+
+  (##)  there is an individual x such that x had such and such morphological, spatio-
+  temporal, kinematic…properties, and such that I saw x on such and such oc-
+  casion, and such that “Smith” labels x; moreover, x is tall.
+
+Let us put all these points together. For some individual x, what is literally meant by a 
+token of “Smith is tall” is the bare proposition x is tall. But because of how you up- Chapter 2.  The predicative nature of sense-perception 
+
+
+loaded the relevant semantic rules, what such a token conveys to you is at least ap-
+proximately like (##).
+
+
+Why this analysis is consistent with our modal intuitions
+
+For the sake of argument, suppose that, as I am proposing, (##) is what is communicated 
+to you by tokens of “Smith is tall.” That is consistent with the fact that you know that 
+Smith – the person who in fact is named “Smith” – might not have had the properties in 
+terms of which he was initially given to you and in terms of which you therefore think 
+about him. He might not have been picking up a tennis ball at the relevant time. He 
+might never have been in that park. He might not have been named “Smith.”
+For some object x, both (#) and (##) are consistent with the fact that “Smith” is a 
+mere label of x. Notice that, in both cases, the occurrence of the word “labels” is well to 
+the  right  of  all  the  descriptive  information  regarding  the  circumstances  relating  to 
+your first seeing Smith. Those propositions are to the effect that there is some x who in 
+fact has these various properties, and that “Smith” labels x. Both of those propositions 
+are consistent with the idea that x – the one who in fact is picking up a certain tennis 
+ball in a certain park – might never have picked up a tennis ball or been to a park in his 
+life. Further, your knowing this last fact is consistent with the fact that you access (S) 
+through (#) and also with the fact that you access the meaning of a token of “Smith is 
+tall” through (##).
+
+
+Mental content not object-involving
+
+Let us extend these points by telling a story. In terms of appearance, Mary and Twin-
+Mary are completely indistinguishable. (Here we are supposing that Mary and Twin-
+Mary are actual twins, and thus live in the same world.) Thus, to know that you were 
+in the presence of the one as opposed to the other, you would either have to converse 
+with her or study her behavior for an extended period of time. You are acquainted with 
+both of them and thus have concepts of both. One day you see someone whom you 
+know to be either Mary or Twin-Mary. There is, of course, nothing in your visual per-
+ception that tells you whether you are seeing the one as opposed to the other. But, let 
+us suppose, the person you are seeing is in fact Mar y.
+Here  the  content-externalist  takes  a  bold  position.  He  says  that  Mary  herself  is 
+part of the content of your visual perception (Burge 1982, McGinn 1986, Kaplan 1989). 
+Given  this,  suppose  that,  holding  everything  else  constant,  it  had  been Twin-Mary 
+whom  you  were  seeing.  In  that  case,  says  the  content-externalist,  your  perception 
+would have had a different content.	Conceptual Atomism and the Computational Theory of Mind
+
+
+Let us begin by articulating the reasoning behind the content-externalist’s posi-
+tion. Suppose that you see Mary (as opposed to Twin-Mary) sipping tea from a porce-
+lain cup. Let V be this perception. V is veridical exactly if Mary has the relevant prop-
+erties (i.e. exactly if Mary is sipping tea from a porcelain teacup …), it being irrelevant 
+what Twin-Mary or any other Mary look-alike is doing. Since pieces of information are 
+individuated by their truth-conditions, it follows that any visual perception with dif-
+ferent truth-conditions wouldn’t encode the same information as V, even if the two 
+sense-perceptions were otherwise identical. It also follows that there is no perception 
+with the same content as V in any possible world where Mary doesn’t exist. Since men-
+tal  states  are  individuated  by  their  contents,  it  follows  that  V  exists  only  in  worlds 
+where Mary exists. Thus, the relationship between V and Mary is constitutive. Mary is 
+a constituent of V’s content and her existence is therefore metaphysically necessary for 
+V’s existence. V is no more capable of existing in a Mary-free world than water can 
+exist in an oxygen-free world. This suggests that Mary herself – the flesh and blood 
+object, not some Fregean concept thereof – is a component not only of the content of 
+your visual experience, but of that experience itself. Given obvious analogues of this 
+argument, it follows that anything of which one has a sense-perception is a constituent 
+of the content of that perception and, indeed, of that perception itself. If we accept any 
+form  of  content-externalism,  McGinn  (1986:  15)  turns  out  to  be  entirely  right:  the 
+mind is spread out all over the cosmos, the reason being that everything that you see 
+– every comet, every star – is a veritable constituent of your mind.
+Here is what I will now argue. Mary is not a constituent of V’s content. Mary is 
+described by that content, but she is not a component of it. V does exist in worlds where 
+Mary does not. V occupies, at most, a sub-region of the region of space-time occupied 
+by your cranium.
+Etymologically, “content” means “contained in.” The word “content” is still used in 
+this sense: “the contents of your carry-on bag must be securely in place before take-
+off.” But, of course, visual experiences and beliefs do not contain anything, at least not 
+in the sense in which your wallet contains your cash. As it is used by philosophers, the 
+word “content” is a technical term.
+Let us start with a platitude that will help fix the meaning of that term. Whatever the 
+word  “content”  means  in  this  context,  the  content  of  an  experience  cannot  be  distin-
+guished from what it tells you. (Of course, in this context, the word “tell” isn’t meant to 
+have any linguistic overtones.) If your visual experience doesn’t tell you that p, then p isn’t 
+part of the content of that experience. If your visual experience doesn’t tell you that Mary 
+has phi, for some property phi, then Mary is no part of the content of that experience.
+A corollary is that if what your visual experience tells you is no less consistent with 
+Twin-Mary’s having phi than it is with Mary’s having phi – if Mary can be replaced 
+with any phenomenal impostor without altering what your visual experience tells you 
+– then we cannot say that Mary is any more a part of the content of that experience 
+than Twin-Mary or any other Mary-imposter. Chapter 2.  The predicative nature of sense-perception 
+
+
+Given  only  these  points,  we  can  begin  to  see  cracks  in  the  content-externalist’s 
+position. Once again, consider V (your visual perception of Mary sipping tea). By itself, 
+does V tell you whether you are seeing Mary as opposed to Twin-Mary (or some other 
+Mary-impostor)? No. V leaves that quite open, as a bit of fiction easily shows. While 
+having V, you are told “you are seeing somebody who isn’t Mary but looks just like her.” 
+You  say  in  response:  “given  only  what  my  current  visual  experience  is  telling  me,  I 
+know that you are quite wrong.” Your response is a text-book case of fallacious reason-
+ing. Given only what your eyes are telling you, you have no way of knowing the truth-
+value of what you’ve just been told. Of course, you are in fact seeing Mary: she is the 
+one off of whom the relevant light-rays – the ones causing your visual perceptions – are 
+bouncing. But by itself V is quite silent as to whether you are seeing Mary or Twin-
+Mary or some other Mary look-alike.
+For you to know whether you are seeing Mary, as opposed a Mary-imposter, you 
+need to consult information additional to that given you by V itself. You need to con-
+sider, for example, the fact that Twin-Mary hates tea and would never drink it; or the 
+fact that Twin-Mary is now giving a lecture in Amsterdam (whereas you are now in 
+Delaware); or the fact that Twin-Mary, unlike Mary, has a medical condition which 
+renders her incapable of holding a teacup. So by itself your visual experience doesn’t 
+tell you that it is specifically Mary that is in front of you drinking tea. What tells you 
+this is your visual experience plus background knowledge of the kind just described.
+Of course, given V, you will probably not consciously have to go through an elabo-
+rate  string  of  inferences  to  know  that  you  are  seeing  Mary.  Maybe  that  background 
+knowledge operates by way of Chomskyan subpersonal inferences (this is my own view). 
+Maybe it does not (this is what McDowell (1998: Chapter 15), Searle (1994) and Evans 
+(1985: Chapter 11) would say). What is certain is that, by itself, the information encoded 
+in your perception is no less consistent with Twin-Mary’s being in front of you drinking 
+tea than it is with Mary’s having those same properties. It wouldn’t be reasonable to deny 
+that the relevant differential information must be found outside that perception.
+The contrary position would telescope into your visual perception various pieces 
+of information that obviously don’t belong there, e.g. your knowledge that Twin-Mary 
+is now in Amsterdam. It is clearly more reasonable to say that the relevant differential 
+information interacts with the information that is encoded in your perception than it 
+is to say that it is itself a part of that information.
+Before moving on, we should address one possible misgiving that might arise with 
+regard to the argument just given. Sellars (1963) made a compelling case that knowl-
+edge of background facts is needed assign a precise representational content to phe-
+nomenology. Given only the purely phenomenological aspects of your sense-percep-
+tion, you could be seeing a square or a diamond, a patch of green or a patch of red, a 
+small nearby object or a large distant one. It is your background knowledge that as-
+signs a determinate content to this phenomenology: you know that you are looking at 
+the object from above, and not from an oblique angle – that is why you see it as a dia-
+mond, and not as a square. (The same point mutatis mutandis explains why the object 	Conceptual Atomism and the Computational Theory of Mind
+
+
+appears red, not green; small and nearby, not large and far off; and so on.)2 So it might 
+seem that, contrary to what I just said, background knowledge is telescoped into per-
+
+
+2.  As I said previously, I believe that Berkeley’s (1935) argument for this is in some ways supe-
+rior to Sellars: it is more lucid and more general. See Kuczynski (2007c) for a discussion of this 
+ I would also like to point out that, given Sellars’ insight, it immediately follows that a now 
+extremely popular doctrine known as «intensionalism» is quite false. Intensionalism is the view 
+that  two  experiences  cannot  differ  in  phenomenology  without  differing  in  representational 
+content. This entails that phenomenal content is inherently and non-derivatively representatio-
+nal. Thus, for any phenomenal state S, there is some representational content R such that S bears 
+R regardless of what the relevant subject’s background knowledge is. So given, for example, the 
+sensation mediating your perception of the stop-sign in front of you, the phenomenology of that 
+sensation completely fixes what it tells you about the world (leaving aside the strictly post-per-
+ceptual inferences that you can make on the basis of that perception).
+ But this doctrine is plainly false. It is at least in part (though, to be sure, not entirely) be-
+cause of your background knowledge that your current visual sensation tells you that there is a 
+medium sized object (a post with a heptagonal sign attached to it) ten feet away from you as 
+opposed to a mile-high object ten thousand feet away from you. In general, intensionalism is 
+inconsistent with Sellars’ insight that the subject’s background knowledge obviously does deter-
+mine what content, if any, is borne by a given bit of phenomenology. And that doctrine is no-
+thing more than a recrudescence of the epistemological foundationalism that modern epistemo-
+logy,  rightly  convinced  by  Sellars’  arguments,  has  rejected.  (Curiously,  many  contemporary 
+epistemologists accept both intensionalism and Sellarsian anti-foundationalism.) 
+ The  falsity  of  Fodor’s  conceptual  atomism  follows  from  that  of  intensionalism  and  also, 
+therefore,  from  that  of  foundationalism.  There  is  no  denying  that  phenomenology does  have 
+representational content. It is at least partly in virtue of the fact that I am having a visual sensa-
+tion with a certain phenomenology that I see the apple as red. But, as we know from Sellars, that 
+phenomenology bears that content only because it operates in concert with various other repre-
+sentation-bearing mental entities. What we just said about that bit of phenomenology is true 
+mutatis mutandis of any content-bearing bit of phenomenology. Thus, whole networks of repre-
+sentations are needed to have, and thus to upload information from, any one perception. Our 
+perceptions do not merely generate our post-perceptual knowledge: the former, and the bodies 
+of knowledge implicated therein, are constitutively, and not merely causally, related to the bodies 
+of knowledge that we develop in consequence of our perceptions. Therefore, post-perceptual 
+knowledge  and  conception  partake  of  the  non-atomistic  character  of  perceptual  knowledge. 
+Thus, since intensionalism is false, so is conceptual atomism. And since intensionalism is false, 
+so is content-externalism, the reason being that, as we saw earlier, content-externalism is a form 
+of conceptual atomism. 
+ These  points  show  that  the  the  Fodor-Dretske  photograph-model  of  conception  is  false. 
+(The term «photograph-model» is due to Evans 1982.) For x to see y, it is obviously necessary 
+that light-rays reflected by y disturb x’s sensory surfaces in certain ways. But, given Sellars’ point, 
+this is not sufficient: for x to have a content-bearing, or therefore perceptual, response to those 
+disturbances, x’s knowledge of the conditions of perceptions, and therefore any concepts impli-
+cated in that knowledge, must mediate between sensory input and representational output. This 
+shows that, contrary to what Dretske (1982) and Fodor (1990, 1998) hold, the relation between 
+the perceiver and the thing perceived is not comparable to the relation between a photograph  Chapter 2.  The predicative nature of sense-perception 
+
+
+ceptual content – that, indeed, this is typically the case. If that is right, then the argu-
+ment put forth in the previous paragraph implodes.
+There is an obvious fallacy here. The kind of information of which Sellars is speak-
+ing  is  confined  to  facts  about  the conditions  of  perception. The  fact  that  Twin-Mary 
+takes a yearly trip to Amsterdam doesn’t fall into this category. Of course, Sellars’ in-
+sight does show  that  the  information  encoded  in  a  perception  isn’t  neatly  separable 
+from background information. But blurry though the line between the two may be, it 
+is clear that facts about Twin-Mary’s travel-habits are well on the other side of it.3
+Taken by itself, what does your visual perception tell you? What is given to you in 
+that perception is that a person (or, at least, a person-shaped object) is sitting next to a 
+cat (or at least a cat-shaped object) that is on a sofa that is a certain distance in front of 
+you….So far as the content of your perception can be “propositionalized”, that content 
+is existential: there is an object x of such and such a shape sitting next to an object y of 
+thus and such a shape…Perceptual content is existential.
+Here we must reaffirm a caveat that was stated earlier. To say that perceptual content 
+is existential is not to say that perceptual content consists of propositions or any other 
+para-sentential  (or  sentential)  entities.  Intuition  resists  the  idea  that  the  content  of  a 
+perception can be exhausted by any series of propositions; and later we will find demon-
+strative support for our intuitions here. But given only that visual content isn’t necessar-
+ily propositional, it doesn’t follow that it isn’t existential. Plainly it is existential. For even 
+if that content is not itself propositional, it obviously entails some proposition along the 
+lines of: there is a man over there, next to a car that is near a tall building…
+
+
+Content-externalism and the content-internal character of entailment
+
+Consider a world W* satisfying the following conditions. W* is just like our world ex-
+cept that,  at  the  relevant  time,  it  is  Twin-Mary,  and  not  Mary,  who  is  sitting  on  the 
+couch in front of you sipping tea. Let V* be the visual experience that you have under 
+those circumstances. Given only this much, it would seem arbitrary to say that V (as 
+previously defined) and V* are numerically different visual experiences; for given only 
+this much, it is perfectly possible that V* arises in the same way as V from the very same 
+physiological processes, and that (leaving aside what the content-externalist says about 
+those perceptions) both are qualitatively identical in all relevant respects. But the con-
+tent-externalist is forced to say that V* is numerically different from V. After all, he says 
+that V and V* have different contents, since the one does, while the other does not, have 
+Mary as part of its content. So given the reasonable assumption that content-bearing 
+
+
+and the thing photographed. Thus, photograph-model of perception is false, and so, therefore, is 
+the photograph-model of conception.
+
+3.  See Fodor (1983) for a classic discussion of the “modular” nature of sense-perception. 	Conceptual Atomism and the Computational Theory of Mind
+
+
+entities are individuated by their contents, the content-externalist is compelled to adopt 
+the dubious position that V and V* are numerically distinct.
+It should be pointed out that no less an externalist than Tyler Burge (1982) insists 
+that mental entities have their representational contents essentially and that it is there-
+fore absurd to suppose that a perception could have had a content different from the 
+one it actually has. On this matter, I am in complete agreement with Burge, and I will 
+henceforth operate on the assumption that Burge is indeed right.
+The content-externalist’s position is inconsistent with basic facts about what it is 
+for one piece of information to entail another. The statement X and Y are the same in-
+formation is equivalent with the statement for any piece of information Z, Z can be in-
+ferred from X in manner M iff Z can be inferred from Y in manner M. V and V* satisfy 
+this condition: nothing can rationally be inferred from the one perception unless (ce-
+teris paribus) it can rationally be inferred from the other; and, in addition, nothing can 
+be rationally inferred from the one perception in a given manner, i.e. by way of a cer-
+tain series of deductions, unless (ceteris paribus) it can rationally be inferred from the 
+other in the very same manner. 
+Permit  me  to  elucidate  this  last  point.  The  proposition Frank  is  tall  is  different 
+from the proposition Mary is short because there are propositions that can be inferred 
+from the one that cannot be inferred from the other. In general, for P and P* to be dif-
+ferent propositions, it is sufficient that there be some proposition P** that can be ind-
+ferred from the one but not the other. But it is not necessary. The proposition 1+1=2 is 
+distinct from the the proposition triangles have three sides, even though neither propo-
+sition entails anything not also entailed by the other. But those propositions still differ 
+in  respect  of  their  entailment-relations.  Given  any  proposition  P  that  is  implied  by 
+both triangles have three sides and 1+1=2, the way that the one implies P is different 
+from the way that the other does so. Supposing that one’s starting point is that 1+1=2, 
+one need only apply the rule of existential generalization a single time to prove that, for 
+some n, n+1=2. But that is not the case if one’s starting point is that triangles have three 
+sides. So even though 1+1=2 and triangles have three sides coincide in respect of what 
+they entail, they differ in respect of how they entail it, and they therefore differ in re-
+spect of their entailment-relations, that being why they are numerically distinct propo-
+sitions.  In  general,  propositions  differ  just  in  case  their  entailment-relations  differ. 
+Given  obvious  extensions  of  the  argument  just  presented,  the  same  is  true  of  non-
+propositional pieces of information, supposing that there are such things. (This topic 
+will be revisited in Chapter 11.) 
+As we’ve seen, anything that can reasonably be inferred from V can also reasona-
+bly be inferred from V*, and vice versa. And whatever can be inferred from the infor-
+mation encoded in the one perception is obviously to be inferred in the same way from 
+the information encoded in the other perception. It follows that V and V* are identical 
+in respect of what they entail, and also in respect of how they entail it. Therefore, it 
+cannot coherently be said that V and V* encode different information. Thus, the con-
+tent-externalist is wrong to say that V and V* have different contents. Chapter 2.  The predicative nature of sense-perception 
+
+
+The content-externalist’s typical response to this sort of point is as follows:
+
+  If the content-externalist is right, V tells you that Mary is now sipping tea, where-
+  as V* tells you that Twin-Mary is now sipping tea. So this last argument of yours 
+  simply begs the question against the content-externalist.
+
+But we’ve already seen why this point is a non-starter, as it involves a failure to distin-
+guish the information encoded in our perceptions from the information that, with the 
+assistance of background knowledge, we derive from our perceptions.
+A related point is that the content-externalist’s position involves a failure to distin-
+guish  between  content  and  truth-maker.  V  is  a  perception  of  Mary,  as  opposed  to 
+Twin-Mary, not because Mary is a constituent of V’s content, but because some fact 
+about Mary is V’s truth-maker. As we’ve discussed, V tells you not that Mary is sitting 
+in a certain place sipping tea, but that some woman (or, at any rate, some entity with 
+the  morphology  characteristic  of  a  woman)  has  those  properties.  There  is  indeed  a 
+woman satisfying that description and, under the present circumstances, that woman 
+is  Mary.  But  there  are  counterfactual  scenarios  where  some  fact  about  Twin-Mary 
+would be the truth-maker of that same content.
+
+
+The relationship between causality and content
+
+For a visual experience to be a perception of x, x must be part of the state of affairs that 
+causes that experience. But given only that x satisfies that condition, it doesn’t follow 
+that x per se is a constituent of the content of that experience. The content of a visual 
+experience is, as we’ve emphasized, indistinguishable from what that experience tells 
+you. And what that experience tells you is indistinguishable from what you can ration-
+ally infer from it, taken by itself. By itself, no visual experience can tell you that it is x 
+specifically – as opposed to some x-look-alike – that caused it; there is no way that, by 
+itself, any perception could encode such differential information. This is easily estab-
+lished on generically logical grounds.
+What your visual experience, taken by itself, tells you is a function solely of facts 
+about the physical properties of the situation right in front of you. (Indeed, it is going 
+to be a function of a small subset of those facts.) So if one of constituents of that situa-
+tion is replaced with something numerically distinct but qualitatively identical, there 
+is no way for your experience to register that substitution. Suppose that x, ….x are all 
+                                                    1n
+qualitatively identical but numerically distinct objects and that, at this moment, you 
+are seeing exactly one of those objects. The character of your visual experience reflects 
+only  those  aspects  of  the  situation  that  are  preserved  in  the  light-rays  that  hit  your 
+retinas; and, for any i and any j, those aspects are invariant with respect to intersubsti-	Conceptual Atomism and the Computational Theory of Mind
+
+
+tutions of x and x. Thus, your visual experience, taken by itself, cannot possibly regis-
+    ij
+ter the fact that it is x, as opposed to x, that you are seeing.4
+            324
+There is thus no way that your visual experience, by itself, could discriminate be-
+tween its being Mary in front of you and its being Twin-Mary in front of you. So if we 
+plausibly identify the content of your visual experience with what that experience tells 
+you; and if we plausibly identify what it tells you with what you may logically infer 
+from it (or, at least, with a certain proper part of what you may logically infer from it); 
+then we must say that Mary is no more a part of your visual experience than Twin-
+Mary or any other Mary-impostor. Given this last point, if we are to avoid theoretical 
+arbitrariness, we must say that none of Mary or Twin-Mary or Robo-Mary…is a con-
+stituent of that content. All of this is consistent with the fact that your perception is of 
+Mary specifically, and all of this is consistent with the fact that Mary – or, rather, some 
+state of affairs involving Mary – is necessarily the cause of any perception of Mary.
+
+
+Content-externalism and disjunctivism
+
+We can show how radical and counterintuitive the content-externalist’s position is by 
+following his own reasoning to its logical conclusion.5 Once again, let V be a visual 
+perception of Mary sitting on a couch holding a teacup. The essence of the content- 
+externalist’s view is that Mary herself is a constituent of V’s content. But, of course, the 
+same is supposed to be true each of the individual objects in the situation that you are 
+seeing. So if content-externalism is right, the just mentioned sofa is a veritable compo-
+nent of V’s content, and so is the cat sitting on that sofa – and so on.
+Given this, let V be a perception that is just like V (as defined a few pages back) with 
+          1
+this one qualification: the sofa represented by V has been replaced with a qualitatively 
+identical, but numerically distinct, sofa. Now let V be a perception that is just like V 
+                                  21
+
+4.  Russell (1927: 94) makes a similar point when he writes: “Prejudice tells you that you see 
+the same [Russell’s emphasis] table on two different occasions; you think that experience tells 
+you this. If it really were experience, you could not be mistaken; yet a similar table may be subs-
+tituted without altering the experience…there is nothing to show that one identical entity causes 
+the two sensations.” See also Russell (1948: 271-294). 
+
+5.  See Evans (1982: chapter 5). In his discussion of Evans (1982), Rick Grush writes:  “Evans 
+then discusses the appropriate way to specify the content of informational states. His primary 
+point is that in specifying the content of an informational state, one need not, and one should 
+not, mention any specific objects. Rather, it should be specified by mentioning properties and 
+objective-variables (in an open sentence). This does mean that we cannot perfectly well speak of 
+the information being of this or that specific object. Two identical photographs might be such 
+that one is of Bob and the other is of Rob, Bob’s twin brother. But in specifying the content of the 
+photograph, we should not mention Rob or Bob, but should rather say something like “a tall 
+person with a red hat”, a specification that both photographs would share.” See the chapter of 
+Grush (1999) entitled “Guide to Chapter 5 of Gareth Evans’ Varieties of Reference.”   Chapter 2.  The predicative nature of sense-perception 
+
+
+except that the teacup represented in V has been replaced with a qualitatively identical, 
+                        1
+but numerically distinct, teacup. Repeat this procedure until each of the objects repre-
+sented by V – each bit of yarn, each carpet-fiber – has been replaced with a qualitatively 
+identical, but numerically distinct object, and let V be the resulting perception.
+                                  n
+The similarity between V and V is not purely phenomenological. An artist who 
+                        n
+experienced V and painted what he saw would ceteris paribus produce a painting qual-
+itatively identical with that produced by an artist who experienced V and then painted 
+                                                n
+what he saw. Further, there is some one description D such that, in virtue of having 
+either V or V, one would be warranted in affirming D. (D would be along the lines of: 
+    n
+there is a woman with such and such properties sitting on a sofa holding a teacup…) It is 
+clear that V and V have a great deal of representational content in common.
+        n
+But content-externalism cannot accommodate this obvious fact. For the content-
+externalist, every one of the replacements we described would constitute a change in 
+representational content. Numerically different objects, qualitatively different contents. 
+A corollary is that two perceptions have the same content only to the extent that the 
+objects represented by the one are numerically identical with those represented by the 
+other. So, according to the content-externalist, V and V have no content in common. 
+                                        n
+But intuition recoils at such a view and, as we’ve just seen, it is demonstrably false.
+John  McDowell  recognizes  that,  if  content-externalism  is  right,  then  V  and  V 
+                                                              n
+have no representational content in common. Because he is a content-externalist, he 
+accepts that V and V have no common content. This position, appropriately general-
+            n
+ized, is sometimes referred to as “disjunctivism”, since it is given by the thesis that the 
+content of the one perception is completely “disjoint” from the content of the other 
+(McDowell 1998: Chapters 10–13).
+Of course, McDowell concedes that V and V are identical in terms of phenome-
+                                  n
+nology. But, in his view, that is where the similarity ends. McDowell does not address 
+the fact that V and V have a great deal of existential information in common and that, 
+          n
+consequently, the content of the one does at least overlap with that of the other.
+A content-externalist might take the position that V and V do have some content 
+                                            n
+in common – that they have a purely “qualitative” or “general” content in common.6 So 
+each of them would be to the effect that some object having such and such properties is 
+sitting on a sofa…But, at the same time, V would be to the effect that X is sitting on sofa 
+Y, whereas V would be to the effect that X* (≠X) is sitting on sofa Y*(≠Y). The idea 
+    n
+would be that representations have both a purely “qualitative” or “identity independ-
+ent” content, and that they also an “identity-dependent” content.7
+This view is either false or amounts to nothing more than a proposal that we make 
+what would inevitably be a fruitless and confusing change in terminology. What the 
+
+
+6.  See  Blackburn  (1984:  317-322).  I  should  make  it  clear  that  Blackburn rejects hard-line 
+content-externalism. Indeed, many of our criticisms of content-externalism are anticipated by 
+Blackburn (1984: Chapter 9).
+
+7.  This terminology is borrowed from Blackburn (1984). 	Conceptual Atomism and the Computational Theory of Mind
+
+
+content-externalist  is  referring  to  as  “identity-dependent  content”  is  identical  with 
+what  we  have  seen  to  be,  not  content,  but meta-content.  A  related  point  is  that  the 
+“content” that V and V don’t have in common is of a very different kind from the con-
+            n
+tent that they do have in common. The latter has inferential and causal powers that the 
+former lacks. (In virtue of having different identity-independent contents, two visual 
+perceptions  or  beliefs  have  different  causal  powers,  and  they  also  warrant  different 
+inferences, But, as we have seen, two perceptions or thoughts that have different iden-
+tity-dependent contents do not necessarily differ in respect of what they cause or what 
+can be inferred from them.) Consequently, the externalist is using the word “content” 
+to denote two very different things and, once this equivocation is exposed, his view 
+loses whatever plausibility it might initially appear to have.
+I would like to address a possible objection to the analysis just outlined (I will put 
+it in the voice of an imaginary spokesperson for content-externalism):
+
+  As you yourself have insisted, if a perception, or any other content-bearing entity, 
+  has  content  C,  then  it necessarily has  that  content.  If  B  is  someone’s  belief  that 
+  snow is white, then it is nonsense to suppose that B might have been a belief that 
+  1+1=2. Given this point, it obviously follows that, if p is a perception of Mary, it is 
+  necessarily a perception of Mary. After all, in this context, it is a matter of simple 
+  semantics that the verbiage to the right of the word “of ” denotes the content of the 
+  perception in question. In English, if I wish to indicate that X is a constituent of 
+  the content of some perception of mine, I say that I had a perception “of ” X. Deny-
+  ing this would be like saying that “Socrates” doesn’t denote Socrates. For reasons 
+  that  you  yourself  have  given,  it  follows  that  Mary  herself,  as  opposed  to  some 
+  Fregean sense thereof, is a constituent of the content of that perception.
+
+On a number of occasions, philosophers have drawn extravagant epistemological and 
+metaphysical conclusions on the basis of innocent facts about language.8 This is one of 
+those cases.
+In almost all contexts, what is of interest to others, and even to yourself, is not what 
+is encoded strictly in your visual experience, but is rather what you know on the basis of 
+that experience. Most of what we wish to say would be virtually incommunicable if our 
+locutions were faithful to the division of labor characteristic of our information-gather-
+ing. Suppose that language forced one to make it clear exactly what was due to perception 
+and what was due to extra-perceptual background knowledge. In other words, suppose 
+that if one wished to explain how one knew that Mary had gone to the airport, one had 
+to produce a statement of the form:
+
+  (#)  “I had a visual experience such that what was given to me in that experience 
+  was an individual  x  having  a  distinctively  female  morphology…  and  such 
+
+
+8.  The stock example of this is Meinong’s view that “the square circle” and “Pegasus” do refer 
+to objects, albeit ones that “subsist” and do not “exist.” See Russell (1905).  Chapter 2.  The predicative nature of sense-perception 
+
+
+  that, given my background knowledge, it was evident to me that Mary unique-
+  ly satisfied the just stated existence-claim.”
+
+In that case, one would need extreme cognitive and linguistic virtuosity to make and, 
+to a lesser extent, to understand even the most pedestrian of statements. In narrow 
+philosophical contexts, (#) is an informative and relevant statement. But in most con-
+texts, the stratifications that (#) so faithfully preserves are of no interest. What we want 
+to know is whether you have information about Mary (or Fred or Ethel…). The micro-
+structure of the cognitive processes by which you attained that knowledge is irrelevant 
+and, given the philosophical and psychological obstacles involved, would also be ex-
+traordinarily difficult to learn about in the first place.
+For this reason, language does us a great service by telescoping (#) into “I saw Mary”, 
+or “I had a perception of Mary”, and by effecting other, comparable condensations across 
+the board. Were it not to do this, language could be used and understood only by a few 
+prodigies, and could convey only in the most circuitous manner the information that all 
+of us (including the aforementioned prodigies) typically wish to know. So given only 
+that I must report what I saw by saying “I had a perception of Mary” (or, more idiomat-
+ically, “I saw Mary”), it doesn’t follow that Mary is a constituent of the content of the 
+visual experience itself. The primary purpose of language is to convey what is pragmati-
+cally (not philosophically) relevant. There is thus no reason to expect that our locutions 
+will always reproduce the delicate distinctions to which we must look for solutions to 
+recherché questions of logic and epistemology. Indeed, given the practical nature of lan-
+guage, it is to be expected that language will obscure those distinctions.  chapter 3 
+
+
+  Uniquely individuating descriptions
+
+
+
+We’ve seen a number of reasons to accept the following three views:
+
+  (1)  Conception is essentially descriptive in character.
+
+  (2)  Expressions like “Socrates” and “Plato” are not descriptive to any degree: they 
+  are “directly referential.”
+
+  (3)  There is no difficulty reconciling (1) and (2) with each other.
+
+In his landmark work Naming and Necessity, Kripke made a strong case for (2). (Like 
+most contemporary philosophers, I believe that Kripke’s arguments are decisive.1) On 
+this basis many have rejected (1), believing it to be incompatible with (2). In this chapter, 
+I would like to provide reasons additional to those already put forth to believe that (1) 
+and (2) are compatible with each other.
+Let us start with a quick summary of some of the relevant points in Naming and 
+Necessity. According to Russell (1918, 1948), “Socrates” is synonymous with a definite 
+description; this might be “the greatest philosopher to have died of hemlock poisoning.” 
+To understand the word “Socrates”, and thus to understand sentences of the form F…
+Socrates…G, one must obviously know the semantics of “Socrates”; and one must there-
+fore know that “Socrates” is synonymous with that definite description. Consequently, 
+anyone who uses the word “Socrates” with understanding is able to identify a descrip-
+tion that is satisfied by Socrates and Socrates alone. In other words, such a person knows 
+some true and non-trivial proposition of the form: Socrates uniquely has phi. (An exam-
+ple of a trivial proposition of that form would be: Socrates uniquely has the property of 
+being identical with Socrates. An example of non-trivial proposition of that form would 
+be: Socrates was uniquely a greatest philosopher to die of hemlock-poisoning.)
+In general, if one knows the semantics of a referring term, then one knows some 
+description that applies uniquely to the referent of that term. (By “applies to”, I mean 
+“is satisfied by.” I will also use “singles out” as a synonym for both of these locutions.) 
+Supposing that x is the referent of “Gilgamesh”, if I understand what is meant by sen-
+tences like “Gilgamesh was wise” or “Gilgamesh lived a long time ago”, then I know of 
+some description that singles out x. If I know of no such description, then I cannot 
+really know what is meant by such sentences.
+Supposedly,  Kripke  demolished  this  view.  Consider  any description that Socrates 
+uniquely satisfies. Here is an example: “the greatest philosopher to have died of hemlock-
+poisoning.” One can understand sentences of the form F…Socrates…G without knowing 
+
+1.  See Soames (2001, 2005). 	Conceptual Atomism and the Computational Theory of Mind
+
+
+that the referent of “Socrates” consumed hemlock. One can therefore understand “Soc-
+rates was wise” without knowing that “Socrates” picks out somebody who uniquely satis-
+fies the description: greatest philosopher to have died of hemlock-poisoning.
+This point (mutatis mutandis) holds for any description that singles out Socrates. 
+Consider the description: “the person who figures as the protagonist in most of the 
+platonic  dialogues.”  One  can  understand  the  sentence  “Socrates  was  wise”  without 
+having the slightest idea that he was a protagonist in any philosophical dialogues. Giv-
+en any description D that applies uniquely to Socrates, one can understand F…Socra-
+tes…G without knowing that D applies to the referent of “Socrates.”2
+This point has many apparent consequences. Some of these are semantic in nature. 
+Others are epistemological.
+Here is one of the semantic consequences. “Socrates” is not synonymous with any 
+definite description. Given any description D (with a few trivial exceptions), one can 
+know that “Socrates was wise” is true without knowing that somebody uniquely in-
+stantiated D and that any such person was wise. (The trivial exceptions have to do with 
+descriptions like person who was identical with Socrates. More explicitly, they relate to 
+descriptions the grasping of which presupposes a concept of Socrates.) So it isn’t tenable 
+to maintain that “Socrates” is synonymous with “the greatest philosopher to have died 
+of hemlock-poisoning” or with any other definite description.
+Here is one of the supposed epistemological consequences. One can think about 
+Socrates without knowing of any description that singles him out – without knowing a 
+uniquely individuating description (UID) of the kind just described.
+
+
+The causal theory of reference and conception
+
+Kripke’s argument has other apparent consequences, both for semantics and episte-
+mology. Let us start with a question: Why does “Socrates” refer to Socrates and not (for 
+example) to Plato? Russell’s answer was this: “Socrates” is synonymous with a descrip-
+tion that is true of Socrates and Socrates alone. Kripke made a powerful case against 
+this answer. So how does Kripke answer our question? His answer is that “Socrates” 
+refers  to  Socrates  because  a  certain  kind  of causal relation  holds  between  tokens  of 
+“Socrates” and Socrates himself (or, more exactly, states of affairs involving Socrates).3
+The  following  story  will  help  us  further  explicate  Kripke’s  views  on  this  topic. 
+Smith personally saw Socrates. (We may set aside as irrelevant the fact that none of 
+Socrates’ contemporaries were named “Smith.”) Socrates’ presence thus caused Smith 
+to have certain visual experiences. Smith then gave a name to Socrates. (Let us idealize 
+away from the fact that, for cultural reasons, that is probably not how Socrates was 
+named.) Smith was able to pass that name along to people who did not themselves see, 
+
+2.  Kripke (1972: Lecture I).
+
+3.  Kripke (1972: Lecture II).  Chapter 3.  Uniquely individuating descriptions 
+
+
+or otherwise sense-perceive, Socrates. Of course, for Smith to pass along that name to 
+someone, that person had to be causally connected to Smith and, therefore, to Socra-
+tes. The process just described is repeated over and over. Let us suppose that I am the 
+521st installment in a sequence of events like the one described.4
+Smith’s original term for Socrates may well have undergone phonetic distortion. 
+What I have been left with is the sound (or sound-type) “Socrates”, which may be very 
+different in terms of phonetics from the term that Smith used. But that is not relevant 
+here. What is relevant is that, when I produce instances of that sound-type, my words 
+refer back to Socrates precisely because I am connected to Socrates by way of a chain 
+like the one just described. When I say “Socrates”, my utterance refers to Socrates be-
+cause it is causally connected to him in a certain way. In general, if an expression E 
+refers to an object O, that is in virtue of the fact that tokens of E stand in a certain 
+causal relation to states of affairs involving O.
+
+
+Why the causal story is only a chapter in the descriptive story
+
+Let us now evaluate the various claims just put forth. How do you learn what a given 
+word refers to? At first, there appear to be two ways: you can learn it by description or 
+by ostension. (Soon we will see that there is a third.)
+Let  us  illustrate  these  points  with  a  story.  You  are  young,  and  have  thus  never 
+heard the name “Socrates.” Somebody says to you:
+
+  (*)  “Socrates” is the name of the most famous philosopher to die of hemlock poi-
+  soning.
+
+Here the word “Socrates” has been defined for you in a descriptive manner. In effect, 
+you were told that somebody O uniquely satisfies a certain description (viz. most fa-
+mous philosopher to die of hemlock poisoning) and that “Socrates” names O.
+On the face of it, there seems to be a second, entirely distinct way of learning what a 
+term refers to: you can be given an ostensive definition. Here is an illustration. You are in 
+a crowded market place. You and a companion are watching a man haranguing a crowd. 
+While pointing to that man, your companion says:
+
+  (**)  That person over there is named “Socrates.”
+
+But, in a certain class of cases, one is able to acquire the ability to use a referring term 
+without ever having been given either an ostensive or descriptive definition of it. Sup-
+pose that you and two other people (Smith and Jones) are talking. All of a sudden Smith 
+and Jones start talking about somebody named “Argo.” They never say who “Argo” re-
+fers to. They never say: “Argo was the president of our fraternity back in college” or 
+“Argo was my divorce lawyer; and by sheer coincidence he’s Smith’s racquetball part-
+
+4.  Kripke 1972: Lecture II.	Conceptual Atomism and the Computational Theory of Mind
+
+
+ner.” And they do not ostensively define “Argo”, since he is not present. Smith and Jones 
+simply prattle on about “Argo”, and you are too polite to ask them who that person is.
+Nonetheless, as Gareth Evans (1985: Chapter 1) pointed out, it seems that, even 
+under these circumstances, you can use the word “Argo” in a meaningful way. You can 
+say “it sounds as though Argo is a text-book case of somebody with borderline-per-
+sonality disorder”; and you can ask questions like “did Argo mean to do that to you, or 
+was it just an accident?”
+So, on the face of it, it seems that you can acquire the ability to use “Argo” in a 
+meaningful way without ever having been given an ostensive or descriptive definition 
+of that term. When you say “it sounds as though Argo is an evil person”, you are using 
+the expression “Argo” with understanding: you are not in the same category as a parrot 
+that mindlessly produces those same sounds. It thus appears that you can simply “pick 
+up” the ability to use “Argo”, and names generally: there needn’t be an ostensive or de-
+scriptive definition.5
+Let us take stock. There seem to be three ways that a proper name N can be in-
+ducted into one’s lexicon:
+
+  (i)  one can be given an ostensive definition of N;
+
+  (ii)  one can be given a descriptive definition of N; or
+
+  (iii)  one can just “pick up” the use of N.
+
+It is easily shown that that one’s learning what an expression refers to always involves 
+one’s learning some description that singles out its referent. This is because all of (i)-
+(iii) collapse into (ii).
+
+
+
+
+5.  Of course, one could say this: 
+ Because you haven’t been given any kind of definition of “Argo” you cannot really use that term with un-
+derstanding, and you cannot really know what is meant by sentences containing it. When you produce the 
+sounds “Argo sounds like a bad person”, you are really making some kind of metalinguistic statement, some 
+statement like: “ ‘Argo” refers to somebody who is bad.” And when you hear sentences like “Argo was a cad”, you 
+cannot really understand them; what you understand is some related meta-linguistic claim like: “ ‘Argo” refers 
+to somebody who was a cad.”
+ This position cannot be summarily dismissed; and I will not dismiss it. But, for our purpo-
+ses, it is enough to note that the objector’s point seems quite false. Cases like the one just descri-
+bed are pervasive. There are many cases where no ostensive or descriptive definition is involved 
+in our appropriation of a proper name. We hear the term being used and – presto! – can use it 
+ourselves. If the objector’s point is correct, we are not really using any of these terms: we are 
+merely mentioning them. When we produce sentences containing them, we are talking not about 
+people, but about symbols denoting people. But this seems false. I have never been given a des-
+criptive or ostensive definition of the term “Charlemagne.” But it certainly appears as though I 
+can make statements about Charlemagne, and not just about “Charlemagne.” I am thus going to 
+operate on the assumption that I can make statements about Charlemagne himself.

@@ -1,0 +1,9273 @@
+﻿                                  College Papers Plus
+
+                                July and August 2019
+
+ 
+
+Is the Turing Test a good test of intelligence? (philosophy)
+
+Is the Turing Test a good test of intelligence? Second Version (philosophy)
+
+Should Caffeine be a Controlled Substance?
+
+Who started the Cold War?
+
+Who was a better President? Eisenhower or JFK?
+
+Who was a better President? Nixon or LBJ?
+
+  Technology-caused Job-shortages and the Need for Universal Welfare
+
+My Reaction to Schoenberg’s  A Survivor from Warsaw  
+
+    https://www.youtube.com/watch?v=DFXkc9AGoeU
+
+Statistics: Basic Principles and Theorems (Math/Statistics)
+
+Poem and Song Compared: To His Coy Mistress Compared with Don’t Be
+
+Cruel (Literary Analysis)
+
+Random Variables, Discrete Variables, Continuous Variables
+
+  (Math/Statistics)
+
+  Statistics Exam Prep Sheet
+
+Concert Report (Music/Musicology)
+
+  Statistics Final Exam Review Sheet (Math/Statistics)
+
+Music Journal (Music/Musicology)
+
+           Is the Turing Test a good test of intelligence? (philosophy)
+
+
+ 
+
+
+      The statement ‘the Turing Test is a good test of intelligence’ is
+
+
+ambiguous. On the one hand, it can be taken to mean that a given entity’s
+
+
+acting like an intelligent being is evidence of its having intelligence, meaning
+
+
+that such behavior is good but not definitive reason to ascribe intelligence to
+
+
+the being in question. On the other hand, it can be taken to mean a given
+
+
+entity’s acting like an intelligent creature is constitutive of its having
+
+
+intelligence, meaning that there is no difference between its being intelligent
+
+
+and its behaving (or able to behave) like an intelligent creature. The first
+
+
+disambiguation, so I will argue, is correct only if subject to heavy
+
+
+qualifications, and the second disambiguation, so I will argue, is
+
+
+unqualifiedly incorrect.
+
+
+      Turing introduced the concept of the Turing Test through the
+
+
+following hypothetical. A written but rapid exchange between two parties is
+
+
+occurring. One of those parties is a machine, and the other is a person. A
+
+
+second person is monitoring the exchange. This person knows that one of the
+
+
+parties involved is a person and that the other is a machine, and he also
+
+
+knows what each party writes and when it writes it, but he has no additional
+
+
+information as to either one’s identity. According to Turing, if this person is
+
+
+consistently able to figure out which of the two parties is the machine andwhich one is the person, then the machine does not have intelligence. On the
+
+
+other hand, if that person cannot consistently determine which of the parties
+
+
+is the machine, then that machine has intelligence.
+
+
+      We can use a variant of Turing’s own scenario to demonstrate the
+
+
+spuriousness of Turing’s own reasoning.  Let X be the person involved in the
+
+
+exchange just described and let Y be the machine; and suppose that the
+
+
+exchange they are having concerns arithmetic. X is making arithmetical
+
+
+statements (e.g. “1+1=2”, “1+2=3”, “1+2≠3”), and Y is evaluating those
+
+                          3
+statements. If X says “2=8”, Y responds by saying “that is correct”; and if X
+
+      3
+says “2=6”, Y responds by saying “that is incorrect.” As it happens, let us
+
+
+suppose, X, though an extremely gifted playwright and poet, has a blind spot
+
+                                                                            3
+for mathematics. He cannot for the life of him understand why “2=6” is false
+
+          3
+or why “2=8” is true. Consequently, when ‘conversing’ with Y, the
+
+
+statements that he makes are often false. But he never generates those
+
+
+statements mechanically. In some cases, he draws on poetic inspiration; in
+
+
+other cases, he considers the aesthetic properties of the inscriptions involved;
+
+
+sometimes he grasps the mathematical principles but misapplies them; and
+
+
+occasionally he grasps those principles and correctly applies them. In each
+
+
+case, a great of intelligence is involved, but it is usually either the wrong kind
+
+
+of intelligence or the right kind of intelligence but applied in the wrong way.
+
+
+      Turing would have us believe that, in this exchange, Y is theintelligent one and X is the unintelligent one. But that is the exact opposite of
+
+
+the truth. The reason X is so often wrong is that he is thinking too much,
+
+
+albeit the wrong ways; and the reason Y is always right is that its behavior is
+
+
+completely reflexive, with the qualification that, thanks to the intelligence of
+
+
+Y’s creator, the reflexes in question track the relevant body of truths. What
+
+
+makes a creature intelligent is not what it does, contrary to what Turing
+
+
+assumes, but why it does it. In some contexts, intelligence leads to the wrong
+
+
+behaviors and its absence leads to the right ones. To be sure, intelligence is
+
+
+more likely than its absence to generate the right behaviors (including the
+
+
+right statements). But given a sufficiently constricted context, an unintelligent
+
+
+or minimally intelligent being can outperform one that is hyper-intelligent:
+
+
+someone with little mathematical intelligence can be trained to produce sums
+
+
+and products faster than Gauss could and will therefore do a better job of
+
+
+passing the corresponding Turing Tests. In certain contexts, certain behaviors
+
+
+are relatively likely to be engaged in only by intelligent creatures, and certain
+
+
+behaviors may therefore be relatively good evidence of intelligence; but there
+
+
+is no single form of conduct engaged in by intelligent beings that cannot be
+
+
+mimicked by unintelligent ones, and for this reason intelligence is never
+
+
+identical with a tendency to engage in a certain kind of overt behavior in a
+
+
+certain kind of context. So yes—Turing Tests are sometimes good tests of
+
+
+intelligence, but only in the sense that they may provide reasonable strongevidence of intelligence, not in the sense they provide definitive proof of it.
+
+
+      Like us, John Searle holds that overt behavior is nothing more than
+
+
+evidence of intelligence, and he therefore rejects Turing’s contention to the
+
+
+contrary. Unfortunately, Searle’s defense of his own position is a failure and
+
+
+actually gives undeserved credence to Turing’s position. Searle asks to
+
+
+suppose that, inside of a giant robot (or robot-like carapace), there lives a
+
+
+man who speaks no Chinese but who has access to Chinese dictionaries and
+
+
+pronunciation manuals, and the like. Despite not speaking a word of Chinese
+
+
+himself, this man has become extremely adept at using these resources to
+
+
+generate decrypt Chinese statements and respond to them with content-
+
+
+appropriate Chinese utterances of his own, which are electronically broadcast
+
+
+in a metallic voice to the external world, making it seem to those in the
+
+
+external world that there exists a Chinese-speaking robot. According to
+
+
+Searle, a consequence of Turing’s position is that there really does exist a
+
+
+Chinese-speaking robot; and Searle takes it for granted that those who hold
+
+
+this are simply wrong.
+
+
+      The problem is that the behavior of this ‘robot’ (i.e. the metallic husk
+
+
+with the man inside it) is intelligent. After all, the sounds that it produces are
+
+
+guided by an understanding of what linguistic symbols mean and of what
+
+
+those meanings make it appropriate to say, and those who believe the ‘robot’
+
+
+to be intelligent are not entirely off the mark. True—those people are verywrong as to the mechanisms involved. They believe electrical circuity, as
+
+
+opposed to biological wetware, to be doing all the work. But they are right
+
+
+about intelligence being responsible for the robot’s behavior. What about
+
+
+their belief that the robot speaks Chinese? Searle takes it for granted that this
+
+
+belief is false. But is it? There is somebody inside the metallic husk who is
+
+
+intelligently mapping English statements onto Chinese statements and vice
+
+
+versa, and this person’s behavior is responsible for the noises leaving the
+
+
+robot-husk. The essence of a given person’s supposedly mistaken belief that
+
+
+the ‘the robot’ speaks Chinese is the correct belief the sounds that come out
+
+
+of the robot are intelligent, as opposed to mechanical, responses to the sounds
+
+
+that are directed at it.
+
+
+      In conclusion, although a tendency to engage in certain forms of
+
+
+behavior in certain contexts can obviously be evidence of intelligence, such a
+
+
+disposition cannot itself be identical with intelligence, the reason being that
+
+
+any behavior that an intelligent creature is likely to engage in can be
+
+
+replicated by an unintelligent creature. Consequently, if Turing’s position is
+
+
+taken to be that overt behavior can be evidence of intelligence, then it is
+
+
+correct but trivial, and if it is taken to be that overt behavior can itself be
+
+
+intelligence, then it is simply false. Though motivated by an awareness of
+
+
+these truths, John Searle’s miscarried attempt to refute Turing ends up giving
+
+
+the latter’s an undeserved sheen of legitimacy. Is the Turing Test a good test of intelligence? Second Version (philosophy)
+
+
+ 
+
+
+      To say that a given entity ‘passes the Turing Test’ is to say that, in
+
+
+some context or other, its behavior is indistinguishable from that of a being
+
+
+whose conduct is guided by intelligence. Turing believed, for reasons to be
+
+
+identified forthwith, that there is no difference between acting like an
+
+
+intelligent entity and being an intelligent being. Turing’s answer to the
+
+
+question ‘is the Turing Test a good test of intelligence?’ is therefore ‘yes.’ In
+
+
+this paper, Turing’s position will be examined and refuted.  I will start by
+
+
+examining the hypothetical scenario through Turing himself attempts to
+
+
+motivate what he believes the answer to this question to be, and I will use a
+
+
+variant of that same scenario to show that Turing’s reasoning is spurious and,
+
+
+moreover, that his position is false. Then I will examine John Searle’s
+
+
+attempt to refute Turing’s position. It will be shown that, although Searle is
+
+
+right to regard Turing’s position as false, Searle’s attempt to refute Turing’s
+
+
+position has little force.
+
+
+      Turing introduced the concept of the Turing Test through the
+
+
+following hypothetical. A written but rapid exchange between two parties is
+
+
+occurring. One of those parties is a machine, and the other is a person. A
+
+
+second person is monitoring the exchange. This person knows that one of the
+
+
+parties involved is a person and that the other is a machine, and he alsoknows what each party writes and when it writes it, but he has no additional
+
+
+information as to either one’s identity. According to Turing, if this person is
+
+
+consistently able to figure out which of the two parties is the machine and
+
+
+which one is the person, then the machine does not have intelligence. On the
+
+
+other hand, if that person cannot consistently determine which of the parties
+
+
+is the machine, then that machine has intelligence.
+
+
+      We can use a variant of Turing’s own scenario to demonstrate the
+
+
+spuriousness of Turing’s own reasoning.  Let X be the person involved in the
+
+
+exchange just described and let Y be the machine; and suppose that the
+
+
+exchange they are having concerns arithmetic. X is making arithmetical
+
+
+statements (e.g. “1+1=2”, “1+2=3”, “1+2≠3”), and Y is evaluating those
+
+                          3
+statements. If X says “2=8”, Y responds by saying “that is correct”; and if X
+
+      3
+says “2=6”, Y responds by saying “that is incorrect.” As it happens, let us
+
+
+suppose, X, though an extremely gifted playwright and poet, tends to
+
+
+overthink trivial matters and therefore has trouble producing correct
+
+
+statements of arithmetic. Consequently, when ‘conversing’ with Y, the
+
+
+statements that he makes are often false. But he never generates those
+
+
+statements mechanically.
+
+
+      Turing would have us believe that, in this exchange, Y is the
+
+
+intelligent one and X is the unintelligent one. But that is the exact opposite of
+
+
+the truth. The reason X is so often wrong is (so we may suppose) that he isthinking too much, albeit the wrong ways; and the reason Y is always right is
+
+
+that its behavior is completely reflexive, with the qualification that, thanks to
+
+
+the intelligence of Y’s creator, the reflexes in question track the relevant body
+
+
+of truths. What makes a creature intelligent is not what it does, contrary to
+
+
+what Turing assumes, but why it does it. In some contexts, intelligence leads
+
+
+to the wrong behaviors and its absence leads to the right ones. Given a
+
+
+sufficiently constricted context, an unintelligent or minimally intelligent
+
+
+being can outperform one that is hyper-intelligent: someone with little
+
+
+mathematical intelligence can be trained to produce sums and products faster
+
+
+than Gauss could and will therefore do a better job of passing the
+
+
+corresponding Turing Tests. There is no single form of conduct engaged in
+
+
+by intelligent beings that cannot be mimicked by unintelligent ones, and for
+
+
+this reason intelligence is never identical with a tendency to engage in a
+
+
+certain kind of overt behavior in a certain kind of context. So a given Turing
+
+
+Test provides, at most, highly defeasible, context-internal evidence of
+
+
+intelligence, and under no circumstances can a given creature’s passing such
+
+
+a test be regarded as definitive proof of intelligence; and the Turing Test is
+
+
+therefore not in any significant sense a good test of intelligence.
+
+
+      Like us, John Searle holds that overt behavior is nothing more than
+
+
+evidence of intelligence, and he therefore rejects Turing’s contention to the
+
+
+contrary. Unfortunately, Searle’s defense of his own position is a failure andactually gives undeserved credence to Turing’s position. Searle asks to
+
+
+suppose that, inside of a giant robot (or robot-like carapace), there lives a
+
+
+man who speaks no Chinese but who has access to Chinese dictionaries and
+
+
+pronunciation manuals, and the like. Despite not speaking a word of Chinese
+
+
+himself, this man has become extremely adept at using these resources to
+
+
+generate decrypt Chinese statements and respond to them with content-
+
+
+appropriate Chinese utterances of his own, which are electronically broadcast
+
+
+in a metallic voice to the external world, making it seem to those in the
+
+
+external world that there exists a Chinese-speaking robot. According to
+
+
+Searle, a consequence of Turing’s position is that there really does exist a
+
+
+Chinese-speaking robot; and Searle takes it for granted that those who hold
+
+
+this are simply wrong.
+
+
+      The problem is that the behavior of this ‘robot’ (i.e. the metallic husk
+
+
+with the man inside it) is intelligent. After all, the sounds that it produces are
+
+
+guided by an understanding of what linguistic symbols mean and of what
+
+
+those meanings make it appropriate to say, and those who believe the ‘robot’
+
+
+to be intelligent are not entirely off the mark. Although these people are
+
+
+wrong about the specific mechanisms involved, they are right about
+
+
+intelligence being responsible for the robot’s behavior. What about their
+
+
+belief that the robot speaks Chinese? Searle takes it for granted that this belief
+
+
+is false. But is it? There is somebody inside the metallic husk who isintelligently mapping English statements onto Chinese statements and vice
+
+
+versa, and this person’s behavior is responsible for the noises leaving the
+
+
+robot-husk. The essence of a given person’s supposedly mistaken belief that
+
+
+the ‘the robot’ speaks Chinese is the correct belief the sounds that come out
+
+
+of the robot are intelligent, as opposed to mechanical, responses to the sounds
+
+
+that are directed at it.
+
+
+      In conclusion, although a tendency to engage to engage in certain
+
+
+forms of behavior in certain contexts can obviously be evidence of
+
+
+intelligence, such a disposition cannot itself be identical with intelligence, the
+
+
+reason being that any behavior that an intelligent creature is likely to engage
+
+
+in can be replicated by an unintelligent creature. Consequently, if Turing’s
+
+
+position is taken to be that overt behavior can be evidence of intelligence,
+
+
+then it is correct but trivial, and if it is taken to be that overt behavior can
+
+
+itself be intelligence, then it is simply false. Though motivated by an
+
+
+awareness of these truths, John Searle’s miscarried attempt to refute Turing
+
+
+ends up giving the latter’s an undeserved sheen of legitimacy.
+
+
+                   Should Caffeine be a Controlled Substance?
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+                                            Abstract
+
+
+ 
+
+
+      Average daily caffeine intake among pre-adults in the United States
+
+
+has increased more than 100% in the last twenty years, from 30 mg/day to 70
+
+
+mg/day, almost entirely due to the popularity, especially among children, of
+
+
+candy-flavored, highly caffeinated energy-drinks, such as Rock Star and
+
+
+Monster. This development is a concern for many reasons. First, caffeine is a
+
+
+psychoactive substance, like alcohol or marijuana, and for that reason alone,
+
+
+so it is felt, is not appropriate for children. Second, there is reasonably
+
+
+compelling that caffeine use among children is linked to temporary episodes
+
+
+of ADHD-like behavior. Most ominously, there have been recent studies on
+
+
+rats showing that massive daily doses of caffeine can impair brain-
+
+
+development. For these reasons, the question arises whether the selling of
+
+
+energy-drinks or other caffeinated substances should be criminalized or
+
+
+otherwise heavily regulated. The answer to that question, so it is argued in
+
+
+this paper, is “no.” There is no demonstrated evidence that, when consumed
+
+
+in moderate doses, caffeine has any effect on brain development in humans,and there is in fact evidence that, in low doses, it has neuro-regenerative and
+
+
+neuro-protective qualities. Second, although there is reasonably good
+
+
+evidence that caffeine-intake in children can temporarily cause ADHD-like
+
+
+symptoms, such as distractedness and fidgeting, there is no evidence that it
+
+
+ever leads to antisocial or violent behavior. Third, granting that children
+
+
+should not in general be allowed to use psychoactive substances to recreate or
+
+
+self-medicate, there is no evidence that caffeine has become a gateway drug
+
+
+for children, or that caffeine use among children is dangerously high, or that
+
+
+such caffeine use as there is has to any degree impaired the psychological or
+
+
+physical development of children or adolescents. Also, because caffeine is
+
+
+the active ingredient in a number of over the counter medications, including
+
+
+all medications for PMS and Migraine headaches, and because caffeine
+
+
+naturally occurs in high doses in many comestibles, including chocolate,
+
+
+caffeine-related regulations would be unusually burdensome to businesses
+
+
+and expensive for the general public. Consequently, the benefits of caffeine-
+
+
+related regulations, including regulations relating to the sale of energy drinks,
+
+
+would be far too small to justify the considerable financial and societal costs.
+
+
+ 
+
+
+                                          Introduction
+
+
+ 
+
+
+        Caffeine is the most widely used psychoactive substance in existence.For the most part, caffeine is harmless, and there is growing evidence of the
+
+
+health benefits of moderate caffeine consumption, especially on cognitive
+
+
+performance (Brice, 2016). At the same time, caffeine is not entirely
+
+
+innocuous. It is toxic when consumed in large doses. Also, studies have
+
+
+shown that proper brain development does not occur in rats that are fed
+
+
+astronomically high quantities of caffeine over a long period, suggesting,
+
+
+albeit weakly, that moderate consumption of caffeine could inhibit proper
+
+
+brain development in human children (Doepker et al., 2016). Additionally,
+
+
+although low quantities of caffeine actually have a calming effect in children,
+
+
+there is reasonably strong evidence that it can induce temporary ADHD-like
+
+
+symptoms when consumed in large quantities (França, A. P., 2018). This last
+
+
+fact is significant, owing to the fact that caffeine consumption among
+
+
+children and adolescents more than doubled over the last thirty years. The
+
+
+reason for this spike is the popularity among children and adolescents of
+
+
+highly caffeinated energy drinks, such as Rock Star and Monster. Loaded
+
+
+with sugar, these carbonated beverages are as easy to guzzle down as any
+
+
+soft-drink, making them popular with people of all ages, and they have a
+
+
+candy-like taste, making them especially popular with children (Chen et al.,
+
+
+2019).
+
+
+      What should the government’s response be? Should the government
+
+
+take a completely hand’s off approach and do nothing to restrict the sale ofcaffeine, even to minors? Or should it intervene and criminalize or at least
+
+
+penalize the sale of caffeinated products to minors and possibly other
+
+
+vulnerable groups?
+
+
+      It is the purpose of this paper to answer this question. After
+
+
+considering all of the relevant facts, we will come to the conclusion that,
+
+
+although parents should be mindful of possible caffeine use on the part of
+
+
+their children, the sale and use of caffeine should not be any more regulated
+
+
+than they currently are. Although caffeine can be abused, the benefits of
+
+
+treating caffeine as a controlled substance, even in a highly circumscribed
+
+
+manner, would not be worth the costs.
+
+
+      The structure of this paper is as follows. We will start by identifying
+
+
+the relevant statistical and economic data relating to caffeine-use. Then we
+
+
+will discuss the effects of caffeine on both children and adults. We will
+
+
+discuss its various benefits, including its medicinal uses, and we will also
+
+
+discuss the adverse effects that it can have, especially when consumed in
+
+
+large doses. We will then discuss the financial and logistical complexities
+
+
+involved in regulating the sale and use of caffeine, many of which derive
+
+
+from the fact that caffeine is present not just in coffee, but also in tea, soft-
+
+
+drinks, and chocolate, as well as in numerous over the counter medications,
+
+
+including Excedrin and Midol. We will conclude by synthesizing all of this
+
+
+data, our conclusion being that the sale and use of caffeine should beunregulated or minimally regulated.  
+
+
+ 
+
+
+                Important Facts and Statistics Relating to Caffeine-use
+
+
+ 
+
+
+        Caffeine is the most widely used psychoactive substance in existence.
+
+
+In the United States, for example, approximately 450 million cups of coffee
+
+
+are consumed every day (Baron, 2019). In other countries, coffee
+
+
+consumption is much higher. For every three cups of coffee consumed by the
+
+
+average American, the average German consumes five, the average Slovenian
+
+
+six, the average Norwegian seven, and the average Finn nine (Baron, 2019.
+
+
+      Importantly, coffee-drinking, though the primary way of ingesting
+
+
+caffeine, is not the only way of doing so. High concentrations of caffeine are
+
+
+present in tea and moderate concentrations are present in soft-drinks and in
+
+
+chocolate. Caffeine can also be consumed ‘directly’, in the form of caffeine
+
+
+pills, such as Vivarin and NoDoz. Also, caffeine is the primary active
+
+
+ingredient in so-called ‘energy drinks’, such as Red Bull and Rock Star,
+
+
+which, non-coincidentally, are also loaded with sugar, giving them a candy-
+
+
+like taste, and are increasingly popular with adolescents and, to a lesser
+
+
+extent, children. Coffee-drinking accounts for 70% of caffeine-consumption;
+
+
+tea, chocolate, and soft-drinks, including energy drinks, for 28%; and
+
+
+caffeine pills, for 2% (Brice, 2016).      Unlike opiates, tobacco, alcohol, and almost all other controlled
+
+
+substances, caffeine naturally occurs in many foods and beverages. Moderate
+
+
+to high levels of it are present in chocolate, colas, sunflower seeds, and
+
+
+various other staples; and it is therefore present, sometimes in high quantities,
+
+
+in foods that contain these ingredients, including ice-cream, trail mixes, and
+
+
+health bars (Brice, 2016).
+
+
+      Importantly, caffeine is the active ingredient in many different over
+
+
+the counter (OTC) medications. It is the active ingredient in Excedrin,
+
+
+Anacin, and every other OTC remedy for migraines, and it is the active
+
+
+ingredient in Midol, Pamprin and every other OTC remedy for premenstrual
+
+
+syndrome. Consequently, restricting the sale of caffeine to minors would
+
+
+involve restricting the sale of all such items to minors. Though theoretically
+
+
+possible, this would be expensive, with the costs being passed onto to
+
+
+consumers, taxpayers, and businesses; and it would also lead to irksome
+
+
+expansions of regulatory bureaucracies. In order to know whether these costs
+
+
+would be worth bearing, we must know how caffeine affects people, in both
+
+
+the short and long terms (França et al., 2018). Let us now turn to this topic.
+
+
+ 
+
+
+                                  Health-benefits of Caffeine
+
+
+ 
+
+
+      First of all, caffeine increases cognitive performance. Studies haveshown that people do better on standardized tests when they are under the
+
+
+influence of caffeine (Grosso et al. 2017). Studies have also shown that
+
+
+caffeine boosts manual dexterity and, in particular, that physicians
+
+
+performing surgery, including microsurgery, perform better when they are
+
+
+under the influence of caffeine (Spiller, 2019). This is obviously linked with
+
+
+the fact that almost all surgical operations are performed by physicians under
+
+
+the influence of caffeine. This is true even of physicians belonging to
+
+
+religious faiths, such as Mormonism, that prohibit the use of caffeine (Kelly
+
+
+et al., 2016).
+
+
+      There also appear to be long-term health-benefits to caffeine use.
+
+
+Several studies have shown that caffeine use correlates with improved long-
+
+
+term memory. Studies also show an inverse correlation between heavy
+
+
+caffeine-consumption and likelihood of succumbing to Alzheimer’s and other
+
+
+forms of dementia. Strikingly, studies show much the same to be true of
+
+
+Parkinson’s Disease (PD): “26 studies found that the overall risk of
+
+
+developing PD fell by 24-32% per 300 mg increase in caffeine intake (i.e.
+
+
+with every 3 cups of coffee, approximately)” (Spiller, 2019). There is also
+
+
+evidence that coffee-consumption reduces the likelihood of developing
+
+
+certain kinds of cancer, including oral cancer and colon cancer (Endesfelder
+
+
+et al., 2017). This is likely a consequence not of caffeine but of the
+
+
+antioxidants in coffee. 
+
+
+                            Adverse Health-effects of Caffeine
+
+
+ 
+
+
+        Caffeine can also have adverse health-effects. Here it is important to
+
+
+note that the effects of caffeine on adults differ in some respects from its
+
+
+effects on children and adolescents. In adults, the adverse effects of caffeine
+
+
+tend to be short-term, the most common ones being insomnia and irritability.
+
+
+Caffeine-intake also temporarily increases heartrate and blood pressure, but
+
+
+these effects subside within a few hours. Contrary to what used to be thought,
+
+
+caffeine does not cause arrhythmia or coronary heart disease; nor does it
+
+
+otherwise adversely affect cardiovascular health. In adults, the main reason
+
+
+not to consume caffeine is that it can cause insomnia, which in turn can have
+
+
+serious effects on quality of life. Also, people with mental illnesses, such as
+
+
+schizoaffective disorder and generalized anxiety disorder, often have adverse
+
+
+emotional responses to caffeine (Doepker et al., 2016).
+
+
+      The effects of caffeine on children and adolescents are not entirely
+
+
+clear, but there is evidence that it can slow down brain development if
+
+
+consumed in large quantities on a consistent basis. Significantly, this
+
+
+conclusion is based on experiments involving rats; it is not based on direct
+
+
+evidence, such as the performance-metrics of children known to consume
+
+
+caffeine regularly. Moreover, the rats in question were given astronomicallyhigh quantities of caffeine (the equivalent, after adjusting for their body-
+
+
+mass, of 100 cups of coffee) every day of their pre-adult lives. Finally,
+
+
+because those rats experienced acute sleep deprivation, it is possible that their
+
+
+slow brain development was a consequence of their lack of sleep, not, except
+
+
+indirectly, of their caffeine intake (Kolahdouzan et al. 2017). Nonetheless, the
+
+
+study unambiguously showed that caffeine use in some way or other retarded
+
+
+brain development in rats, and the similarities between rat brains and human
+
+
+brains make it extremely likely that, if consumed in large enough quantities
+
+
+over a long enough period of time, caffeine can slow down brain
+
+
+development in humans (Mohan et al., 2015).
+
+
+      This last point is subject to some important qualifications. First of all,
+
+
+when administered to rats in moderate doses, caffeine actually offset the
+
+
+damage done by brain-injuries and, in cases when the brain-injured rats were
+
+
+still developing, permitted the resumption of normal brain-development.
+
+
+Something analogous seems to hold of human beings, in that persons who
+
+
+take caffeine pills during a stroke minimize the brain-damage subsequently
+
+
+done by that stroke. Finally, studies have shown that caffeine helps offset the
+
+
+damage done to neonatal rats by instances of hypoxia (Meeusen et al., 2018).
+
+
+      Importantly, when taken in low to moderate doses, caffeine actually
+
+
+has a calming effect on children. This is why it is often prescribed by
+
+
+physicians to children who have ADHD, the standard daily dose being 200mg to 400 mg. When children do not have ADHD, 300 mg or more of
+
+
+caffeine may temporarily cause ADHD-like symptoms, mainly fidgeting and
+
+
+increased anxiety. It is extremely unusual for pre-adolescents to consume this
+
+
+much caffeine and there are no reported cases of caffeine consumption in
+
+
+children leading to anti-social or self-destructive behavior or of their having
+
+
+any adverse health-consequences (Meeusen et al., 2018).
+
+
+      For ethical reasons, there have been few studies of how caffeine
+
+
+affects the cognitive abilities of children or adolescents. The only studies that
+
+
+have been conducted concern children with ADHD who have been prescribed
+
+
+caffeine by a licensed physician. Those studies show that caffeine improves
+
+
+test-scores in children with ADHD and also improves manual dexterity. It is
+
+
+not clear whether the same would be true of children who do not have
+
+
+ADHD; nor is it otherwise clear whether those results in any way generalize
+
+
+to other populations. That said, there have been studies of how caffeine
+
+
+affects cognitive performance in college students and other populations, and
+
+
+those studies all show that it enhances cognitive performance (Schmidt,
+
+
+2017).
+
+
+      As a general rule, caffeine temporarily increases blood-pressure and
+
+
+heartrate, granting that, when taken in low to moderate doses, it tends to have
+
+
+the opposite effect on children, especially children with ADHD. For this
+
+
+reason, people are inclined to suspect that caffeine-use increases thelikelihood of stroke and heart-attack. This has been thoroughly studied and
+
+
+proven to be totally false. Setting aside people with heart-conditions, even
+
+
+high doses of caffeine do not increase the likelihood of heart-attack or stroke.
+
+
+The effects of high doses of caffeine on those with coronary conditions have
+
+
+not been thoroughly studied. There have been no documented cases of
+
+
+caffeine consumption causing a cardiac incident, even in people with
+
+
+coronary conditions; but because caffeine is a stimulant whose effects on
+
+
+such people have not been studied, physicians recommend that they moderate
+
+
+or eliminate their use of caffeine (Spiller, 2019).    
+
+
+ 
+
+
+                          Pros and Cons of Caffeine-regulation
+
+
+ 
+
+
+        Granting that the long-term effects on children of heavy caffeine use
+
+
+are still unclear, their short-term effects are moderately well-known and are
+
+
+sometimes negative. Whereas adults respond to moderate amounts of caffeine
+
+
+by becoming focused, children sometimes respond by becoming confused
+
+
+and agitated. Caffeine makes it easy for an adult to get through a boring
+
+
+meeting, but it can make it hard for a child or even an adolescent to get
+
+
+through a boring class. (This is subject to the qualification that it helps
+
+
+children with ADHD to focus and behave properly.)
+
+
+      This is significant because, over the last twenty years, caffeine useamong pre-adults has risen from an average of 30 mg/day to 70 mg/day.
+
+
+Almost all of this extra caffeine comes from carbonated, candy-flavored, and
+
+
+highly caffeinated so-called ‘energy drinks’, such as Red Bull, Monster, and
+
+
+Rock Star. A single ‘Red Bull’ or ‘Rock Star’ contains around 200 mg of
+
+
+caffeine—the same as a strong cup of coffee. But these beverages, unlike
+
+
+coffee, are palatable to children; and unlike coffee, they go down smooth and
+
+
+can easily be guzzled down. And this is just what is happening, especially
+
+
+with adolescents and pre-adolescents. Currently, there are no laws preventing
+
+
+children from purchasing energy drinks, and it must therefore be asked
+
+
+whether such laws should be introduced (Spiller, 2019).
+
+
+      In the present author’s judgment, the answer to this question is ‘no.’
+
+
+First of all, we must distinguish the question ‘should children drink
+
+
+caffeinated beverages?’ from the question ‘should the sale of caffeinated
+
+
+beverages to children be criminalized?’ Children shouldn’t spend hours
+
+
+watching TV; but if they do, neither they nor their guardians should be fined
+
+
+or jailed for it. When asking whether such and such should be illegal, it is not
+
+
+enough to know whether X is morally good. It must also be taken into
+
+
+account whether the cure would be worse than the disease. Laws are
+
+
+expensive; people have to be paid to enforce them; and before we decide to
+
+
+criminalize such and such, we must be sure that the financial costs of doing
+
+
+so do not outweigh the benefits (Friedman, 1962).      We must also know that, in criminalizing such and such, we are not
+
+
+thereby criminalizing things that shouldn’t be criminalized. It’s well and
+
+
+good to prohibit minors from purchasing energy drinks and caffeine pills. But
+
+
+what if the minor is a 17-year-old who is suffering an acute migraine and
+
+
+needs Excedrin? What if the minor is a 14-year-old female who is suffering
+
+
+from wrenching pains due to PMS and needs Midol? In terms of its caffeine-
+
+
+content, a single dose of Midol or Excedrin is comparable to the average
+
+
+energy drink. (A single Excedrin has 65 mg of caffeine; a single Midol has 60
+
+
+mg., the recommended dosage of each being two to four pills daily.)
+
+
+      Of course, one option would be to be to allow minors to purchase
+
+
+caffeinated medications but prohibit them from purchasing energy drinks or
+
+
+other caffeinated non-medicinal items. This seems reasonable at first, but it
+
+
+starts to seem less reasonable when financial realities are considered. This
+
+
+law cannot be enforced unless police officers and prosecutors are given
+
+
+special training and then dedicate at least some of their time to investigating
+
+
+and prosecuting allege offenders. Either the public defrays these costs, in
+
+
+which case it has that much less money to invest in education and business
+
+
+and the like, or it doesn’t, in which case police and prosecutors have one
+
+
+more law to enforce but no extra money with which to enforce it, the
+
+
+inevitable result being that they cease to enforce some other law. This does
+
+
+not mean that it would necessarily be wrong to enact the law in question, butit means that before deciding to do so, we must know what we are gaining
+
+
+and what we are losing (Friedman 1962).
+
+
+      The gains would be modest. Fatal caffeine overdoses are extremely
+
+
+rare. In order to die from a caffeine overdose, it is necessary to ingest over 5
+
+
+grams of caffeine within a few seconds. This can be done, but only by
+
+
+ingesting caffeine pills or powder; it cannot be done by drinking caffeinated
+
+
+liquid, since the caffeine being ingested is metabolized before it can reach
+
+
+fatal levels (Turnbull et al., 2017).
+
+
+      What about the effects of caffeine on brain development? Do they not
+
+
+warrant banning the sale of energy drinks to youths? They do not. The rats in
+
+
+the studies in question were given 300 mg of caffeine every day of their lives
+
+
+until they reached adulthood. The average rat weighs under 10 oz; the
+
+
+average person weights around 175 lbs. or 2800 oz. This means that these rats
+
+
+were given the equivalent of 84000 mg of caffeine every single day of their
+
+
+pre-adult lives. The average American middle-schooler, by contrast,
+
+
+consumes 70 mg of caffeine, making it unclear whether that experiment has
+
+
+any bearing at all on the effects of caffeine on human brain development
+
+
+(Winerdal et al., 2017).
+
+
+      What about the ADHD-like symptoms that caffeine elicits from pre-
+
+
+adolescents? Do they not demand that we criminalize the sale of energy
+
+
+drinks to minors? No. Children obviously shouldn’t consume energy drinks;but that doesn’t mean that we should criminalize their doing so. Children do
+
+
+not respond to caffeine by becoming violent or otherwise ‘acting out.’ Their
+
+
+responses are internal: anxiety, restlessness, irritability, and the like. These
+
+
+emotional changes may lead to expressions of discomfort, such as fidgeting
+
+
+and squirming, but there are no documented cases of their leading to violent
+
+
+or confrontational behavior (Brice, 2016).
+
+
+      The most serious consequence for children of caffeine-consumption is
+
+
+difficulty sleeping. Sleep-deprivation, especially in children, is a serious
+
+
+matter. But, first of all, there are no documented cases of children suffering
+
+
+from chronic insomnia as a result of caffeine consumption, and even if there
+
+
+were, the right response would not be to criminalize their behavior. Setting
+
+
+aside cases of violent or excessively disruptive behavior, substandard
+
+
+behavior on the part of children can and should be dealt with by parents and
+
+
+teachers, through instruction and discipline. If we try to solve non-criminal
+
+
+problems by criminalizing them, we will only create worse problems
+
+
+(Friedman, 1962).
+
+
+ 
+
+
+                                            Conclusion
+
+
+ 
+
+
+      There is no evidence that caffeine consumption among adults does
+
+
+them harm, and there is considerable evidence that it does good. There arestudies that show that daily mega-doses of caffeine impair brain development
+
+
+in rats; but the doses given, when adjusted for weight, were over hundreds of
+
+
+times higher than any dose that any human being could possibly consume.
+
+
+Also, those studies do not make it clear whether the caffeine directly
+
+
+impaired brain-development in rats or whether it did so by causing sleep-
+
+
+deprivation.
+
+
+      Children with ADHD who are given moderate to high doses of
+
+
+caffeine respond with improved test-performances and improved conduct.
+
+
+Children without ADHD who take comparable doses respond by temporarily
+
+
+having ADHD-like symptoms, such as fidgeting, but they do not act out or
+
+
+act violently, and the effects last only a few hours.
+
+
+        Although there has been a large percentage-increase in caffeine
+
+
+consumption among children, due almost entirely to the popularity with that
+
+
+demographic of energy drinks, the absolute levels of caffeine consumption
+
+
+among pre-adults remains low. Moreover, there has been no evidence that
+
+
+caffeine consumption has adversely affected children’s health or
+
+
+psychological development, and there is definitive evidence that it is helpful
+
+
+in these respects to children with ADHD.
+
+
+      Government regulations are expensive. They are expensive to
+
+
+implement and expensive to enforce. Oftentimes, these expenses are justified.
+
+
+For example, the laws that prohibit minors from purchasing alcohol, tobacco,and firearms are justified, given the obvious health-problems that such
+
+
+regulations prevent. In the case of caffeine-related regulations, such expenses
+
+
+would not be justified. Currently the sale of caffeine is almost completely
+
+
+unregulated, and there is no evidence of any kind that children or anyone else
+
+
+is being harmed as a result. Also, the introduction of such regulations would
+
+
+be especially thorny, given the fact that it is the active ingredient in many
+
+
+medications, including every single OTC medicine for migraine headaches
+
+
+and premenstrual syndrome. It is a distinct possibility that adolescents
+
+
+wanting a ‘caffeine fix’ might resort to buying Excedrin or Anacin, which,
+
+
+unlike straight caffeine, are far from harmless. Of course, the government
+
+
+could counter-respond by prohibiting the sale of Excedrin and other such
+
+
+medications, but nothing but suffering and inconvenience would come of any
+
+
+such prohibition, as anyone suffering from a migraine or from premenstrual
+
+
+syndrome knows all too well.
+
+
+      Further problems arise from the fact that caffeine is available to
+
+
+consumers in a wide variety of forms, including snack-bars, teas, and health-
+
+
+drinks. Restrictions on the sale of caffeine, if enforced, would require a
+
+
+veritable army of regulators and would also debilitate a wide variety of
+
+
+businesses. The result of such restrictions would be an unwelcome and
+
+
+useless encroachment of government on the private sector, with no
+
+
+foreseeable gain for any demographic. It must therefore be concluded that, atpresent, any dialing up of caffeine-related regulations are contraindicated.
+
+
+ 
+
+
+                                          Works Cited
+
+
+ 
+
+
+      Ardais, A. P., Rocha, A. S., Borges, M. F., Fioreze, G. T., Sallaberry,
+
+
+C., Mioranzza, S., ... & de Oliveira Porciúncula, L. (2016). Caffeine exposure
+
+
+during rat brain development causes memory impairment in a sex selective
+
+
+manner that is offset by caffeine consumption throughout life. Behavioural
+
+
+brain research, 303, 76-84.
+
+
+      Brice, M. (2016). Seven Surprising Health Benefits of Coffee. Medical
+
+
+Daily.
+
+
+      Chen, X., Liu, Y., Jaenicke, E. C., & Rabinowitz, A. N. (2018). The
+
+
+Added Caffeine, Health Concerns and Potential Regulations: The Case of
+
+
+Energy Drinks.
+
+
+      Chen, X., Liu, Y., Jaenicke, E. C., & Rabinowitz, A. N. (2019). New
+
+
+concerns on caffeine consumption and the impact of potential regulations:
+
+
+The case of energy drinks. Food Policy, 101746.
+
+
+      Clark, I., & Landolt, H. P. (2017). Coffee, caffeine, and sleep: A
+
+
+systematic review of epidemiological studies and randomized controlled
+
+
+trials. Sleep medicine reviews, 31, 70-78.
+
+
+      Doepker, C., Lieberman, H. R., Smith, A. P., Peck, J. D., El-Sohemy,A., & Welsh, B. T. (2016). Caffeine: friend or foe?. Annual Review of Food
+
+
+Science and Technology, 7, 117-137.
+
+
+        Endesfelder, S., Weichelt, U., Strauß, E., Schlör, A., Sifringer, M.,
+
+
+Scheuer, T., ... & Schmitz, T. (2017). Neuroprotection by caffeine in
+
+
+hyperoxia-induced neonatal brain injury. International journal of molecular
+
+
+sciences, 18(1), 187.
+
+
+      Friedman, Milton. 1962. Capitalism and Freedom. Cambridge:
+
+
+Harvard University Press.
+
+
+      Grosso, G., Godos, J., Galvano, F., & Giovannucci, E. L. (2017).
+
+
+Coffee, caffeine, and health outcomes: an umbrella review. Annual review of
+
+
+nutrition, 37, 131-156.
+
+
+      Kelly, J. P., & Granger, C. B. (2016). More Evidence That Caffeine
+
+
+Consumption Appears to Be Safe in Patients With Heart Failure. JAMA
+
+
+internal medicine, 176(12), 1759-1760.
+
+
+        Kolahdouzan, M., & Hamadeh, M. J. (2017). The neuroprotective
+
+
+effects of caffeine in neurodegenerative diseases. CNS neuroscience &
+
+
+therapeutics, 23(4), 272-290.
+
+
+      Mohan, A., Roberto, A. J., Mohan, A., Liogier-Weyback, L., Guha,
+
+
+R., Ravishankar, N., ... & Mohan, R. (2015). Caffeine as treatment for
+
+
+Alzheimer's disease: a review. Journal of Caffeine Research, 5(2), 61-64.
+
+
+      Meeusen, R., & Decroix, L. (2018). Nutritional supplements and thebrain. International journal of sport nutrition and exercise metabolism, 28(2),
+
+
+200-211.
+
+
+      Schmidt, B., Roberts, R. S., Anderson, P. J., Asztalos, E. V.,
+
+
+Costantini, L., Davis, P. G., ... & Moddemann, D. (2017). Academic
+
+
+performance, motor function, and behavior 11 years after neonatal caffeine
+
+
+citrate therapy for apnea of prematurity: an 11-year follow-up of the CAP
+
+
+randomized clinical trial. JAMA pediatrics, 171(6), 564-572.
+
+
+      Spiller, G. A. (2019). Caffeine. CRC Press.
+
+
+        Turnbull, D., Rodricks, J. V., Mariano, G. F., & Chowdhury, F.
+
+
+(2017). Caffeine and cardiovascular health. Regulatory Toxicology and
+
+
+Pharmacology, 89, 165-185.
+
+
+      Winerdal, M., Urmaliya, V., Winerdal, M. E., Fredholm, B. B.,
+
+
+Winqvist, O., & Ådén, U. (2017). Single dose caffeine protects the neonatal
+
+
+mouse brain against hypoxia ischemia. PloS one, 12(1), e0170545.
+
+
+      Verster, J. C., & Koenig, J. (2018). Caffeine intake and its sources: A
+
+
+review of national representative studies. Critical reviews in food science and
+
+
+nutrition, 58(8), 1250-1259.
+
+
+        Yousefi‐Nooraie, R., Akbari‐Kamrani, M., & Mortaz‐Hedjri, S.
+
+
+(2018). Caffeine for cognition. The Cochrane database of systematic
+
+
+reviews, 2018(8).
+
+
+                                     Annotated Bibliography
+
+
+ 
+
+
+      Brice, M. (2016). Seven Surprising Health Benefits of Coffee. Medical
+
+
+Daily. Discusses recent research that proves caffeine to have a number of
+
+
+important health benefits, including longer life, low likelihood of contracting
+
+
+Alzheimer’s, and improved long-term memory.
+
+
+      Meeusen, R., & Decroix, L. (2018). Nutritional supplements and the
+
+
+brain. International journal of sport nutrition and exercise metabolism, 28(2),
+
+
+200-211. A survey of numerous recent studies concerning the effect of
+
+
+caffeine on the bloodstream’s ability to transport oxygen and on the
+
+
+consequent long- and short-term health-effects of caffeine.
+
+
+      Spiller, G. A. (2019). Caffeine. CRC Press. A comprehensive, non-
+
+
+partisan analysis of recent scientific work concerning the health-effects of
+
+
+caffeine, as well as the economics of the coffee- and tea-industries. Special
+
+
+attention is paid to recent findings concerning the probable link between
+
+
+increased neural plasticity and elevated levels of caffeine intake.
+
+
+        Turnbull, D., Rodricks, J. V., Mariano, G. F., & Chowdhury, F.
+
+
+(2017). Caffeine and cardiovascular health. Regulatory Toxicology and
+
+
+Pharmacology, 89, 165-185. Describes a series of studies in which the effects
+
+
+of caffeine on cardiovascular health were shown to be positive and,
+
+
+consequently, not to be similar to those of other agents, such as sodium andnicotine, that increase heartrate and blood-pressure.
+
+
+      Winerdal, M., Urmaliya, V., Winerdal, M. E., Fredholm, B. B.,
+
+
+Winqvist, O., & Ådén, U. (2017). Single dose caffeine protects the neonatal
+
+
+mouse brain against hypoxia ischemia. PloS one, 12(1), e0170545. A detailed
+
+
+discussion of striking findings on the part of researchers concerning the use
+
+
+of caffeine to minimize hypoxia-induced brain-damage in neonatal mice.
+
+
+        Yousefi‐Nooraie, R., Akbari‐Kamrani, M., & Mortaz‐Hedjri, S.
+
+
+(2018). Caffeine for cognition. The Cochrane database of systematic
+
+
+reviews, 2018(8). A discussion of recent studies concerning the alleged
+
+
+neuro-protective properties of caffeine. Provides clear, quantitative data to
+
+
+the effect that caffeine improves performance on standardized tests. 
+
+
+                            Who started the Cold War?
+
+
+ 
+
+
+              The Soviet Union’s political ideology was inherently aggressive
+
+
+and expansionistic, and that—and that alone—is why the Cold War
+
+
+happened. It is obviously more politically correct to take the view that both of
+
+
+the two major parties involved in the Cold War were equally responsible for
+
+
+its genesis. But that isn’t at all true, for reasons to be discussed. Nor is it true
+
+
+that, once the Cold War had begun, the situation was morally symmetrical,
+
+
+with both parties behaving equally morally and equally immorally. The
+
+
+situation was fundamentally asymmetrical. This was because communism—
+
+
+especially, the particularly invidious form of it on which the USSR was based
+
+
+—was not simply one political system among others. Bolshevik communism
+
+
+was not intended to bring peace or prosperity either to the Russian people or
+
+
+to the rest of the world; and the founders of the Soviet Union had every
+
+
+intention of bringing about a war, or some kind or other, with the ‘decadent
+
+
+West’, especially the United States.
+
+
+      “It is better than half the world perish and the other half be
+
+
+communist”, said Lenin, founder the Soviet Union, “than the entire human
+
+
+race live and communism perish.” Before World War II, the Soviet
+
+
+Leadership, headed by Joseph Stalin, had already deliberately starved onethird of the Ukrainian population to death, as a way of breaking Ukrainian
+
+
+resistance to Soviet rule. In additions, millions of people in all of the Soviet
+
+
+Republics had been shot, imprisoned in the Gulag, or forced to relocate en
+
+
+masse. Freedom of speech was non-existent; private property was equally
+
+
+non-existent; living conditions were wretched; there were virtually no
+
+
+personal, religious, or commercial freedoms of any kind. Although some
+
+
+people obviously had more power than others, nobody had any legal rights of
+
+
+any kind. Stalinist Russia was the purest example in human history of a state
+
+
+that was inimical to its own people.
+
+
+      In popular culture, we are often told that Stalin corrupted the
+
+
+revolution. “The revolution began with noble ideals”, we are told. “Trotsky
+
+
+and Lenin wanted to create a just and egalitarian social order, but Stalin
+
+
+seized power and derailed the Revolution.” Lenin and Trotsky had
+
+
+deliberately created a hyper-authoritarian state, and they used it to break the
+
+
+Russian the middle class, as well as most of the rest of Russian society.
+
+
+Lenin’s great ‘theoretical innovation’ as a Marxist was his belief that that, in
+
+
+order for a Marxist state to be created, it was necessary that a ‘revolutionary
+
+
+vanguard’, operating without any other party’s consent, autonomously take
+
+
+power and, once in power, forcibly impose communism on society. As for
+
+
+Trotsky, his great “innovation” as a Marxist was his belief in “permanent
+
+
+revolution” in all countries. In Trotsky’s view, the rightful objective of aMarxist “revolutionary vanguard” was to impose Marxist communism on all
+
+
+nations, not just on this or that specific nation.
+
+
+      Lenin and Trotsky were in complete agreement on all of these points.
+
+
+In fact, their only significant points of disagreement concerned matters that
+
+
+were internal to Marxist theory and proved to be of no significance. For
+
+
+example, Trotsky, unlike Lenin and Marx, held that labor unions were not
+
+
+inimical to the long-term interests of the ‘proletariat.’ But since there were no
+
+
+labor unions in Russia, this disagreement was not important. Also, Lenin and
+
+
+Trotsky made it their objective to strip all Russians, including peasants, of all
+
+
+of their assets and to kill those who resisted. They rationalized this by saying
+
+
+that anyone who had any assets and did not immediately relinquish them was
+
+
+for that very reason a ‘kulak’ (meaning an exploitative landowner,
+
+
+comparable to a feudal lord) who, as such, had to be ‘exterminated.’ During
+
+
+World War 1, when the Red Cross entered Russia to provide food and
+
+
+medicine to the sick and malnourished Russian peasants, Lenin and Trotsky
+
+
+organized troops to drive them out of Russia, which they succeeded in doing
+
+
+and which they rationalized by saying that the Russian peasantry had to
+
+
+suffer as much as possible so that they would come to hate the Tsarist order
+
+
+and join them in overthrowing it. 
+
+
+      Stalin did indeed seize power; but he was only able to do so because
+
+
+the Communist Party had total power and he belonged to it. The CommunistParty had total power because Lenin and Trotsky fought for decades to give it
+
+
+total power. Stalin and Trotsky were indeed foes, but not because they had
+
+
+important ideological disagreements. Quite the contrary, they were in perfect
+
+
+agreement as to what kind of government Russia was to have, their only
+
+
+disagreement concerning who was to be in charge of it.
+
+
+      Stalin exiled Trotsky in 1928; and by the start of WWII, Stalin had
+
+
+long since had total power. Stalin used World War II to expand his power
+
+
+base to other countries, his first move in this direction being to absorb all of
+
+
+Eastern Europe into the Soviet Union. It is generally believed that this was
+
+
+the beginning of the Cold War. Not so. Before the Soviet Union had even
+
+
+been established, Lenin and Trotsky had agitated for Communist revolution
+
+
+in the United States and Britain and had already established a network of
+
+
+‘fellow travelers.’ After WWII ended, the Soviet Union had real power; and
+
+
+Stalin, and the many others who wanted to spread the gospel of Marxist
+
+
+communism, had soviet military power behind them and therefore no longer
+
+
+had to rely solely on agitation and other such grass-roots measures. But the
+
+
+so-called ‘Cold War’ was merely a militarized continuation of a campaign to
+
+
+take control of the West that had been occurring since the first decade of the
+
+th
+20 century. This led to the wholesale Marxist takeover of China, North
+
+
+Korea, Cuba, and Cambodia.
+
+
+      The United States’ role in the Cold War was entirely defensive, inevery sense. To be sure, it made many terrible mistakes. It fought
+
+
+communism where it wasn’t a significant threat (e.g. Vietnam, Angola) and
+
+
+didn’t fight it where it was a significant threat (e.g. Eastern Europe, right after
+
+
+the end of WWII). But the Soviet Union was the aggressor. Also, the Soviet
+
+
+Union’s economy was completely broken; so even though its post-Stalinist
+
+
+leaders lacked the Marxist ardor of their predecessors, they had no choice but
+
+
+to expand, since their economy wasn’t self-sufficient. (When the Soviet
+
+
+Union fell in 1989, it was because it simply ran out of money.) The United
+
+
+States had a booming economy during the Cold War—and before it, except
+
+
+during the early 1930s—and stood to gain little, from its wars-by-proxy with
+
+
+the Soviet Union. It did not gain resources or land or trading partners; and it
+
+
+also lost good will and credibility, with its own citizens and with the rest of
+
+
+the world. But the Soviet Union had everything to gain from its engagements
+
+
+abroad; and those engagements where what kept it economically afloat
+
+
+during its short existence.
+
+
+      In conclusion, the Cold War was a war of Soviet aggression, fueled by
+
+
+a commitment to aggressive expansionism that was built into its very system
+
+
+by its founders and catalyzed by its desperate need for resources. For the
+
+
+United States, the Cold War was a losing proposition; the United States did
+
+
+not profit from its engagements in Vietnam or Korea or Cuba or Guyana or
+
+
+Angola. Moreover, those engagements were public relations disasters. Theonly reason the United States undertook them is that it was trying to keep
+
+
+Soviet aggression in check. 
+
+
+                 Who was a better President? Eisenhower or JFK?
+
+
+ 
+
+
+        Ultimately, Eisenhower was a better president than JFK. This is not
+
+
+because JFK failed to accomplish anything during his presidency: he
+
+
+accomplished a great deal; and his list of presidential accomplishments is
+
+
+longer and more illustrious than Eisenhower’s list. It isn’t because he did too
+
+
+little that JFK was less of a President than Eisenhower, but rather because he
+
+
+did too much. The American people take it for granted that their President is
+
+
+supposed to solve their problems. This is largely JFK’s doing: thanks to him,
+
+
+government is now expected to be, for lack of a better term, a ‘big brother’—
+
+
+a righter of wrongs, as opposed to a neutral administrator, with the result that
+
+
+government is now so large that nobody’s rights are secure. Eisenhower’s
+
+
+presidency, by contrast, was emotionally neutral and, unlike JFK’s, did not
+
+
+pave the way for the situation we have now, in which the government is
+
+
+omnipresent.
+
+
+      Let us start by listing Eisenhower’s main presidential
+
+                  [1]
+accomplishments:
+
+
+      *He balanced the budget.
+
+
+      *He created the highway system.
+
+
+      *He kept America out of war.      *He ended the Korean war and did so on terms that were at least
+
+
+reasonably consistent with American interests.
+
+
+      *He signed the first Civil Rights Acts into law.
+
+
+ 
+
+
+      Now let us state his main presidential failures (or what are taken to be
+
+    [2]
+such):
+
+
+ 
+
+
+      *He failed to end the Cold War.
+
+
+      *He failed to help the American farmer.
+
+
+        *Economic growth, though steady, was slow.
+
+
+      *He did not combat the hard-right, McCarthyite wing of the
+
+
+Republican Party.
+
+
+      *He did not promote Civil Rights sufficiently aggressively.
+
+
+ 
+
+
+      Notice that Eisenhower’s supposed ‘failures’ as a President were
+
+
+really about his not taking an interventionist, moralizing role in American
+
+
+affairs. When we say that Eisenhower ‘should’ have done more to combat
+
+
+McCarthyism, what is the justification? McCarthy had a position; other
+
+
+people had different positions. It may have been Eisenhower’s responsibilityto curb criminal misconduct on McCarthy’s part, but it was not his
+
+
+responsibility to extirpate all support for McCarthy’s political views. So this
+
+
+‘failure’ of Eisenhower’s was a failure only relative to an activist,
+
+
+Kennedyesque conception of government.
+
+
+      Now let us look at Kennedy’s presidential achievements and failings,
+
+                                              [3]
+starting with his (alleged) achievements:
+
+
+ 
+
+
+      *He averted nuclear war.
+
+
+      *He founded the peace corp.
+
+
+      *He encouraged public service on the part of Americans.
+
+
+      *He helped usher in affirmative action, equal pay, and civil rights.
+
+
+      *He started the US space program.
+
+
+      *He gave a temporary boost to the economy. 
+
+
+ 
+
+
+      Now let us look at his failures:
+
+
+ 
+
+
+      *He gave arms to many (then) US allies, many of which are now
+
+
+dangerous actors.
+
+
+      *He deepened our involvement in Viet Nam.      *He failed to remove Castro from power, emboldening the Soviets to
+
+
+threaten us with Nuclear war.
+
+
+ 
+
+
+      JFK’s achievements are impressive—but dubious. The theme we see
+
+
+running through his presidency is that it is the President’s job to be a hero: a
+
+
+righter of wrongs, as opposed to a mere administrator---which sometimes has
+
+
+positive effects (e.g. civil rights), sometimes has negative ones (e.g. Viet
+
+
+Nam), and sometimes has ambiguous effects (e.g. expansion of money supply
+
+
+and credit, leading to temporary economic spike), but has led to over-
+
+
+expansions of government in both domestic and foreign policy.
+
+
+      Sadly, unless there is an actual crisis, it is the government’s job to
+
+
+govern—not to inspire, not to create a utopia, not even to eliminate all
+
+
+injustices. Eisenhower’s Presidency was a blank compare to Kennedy’s, his
+
+
+main accomplishment being the construction of the national highway system.
+
+
+Kennedy’s system was certainly not a blank, and he was obviously in many
+
+
+respects a singularly good president; but his legacy was that Presidents are
+
+
+supposed to be heroes, not mere civil servants, which has caused politics to
+
+
+become much more ideological and divisive than it has to be and which,
+
+
+consequently, has impaired the effectiveness of government.
+
+
+                   Who was a better President? Nixon or LBJ?
+
+
+ 
+
+
+        Richard Nixon is now made out to be a bigoted right-wing extremist,
+
+
+and LBJ is made out to be the exact opposite, the conventional wisdom that
+
+
+Richard Nixon was an oppressor and LBJ a champion of the oppressed. But
+
+
+this position is not consistent with their actual political legacies. Under LBJ,
+
+
+and to a large extent because of him, the United States government engaged
+
+
+in aggressive campaigns to improve education and to fight poverty,
+
+
+unemployment, and racial discrimination. But the aftermath of these
+
+
+measures is increased unemployment among African Americans, a
+
+
+dysfunctional educational system for everybody, and a bloated and hyper-
+
+
+authoritarian Federal government. Richard Nixon, by contrast, did have at
+
+
+least some unambiguous successes as President and must therefore be
+
+
+regarded as better President than LBJ.
+
+
+      Let us start by listing what many would regard as LBJ’s greatest
+
+
+accomplishments:
+
+
+ 
+
+
+      *He created the welfare system, with its general financial provisions
+
+
+for those in dire economic straits.
+
+
+      *He signed into law measures that aggressively racism towards ethnicminorities illegal in all but the most completely personal contexts.
+
+
+      *He increased Federal funding, as well as oversight, of education by a
+
+
+factor of ten.
+
+
+ 
+
+
+      LBJ’s greatest mistake as President is generally believed to be his
+
+
+decision to deep American involvement in Viet Nam.
+
+
+ 
+
+
+      What about Richard Nixon? What were his greatest accomplishments
+
+
+as President?
+
+
+ 
+
+
+        *Nixon founded the EPA.
+
+
+      *Nixon officially recognized Communist China, which, by his
+
+
+      intention, hastened the demise of the Soviet Union.
+
+
+        *Nixon ended the Viet Nam war
+
+
+ 
+
+
+              What were Nixon’s greatest mistakes?
+
+
+ 
+
+
+      *He used the instruments of government to cover up a crime that he
+
+
+committed.      *He deepened American involvement in Viet Nam before ending the
+
+
+war.
+
+
+      *He started the War on Drugs.
+
+
+      *He took America off the gold standard.
+
+
+ 
+
+
+      With regard to the last item, I do not myself know that this was a
+
+
+mistake; but it is sufficiently often mentioned that I felt obliged to include it.
+
+
+As for the War on Drugs, for various reasons (the main being that penalizes
+
+
+lifestyles, as opposed to crimes, and therefore turns the police into thought
+
+
+police), I believe this to be one of the worst mistakes ever made in the history
+
+
+of public policy, and it is, in my judgment, the blackest spot on Nixon’s
+
+
+legacy.
+
+
+      Given only what we’ve said thus far, LBJ appears to be the obvious
+
+
+front-runner. But not so fast! LBJ’s ‘War on Poverty’ created more poverty,
+
+
+especially among the very groups that it was intended to help. Prior to LBJ’s
+
+
+great reforms,
+
+
+ 
+
+
+        *Unemployment among African Americans was lower than it is.
+
+
+      *African Americans were considerably more likely to own their
+
+
+      businesses than they are now        *African Americans were more likely to be employed as engineers
+
+
+and to have trades.
+
+
+      *Crime among African Americans was lower, as were incarceration
+
+
+rates.
+
+
+      *Income-gaps between Caucasians and African Americans were
+
+
+      smaller, as were education-gaps.
+
+
+      *Public education was better and less expensive.
+
+
+      *The Federal government was smaller.
+
+
+      *The cost of living was lower.
+
+
+      *Rates of depression and mental illness were lower.
+
+
+      *Rates of homeownership, including among African Americans, were
+
+
+higher.
+
+
+        *Levels of well-being, including among African Americans, were
+
+
+higher.
+
+
+ 
+
+
+      In a word, each of LBJ’s signature policies, though admirable in
+
+
+intent, seriously backfired. Also, LBJ’s decisions concerning Viet Nam cost
+
+
+lives on both sides, while failing to advance American interests.
+
+
+      By contrast, Nixon’s good deeds as Presidents have stood the test oftime. By recognizing China, Nixon created infighting within the Communist
+
+
+bloc and thereby paved the way for the demise of Soviet Communism. AS for
+
+
+the EPA, it does water it is supposed to do: it protects the environment,
+
+
+including wildlife, and helps keep water clean and water drinkable. As for
+
+
+Nixon’s behavior vis-à-vis Vietnam, this, like many other aspects of his
+
+
+presidency, was ambiguous. But he did end the war, despite being under
+
+
+pressure from his own base to continue it; and that is more than can be said
+
+
+for Johnson.
+
+
+      In conclusion, LBJ clearly meant well, but his policies to a large
+
+
+extent did the opposite of what they were supposed to do. According to
+
+
+economists, this is because those policies replaced the invisible hand of
+
+
+supply-and-demand with the dead hand of government policy, leading to a
+
+
+weakened economy and a consequent loss of wealth across the board,
+
+
+especially for those on the bottom economic rung. I suspect that there is more
+
+
+to the story. I personally do not believe that welfare is particularly
+
+
+destructive, economically or otherwise, and I don’t believe LBJ was wrong to
+
+
+implement generous welfare policies. But his expansion of government was
+
+
+too fast and too large, its aftermath being a government that is too large and
+
+
+is too involved in people’s lives.
+
+
+ 
+
+
+     Technology-caused Job-shortages and the Need for Universal Welfare
+
+
+ 
+
+
+How, if at all, will artificial jobs affect employment in the future? Are you an
+
+
+optimist on this score, or a pessimist?
+
+
+ 
+
+
+ 
+
+
+        Artificial intelligence eliminates several jobs for each job that it
+
+
+creates. This is what has been happening since AI’s very inception, and this is
+
+
+what will continue to happen. Some people claim that AI creates as many
+
+
+jobs as it eliminates. This is false, and it is the purpose of this essay to prove
+
+
+that it is false. I will start by showing that it is inherent in what technology is
+
+
+that technological advancement decreases the amount of work that there is for
+
+
+people to do. I will then explain why this is doubly true of AI. I will end by
+
+
+discussing how government should deal with the job-shortage that AI  will
+
+
+inevitably lead to.
+
+
+      Technology reduces the need to work, and it makes the work that it
+
+
+doesn’t eliminate less difficult. Thanks to tractors, sewing-machines, and gas-
+
+
+powered drills, it takes little effort to do in an afternoon what it would take
+
+
+months of back-breaking labor to do by hand.  What is true of cars, tractors,
+
+
+and sewing machines is true of AI-based technologies:  thanks to
+
+
+smartphone-apps and computer-programs, it takes little effort, as well as littletraining, to do in a single afternoon what would otherwise be impossible or
+
+
+would require months of intense intellectual work on the part of a trained
+
+
+professional.
+
+
+      Many people have either lost jobs to technology or fear that they soon
+
+
+will. Right-wing economists have argued that such people are wrong.
+
+
+According to such economists, technology creates a job for every job that it
+
+
+takes away. In their view, technology took jobs away from cobblers, but it
+
+
+created new jobs for the engineers needed to build and maintain the machines
+
+
+that made cobblers unnecessary. Similarly, so they argue, AI is taking jobs
+
+
+away from stockbrokers, but it has created new jobs for the programmers
+
+
+needed to service the e-platforms that eliminated the need for stockbrokers. In
+
+
+general, so it is argued, technology needs people to service it and therefore
+
+
+creates jobs that take the place of those that it eliminates.
+
+
+      This position is false and always has been. In societies that have little
+
+
+or no technology, the unemployment rate tends to be zero. There was no
+
+
+unemployment in Cambodia under Pol Pot; nor was there any in an Eskimo
+
+
+fishing community in the year 1600. The reason is the same in each case:
+
+
+where there is no technology, labor is inefficient, and everybody must
+
+
+therefore work. To be sure, new technology does indeed create new kinds of
+
+
+work: before there were cars, there were no auto-mechanics; and before there
+
+
+were smartphones, there were no app-developers. But the purpose oftechnology is to minimize how much work we have to do; it is not to alter the
+
+
+nature of what we have to do while keeping its quantity the same. If cars,
+
+
+tractors, and fork-lifts didn’t lighten workloads, we wouldn’t have much use
+
+
+for them. Consequently, there is no truth whatsoever to the idea that
+
+
+technological advancement creates as much work as it eliminates.
+
+
+      Why was such an absurd position ever argued for? The main reason is
+
+
+that the economists who advocate this position want to minimize the amount
+
+
+of government-interference in the economy. Their position is that
+
+
+government regulation restricts commerce and thwarts economic
+
+
+development: and in most contexts, they are right, since a society cannot
+
+
+function for long unless its members are allowed to exchange goods and
+
+
+services. But even if unregulated societies economically outperform regulated
+
+
+ones, it doesn’t follow that the government should never regulate. Second,
+
+
+unemployment benefits are not a form of government regulation and don’t
+
+
+have the same invidious economic effects as regulations. The law that
+
+
+prevents people from teaching unless they have a master’s degree in
+
+
+education is a regulation, since it prevents the market from deciding who
+
+
+works and gives that power to the government. The laws prevent people from
+
+
+killing and robbing are not regulations, since they don’t do this, and neither,
+
+
+for the same reason, are the laws that give people welfare benefits. To be
+
+
+sure, welfare benefits are not economically innocuous, since they have to bepaid for out of people’s taxes; but granting that excessive taxation hurts an
+
+
+economy, moderate taxation is sometimes a necessity, this being a case in
+
+
+point.
+
+
+      Technology has always eliminated jobs; but in times past, the contrary
+
+
+position, though false, was at least defensible. Pre-AI technology did not run
+
+
+itself, and its effect was not so much to eliminate employment as it was to
+
+
+make employment less about physical labor and more about knowing how to
+
+
+operate labor-saving machines. When the tractor came into existence,
+
+
+agricultural work became that much less about physical labor and that much
+
+
+more about knowing how to operate a tractor. But the story is very different
+
+
+when tractors are replaced by self-operating tractors and when, more
+
+
+generally, machines are replaced by robots. True—people will still be needed
+
+
+to maintain those robots, but there will be very few such jobs in relation to
+
+
+the number of labor jobs lost, and those jobs will also require unusually high
+
+
+levels of training and intellectual acumen. In general, a slight improvements
+
+
+in technology creates massive gains in efficiency and a corresponding drop in
+
+
+the demand for a given person’s labor.
+
+
+      This is cause for alarm if people are still required to work for food,
+
+
+lodging, and other necessities, since new technology, especially AI-based
+
+
+technology, makes most people economically redundant. But it is not a cause
+
+
+for alarm if people are not forced to work for basic necessities. And thanks tothe surpluses of wealth created by the very technologies that make most
+
+
+people economically redundant, there is no reason for most people to work.
+
+
+      The standard response to this is that, unless people are forced to work,
+
+
+they will become parasites and society will fall apart. But the truth is that
+
+
+most people right now are parasites: most jobs are not necessary and cost
+
+
+society more than they are worth. Somebody who receives $20,000 in welfare
+
+
+is quite harmless. But a redundant police officer or government bureaucrat is
+
+
+not harmless, since, unlike the welfare recipient, that person has power. This
+
+
+is not to say that all government employees and police officers are useless.
+
+
+But there is no way to create jobs for people without giving them at least
+
+
+some power. Even the lowliest and most unnecessary clerk can jam up
+
+
+legitimate business—and is likely to do so to make himself feel important.
+
+
+Creating jobs for unemployable people gives them the ability to prevent
+
+
+employable people from contributing, and it is therefore best simply to give
+
+
+them money for basic necessities. Ironically, the belief of right-wing
+
+
+economists that everyone should have to compete in the arena of commerce,
+
+
+with its consequent refusal on the part of government to give welfare to
+
+
+people who simply cannot do so, leads to the creation of vast numbers of jobs
+
+
+that benefit nobody, including those who have them. I therefore suggest that a
+
+
+universal welfare policy be instituted. In this I am in agreement with many
+
+
+distinguished people, including economically informed right-wing figures,such as Richard Nixon, who was one of the first public figures to advocate
+
+
+such a policy, as well as technology-wise left-wing figures, such as Mark
+
+
+Zuckerberg.
+
+
+ 
+
+
+           My Reaction to Schoenberg’s  A Survivor from Warsaw  
+
+
+                https://www.youtube.com/watch?v=DFXkc9AGoeU
+
+
+ 
+
+
+      The ‘point’ of this work, so to speak, is that the events in question
+
+
+were not simply dark but fell outside of what human beings are able to
+
+
+process; and this work conveys that point by being atonal and, on that basis,
+
+
+deriding and caricaturing pre-existing musical norms, rather than deploying
+
+
+them in any ordinary way. The first sounds that we hear are of an almost
+
+
+triumphant-sounding trumpet (01:-04). The motif is almost like that of a
+
+
+national anthem (e.g. the Chinese National Anthem, which is based on what
+
+
+sounds like a tonal version of this same trumpet-riff). But the modal is askew,
+
+
+being atonal, and is quickly met with a dark, semi-atonal orchestral
+
+
+background. Incidentally, the cello motif immediately heard thereafter sounds
+
+
+like Philip Glass, and I suspect that he may even have consciously borrowed
+
+
+it. (Cf. https://www.youtube.com/watch?v=6Stu7h7Qup8 32:09)
+
+
+      The rest of this work followed suit, all of it being on the edges of tonal
+
+
+music and all of it being, as it were, derogatory of it and, so it seems, of the
+
+
+cultural norms thereby represented, the work’s overall point seemingly being
+
+
+that what was happening in the world could no longer be understood in the
+
+
+usual rationality-based ways. What was a little hard to understand—or at
+
+
+least to fit into this way of understanding this work---was Chorale part, sungin Hebrew, as to the Jewish people’s future responsibilities to itself. The
+
+
+lyrics were straightforward and clearly non-ironic; but the accompanying
+
+
+music was atonal and, so it seemed, derisive, making it unclear whether the
+
+
+words being sung were to be taken literally, on the one hand, or, on the other
+
+
+hand, dismissed, in light of recent events, as naïve. I suspect that they were
+
+
+meant to be taken literally and were accompanied by atonal, ambiguous-
+
+
+sounding music only because that was the genre in which Schoenberg
+
+
+happened to composer.
+
+
+      I chose to listen to the video that did not feature Holocaust pictures.
+
+
+This was because I wanted to listen to the music without being ‘told’, so to
+
+
+speak, how to react. (The singing, especially the solo singing in English, did,
+
+
+however, tell me, quite literally, what I was to be thinking and feeling; and I
+
+
+was a bit surprised at this brazen violation of the ‘show, don’t tell’ rule
+
+
+governing theatrical performances.) Frankly, I found this work  easy to listen
+
+
+to, precisely because it doesn’t use conventional tonality. I was able to listen
+
+
+to each bar on its own, without having to feel that I had to embed in a larger
+
+
+musical narrative. Also, even though this music is classified as ‘atonal’, it is
+
+
+not, literally speaking, atonal; it is only relatively atonal. Relatedly, I think
+
+
+that contemporary audiences would find this piece much less jarring than
+
+
+Schoenberg’s contemporaries, mainly because so much film music sounds
+
+
+like this, probably because, so I suspect, Schoenberg’s music itself influencedfilm-composers.
+
+
+      And this last point, I think, is central to what is going with
+
+
+Schoenberg’s music. Bach’s music is not meant to represent anything; neither
+
+
+is Mozart’s or Beethoven’s. These composers did, of course, compose masses
+
+
+and operas and other story-accompanying works; but their music is always,
+
+
+ultimately, to be listened to by itself. Schoenberg’s music, by contrast, sounds
+
+
+like a movie score and is easy to listen if listened to in that way. But if
+
+
+listened to on its own, in the way in which Mozart or Beethoven are listened
+
+
+to, it is a bit grating. I would conjecture that part of what allowed Schoenberg
+
+
+to compose atonal music was that his music  was, at least by his intention, to
+
+
+be listened to as an accompaniment to a play or some such, and not on its
+
+
+own, so that the dissonances in it as comments on an independent story-line,
+
+
+and not as musical ends unto themselves.
+
+
+           Statistics: Basic Principles and Theorems (Math/Statistics)
+
+
+ 
+
+
+  DEFINITIONS/IMPORTANT THEOREMS
+
+
+ 
+
+
+RANGE: TOP VALUE MINUS BOTTOM VALUE
+
+
+MEAN: AVERAGE
+
+
+MEDIAN: VALUE THAT SPLITS DATA SET
+
+
+STANDARD DEVIATION: AVERAGE DIFFERENCE OF DATA POINT
+
+
+FROM MEAN
+
+
+VARIANCE: SQUARE OF STANDARD DEVIATION
+
+
+MODE: VALUE THAT OCCURS MOST OFTEN
+
+
+UNIMODAL: HAVING A SINGLE HIGHEST VALUE
+
+
+BIMODAL: HAVING TWO HIGHEST VALUES
+
+
+RIGHT-SKEWED: VALUES BUNCHED TOWARDS LEFT
+
+
+LEFT-SKEWED: VALUES BUNCHED TOWARDS RIGHT
+
+
+Z SCORE (TWO KINDS SEE INSERT)
+
+
+ x with bar over it=sample mean
+
+
+mu=population mean
+
+
+sigma=population standard deviation
+
+
+s=sample standard deviation
+
+
+P(A)=probability of A
+
+  C
+P(A)=probability of NOT A 
+
+  C
+P(A)=1-P(A))
+
+
+P(AUB)=probability of either A or B
+
+
+P(A∩B)=probability of both A and B
+
+
+P(A/B)=probability of A given B
+
+
+ 
+
+
+PROBABILITY THEOREMS (SEE BELOW FOR ILLUSTRATIONS)
+
+
+ 
+
+
+PROBABILITY OF EITHER A OR B (ADDITIVE RULE)
+
+
+ 
+
+
+P(XUY)=P(X)+P(Y)-P(X∩Y) 
+
+
+PROBABILITY OF A AND B (MULTIPLICATIVE RULE)
+
+
+
+
+
+
+
+PROBABILITY OF A GIVEN B
+
+
+ 
+
+
+
+
+
+
+
+
+                                MULIPLICATIVE RULE (ALTERNATIVE
+
+
+VERSION)
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+BAYES RULE
+
+
+  
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+SEE BELOW FOR EXPLANATIONS/EXAMPLES 
+
+
+EMPIRICAL RULE
+
+
+ 
+
+
+68% OF DATA POINTS FALL WITHIN ONE STANDARD DEVIATION
+
+
+95% OF DATA POINTS FALL WITHIN TWO STANDARD
+
+
+DEVIATIONS
+
+
+97.5% OF DATA POINTS FALL WITHIN THREE STANDARD
+
+
+DEVIATIONS
+
+
+ 
+
+
+SO ANYTHING IN TOP 2.5% OR BOTTOM 2.5% IS OUTLIER.
+
+
+NOTHING ELSE IS OUTLIER
+
+
+ 
+
+
+USE TI 84 TO FIND MEAN/MEDIAN/STANDARD DEVIATION/QL/QU
+
+
+ 
+
+
+Let’s suppose you want to do statistics (find mean, median, standard
+
+
+deviation etc.) on the following numbers:
+
+
+1,5,22,999
+
+
+Ti-84 makes it easy.
+
+
+HIT STAT
+
+
+CHOOSE EDIT
+
+
+ENTER NUMBERS IN FIRST COLUMN (TITLED L1)(JUST TYPE NUMBER THEN HIT ENTER)
+
+
+HIT STAT
+
+
+SCROLL TO RIGHT TO ‘CALC’
+
+
+HIT ENTER TWICE
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+The x with the bar over it is the mean.
+
+
+∑x=sum of all the values
+
+
+σx=POPULATION STANDARD DEVIATION
+
+
+Sx=SAMPLE STANDARD DEVIATION 
+
+
+ 
+
+
+ 
+
+
+FIND MEDIAN WITH TI 84
+
+
+ 
+
+
+To find MEDIAN, scroll down some more
+
+
+  
+
+
+Q1=QUARTILE 1
+
+
+Q3=QUARTILE 3
+
+
+YOU NEED TO KNOW Q1/Q3
+
+
+ 
+
+
+ 
+
+
+Frequency=number
+
+
+Relative frequency=percentage
+
+
+Example:
+
+
+H=hockey play
+
+
+S=soccer player
+
+
+ 
+
+
+HHHSSSSSSSHHHSSSSSSS
+
+
+ 
+
+
+Frequency of H=6
+
+
+Relative frequency of H=30% 
+
+
+PARETO DIAGRAMS
+
+
+ 
+
+
+Pareto Diagram: bar diagram, with bars in descending order, where there is a
+
+
+line indicating cumulative (total) amount.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+STEM AND LEAF DISPLAY
+
+
+ 
+
+
+Stem and leaf display: two column chart where first column (‘stem’) gives
+
+
+first digit of statistic and second column (‘leaf) gives rest of statistics.
+
+
+ 
+
+
+StemLeaf
+
+
+25 9 8
+
+
+43 8
+
+
+37 7 9This means that the statistics are as follows:
+
+
+25
+
+
+29
+
+
+28
+
+
+43
+
+
+48
+
+
+37
+
+
+37
+
+
+39
+
+
+To get total number of observations/statistics in leaf diagram
+
+
+The original numbers for a stem and leaf display are the actual numbers. So
+
+
+in this case, they would be: 25, 29, 28 etc.
+
+
+When the stem column contains a ‘0’, the original numbers are identical with
+
+
+those in the leaf column.
+
+
+ stemleaf
+
+
+Row 103 5 6
+
+
+Row 223 9
+
+
+  The original data for row 1 are: 3, 5, 6. The original data for row 2 are 23,
+
+
+29. (when there is a single digit number, you put a zero in ‘stem’ column.)
+
+
+ 
+
+
+Histogram 
+
+
+Each bar is an ‘interval.’ To count total ‘intervals’ just count bars. To count
+
+
+total number of measurements, add up the y-values of all the bars.
+
+
+ 
+
+
+FIND MEAN/MEDIAN/ETC. ON TI 84
+
+
+ 
+
+
+Mean=average
+
+
+1, 50, 100
+
+
+Mean=151/3
+
+
+ 
+
+
+ON TI 84, EASY TO FIND MEAN, MEDIAN. REPEAT STEPS
+
+
+DESCRIBED ABOVE
+
+
+STAT-EDIT-ENTER DATA-STAT-CALC
+
+
+Median=number that separates lower half from higher half.
+
+
+1, 50, 50, 50, 50, 50, 100
+
+
+Median=50
+
+
+ 
+
+
+Mode=number that occurs most often
+
+
+1, 1, 1, 1, 1, 75, 100
+
+
+Mode=1
+
+
+ ∑-NOTATION
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+n=number of numbers
+
+
+∑x=y means that when you add up those numbers, you get y
+
+
+So
+
+
+n=10, ∑x=84
+
+
+means that there are 10 numbers, and when you add them up, you get 84
+
+
+so to find the mean you divide 84 by 10, and you get 8.4
+
+
+ 
+
+
+MEAN AFFECTED BY EXTREME VALUES, MEDIAN NOT
+
+
+AFFECTED BY EXTREME VALUES
+
+
+
+
+The mean is affected by extreme values, while the median is not. If the
+
+
+data set is skewed to the right, then the median is less than the mean. If
+
+
+the data set is symmetric, the mean equals the median. If the data set is
+
+
+skewed to the left, the mean is less than the median.
+
+
+ Extreme values affect mean, not median.
+
+
+Skewed right means there are very high outliers, which raises mean, but not
+
+
+median.
+
+
+Skewed left means there are low outliers, which lowers mean, but not
+
+
+median.
+
+
+Salaries at a big company would be skewed left, because most people would
+
+
+earn little and there would only be a few millionaire executives.
+
+
+Scores on an easy test would be skewed left, since a disproportionate number
+
+
+of people would ace it.
+
+
+Scores on a hard test would be skewed right, since a disproportionate number
+
+
+of people would flunk it.
+
+
+ 
+
+
+  MINIMUM/MAXIMUM/RANGE
+
+
+ 
+
+
+Minimum/maximum=lowest/highest
+
+
+Range: difference between lowest and highest value.
+
+
+1,2,9,112
+
+
+Range=111
+
+
+Minimum=1
+
+
+Maximum=112
+
+
+  
+
+
+VARIANCE/FINDING VARIANCE ON TI 84
+
+
+ 
+
+
+VARIANCE=SQUARE OF STANDARD DEVIATION
+
+
+POPULATION VARIANCE=SQUARE OF σx
+
+
+POPULATION STANDARD DEVIATION=SQUARE OF Sx
+
+
+TI 84 DOES NOT DIRECTLY OUTPUT VARIANCE
+
+
+EXAMPLE:
+
+
+ 
+
+
+1,2,9,112
+
+
+FIND VARIANCE ON TI 84
+
+
+REPEAT STEPS FROM ABOVE (STAT-EDIT-ENTER NUMBER-STAT-
+
+
+  CALC-ENTER-ENTER)
+
+
+THIS GIVES YOU: 
+
+
+TO GET POPULATION VARIANCE, SQUARE 46.866…
+
+
+TO GET SAMPLE VARIANCE, SQUARE 54.117….
+
+
+ 
+
+
+Z-SCORE
+
+
+ 
+
+
+z-score:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+ x with bar over it=sample mean
+
+
+mu=population mean
+
+
+sigma=population standard deviation
+
+
+s=sample standard deviation
+
+
+ 
+
+
+OUTLIERS
+
+
+ 
+
+
+NON-OUTLIER = BETWEEN  -2.58 and +2.58 99.9%
+
+
+OUTLIER = NOT BETWEEN  -2.58 and +2.58 99.9%
+
+
+FOR Z SCORE, JUST CRUNCH NUMBERS. DON’T USE TI 84 SPECIAL
+
+
+FUNCTION.
+
+
+ 
+
+
+QUARTILES
+
+
+ 
+
+
+Q/Q
+LU
+
+
+Q =lower quartile XX
+L
+
+
+Q = upper quartile
+U
+
+
+THEY WILL GIVE YOU THIS. IF YOU NEED TO FIND IT, FOLLOW
+
+
+SAME STEPS AS YOU DO TO FIND MEAN
+
+
+75% ARE LESS THAN Q
+                              U25% ARE LESS THAN Q
+                              L
+
+
+  IQR=INTERQUARTILE RANGE=Q-Q
+                                            UL
+
+
+
+
+
+
+
+
+
+
+
+
+TWO ERRORS WITH DIAGRAMS THEY WANT YOU TO KNOW ABOUT
+
+
+ 
+
+
+WHEN THEY ASK TO IDENTIFY PROBLEMS WITH CHARTS, CHECK
+
+
+FOR TWO THINGS:
+
+
+DATA NOT MATCHING CHART
+
+
+CHART NOT STARTING AT ZERO
+
+
+ 
+
+
+ 
+
+
+PERMUTAITONS/COMBINATIONS
+
+
+  
+
+
+ 
+
+
+ 
+
+
+WHEN THEY ASK YOU TO CHOOSE R ELEMENTS FROM N objects
+
+
+(E.G. WHEN THEY ASK YOU HOW MANY WAYS 2 OBJECTS CAN
+
+
+BE SELECTED FROM A SAMPLE OF 10), YOU DO THE FOLLOWING:
+
+
+FIRST ENTER TOTAL SAMPLE SIZE (THE BIG NUMBER)
+
+
+THEN GO TO MATH MENU
+
+
+THEN RIGHT ARROW OVER TO PROB
+
+
+THEN GO TO nCr (which stands for n choose r)
+
+
+THEN ENTER THE OTHER NUMBER (IN THIS CASE 2)
+
+
+SO IF THEY ASK YOU HOW MANY WAYS YOU CAN CHOOSE 2
+
+
+JELLY BEANS FROM GROUP OF 10, YOU
+
+
+ENTER 10HIT ‘MATH’
+
+
+GO TO ‘PROB’
+
+
+SCROLL DOWN TO nCr
+
+
+ENTER 2
+
+
+HIT ENTER
+
+
+YOU GET 45
+
+
+ 
+
+
+
+
+ 
+
+
+PROBABILITY
+
+
+ 
+
+
+PROBABILITY = FAVORABLE CASES DIVIDED BY ALL CASES
+
+
+100 JELLY BEANS IN BOWL
+
+
+33 RED ONES
+
+
+PROBABILITY OF CHOOSING RED ONE = 33/100 =.33
+
+
+P(R)=PROBABILTY OF RED JELLYBEAN
+
+  C
+P(R)=PROBABILITY OF PICKING NON RED JELLYBEAN
+
+
+P(R)=.33
+
+  C
+P(R)=.67
+
+
+PROBABILITES=DECIMALS LESS THAN/EQUAL TO ONE AND
+
+
+GREATER THAN/EQUAL TO ZEROP(XUY)=PROBABILITY OF EITHER AN X OR A Y
+
+
+P(X∩Y) =PROBABILITY OF X AND Y AT SAME TIME 
+
+
+P(XUY)=P(X)+P(Y)-P(X∩Y)
+
+
+SUPPOSING YOU ARE ROLLING SINGLE DIE
+
+
+LP(E)=PROBABILITY OF EVEN ROLL
+
+
+P(O)=PROBABILITY OF ODD ROLL
+
+
+P(1)=1/6
+
+
+P(2)=1/6
+
+
+P(3)=1/6
+
+
+P(4)=1/6
+
+
+P(5)=1/6
+
+
+P(6)=1/6
+
+
+P(E)=3/6=1/2
+
+
+P(O) =3/6=1/2
+
+
+P(E∩2)=1/6
+
+
+  P(EU2)=P(E)+P(2)-P(E∩2)=3/6+1/6-1/6=1/2
+
+
+
+
+
+
+
+
+
+
+ MULTIPLICATIVE RULE (FIRST VERSION)
+
+
+ 
+
+
+  P(B/A)=PROBABILITY OF A, GIVEN B
+
+
+
+
+
+
+
+ 
+
+
+4 JELLY BEANS IN JAR, TWO YELLOW, TWO GREENS
+
+
+P(Y)=CHANCE OF PICKING YELLOW FIRST TIME=1/2
+  1
+
+
+P(G)= CHANCE OF PICKING GREEN FIRST TIME=1/2
+  1
+
+
+P(Y/G)=CHANCE OF PICKING YELLOW IF FIRST TIME DREW
+  21
+
+
+GREEN=1/2-1/6=2/5
+
+
+P(Y∩G)=CHANCE OF PICKING GREEN FIRST TIME AND YELLOW
+  21
+
+
+SECOND TIME=P(G)P(Y/G)=1/2(2/5)=2/10=1/5
+                        121
+
+
+ 
+
+
+MULTIPLICATIVE RULE (ALTERNATIVE VERSION)
+
+
+
+
+
+
+
+
+
+P(Y/G)= P(Y∩G)/ P(G)
+    21211 
+
+
+2/5=(1/5)/(1/2)
+
+
+ 
+
+
+ 
+
+
+BAYES RULE
+
+
+ 
+
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Also need to know the product rules:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+NO WAY TO USE TI 84 TO DO THIS, EXCEPT JUST TO CRUNCH
+
+
+NUMBERS.For example:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ Poem and Song Compared: To His Coy Mistress Compared with Don’t Be
+
+
+                              Cruel (Literary Analysis)
+
+
+ 
+
+
+      The poem that I chose to discuss is To His Coy Mistress (1650), by
+
+
+Andrew Marvel, and the song I chose is Don’t Be Cruel (1956) by Elvis
+
+
+Presley. There are several striking similarities between these works, and
+
+
+several striking differences, the similarities ultimately being more significant
+
+
+than the differences. In both cases, the man is playing a defensive game: he is
+
+
+pleading with a woman who is withholding her affections from him and over
+
+
+whom the man appears to have little or no leverage. 
+
+
+      Let us start by quoting To His Coy Mistress in its entirety:
+
+
+ 
+
+
+      Had we but world enough and time, 
+
+
+      This coyness, lady, were no crime. 
+
+
+      We would sit down, and think which way 
+
+
+      To walk, and pass our long love’s day. 
+
+
+      Thou by the Indian Ganges’ side 
+
+
+        Shouldst rubies find; I by the tide 
+
+
+      Of Humber would complain. I would 
+
+
+      Love you ten years before the flood, 
+
+
+      And you should, if you please, refuse       Till the conversion of the Jews. 
+
+
+      My vegetable love should grow 
+
+
+      Vaster than empires and more slow; 
+
+
+      An hundred years should go to praise 
+
+
+      Thine eyes, and on thy forehead gaze; 
+
+
+      Two hundred to adore each breast, 
+
+
+      But thirty thousand to the rest; 
+
+
+      An age at least to every part, 
+
+
+      And the last age should show your heart. 
+
+
+      For, lady, you deserve this state, 
+
+
+      Nor would I love at lower rate. 
+
+
+       But at my back I always hear 
+
+
+      Time’s wingèd chariot hurrying near; 
+
+
+      And yonder all before us lie 
+
+
+      Deserts of vast eternity. 
+
+
+      Thy beauty shall no more be found; 
+
+
+      Nor, in thy marble vault, shall sound 
+
+
+      My echoing song; then worms shall try 
+
+
+      That long-preserved virginity, 
+
+
+      And your quaint honour turn to dust, 
+
+
+      And into ashes all my lust;       The grave’s a fine and private place, 
+
+
+      But none, I think, do there embrace. 
+
+
+       Now therefore, while the youthful hue 
+
+
+      Sits on thy skin like morning dew, 
+
+
+      And while thy willing soul transpires 
+
+
+      At every pore with instant fires, 
+
+
+      Now let us sport us while we may, 
+
+
+      And now, like amorous birds of prey, 
+
+
+      Rather at once our time devour 
+
+
+      Than languish in his slow-chapped power. 
+
+
+      Let us roll all our strength and all 
+
+
+      Our sweetness up into one ball, 
+
+
+      And tear our pleasures with rough strife 
+
+
+        Through the iron gates of life: 
+
+
+      Thus, though we cannot make our sun 
+
+
+      Stand still, yet we will make him run.
+
+
+ 
+
+
+      This is obviously the work of an erudite and intelligent man, and it is
+
+
+also a sincere expression of passion. But it is ultimately not really about love,
+
+
+despite the author’s own asseverations to the contrary. Every single reference
+
+
+to the woman is concerns physical beauty: 
+
+
+      An hundred years should go to praise 
+
+
+      Thine eyes, and on thy forehead gaze; 
+
+
+      Two hundred to adore each breast, 
+
+
+      But thirty thousand to the rest;
+
+
+ 
+
+
+      And every single reference on the author’s part to his own feelings
+
+
+concerns lust, not love:
+
+
+ 
+
+
+ 
+
+
+      Now let us sport us while we may, 
+
+
+      And now, like amorous birds of prey, 
+
+
+      Rather at once our time devour 
+
+
+      Than languish in his slow-chapped power. 
+
+
+      Let us roll all our strength and all 
+
+
+      Our sweetness up into one ball, 
+
+
+      And tear our pleasures with rough strife 
+
+
+ 
+
+
+      The author’s ‘pitch’ to the woman is that, in a few years, she will be a
+
+
+corpse and that she might as well submit to his wishes:
+
+
+  
+
+
+      Thy beauty shall no more be found; 
+
+
+      Nor, in thy marble vault, shall sound 
+
+
+      My echoing song; then worms shall try 
+
+
+      That long-preserved virginity, 
+
+
+      And your quaint honour turn to dust, 
+
+
+      And into ashes all my lust; 
+
+
+      The grave’s a fine and private place, 
+
+
+      But none, I think, do there embrace. 
+
+
+ 
+
+
+        Consequently, even though it is meant to be tender and romantic, this
+
+
+poem comes across as desperate and angry, its subtext being: sex with me or
+
+
+die. And the author’s frequent references to his own ‘love’ are very clearly
+
+
+references to his own lust, given that he says nothing about the relationship
+
+
+he would like to have with the woman apart from his wanting it consist of
+
+
+“rough” sex (”And tear our pleasures with rough strife/Through the iron
+
+
+gates of life”). Finally, given the fact that he frequently mentions the
+
+
+woman’s rotting corpse, the author’s feelings not only seem to be entirely
+
+
+sexual in nature but also aggressively so.
+
+
+      Don’t be Cruel describes a very different situation, as the lyrics clearly
+
+
+indicate: 
+
+
+You know I can be found
+
+
+Sitting home all alone
+
+
+If you can't come around
+
+
+At least please telephone
+
+
+Don't be cruel to a heart that's true
+
+
+
+
+Baby, if I made you mad
+
+
+For something I might have said
+
+
+Please, let's forget the past
+
+
+The future looks bright ahead
+
+
+Don't be cruel to a heart that's true
+
+
+I don't want no other love
+
+
+Baby it's just you I'm thinking of
+
+
+
+
+Don't stop thinking of me
+
+
+Don't make me feel this way
+
+
+Come on over here and love me
+
+
+You know what I want you to say
+
+
+Don't be cruel to a heart that's true
+
+
+Why should we be apart?I really love you baby, cross my heart
+
+
+
+
+
+
+Let's walk up to the preacher
+
+
+And let us say I do
+
+
+Then you'll know you'll have me
+
+
+And I'll know that I'll have you
+
+
+Don't be cruel to a heart that's true
+
+
+I don't want no other love
+
+
+Baby it's just you I'm thinking of
+
+
+ 
+
+
+      This is not the work of an educated or sophisticated person, but it is a
+
+
+genuine express of love. The author never mentions the woman’s physical
+
+
+appearance; nor does he mention wanting to have sex with her. He only
+
+
+mentions missing and needing her:
+
+
+ 
+
+
+If you can't come around
+
+
+At least please telephone.
+
+
+ 
+
+
+      Also, the author is being self-effacing: the situation is his fault, not
+
+
+hers, and he will do whatever he must to make himself worthy of her,including dedicating his life to her:
+
+
+ 
+
+
+Baby, if I made you mad
+
+
+For something I might have said
+
+
+Please, let's forget the past
+
+
+The future looks bright ahead
+
+
+Don't be cruel to a heart that's true
+
+
+I don't want no other love
+
+
+Baby it's just you I'm thinking of
+
+
+ 
+
+
+    In all of these respects, Don’t be Cruel contrasts sharply with To His
+
+
+Coy Mistress. Marvel is angry blaming his ‘coy mistress’ for his situation; he
+
+
+explicitly claims that his inability to gratify his lusts with her is a
+
+
+consequence of her short-sightedness and stupidity: she is, in Marvel’s view,
+
+
+an attractive floozy who doesn’t realize how fleeting her looks are or how
+
+
+little she has to offer apart from being physically beautiful. By contrast, Elvis
+
+
+at no point denigrates the woman he is addressing, and he conceives of a
+
+
+relationship with her as an opportunity for him, whereas Marvel conceived of
+
+
+a relationship with his ‘coy mistress’ as an obligation for her.
+
+
+      Despite these differences, both works about a man’s emotional
+
+
+dependence the woman in question. In Marvel’s case, this dependence isfiltered through lust, whereas in Elvis’s cases it is not thus distorted. But both
+
+
+works are about the man’s need for the woman: she is on the one calling the
+
+
+shots, and the man simply has to wait on her decision. Marvel’s attitude
+
+
+towards his addressee is predatory and narcissistic, whereas Elvis’s attitude is
+
+
+genuinely loving; but these differences seem to have to do with the
+
+
+differences in the personalities of the two men involved, it being the
+
+
+similarity between the two situations that reflect what is universal in the
+
+
+nature of man’s love for woman.  
+
+
+ 
+
+
+         Random Variables, Discrete Variables, Continuous Variables
+
+
+                                    (Math/Statistics)
+
+
+ 
+
+
+Abbreviations
+
+
+μ =mean
+
+2
+σ=variance
+
+
+σ=standard deviation
+
+
+ 
+
+
+Formulas for these terms
+
+
+Consider the following numbers: 1,3,5,9
+
+
+μ = average
+
+
+μ=(1+3+5+9)/4=4.5
+
+2
+σ=the average of the square of the distance of the points from the mean, i.e.
+
+2
+σ=(1-4.5)2+ (3-4.5)2+ (5-4.5)2+(9-4.5)2=11.6667
+
+
+σ=square root of variance=3.41565
+
+
+ 
+
+                                                2
+Mean, variance, standard deviation (μ,σ,σ): How to get them on TI 84
+
+
+(review)
+
+
+Suppose your data-points are,
+
+
+1,5,22,999
+
+            2
+To find μ,σ,σ on TI 84, do the following (repeated from last handout).HIT STAT
+
+
+CHOOSE EDIT
+
+
+ENTER NUMBERS IN FIRST COLUMN (TITLED L1)
+
+
+(JUST TYPE NUMBER THEN HIT ENTER)
+
+
+HIT STAT
+
+
+SCROLL TO RIGHT TO ‘CALC’
+
+
+HIT ENTER TWICE
+
+
+If you don’t find what you’re looking for, scroll down.
+
+
+ 
+
+
+Square standard deviation to get variance
+
+
+The TI 84 gives you standard deviation. It does not directly give you
+
+
+variance. To get variance, just square standard deviation.
+
+                                                      2
+In other words, TI 84 gives you σ. Variance= σ. You have to manually
+
+
+square σ to get variance.
+
+
+ 
+
+
+Expected value
+
+
+Expected value=sum of each value multiplied by probability of that value
+
+
+There is a 40% the stock will be worth $2500, a 50% of it will be worth $100,
+
+
+and a 10% chance it will be worth $10.
+
+
+Expected value= μ=[.4(2500)+.5(100)+.1(10)]/3
+
+
+=1051/3≈350
+
+
+Example:
+
+
+You are thinking about buying one share of Amazon stock at a price of
+
+
+$2000.
+
+
+You have to sell that stock on August 30, 2019, no matter what. Y
+
+
+You cannot sell it before August 30, 2019, no matter what.
+
+
+A: There is a 40% chance that on August 20, 2019, the price will be exactly
+
+
+$2500.
+
+
+B: There is a 50% chance that on August 20, 2019, the price will be exactly
+
+
+$100.
+
+
+C: There is a 10% chance that on August 20, 2019, the price will be exactly
+
+
+$10.
+
+
+Should you buy it?
+
+
+No.
+
+
+The expected value on August 30, 2019 will be $350. See above.
+
+
+So you can expect to lose $1650.
+
+
+ 
+
+
+ 
+
+
+Discrete variable
+
+
+One whose values are integers.
+
+
+Examples: population, number of heart-beats per minute, number of housesin a city.
+
+
+Tip: Whenever you can ask how many?, you are asking about a discrete
+
+
+variable, e.g. “how many people are in the house?”
+
+
+ 
+
+
+Continuous variable
+
+
+One whose values are real numbers.
+
+
+Example: temperature, mass, volume, length (spatial or temporal).
+
+
+Tip: Whenever you can ask how much? or to what degree?, you are asking
+
+
+about a continuous variable, e.g. “how much does Smith weigh?”, “how
+
+
+smart is that person? (i.e. to what degree is he intelligent)?
+
+
+ 
+
+
+Random variable
+
+
+A variable whose values are unknown, either because they are the outcome of
+
+
+a statistical experiment (e.g. a series of coin-flips) or because they are not
+
+
+objectively fixed (e.g. people’s heartrates).
+
+
+Example: number of heads tosses, number of three-tosses (when throwing
+
+
+die), number of times Microsoft Stock rises above $3200 in a given year.
+
+
+ 
+
+
+ 
+
+
+ ContinuousDiscreteInflation-rateX 
+
+
+
+
+Score on a scale X
+
+
+of 1-10 (only
+
+
+whole numbers)
+
+
+Number of people X
+
+
+at a theatre
+
+
+Length in timeX 
+
+
+
+
+Heartbeats/minute X
+
+
+
+
+temperatureX 
+
+
+
+
+ 
+
+
+Probabilities must add up to 1
+
+
+If there is a 30% chance that the stock will go up, and a 60% that the stock
+
+
+will go down, then there is a 10% that the stock will stay the same. (We are
+
+
+assuming that there is no fourth option.)
+
+
+ 
+
+
+Probabilities expressed as decimalsWhen they ask for a probability, they usually want a decimal. If there is a
+
+
+60% of raining, the chance that it will rain is .6.
+
+
+ 
+
+
+“Or” means “add” when the probabilities are mutually exclusive
+
+
+If there is a 10% that the stock will stay the same, then the chance that it will
+
+
+either go up or down is 90%. This is because going up and going down are
+
+
+mutually exclusive.
+
+
+ 
+
+
+“Or” means “add then subtract probability of simultaneous occurrence”
+
+
+when probabilities are not mutually exclusive
+
+
+Suppose that there is a 50% chance that it rains and a 40% chance that it is
+
+
+over 87° and a 30% chance that it both rains and is over . In that case, the
+
+
+probability that it either rains or is over 87° is 50%+40%-30%=60%=.6
+
+
+ 
+
+                C
+AUB, A∩B, A
+
+
+AUB means A or B
+
+
+A∩B means A and B
+
+C
+A means complement of A, i.e. everything that is not in A 
+
+
+The probability of A =.5
+
+
+The probability of B =.4
+
+
+Probability AUB=.3
+
+
+Probability A∩B=.3
+
+                  C
+Probability of A=.5
+
+                C
+Probability of B=.4
+
+                        C
+Probability of (AUB)=.4
+
+                        C
+Probability of (A∩B)=.7
+
+
+ 
+
+
+ 
+
+
+p(A)=probability of A
+
+
+p(A)=probability of A
+
+
+p(AUB)=probability of A or B
+
+
+p(A∩B)=probability of A and B
+
+  C
+p(A)=probability of not A
+
+
+  
+
+
+Probability of not happening equals 1 minus probability of happening
+
+                      C
+If p(A)=.3, then p(A)=.7
+
+
+ 
+
+
+ 
+
+
+Probability Distributions IMPORTANT AND HARD
+
+
+You’re going to get a lot of questions like the following, and there is no way
+
+
+to get the TI 84 to completely do them for you:
+
+
+ 
+
+
+xP(x)
+
+
+2.5
+
+
+3.1
+
+
+4.25
+
+
+ 
+
+
+You are going to be asked for the following information:
+
+
+The mean, i.e. μ
+
+                    2
+The variance, i.e. σ
+
+
+The standard deviation, i.e. σ
+
+
+ 
+
+
+You get the mean by multiplying each x by p(x) and then adding up the
+
+
+results 
+
+
+xP(x)x*p(x)μ=2.3
+
+
+2.51 
+
+
+3.1.3 
+
+
+4.251 
+
+
+ 
+
+                                    2
+Once you have μ, you can get σ. Here is how.
+
+
+  1. You subtract μ from x, for each x SEE COLUMN E
+
+
+  2. then you square the result SEE COLUMN F
+
+
+  3. then you multiply the result of that by p(x) SEE COLUMN G
+
+                                                          2
+  4. then you add up the results. This gives you σ, which is the variance
+
+
+      SEE COLUMN H
+
+                                                                        2
+  5. If you want standard deviation, take the square root of σ. SEE
+
+
+      COLUMN I
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ABCDEFGHI
+
+
+  xP(x)x*p(x)μ=2.3x-(x-22σ≈.667
+                                                (x- μ)*p(x)σ=.8165
+
+                                μ2
+                                        μ)2.51 -.3.09.09*.5=.045  
+
+
+3.1.3 .7.49.49*.1=..049  
+
+
+4.251 1.72.892.89*.25=.7225  
+
+
+ 
+
+
+A weird question that you will get (just memorize)
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+The answer will always be the one that says: SINCE THE OUTER TWO
+
+
+VALUES IN EACH DISTRIBUTION ARE THE SAME DISTANCE
+
+
+FROM THE MIDDLE AND THE PROBABILITY IS THE SAME FOR
+
+
+BOTH THE OUTER VALUES, THE MEAN SHOULD BE THE SAME.
+
+
+ 
+
+
+Notice the bottom part of the question in the picture:
+
+
+ 
+
+
+
+
+
+
+ The answer is:
+
+
+
+
+ 
+
+
+The answer is always the one where the end values are larger and closer the
+
+
+middle. It’s a trick question. Just memorize the answer.
+
+
+                               Statistics Exam Prep Sheet
+
+
+ 
+
+
+TWO IMPORTANT PRELIMINARIES
+
+
+FIRST, KNOW HOW TO CREATE EXPONENTS ON TI 84. NO
+
+
+AUTOMATIC WAY TO DO THIS.
+
+
+SECOND, HOW TO RESET/CLEAR TI 84
+
+      ND
+  1. 2 KEY
+
+
+  2. + KEY
+
+
+  3. HIT 7
+
+
+  4. ENTER
+
+
+  5. SCROLL DOWN TO 2 (RESET)
+
+
+  6. ENTER
+
+
+ 
+
+
+SEVEN MOST IMPORTANT FORMULAS RELATING TO
+
+
+DIFFERENTIATION
+
+
+(EXPLANATIONS BELOW)
+
+
+ 
+
+
+                                           2
+SO FIRST DERIVATIVE OF Y=X IS 2X
+
+
+OF Y=7 IS 0
+
+        2
+OF Y=X IS 2X
+
+        87
+OF Y=X IS 8X
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SO….
+
+
+ 
+
+
+
+
+
+
+                                xx
+I.e. the first derivative of 5 is 5ln(5)
+
+                                  xx
+And the first derivative of e is itself e
+
+
+ 
+
+
+LOGARITHM DEFINED                          Z
+LOG(Y)=Z MEANS X=Y
+    X
+
+
+EXAMPLES:
+
+
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Intervals/brackets
+
+
+Square brackets mean endpoints included: [3,10] is the interval from 3 to 10,
+
+
+including both 3 and 10
+
+
+Round brackets mean endpoints not included: (3,10) is the interval between 3
+
+
+and 10 and not including either. (3,10] is the interval between 3 and 10
+
+
+including 10 but not 3.
+
+
+ 
+
+
+ 
+
+
+  
+
+
+ 
+
+
+In the chart above, the first interval does not include a or b; the second one
+
+
+include both; the third includes b but not a; etc.
+
+
+ 
+
+
+Important notation
+
+
+{x│x<2} means ‘the class of all x such that x is less than 2, i.e. all numbers
+
+
+less than 2
+
+    22
+{x│x+10<80} means the class of all x such that x plus 10 is less than 80.
+
+
+ 
+
+
+ 
+
+
+Limits and Continuous Functions 
+
+
+Continuous function: no gaps in itIf function continuous, then its limit as it approaches a certain value x is
+
+
+identical with F(x)
+
+
+Example:
+
+
+
+
+
+
+      2
+F(x)=x is continuous, So the limit of this function as x approaches 5 is 25
+
+
+ 
+
+
+ 
+
+
+Limits and Discontinuous Functions 
+
+
+If function discontinuous, then the limit is what the function would equal if it
+
+
+were continuous.
+
+
+Example:
+
+      2
+F(x)=x if x≠5 and if x=5, F(x)=0
+
+
+The limit of F(x) as x approaches 5 is still 25
+
+
+Right limit/left left
+
+
+If a function is discontinuous, its limit from the right (denoted by plus) may
+
+
+be different from its limit from the left. 
+
+
+This functions limit, as it approaches 1 from the left is 4, but its limit as it
+
+
+approaches 1 from the right is 2.
+
+
+I.e. the answer to 47 is 4 and the answer to 48 is 2
+
+
+ 
+
+
+Different example:The limit of this function as it approaches .4 from the left is 3.3 and its limit
+
+
+as it approaches .4 from the right is 3.7
+
+
+ 
+
+
+SCREENSHOTS OF RULES FOR DIFFERENTIATING
+
+
+(EXPLANATIONS BELOW)
+
+
+ 
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+RULES FOR DIFFERENTIATING
+
+
+To ‘differentiate’ a function at a given point is to find its slope at that point.
+
+
+‘First derivative’ is slope at given point.
+
+
+RULE 1: Linear function always has same slope. The first derivative of
+
+
+f(x)=7x is simply 7. This is because the slope is always 7.
+
+                                          nx-1
+RULE 2: The first of derivative of  x is nx.
+
+                            22
+First derivative of f(x)=x is 2x. So the slope of f(x)=x at 7 is 14.
+
+                            434
+First derivative of f(x)=x is 4x. So the slope of f(x)=x at x=3 is
+
+  3
+4(3)=4(27)=108
+
+
+RULE 4: When finding derivatives, the only numbers you care about are
+
+
+exponents and coefficients.
+
+                                                2
+For example, the first derivative of f(x)=x is identical with the first                      2
+derivative of f(x)=x+5. They are both 2x. This is because derivative is slope,
+
+
+and the +5 doesn’t affect slope.
+
+
+RULE 5: Derivative of constant function is 0. The derivative of F(x)=4 is 0,
+
+
+since that function is just a horizontal line.
+
+
+RULE 6: A function cannot be differentiated at a corner.
+
+
+The function below cannot be differentiated at (0,0). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            -nn-44
+RULE 7: x is the same as 1/x. So x=1/x.
+
+                                -n-n-1-2-3
+Rule 8: First derivative of x is -n.  So first derivative of x is -2x.
+
+  -3 -3
+-2x= -1/ x. (See Rule 7)
+
+
+RULE 8: Root of degree n = exponent of 1/n
+
+
+For example:
+
+
+
+
+
+ 
+
+                        1/3
+The cube root of x is x. And so on.RULE 9: The first derivative of:  
+
+
+ 
+
+
+ 
+
+
+
+
+
+Graphs
+
+
+No exponent=straight line
+
+
+Example: y=x+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+When exponent=2 or any other even number, graph is parabola
+
+              2
+Example: y=x+5 
+
+
+When exponent=3 or any other odd number, graph has S-shape
+
+              3
+Example: y=x-11 
+
+
+ 
+
+
+TIP: Always use TI 84 to graph.
+
+
+ 
+
+
+GRAPHING AND SOLVING GRAPH-RELATED PROBLEMS ON TI 84
+
+
+                                    2
+Suppose you want to graph y=x on the TI 84.
+
+
+   1. Y=
+
+                                                      2  
+  2. ENTER EQUATION, IN THIS CASE: XBTW, THE ‘X’ KEY IS
+
+
+      NEXT TO THE ‘ALPHA’ KEY
+
+
+  3. HIT GRAPH
+
+
+  4. DONE
+
+
+ 
+
+
+ 
+
+
+STEP 1STEP 2STEP 3 
+
+
+STEP 4 
+
+
+ 
+
+
+FINDING INTERSECTIONS OF GRAPHS ON TI 84
+
+
+Suppose you are asked to plot a graph when taking the exam. For example,
+
+
+you are asked to graph:
+
+
+ y=3x-7
+
+
+ 
+
+
+You will need to have two distinct points. To do this on the TI 84, do the
+
+
+following:
+
+
+ 
+
+
+  1. HIT Y=
+
+
+  2. ENTER EQUATION
+
+
+  3. HIT GRAPH
+
+
+  4. THIS WILL GIVE YOU Y INTERCEPT
+
+
+  5. TO GET X INTERCEPT, HIT LEFT OR RIGHT KEY UNTIL YOU
+
+
+      GET TO TWO NUMBERS THAT DON’T GO ON FOREVER (AND
+
+
+      THAT YOU CAN THEREFORE USE ON EXAM)
+
+
+ 
+
+
+SOLVING ALGEBRA PROBLEMS ON TI 84
+
+
+Suppose you want to solve the equation X+3=22
+
+
+Here is what you do
+
+
+  1. GO TO MATH
+
+
+  2. SCROLL DOWN TO C: NUMERIC SOLVER
+
+
+  3. IN TOP SCREEN ENTER X+3
+
+
+  4. HIT ENTER
+
+
+  5. IN THE BOTTOM SCREEN ENTER 22  6. HIT ENTER
+
+
+  7. LEAVE THE CURSOR WHERE IT IS. THEN HIT ALPHA
+
+
+  8. THEN YOU HAVE YOUR ANSWER
+
+
+ 
+
+
+STEP 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+STEP 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+STEP 3 
+
+
+STEP 4 
+
+
+STEP 5 
+
+
+STEP 6STEP 7 
+
+
+Computing Interest on TI 84
+
+
+
+
+
+
+
+
+SUPPOSE YOU NEED TO SOLVE THE FOLLOWING PROBLEM. 
+
+
+SMITH PUTS $1000 IN SAVINGS ACCOUNT AT 5% COMPOUNDED
+
+
+ANNUALLY. HOW MUCH MONEY DOES SMITH HAVE AFTER 20
+
+
+YEARS?
+
+
+TO COMPUTE INTEREST ON TI 84 DO FOLLOWING:
+
+
+  1. HIT APPS
+
+
+  2. HIT ENTER
+
+
+  3. HIT ENTER
+
+
+  4. YOU ARE NOW WHERE YOU WANT TO BE. HERE IS WHAT
+
+
+      YOU SHOULD SEE:
+
+
+  
+
+
+ 
+
+
+  5. PUT 20 AFTER N= (N IS THE NUMBER OF COMPOUNDING
+
+
+      PERIODS, THIS BEING 20)
+
+
+  6. PUT 5 AFTER I%
+
+
+  7. PUT NEGATIVE 5000 (I.E. -5000) AFTER PV (STANDS FOR      ‘PRINCIPLE VALUE)’ MAKE SURE YOU HIT THE (-) KEY, NOT
+
+
+      THE OTHER MINUS. I.E. HIT KEY TO THE LEFT OF ENTER.
+
+
+      OTHERWISE YOU GET SYNTAX ERROR.
+
+
+  8. THE OTHER ONES CAN BE LEFT ALONE EXCEPT FOR FV.
+
+
+  9. PUT CURSOR NEXT TO FV (FUTURE VALUE)
+
+
+10.                  HIT ALPHA KEY , I.E. GREEN KEY IN PICTURE
+
+
+11.                  THEN HIT ENTER
+
+
+12.                  HERE IS WHAT YOU GET:
+
+
+  
+
+
+SO AFTER 20 YEARS, YOUR $5000 HAS TURNED INTO $13266 AND
+
+
+CHANGE.
+
+
+ 
+
+
+A PROBLEM YOU ARE LIKELY TO GET CONCERNING
+
+
+COMPOUND INTEREST  TO USE THE TI 84 TO DO THIS, READ INSTRUCTIONS AFTER
+
+
+PICTURE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+
+  1. HIT Y= KEY
+
+                                                  X
+  2. ENTER EQUATION, I.E. 1000*1.06
+
+
+  3. HIT ENTER
+
+
+  4. MOVE CURSOR SO THAT = IS HIGHLIGHTED
+
+                      ND
+  5. THEN HIT 2 KEY FOLLOWED BY WINDOW KEY
+
+
+  6. ENTER THE NUMBER CORRESPONDING TO THE EQUATION
+
+
+      (WHICH IS PROBABLY 1)
+
+
+  7. ENTER                      ND
+  8. THEN HIT 2 KEY FOLLOWED BY GRAPH
+
+
+  9. TABLE WILL APPEAR
+
+
+10.                  SCROLL DOWN FOR DESIRED YEAR
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+                         Concert Report (Music/Musicology)
+
+
+ 
+
+
+      Part 1: Research on Composers and Musical Works 
+
+
+      The first piece of the concert was Concerto Grosso No. 12 Propitia
+
+
+Sydera (1701), by Georg Muffat (1653-1704). Of Scottish ancestry, Muffat
+
+
+was born and raised in France but considered himself German, presumably
+
+
+because he spent some of his most productive years in Germany
+
+
+(Wollenberg, 2001). Relatedly, Muffat is credited with doing much to
+
+
+introduce French and Italian musical styles into Germany (Brewer, 2016).
+
+
+Given that Muffat did this just prior to Bach’s birth and during the latter’s
+
+
+childhood, it is a distinct possibility that Muffat’s influence is partly
+
+
+responsible for the existence of a musical climate in Germany that made it
+
+
+possible for the young Bach to develop his gifts as fully as he did (Marckx,
+
+
+2000). This conjecture is consistent with the nature of his music—especially
+
+
+of the Concerto Grosso No. 12—which, though definitely not in the same
+
+
+league as Bach’s work, anticipates it in some respects, having, as it does, a
+
+
+similarly counterpoint-based, highly structured quality (with the qualification
+
+
+that the counterpoint is not nearly as developed as it is in Bach’s case).
+
+
+Muffat was a child prodigy and, as a child, studied under Jean-Baptiste Lully
+
+
+(Wollenberg, 2001). As an adult, he had a series of positions, mostly in
+
+
+Germany in Austria. His life was uneventful, consisting as it did of one ofcomfortable position after another, with the qualification that political turmoil
+
+
+sometimes forced him to switch posts abruptly. Much of his music is written
+
+
+for all-string ensembles, and his works often have a free-form, jazz-like
+
+
+quality, in that, as is the case with much jazz, a given instrument will take the
+
+
+lead for a while, to be followed by another instrument, with the remaining
+
+
+instruments forming a kind of chorus or backdrop (Jander, 1968). Muffat’s
+
+
+music is often playful and has a jig-like quality; and all of his music, even the
+
+
+slow movements, have a light-touch and are easy to listen to (Marckx, 2000).
+
+
+      The last piece of the concert was the Serenade in C Major, Op. 48
+
+
+(1880) by
+
+
+      Pyotr Ilyich Tchaikovsky, (1840-1893). Like Muffat’s Concerto
+
+
+Grosso, coincidentally, this work was written for an all-string ensemble. Able
+
+
+to read French and German by the age of six, Tchaikovsky came from a
+
+
+wealthy family and was raised and educated accordingly. It is known that
+
+
+received piano lessons starting the age of six, and also received lessons in
+
+
+composition from acclaimed instructor Rudolph Kündinger, an acclaimed
+
+
+instructor (Wiley, 2001). But Tchaikovsky’s parents expected him to become
+
+
+a civil servant, not a musician, and it wasn’t until, at 23, he had already
+
+
+received his law degree that he enrolled at the St. Petersburg Conservatory,
+
+
+from which he graduated two years later, this being the only well-
+
+
+documented fact about his musical education (Schroeder, 2015). While at theUniversity, he studied composition under Anton Rubinstein, the famous
+
+
+pianist and composer. Rubinstein is described as having been reasonably
+
+
+encouraging of the young Tchaikovsky but as being unwilling to admit to
+
+
+himself how inferior he was to his own pupil. In any case, Rubinstein’s
+
+
+brother, Nikolai, saw to it that Tchaikovsky had a position as a professor of
+
+
+music at the St. Petersburg Conservatory. (Ironically, Nikolai Rubinstein
+
+
+became a bitter critic of Tchaikovsky and, to his own discredit, wrote a
+
+
+scathing review of Tchaikovsky’s first piano concerto.) Thanks to his
+
+
+professorships, Tchaikovsky had him time to composer, and his career was
+
+
+soon launched (Greenberg et al., 2000). Tchaikovsky had a turbulent
+
+
+marriage, which ended badly and was followed by several turbulent affairs
+
+
+(Schroeder, 2015). Tchaikovsky suffered from periodic bouts of intense
+
+
+depression (Schroeder, 2015); and he became increasingly temperamental as
+
+
+he aged, eventually quitting his professorship to travel around Europe.
+
+
+During this time, he was financially supported by Nadezhda von Meck, a
+
+
+wealthy girlfriend of his. There is evidence that Tchaikovsky was gay, it
+
+
+often being suggested, without much evidence, that this was a major factor in
+
+
+his emotional problems, a hypothesis that is contravened by the fact that his
+
+
+bouts of depression tended to follow turbulent break-ups with lady-friends.
+
+
+One of the greatest composers of all time, Tchaikovsky is known for his first
+
+
+piano concerto, his violin concerto, Swan Lake, The Nutcracker, Romeo andJuliet, and the Sixth Symphony (Schroeder, 2015). His work is strikingly
+
+
+melodic, and movie goers are all familiar with much of his work, especially
+
+
+the famous love theme from Romeo and Juliet and the opening bars of the
+
+
+First Piano Concerto. 
+
+
+      Muffat completed his Concerto Grosso No. 12 in 1701. At this time,
+
+
+he was employed as the kapellmeister to the Bishop of Pasau. It is divided
+
+
+into five moments:
+
+
+ 
+
+
+      1. Sonata: Grave—Allegro
+
+
+      2. Aria: Largo
+
+
+      3. Gavotta
+
+
+      4. Grave—Ciaconna
+
+
+      5. Borea: Allegro
+
+
+ 
+
+
+      These are the composer’s own designations. Muffat explicitly stated
+
+
+that this work is intended to be ‘court music’ and that the different
+
+
+movements are meant to be able to fulfill court functions, more than one each
+
+
+in case. (Of course, Bishops do not have courts; but we may safely assume
+
+
+that not everything that Muffat composed while in the Bishop’s employ was
+
+
+for the Bishop.) In the case of the sprightly Gavotta, it is clear what this
+
+
+function is: it is meant to be a dance. The court-related functions of themovements are not as obvious. Muffat stated that the title he gave to each
+
+
+movements is meant to indicate a range of different court-functions (Jander,
+
+
+1968).
+
+
+      This work is described as a ‘cross-pollination’ of Muffat’s French and
+
+
+Italian influences. It is also said to have influenced Bach, which is palpably
+
+
+accurate, especially since some of the slower sections sound eerily like some
+
+
+of the slow movements from the Violin Concertos and Brandenburg
+
+
+Concertos (Marckx, 2000). The total length of the piece tends to be just over
+
+
+seventeen minutes (Wollenberg, 2001).
+
+
+        Tchaikovsky completed the Serenade in C Major in 1880. It first
+
+
+performance was for a private audience at the St. Petersburg Conservatory,
+
+
+where Tchaikovsky had previously been a professor, and where, in 1881, it
+
+
+was first performed for a public audience (Greenberg et al., 2000. This work
+
+
+is best known for its magisterial 36 bar opening. This work is divided into
+
+
+four movements:
+
+
+ 
+
+
+      1.Pezzo in forma di sonatina: Andante non troppo — Allegro
+
+
+moderato
+
+
+      2.Valse: Moderato — Tempo di valse
+
+
+      3.Élégie: Larghetto elegiaco
+
+
+        4.Finale (Tema russo): Andante — Allegro con spirito 
+
+
+ 
+
+
+      Each of the first two movements is a stand-alone work. Although
+
+
+Tchaikovsky is alleged said that it was intention that the first movement have
+
+
+the same form as a “Mozart Sonatina”, it does not, at least obviously, have
+
+
+that form. The main themes from the first two movements have been featured
+
+
+in a number of movies, and the main theme of the Waltz was the start-up for
+
+
+the British Channel Television Station (Greenberg et al., 2000).
+
+
+ 
+
+
+      Part 2: Event Description
+
+
+ 
+
+
+      The venue was an extremely upscale Manhattan synagogue, right next
+
+
+to Central Park. It was very elegant, in a minimalist way, and spacious.
+
+
+Although it took place in a Synagogue, there was nothing religious about the
+
+
+experience or about the people there, so far as I could tell. It appeared that the
+
+
+Synagogue was simply hosting the event, granting that it did give the
+
+
+performance a kind of dignity it might otherwise not have had. Most of the
+
+
+people there were old, or late middle-aged, which I found depressing.
+
+
+      There was a rather long piece, titled “Conference of the Birds”, by one
+
+
+Lembit Beecher (born 1980), who was present and who gave a rather
+
+
+memorable and very non-scripted introduction to the piece, which was beingpremiered then and there. When I was listening to him talk, I was focused on
+
+
+externals: his clothes, his posture, and his evident nervousness; so I didn’t
+
+
+fully take in what he was saying, which was basically to the effect that his
+
+
+work was basically program music for a 12 Century Persian poem about birds
+
+
+and, for that reason, included a number of effective instances of word-
+
+
+painting, including realistic violin-create cawing sounds. (The word-painting
+
+
+was probably the most effective aspect of this work.) Had I absorbed
+
+
+Beecher’s prologue, I might have been enjoyed the piece more, since, unlike
+
+
+the other pieces performed, it wasn’t a stand-alone work. It was skillful in
+
+
+many ways, but decidedly ‘modern’, in that seemed like a series of atonal
+
+
+sound-effects, not a musical work in the conventional sense. The performers,
+
+
+however, were not bored. There was no doubt that they enjoyed performing
+
+
+each and every bar of this work and each of the others.
+
+
+      Lembit’s piece was the third performed that night, the second being
+
+
+another modern (or post-modern) work, title Entr’acte, written by 2011 by
+
+
+Caroline Shaw (born 1982). Entr’acte was a very intricate work, which
+
+
+showed obvious mastery, but was still a bit too unconventional for me.
+
+
+ 
+
+
+      Part 3: Musical Analysis
+
+
+      Muffat’s Concerto Grosso no. 12 is divided into several movements:
+
+
+      1. Sonata: Grave—Allegro      2. Aria: Largo
+
+
+      3. Gavotta
+
+
+      4. Grave—Ciaconna
+
+
+      5. Borea: Allegro
+
+
+ 
+
+
+      These are the composer’s own designations.
+
+
+      All of the movements are in G major.
+
+
+      The first movement is slow and meditative and sounds like the middle
+
+
+movement of one of the Bach violin concertos. Despite its name, it is not in
+
+
+Sonata form. Nor is it an Allegro, making the composer’s designation
+
+
+inexplicable.
+
+
+      The movement they next played was spirited and quick. It was not an
+
+
+Aria or a Largo. Either they simply skipped the Aria: Largo, which is not
+
+
+likely, or, more likely, the Aria: Largo was built into the first movement. In
+
+
+any case, whichever movement it was, it was obviously being meant to
+
+
+contrast with the first movement, with the violins and violas carrying the
+
+
+main melody and the cellos keeping the beat with a supporting melody of
+
+
+their own.
+
+
+      The third movement that they performed, which I assume was the
+
+
+Grave, was extremely slow---and grave in that respect but not otherwise,
+
+
+what with it rather sunny, major-key-based tonality---and comes across asbeing more monophonic than the other movements.
+
+
+      The next movement---which, I have to deduce, was the Grave-
+
+
+Ciaconna—was not, despite its name, at all grave. Indeed, it sounds as though
+
+
+it was meant to be danced to, with its  crisp little melody and plucky beat.
+
+
+      The next movement---presumably, the Grave-Ciaconna—was
+
+
+extremely slow and was presumably meant to offset the previous movement.
+
+
+It sounded more like an interlude than a movement proper.
+
+
+      The last movement (i.e. the last movement that was performed) was
+
+
+indeed an Allegro. It had a spirited, jig-like quality and ended the work on an
+
+
+upbeat note.
+
+
+      My takeaway is that the first movement really was quite beautiful, and
+
+
+I did not, when listening to it (either when I was physically at the concert or
+
+
+when re-listened to the concert), feel that I was simply ‘enduring’ the
+
+
+experience. The other movements were not quite as good, and I listened to
+
+
+them as a detached observer, not as someone who was immersed in the
+
+
+experience.
+
+
+        Tchaikovsky’s Serenade in C Major was strikingly different in this
+
+
+respect. I had heard this work behavior, though I did not know what it was
+
+
+called or wrote it.
+
+
+      Like the Concerto Grosso, it is all for an all-string ensemble; and like
+
+
+the Concerto Grosso, it is divided into a mini movement: 
+
+
+      1.Pezzo in forma di sonatina: Andante non troppo — Allegro
+
+
+moderato
+
+
+      2.Valse: Moderato — Tempo di valse
+
+
+      3.Élégie: Larghetto elegiaco
+
+
+        4.Finale (Tema russo): Andante — Allegro con spirito
+
+
+ 
+
+
+      The first movement gets ‘straight to the point’, as it were, locking the
+
+
+listener’s attention onto the piece. It starts with a bold and yet thoughtful
+
+
+theme, which, like many of Tchaikovsky’s themes, is familiar to, and beloved
+
+
+by, people who do not have any idea who wrote it and who do not, except
+
+
+accidentally, listen to classical music. The first movement is a ‘world unto
+
+
+itself’, as it goes through several sub-movements of its own, which it then
+
+
+weaves together into brilliant contrapuntal sections.
+
+
+      Like that of the first movement, the main theme of the second (Waltz)
+
+
+movement is, I suspect, familiar to, and much loved by, people who do not
+
+
+self-identify as classical music listeners. As in the first movement, there are
+
+
+some brilliant contrapuntal moments.
+
+
+      The third movement starts with a slow and serene all-strings section,
+
+
+then shifts into a lyrical section with a lovely melody and pizzicato
+
+
+accompaniment. The theme of this submovement is brilliantly developed bybeing reprised multiple times, each time with a twist and a new layer of
+
+
+complexity.
+
+
+      The fourth movement begins with a short, quiet Andante, which
+
+
+introduces the central theme of the movement-property, which is a fast-paced
+
+
+but cerebral Allegro, which, the other three movements, is often heavily
+
+
+contrapuntal.
+
+
+ 
+
+
+      Part 4: Interview
+
+
+      The intermission followed Lembit Beecher’s work, which, I am sorry
+
+
+to say, was probably deliberate, as in, the people who put the concert together
+
+
+knew audience-members would need a break after listening to that work.
+
+
+During that time, I interviewed James Fishkin, M.D., a 55 year-old Beverly
+
+
+Hills plastic surgeon who was there with his wife, and I also interviewed
+
+
+Nathan Nebeker, a 60 year old engineer was there with his girlfriend. Dr.
+
+
+Fishkin was friendly and made it clear he was there to humor his wife, who
+
+
+was friends with one of the performers. He was, he told me, visiting from out
+
+
+of town, and it was his wife’s idea to make sure that took in some New
+
+
+York’s culture. I asked him he liked the pieces; and he chuckled and set,
+
+
+‘well, I’m not really the best person to ask, but let’s just say that it’s a bit
+
+
+high-brow for me!’, this being his way of saying that, although the works in
+
+
+question probably did have merit, he was not one to know quite what themerit was. He told several semi-funny jokes during the interview, most of
+
+
+which involved his flipping my questions back onto me.
+
+
+      Mr. Nebeker gave more cerebral responses. Although he was quick to
+
+
+say that he was not a musician, he had, it seems, made it a point of
+
+
+memorizing what the pieces sounded like and then mentally categorizing
+
+
+them. Referring to the first piece, he said ‘I can see why people liked it back
+
+
+then’, his point being that what was innovative about that work in its time
+
+
+was done, and done better, by later composers, jading us to its merits. He
+
+
+seemed to like the Shaw piece, because of the intricacies in it. He maintained
+
+
+a dignified silence concerning the Beecher piece, not because he disliked it,
+
+
+but, so I suspect, because he wished to keep an open mind. Which, when I
+
+
+listened to Beecher on YouTube, which I did several times, proved to be the
+
+
+right attitude.
+
+
+ 
+
+
+      Part 5: Critical Reflection
+
+
+      The concert I attended was posted on YouTube, and I watched it
+
+
+several times before doing this assignment. For me, there were dramatic
+
+
+differences between the listening to (and watching) the concert ‘in person’
+
+
+and listening (and watching) a video of it.
+
+
+      When I was at the actual concert, I was absorbed in the setting---in the
+
+
+behavior of the other people there, in the aesthetics of the synagogue---andalso in the technicalities involved in my being there (e.g. whether I should
+
+
+stay in the city overnight or should simply try to make it hope, whether I
+
+
+would have enough money to stay overnight, and so on).
+
+
+      When I watched it on YouTube, my focus was strictly on the music;
+
+
+and, as is my wont, I would replay passages that I liked over and over again
+
+
+—which I cannot do at live concerts and which I find annoying. I found all of
+
+
+the pieces more enjoyable when listening to them on YouTube, mainly
+
+
+because the music was the center of my attention, whereas, when I was at the
+
+
+concert, my attention was on the surroundings and the music was almost like
+
+
+an annoying add-on.
+
+
+      There can be no doubt that these works will continue to be valued and
+
+
+enjoyed for centuries to come. The Muffat’s Concerto Grosso is over three
+
+
+hundred years old, and we are listening to it today, albeit largely (though by
+
+
+no means entirely) as a way of a paying homage to our cultural forbears. As
+
+
+for the Tchaikovsky, we are still listening because it is---there is no way other
+
+
+way to put it—it is good. We are no under compulsion to listen to it; but we
+
+
+do listen to it, because we like it, and our descendants will listen to it for the
+
+
+same reason.
+
+
+ 
+
+
+Part 6: Works Cited
+
+
+ Brewer, C. E. (2016). The instrumental music of Schmeltzer, Biber, Muffat
+
+
+and their contemporaries. Routledge.
+
+
+Greenberg, R., & Rodriguez, S. (2000). Great Masters: Tchaikovsky, His Life
+
+
+and Music. Teaching Company
+
+
+Jander, O. (1968). Concerto Grosso Instrumentation in Rome in the 1660's
+
+
+and 1670's. Journal of the American Musicological Society, 21(2), 168-180.
+
+
+Marckx, L. H. (2000). French Baroque influences on Johann Sebastian
+
+
+Bach's" Six suites for violoncello solo" with an emphasis on French court
+
+
+dance and Suite V (Germany).
+
+
+Schroeder, D. (2015). Experiencing Tchaikovsky: A Listener's Companion.
+
+
+Rowman & Littlefield.
+
+
+Temple Emanu-El. (2019, July 29). Naumburg Orchestral Concerts - July 18,
+
+
+2019 - A Far Cry. Retrieved from https://www.youtube.com/watch?
+
+
+v=sZRsyM-oz_U&t=452s
+
+
+Wiley, Roland John. (2001, January 20). Tchaikovsky, Pyotr Il′yich.
+
+
+Retrieved from https://www-oxfordmusiconline-
+
+
+            com.libproxy.temple.edu/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-
+
+
+  9781561592630-e-0000051766?rskey=Yl2NeK
+
+
+Wollenberg, Susan. (2001, January). Muffat, Georg. Retrieved from
+
+
+  https://www-oxfordmusiconline-            com.libproxy.temple.edu/grovemusic/view/10.1093/gmo/9781561592630.001.0001/omo-
+
+
+      9781561592630-e-0000019294?rskey=ujKGtx&result=1
+
+
+               Statistics Final Exam Review Sheet (Math/Statistics)
+
+
+ 
+
+
+IMPORTANT PROBLEMS
+
+
+AVERAGE RATE OF CHANGE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RATE OF CHANGE = RISE OVER RUN
+
+
+RATE OF CHANGE BETWEEN 0 AND 1 = 80/1=80
+
+
+RATE OF CHANGE BETWEEN 1 AND 2 = (127-80)/(2-1)=57
+
+
+RATE OF CHANGE BETWEEN 2 AND 3 = (160-120)/(3-2)=40
+
+
+RATE OF CHANGE BETWEEN 3 AND 4 = (186-160)/(4-3)=26
+
+
+ 
+
+
+ 
+
+
+GROWTH RATE 
+
+
+ 
+
+
+FIND OUT HOW MUCH BABY GREW DURING FIRST TWELVE
+
+
+MONTHS. THEN DIVIDE BY 12 TO GET MONTHLY GROWTH
+
+
+RATE.
+
+
+BABY GREW FROM 6 LB TO 20. SO 14 LB TOTAL.
+
+
+SO MONTHLY GROWTH = 14/12≈1.2
+
+
+SO ANSWER=B
+
+
+RULES ETC. BELOW
+
+
+ 
+
+
+EXPONENTIAL FUNCTION 
+
+
+APPLY RULES BELOW (POWER RULE AND EXPONENTIAL
+
+
+FUNCTION RULE)
+
+
+THIS GIVES US:
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+ 
+
+
+ELASTICITY OF DEMAND
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+YOU NEED  TO ELASTICITY OF DEMAND FORMULA:
+
+
+
+
+
+First we find D’(x)
+
+
+This turns out to be: 
+
+
+
+
+ 
+
+
+ 
+
+
+When we plug this back into elasticity formula, we get:
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+AND THIS TURNS OUT TO BE 1.
+
+
+ 
+
+
+ 
+
+
+PROBABILITY DISTRIBUTION
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+TO GET THE EXPECTED DAMAGE FOR FIRM A, YOU
+
+
+MULTIPLY EACH POSSIBILTY (LEFT-MOST COLUMN) BY ITSPROBABILITY (MIDDLE COLUMN) AND THEN ADD UP THE
+
+
+NUMBERS (RIGHT-MOST COLUMN). THE EXPECTED DAMAGE
+
+
+IS $1250. YOU DO THE SAME WITH THE OTHER FIRM. 
+
+
+ 
+
+
+400.014
+
+
+900.50450
+
+
+1400.30420
+
+
+1900.17323
+
+
+2400.0124
+
+
+2900.0129
+
+
+ 
+
+
+ 
+
+
+IF THEY ASK YOU TO COMPUTE  , USE THE CALCULATOR.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+YOU NEED TO KNOW JUST TWO THINGS FOR THIS CLASS
+
+
+  1. HOW TO GRAPH ON CALCULATOR (YOU’RE ON YOUR
+
+
+      OWN HERE)
+
+
+  2. THE STUFF BELOW
+
+
+ Two parts to this class:
+
+
+Calculus
+
+
+Statistics
+
+
+ 
+
+
+PART 1: CALCULUS
+
+
+ 
+
+
+Three kinds of functions: no exponent on x (straight line), even exponent
+
+
+on x (cup shape graph), odd exponent on x (s-shape graph)
+
+
+ 
+
+
+x has no exponent
+
+
+e.g. y=2x
+
+
+always straight line
+
+
+graph of y=2x 
+
+
+ 
+
+
+X has even exponent
+
+        2
+e.g. y=x
+
+
+cup shaped
+
+              2
+graph of y=x 
+
+
+x had odd exponent
+
+        3
+e.g. y=x
+
+
+has S-shaped
+
+              3
+graph of y=x
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Differentiation (i.e. finding slope of function)
+
+
+Rule 1: if constant function, then first derivative=0Rule 2: if no exponent on x, then first derivative equals coefficient of x
+
+
+ 
+
+
+
+
+
+Rule 3: if exponent on x, then use POWER RULE
+
+
+
+
+
+Example of power rule:
+
+
+
+
+ 
+
+
+Other example of power rule:
+
+
+
+
+ 
+
+
+Rule 4: With Exponential functions (functions where x is itself the exponent),
+
+
+you get first derivative by multiplying function by lnx.
+
+
+
+
+
+Example:
+
+
+
+
+  
+
+
+Rule 5: with logarithmic functions there is just one rule:
+
+
+
+
+
+
+Rule 6: square root = exponent of ½
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rule 7: negative square root is positive square root in denominator
+
+-1
+x=1/x
+
+-22
+x=1/x
+
+-33
+x=1/x
+
+
+etc. 
+
+
+Interval notation (mickey mouse)
+
+
+(x,y) means ‘everything between x and y but not x or y’
+
+
+[x,y] means ‘ ‘everything between x and y and also x and y’
+
+
+(x,y] means ‘ ‘everything between x and y and also y but not x’
+
+
+[x,y) means ‘ ‘everything between x and y and also x but not y’
+
+
+e.g. (4,9) means ‘everything between 4 and 9 but not 4 or 9’
+
+
+and so on
+
+
+ 
+
+
+  
+
+
+ 
+
+
+ 
+
+
+PART 2: STATISTICS
+
+
+RULE OF SUBTRACTION:
+
+
+
+
+
+
+
+ 
+
+
+EXAMPLE: IF THERE IS A 1/36 CHANCE THAT YOU WILL ROLL
+
+
+DOUBLE SIXES, THEN THERE IS 35/35 CHANCE THAT YOU WILL
+
+
+NOT ROLL DOUBLE SIXES.
+
+
+ 
+
+
+RULE OF ADDITIONEXAMPLE: IF THERE IS A 40% CHANCE THAT YOU WILL GO TO
+
+
+DELAWARE NEXT WEEK, A 70% THAT YOU WILL GO FISHING
+
+
+NEXT WEEK, AND A 30% THAT YOU WILL DO BOTH, THEN THERE
+
+
+IS 40+70-30=80% CHANCE THAT YOU WILL DO BOTH.
+
+
+ 
+
+
+RULE OF MULTIPLICATION
+
+
+
+
+
+
+
+EXAMPLE: THERE ARE 10 JELLY BEANS IN A JAR, FIVE RED, FIVE
+
+
+GREEN. WHAT ARE THE CHANCES THAT THE FIRST TWO DRAWS
+
+
+YIELD RED JELLY BEANS.
+
+
+A=RED JELLY BEAN DRAWN ON FIRST PICK
+
+
+B=RED JELLY BEAN DRAWN ON SECOND PICK
+
+
+B/A=RED JELLY BEAN DRAWN ON SECOND PICK ASSUMING THAT
+
+
+RED JELLY BEAN WAS DRAWN ON FIRST PICK.
+
+
+P(A)=5/10
+
+
+P(B)=5/10
+
+
+P(B/A)=4/9P(A∩B)= P(A)* P(B/A)=5/10*4/9=2/9
+
+
+SO THE CHANCE THAT THE FIRST TWO DRAWS ARE RED JELLY
+
+
+BEANS IS 2/9
+
+
+ 
+
+
+PROBABILITIES ADD UP TO 1
+
+
+ADD UP THE PROBABILITIES YOU HAVE AND SUBTRACT FROM 1
+
+
+TO GET MISSING PROBABILITY
+
+
+ 
+
+
+E(X)=EXPECTED VALUE OF X1, X2,…XN= P(X1)+P(X2)+…P(XN)
+
+
+EXAMPLE:
+
+
+THERE IS A LOTTERY.
+
+
+IT COSTS $100/TICKET.
+
+
+THERE IS A 1/1000,000 CHANCE OF WINNING.
+
+
+COMPUTE EXPECTED VALUE OF PURCHASED LOTTERY TICKET.
+
+
+OK.
+
+
+TWO POSIBILITIES: YOU WIN OR YOU LOSE
+
+
+IF YOU WIN: YOU SPEND $100 AND YOU GAIN $1000000. So that’s:
+
+
+$999900
+
+
+THERE IS A 1/1000000 OF WINNING. SO
+
+
+    P(999900)=999900/1000000=.9999
+
+
+IF YOU LOSE, YOU SPEND $100 AND GAIN $0. SO YOUR ‘GAIN’WOULD BE -$100. THERE IS A 999999/1000000 CHANCE THAT THIS
+
+
+WILL BE THE OUTCOME. SO P(-100)= 999999/1000000= NEGATIVE
+
+
+$99.9999.
+
+
+SO EXPECTED VALUE= PROBABLE GAINS FROM WINNING PLUS
+
+
+PROBABLE NEGATIVE GAINS FROM LOSING=NEGATIVE
+
+
+  $99.9999.+$.9999=NEGATIVE $99 DOLLARS.
+
+
+                         Music Journal (Music/Musicology)
+
+
+ 
+
+
+1. Briefly, describe your initial impressions of each of the four musical
+
+
+  works we listened to in this unit. What did you think of them and what
+
+
+  made you think that way?
+
+
+  Musical WorkYour Impressions
+
+
+Caro MeaIt is very austere. It is entirely monophonic, sung either
+
+
+                        by just one person or by several people singing in
+
+
+                        perfect unison; and the tonality is restrained, not
+
+
+                          sensuous; all of which gives it a laconic quality. Also,
+
+
+                        the range is narrow—‘constricted’, like everything else
+
+
+                        about it.
+
+
+Ordo VirtutumDark and sad, but self-restrained in the way that
+
+
+                        medieval music seems to be. It is more emotive than
+
+
+                        Caro Mea, however; and there is also more metrical
+
+
+                          variability—there are some flourishes that stand out.
+
+
+I Can All TooIt actually sounds very Scottish or Irish—very Celtic, I
+
+
+Well Compare Mysuppose, given that the Celts originated in France, like
+
+
+Ladythis work’s composer. It has the ‘jig’ rhythm that we
+
+
+                        have come to associate with Celtic music—sounds like                        the music from Scorsese’s ‘Gang’s of New York.’
+
+
+A ChantarThe rugged cello (or cello-like instrument), along with
+
+
+                        the open fifths (I think), give it a rugged, ‘wintry’
+
+
+                        quality. The drums give it a spontaneous quality that
+
+
+                        isn’t as present in other medieval music.
+
+
+ 
+
+
+2. Review your notes from the Dark Ages video. Imagine that you are a
+
+
+  person living in Europe during those times. Briefly, describe your
+
+
+  medieval alter-ego. Who are you? What do you do? What do you think
+
+
+  about your life? Your response should reference at least one specific thing
+
+
+  you learned from the Dark Ages video. 
+
+
+I pretty much do the same thing every day. I work. I ply my trade, e.g. I
+
+
+might be a black-smith. I pay tithes to my guild-master (union
+
+
+representative, essentially). I do not work long hours; I am well rested.
+
+
+After working a restful day, I drink mead with my mates, and eventually
+
+
+report home. I might take the family to a play or musical performance put
+
+
+on by fellow villagers or, more likely, by an itinerant theatre troop. Life is
+
+
+not anxious, but also not deeply fulfilling (though I probably don’t think
+
+
+that to myself).
+
+
+  
+
+
+3. Choose any one piece from this lesson and listen to it again. As you listen,
+
+
+  try your best to imagine how it might sound if you were the medieval
+
+
+  person described above. Where might you hear this music, what might you
+
+
+  think of this music, and why might you think that way?
+
+
+What piece did you 
+
+
+choose?Caro Mea
+
+
+Type your response here.  If I were an ordinary peasant—as opposed to an
+
+
+aristocrat or member of the clergy—I would associate this piece with
+
+
+obligatory Church-attendance. I would admire this piece, but I would not be
+
+
+moved by it, since it was not written for me. It embodies the asceticism of a
+
+
+monastic life, which is very different from my life, which has all of the
+
+
+drama of a life with a wife, children, taxes, and the like. This work’s austere
+
+
+quality is alienatingly high-brown to me.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+4. Respond to the following question: what is the relevance of medieval
+
+
+  music in today's society? 
+
+
+Type your response here. What struck me when listening to these works is                                                  thth
+that they have a rather modern quality. 18 and 19 century European
+
+
+music is emotionally unambiguous. Modern classical music, e.g. Bartok, is
+
+
+different and has an austere quality. Medieval music, especially Gregorian
+
+
+chants, have a similar quality; and I feel that history is--in this respect, and
+
+
+probably therefore in others—is looping. So its relevance is that it
+
+
+prefigures modern music.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+      Word Painting Assignment
+
+
+      This song is about a 'nowhere' man, this being a total cipher of a
+
+
+person: a blank, somebody who does what he is supposed to and doesn't have
+
+
+any kind of life. The first 15 seconds are completely monophonic---just all
+
+
+four Beatles singing the same bit of melody in complete unison.  This bit
+
+
+of monophonysounds like what it is supposed to represent: it sounds bleak
+
+
+and depressing, and it supposed to represent a bleak and depressing form of
+
+
+existence.  Notice also that the monophone,  a Capella into is divided into
+
+
+three parts, with the second being lower (tonally) than the first and the third
+
+
+being lower than the second:
+
+
+      He's a real nowhere man (high)
+
+
+      sitting in his nowhere land (medium)      making all his nowhere plans for nobody  (low), 
+
+
+      creating a depressing effect. 
+
+
+      Then, the instrumental part begins (fifteen seconds into it) begins with
+
+
+a little guitar riff that consists  of four descending notes--creating another
+
+
+'heading downward' , depressing effect. 
+
+
+      The singing through  main part of the song (the 'A' in the AABA
+
+
+structure that this Beatle's song, like most pop songs, has) is all monophonic,
+
+
+creating the song's signature 'bleak', 'nowhere' sound. 
+
+
+      Also, in the 'B' part of the song ("nowhere man, please listen/you don't
+
+
+know what you're  missin'/nowhere man,  the world is at your command') is
+
+
+the only part of the song in the singing is homophonic. This gives that part of
+
+
+the song a brigher, less 'nowhere-y' quality, which is obviously deliberate.
+
+
+Also, it is only part of the song where the drum beat (which marks the
+
+
+4:4 meter) varies at all. This  bit of rhythmic variation gives that one part of
+
+
+the song a bit of pep, making it contrast with the rest, of the song,  which is
+
+
+depressing and, given that it is about what a loser the proverbial 'nowhere
+
+
+man' is, is supposed to be depressing. 
+
+
+ 
+
+
+ Prompt 1 I chose Faure's famous (and deservedly so, as you'll see
+
+
+when you listen to it) so-called 'Pavane.' Most of you have probably heard it. 
+
+
+A 'pavane' is a stately-court dance; and this work is indeed rhythmicallyconservative in much the same way as the music for a court dance. But the
+
+
+theme is the exact opposite of conventional and stately. It is introspective and
+
+
+haunting. 
+
+
+      The key is F-sharp minor (three sharps, like A major).
+
+
+The meter is 4:4.  It is homophonic, not polyphonic, with the melody being
+
+
+carried by a flute (or set of flutes, rather), and the accompaniment--the very
+
+
+distinctive and famous accompaniment---is carried along
+
+
+by pizzicato strings, for the most part repeating the same three notes (f#-a-
+
+
+c#-a). 
+
+
+      The 'cover' that I chose is a jazz piano rendering of the piece. There
+
+
+are many jazz covers of this piece. For some reason, this piece 'translates'
+
+
+well into jazz, for reasons that I invite to explicate. 
+
+
+      The first is the original; the second, the cover. 
+
+
+      I personally prefer the jazz version. I like the soft contours of the
+
+
+piano version, with its flashes of modern harmony and dynamic nuances. I
+
+
+especially like the 'totally jazz' part (2:04-2:20), and I like the strange
+
+
+additions to the composer's original harmonies (2:34-2:38).
+
+
+        Prompt 2 There are many reasons why a given composer might want
+
+
+to adapt preexisting work, the main one being that the first composer sees
+
+
+that there are ways of developing the other composer's work.  One extremely
+
+
+striking example of this involves Busoni's adaption for piano of Bach'sfamous Chaconne for violin. 
+
+
+      Original Chaconne 
+
+
+      Busoni's Adaptation for piano 
+
+
+      A not-so-famous but, in its own way, striking example is this person's
+
+
+adaption for electric guitar of Bach's prelude in c-minor for harpsichord. 
+
+
+      Original prelude 
+
+
+      Adaptation 
+
+
+      I found what sounds like a semi-adaptation of this same work, though
+
+
+it may be more of an original piece (let me know): 
+
+
+      Edited by N/A on Jul 15 at 1:28am
+
+
+      Prompt II
+
+
+      There are many reasons a composer might want to base work on
+
+
+another composer's work. The main one is that composer A had a winning
+
+
+idea which composer B knows that he can further develop. This happens all
+
+
+the time. A striking example is Bach's Chaconne (1720), originally for solo
+
+
+violin, which Busoni adapted for piano. 
+
+
+      Original Chaconne 
+
+
+      Busoni 'cover'
+
+
+      A lot of art is based on other art (e.g. Romeo and Juliet is based on a
+
+
+poet by Ovid), and a lot of thought is based on other thought. The difference
+
+
+between plagiarism and adaptation is that the latter involves development,whereas the former does not. 
+
+
+ Reply Reply to Comment
+
+
+Name:
+
+
+1. The conductor describes 4 distinct parts of the exposition. What are these
+
+
+  4 parts?
+
+
+Type answer here. First theme. Transition. Second theme. Closing part.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2. Based on the video, what is the difference between hearing music and
+
+
+  listening to music?
+
+
+Type answer here. Hearing music means hearing the noise that bears the
+
+
+music. Listening to music means hearing the music in the noise, which is
+
+
+done by actively engaging that noise.
+
+
+ 
+
+
+ 
+
+
+3. What is meant by the tern unison, and what part of Beethoven’s Fifth
+
+
+  Symphony is played in unison?
+
+
+Type answer here. Unison means playing (or singing) the same notes at the
+
+
+same time. The famous opening sequence (g-g-g-e flat) is in unison, givingit a stark and definitive quality that it would lack if it were harmonized.
+
+
+ 
+
+
+ 
+
+
+4. In musical terms, what is meant by a sequence?
+
+
+Type answer here. It is the repetition of a musical conceit (sequence of
+
+
+notes) at different pitch levels.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+5. What is ternary form?
+
+
+Type answer here. A musical work is in ternary form if it consists of three
+
+
+sections.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+6. According to the conductor, what is different about sonata form as
+
+
+  compared to ternary form?
+
+
+Type answer here. Two differences. Whereas ternary form is ABA, sonata
+
+
+form is ABA*, i.e. in sonata form, A is not simply repeated but developed.
+
+
+Second, in sonata form, each of the three sections is itself subdivided intofour parts: theme, transition, second theme, closing part.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+7. What is syncopation?
+
+
+Type answer here. When the emphasis is placed on the naturally weak beat.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+8. How is the opening of the recapitulation different from the opening of the
+
+
+    exposition?
+
+
+Type answer here. In the opening of the recapitulation, there are key
+
+
+changes, crescendos and decrescendos absent from the exposition.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+9. According to the video, why did Beethoven decide to have the bassoons
+
+
+  announce the second theme in the recapitulation instead of the horns?
+
+
+Type answer here.  Because in Beethoven’s day, horns could not easily play
+
+
+in different keys (since this required the valves inside them to be manuallyreplaced), whereas bassoons do not have this issue.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+10.   What emotional impact does Beethoven’s use of dissonance have on
+
+
+  you?
+
+
+Type answer here. I like the starkness. It is bracing and makes me feel a
+
+
+sense of urgency on Beethoven’s part, a need to get across a message of
+
+
+angst.
+
+
+ 
+
+
+ 
+
+
+      My first piece is Beethoven's Sonata #12 opus 26 in A flat major,
+
+
+completed in 1792---before Beethoven began to go deaf or otherwise suffer
+
+
+from any of the health problems that would plague him, this perhaps being
+
+
+responsible for this work's serene quality. This piece is unusual among
+
+
+Beethoven Sonatas in that the first movement (0.20-1:46), rather than
+
+
+having sonata form, is a theme and variations (0.20-. All of the variations
+
+
+have the same meter (3:4) and same tempo (andante); and, setting aside the
+
+
+minor variation (4:02-5:53), can be simultaneously without in any way
+
+
+sounding dissonant. (I have verified this personally; as in, I myself have
+
+
+performed the piece while someone else played the opening theme.)Incidentally, the first movement of this sonata is the only piece of
+
+
+Beethoven's that Chopin ever publicly performed. (Chopin disliked
+
+
+Beethoven's music, which he saw as overly disciplined.)  I can personally
+
+
+attest that this piece is very enjoyable to play; the opening chords are soft and
+
+
+warm and induce a feeling of centered calm, in performer no less than in
+
+
+listener. Also, the mechanics are very intuitive for the performer. 
+
+
+      The second movement (9:13-11:52) is a brilliant scherzo, also in A flat
+
+
+major (though it starts out in F minor), which, because of the
+
+
+brilliant contrapuntal(9:42--9:56) section, sounds almost like Bach,
+
+
+suggesting, I believe, that although Beethoven was Mozart's immediate
+
+
+successor and composed in the same genre, Beethoven was in some ways
+
+
+closer to Bach. (Speaking personally, this is one of my favorite pieces to
+
+
+perform: the counterpoint is intellectually demanding and the fast-paced
+
+
+thirds in the right hand are satisfyingly aggressive.)
+
+
+      The third movement (11:56--18:17) --the Funeral March in A flat
+
+
+minor (a very unusual key to compose in...usually g# minor is preferred)---is
+
+
+the part of the piece that qualifies as 'program music', since, of course, it is
+
+
+meant to depict the 'death of a hero' (its subtitle). The hero is usually taken to
+
+
+be Napoleon (also the subject of Beethoven's famous 'Eroica' (heroic)
+
+
+symphony). Napoleon was still alive when opus 26 was composed; so
+
+
+presumably the 'death' in question is figurative in nature, as in, Napoleon had,in Beethoven's mind, fallen short in some way and thus 'died', as it were. 
+
+
+      The final movement (18:20-21:45) is a brisk allegro, again in A flat,
+
+
+which offsets the dark mood the previous movement. This movement is
+
+
+striking because the left hand replicates and inverts the main conceit. 
+
+
+      The second piece I chose, also by Beethoven, is his Sonata #17 in d
+
+
+minor (opus 31), a.k.a 'the Tempest', completed in 1802. Of course,
+
+
+Shakespeare wrote a play of the same name. But Beethoven did not himself
+
+
+give this name to this work, and, even though there is commonly presumed to
+
+
+be a connection between this work and Shakespeare's play, there is not much
+
+
+of a connection. Shakespeare's play is light-hearted; this sonata is dark and
+
+
+turbulent---genuinely storm-like. 
+
+
+      An interesting feature of this work--one which makes it genuinely
+
+
+program-music-like--is that, whereas most Beethoven sonatas 'get right into
+
+
+it' and dispense with any 'introductory' material, this one begins with a very
+
+
+calm and unassuming few bars (0:21-0:31), which are followed by toccata-
+
+
+like material that is as agitated as the first few bars were calm. The use
+
+
+of triplets in the right hand (1:05--1:27) gives the piece of a striking
+
+
+briskness, which sounds rather like the program-music from early movies
+
+
+(probably because that was music was directly modeled on it). The meter
+
+
+is 4:4. 
+
+
+      The second movement (9:07-18:00), in b flat major, is gorgeous andserene, contrasting with the dark, stark, and fast-pace first and third
+
+
+movements. The meter is 3:4.
+
+
+      The third movement (18:20-25:15) --which, I suspect, will sound
+
+
+familiar to most people, even those not familiar with classical music---has a
+
+
+very catchy, almost music-box-like tune. The mood reprises that of the first
+
+
+movement. The meter is is 3:8.
+
+
+      Beethoven composed this after his deafness was under way, granting
+
+
+that there is no real way to know if there is a causal connection at work.
+
+
+      The third piece I chose is the Coriolan Overture (opus 62), also by
+
+
+Beethoven and completed in 1807. This piece was written as program-music
+
+
+for the play Coriolan by Heinrich Joseph von Collin, which is based on the
+
+
+play Coriolanus by Shakespeare. Beethoven's music was not meant to be a
+
+
+mere accompaniment or background, and this work, despite technically being
+
+
+'scene' music, is no exception; and this overture probably absorbed the
+
+
+audience's attention far more than the play itself. Like Beethoven's 5th
+
+
+symphony, (completed two years earlier) it is composed in c minor; and also
+
+
+like the 5th symphony, it is very much based on a single, rather aggressive
+
+
+four-note (c-e flat-e flat-d) conceit (0:30-0:35).
+
+
+      The story of Coriolanus is worth knowing (both in this context and in
+
+
+general). Coriolanus was a Roman general who, after a successful career in
+
+
+the military, tried his hand at politics. Unfortunately, he proves to be as bad atpoliticking as he was good at soldiering, and, after making one emotion-
+
+
+driven decision after another, he is eventually violently deposed. Attempts
+
+
+have been made to map the story onto Beethoven's overture, which is divided
+
+
+into a dark 'A'-part in c minor and a light 'B'-part, which is in e flat.
+
+
+According to some scholars, the A-part represents Coriolanus's ambition--
+
+
+specifically his desire to go on an ill-advised military campaign---and the B-
+
+
+part represents his mother's attempting to persuade him otherwise. Beethoven
+
+
+does seem to have identified with the figure of Coriolan and, indeed, seems to
+
+
+have identified with many a tragic figure--c.f. the points made above about
+
+
+Napoleon. 
+
+
+      Edited by N/A on Jul 25 at 11:57pm
+
+
+ Reply Reply to Comment
+
+
+Name:
+
+
+  1. The conductor describes 4 distinct parts of the exposition. What are
+
+
+      these 4 parts?
+
+
+Type answer here. First theme. Transition. Second theme. Closing part.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+2. Based on the video, what is the difference between hearing music and
+
+
+  listening to music?Type answer here. Hearing music means hearing the noise that bears the
+
+
+music. Listening to music means hearing the music in the noise, which is
+
+
+done by actively engaging that noise.
+
+
+ 
+
+
+ 
+
+
+3. What is meant by the tern unison, and what part of Beethoven’s Fifth
+
+
+  Symphony is played in unison?
+
+
+Type answer here. Unison means playing (or singing) the same notes at the
+
+
+same time. The famous opening sequence (g-g-g-e flat) is in unison, giving
+
+
+it a stark and definitive quality that it would lack if it were harmonized.
+
+
+ 
+
+
+ 
+
+
+4. In musical terms, what is meant by a sequence?
+
+
+Type answer here. It is the repetition of a musical conceit (sequence of
+
+
+notes) at different pitch levels.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+5. What is ternary form?
+
+
+Type answer here. A musical work is in ternary form if it consists of threesections.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+6. According to the conductor, what is different about sonata form as
+
+
+  compared to ternary form?
+
+
+Type answer here. Two differences. Whereas ternary form is ABA, sonata
+
+
+form is ABA*, i.e. in sonata form, A is not simply repeated but developed.
+
+
+Second, in sonata form, each of the three sections is itself subdivided into
+
+
+four parts: theme, transition, second theme, closing part.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+7. What is syncopation?
+
+
+Type answer here. When the emphasis is placed on the naturally weak beat.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+8. How is the opening of the recapitulation different from the opening of the
+
+
+    exposition?Type answer here. In the opening of the recapitulation, there are key
+
+
+changes, crescendos and decrescendos absent from the exposition.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+9. According to the video, why did Beethoven decide to have the bassoons
+
+
+  announce the second theme in the recapitulation instead of the horns?
+
+
+Type answer here.  Because in Beethoven’s day, horns could not easily play
+
+
+in different keys (since this required the valves inside them to be manually
+
+
+replaced), whereas bassoons do not have this issue.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+10.   What emotional impact does Beethoven’s use of dissonance have on
+
+
+  you?
+
+
+Type answer here. I like the starkness. It is bracing and makes me feel a
+
+
+sense of urgency on Beethoven’s part, a need to get across a message of
+
+
+angst.
+
+
+ 
+
+
+  
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+Name: N/A
+
+
+Respond to the following prompts.
+
+
+  1. The author of your textbook makes the following claim: “Music can
+
+
+      make us see things differently, even when we don’t realize it’s there.”
+
+
+      Using one or more of the movie clips from the assignment page on
+
+
+      Canvas, explain how this can be true. Be specific.
+
+
+Type answer here. The scene from Grease is a good illustration of this.
+
+
+When the scene is played without music, the behavior of the young men on
+
+
+the bleachers seems crude, totemic, and devoid of kindness. The obviously
+
+
+sexual gestures come off as aggressive. When it is played with the music in
+
+
+the background, it seems light-hearted and funny. The sexual gestures come
+
+
+off as playful.
+
+
+ 
+
+
+ 2. Choose one of the scenes on the Canvas assignment page and describe the
+
+
+  specific emotion conveyed by the music. For instance, "happy" is too
+
+
+    generic because there are many kinds of happiness, ranging from
+
+
+    exuberance to contentment.
+
+
+Type answer here. The music from Psycho is aggressive, stark (because
+
+
+monophonic or semi-phonic), repetitive, and dissonant, and it thereby
+
+
+conveys both the terror of the woman as well as the ruthlessness of her
+
+
+killer. Also, the lack of dynamic contrast, as well as the lack of a fade-in,
+
+
+turns the music itself into an assault on the movie-goer. The latter is
+
+
+surprised by the music in much the way that the woman is surprised by the
+
+
+assailant.
+
+
+ 
+
+
+ 
+
+
+3. Identify three specific musical elements the composer used to help
+
+
+  convey the emotion. Clearly describe how these elements are heard while
+
+
+    demonstrating that you fully understand their meaning. For example, a
+
+
+    response like "the piece uses dynamics well" would earn 0 points because
+
+
+  it does not specify the dynamic level (forte, piano, etc.) or show that the
+
+
+  student understands what dynamics are. Use time markers when
+
+
+    appropriate.   MusicalDescription of How Each Element Is Heard
+
+
+Element
+
+
+Type element 1Type description here. Musical onomatopoeia: The
+
+
+heremusic from the Psycho stabbing scene is an example, in
+
+
+                    more than one way, of musical onomatopoeia. The string
+
+
+                    sounds mirror the act of stabbing with their aggressive
+
+
+                      repetitiveness. Also, they they themselves sound like
+
+
+                    shrieks and thereby evoke the abject terror that the
+
+
+                    woman is experiencing; and they also externalize the
+
+
+                      psychological condition—one of pain and madness—of
+
+
+                    the assailant. The music in this scene has no dynamic
+
+
+                      contrast, being uniformly forte. This sends the message
+
+
+                    that the killer is totally inhuman and devoid of internal
+
+
+                      gradations---just a killing machine. Be it noted that in
+
+
+                    order to produce the sound in question, a string player
+
+
+                    must practically ‘strike’ his instrument with his bow, in
+
+
+                    much the way that the Norman Bates character is stabbing
+
+
+                    his victim. Finally, the music has a symbiotic relationship
+
+
+                    with events in film, in that the stabbing at one point (0:32-
+
+
+                    0:36) keeps the beat of the music.
+
+
+  
+
+
+Type element 2Type description here. Lack of dynamic contrast: There
+
+
+hereis no fade-in. The music simply explodes out of nowhere,
+
+
+                    and it does so onto what was previously a placid shower
+
+
+                    scene. There is no dynamic contrast: it is forte (or
+
+
+                      fortissimo) all the way, and is therefore itself surprising
+
+
+                    and unrelenting in much the same way as the killer.
+
+
+ 
+
+
+Type element 3Type description here. Zero rhythmic variation.  This
+
+
+heremusic seems to have a meter of 1:1—one beat/bar. There
+
+
+                    is no variation; there are no flourishes. Just the same
+
+
+                    stabbing, shrieking sound, repeated with almost military
+
+
+                      regularity, underscoring the killer’s total lack of remorse.
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+4. Is the music in the scene you chose for prompt #2 diegetic or non-
+
+
+  diegetic, and why?
+
+
+Type answer here. The music is non-diegetic, since its source is not what
+
+
+happens in the scene. By contrast, the shower-sounds are diegetic, since
+
+
+they are made events in the scene itself. 
+
+
+ 
+
+
+      The ‘point’ of this work, so to speak, is that the events in question
+
+
+were not simply dark but fell outside of what human beings are able to
+
+
+process; and this work conveys that point by being atonal and, on that basis,
+
+
+deriding and caricaturing pre-existing musical norms, rather than deploying
+
+
+them in any ordinary way. The first sounds that we hear are of an almost
+
+
+triumphant-sounding trumpet (01:-04). The motif is almost like that of a
+
+
+national anthem (e.g. the Chinese National Anthem, which is based on what
+
+
+sounds like a tonal version of this same trumpet-riff). But the modal is askew,
+
+
+being atonal, and is quickly met with a dark, semi-atonal orchestral
+
+
+background. Incidentally, the cello motif immediately heard thereafter sounds
+
+
+like Philip Glass, and I suspect that he may even have consciously borrowed
+
+
+it. (Cf.Philip Glass - Glassworks (complete) (Links to an external site.)
+
+
+
+
+
+
+                      32:09)
+
+
+      The rest of this work followed suit, all of it being on the edges of tonal
+
+
+music and all of it being, as it were, derogatory of it and, so it seems, of the
+
+
+cultural norms thereby represented, the work’s overall point seemingly being
+
+
+that what was happening in the world could no longer be understood in theusual rationality-based ways. What was a little hard to understand—or at
+
+
+least to fit into this way of understanding this work---was Chorale part, sung
+
+
+in Hebrew, as to the Jewish people’s future responsibilities to itself. The
+
+
+lyrics were straightforward and clearly non-ironic; but the accompanying
+
+
+music was atonal and, so it seemed, derisive, making it unclear whether the
+
+
+words being sung were to be taken literally, on the one hand, or, on the other
+
+
+hand, dismissed, in light of recent events, as naïve. I suspect that they were
+
+
+meant to be taken literally and were accompanied by atonal, ambiguous-
+
+
+sounding music only because that was the genre in which Schoenberg
+
+
+happened to composer.
+
+
+      I chose to listen to the video that did not feature Holocaust pictures.
+
+
+This was because I wanted to listen to the music without being ‘told’, so to
+
+
+speak, how to react. (The singing, especially the solo singing in English, did,
+
+
+however, tell me, quite literally, what I was to be thinking and feeling; and I
+
+
+was a bit surprised at this brazen violation of the ‘show, don’t tell’ rule
+
+
+governing theatrical performances.) Frankly, I found this work  easy to listen
+
+
+to, precisely because it doesn’t use conventional tonality. I was able to listen
+
+
+to each bar on its own, without having to feel that I had to embed in a larger
+
+
+musical narrative. Also, even though this music is classified as ‘atonal’, it is
+
+
+not, literally speaking, atonal; it is only relatively atonal. Relatedly, I think
+
+
+that contemporary audiences would find this piece much less jarring thanSchoenberg’s contemporaries, mainly because so much film music sounds
+
+
+like this, probably because, so I suspect, Schoenberg’s music itself influenced
+
+
+film-composers.
+
+
+      And this last point, I think, is central to what is going with
+
+
+Schoenberg’s music. Bach’s music is not meant to represent anything; neither
+
+
+is Mozart’s or Beethoven’s. These composers did, of course, compose masses
+
+
+and operas and other story-accompanying works; but their music is always,
+
+
+ultimately, to be listened to by itself. Schoenberg’s music, by contrast, sounds
+
+
+like a movie score and is easy to listen if listened to in that way. But if
+
+
+listened to on its own, in the way in which Mozart or Beethoven are listened
+
+
+to, it is a bit grating. I would conjecture that part of what allowed Schoenberg
+
+
+to compose atonal music was that his music  was, at least by his intention, to
+
+
+be listened to as an accompaniment to a play or some such, and not on its
+
+
+own, so that the dissonances in it as comments on an independent story-line,
+
+
+and not as musical ends unto themselves.
+
+
+      The composer I chose is Martha Callison Horst. Dr. Horst received a
+
+
+PhD in music from the University of California, Davis in 1996. Her
+
+
+dissertation was itself a musical work, titled 'suite.' In preparation for this
+
+
+assignment, I listened to a number of her works. I was hoping that there
+
+
+would be a clear thread or concept running through all of her music that
+
+
+would enable me to put her music in a single category, such as 'minimalist' or'romantic' or 'neoclassical.' But she seems to compose in a number of
+
+
+different genres and does not have any clear musical agenda. My favorite
+
+
+piece of hers is a percussion work titled 'Bam!" (link at the end of this post),
+
+
+which was strikingly 'non-academic.' But the piece I chose to write about is a
+
+
+work for three guitars, titled 'Sylvan Winds': 
+
+
+      This is definitely a work of the 'minimalist' variety. It consists of a
+
+
+repetition of single motif, much like Philip Glass's music. This work sounds
+
+
+very--and I am tempted to say 'suspiciously'--like another minimalist work
+
+
+titled 'Phrygian Gates', by John Adams: 
+
+
+ 
+
+
+      Listen to 0:40-1:20 of Phrygian Gates and compare them to 0:00-1:20
+
+
+of Sylvan Winds. Obviously they are not the same work, but the concept is
+
+
+very similar; and so, in fact, is the tonality, the rhythm, and general
+
+
+architecture. Notice also that both works have similar titles. 
+
+
+      Both works strike me as versions of, or attempts to emulate,
+
+
+Prokofiev's striking toccata in d minor: 
+
+
+      This work, like the other two, is minimalist; but unlike them, it has a
+
+
+definite 'edge' and a definite focus. The other two, by contrast, are meant to
+
+
+be, and largely are, serene. 
+
+
+      Listen to 3:40-3:46 of Sylvan Winds, and note the similarities to 3:00-
+
+
+3:04 of the toccata in d minor. Both sections are 'climactic' and are meant tobe antithetical to the rest of the piece in question, granting that the toccata's
+
+
+climax is a bit more striking--a bit more 'climactic', for lack of a better way to
+
+
+put it--than that of Sylvan Winds.
+
+
+      Phrygian Gates is so called because it is based on the Phrygian Mode,
+
+
+meaning that it is based on the scale starting with E and consisting only of
+
+
+naturals (white notes on the piano). See 0:35-0:40 in the following video: 
+
+
+      This modality, being an unusual one, turns off some of our standard
+
+
+tonal expectations of a piece and allow us to 'surrender to the experience'
+
+
+without any preconceptions (Powers, 278), making this tonality well-suited
+
+
+for soothingly repetitive 'mood' music,  (Carver, 84), Sylvan Woods and
+
+
+Phrygian Gates being cases in point. 
+
+
+      As for my feelings about Sylvan Winds, I found it easy to listen to and
+
+
+soothing, but some of the dissonances put me off. The main virtue of the
+
+
+piece was its serene quality, and the dissonances, so I felt, didn't quite belong
+
+
+there.  What I did very much like about this piece was that it is a clear
+
+
+illustration of what I believe could be a good compositional template: a
+
+
+single, simple motif, repeated but with slight changes each time.  I myself
+
+
+have used this template and I believe that, if nothing else, it is very good
+
+
+compositional exercise to compose a piece based on it. 
+
+
+      As previously stated, my favorite piece by Dr. Horst (of those that I
+
+
+could access) is "Bam!", which, I am inclined to believe, many people willagree with me in believing to be the most 'listenable' of her works on
+
+
+YouTube: 
+
+
+Citations:
+
+
+1) Powers, H. S. (1998). From psalmody to tonality. Tonal structures in early
+
+
+music, 275-340.
+
+
+2) Carver, A. F. (2005). Bruckner and the Phrygian mode. Music and
+
+
+Letters, 86(1), 74-99.
+
+
+ 
+
+
+[1]
+ https://www.nps.gov/features/eise/jrranger/5accompx.htm
+[2]
+ https://www.nps.gov/features/eise/jrranger/5accomp2X.htm
+[3]
+ https://www.mic.com/articles/74045/jfk-s-top-5-political-accomplishments

@@ -1,0 +1,3810 @@
+[
+  {
+    "id": "HUME-TE-001",
+    "year": 1739,
+    "premise": "treatise|epistemology|perceptions|mind|either|impressions",
+    "conclusion": "All perceptions of the mind are either impressions or ideas",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-TE-002",
+    "year": 1739,
+    "premise": "treatise|epistemology|ideas|faint|copies|impressions",
+    "conclusion": "Ideas are faint copies of impressions",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-TE-003",
+    "year": 1739,
+    "premise": "treatise|epistemology|complex|ideas|composed|simple",
+    "conclusion": "Complex ideas are composed of simple ideas derived from simple impressions",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-TE-004",
+    "year": 1739,
+    "premise": "treatise|epistemology|missing|shade|blue|counterexample",
+    "conclusion": "The missing shade of blue counterexample shows a possible exception to the copy principle",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-TC-001",
+    "year": 1739,
+    "premise": "treatise|causation|real|necessary|connection|constant",
+    "conclusion": "Causation is not a real necessary connection but a constant conjunction discovered by experience",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-TC-002",
+    "year": 1739,
+    "premise": "treatise|causation|relation|allows|beyond|immediately",
+    "conclusion": "Causation is the only relation that allows us to go beyond what is immediately present to the senses",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-TC-003",
+    "year": 1739,
+    "premise": "treatise|causation|idea|power|necessary|connection",
+    "conclusion": "The idea of power or necessary connection has no impression-source in external objects",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-TC-004",
+    "year": 1739,
+    "premise": "treatise|causation|feeling|necessary|connection|arises",
+    "conclusion": "The feeling of necessary connection arises from the mind's customary transition after repeated conjunctions",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-TP-001",
+    "year": 1739,
+    "premise": "treatise|passions|reason|alone|motivate|action",
+    "conclusion": "Reason alone cannot motivate action; passions do",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-TP-002",
+    "year": 1739,
+    "premise": "treatise|passions|sympathy|mechanism|feel|others",
+    "conclusion": "Sympathy is the mechanism by which we feel the passions of others",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-TP-003",
+    "year": 1739,
+    "premise": "treatise|passions|pride|humility|indirect|requiring",
+    "conclusion": "Pride and humility are indirect passions requiring a double relation of ideas and impressions",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-TP-004",
+    "year": 1739,
+    "premise": "treatise|passions|reason|slave",
+    "conclusion": "Reason is and ought only to be the slave of the passions",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-TM-001",
+    "year": 1739,
+    "premise": "treatise|morality|moral|distinctions|derived|sentiment",
+    "conclusion": "Moral distinctions are derived from sentiment, not reason",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-TM-002",
+    "year": 1739,
+    "premise": "treatise|morality|virtue|whatever|produces|pleasure",
+    "conclusion": "Virtue is whatever produces pleasure or approbation in a disinterested spectator",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-TM-003",
+    "year": 1739,
+    "premise": "treatise|morality|justice|artificial|virtue|arising",
+    "conclusion": "Justice is an artificial virtue arising from conventions",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-TM-004",
+    "year": 1739,
+    "premise": "treatise|morality|promises|binding|human|convention",
+    "conclusion": "Promises are binding because of human convention, not natural obligation",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-TP-001",
+    "year": 1739,
+    "premise": "treatise|personal|identity|self|bundle|collection",
+    "conclusion": "The self is a bundle or collection of perceptions, not a single substance",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TP-002",
+    "year": 1739,
+    "premise": "treatise|personal|identity|fiction|created|imagination",
+    "conclusion": "Personal identity is a fiction created by the imagination",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TP-003",
+    "year": 1739,
+    "premise": "treatise|personal|identity|self|nothing|bundle",
+    "conclusion": "The self is nothing but a bundle or system of different perceptions",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TP-004",
+    "year": 1739,
+    "premise": "treatise|personal|identity|over|time|fiction",
+    "conclusion": "Personal identity over time is a fiction produced by the smooth transition of resembling perceptions",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TF-001",
+    "year": 1739,
+    "premise": "treatise|free|liberty|necessity|compatible|compatibilism",
+    "conclusion": "Liberty and necessity are compatible (compatibilism)",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TF-002",
+    "year": 1739,
+    "premise": "treatise|free|liberty|indifference|incompatible|causation",
+    "conclusion": "The liberty of indifference is incompatible with causation and therefore impossible",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TF-003",
+    "year": 1739,
+    "premise": "treatise|free|necessity|determinism|essential|moral",
+    "conclusion": "Necessity (determinism) is essential to moral responsibility",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TF-004",
+    "year": 1739,
+    "premise": "treatise|free|liberty|spontaneity|acting|without",
+    "conclusion": "Liberty of spontaneity (acting without external constraint) is compatible with necessity",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TM-001",
+    "year": 1739,
+    "premise": "treatise|metaphysics|space|time|composed|indivisible",
+    "conclusion": "Space and time are composed of indivisible points or minima",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TM-002",
+    "year": 1739,
+    "premise": "treatise|metaphysics|space|time|infinitely|divisible",
+    "conclusion": "Space and time are not infinitely divisible; they consist of minima",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TM-003",
+    "year": 1739,
+    "premise": "treatise|metaphysics|idea|vacuum|impossible|require",
+    "conclusion": "The idea of a vacuum is impossible because it would require perception without impression",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TM-004",
+    "year": 1739,
+    "premise": "treatise|metaphysics|ancient|philosophy|substance|accident",
+    "conclusion": "The ancient philosophy of substance and accident is unintelligible",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-TP-001",
+    "year": 1739,
+    "premise": "treatise|psychology|animals|reason|manner|similar",
+    "conclusion": "Animals reason in a manner similar to humans via custom and habit",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "HUME-TP-002",
+    "year": 1739,
+    "premise": "treatise|psychology|animals|possess|reason|understanding",
+    "conclusion": "Animals possess reason and understanding analogous to humans via custom",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "HUME-TP-003",
+    "year": 1739,
+    "premise": "treatise|psychology|education|forms|habits|mimic",
+    "conclusion": "Education forms habits that mimic natural reasoning",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "HUME-TP-004",
+    "year": 1739,
+    "premise": "treatise|psychology|animals|form|inferences|analogous",
+    "conclusion": "Animals form inferences analogous to human causal reasoning through habit",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "HUME-EE-001",
+    "year": 1739,
+    "premise": "enquiry|epistemology|objects|human|reason|relations",
+    "conclusion": "All objects of human reason are relations of ideas or matters of fact",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EE-002",
+    "year": 1739,
+    "premise": "enquiry|epistemology|matters|fact|known|cause",
+    "conclusion": "Matters of fact are known only through cause and effect",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EE-003",
+    "year": 1739,
+    "premise": "enquiry|epistemology|amount|finite|observation|justify",
+    "conclusion": "No amount of finite observation can justify universal causal claims (problem of induction)",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EE-004",
+    "year": 1739,
+    "premise": "enquiry|epistemology|belief|sentiment|feeling|cognitive",
+    "conclusion": "Belief is a sentiment or feeling, not a cognitive act",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "enquiry|causation|knowledge|comes|experience|priori",
+    "conclusion": "Knowledge of causation comes from experience, not a priori reasoning",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-EC-002",
+    "year": 1739,
+    "premise": "enquiry|causation|idea|necessary|connection|arises",
+    "conclusion": "The idea of necessary connection arises from custom, not from insight into objects",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-ER-001",
+    "year": 1739,
+    "premise": "enquiry|religion|miracles|violations|laws|nature",
+    "conclusion": "Miracles are violations of laws of nature and thus highly improbable",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-ER-002",
+    "year": 1739,
+    "premise": "enquiry|religion|testimony|sufficient|establish|miracle",
+    "conclusion": "No testimony is sufficient to establish a miracle unless its falsehood would be more miraculous",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-EF-001",
+    "year": 1739,
+    "premise": "enquiry|free|liberty|ability|according|compatibilist",
+    "conclusion": "Liberty is the ability to act according to one's will (compatibilist definition)",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EF-002",
+    "year": 1739,
+    "premise": "enquiry|free|necessity|regularity|nature|human",
+    "conclusion": "Necessity is regularity in nature and in human motives",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EF-003",
+    "year": 1739,
+    "premise": "enquiry|free|moral|responsibility|compatible|determinism",
+    "conclusion": "Free will and moral responsibility are compatible with determinism",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "enquiry|passions|reason|alone|produce|action",
+    "conclusion": "Reason alone cannot produce action; it must be aided by passion",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "enquiry|morality|derived|early|statement",
+    "conclusion": "\"Ought\" cannot be derived from \"is\" (early statement of the is-ought gap)",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "enquiry|psychology|animals|learn|experience|humans",
+    "conclusion": "Animals learn from experience in the same way humans do",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "enquiry|methodology|philosophical|decisions|based|experience",
+    "conclusion": "Philosophical decisions should be based on experience and observation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ME-001",
+    "year": 1739,
+    "premise": "morals|enquiry|morality|moral|sentiment|feeling",
+    "conclusion": "The moral sentiment is a feeling of approbation or disapprobation",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-002",
+    "year": 1739,
+    "premise": "morals|enquiry|morality|utility|primary|source",
+    "conclusion": "Utility is the primary source of moral approbation",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-003",
+    "year": 1739,
+    "premise": "morals|enquiry|morality|qualities|useful|agreeable",
+    "conclusion": "Qualities useful or agreeable to oneself or others are virtuous",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-004",
+    "year": 1739,
+    "premise": "morals|enquiry|morality|justice|primarily|valued",
+    "conclusion": "Justice is primarily valued for its social utility",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-001",
+    "year": 1739,
+    "premise": "morals|enquiry|political|philosophy|allegiance|government",
+    "conclusion": "Allegiance to government rests on utility and consent",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-002",
+    "year": 1739,
+    "premise": "morals|enquiry|political|philosophy|private|benevolence",
+    "conclusion": "Private benevolence alone cannot secure large societies; justice is required",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-003",
+    "year": 1739,
+    "premise": "morals|enquiry|political|philosophy|property|arises",
+    "conclusion": "Property arises from the social convention of stabilising possession",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-004",
+    "year": 1739,
+    "premise": "morals|enquiry|political|philosophy|rules|determining",
+    "conclusion": "The rules determining property are framed for the peace and security of society",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-001",
+    "year": 1739,
+    "premise": "morals|enquiry|aesthetics|moral|beauty|resembles",
+    "conclusion": "Moral beauty resembles aesthetic beauty in producing pleasure",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-002",
+    "year": 1739,
+    "premise": "morals|enquiry|aesthetics|moral|beauty|analogous",
+    "conclusion": "Moral beauty is analogous to natural and aesthetic beauty in producing pleasure",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-003",
+    "year": 1739,
+    "premise": "morals|enquiry|aesthetics|pleasure|moral|approbation",
+    "conclusion": "The pleasure of moral approbation resembles the secondary pleasure of aesthetic judgment",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-004",
+    "year": 1739,
+    "premise": "morals|enquiry|aesthetics|disagreements|greater|utility",
+    "conclusion": "Disagreements in aesthetics are greater than in morals because utility is more constant",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-001",
+    "year": 1739,
+    "premise": "morals|enquiry|methodology|moral|philosophy|practical",
+    "conclusion": "Moral philosophy should be practical and improve character",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-002",
+    "year": 1739,
+    "premise": "morals|enquiry|methodology|moral|philosophy|practical",
+    "conclusion": "Moral philosophy should be practical and aim to improve character",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-003",
+    "year": 1739,
+    "premise": "morals|enquiry|methodology|experimental|method|observation",
+    "conclusion": "Experimental method (observation of human nature) is the proper approach to morals",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-ME-004",
+    "year": 1739,
+    "premise": "morals|enquiry|methodology|anatomy|mind|reveals",
+    "conclusion": "Anatomy of the mind reveals the real springs of moral action",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-DR-001",
+    "year": 1739,
+    "premise": "dialogues|religion|argument|design|resembles|inference",
+    "conclusion": "The argument from design resembles an inference to the best explanation",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-DR-002",
+    "year": 1739,
+    "premise": "dialogues|religion|universe|shows|marks|intelligent",
+    "conclusion": "The universe shows marks of intelligent design similar to human artifacts",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-DR-003",
+    "year": 1739,
+    "premise": "dialogues|religion|infer|infinite|perfect|attributes",
+    "conclusion": "We cannot infer infinite or perfect attributes from finite effects",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-DR-004",
+    "year": 1739,
+    "premise": "dialogues|religion|cause|universe|proportioned|effect",
+    "conclusion": "The cause of the universe need only be proportioned to its effect",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-DP-001",
+    "year": 1739,
+    "premise": "dialogues|problem|evil|existence|undermines|inference",
+    "conclusion": "The existence of evil undermines the inference to a perfectly good designer",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-DP-002",
+    "year": 1739,
+    "premise": "dialogues|problem|evil|perfectly|good|omnipotent",
+    "conclusion": "A perfectly good and omnipotent deity is incompatible with the amount of evil",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-DM-001",
+    "year": 1739,
+    "premise": "dialogues|metaphysics|matter|possess|inherent|principle",
+    "conclusion": "Matter may possess an inherent principle of order",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-DM-002",
+    "year": 1739,
+    "premise": "dialogues|metaphysics|infinite|regress|causes|conceivable",
+    "conclusion": "Infinite regress of causes is conceivable",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-DM-003",
+    "year": 1739,
+    "premise": "dialogues|metaphysics|epicurean|hypothesis|holds|particles",
+    "conclusion": "The Epicurean hypothesis holds that particles in random motion eventually produce order",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-DE-001",
+    "year": 1739,
+    "premise": "dialogues|epistemology|skeptical|suspension|judgment|reasonable",
+    "conclusion": "Skeptical suspension of judgment is the most reasonable attitude",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-TP-001",
+    "year": 1739,
+    "premise": "treatise|political|philosophy|property|originates|conventions",
+    "conclusion": "Property originates in conventions gradually established for social stability",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-TP-002",
+    "year": 1739,
+    "premise": "treatise|political|philosophy|allegiance|government|rests",
+    "conclusion": "Allegiance to government rests on the utility of authority and the obligation of promises",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-TP-003",
+    "year": 1739,
+    "premise": "treatise|political|philosophy|origin|government|lies",
+    "conclusion": "The origin of government lies in the need to enforce the rules of justice",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-TP-004",
+    "year": 1739,
+    "premise": "treatise|political|philosophy|moral|obligation|obedience",
+    "conclusion": "The moral obligation to obedience is grounded in long-term interest",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-TA-001",
+    "year": 1739,
+    "premise": "treatise|aesthetics|moral|beauty|analogous|physical",
+    "conclusion": "Moral beauty is analogous to physical beauty in producing pleasure by conformation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TA-002",
+    "year": 1739,
+    "premise": "treatise|aesthetics|poetry|excites|belief|easily",
+    "conclusion": "Poetry excites belief more easily than history because it operates on the imagination without checks",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TA-003",
+    "year": 1739,
+    "premise": "treatise|aesthetics|eloquence|moves|presenting|ideas",
+    "conclusion": "Eloquence moves us by presenting ideas with vivacity borrowed from passion",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TA-004",
+    "year": 1739,
+    "premise": "treatise|aesthetics|taste|morals|follows|similar",
+    "conclusion": "Taste in morals and aesthetics follows similar principles of sentiment",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-TM-001",
+    "year": 1739,
+    "premise": "treatise|mathematics|geometrical|demonstrations|fail|applied",
+    "conclusion": "Geometrical demonstrations fail when applied beyond certain degrees of minuteness",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|origins|originate|rational",
+    "conclusion": "Religion did not originate from rational contemplation of the design or order of nature",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|origins|earliest|form",
+    "conclusion": "The earliest form of religion among humans was polytheism, not monotheism",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|origins|monotheism|later",
+    "conclusion": "Monotheism is a later historical development that emerged from polytheism",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|origins|claim|monotheism",
+    "conclusion": "The claim that monotheism was humanity's original religion is historically unfounded",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|psychology|fear|primary",
+    "conclusion": "Fear is the primary psychological source of religious belief",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|psychology|hope|regarding",
+    "conclusion": "Hope regarding uncertain future events drives humans toward religion",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|psychology|anxiety|about",
+    "conclusion": "Anxiety about survival and wellbeing generates religious sentiments",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|psychology|unknown|causes",
+    "conclusion": "The unknown causes of events in nature provoke religious speculation",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|anthropomorphism|humans|universally",
+    "conclusion": "Humans universally conceive gods in their own image",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|anthropomorphism|tendency|religious",
+    "conclusion": "Anthropomorphism is the natural tendency in all religious thought",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|anthropomorphism|abstract|theological",
+    "conclusion": "Even abstract theological concepts retain anthropomorphic residues",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|anthropomorphism|gods|assigned",
+    "conclusion": "The gods are assigned human passions, desires, and motives",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|polytheism|distributes|divine",
+    "conclusion": "Polytheism distributes divine power among multiple limited beings",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|polytheism|gods|conceived",
+    "conclusion": "The gods of polytheism are conceived as similar to humans but more powerful",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|polytheism|polytheistic|gods",
+    "conclusion": "Polytheistic gods have particular provinces, domains, and limitations",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|polytheism|tolerant|monotheism",
+    "conclusion": "Polytheism is more tolerant than monotheism of diverse religious practices",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|monotheism|arose|competitive",
+    "conclusion": "Monotheism arose from competitive exaltation of particular deities",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|monotheism|flattery|favored",
+    "conclusion": "Flattery of favored gods gradually elevated them above all others",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|monotheism|rhetoric|praise",
+    "conclusion": "The rhetoric of praise naturally tends toward superlatives and ultimacy",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|monotheism|becomes|supreme",
+    "conclusion": "One god becomes supreme through the diminution of rivals",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|religious|flux|naturally",
+    "conclusion": "Religion naturally oscillates between polytheistic and monotheistic tendencies",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|religious|flux|abstraction",
+    "conclusion": "The abstraction of monotheism is difficult for ordinary minds to sustain",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|religious|flux|humans",
+    "conclusion": "Humans need mediating figures between themselves and an infinite deity",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|religious|flux|veneration",
+    "conclusion": "The veneration of saints represents a return toward polytheistic sentiment",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|comparison|polytheism|tolerant",
+    "conclusion": "Polytheism is more tolerant; monotheism more prone to persecution",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|comparison|monotheism|stronger",
+    "conclusion": "Monotheism makes stronger claims and therefore breeds fiercer conflict",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|comparison|exclusive|devotion",
+    "conclusion": "Exclusive devotion to one god generates intolerance of other religions",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|comparison|polytheism|lacks",
+    "conclusion": "Polytheism lacks the doctrinal rigidity that produces religious violence",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|morality|popular|little",
+    "conclusion": "Popular religion has little positive effect on morality",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|morality|religious|devotion",
+    "conclusion": "Religious devotion is often substituted for genuine moral virtue",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|morality|observances|frequently",
+    "conclusion": "The observances of religion frequently displace ethical behavior",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|morality|superstition|crimes",
+    "conclusion": "Superstition can make crimes appear as piety when done for religious ends",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|human|nature|religious",
+    "conclusion": "Religious belief arises from universal features of human psychology",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|human|nature|sources",
+    "conclusion": "The sources of religion are natural, not supernatural",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|human|nature|inevitably",
+    "conclusion": "Human nature inevitably generates religious ideas under certain conditions",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|methodology|studied|phenomenon",
+    "conclusion": "Religion should be studied as a natural phenomenon like any other",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|methodology|understanding|arises",
+    "conclusion": "Understanding how religion arises is distinct from evaluating its truth",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|methodology|study|belongs",
+    "conclusion": "The study of religion belongs to psychology and history, not theology",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-004",
+    "year": 1739,
+    "premise": "natural|history|religion|methodology|reveals|human",
+    "conclusion": "The natural history of religion reveals human nature, not divine nature",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-NHO-001",
+    "year": 1739,
+    "premise": "natural|history|religion|epistemology|religious|impulse",
+    "conclusion": "The religious impulse is not evidence for the truth of religious claims",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-NHO-002",
+    "year": 1739,
+    "premise": "natural|history|religion|epistemology|causes|religious",
+    "conclusion": "The causes of religious belief do not validate its content",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-NHO-003",
+    "year": 1739,
+    "premise": "natural|history|religion|epistemology|reflects|human",
+    "conclusion": "Religion reflects the human condition more than cosmic reality",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|constitution|english|fixed|time",
+    "conclusion": "The English constitution was not fixed from time immemorial but evolved gradually through historical contingency",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|constitution|notion|ancient|preserving",
+    "conclusion": "The notion of an \"ancient constitution\" preserving Saxon liberties is largely mythological",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|constitution|english|liberty|developed",
+    "conclusion": "English liberty developed through the slow accumulation of precedents, not from any original founding",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|constitution|balance|crown|parliament",
+    "conclusion": "The balance between crown and parliament shifted continually throughout English history",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|monarchy|absolute|dangerous|places",
+    "conclusion": "Absolute monarchy is dangerous because it places no check on the ruler's passions",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|monarchy|weak|monarchs|invite",
+    "conclusion": "Weak monarchs invite faction and civil disorder",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|monarchy|strong|monarchs|advance",
+    "conclusion": "Strong monarchs can advance civilization but risk becoming tyrannical",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|monarchy|personal|character|monarch",
+    "conclusion": "The personal character of the monarch profoundly affects the course of history",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|parliament|originated|feudal|council",
+    "conclusion": "Parliament originated as a feudal council, not as a representative democratic body",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|parliament|house|commons|gradually",
+    "conclusion": "The House of Commons gradually acquired powers it did not originally possess",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|parliament|parliamentary|claims|ancient",
+    "conclusion": "Parliamentary claims to ancient rights were often historically unfounded",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|parliament|long|innovations|revolutionary",
+    "conclusion": "The Long Parliament's innovations were revolutionary, not conservative",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|civil|resulted|faults|sides",
+    "conclusion": "The Civil War resulted from faults on both sides, not from one party's villainy alone",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|civil|charles|tyrant|duplicitous",
+    "conclusion": "Charles I was not a tyrant but was duplicitous and politically inept",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|civil|parliamentary|leaders|began",
+    "conclusion": "The parliamentary leaders began with legitimate grievances but exceeded all bounds",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|civil|religious|enthusiasm|transformed",
+    "conclusion": "Religious enthusiasm transformed political disagreement into irreconcilable conflict",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|cromwell|combined|genuine|religious",
+    "conclusion": "Cromwell combined genuine religious conviction with ruthless political ambition",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|cromwell|abilities|military|commander",
+    "conclusion": "Cromwell's abilities as a military commander were extraordinary",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|cromwell|rule|military|despotism",
+    "conclusion": "Cromwell's rule was a military despotism disguised by republican forms",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|cromwell|protectorate|demonstrated|parliamentary",
+    "conclusion": "The Protectorate demonstrated that parliamentary government requires a monarch or substitute",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|religion|religious|enthusiasm|dangerous",
+    "conclusion": "Religious enthusiasm is the most dangerous source of political disorder",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|religion|catholic|plots|against",
+    "conclusion": "Catholic plots against Elizabeth justified severe measures of self-defense",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|religion|james|handling|puritans",
+    "conclusion": "James I's handling of Puritans and Catholics alike showed poor judgment",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|religion|archbishop|laud|ceremonial",
+    "conclusion": "Archbishop Laud's ceremonial innovations provoked unnecessary opposition",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|reformation|driven|politics|theology",
+    "conclusion": "The Reformation in England was driven more by politics than by theology",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|reformation|henry|viii|break",
+    "conclusion": "Henry VIII's break with Rome served royal interests, not Protestant principles",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|reformation|elizabeth|religious|settlement",
+    "conclusion": "Elizabeth's religious settlement aimed at political stability, not doctrinal purity",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|reformation|puritan|demands|destabilized",
+    "conclusion": "Puritan demands for further reformation destabilized the Elizabethan compromise",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|commerce|progress|gradually|softened",
+    "conclusion": "The progress of commerce gradually softened manners and reduced violence",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|commerce|feudal|barbarism|gave",
+    "conclusion": "Feudal barbarism gave way to civilization through economic development",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|commerce|growth|towns|created",
+    "conclusion": "The growth of towns created new centers of wealth independent of landed nobility",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|commerce|trade|promoted|peace",
+    "conclusion": "Trade promoted peace by creating mutual interests among nations",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|common|developed|accumulated|judicial",
+    "conclusion": "The common law developed through accumulated judicial decisions, not legislative enactment",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|trial|jury|gradually|replaced",
+    "conclusion": "Trial by jury gradually replaced more barbarous forms of adjudication",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|torture|employed|though|less",
+    "conclusion": "Torture was employed in England, though less systematically than on the continent",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|star|chamber|high|commission",
+    "conclusion": "Star Chamber and High Commission represented dangerous concentrations of judicial power",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|historiography|historian|judge|past",
+    "conclusion": "The historian must judge past ages by their own standards, not present ones",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|historiography|partisanship|distorts|historical",
+    "conclusion": "Partisanship distorts historical understanding on all sides",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|historiography|whig|tory|interpretations",
+    "conclusion": "Both Whig and Tory interpretations of English history are one-sided",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|historiography|documentary|evidence|weighed",
+    "conclusion": "Documentary evidence must be weighed critically, not accepted uncritically",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|tudors|henry|avarice|secured",
+    "conclusion": "Henry VII's avarice secured the crown's finances but earned him the hatred of his subjects",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|tudors|henry|policy|weakening",
+    "conclusion": "Henry VII's policy of weakening the nobility strengthened royal authority for his successors",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|tudors|henry|viii|personal",
+    "conclusion": "Henry VIII's personal passions drove matters of state more than any consistent policy",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|tudors|henry|viii|break",
+    "conclusion": "Henry VIII's break with Rome was motivated by lust and dynastic anxiety, not religious conviction",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|elizabeth|long|reign|provided",
+    "conclusion": "Elizabeth's long reign provided the stability England needed after decades of turmoil",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|elizabeth|religious|settlement|masterpiece",
+    "conclusion": "Elizabeth's religious settlement was a masterpiece of political ambiguity",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|elizabeth|reluctance|marry|preserved",
+    "conclusion": "Elizabeth's reluctance to marry preserved her independence but created succession anxieties",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|elizabeth|parsimony|though|often",
+    "conclusion": "Elizabeth's parsimony, though often criticized, maintained crown solvency",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|mary|queen|scots|stuart",
+    "conclusion": "Mary Stuart's beauty and charm could not compensate for her political failures",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|mary|queen|scots|marriage",
+    "conclusion": "Mary's marriage to Darnley was disastrous in both personal and political terms",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|mary|queen|scots|complicity",
+    "conclusion": "Mary's complicity in Darnley's murder remains probable though not conclusively proven",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|mary|queen|scots|flight",
+    "conclusion": "Mary's flight to England placed Elizabeth in an impossible situation",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|stuarts|james|learning|exceeded",
+    "conclusion": "James I's learning exceeded his political wisdom",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|stuarts|james|belief|divine",
+    "conclusion": "James I's belief in divine right was sincere but politically imprudent to assert so boldly",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|stuarts|james|extravagance|reversed",
+    "conclusion": "James I's extravagance reversed the fiscal prudence of Elizabeth's reign",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|stuarts|james|promotion|favorites",
+    "conclusion": "James I's promotion of favorites like Somerset and Buckingham bred resentment",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|charles|possessed|dignity|less",
+    "conclusion": "Charles I possessed more dignity but less flexibility than his father",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|charles|marriage|catholic|princess",
+    "conclusion": "Charles I's marriage to a Catholic princess aroused Protestant suspicions",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|charles|buckingham|influence|over",
+    "conclusion": "Buckingham's influence over Charles proved as disastrous as over James",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|charles|petition|right|represented",
+    "conclusion": "The Petition of Right represented parliament's clearest statement of constitutional grievance",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|interregnum|rump|parliament|represented",
+    "conclusion": "The Rump Parliament represented only a fraction of the political nation",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|interregnum|regicide|work|determined",
+    "conclusion": "The regicide was the work of a determined minority, not popular will",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|interregnum|commonwealth|achieved|legitimacy",
+    "conclusion": "The Commonwealth never achieved legitimacy or stable institutions",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|interregnum|army|political|interventions",
+    "conclusion": "The army's political interventions prevented any constitutional settlement",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|restoration|occurred|alternatives|failed",
+    "conclusion": "The Restoration occurred because all alternatives had failed, not from royalist enthusiasm",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|restoration|charles|easy|manners",
+    "conclusion": "Charles II's easy manners contrasted favorably with Puritan severity",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|restoration|indemnity|politically|necessary",
+    "conclusion": "The Act of Indemnity was politically necessary despite leaving crimes unpunished",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|restoration|clarendon|code|imposed",
+    "conclusion": "The Clarendon Code imposed Anglican uniformity more strictly than Charles wished",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|exclusion|crisis|attempt|exclude",
+    "conclusion": "The attempt to exclude James from the succession threatened hereditary right itself",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|exclusion|crisis|charles|resistance",
+    "conclusion": "Charles II's resistance to Exclusion showed his only consistent principle",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|exclusion|crisis|emergence|whig",
+    "conclusion": "The emergence of Whig and Tory parties dates from the Exclusion Crisis",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|exclusion|crisis|oxford|parliament",
+    "conclusion": "The Oxford Parliament's dissolution demonstrated Charles's political mastery",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|glorious|revolution|james|catholicism",
+    "conclusion": "James II's Catholicism was sincere, which made him more dangerous than a politique",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|glorious|revolution|james|initially",
+    "conclusion": "James II initially enjoyed goodwill that his policies rapidly dissipated",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|glorious|revolution|suppression|monmouth",
+    "conclusion": "The suppression of Monmouth's rebellion was followed by Jeffreys' Bloody Assizes",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|glorious|revolution|james|dispensing",
+    "conclusion": "James's dispensing power claims threatened the entire statutory framework",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-001",
+    "year": 1739,
+    "premise": "history|england|william|cared|european|against",
+    "conclusion": "William III cared more for European war against France than for English domestic affairs",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-002",
+    "year": 1739,
+    "premise": "history|england|william|bill|rights|established",
+    "conclusion": "The Bill of Rights established parliamentary limitations on royal power definitively",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-003",
+    "year": 1739,
+    "premise": "history|england|william|toleration|represented|practical",
+    "conclusion": "The Toleration Act represented practical accommodation rather than principled pluralism",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-HOE-004",
+    "year": 1739,
+    "premise": "history|england|william|financial|settlement|crown",
+    "conclusion": "The financial settlement made the crown permanently dependent on parliament",
+    "strength": 0.85,
+    "domain": "history"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "economics|money|wheel|trade|instrument",
+    "conclusion": "Money is not the wheel of trade but only its oil or instrument",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-002",
+    "year": 1739,
+    "premise": "economics|money|increase|quantities|labor|commodities",
+    "conclusion": "An increase in money, with quantities of labor and commodities fixed, merely raises prices proportionally",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-003",
+    "year": 1739,
+    "premise": "economics|money|quantity|theory|prices|proportion",
+    "conclusion": "The quantity theory of money: prices are in proportion to the quantity of money in circulation",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-004",
+    "year": 1739,
+    "premise": "economics|money|gradual|increase|stimulates|industry",
+    "conclusion": "A gradual increase in money stimulates industry before prices fully adjust",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-001",
+    "year": 1739,
+    "premise": "economics|luxury|injurious|state|rather|promotes",
+    "conclusion": "Luxury is not injurious to a state but rather promotes industry and refinement",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-002",
+    "year": 1739,
+    "premise": "economics|luxury|refinement|arts|increases|labor",
+    "conclusion": "Refinement in the arts (luxury) increases labor demand and raises wages",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-003",
+    "year": 1739,
+    "premise": "economics|luxury|consumption|luxuries|encourages|invention",
+    "conclusion": "Consumption of luxuries encourages invention, arts, and economic activity",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-004",
+    "year": 1739,
+    "premise": "economics|luxury|frugality|individuals|virtuous|general",
+    "conclusion": "Frugality in individuals may be virtuous, but general frugality contracts commerce",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "economics|interest|rates|determined|primarily|demand",
+    "conclusion": "Interest rates are determined primarily by the demand and supply of borrowing, not by the quantity of money",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-002",
+    "year": 1739,
+    "premise": "economics|interest|high|profits|capital|abundance",
+    "conclusion": "High profits on capital, not abundance of money, are the true cause of high interest rates",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-003",
+    "year": 1739,
+    "premise": "economics|interest|rates|result|increased|commerce",
+    "conclusion": "Low interest rates result from increased commerce and accumulation of capital",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-004",
+    "year": 1739,
+    "premise": "economics|interest|commercial|society|rates|naturally",
+    "conclusion": "In a commercial society, interest rates naturally fall over time",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-001",
+    "year": 1739,
+    "premise": "economics|trade|balance|reliable|indicator|national",
+    "conclusion": "The balance of trade is not a reliable indicator of national prosperity",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-002",
+    "year": 1739,
+    "premise": "economics|trade|unfavorable|balance|automatically|corrects",
+    "conclusion": "An unfavorable balance of trade automatically corrects itself via the specie-flow mechanism",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-003",
+    "year": 1739,
+    "premise": "economics|trade|nation|exports|imports|specie",
+    "conclusion": "When a nation exports more than it imports, specie flows in, raising prices and restoring equilibrium",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-004",
+    "year": 1739,
+    "premise": "economics|trade|attempts|hoard|specie|prohibiting",
+    "conclusion": "Attempts to hoard specie by prohibiting export are futile and harmful",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EW-001",
+    "year": 1739,
+    "premise": "economics|wealth|nation|consists|abundance|commodities",
+    "conclusion": "The wealth of a nation consists in the abundance of commodities and labor, not in gold and silver",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EW-002",
+    "year": 1739,
+    "premise": "economics|wealth|bullion|coin|merely|conventional",
+    "conclusion": "Bullion and coin are merely conventional representations of real wealth",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EW-003",
+    "year": 1739,
+    "premise": "economics|wealth|riches|nation|measured|annual",
+    "conclusion": "The riches of a nation are measured by the annual produce of its labor and industry",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "economics|public|finance|credit|government|debt",
+    "conclusion": "Public credit (government debt) can be useful in emergencies but dangerous when excessive",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "economics|public|finance|perpetual|debt|transfers",
+    "conclusion": "Perpetual public debt transfers wealth from industrious citizens to idle stockholders",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-003",
+    "year": 1739,
+    "premise": "economics|public|finance|heavy|taxation|service",
+    "conclusion": "Heavy taxation to service public debt discourages industry and population growth",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-004",
+    "year": 1739,
+    "premise": "economics|public|finance|voluntary|national|bankruptcy",
+    "conclusion": "Voluntary national bankruptcy would ruin credit and should be avoided",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-001",
+    "year": 1739,
+    "premise": "economics|taxation|taxes|consumption|generally|preferable",
+    "conclusion": "Taxes on consumption are generally preferable to taxes on land or capital",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-002",
+    "year": 1739,
+    "premise": "economics|taxation|taxes|certain|convenient|proportionate",
+    "conclusion": "Taxes should be certain, convenient, and proportionate to ability to pay",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-003",
+    "year": 1739,
+    "premise": "economics|taxation|indirect|taxes|excises|less",
+    "conclusion": "Indirect taxes (excises) are less felt and often less burdensome than direct ones",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ET-004",
+    "year": 1739,
+    "premise": "economics|taxation|moderate|encourages|industry|oppressive",
+    "conclusion": "Moderate taxation encourages industry; oppressive taxation destroys it",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-001",
+    "year": 1739,
+    "premise": "economics|labor|high|wages|sign|national",
+    "conclusion": "High wages are a sign of national prosperity, not distress",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-002",
+    "year": 1739,
+    "premise": "economics|labor|wages|result|scarcity|lack",
+    "conclusion": "Low wages result from scarcity of labor or lack of demand for it",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-003",
+    "year": 1739,
+    "premise": "economics|labor|general|plenty|lowers|price",
+    "conclusion": "General plenty lowers the price of labour only temporarily; demand soon catches up",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EL-004",
+    "year": 1739,
+    "premise": "economics|labor|wages|poor|countries|effect",
+    "conclusion": "Low wages in poor countries are the effect, not the cause, of poverty",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "economics|population|tends|adjust|demand|labor",
+    "conclusion": "Population tends to adjust to the demand for labor and means of subsistence",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "economics|population|flourishing|economy|naturally|increases",
+    "conclusion": "A flourishing economy naturally increases population",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-003",
+    "year": 1739,
+    "premise": "economics|population|ancient|nations|populous|modern",
+    "conclusion": "Ancient nations were not more populous than modern ones; evidence suggests the contrary",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-004",
+    "year": 1739,
+    "premise": "economics|population|slavery|political|oppression|antiquity",
+    "conclusion": "Slavery and political oppression in antiquity reduced effective population",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "economics|commerce|enlarges|market|encourages|division",
+    "conclusion": "Commerce enlarges the market and encourages division of labor",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-002",
+    "year": 1739,
+    "premise": "economics|commerce|division|labor|increases|productivity",
+    "conclusion": "Division of labor increases productivity and national wealth",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-003",
+    "year": 1739,
+    "premise": "economics|commerce|manufactures|mutually|support",
+    "conclusion": "Manufactures and commerce mutually support each other",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-004",
+    "year": 1739,
+    "premise": "economics|commerce|agriculture|benefits|proximity|manufacturing",
+    "conclusion": "Agriculture benefits from proximity to manufacturing and commercial towns",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EB-001",
+    "year": 1739,
+    "premise": "economics|banking|paper|credit|facilitate|commerce",
+    "conclusion": "Paper credit and banking facilitate commerce by economizing on specie",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EB-002",
+    "year": 1739,
+    "premise": "economics|banking|banks|circulation|note|issuing",
+    "conclusion": "Banks of circulation (note-issuing) are beneficial when properly managed",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EB-003",
+    "year": 1739,
+    "premise": "economics|banking|excessive|issue|paper|money",
+    "conclusion": "Excessive issue of paper money causes inflation and harms trade",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EB-004",
+    "year": 1739,
+    "premise": "economics|banking|international|lending|borrowing|equalize",
+    "conclusion": "International lending and borrowing equalize interest rates across nations",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "economics|capital|flows|profits|highest|equalizing",
+    "conclusion": "Capital flows to where profits are highest, equalizing returns over time",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-002",
+    "year": 1739,
+    "premise": "economics|capital|nation|long|remain|creditor",
+    "conclusion": "No nation can long remain both creditor and manufacturer to the world",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-003",
+    "year": 1739,
+    "premise": "economics|capital|large|stock|necessary|extensive",
+    "conclusion": "A large stock of capital is necessary for extensive division of labor",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-004",
+    "year": 1739,
+    "premise": "economics|capital|accumulation|lowers|profits|interest",
+    "conclusion": "Capital accumulation lowers profits and interest rates over time",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "economics|colonialism|colonies|enrich|mother|country",
+    "conclusion": "Colonies enrich the mother country by extending its commerce",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-002",
+    "year": 1739,
+    "premise": "economics|colonialism|exclusive|colonial|trade|privileges",
+    "conclusion": "Exclusive colonial trade privileges are beneficial to the metropolis",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-003",
+    "year": 1739,
+    "premise": "economics|colonialism|colonial|trade|enriches|mother",
+    "conclusion": "Colonial trade enriches the mother country more than equivalent European trade",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-004",
+    "year": 1739,
+    "premise": "economics|colonialism|exclusive|companies|colonial|trade",
+    "conclusion": "Exclusive companies for colonial trade often stifle commerce",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "economics|social|structure|commercial|state|middle",
+    "conclusion": "In a commercial state, the middle class becomes the most numerous and influential",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-002",
+    "year": 1739,
+    "premise": "economics|social|structure|numerous|independent|gentry",
+    "conclusion": "A numerous and independent gentry supports both liberty and industry",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "economics|social|effects|commerce|softens|manners",
+    "conclusion": "Commerce softens manners and promotes humanity",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-002",
+    "year": 1739,
+    "premise": "economics|social|effects|industry|knowledge|humanity",
+    "conclusion": "Industry, knowledge, and humanity are linked by inseparable bonds",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-003",
+    "year": 1739,
+    "premise": "economics|social|effects|spirit|tends|toward",
+    "conclusion": "The spirit of the age tends toward greater economic liberty",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-004",
+    "year": 1739,
+    "premise": "economics|social|effects|spirit|commerce|spreads",
+    "conclusion": "The spirit of commerce spreads knowledge and moderates religious fanaticism",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "economics|political|economy|absolute|governments|less",
+    "conclusion": "Absolute governments are less favorable to commerce than free ones",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "economics|political|economy|commerce|tends|produce",
+    "conclusion": "Commerce tends to produce liberty by creating an independent middle rank",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EP-003",
+    "year": 1739,
+    "premise": "economics|political|economy|free|governments|generally",
+    "conclusion": "Free governments are generally more favourable to economic progress than absolute ones",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EP-004",
+    "year": 1739,
+    "premise": "economics|political|economy|power|commons|britain",
+    "conclusion": "The power of the commons in Britain arose from the growth of trade",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-ED-001",
+    "year": 1739,
+    "premise": "economics|development|natural|progress|opulence|agriculture",
+    "conclusion": "The natural progress of opulence is from agriculture to manufactures to foreign trade",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ED-002",
+    "year": 1739,
+    "premise": "economics|development|many|european|policies|reverse",
+    "conclusion": "Many European policies reverse this natural order to the detriment of wealth",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ED-003",
+    "year": 1739,
+    "premise": "economics|development|economic|prosperity|depends|institutions",
+    "conclusion": "Economic prosperity depends more on institutions and manners than on natural resources",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ED-004",
+    "year": 1739,
+    "premise": "economics|development|industry|refinement|mutually|reinforce",
+    "conclusion": "Industry and refinement mutually reinforce each other",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "economics|infrastructure|good|roads|canals|communication",
+    "conclusion": "Good roads, canals, and communication promote economic integration",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "economics|innovation|invention|improvement|flourish|commercial",
+    "conclusion": "Invention and improvement flourish most under commercial liberty",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-002",
+    "year": 1739,
+    "premise": "economics|innovation|invention|flourishes|best|liberty",
+    "conclusion": "Invention flourishes best under liberty and security",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-003",
+    "year": 1739,
+    "premise": "economics|innovation|monopolies|granted|inventors|temporary",
+    "conclusion": "Monopolies granted to inventors should be temporary and moderate",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-004",
+    "year": 1739,
+    "premise": "economics|innovation|perpetual|patents|hinder|rather",
+    "conclusion": "Perpetual patents would hinder rather than encourage improvement",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "economics|markets|price|tends|prevail|across",
+    "conclusion": "The law of one price tends to prevail across connected markets",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-002",
+    "year": 1739,
+    "premise": "economics|markets|arbitrage|equalizes|commodity|prices",
+    "conclusion": "Arbitrage equalizes commodity prices internationally",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-003",
+    "year": 1739,
+    "premise": "economics|markets|assize|bread|ineffective|interference",
+    "conclusion": "The assize of bread is an ineffective interference with market prices",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EA-001",
+    "year": 1739,
+    "premise": "economics|agriculture|public|granaries|stabilize|grain",
+    "conclusion": "Public granaries to stabilize grain prices usually do more harm than good",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EA-002",
+    "year": 1739,
+    "premise": "economics|agriculture|corn|bounty|encourages|tillage",
+    "conclusion": "The corn bounty encourages tillage but at excessive public cost",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EA-003",
+    "year": 1739,
+    "premise": "economics|agriculture|corn|export|bounties|encourage",
+    "conclusion": "Corn export bounties encourage over-production and price instability",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EA-004",
+    "year": 1739,
+    "premise": "economics|agriculture|price|corn|regulates|wages",
+    "conclusion": "The price of corn regulates wages more than any other commodity",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "economics|methodology|principles|political|economy|apply",
+    "conclusion": "The same principles of political economy apply universally, though modified by particular circumstances",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "economics|consumption|multiplication|wants|true|engine",
+    "conclusion": "The multiplication of wants is the true engine of economic activity",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EU-001",
+    "year": 1739,
+    "premise": "economics|urbanization|large|cities|promote|arts",
+    "conclusion": "Large cities promote arts, industry, and knowledge through competition",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "economics|institutions|good|police|administration|essential",
+    "conclusion": "Good police (administration) is essential for secure commerce",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-002",
+    "year": 1739,
+    "premise": "economics|institutions|uniform|justice|protection|property",
+    "conclusion": "Uniform justice and protection of property are the foundations of prosperity",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-003",
+    "year": 1739,
+    "premise": "economics|institutions|arbitrary|power|judges|magistrates",
+    "conclusion": "Arbitrary power in judges or magistrates destroys confidence in contracts",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-004",
+    "year": 1739,
+    "premise": "economics|institutions|freedom|press|aids|commerce",
+    "conclusion": "Freedom of the press aids commerce by spreading useful knowledge",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ER-001",
+    "year": 1739,
+    "premise": "economics|religion|toleration|religious|sects|promotes",
+    "conclusion": "Toleration of religious sects promotes industry by attracting skilled foreigners",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-ER-002",
+    "year": 1739,
+    "premise": "economics|religion|persecution|drives|away|industrious",
+    "conclusion": "Persecution drives away the most industrious citizens",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "economics|property|security|inheritance|necessary|long",
+    "conclusion": "Security of inheritance is necessary for long-term land improvement",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "economics|property|primogeniture|entails|preserve|large",
+    "conclusion": "Primogeniture and entails preserve large estates but hinder alienation",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-003",
+    "year": 1739,
+    "premise": "economics|property|freedom|alienate|land|accelerate",
+    "conclusion": "Freedom to alienate land would accelerate agricultural progress",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EP-004",
+    "year": 1739,
+    "premise": "economics|property|feudal|system|tenure|long",
+    "conclusion": "The feudal system of tenure long retarded improvement in Europe",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "economics|social|change|rise|commerce|gradually",
+    "conclusion": "The rise of commerce gradually dissolved feudal dependencies",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "economics|inequality|moderate|fortune|compatible|flourishing",
+    "conclusion": "Moderate inequality of fortune is compatible with flourishing commerce",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-002",
+    "year": 1739,
+    "premise": "economics|inequality|extreme|equality|destroy|emulation",
+    "conclusion": "Extreme equality would destroy emulation and industry",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-003",
+    "year": 1739,
+    "premise": "economics|inequality|extreme|destroys|middle|rank",
+    "conclusion": "Extreme inequality destroys the middle rank necessary for liberty",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "economics|international|relations|balance|power|europe",
+    "conclusion": "The balance of power in Europe favours commerce by preventing universal monarchy",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-002",
+    "year": 1739,
+    "premise": "economics|international|relations|universal|monarchy|stagnate",
+    "conclusion": "A universal monarchy would stagnate trade through uniformity and oppression",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-003",
+    "year": 1739,
+    "premise": "economics|international|relations|alliances|treaties|commercial",
+    "conclusion": "Alliances and treaties should aim at commercial as well as political equilibrium",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EI-004",
+    "year": 1739,
+    "premise": "economics|international|relations|economic|interdependence|modern",
+    "conclusion": "Economic interdependence makes modern wars more costly and less frequent",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "economics|military|standing|armies|dangerous|liberty",
+    "conclusion": "Standing armies are dangerous to liberty but sometimes necessary for security",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EM-002",
+    "year": 1739,
+    "premise": "economics|military|well|regulated|militia|best",
+    "conclusion": "A well-regulated militia is the best security for a commercial nation",
+    "strength": 0.85,
+    "domain": "economics"
+  },
+  {
+    "id": "HUME-EK-001",
+    "year": 1739,
+    "premise": "epistemology|knowledge|types|objects|human|reason",
+    "conclusion": "All objects of human reason divide into two kinds: relations of ideas and matters of fact",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EK-002",
+    "year": 1739,
+    "premise": "epistemology|knowledge|types|matters|fact|achieves",
+    "conclusion": "Knowledge of matters of fact never achieves the certainty of demonstration; it rests entirely on experience",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "epistemology|perception|mind|access|external|objects",
+    "conclusion": "The mind never has access to external objects themselves, only to perceptions",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "epistemology|perception|supposition|perceptions|resemble|external",
+    "conclusion": "The supposition that our perceptions resemble external objects is groundless",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EE-001",
+    "year": 1739,
+    "premise": "epistemology|external|world|belief|rationally|grounded",
+    "conclusion": "Belief in the external world is not rationally grounded but arises from natural propensities of the imagination",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EK-001",
+    "year": 1739,
+    "premise": "epistemology|knowledge|theoretical|about|matters|fact",
+    "conclusion": "Theoretical knowledge about matters of fact reduces to vivid ideas associated with present impressions through custom",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "epistemology|skepticism|skeptical|arguments|against|senses",
+    "conclusion": "Skeptical arguments against the senses and reason are unanswerable by reason, but nature renders them impotent",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-CN-001",
+    "year": 1739,
+    "premise": "causation|necessary|connection|perceive|cause|effect",
+    "conclusion": "We never perceive any necessary connection between cause and effect; we perceive only constant conjunction",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-CN-002",
+    "year": 1739,
+    "premise": "causation|necessary|connection|idea|arises|internal",
+    "conclusion": "The idea of necessary connection arises from an internal impression: the felt determination of the mind",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-CE-001",
+    "year": 1739,
+    "premise": "causation|experience|causal|knowledge|entirely|founded",
+    "conclusion": "Causal knowledge is entirely founded on experience; there is no a priori insight into what causes what",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-CH-001",
+    "year": 1739,
+    "premise": "causation|habit|single|observation|conjunction|provides",
+    "conclusion": "A single observation of conjunction provides no basis for causal inference; only repeated observation instills habit",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-CP-001",
+    "year": 1739,
+    "premise": "causation|projection|power|force|attribute|causes",
+    "conclusion": "The \"power\" or \"force\" we attribute to causes is a projection onto objects of what is actually subjective",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-CI-001",
+    "year": 1739,
+    "premise": "causation|instinct|causal|reasoning|species|implanted",
+    "conclusion": "Causal reasoning is a species of instinct, implanted by nature to serve practical life",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-CL-001",
+    "year": 1739,
+    "premise": "causation|limits|perceive|cause|produces|effect",
+    "conclusion": "We can never perceive why a cause produces its effect; we can only observe that it does so regularly",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-IC-001",
+    "year": 1739,
+    "premise": "inference|causation|reasoning|concerning|matters|fact",
+    "conclusion": "All reasoning concerning matters of fact is founded on the relation of cause and effect",
+    "strength": 0.85,
+    "domain": "causation"
+  },
+  {
+    "id": "HUME-IC-001",
+    "year": 1739,
+    "premise": "inference|custom|observed|unobserved|cases|founded",
+    "conclusion": "The inference from observed to unobserved cases is founded on custom operating on the imagination",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-IU-001",
+    "year": 1739,
+    "premise": "inference|uniformity|nature|established|argument|without",
+    "conclusion": "The uniformity of nature cannot itself be established by argument without circularity",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-IP-001",
+    "year": 1739,
+    "premise": "inference|probability|probable|reasoning|differs|demonstrative",
+    "conclusion": "Probable reasoning differs from demonstrative reasoning in that its conclusions can be conceived false",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-IB-001",
+    "year": 1739,
+    "premise": "inference|belief|degree|proportioned|constancy|observed",
+    "conclusion": "The degree of belief is proportioned to the constancy of the observed conjunction",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-II-001",
+    "year": 1739,
+    "premise": "inference|imagination|experience|product|understanding",
+    "conclusion": "Inference from experience is not a product of the understanding but of the imagination",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-IS-001",
+    "year": 1739,
+    "premise": "inference|skepticism|rational|assurance|inferences|about",
+    "conclusion": "We have no rational assurance that our inferences about unobserved matters will prove true",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-AK-001",
+    "year": 1739,
+    "premise": "analytic|knowledge|relations|ideas|known|certainty",
+    "conclusion": "Relations of ideas can be known with certainty because their denial implies a contradiction",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-AK-002",
+    "year": 1739,
+    "premise": "analytic|knowledge|relations|ideas|discovered|mere",
+    "conclusion": "Knowledge of relations of ideas is discovered by the mere operation of thought",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-AK-003",
+    "year": 1739,
+    "premise": "analytic|knowledge|propositions|concerning|relations|ideas",
+    "conclusion": "Propositions concerning relations of ideas are intuitively or demonstratively certain",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-AK-004",
+    "year": 1739,
+    "premise": "analytic|knowledge|mathematical|truths|concern|relations",
+    "conclusion": "Mathematical truths concern the relations among our ideas of quantity and number",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-K-001",
+    "year": 1739,
+    "premise": "analytic|knowledge|concerning|matters|fact|founded",
+    "conclusion": "All knowledge concerning matters of fact is founded entirely on experience",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-K-002",
+    "year": 1739,
+    "premise": "analytic|knowledge|matters|fact|probable|demonstratively",
+    "conclusion": "Knowledge of matters of fact is always probable, never demonstratively certain",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-K-003",
+    "year": 1739,
+    "premise": "analytic|knowledge|know|priori|event|follow",
+    "conclusion": "We can never know a priori that one event will follow another",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-K-004",
+    "year": 1739,
+    "premise": "analytic|knowledge|evidence|memory|senses|provides",
+    "conclusion": "The evidence of memory and the senses provides the foundation for all factual knowledge",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-SB-001",
+    "year": 1739,
+    "premise": "self|bundle|theory|enter|intimately|call",
+    "conclusion": "When I enter most intimately into what I call myself, I always stumble on some particular perception",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SB-002",
+    "year": 1739,
+    "premise": "self|bundle|theory|impression|idea|derived",
+    "conclusion": "There is no impression of a self from which the idea of self could be derived",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SB-003",
+    "year": 1739,
+    "premise": "self|bundle|theory|call|nothing|collection",
+    "conclusion": "What we call the self is nothing but a bundle or collection of different perceptions",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SP-001",
+    "year": 1739,
+    "premise": "self|personal|identity|ascribe|mind|fictitious",
+    "conclusion": "The identity we ascribe to the mind is a fictitious one, produced by the imagination",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SP-002",
+    "year": 1739,
+    "premise": "self|personal|identity|memory|chief|source",
+    "conclusion": "Memory is the chief source of the notion of personal identity",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SP-003",
+    "year": 1739,
+    "premise": "self|personal|identity|question|sense|insoluble",
+    "conclusion": "The question of personal identity is in some sense insoluble",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SP-004",
+    "year": 1739,
+    "premise": "self|personal|identity|real|among|perceptions",
+    "conclusion": "Personal identity is not a real tie among perceptions but a quality we attribute to them",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SI-001",
+    "year": 1739,
+    "premise": "self|introspection|knowledge|limited|present|perceptions",
+    "conclusion": "Self-knowledge is limited to knowledge of present perceptions",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SM-001",
+    "year": 1739,
+    "premise": "self|metaphysics|substance|substratum|perceptions|inhere",
+    "conclusion": "The self is not a substance or substratum in which perceptions inhere",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SM-002",
+    "year": 1739,
+    "premise": "self|metaphysics|mind|kind|theatre|perceptions",
+    "conclusion": "The mind is a kind of theatre where perceptions successively make their appearance",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-SM-003",
+    "year": 1739,
+    "premise": "self|metaphysics|useful|fiction|necessary|practical",
+    "conclusion": "The self is a useful fiction, necessary for practical life",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "HUME-EN-001",
+    "year": 1739,
+    "premise": "emotion|nature|passions|original|existences|representations",
+    "conclusion": "Passions are original existences, not representations of anything",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EM-001",
+    "year": 1739,
+    "premise": "emotion|motivation|reason|alone|motive|action",
+    "conclusion": "Reason alone can never be a motive to any action of the will",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-ER-001",
+    "year": 1739,
+    "premise": "emotion|reason|slave|passions",
+    "conclusion": "Reason is, and ought only to be, the slave of the passions",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-EO-001",
+    "year": 1739,
+    "premise": "emotion|origin|passions|impressions|reflection|arising",
+    "conclusion": "Passions are impressions of reflection, arising from previous impressions",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "emotion|classification|direct|passions|arise|immediately",
+    "conclusion": "The direct passions arise immediately from pleasure and pain",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EC-002",
+    "year": 1739,
+    "premise": "emotion|classification|indirect|passions|require|double",
+    "conclusion": "The indirect passions require a double relation of impressions and ideas",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EC-003",
+    "year": 1739,
+    "premise": "emotion|classification|passions|calm|violent|mistaken",
+    "conclusion": "Passions can be calm or violent; calm passions may be mistaken for reason",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EO-001",
+    "year": 1739,
+    "premise": "emotion|objects|pride|humility|directed|toward",
+    "conclusion": "Pride and humility are directed toward the self; love and hatred toward other persons",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "emotion|sympathy|mechanism|enter|sentiments|others",
+    "conclusion": "Sympathy is the mechanism by which we enter into the sentiments of others",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "emotion|primacy|first|judge|feel|feeling",
+    "conclusion": "We do not first judge and then feel; the feeling is primary",
+    "strength": 0.85,
+    "domain": "passions"
+  },
+  {
+    "id": "HUME-UMA-001",
+    "year": 1739,
+    "premise": "unconscious|mental|activity|custom|operates|mind",
+    "conclusion": "Custom operates on the mind below the threshold of explicit awareness",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-UMA-002",
+    "year": 1739,
+    "premise": "unconscious|mental|activity|imagination|performs|operations",
+    "conclusion": "The imagination performs its operations without our direction or awareness",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-UMA-003",
+    "year": 1739,
+    "premise": "unconscious|mental|activity|many|associations|ideas",
+    "conclusion": "Many associations of ideas occur instantaneously and without reflection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-UMA-004",
+    "year": 1739,
+    "premise": "unconscious|mental|activity|felt|determination|pass",
+    "conclusion": "The felt determination to pass from cause to effect is often registered only obscurely",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-PP-001",
+    "year": 1739,
+    "premise": "psychological|projection|mind|great|propensity|spread",
+    "conclusion": "The mind has a great propensity to spread itself on external objects",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-PP-002",
+    "year": 1739,
+    "premise": "psychological|projection|necessary|connection|power|force",
+    "conclusion": "Necessary connection, power, and force are projected onto causes from internal impressions",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-PP-003",
+    "year": 1739,
+    "premise": "psychological|projection|gild|stain|natural|objects",
+    "conclusion": "We gild and stain natural objects with colors borrowed from internal sentiment",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-PP-004",
+    "year": 1739,
+    "premise": "psychological|projection|internal|impressions|onto|objects",
+    "conclusion": "The projection of internal impressions onto objects is a natural operation of the imagination",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-R-001",
+    "year": 1739,
+    "premise": "rationalization|governed|passions|reason",
+    "conclusion": "Men are more governed by their passions than by their reason",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-R-002",
+    "year": 1739,
+    "premise": "rationalization|reason|often|enlisted|fact|defend",
+    "conclusion": "Reason is often enlisted after the fact to defend conclusions reached on other grounds",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-R-003",
+    "year": 1739,
+    "premise": "rationalization|causal|reasonings|often|distorted|passion",
+    "conclusion": "Our causal reasonings are often distorted by passion",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-R-004",
+    "year": 1739,
+    "premise": "rationalization|influence|passion|judgment|pervasive|often",
+    "conclusion": "The influence of passion on judgment is pervasive but often invisible",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-I-001",
+    "year": 1739,
+    "premise": "instinct|certain|fundamental|principles|operate|prior",
+    "conclusion": "Certain fundamental principles operate prior to all custom: belief in continued existence, causal expectations, sympathy",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-I-002",
+    "year": 1739,
+    "premise": "instinct|inference|cause|effect|species|natural",
+    "conclusion": "The inference from cause to effect is a species of natural instinct",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-I-003",
+    "year": 1739,
+    "premise": "instinct|sympathy|fundamental|principle|human|nature",
+    "conclusion": "Sympathy is a fundamental principle of human nature",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-I-004",
+    "year": 1739,
+    "premise": "instinct|self|love|benevolence|original|principles",
+    "conclusion": "Self-love and benevolence are both original principles; neither reduces to the other",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FD-001",
+    "year": 1739,
+    "premise": "freedom|definition|liberty|mean|power|acting",
+    "conclusion": "By liberty we can only mean a power of acting according to the determinations of the will",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FD-002",
+    "year": 1739,
+    "premise": "freedom|definition|hypothetical|liberty|universally|allowed",
+    "conclusion": "Hypothetical liberty is universally allowed to everyone not a prisoner",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FI-001",
+    "year": 1739,
+    "premise": "freedom|indifference|liberty|impossible|unintelligible",
+    "conclusion": "A liberty of indifference is not only impossible but unintelligible",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FF-001",
+    "year": 1739,
+    "premise": "freedom|feeling|deliberation|merely|ignorance|determining",
+    "conclusion": "The feeling of freedom in deliberation is merely ignorance of determining causes",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FM-001",
+    "year": 1739,
+    "premise": "freedom|motives|arising|character|circumstance",
+    "conclusion": "When we act, we act from motives arising from character and circumstance",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FC-001",
+    "year": 1739,
+    "premise": "freedom|compatibilism|compatible|regular|connection|motive",
+    "conclusion": "Freedom is compatible with regular connection between motive and action",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-FC-002",
+    "year": 1739,
+    "premise": "freedom|compatibilism|dispute|about|liberty|necessity",
+    "conclusion": "The dispute about liberty and necessity has been merely verbal",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-D-001",
+    "year": 1739,
+    "premise": "determinism|uniform|regular|conjunction|motives|actions",
+    "conclusion": "There is a uniform and regular conjunction between motives and actions",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-D-002",
+    "year": 1739,
+    "premise": "determinism|necessity|attribute|causes|mind|determination",
+    "conclusion": "The necessity we attribute to causes is the mind's determination to pass from cause to effect",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-D-003",
+    "year": 1739,
+    "premise": "determinism|actions|necessitated|sense|physical|events",
+    "conclusion": "Actions are necessitated in the same sense that physical events are necessitated",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-D-004",
+    "year": 1739,
+    "premise": "determinism|human|nature|uniform|across|times",
+    "conclusion": "Human nature is uniform across times and cultures in its fundamental operations",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-C-001",
+    "year": 1739,
+    "premise": "compatibilism|liberty|necessity|compatible|without|lack",
+    "conclusion": "Liberty and necessity are compatible; liberty without necessity would lack character or meaning",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-C-002",
+    "year": 1739,
+    "premise": "compatibilism|hold|responsible|actions|flow|characters",
+    "conclusion": "We hold men responsible for actions that flow from their characters",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-C-003",
+    "year": 1739,
+    "premise": "compatibilism|acts|motive|displays|character|connection",
+    "conclusion": "A man who acts from a bad motive displays a bad character; this connection grounds moral judgment",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-C-004",
+    "year": 1739,
+    "premise": "compatibilism|punishment|aims|influence|future|conduct",
+    "conclusion": "Punishment aims to influence future conduct through the mechanism of motive",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-H-001",
+    "year": 1739,
+    "premise": "historiography|history|great|teacher|human|nature",
+    "conclusion": "History is the great teacher of human nature; it shows the same motives producing the same actions",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-H-002",
+    "year": 1739,
+    "premise": "historiography|uniformity|human|nature|history|possible",
+    "conclusion": "The uniformity of human nature makes history possible and valuable",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-H-003",
+    "year": 1739,
+    "premise": "historiography|historical|knowledge|based|testimony|credibility",
+    "conclusion": "Historical knowledge is based on testimony; credibility must be weighed against probability",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-H-004",
+    "year": 1739,
+    "premise": "historiography|historian|exercise|judgment|about|credibility",
+    "conclusion": "The historian must exercise judgment about credibility; extraordinary claims require extraordinary evidence",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "essays|suicide|necessarily|transgression|duty|neighbor",
+    "conclusion": "Suicide is not necessarily a transgression of our duty to God, our neighbor, or ourselves",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-002",
+    "year": 1739,
+    "premise": "essays|suicide|criminal|transgression|duty|either",
+    "conclusion": "If suicide be criminal, it must be a transgression of our duty either to God, to our neighbor, or to ourselves",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-003",
+    "year": 1739,
+    "premise": "essays|suicide|life|greater|importance|universe",
+    "conclusion": "The life of a man is of no greater importance to the universe than that of an oyster",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-004",
+    "year": 1739,
+    "premise": "essays|suicide|disposing|life|disturb|order",
+    "conclusion": "Disposing of one's own life cannot disturb the order of the universe any more than diverting a river",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EI-001",
+    "year": 1739,
+    "premise": "essays|immortality|soul|proven|reason|matter",
+    "conclusion": "The soul's immortality cannot be proven by reason; it is a matter of revelation alone",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EI-002",
+    "year": 1739,
+    "premise": "essays|immortality|metaphysical|arguments|obscure|uncertain",
+    "conclusion": "Metaphysical arguments for immortality are obscure and uncertain",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EI-003",
+    "year": 1739,
+    "premise": "essays|immortality|moral|arguments|presuppose|seek",
+    "conclusion": "The moral arguments for immortality presuppose what they seek to prove",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EI-004",
+    "year": 1739,
+    "premise": "essays|immortality|physical|arguments|suggest|soul",
+    "conclusion": "Physical arguments suggest the soul is mortal since it depends on bodily organization",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EN-001",
+    "year": 1739,
+    "premise": "essays|national|characters|arise|moral|causes",
+    "conclusion": "National characters arise from moral causes (government, social circumstances) more than physical causes (climate)",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EN-002",
+    "year": 1739,
+    "premise": "essays|national|characters|nation|different|ages",
+    "conclusion": "The same nation may have very different characters in different ages",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EN-003",
+    "year": 1739,
+    "premise": "essays|national|characters|several|neighboring|nations",
+    "conclusion": "Where several neighboring nations have close communication, they acquire a similitude of manners",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EN-004",
+    "year": 1739,
+    "premise": "essays|national|characters|priests|religions|tend",
+    "conclusion": "Priests of all religions tend toward similar characters despite doctrinal differences",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "essays|superstition|enthusiasm|corruptions|true|religion",
+    "conclusion": "Superstition and enthusiasm are the two corruptions of true religion",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-002",
+    "year": 1739,
+    "premise": "essays|superstition|enthusiasm|arises|weakness|fear",
+    "conclusion": "Superstition arises from weakness, fear, melancholy, and ignorance",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-003",
+    "year": 1739,
+    "premise": "essays|superstition|enthusiasm|arises|hope|pride",
+    "conclusion": "Enthusiasm arises from hope, pride, presumption, and warm imagination",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-004",
+    "year": 1739,
+    "premise": "essays|superstition|enthusiasm|favorable|priestly|power",
+    "conclusion": "Superstition is favorable to priestly power; enthusiasm is destructive of it",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ET-001",
+    "year": 1739,
+    "premise": "essays|tragedy|gives|pleasure|exciting|passions",
+    "conclusion": "Tragedy gives pleasure by exciting passions of terror and pity in a controlled context",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ET-002",
+    "year": 1739,
+    "premise": "essays|tragedy|pleasure|derives|eloquence|melancholy",
+    "conclusion": "The pleasure of tragedy derives from the eloquence and art with which melancholy passions are represented",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ET-003",
+    "year": 1739,
+    "premise": "essays|tragedy|subordinate|passions|converted|dominant",
+    "conclusion": "Subordinate passions are converted into the dominant passion, adding force to it",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ET-004",
+    "year": 1739,
+    "premise": "essays|tragedy|fiction|renders|passion|agreeable",
+    "conclusion": "The fiction of tragedy renders the passion agreeable that would otherwise be painful",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-001",
+    "year": 1739,
+    "premise": "essays|standard|taste|though|variable|individuals",
+    "conclusion": "The standard of taste, though variable in individuals, admits of general principles",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-002",
+    "year": 1739,
+    "premise": "essays|standard|taste|strong|sense|united",
+    "conclusion": "Strong sense, united to delicate sentiment, improved by practice and comparison, constitutes true taste",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-003",
+    "year": 1739,
+    "premise": "essays|standard|taste|joint|verdict|qualified",
+    "conclusion": "The joint verdict of qualified critics constitutes the true standard of taste",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ES-004",
+    "year": 1739,
+    "premise": "essays|standard|taste|prejudice|destroys|sound",
+    "conclusion": "Prejudice destroys sound judgment and perverts all operations of the intellectual faculties",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EE-001",
+    "year": 1739,
+    "premise": "essays|eloquence|highest|pitch|leaves|little",
+    "conclusion": "Eloquence at its highest pitch leaves little room for reason or reflection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EE-002",
+    "year": 1739,
+    "premise": "essays|eloquence|modern|calm|rational|ancient",
+    "conclusion": "Modern eloquence is more calm and rational than ancient eloquence",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EE-003",
+    "year": 1739,
+    "premise": "essays|eloquence|sublimity|ancient|suited|republican",
+    "conclusion": "The sublimity of ancient eloquence suited republican governments where the populace decided",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EE-004",
+    "year": 1739,
+    "premise": "essays|eloquence|reasoning|alone|without|little",
+    "conclusion": "Reasoning alone without eloquence has little influence on mankind",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EO-001",
+    "year": 1739,
+    "premise": "essays|original|contract|philosophical|fiction|government",
+    "conclusion": "The original contract is a philosophical fiction; no government was founded on consent",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EO-002",
+    "year": 1739,
+    "premise": "essays|original|contract|tacit|consent|meaningless",
+    "conclusion": "Tacit consent is a meaningless notion when subjects have no real power to refuse",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EO-003",
+    "year": 1739,
+    "premise": "essays|original|contract|obedience|government|arises",
+    "conclusion": "Obedience to government arises from utility and habit, not from original promise",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EO-004",
+    "year": 1739,
+    "premise": "essays|original|contract|governments|began|usurpation",
+    "conclusion": "Most governments began in usurpation or conquest without pretense of consent",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "essays|passive|obedience|doctrine|absurd|original",
+    "conclusion": "The doctrine of passive obedience is as absurd as that of the original contract",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "essays|passive|obedience|resistance|tyranny|justified",
+    "conclusion": "Resistance to tyranny is justified when government becomes incompatible with public good",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "essays|parties|political|arise|interest|principle",
+    "conclusion": "Political parties arise from interest, principle, or affection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "essays|parties|factions|interest|reasonable|excusable",
+    "conclusion": "Factions from interest are the most reasonable and excusable",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-003",
+    "year": 1739,
+    "premise": "essays|parties|factions|principle|especially|abstract",
+    "conclusion": "Factions from principle, especially abstract speculative principle, are the most extraordinary",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-004",
+    "year": 1739,
+    "premise": "essays|parties|personal|factions|arise|friendship",
+    "conclusion": "Personal factions arise from personal friendship or animosity among leaders",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EB-001",
+    "year": 1739,
+    "premise": "essays|balance|power|among|european|nations",
+    "conclusion": "The balance of power among European nations preserves liberty against universal monarchy",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EB-002",
+    "year": 1739,
+    "premise": "essays|balance|power|excessive|concern|become",
+    "conclusion": "Excessive concern with the balance of power can itself become a source of war",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "essays|perfect|commonwealth|equality|possessions|destroy",
+    "conclusion": "Perfect equality of possessions would destroy all subordination and reduce society to indigence",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "essays|perfect|commonwealth|best|government|provides",
+    "conclusion": "The best government is one that provides for its own amendment and reformation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-003",
+    "year": 1739,
+    "premise": "essays|perfect|commonwealth|large|state|governed",
+    "conclusion": "A large state can be governed as a republic through properly structured representation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-004",
+    "year": 1739,
+    "premise": "essays|perfect|commonwealth|small|republics|subject",
+    "conclusion": "Small republics are subject to faction; large ones prevent any single faction from dominating",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ER-001",
+    "year": 1739,
+    "premise": "essays|refinement|arts|promotes|humanity|softens",
+    "conclusion": "Refinement in the arts promotes humanity and softens tempers",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ER-002",
+    "year": 1739,
+    "premise": "essays|refinement|ages|happiest|virtuous",
+    "conclusion": "Ages of refinement are both the happiest and most virtuous",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ER-003",
+    "year": 1739,
+    "premise": "essays|refinement|industry|knowledge|humanity|bound",
+    "conclusion": "Industry, knowledge, and humanity are bound together and promote each other",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ER-004",
+    "year": 1739,
+    "premise": "essays|refinement|progress|arts|favorable|liberty",
+    "conclusion": "A progress in the arts is favorable to liberty and unfavorable to arbitrary power",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EA-001",
+    "year": 1739,
+    "premise": "essays|arts|sciences|rise|progress|requires",
+    "conclusion": "The rise and progress of arts and sciences requires a free government at their origin",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EA-002",
+    "year": 1739,
+    "premise": "essays|arts|sciences|established|transplanted|government",
+    "conclusion": "Arts and sciences once established can be transplanted into any government",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EA-003",
+    "year": 1739,
+    "premise": "essays|arts|sciences|neighboring|free|states",
+    "conclusion": "Neighboring free states stimulate emulation and improvement",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EA-004",
+    "year": 1739,
+    "premise": "essays|arts|sciences|republics|initially|favorable",
+    "conclusion": "Republics are initially most favorable to science; civilized monarchies to polite arts",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "essays|civil|liberty|world|young|establish",
+    "conclusion": "The world is yet too young to establish general truths in politics",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EC-002",
+    "year": 1739,
+    "premise": "essays|civil|liberty|commerce|flourish|absolute",
+    "conclusion": "Commerce can flourish under absolute governments if they are administered with moderation",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EC-003",
+    "year": 1739,
+    "premise": "essays|civil|liberty|kinds|government|free",
+    "conclusion": "All kinds of government, free and absolute, have their particular inconveniences",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EP-001",
+    "year": 1739,
+    "premise": "essays|polygamy|excluded|free|governments|enslaves",
+    "conclusion": "Polygamy is excluded from free governments because it enslaves half the species",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EP-002",
+    "year": 1739,
+    "premise": "essays|polygamy|tends|render|half|species",
+    "conclusion": "Polygamy tends to render one half the species insignificant and the other unhappy",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ED-001",
+    "year": 1739,
+    "premise": "essays|divorce|practice|reasonable|roman|modern",
+    "conclusion": "The practice of divorce was more reasonable in Roman than in modern times",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ED-002",
+    "year": 1739,
+    "premise": "essays|divorce|indissolubility|marriage|prevents|worse",
+    "conclusion": "The indissolubility of marriage prevents worse evils than it causes",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EC-001",
+    "year": 1739,
+    "premise": "essays|commerce|avarice|spur|industry|luxury",
+    "conclusion": "Avarice is the spur of industry; luxury provides the pleasure and recompense",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EG-001",
+    "year": 1739,
+    "premise": "essays|government|state|greater|danger|power",
+    "conclusion": "A state is never in greater danger than when all power is lodged in a single person",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EG-002",
+    "year": 1739,
+    "premise": "essays|government|first|lesson|princes|reject",
+    "conclusion": "The first lesson of princes should be to reject the counsel of flatterers",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EG-003",
+    "year": 1739,
+    "premise": "essays|government|ancient|governments|turbulent|modern",
+    "conclusion": "Ancient governments were more turbulent but modern governments more oppressive",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EG-004",
+    "year": 1739,
+    "premise": "essays|government|liberty|perfection|civil|society",
+    "conclusion": "Liberty is the perfection of civil society, but authority must be acknowledged essential to its existence",
+    "strength": 0.85,
+    "domain": "political philosophy"
+  },
+  {
+    "id": "HUME-EF-001",
+    "year": 1739,
+    "premise": "essays|first|principles|governors|nothing|support",
+    "conclusion": "The governors have nothing to support them but opinion; force is always on the side of the governed",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-EF-002",
+    "year": 1739,
+    "premise": "essays|first|principles|opinion|interest|right",
+    "conclusion": "Opinion of interest and opinion of right sustain all governments",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MS-001",
+    "year": 1739,
+    "premise": "methodology|skepticism|philosophical|moderate|confidence|speculative",
+    "conclusion": "Philosophical skepticism should moderate confidence in speculative opinions",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MS-002",
+    "year": 1739,
+    "premise": "methodology|skepticism|academic|moderate|truest|philosophy",
+    "conclusion": "Academic or moderate skepticism is the truest philosophy and most useful to life",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MS-003",
+    "year": 1739,
+    "premise": "methodology|skepticism|pyrrhonian|excessive|self|refuting",
+    "conclusion": "Pyrrhonian or excessive skepticism is self-refuting and cannot be maintained",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MN-001",
+    "year": 1739,
+    "premise": "methodology|naturalism|nature|absolute|uncontroulable|necessity",
+    "conclusion": "Nature by an absolute and uncontroulable necessity has determin'd us to judge as well as breathe",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MN-002",
+    "year": 1739,
+    "premise": "methodology|naturalism|philosophy|render|entirely|pyrrhonian",
+    "conclusion": "Philosophy would render us entirely Pyrrhonian were not nature too strong for it",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MI-001",
+    "year": 1739,
+    "premise": "methodology|imagination|runs|cause|effect|facility",
+    "conclusion": "The imagination runs from cause to effect with a facility that prevents close inspection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MP-001",
+    "year": 1739,
+    "premise": "methodology|philosophy|false|arises|natural|propensities",
+    "conclusion": "False philosophy arises from the natural propensities of imagination unchecked by reflection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MP-002",
+    "year": 1739,
+    "premise": "methodology|philosophy|true|approaches|sentiments|vulgar",
+    "conclusion": "True philosophy approaches the sentiments of the vulgar with greater circumspection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MR-001",
+    "year": 1739,
+    "premise": "methodology|reason|abstract|reasoning|alone|establish",
+    "conclusion": "Abstract reasoning alone can never establish any matter of fact",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "HUME-MP-001",
+    "year": 1739,
+    "premise": "methodology|probability|judgment|formed|concerning|secret",
+    "conclusion": "In every judgment formed concerning probability, there is a secret opposition between imagination and reason",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-ME-001",
+    "year": 1739,
+    "premise": "methodology|experience|rules|judge|causes|effects",
+    "conclusion": "The rules by which we judge of causes and effects are formed by experience alone",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-MA-001",
+    "year": 1739,
+    "premise": "methodology|analogy|analogical|reasoning|becomes|weaker",
+    "conclusion": "Analogical reasoning becomes weaker as the resemblance between cases diminishes",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "HUME-RM-001",
+    "year": 1739,
+    "premise": "religion|miracles|event|intrinsically|miraculous|term",
+    "conclusion": "No event is intrinsically miraculous; the term miraculous is relative to our experience",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RM-002",
+    "year": 1739,
+    "premise": "religion|miracles|testimony|weighed|against|unbroken",
+    "conclusion": "Testimony for miracles must be weighed against the unbroken uniformity of experience",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RM-003",
+    "year": 1739,
+    "premise": "religion|miracles|knavery|folly|common|phenomena",
+    "conclusion": "The knavery and folly of men are such common phenomena that miracles should be suspected",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RM-004",
+    "year": 1739,
+    "premise": "religion|miracles|miracle|proven|foundation|system",
+    "conclusion": "A miracle can never be proven so as to be the foundation of a system of religion",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RC-001",
+    "year": 1739,
+    "premise": "religion|christianity|christian|attended|miracles|first",
+    "conclusion": "The Christian religion was attended with miracles at first but now appeals to reason",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RF-001",
+    "year": 1739,
+    "premise": "religion|faith|mere|reason|insufficient|convince",
+    "conclusion": "Mere reason is insufficient to convince us of the veracity of the Christian religion",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RF-002",
+    "year": 1739,
+    "premise": "religion|faith|whoever|moved|assent|scripture",
+    "conclusion": "Whoever is moved by faith to assent to scripture has a continued miracle in his own person",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RD-001",
+    "year": 1739,
+    "premise": "religion|design|whole|frame|nature|bespeaks",
+    "conclusion": "The whole frame of nature bespeaks an intelligent author, but the inference is weak",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "HUME-RC-001",
+    "year": 1739,
+    "premise": "religion|cosmology|present|scene|things|conclude",
+    "conclusion": "From the present scene of things we can conclude nothing concerning the origin of the world",
+    "strength": 0.85,
+    "domain": "religion"
+  }
+]

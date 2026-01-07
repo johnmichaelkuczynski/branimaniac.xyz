@@ -1,0 +1,12 @@
+=== EMBEDDING LOG FOR CARL JUNG ===
+Figure ID: jung
+Source Folder: /home/runner/workspace/server/data/jung
+Started: 2025-12-13T04:00:51.493Z
+============================================================
+
+[2025-12-13T04:00:51.495Z] SUCCESS | Complete Works of Carl Jung_ Psychological Types, Psychiatric Studies, Essays on Analytical Psychology & others (Grapevine Press)_Part1.txt | 275 chunks | 
+[2025-12-13T04:01:51.625Z] SUCCESS | Complete Works of Carl Jung_ Psychological Types, Psychiatric Studies, Essays on Analytical Psychology & others (Grapevine Press)_Part2.txt | 275 chunks | 
+[2025-12-13T04:02:51.468Z] SUCCESS | Complete Works of Carl Jung_ Psychological Types, Psychiatric Studies, Essays on Analytical Psychology & others (Grapevine Press)_Part3.txt | 289 chunks | 
+[2025-12-13T04:03:54.377Z] FLAGGED | Complete Works of Carl Jung_ Psychological Types, Psychiatric Studies, Essays on Analytical Psychology & others (Grapevine Press)_Part4.txt | 0 chunks | Contains 8 mentions of "Mises" - possible misattribution
+[2025-12-13T04:03:54.428Z] FLAGGED | Complete Works of Carl Jung_ Psychological Types, Psychiatric Studies, Essays on Analytical Psychology & others (Grapevine Press)_Part5.txt | 0 chunks | Contains 12 mentions of "Mill" - possible misattribution
+[2025-12-13T04:03:54.473Z] SUCCESS | Complete Works of Carl Jung_ Psychological Types, Psychiatric Studies, Essays on Analytical Psychology & others (Grapevine Press)_Part6.txt | 244 chunks | 

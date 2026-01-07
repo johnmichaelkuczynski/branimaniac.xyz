@@ -1,0 +1,31 @@
+Chapter 12
+
+Skepticism and the Justification of Inductive Inference
+
+1.0 What is skepticism?
+
+A skeptic is a doubter, not a disbeliever. For me to be skeptical about Smith's assertion that he's an astronaut is for me to doubt that he's an astronaut. It isn't for me to be to disbelieve that assertion—only to question it. If I'm convinced that Smith is not an astronaut, I'm not skeptical about his claim. Skepticism is doubt, not disbelief.
+
+But there is some tendency for skepticism to give way to disbelief. Even if I never definitively learn that Smith is not an astronaut, if I continue to find no good reason to believe that he is one, I'm more likely than not to disbelieve it. We feel that, if a claim is true, some positive evidence for it will turn up: the mere absence of counterevidence isn't enough for us.
+
+Does our human tendency to transition from doubt to disbelief have any logical basis? Or is it just another case of emotion and instinct corrupting rationality? It depends on the case. In some cases, but not all, failure to find positive evidence is itself counterevidence; and, in such cases, our tendency to slide form doubt to disbelief does have a logical basis. But, as we'll see in this very chapter, unless some highly defensible forms of skepticism can be refuted, this claim of mine is simply wrong.
+
+Many important debates in philosophy concern the merits of some form of skepticism. Are there non-spatiotemporal entities? (Skepticism about platonic entities.) Do we have beliefs, feelings, etc., that we aren't aware of having? (Skepticism about unconscious ideation.) Could observation ever provide adequate grounds for believing in unobservables (e.g., electrons) or should we regard terms like "electron" as referring to fictions of some kind or as not referring to anything at all? (Skepticism about theoretical entities.)
+
+As these examples indicate, philosophical skepticisms involve whole categories of truths. One doubts all truths affirming, or presupposing, the existence of non-spatiotemporal entities, unconscious emotions, theoretical entities, etc.
+
+In this chapter, we'll discuss what are probably the two most important forms of skepticism: skepticism about the external world and skepticism about inductive inference.
+
+To be a skeptic about the external world is to doubt that what our senses are telling us is accurate. One is a skeptic of this kind if one believes there to be no good reason to believe that one's sense-perceptions are anything other than hallucinations.
+
+A bit of background is needed to say what it is for one to be a skeptic about inductive inference. Some knowledge is direct. One doesn't have to figure it out—one just knows it. Somebody who is experiencing a searing pain knows it, and he didn't have to figure it out. But much knowledge is indirect. Einstein didn't "just know" that a body's mass increases as its speed increases; he had to figure it out. In other words, he had to infer it. So for knowledge to be indirect is for it to be acquired through inference.
+
+There are two parts to any inference: the premises and the conclusion. The conclusion is the belief arrived at—the thing that, when the inference leads from the right premises to the right conclusion in the right way, is "figured out." The premises are the pre-existing beliefs or assumptions on the basis of which one arrives at the conclusion.
+
+There are two kinds of inferences: deductive and inductive. An inference is deductive if, supposing that one's premises are true and one's reasoning non-faulty, it is impossible for one's conclusion to be false. If my premise is that x is a square and my conclusion is that x has four sides, it's logically impossible for my conclusion to be false if my premise is true. So this would be a case of a deductive inference. An inference is inductive if, supposing that one's premises are true and one's reasoning non-faulty, it is possible for one's conclusion to be false. If my premise is that, in the 35 years I've been drinking tap water, I have never become sick as a result of doing so, and my conclusion is that I won't become sick as a result of drinking the glass of tap water in front of me, my conclusion may be false. So this would be a case of an inductive inference.
+
+A skeptic about inductive inference holds that it is impossible, as a matter of principle, to learn anything through non-deductive inference. He holds, in other words, that one cannot acquire knowledge through inductive inference. All knowledge is either direct or is arrived at through deductive inference.
+
+If this is right, then we know only an infinitesimally small fraction of what we think we know. This is because, for reasons thoroughly discussed in Chapter 10, no knowledge about the external world is direct, and only some knowledge of ourselves is direct.
+
+We will start by discussing skepticism about induction.

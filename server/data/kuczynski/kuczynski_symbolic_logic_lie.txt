@@ -1,0 +1,1026 @@
+﻿                        The lie of the discipline of symbolic logic
+
+ 
+
+Part 1 The Lie of Symbolic Logic
+
+Part 2 The Homework Assignment Referred to in Part 1
+
+ Part 1 The Lie of Symbolic Logic
+
+ 
+
+        I used to be a professor and briefly taught symbolic logic, at a very
+
+high level.
+
+        I have long since stopped being a professor, since it was obviously a
+
+total crock, but now I run a tutoring business that involves me doing other
+
+people’s homework for them, including logic homework in a lot of cases.
+
+        Back when I was a philosophy professor and grad student, I really
+
+tried to see legitimacy in the discipline of formal logic and myself generated
+
+some meaningful results in it.
+
+        But there was always something off about it, or at least about the
+
+people who were into it. But really what was off was it itself. And yes—the
+
+people who were into it, they too were off in a corresponding way.
+
+        And then just a moment ago, when I was finishing up a round of
+
+logic homework for some poor sap, it hit me.
+
+        What they call ‘logic’ in universities is the ultimate bureaucrat
+
+discipline. There I was, doing utterly time-consuming and generally wasteful
+
+exercises for some client—who, like all my clients, knew that it simply
+
+wasn’t in his interest to jump through more bureaucratic hoops than he had
+
+to. there I was, as I was saying, and I had just spent 30 minutes putting in a
+
+lot of little idiot notations, along the lines of ‘modus tollens, lines 2, 5’, and
+
+‘double negation, line 1.’ Monkey idiot fake math bullshit.
+
+        Another thing I had done was complete some truth table-based proof
+
+—another favorite of logic professors. xxx
+
+        85% of what I was doing had no substance. It was purely procedural.
+
+Purely bureaucratic. And this time I saw it with the requisite simplicity and
+
+clarity. I looked back at the people I knew during undergraduate and graduate
+
+school who were into ‘logic’---and they were all broken, empty husk
+
+bureaucrats. Quasi-smart, but not actually smart. Maybe a little bit actually
+
+smart; but what they had in the way of intelligence was more about what they
+
+didn’t have: in other words, they lacked so much in terms of intellect—or, if
+
+not intellect, then personality-that the only part of them that was still function
+
+was the logic part; which, for that reason, predominated.
+
+        They all ended up becoming cipher lawyers.
+
+        The other thing is that the term ‘logic’ is a serious misnomer in this
+
+context. What they call ‘logic’ in college isn’t logic. Real logic is about
+
+organizing statement-sets in a way that exposes dependence-relations. Whatthey call ‘logic’ is about rooting through the leavings of some long gone and
+
+only semi-successful attempt on some person’s part to organize some
+
+statement-set. What they call ‘logic’, in other words, is the study of someone
+
+else’s attempt to construct a particular system.
+
+        Which is not logic. Logic is about organizing scientifically pregnant
+
+statements sets. Once the statement set has been organized, there is nothing
+
+for the logician to do. to be sure, there is some still work to do, but it’s for the
+
+robots, since, by supposition, the non-robotic work has already done. And of
+
+course, these ‘robots’ are not real robots; they are human robot-precursors:
+
+‘bureaucrats’, in other words.
+
+        There was a computer program designed around 20 years ago called
+
+‘Tarski’s world’, which was an attempt to ‘automate logic.’
+
+        It was the worst conceivable failure in the history of automation.
+
+        It was far more difficult to learn how to use their cantankerous
+
+software than it was to do the problems the old-fashioned way.
+
+        And what they were automating had already been automated, since
+
+that’s what a completed logic is: a formalization of some statement-set—a
+
+way of arranging a statement-set in such a way that bearing-relations among
+
+its members can be detected automatically.
+
+        So the very idea of automating logic is absurd.
+
+        Second, it wasn’t logic that was being automated; it was some
+
+fragment of some specific logic, which, as it turns out, was a total bust—but
+
+these philosophy professor kept on lingering there because they couldn’t
+
+come up with anything else.
+
+        And finally, and most importantly, the algorithms of which that
+
+particular system of logic availed humanity were useless. Not in the sense
+
+that they gave the wrong answer, but in the sense that applying them took far
+
+heftier resources of intellect and energy than simply solving the target-
+
+problems directly.
+
+        Plus, they only apply to artifacts, and the process of converting a
+
+statement-set into the requisitely artificial form is far more involved
+
+intellectually than whatever it is one supposedly figures out by using the
+
+algorithms in question.
+
+        Try using truth-tables to evaluate some actual argument. It’s not
+
+worth it. It’s easier to do it by ‘long-hand’, so to speak. Plus, on the rare
+
+occasions that truth-tables can be applied, what they tell you is mickey
+
+mouse; and by using them, you will simply divert your attention from mattersof substance.
+
+        Which is the very definition of mathematical failure. If an algorithm
+
+makes it harder to solve the problems that it solves, then there is no use for it.
+
+It is mathematical garbage.
+
+        The discipline stuck around partly a bunch of pencil pushing geeks
+
+posing as thinkers were in their comfort zone with it, because it’s not a real
+
+discipline; it’s just bureaucrat-geek protocols masquerading as one.
+
+        NOTE: In the following homework assignment (the one just referred
+
+to), failure to include correctly formatted notations counts for a loss of two
+
+letter grades. Also note that the formatting protocols are specific to this
+
+professor.
+
+ Part 2 The Homework Assignment Referred to in Part 1
+
+ 
+
+Provide proofs for the following two arguments:
+
+ 
+
+11. (x)(Mx->Lx) / (Ex)(Qx • Mx) // ~(x)(Lx ->~Qx) [15 points]
+
+1 (x)(Mx ->Lx) premise
+
+2 (Ex)(Qx • Mx) premise
+
+3 ~~(x)(Lx ->~Qx) reductio
+
+4 (x)(Lx ->~Qx) double negation 3
+
+5 Qa • Ma existential instantiation 2
+
+6 La->~Qa universal instantiation 4
+
+7 Ma->La universal instantiation 1
+
+8 Ma simplification 5
+
+9 La modus ponens 7,8
+
+10 ~Qa modus ponens 6,9
+
+11 Qa simplification 5
+
+12 Qa & ~Qa adjunction 10,11
+
+ 
+
+
+ 
+
+12. (x)Rx -> (x)Dx // (x)(Rx - Dx) [15 points]
+
+ 1 (x)Rx->(x)Dx premise 
+
+ 2 (x)Rx assumption conditional proof 
+
+3 SHOW (x)Dx
+
+4 ~(x)Dx Assumption indirect derivation 
+
+5  Ex~Dx Tautology 46 ~Da Existential instantiation 6
+
+7 Ra->Da Universal instantiation 1
+
+ 
+
+8 Ra Universal instantiation 2
+
+9 Da Modus ponens 7,8
+
+10 Da & ~Da adjunction 6,9
+
+ 
+
+Do six of seven following arguments.
+
+ 
+
+13. Paraphrase: 
+
+No Americans are above the law. (All Americans are not above the law.)
+
+Anyone who isn’t above the law is bound by the law.
+
+Therefore, all American officers are bound by the law 
+
+Symbolically,
+
+(x)(Ax->~Lx) 
+
+(x)(~Lx->Bx)
+
+Therefore 
+
+(x)((Ax&Ox)->Bx)  
+
+where, 
+
+Ax x is an American
+
+Ox x is an officer of the law
+
+Bx x is bound to obey the law
+
+Lx x is above the law
+
+PROOF
+
+1 (x)(Ax->~Lx) premise2 (x)(~Lx->Bx) premise
+
+3 SHOW (x)((Ax&Ox)->Bx)  
+
+4 ~(x)((Ax&Ox)->Bx)  Assumption indirect derivation
+
+5 Ex((Ax&Ox)&~Bx) tautology 4
+
+6 Aa&Oa&~Ba Existential instantiation 5
+
+7 Aa  Simplification 6
+
+8 Oa  Simplification 6
+
+9 ~Ba  Simplification 6
+
+10 Aa->~La Universal instantiation 1
+
+11 ~La Modus ponens 7,10
+
+12 ~La->Ba Universal instantiation 2
+
+13 Ba Modus ponens 11,12
+
+14 Ba&~Ba adjunction 9, 13
+
+  
+
+14.  Paraphrase: 
+
+All members of ATP are men. 
+
+All those who play in ATP tournaments are members of ATP. 
+
+Serena is non-man. 
+
+Therefore, Serena does not play in ATP tournament. 
+
+Symbolically, 
+
+(x)(Px->Ax)
+
+(x)(Ax->Mx)
+
+~Ms 
+
+Therefore, 
+
+~PsWhere, 
+
+s Serena Williams 
+
+Mx x is a man
+
+Ax x is member of ATP
+
+Px x plays in ATP tournament 
+
+Proof: 
+
+1 (x)(Px->Ax)  premise
+
+2 (x)(Ax->Mx) premise
+
+3 ~M(s)  premise
+
+4 SHOW ~Ps 
+
+5 ~~Ps Assumption indirect derivation 
+
+6 Ps Double negation 5
+
+7 Ps->As Universal instantiation 1
+
+8 As Modus ponens 6,7
+
+9 As->Ms Universal instantiation 2
+
+10 Ms Modus ponens  8,9
+
+11 Ms&~Ms 3,10
+
+ 
+
+15.  Some DEDUCTIVE arguments are not SYLLOGISMS. Proof:
+
+MATHEMATICAL arguments are all deductive. Some mathematical
+
+arguments are not syllogisms.
+
+Symbolically, 
+
+Ex(Mx&~Sx)
+
+(x)(Mx->Dx), 
+
+Therefore, Ex(Dx&~Sx)
+
+Where, 
+
+Mx x is a mathematical argument 
+
+Dx x is deductive 
+
+Sx x is a syllogism 
+
+
+ 
+
+ PROOF 
+
+1 Ex(Mx&~Sx) premise
+
+2 (x)(Mx->Dx) premise
+
+3 SHOW Ex(Dx&~Sx)
+
+4 ~Ex(Dx&~Sx) Assumption indirect derivation 
+
+5 (x)(Dx->Sx) tautology 4
+
+6 Ma&~Sa Existential instantiation 1
+
+7 Ma Simplification 6
+
+8 ~Sa Simplification 6
+
+9 Da->Sa Universal instantiation 5
+
+10 Ma>Da Universal instantiation  2
+
+11 Da Modus ponens 7,10
+
+12 Sa Modus ponens 9,11
+
+13 Sa&~Sa adjunction 8, 12
+
+
+ 
+
+16. Computer PROGRAMS are defined purely FORMALLY. MINDS have
+
+INTRINSIC mental content. Nothing that is defined purely formally has
+
+intrinsic mental content. So, minds are not computer programs.
+
+Paraphrase: Anything that is a mind has intrinsic mental content.
+
+Anything that has intrinsic mental content is not defined purely formally. 
+
+Anything that is a computer program is defined purely formally. 
+
+Therefore, anything that is a computer program is a non-mind.
+
+Symbolically, 
+
+(x)(Mx ->Cx)
+
+(x)(Cx ->~Dx)
+
+(x)(Px ->Dx), therefore
+
+(x)(Mx ->~Px)
+
+Where, 
+
+Px x is a computer program
+
+Dx x is defined purely formally 
+
+Mx x is a mind 
+
+Cx x has intrinsic mental content  
+
+ 
+
+PROOF 
+
+(x)(Mx ->Cx) premise
+
+(x)(Cx ->~Dx) premise
+
+(x)(Px ->Dx) premise
+
+SHOW (x)(Mx ->~Px)
+
+~(x)(Mx ->~Px) Assumption indirect derivation 
+
+Ex(Mx&Px) 
+
+Ma&Pa Existential instantiation
+
+Ma  Simplification 
+
+Pa  Simplification Pa ->Da Universal instantiation
+
+Ca ->~Da Universal instantiation
+
+Ma ->Ca Universal instantiation
+
+Ca Modus ponens 
+
+~Da Modus ponens 
+
+~Ca Modus Tollens 
+
+Ca&~Ca
+
+
+ 
+
+17.   Whenever people disagree, one of them is telling the truth. Bill and
+
+Monica disagree. Therefore, one of them is telling the truth. 
+
+Symbolically, 
+
+(x)(y)(Dxy→(Tx or Ty)
+
+Dbl
+
+Therefore, 
+
+Tb or Tl 
+
+Where, 
+
+Dxy x and y disagree 
+
+Tx x is telling the truth 
+
+l Monica 
+
+b Bill
+
+PROOF
+
+1 (x)(y)(Dxy→(Tx or Ty) Premise
+
+2 Dbl Premise
+
+3 SHOW  Tb or Tl 
+
+4  Dbl→(Tb or Tl)  Universal instantiation 1Tb or Tl modus ponens 2,4
+
+
+ 
+
+18. Everything EXTENDED is a SUBSTANCE. Nothing is both a substance
+
+and a VACUUM. Yet every vacuum would be extended. If follows that there
+
+is no vacuum.
+
+Paraphrase: 
+
+If it’s a vacuum, its extended.
+
+If it’s extended, it’s a substance. 
+
+If it’s a substance, it isn’t a vacuum. 
+
+Therefore, nothing is a vacuum. 
+
+Symbolically, 
+
+(x)(Vx-->Ex)
+
+(x)(Ex-->Sx)
+
+(x)(Sx-->~Vx), 
+
+Where
+
+Vx x is a vacuum
+
+Ex x is extended 
+
+Sx x is a substance 
+
+
+ 
+
+Therefore, 
+
+~ExVx
+
+Proof 
+
+1 (x)(Vx-->Ex) premise
+
+2 (x)(Ex-->Sx) premise
+
+3 (x)(Sx-->~Vx) premise4 SHOW ~ExVx
+
+5 ~~ExVx Assumption indirect derivation 
+
+6 ExVx double negation 5
+
+7 Va  Existential instantiation 6
+
+8 Va-->Ea Universal instantiation 1
+
+9 Ea->Sa Universal instantiation 2
+
+10 Sa-->~Va Universal instantiation 3
+
+11 ~~Va double negation  7
+
+11 ~Sa  Modus Tollens 10, 11
+
+12  ~Ea Modus Tollens 9, 12
+
+13 Ea&~Ea adjunction  7, 12
+
+
+
+ 
+
+Use the counterexample method or the finite universe method on any two of
+
+the arguments in questions 20-22 to show that they are invalid. (If you
+
+answer all three questions, you will be graded on your two best answers.) [30
+
+points]
+
+ 
+
+ 
+
+20. Call this the “ominivore’s fallacy”:
+
+ 
+
+All HEALTHY diets contain significant amounts of PROTEIN. All diets that
+
+include MEAT contain significant amounts of protein. Hence, all healthy
+
+diets include meat.
+
+ ABBREVIATIONS
+
+Mx x is meat 
+
+Hx x is a healthy diet Px x is a healthy diet that contains protein
+
+COUNTEREXAMPLE
+
+U: {a,b,c) 
+
+~Ma
+
+Mb
+
+Mc
+
+Pa
+
+Pb
+
+Pc 
+
+Ha
+
+Hb
+
+Hc 
+
+ 
+
+21. Socrates makes the following argument in Plato’s Phaedo:
+
+ Every LIVE BODY has a SOUL. So, every body that has a soul is alive.
+
+ ABBREVIATIONS 
+
+Lx x is a live 
+
+Sx x is a soul 
+
+Bx x is a body 
+
+Hxy x has y 
+
+COUNTEREXAMPLE 
+
+U:{a, b}
+
+Ba
+
+La
+
+Sb ~Lb
+
+Hab 
+
+ 
+
+
+ 
+
+ 
+
+Question 1
+
+ 
+
+INSTRUCTIONS: Select the conclusion that follows in a single step from the
+
+given premises. 
+
+ANSWER IS UNDERLINED, ITALICIZED, BOLDFACED
+
+ 
+
+Given the following premises: 
+
+ 
+
+      1.C ⊃(∼L ∨ ∼N)
+
+      2.(C • L) ⊃ ∼N
+
+      3.N
+
+            C ⊃
+
+          a.∼N                      
+
+       2, Simp
+
+            (C ⊃ ∼N) • (L ⊃
+          b.
+            ∼N)         2, Dist
+
+            C ⊃ ∼(L •
+
+          c.N)                      1,
+
+            DM
+
+              ∼(C •
+
+          d.L)                     
+
+        2, 3, MT
+
+            (C ⊃ ∼L) ∨
+
+          e.∼N                 1,
+
+              Assoc
+
+1 points  
+
+Question 2 
+
+INSTRUCTIONS: Select the conclusion that follows in a single step from the
+
+given premises. 
+
+ 
+
+Given the following premises: 
+
+ 
+
+      1.D ⊃(∼A ∨ ∼A)
+
+      2.∼A ⊃ (R • M)
+
+      3.∼R • ∼M
+
+            D ⊃ (R •
+          a.
+            M)                 1, 2, HS
+
+            ∼(R • M)                   
+          b.
+  3, DM
+
+            D ⊃
+
+          c.∼A                       1,
+
+            Taut
+
+            ∼∼A                           
+          d.
+            2, 3, MT
+
+            D ⊃
+
+          e.A                          1,
+
+            DN
+
+1 points  
+
+Question 3
+
+ 
+
+INSTRUCTIONS: Select the conclusion that follows in a single step from the
+
+given premises. 
+
+ 
+
+Given the following premises: 
+
+ 
+
+      1.P ⊃ L
+
+      2.∼(J • O)
+
+      3.(L ⊃ A) ⊃ (J • O)
+
+            L ⊃
+
+          a.P                           1,            Com
+
+            ∼J •
+
+          b.∼O                       2,
+
+            DM
+
+            P ⊃
+
+          c.A                          1,
+
+            3, HS
+
+            ∼(L ⊃
+
+          d.A)                     2, 3,
+
+            MT
+
+            ∼J                               
+          e.
+            2, Simp
+
+1 points  
+
+Question 4
+
+ 
+
+INSTRUCTIONS: Select the conclusion that follows in a single step from the
+
+given premises. 
+
+ 
+
+Given the following premises: 
+
+ 
+
+      1.E ⊃ (B • J)
+
+      2.(J • B) ⊃ ∼L
+
+      3.L
+
+            (E ⊃ B) • (E ⊃
+          a.
+            J)          1, Dist
+
+            E ⊃
+
+          b.∼L                        1,
+
+            2, HS
+
+            (B • J) ⊃
+          c.
+            ∼L                 2, Com
+
+            J                                  
+          d.
+            2, Simp
+
+            ∼(J •
+
+          e.B)                        2, 3,            MT
+
+1 points  
+
+Question 5
+
+ 
+
+INSTRUCTIONS: Select the conclusion that follows in a single step from the
+
+given premises. 
+
+ 
+
+Given the following premises: 
+
+ 
+
+      1.E
+
+      2.R ⊃ ∼E
+
+      3.N ⊃(∼C ⊃ R)
+
+            E • H                          
+          a.
+ 1, Add
+
+            ∼C ⊃
+
+          b.∼E                     2, 3,
+
+            HS
+
+            (N • ∼C) ⊃
+          c.
+            R               3, Exp
+
+            ∼R                              
+          d.
+            1, 2, MT
+
+            E ⊃
+
+          e.∼R                        2,
+
+              Trans
+
+1 points  
+
+Question 6
+
+ 
+
+INSTRUCTIONS: Select the correct translation for each statement.
+
+ 
+
+A freshman is not a sophomore.
+
+          a.(∃x)(Fx • ∼Sx)
+
+          b.(∃x)(Fx • Sx)
+
+          c.Fx • ∼Sx
+
+          d.(x)(Fx ⊃ ∼Sx)          e.Fy ⊃ ∼Sy
+
+1 points  
+
+Question 7
+
+ 
+
+INSTRUCTIONS: Select the correct translation for each statement.
+
+ 
+
+A taxi is waiting.
+
+          a.(∃x)(Tx • Wx)
+
+          b.Tx • Wx
+
+          c.(∃x)(Tx ⊃ Wx)
+
+          d.(x)(Tx • Wx)
+
+          e.(x)(Tx ⊃Wx)
+
+1 points  
+
+Question 8
+
+ 
+
+INSTRUCTIONS: Select the correct translation for each statement.
+
+ 
+
+Elms and maples are deciduous trees.
+
+          a.(x)[(Ex ∨Mx) ⊃ (Dx ⊃ Tx)]
+
+          b.(x)[(Ex • Mx) ⊃ (Tx • Dx)]
+
+          c.(x)[(Ex ∨Mx) ⊃(Tx • Dx)]
+
+          d.(∃x)[(Ex ∨ Mx) ⊃ (Tx • Dx)]
+
+          e.(∃x)[(Ex ∨ Mx) ⊃ (Tx • Dx)]
+
+1 points  
+
+Question 9
+
+ 
+
+INSTRUCTIONS: Select the correct translation for each statement.
+
+ 
+
+Megan is a biologist only if William is an astronomer.
+
+          a.(x)(Mx ⊃Wx)
+
+          b.(∃x)Bx ⊃(∃x)Ax
+
+          c.Bm ⊃ Aw
+
+          d.Aw ⊃ Bm
+
+          e.Mb ⊃ Wa1 points  
+
+Question 10
+
+ 
+
+INSTRUCTIONS: Select the correct translation for each statement.
+
+ 
+
+Not every applicant is eligible.
+
+          a.(∃x)(Ax • Ex)
+
+          b.(∃x)Ax • (∃x)∼Ex
+
+          c.(x)(Ex ⊃Ax)
+
+          d.(∃x)(Ax • ∼Ex)
+
+          e.(x)(Ax ⊃ ∼Ex)
+
+1 points  
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 

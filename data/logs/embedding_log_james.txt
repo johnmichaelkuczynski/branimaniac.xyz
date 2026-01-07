@@ -1,0 +1,23 @@
+=== EMBEDDING LOG FOR WILLIAM JAMES ===
+Figure ID: james
+Source Folder: /home/runner/workspace/server/data/james
+Started: 2025-12-13T04:09:06.221Z
+============================================================
+
+[2025-12-13T04:09:06.224Z] FLAGGED | JAMES ESSAYS IN RADICAL EMPIRICISM_1762611670442.txt | 0 chunks | Contains 15 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:06.510Z] ERROR | James_Complete_Positions.txt | 0 chunks | insert or update on table "paper_chunks" violates foreign key constraint "paper_chunks_figure_id_figures_id_fk"
+[2025-12-13T04:09:06.989Z] FLAGGED | WILLIAM JAMES MEANING OF TRUTH_1762607616633.txt | 0 chunks | Contains 10 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:07.178Z] FLAGGED | WILLIAM JAMES SHORT COURSE_1762607821215.txt | 0 chunks | Contains 21 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:07.251Z] FLAGGED | james_collected_works.txt | 0 chunks | Contains 87 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:07.414Z] FLAGGED | james_meaning_of_truth.txt | 0 chunks | Contains 10 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:07.544Z] FLAGGED | james_memories_and_studies.txt | 0 chunks | Contains 12 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:07.611Z] FLAGGED | james_psychology_briefer.txt | 0 chunks | Contains 21 mentions of "Mill" - possible misattribution
+[2025-12-13T04:09:07.693Z] FLAGGED | james_radical_empiricism.txt | 0 chunks | Contains 15 mentions of "Mill" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 0
+Chunks created: 0
+Files flagged: 8
+Errors: 1
+Completed: 2025-12-13T04:09:07.746Z

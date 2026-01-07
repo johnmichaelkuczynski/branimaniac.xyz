@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 2291,
+    "topic": "Inferiority Feelings",
+    "premise": "inferiority|feelings|normal|universal|human|condition",
+    "conclusion": "Inferiority feelings are a normal and universal human condition, not a sign of weakness"
+  },
+  {
+    "id": 2292,
+    "topic": "Inferiority Feelings",
+    "premise": "inferiority|feelings|primary|source|human|striving",
+    "conclusion": "Inferiority feelings are the primary source of all human striving and growth"
+  },
+  {
+    "id": 2293,
+    "topic": "Inferiority Feelings",
+    "premise": "inferiority|feelings|originate|infancy|natural|state",
+    "conclusion": "Inferiority feelings originate in infancy due to the natural state of human helplessness"
+  },
+  {
+    "id": 2294,
+    "topic": "Inferiority Feelings",
+    "premise": "intensity|inferiority|feelings|subjective|based|personal",
+    "conclusion": "The intensity of inferiority feelings is subjective, based on personal perception, not objective reality"
+  },
+  {
+    "id": 2295,
+    "topic": "Inferiority Feelings",
+    "premise": "inferiority|feelings|become|problematic|lead|discouragement",
+    "conclusion": "Inferiority feelings become problematic only when they lead to discouragement and withdrawal"
+  },
+  {
+    "id": 2296,
+    "topic": "Inferiority Feelings",
+    "premise": "inferiority|complex|exaggerated|unmanaged|feeling|paralyzes",
+    "conclusion": "An inferiority complex is an exaggerated, unmanaged inferiority feeling that paralyzes"
+  },
+  {
+    "id": 2297,
+    "topic": "Inferiority Feelings",
+    "premise": "physical|social|disadvantages|intensify|inferiority|feelings",
+    "conclusion": "Physical or social disadvantages can intensify inferiority feelings, but do not determine the outcome"
+  },
+  {
+    "id": 2298,
+    "topic": "Inferiority Feelings",
+    "premise": "goal|eliminate|inferiority|feelings|stimulus|constructive",
+    "conclusion": "The goal is not to eliminate inferiority feelings, but to use them as a stimulus for constructive striving"
+  },
+  {
+    "id": 2299,
+    "topic": "Inferiority Feelings",
+    "premise": "inferiority|feelings|felt|relation|self|created",
+    "conclusion": "Inferiority feelings are felt in relation to a self-created ideal of perfection"
+  },
+  {
+    "id": 2300,
+    "topic": "Inferiority Feelings",
+    "premise": "healthy|compensation|inferiority|feelings|leads|development",
+    "conclusion": "Healthy compensation for inferiority feelings leads to development; overcompensation leads to neurosis"
+  },
+  {
+    "id": 2301,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|fundamental|innate|motive|human",
+    "conclusion": "The striving for superiority is the fundamental, innate motive of human life"
+  },
+  {
+    "id": 2302,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|drive|toward|completion|perfection",
+    "conclusion": "The striving for superiority is a drive toward completion, perfection, or overcoming, not domination over others"
+  },
+  {
+    "id": 2303,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|directed|toward|future|oriented",
+    "conclusion": "The striving for superiority is always directed toward a future-oriented, fictional goal"
+  },
+  {
+    "id": 2304,
+    "topic": "Striving for Superiority",
+    "premise": "guided|social|interest|striving|superiority|leads",
+    "conclusion": "When guided by social interest, striving for superiority leads to healthy development and contribution"
+  },
+  {
+    "id": 2305,
+    "topic": "Striving for Superiority",
+    "premise": "lacking|social|interest|striving|superiority|manifests",
+    "conclusion": "When lacking social interest, striving for superiority manifests as personal ambition, vanity, or tyranny"
+  },
+  {
+    "id": 2306,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|answer|problem|felt|inferiority",
+    "conclusion": "The striving for superiority is the answer to the problem of felt inferiority"
+  },
+  {
+    "id": 2307,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|unifies|personality|behaviors|expressions",
+    "conclusion": "The striving for superiority unifies the personality; all behaviors are expressions of this single striving"
+  },
+  {
+    "id": 2308,
+    "topic": "Striving for Superiority",
+    "premise": "direction|striving|toward|usefulness|personal|superiority",
+    "conclusion": "The direction of striving (toward usefulness or personal superiority) defines mental health"
+  },
+  {
+    "id": 2309,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|teleological|purpose|driven|causal",
+    "conclusion": "The striving for superiority is teleological (purpose-driven), not causal (caused by past events alone)"
+  },
+  {
+    "id": 2310,
+    "topic": "Striving for Superiority",
+    "premise": "striving|superiority|present|everyone|expression|uniquely",
+    "conclusion": "The striving for superiority is present in everyone, but its expression is uniquely shaped by the individual's style of life"
+  },
+  {
+    "id": 2311,
+    "topic": "Compensation and Overcompensation",
+    "premise": "compensation|normal|healthy|attempt|overcome|weakness",
+    "conclusion": "Compensation is the normal, healthy attempt to overcome a weakness"
+  },
+  {
+    "id": 2312,
+    "topic": "Compensation and Overcompensation",
+    "premise": "overcompensation|exaggerated|attempt|goes|beyond|balance",
+    "conclusion": "Overcompensation is an exaggerated attempt that goes beyond balance, often aiming for superiority in the area of weakness"
+  },
+  {
+    "id": 2313,
+    "topic": "Compensation and Overcompensation",
+    "premise": "drive|compensate|apply|physical|social|psychological",
+    "conclusion": "The drive to compensate can apply to physical, social, or psychological inferiorities"
+  },
+  {
+    "id": 2314,
+    "topic": "Compensation and Overcompensation",
+    "premise": "outcome|compensation|depends|individual|level|social",
+    "conclusion": "The outcome of compensation depends on the individual's level of social interest and courage"
+  },
+  {
+    "id": 2315,
+    "topic": "Compensation and Overcompensation",
+    "premise": "neurotic|symptoms|form|failed|safeguarding|compensation",
+    "conclusion": "Neurotic symptoms are a form of failed or safeguarding compensation"
+  },
+  {
+    "id": 2316,
+    "topic": "Compensation and Overcompensation",
+    "premise": "organ|inferiority|lead|remarkable|achievements|compensated",
+    "conclusion": "Organ inferiority can lead to remarkable achievements if compensated for socially"
+  },
+  {
+    "id": 2317,
+    "topic": "Compensation and Overcompensation",
+    "premise": "inferiority|compensated|often|psychologically|perceived|real",
+    "conclusion": "The inferiority being compensated for is often psychologically perceived, not real"
+  },
+  {
+    "id": 2318,
+    "topic": "Compensation and Overcompensation",
+    "premise": "overcompensation|lead|sided|rigid|development",
+    "conclusion": "Overcompensation can lead to a one-sided, rigid development"
+  },
+  {
+    "id": 2319,
+    "topic": "Compensation and Overcompensation",
+    "premise": "concept|compensation|explains|genius|severe|neurosis",
+    "conclusion": "The concept of compensation explains both genius and severe neurosis from a similar starting point"
+  },
+  {
+    "id": 2320,
+    "topic": "Compensation and Overcompensation",
+    "premise": "therapy|goal|redirect|overcompensation|toward|socially",
+    "conclusion": "In therapy, the goal is to redirect overcompensation toward socially useful channels"
+  },
+  {
+    "id": 2321,
+    "topic": "Social Interest",
+    "premise": "social|interest|innate|potential|feeling|connected",
+    "conclusion": "Social interest (Gemeinschaftsgef\u00fchl) is an innate potential for feeling connected to humanity and caring for others' welfare"
+  },
+  {
+    "id": 2322,
+    "topic": "Social Interest",
+    "premise": "social|interest|true|inevitable|measure|human",
+    "conclusion": "Social interest is the true and inevitable measure of human worth and mental health"
+  },
+  {
+    "id": 2323,
+    "topic": "Social Interest",
+    "premise": "social|interest|consciously|developed|trained|primarily",
+    "conclusion": "Social interest must be consciously developed and trained, primarily in early childhood through family and school"
+  },
+  {
+    "id": 2324,
+    "topic": "Social Interest",
+    "premise": "human|problems|work|society|love|social",
+    "conclusion": "All human problems (work, society, love) are social problems requiring cooperation"
+  },
+  {
+    "id": 2325,
+    "topic": "Social Interest",
+    "premise": "neurosis|crime|addiction|core|failures|social",
+    "conclusion": "Neurosis, crime, and addiction are, at their core, failures of social interest"
+  },
+  {
+    "id": 2326,
+    "topic": "Social Interest",
+    "premise": "social|interest|criterion|successful|adaptation|life",
+    "conclusion": "Social interest is the criterion for successful adaptation to life's three tasks"
+  },
+  {
+    "id": 2327,
+    "topic": "Social Interest",
+    "premise": "social|interest|provides|sustainable|satisfaction|life",
+    "conclusion": "Social interest provides the only sustainable satisfaction in life, as it aligns individual striving with the common good"
+  },
+  {
+    "id": 2328,
+    "topic": "Social Interest",
+    "premise": "social|interest|antidote|overwhelming|inferiority|feelings",
+    "conclusion": "Social interest is the antidote to overwhelming inferiority feelings"
+  },
+  {
+    "id": 2329,
+    "topic": "Social Interest",
+    "premise": "lack|social|interest|leads|private|distorted",
+    "conclusion": "A lack of social interest leads to a private, distorted view of the world (private intelligence)"
+  },
+  {
+    "id": 2330,
+    "topic": "Social Interest",
+    "premise": "ultimate|goal|psychotherapy|foster|expand|patient",
+    "conclusion": "The ultimate goal of psychotherapy is to foster and expand the patient's social interest"
+  },
+  {
+    "id": 2331,
+    "topic": "Style of Life",
+    "premise": "style|life|unique|unified|pattern|behavior",
+    "conclusion": "The style of life is the unique, unified pattern of behavior, goals, and self-concepts an individual creates"
+  },
+  {
+    "id": 2332,
+    "topic": "Style of Life",
+    "premise": "style|life|largely|formed|child|interpretations",
+    "conclusion": "The style of life is largely formed by age 4 or 5 from the child's interpretations of their experiences"
+  },
+  {
+    "id": 2333,
+    "topic": "Style of Life",
+    "premise": "style|life|cognitive|schema|navigating|world",
+    "conclusion": "The style of life is a cognitive map or schema for navigating the world and pursuing superiority"
+  },
+  {
+    "id": 2334,
+    "topic": "Style of Life",
+    "premise": "style|life|self|consistent|actions|contradictory",
+    "conclusion": "The style of life is self-consistent; all actions, even contradictory-seeming ones, serve its hidden goal"
+  },
+  {
+    "id": 2335,
+    "topic": "Style of Life",
+    "premise": "style|life|operates|outside|full|awareness",
+    "conclusion": "The style of life operates outside of full awareness; individuals are often unconscious of their own lifestyle"
+  },
+  {
+    "id": 2336,
+    "topic": "Style of Life",
+    "premise": "style|life|resistant|change|provides|sense",
+    "conclusion": "The style of life is resistant to change because it provides a sense of security and predictability"
+  },
+  {
+    "id": 2337,
+    "topic": "Style of Life",
+    "premise": "mistakes|lifestyle|pampered|neglected|lead|life",
+    "conclusion": "Mistakes in the lifestyle (e.g., pampered, neglected) lead to life failures"
+  },
+  {
+    "id": 2338,
+    "topic": "Style of Life",
+    "premise": "psychotherapy|involves|discovering|catching|lifestyle|action",
+    "conclusion": "Psychotherapy involves discovering and catching the lifestyle in action, then re-educating it"
+  },
+  {
+    "id": 2339,
+    "topic": "Style of Life",
+    "premise": "style|life|revealed|early|recollections|birth",
+    "conclusion": "The style of life is revealed through early recollections, birth order dynamics, and recurring patterns"
+  },
+  {
+    "id": 2340,
+    "topic": "Style of Life",
+    "premise": "healthy|lifestyle|flexible|cooperative|actively|engaged",
+    "conclusion": "A healthy lifestyle is flexible, cooperative, and actively engaged with life's tasks"
+  },
+  {
+    "id": 2341,
+    "topic": "Fictional Finalism",
+    "premise": "human|behavior|guided|subjectively|held|fictions",
+    "conclusion": "Human behavior is guided by subjectively held fictions or ideals of a future goal"
+  },
+  {
+    "id": 2342,
+    "topic": "Fictional Finalism",
+    "premise": "guiding|fictions|constructs|true",
+    "conclusion": "Guiding fictions are \"as if\" constructs; they need not be true, but we act as if they are"
+  },
+  {
+    "id": 2343,
+    "topic": "Fictional Finalism",
+    "premise": "guiding|fictions|teleological|pull|future|rather",
+    "conclusion": "Guiding fictions are teleological (pull from the future) rather than solely causal (push from the past)"
+  },
+  {
+    "id": 2344,
+    "topic": "Fictional Finalism",
+    "premise": "final|goal|superiority|perfection|fiction|organizes",
+    "conclusion": "The final goal of superiority or perfection is itself a fiction that organizes all behavior"
+  },
+  {
+    "id": 2345,
+    "topic": "Fictional Finalism",
+    "premise": "fictional|goal|creates|consistency|personality",
+    "conclusion": "The fictional goal creates consistency in personality"
+  },
+  {
+    "id": 2346,
+    "topic": "Fictional Finalism",
+    "premise": "psychopathology|arises|rigid|self|centered|antisocial",
+    "conclusion": "Psychopathology arises from rigid, self-centered, or antisocial fictional goals"
+  },
+  {
+    "id": 2347,
+    "topic": "Fictional Finalism",
+    "premise": "therapy|involves|revealing|client|unconscious|fictional",
+    "conclusion": "Therapy involves revealing the client's unconscious fictional goal and assessing its usefulness"
+  },
+  {
+    "id": 2348,
+    "topic": "Fictional Finalism",
+    "premise": "guiding|fictions|created|individual|imposed|biology",
+    "conclusion": "Guiding fictions are created by the individual, not imposed by biology or environment"
+  },
+  {
+    "id": 2349,
+    "topic": "Fictional Finalism",
+    "premise": "guiding|fictions|lens|experiences|interpreted",
+    "conclusion": "Guiding fictions are the lens through which all experiences are interpreted"
+  },
+  {
+    "id": 2350,
+    "topic": "Fictional Finalism",
+    "premise": "healthy|development|involves|aligning|fictional|finalism",
+    "conclusion": "Healthy development involves aligning one's fictional finalism with the demands of social reality"
+  },
+  {
+    "id": 2351,
+    "topic": "Birth Order",
+    "premise": "birth|order|theory|psychological|position|actual",
+    "conclusion": "In birth order theory, the psychological position, not the actual ordinal number, is what matters"
+  },
+  {
+    "id": 2352,
+    "topic": "Birth Order",
+    "premise": "first|born|child|experiences|dethronement|often",
+    "conclusion": "The first-born child experiences dethronement, often values authority/rules, and can become a conservative striving for power or a nurturing caretaker"
+  },
+  {
+    "id": 2353,
+    "topic": "Birth Order",
+    "premise": "second|born|middle|child|race|pacesetter",
+    "conclusion": "The second-born (or middle) child is born into a race, has a pacesetter, and often develops a competitive, ambitious, or cooperative style"
+  },
+  {
+    "id": 2354,
+    "topic": "Birth Order",
+    "premise": "youngest|child|often|pampered|develop|strong",
+    "conclusion": "The youngest child is often the most pampered, may develop strong social skills or remain dependent, and can be an ambitious speedster trying to surpass all others"
+  },
+  {
+    "id": 2355,
+    "topic": "Birth Order",
+    "premise": "child|grows|adult|world|mature|intellectually",
+    "conclusion": "The only child grows up in an adult world, may mature intellectually early, and often struggles with cooperation and sharing, expecting to be the center of attention"
+  },
+  {
+    "id": 2356,
+    "topic": "Birth Order",
+    "premise": "birth|order|tendencies|general|determinants|child",
+    "conclusion": "Birth order tendencies are general tendencies, not determinants; the child's creative interpretation is key"
+  },
+  {
+    "id": 2357,
+    "topic": "Birth Order",
+    "premise": "large|gaps|create|functional|first|born",
+    "conclusion": "Large age gaps can create functional only or first-born children"
+  },
+  {
+    "id": 2358,
+    "topic": "Birth Order",
+    "premise": "birth|order|influences|development|social|interest",
+    "conclusion": "Birth order influences the development of social interest"
+  },
+  {
+    "id": 2359,
+    "topic": "Birth Order",
+    "premise": "birth|order|tool|understanding|early|social",
+    "conclusion": "Birth order is a key tool for understanding the early social environment in which the style of life was formed"
+  },
+  {
+    "id": 2360,
+    "topic": "Birth Order",
+    "premise": "gender|physical|differences|among|siblings|modify",
+    "conclusion": "Gender and physical differences among siblings modify the birth order dynamic"
+  },
+  {
+    "id": 2361,
+    "topic": "Organ Inferiority",
+    "premise": "constitutionally|weak|defective|organ|creates|biological",
+    "conclusion": "A constitutionally weak or defective organ creates a biological starting point for psychological development"
+  },
+  {
+    "id": 2362,
+    "topic": "Organ Inferiority",
+    "premise": "weakness|organ|presents|obstacle|demands|compensation",
+    "conclusion": "The weakness of an organ presents an obstacle that demands compensation"
+  },
+  {
+    "id": 2363,
+    "topic": "Organ Inferiority",
+    "premise": "psychic|superstructure|attitudes|emotions|develops|around",
+    "conclusion": "The psychic superstructure (attitudes, emotions) develops around the management of organ weakness"
+  },
+  {
+    "id": 2364,
+    "topic": "Organ Inferiority",
+    "premise": "organ|inferiority|lead|heightened|attention|anxiety",
+    "conclusion": "Organ inferiority can lead to heightened attention and anxiety focused on the weak organ"
+  },
+  {
+    "id": 2365,
+    "topic": "Organ Inferiority",
+    "premise": "successful|compensation|organ|inferiority|result|exceptional",
+    "conclusion": "Successful compensation for organ inferiority can result in exceptional achievement in a related field"
+  },
+  {
+    "id": 2366,
+    "topic": "Organ Inferiority",
+    "premise": "failed|compensation|organ|inferiority|lead|hypochondria",
+    "conclusion": "Failed compensation for organ inferiority can lead to hypochondria, neurosis, or a life dominated by the weakness"
+  },
+  {
+    "id": 2367,
+    "topic": "Organ Inferiority",
+    "premise": "organ|inferiority|cause|personality|challenge|style",
+    "conclusion": "Organ inferiority is not the cause of personality, but a challenge to which the style of life responds"
+  },
+  {
+    "id": 2368,
+    "topic": "Organ Inferiority",
+    "premise": "concept|organ|inferiority|precursor|broader|idea",
+    "conclusion": "The concept of organ inferiority was a precursor to the broader idea of psychological inferiority feelings"
+  },
+  {
+    "id": 2369,
+    "topic": "Organ Inferiority",
+    "premise": "individual|creative|self|decides|misuse|organ",
+    "conclusion": "The individual's creative self decides how to use or misuse the organ inferiority"
+  },
+  {
+    "id": 2370,
+    "topic": "Organ Inferiority",
+    "premise": "therapy|focus|patient|attitude|toward|weakness",
+    "conclusion": "In therapy, the focus is on the patient's attitude toward the weakness, not the weakness itself"
+  },
+  {
+    "id": 2371,
+    "topic": "Masculine Protest",
+    "premise": "masculine|protest|overvaluation|traits|strength|dominance",
+    "conclusion": "The masculine protest is the overvaluation of masculine traits (strength, dominance, conquest) and devaluation of feminine traits (weakness, submission, cooperation) within a culture"
+  },
+  {
+    "id": 2372,
+    "topic": "Masculine Protest",
+    "premise": "masculine|protest|socially|constructed|ideal|biological",
+    "conclusion": "The masculine protest is a socially constructed ideal, not a biological given"
+  },
+  {
+    "id": 2373,
+    "topic": "Masculine Protest",
+    "premise": "women|engage|masculine|protest",
+    "conclusion": "Both men and women can engage in the masculine protest"
+  },
+  {
+    "id": 2374,
+    "topic": "Masculine Protest",
+    "premise": "masculine|protest|manifest|exaggerated|machismo|dominate",
+    "conclusion": "In men, the masculine protest can manifest as exaggerated machismo, need to dominate, or fear of being seen as unmanly"
+  },
+  {
+    "id": 2375,
+    "topic": "Masculine Protest",
+    "premise": "women|masculine|protest|manifest|rejection|feminine",
+    "conclusion": "In women, the masculine protest can manifest as rejection of the feminine role, striving to outdo men, or contempt for domestic life"
+  },
+  {
+    "id": 2376,
+    "topic": "Masculine Protest",
+    "premise": "masculine|protest|arises|equating|powerful|superior",
+    "conclusion": "The masculine protest arises from equating masculine with powerful and superior, and feminine with inferior"
+  },
+  {
+    "id": 2377,
+    "topic": "Masculine Protest",
+    "premise": "masculine|protest|distorted|solution|feelings|inferiority",
+    "conclusion": "The masculine protest is a distorted solution to feelings of inferiority and powerlessness"
+  },
+  {
+    "id": 2378,
+    "topic": "Masculine Protest",
+    "premise": "true|psychological|health|transcends|masculine|feminine",
+    "conclusion": "True psychological health transcends the masculine-feminine dichotomy in favor of a holistic, cooperative human identity"
+  },
+  {
+    "id": 2379,
+    "topic": "Masculine Protest",
+    "premise": "neurosis|often|involves|hidden|masculine|protest",
+    "conclusion": "Neurosis often involves a hidden masculine protest"
+  },
+  {
+    "id": 2380,
+    "topic": "Masculine Protest",
+    "premise": "adler|advocated|gender|equality|masculine|protest",
+    "conclusion": "Adler advocated for gender equality and saw the masculine protest as a major social pathology"
+  },
+  {
+    "id": 2381,
+    "topic": "Creative Self",
+    "premise": "creative|self|active|formative|principle|human",
+    "conclusion": "The creative self is the active, formative principle of human personality"
+  },
+  {
+    "id": 2382,
+    "topic": "Creative Self",
+    "premise": "creative|self|artist|personality|using|materials",
+    "conclusion": "The creative self is the artist of the personality, using raw materials (heredity, environment, experiences) to create the style of life"
+  },
+  {
+    "id": 2383,
+    "topic": "Creative Self",
+    "premise": "creative|self|source|free|personal|responsibility",
+    "conclusion": "The creative self is the source of free will and personal responsibility in Adlerian theory"
+  },
+  {
+    "id": 2384,
+    "topic": "Creative Self",
+    "premise": "creative|self|assigns|meaning|experiences|meanings",
+    "conclusion": "The creative self assigns meaning to experiences\u2014meanings are not determined by situations, but we determine ourselves by the meanings we give to situations"
+  },
+  {
+    "id": 2385,
+    "topic": "Creative Self",
+    "premise": "creative|self|final|cause|behavior|standing",
+    "conclusion": "The creative self is the final cause of behavior, standing above instincts and drives"
+  },
+  {
+    "id": 2386,
+    "topic": "Creative Self",
+    "premise": "creative|self|synthesizes|striving|superiority|social",
+    "conclusion": "The creative self synthesizes the striving for superiority with social interest to forge a unique life path"
+  },
+  {
+    "id": 2387,
+    "topic": "Creative Self",
+    "premise": "deterministic|circumstances|creative|self|degree|freedom",
+    "conclusion": "Even in the most deterministic circumstances, the creative self has a degree of freedom in its attitude"
+  },
+  {
+    "id": 2388,
+    "topic": "Creative Self",
+    "premise": "psychopathology|creative|mistake|misguided|purposeful|creation",
+    "conclusion": "Psychopathology is a creative mistake\u2014a misguided but purposeful creation of the self"
+  },
+  {
+    "id": 2389,
+    "topic": "Creative Self",
+    "premise": "therapy|aims|help|client|become|aware",
+    "conclusion": "Therapy aims to help the client become aware of their creative power and use it more constructively"
+  },
+  {
+    "id": 2390,
+    "topic": "Creative Self",
+    "premise": "concept|creative|self|core|adler|humanistic",
+    "conclusion": "The concept of the creative self is the core of Adler's humanistic and optimistic view of the individual"
+  },
+  {
+    "id": 2391,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|style|life|results|excessive|indulgence",
+    "conclusion": "The pampered style of life results from excessive indulgence and service in childhood, depriving the child of the chance to develop independence and courage"
+  },
+  {
+    "id": 2392,
+    "topic": "Pampered Style of Life",
+    "premise": "core|attitude|pampered|person|needs|others",
+    "conclusion": "The core attitude of the pampered person is: My needs must be met by others"
+  },
+  {
+    "id": 2393,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|style|life|leads|frustration|tolerance",
+    "conclusion": "The pampered style of life leads to low frustration tolerance and a tendency to give up easily"
+  },
+  {
+    "id": 2394,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|style|life|characterized|entitlement|egocentrism",
+    "conclusion": "The pampered style of life is characterized by entitlement, egocentrism, and a lack of social interest"
+  },
+  {
+    "id": 2395,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|individuals|develop|attitude|rather|give",
+    "conclusion": "Pampered individuals develop a get attitude rather than a give or contribute attitude"
+  },
+  {
+    "id": 2396,
+    "topic": "Pampered Style of Life",
+    "premise": "faced|life|tasks|pampered|individuals|resort",
+    "conclusion": "When faced with life's tasks, pampered individuals resort to safeguarding devices like tears, tantrums, or illness to manipulate others"
+  },
+  {
+    "id": 2397,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|individuals|highly|susceptible|jealousy|possessiveness",
+    "conclusion": "Pampered individuals are highly susceptible to jealousy and possessiveness in relationships"
+  },
+  {
+    "id": 2398,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|individuals|often|feel|victimized|unfairly",
+    "conclusion": "Pampered individuals often feel victimized and unfairly treated by the world's normal demands"
+  },
+  {
+    "id": 2399,
+    "topic": "Pampered Style of Life",
+    "premise": "pampered|lifestyle|major|root|neurosis|dependency",
+    "conclusion": "The pampered lifestyle is a major root of neurosis, dependency, and many relationship failures"
+  },
+  {
+    "id": 2400,
+    "topic": "Pampered Style of Life",
+    "premise": "correction|pampered|lifestyle|requires|systematic|encouragement",
+    "conclusion": "Correction of the pampered lifestyle requires systematic encouragement and training in cooperation to overcome the trained incapacity"
+  },
+  {
+    "id": 2401,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|style|life|results|emotional|deprivation",
+    "conclusion": "The neglected style of life results from emotional deprivation, abuse, or rejection in childhood"
+  },
+  {
+    "id": 2402,
+    "topic": "Neglected Style of Life",
+    "premise": "core|attitude|neglected|person|world|hostile",
+    "conclusion": "The core attitude of the neglected person is: The world is a hostile place, and I must protect myself"
+  },
+  {
+    "id": 2403,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|style|life|leads|deep|mistrust",
+    "conclusion": "The neglected style of life leads to deep mistrust of others and a defensive, often hostile, posture"
+  },
+  {
+    "id": 2404,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|style|life|characterized|social|interest",
+    "conclusion": "The neglected style of life is characterized by low social interest, isolation, and a struggle for survival"
+  },
+  {
+    "id": 2405,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|individuals|develop|fight|attitude|leading",
+    "conclusion": "Neglected individuals may develop a fight attitude, leading to overt aggression or criminality"
+  },
+  {
+    "id": 2406,
+    "topic": "Neglected Style of Life",
+    "premise": "alternatively|neglected|individuals|develop|flight|attitude",
+    "conclusion": "Alternatively, neglected individuals may develop a flight attitude, leading to severe withdrawal, schizoid tendencies, or suicide"
+  },
+  {
+    "id": 2407,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|individuals|great|difficulty|intimacy|cooperation",
+    "conclusion": "Neglected individuals have great difficulty with intimacy and cooperation, expecting betrayal"
+  },
+  {
+    "id": 2408,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|individuals|often|pessimistic|view|human",
+    "conclusion": "Neglected individuals often have a pessimistic view of human nature"
+  },
+  {
+    "id": 2409,
+    "topic": "Neglected Style of Life",
+    "premise": "neglected|lifestyle|root|antisocial|behavior|severe",
+    "conclusion": "The neglected lifestyle is a root of antisocial behavior, severe personality disorders, and psychosis"
+  },
+  {
+    "id": 2410,
+    "topic": "Neglected Style of Life",
+    "premise": "therapy|neglected|individuals|difficult|requiring|immense",
+    "conclusion": "Therapy with neglected individuals is very difficult, requiring immense patience to build the first bonds of trust the client never formed"
+  },
+  {
+    "id": 2411,
+    "topic": "Tasks of Life",
+    "premise": "life|presents|three|unavoidable|interlinked|social",
+    "conclusion": "Life presents three unavoidable, interlinked social tasks: Work (Occupational), Society (Friendship), and Love (Intimate Relationships)"
+  },
+  {
+    "id": 2412,
+    "topic": "Tasks of Life",
+    "premise": "success|life|defined|ability|solve|tasks",
+    "conclusion": "Success in life is defined by the ability to solve life's tasks cooperatively"
+  },
+  {
+    "id": 2413,
+    "topic": "Tasks of Life",
+    "premise": "work|task|involves|contributing|meaningfully|society",
+    "conclusion": "The Work Task involves contributing meaningfully to society through one's labor"
+  },
+  {
+    "id": 2414,
+    "topic": "Tasks of Life",
+    "premise": "social|task|involves|forming|friendships|community",
+    "conclusion": "The Social Task involves forming friendships, community ties, and feeling a sense of belonging"
+  },
+  {
+    "id": 2415,
+    "topic": "Tasks of Life",
+    "premise": "love|task|involves|forming|intimate|equal",
+    "conclusion": "The Love Task involves forming an intimate, equal, and lasting partnership"
+  },
+  {
+    "id": 2416,
+    "topic": "Tasks of Life",
+    "premise": "later|adlerians|added|task|self|relationship",
+    "conclusion": "Later Adlerians added the Task of Self (relationship to oneself) and the Spiritual Task (relationship to the cosmos or meaning)"
+  },
+  {
+    "id": 2417,
+    "topic": "Tasks of Life",
+    "premise": "neurotic|symptoms|function|excuses|avoiding|life",
+    "conclusion": "All neurotic symptoms function as excuses for avoiding one or more of life's tasks"
+  },
+  {
+    "id": 2418,
+    "topic": "Tasks of Life",
+    "premise": "tasks|life|test|reveal|individual|level",
+    "conclusion": "The tasks of life test and reveal the individual's level of social interest"
+  },
+  {
+    "id": 2419,
+    "topic": "Tasks of Life",
+    "premise": "tasks|life|practical|arena|style|proves",
+    "conclusion": "The tasks of life are the practical arena where the style of life proves its adequacy or inadequacy"
+  },
+  {
+    "id": 2420,
+    "topic": "Tasks of Life",
+    "premise": "therapy|directly|addresses|client|specific|failures",
+    "conclusion": "Therapy directly addresses the client's specific failures in life's tasks"
+  },
+  {
+    "id": 2421,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|wish|fulfillment|freud|problem|solving",
+    "conclusion": "Dreams are not for wish-fulfillment (Freud) but for problem-solving and rehearsal"
+  },
+  {
+    "id": 2422,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|bridge|current|problem|dreamer|style",
+    "conclusion": "Dreams are a bridge between a current problem and the dreamer's style of life goal"
+  },
+  {
+    "id": 2423,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|expressions|style|life|mirroring|dreamer",
+    "conclusion": "Dreams are expressions of the style of life, mirroring the dreamer's waking attitudes and coping strategies"
+  },
+  {
+    "id": 2424,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|rehearse|emotions|attitudes|dreamer|plans",
+    "conclusion": "Dreams rehearse emotions and attitudes the dreamer plans to use in an upcoming situation"
+  },
+  {
+    "id": 2425,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|subjective|creations|serve|safeguard|dreamer",
+    "conclusion": "Dreams are subjective creations that serve to safeguard the dreamer's chosen lifestyle"
+  },
+  {
+    "id": 2426,
+    "topic": "Dream Interpretation",
+    "premise": "dream|content|less|important|emotion|evokes",
+    "conclusion": "Dream content is less important than the emotion it evokes and its connection to a current life challenge"
+  },
+  {
+    "id": 2427,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|often|present|metaphors|symbolic|analogies",
+    "conclusion": "Dreams often present metaphors or symbolic analogies for life's tasks"
+  },
+  {
+    "id": 2428,
+    "topic": "Dream Interpretation",
+    "premise": "dream|purpose|preserve|sleep|providing|emotional",
+    "conclusion": "A dream's purpose is to preserve sleep by providing an emotional solution that allows one to avoid confronting the problem directly while awake"
+  },
+  {
+    "id": 2429,
+    "topic": "Dream Interpretation",
+    "premise": "dreams|lack|common|sense|waking|life",
+    "conclusion": "Dreams lack the common sense of waking life, allowing for more direct expression of private logic"
+  },
+  {
+    "id": 2430,
+    "topic": "Dream Interpretation",
+    "premise": "therapy|dreams|used|understand|patient|private",
+    "conclusion": "In therapy, dreams are used to understand the patient's private logic and current concerns, not to decode universal symbols"
+  },
+  {
+    "id": 2431,
+    "topic": "Neurosis",
+    "premise": "neurosis|safeguarding|strategy|excuses|symptoms|protect",
+    "conclusion": "Neurosis is a safeguarding strategy\u2014a set of excuses and symptoms that protect a fragile self-esteem"
+  },
+  {
+    "id": 2432,
+    "topic": "Neurosis",
+    "premise": "neurosis|creative|purposeful|attempt|individual|avoid",
+    "conclusion": "Neurosis is a creative, purposeful attempt by the individual to avoid the felt threat of failure in life's tasks"
+  },
+  {
+    "id": 2433,
+    "topic": "Neurosis",
+    "premise": "neurotic|uses|symptoms|create|distance|life",
+    "conclusion": "The neurotic uses symptoms to create distance from life's demands (work, love, society)"
+  },
+  {
+    "id": 2434,
+    "topic": "Neurosis",
+    "premise": "neurosis|mistaken|style|life|characterized|social",
+    "conclusion": "Neurosis is a mistaken style of life characterized by low social interest and high, rigid goal of personal superiority"
+  },
+  {
+    "id": 2435,
+    "topic": "Neurosis",
+    "premise": "neurotic|symptoms|serve|dominate|others|weakness",
+    "conclusion": "Neurotic symptoms serve to dominate others (through weakness) and excuse the self from responsibility"
+  },
+  {
+    "id": 2436,
+    "topic": "Neurosis",
+    "premise": "neurosis|form|logic|want|relationship|anxiety",
+    "conclusion": "Neurosis is a form of yes, but... logic (e.g., Yes, I want a relationship, but my anxiety is too bad)"
+  },
+  {
+    "id": 2437,
+    "topic": "Neurosis",
+    "premise": "neurosis|rooted|profound|discouragement|lack|courage",
+    "conclusion": "Neurosis is rooted in profound discouragement and a lack of courage to face life cooperatively"
+  },
+  {
+    "id": 2438,
+    "topic": "Neurosis",
+    "premise": "neurotic|lives|private|world|meaning|conflicts",
+    "conclusion": "The neurotic lives in a private world of meaning that conflicts with common sense"
+  },
+  {
+    "id": 2439,
+    "topic": "Neurosis",
+    "premise": "therapy|neurosis|process|softening|neurotic|rigid",
+    "conclusion": "Therapy for neurosis is a process of softening the neurotic's rigid, self-centered fictional goal and encouraging social interest"
+  },
+  {
+    "id": 2440,
+    "topic": "Neurosis",
+    "premise": "neurosis|paradoxically|goal|oriented|useful|though",
+    "conclusion": "Neurosis is, paradoxically, a goal-oriented, useful (though destructive) solution from the patient's subjective viewpoint"
+  },
+  {
+    "id": 2441,
+    "topic": "Courage and Encouragement",
+    "premise": "courage|willingness|engage|life|tasks|imperfectly",
+    "conclusion": "Courage is the willingness to engage with life's tasks imperfectly, without guarantee of success"
+  },
+  {
+    "id": 2442,
+    "topic": "Courage and Encouragement",
+    "premise": "discouragement|root|failures|psychological|development|social",
+    "conclusion": "Discouragement is the root of all failures of psychological development and social adaptation"
+  },
+  {
+    "id": 2443,
+    "topic": "Courage and Encouragement",
+    "premise": "encouragement|primary|technique|curative|factor|adlerian",
+    "conclusion": "Encouragement is the primary technique and curative factor in Adlerian therapy"
+  },
+  {
+    "id": 2444,
+    "topic": "Courage and Encouragement",
+    "premise": "therapy|process|systematically|discouraging|mistaken|lifestyle",
+    "conclusion": "Therapy is a process of systematically discouraging the mistaken lifestyle while encouraging the client's innate potential for courage and social interest"
+  },
+  {
+    "id": 2445,
+    "topic": "Courage and Encouragement",
+    "premise": "courage|manifests|imperfect|accepting|flaws|still",
+    "conclusion": "Courage manifests as the courage to be imperfect, accepting one's flaws while still striving"
+  },
+  {
+    "id": 2446,
+    "topic": "Courage and Encouragement",
+    "premise": "pampering|neglect|childhood|primary|sources|trained",
+    "conclusion": "Pampering and neglect in childhood are the two primary sources of trained discouragement"
+  },
+  {
+    "id": 2447,
+    "topic": "Courage and Encouragement",
+    "premise": "therapist|role|fellow|traveler|encourager|authority",
+    "conclusion": "The therapist's role is that of a fellow traveler and encourager, not an authority figure"
+  },
+  {
+    "id": 2448,
+    "topic": "Courage and Encouragement",
+    "premise": "encouragement|focuses|effort|progress|attitude|results",
+    "conclusion": "Encouragement focuses on effort, progress, and attitude, not just results"
+  },
+  {
+    "id": 2449,
+    "topic": "Courage and Encouragement",
+    "premise": "building|courage|allows|client|give|neurotic",
+    "conclusion": "Building courage allows the client to give up their neurotic safeguards"
+  },
+  {
+    "id": 2450,
+    "topic": "Courage and Encouragement",
+    "premise": "truly|encouraged|individual|longer|needs|feel",
+    "conclusion": "A truly encouraged individual no longer needs to feel superior to others, but finds satisfaction in contributing to the common welfare"
+  },
+  {
+    "id": 2451,
+    "topic": "Holism",
+    "premise": "individual|indivisible|self|consistent|whole|psychology",
+    "conclusion": "The individual is an indivisible, self-consistent whole (Individual Psychology)"
+  },
+  {
+    "id": 2452,
+    "topic": "Holism",
+    "premise": "personality|cannot|split|conflicting|parts|superego",
+    "conclusion": "Personality cannot be split into conflicting parts (id/ego/superego); it is a unified system moving toward a single goal"
+  },
+  {
+    "id": 2453,
+    "topic": "Holism",
+    "premise": "parts|psyche|thoughts|feelings|actions|dreams",
+    "conclusion": "All parts of the psyche\u2014thoughts, feelings, actions, dreams, symptoms\u2014serve the overall lifestyle"
+  },
+  {
+    "id": 2454,
+    "topic": "Holism",
+    "premise": "phenomenology|understand|individual|subjective|reality|private",
+    "conclusion": "Phenomenology is key: one must understand the individual's subjective reality (private logic), not an objective truth"
+  },
+  {
+    "id": 2455,
+    "topic": "Holism",
+    "premise": "whole|greater|parts|analyzing|drives|instincts",
+    "conclusion": "The whole is greater than the sum of its parts; analyzing drives or instincts in isolation is meaningless"
+  },
+  {
+    "id": 2456,
+    "topic": "Holism",
+    "premise": "contradictory|behaviors|different|expressions|underlying|goal",
+    "conclusion": "Contradictory behaviors are different expressions of the same underlying goal (e.g., aggression and submission can both aim for control)"
+  },
+  {
+    "id": 2457,
+    "topic": "Holism",
+    "premise": "holistic|view|rejects|dichotomies|like|conscious",
+    "conclusion": "The holistic view rejects dichotomies like conscious/unconscious, mind/body, as they are aspects of the whole person"
+  },
+  {
+    "id": 2458,
+    "topic": "Holism",
+    "premise": "principle|demands|therapists|treat|symptom|isolation",
+    "conclusion": "This principle demands that therapists never treat a symptom in isolation, but always see it in the context of the whole personality and life pattern"
+  },
+  {
+    "id": 2459,
+    "topic": "Holism",
+    "premise": "social|interest|holistic|principle|integrates|individual",
+    "conclusion": "Social interest is the holistic principle that integrates the individual with the larger social whole"
+  },
+  {
+    "id": 2460,
+    "topic": "Holism",
+    "premise": "understanding|final|goal|provides|whole|person",
+    "conclusion": "Understanding the final goal provides the key to understanding the whole person"
+  },
+  {
+    "id": 2461,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "symptoms|purposive|goal|directed|random|misfirings",
+    "conclusion": "Symptoms are purposive and goal-directed, not random misfirings"
+  },
+  {
+    "id": 2462,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "symptoms|created|maintained|serve|useful|function",
+    "conclusion": "Symptoms are created and maintained because they serve a useful function for the patient"
+  },
+  {
+    "id": 2463,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "primary|function|symptoms|safeguarding|self|esteem",
+    "conclusion": "The primary function of symptoms is safeguarding self-esteem and the chosen lifestyle"
+  },
+  {
+    "id": 2464,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "symptoms|used|excuse|failure|anxiety|depression",
+    "conclusion": "Symptoms are used to excuse failure (I can't because of my anxiety/depression/pain)"
+  },
+  {
+    "id": 2465,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "symptoms|used|dominate|control|others|weakness",
+    "conclusion": "Symptoms are used to dominate and control others through weakness (You must care for me because I am ill)"
+  },
+  {
+    "id": 2466,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "symptoms|create|distance|feared|life|task",
+    "conclusion": "Symptoms create a distance from a feared life task (e.g., agoraphobia distances from social obligations)"
+  },
+  {
+    "id": 2467,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "patient|lying|experience|real|suffering|symptom",
+    "conclusion": "The patient is not lying; they experience real suffering, but the symptom is still being used for an unconscious goal"
+  },
+  {
+    "id": 2468,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "therapy|directly|confronting|symptom|often|first",
+    "conclusion": "In therapy, directly confronting the use of the symptom is often the first step toward change"
+  },
+  {
+    "id": 2469,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "symptom|persist|long|patient|believes|necessary",
+    "conclusion": "The symptom will persist as long as the patient believes it is necessary for their psychological survival"
+  },
+  {
+    "id": 2470,
+    "topic": "Use and Misuse of Symptoms",
+    "premise": "goal|simply|remove|symptom|make|unnecessary",
+    "conclusion": "The goal is not simply to remove the symptom, but to make it unnecessary by building courage and social interest"
+  },
+  {
+    "id": 2471,
+    "topic": "Parenting and Education",
+    "premise": "primary|goal|parenting|education|foster|child",
+    "conclusion": "The primary goal of parenting/education is to foster the child's social interest and courage"
+  },
+  {
+    "id": 2472,
+    "topic": "Parenting and Education",
+    "premise": "great|parenting|errors|pampering|creating|dependency",
+    "conclusion": "The two great parenting errors are pampering (creating dependency) and neglect (creating hostility)"
+  },
+  {
+    "id": 2473,
+    "topic": "Parenting and Education",
+    "premise": "parents|model|cooperation|equality|mutual|respect",
+    "conclusion": "Parents should model cooperation, equality, and mutual respect in the home\u2014a democratic family council"
+  },
+  {
+    "id": 2474,
+    "topic": "Parenting and Education",
+    "premise": "natural|logical|consequences|preferable|punishment|reinforces",
+    "conclusion": "Natural and logical consequences are preferable to punishment, which only reinforces power struggles and discouragement"
+  },
+  {
+    "id": 2475,
+    "topic": "Parenting and Education",
+    "premise": "core|discipline|encouragement|catch|child|useful",
+    "conclusion": "The core discipline is encouragement\u2014catch the child being useful and cooperative"
+  },
+  {
+    "id": 2476,
+    "topic": "Parenting and Education",
+    "premise": "sibling|rivalry|inevitable|product|competition|significance",
+    "conclusion": "Sibling rivalry is not inevitable; it is a product of competition for significance in an undemocratic family atmosphere"
+  },
+  {
+    "id": 2477,
+    "topic": "Parenting and Education",
+    "premise": "teachers|social|engineers|correct|mistaken|lifestyles",
+    "conclusion": "Teachers are social engineers who can correct mistaken lifestyles formed in the family"
+  },
+  {
+    "id": 2478,
+    "topic": "Parenting and Education",
+    "premise": "education|focus|preparing|children|three|life",
+    "conclusion": "Education must focus on preparing children for the three life tasks, not just academic knowledge"
+  },
+  {
+    "id": 2479,
+    "topic": "Parenting and Education",
+    "premise": "mistaken|behaviors|goal|oriented|understand|child",
+    "conclusion": "Mistaken behaviors are goal-oriented; understand the child's private goal (e.g., attention, power, revenge, display of inadequacy) to correct it effectively"
+  },
+  {
+    "id": 2480,
+    "topic": "Parenting and Education",
+    "premise": "ultimate|child|rearing|raise|contributing|members",
+    "conclusion": "The ultimate aim of child-rearing is to raise contributing members of a democratic society"
+  },
+  {
+    "id": 2481,
+    "topic": "Democracy in Family and Society",
+    "premise": "mental|health|synonymous|preparation|democratic|social",
+    "conclusion": "Mental health is synonymous with preparation for a democratic social life"
+  },
+  {
+    "id": 2482,
+    "topic": "Democracy in Family and Society",
+    "premise": "family|training|ground|democracy|based|cooperation",
+    "conclusion": "The family is the training ground for democracy; it must be based on cooperation, not tyranny or anarchy"
+  },
+  {
+    "id": 2483,
+    "topic": "Democracy in Family and Society",
+    "premise": "authoritarian|parenting|produces|subjects|either|rebel",
+    "conclusion": "Authoritarian parenting produces subjects who either rebel or submit, but do not cooperate"
+  },
+  {
+    "id": 2484,
+    "topic": "Democracy in Family and Society",
+    "premise": "pampering|parenting|produces|entitled|rulers|cannot",
+    "conclusion": "Pampering parenting produces entitled rulers who cannot function as equals"
+  },
+  {
+    "id": 2485,
+    "topic": "Democracy in Family and Society",
+    "premise": "democratic|family|operates|shared|rules|mutual",
+    "conclusion": "A democratic family operates with shared rules, mutual respect, and discussion (family council)"
+  },
+  {
+    "id": 2486,
+    "topic": "Democracy in Family and Society",
+    "premise": "social|interest|psychological|foundation|democracy|feeling",
+    "conclusion": "Social interest is the psychological foundation of democracy\u2014the feeling of being part of the whole and caring for its welfare"
+  },
+  {
+    "id": 2487,
+    "topic": "Democracy in Family and Society",
+    "premise": "social|pathologies|crime|prejudice|stem|failed",
+    "conclusion": "All social pathologies (crime, prejudice, war) stem from failed development of social interest, a psychic shortcoming"
+  },
+  {
+    "id": 2488,
+    "topic": "Democracy in Family and Society",
+    "premise": "true|equality|sameness|worth|dignity|voice",
+    "conclusion": "True equality is not sameness, but equality of worth, dignity, and voice"
+  },
+  {
+    "id": 2489,
+    "topic": "Democracy in Family and Society",
+    "premise": "adlerian|psychology|inherently|socially|engaged|reformist",
+    "conclusion": "Adlerian psychology is inherently socially engaged and reformist, aiming to create conditions that foster healthy development"
+  },
+  {
+    "id": 2490,
+    "topic": "Democracy in Family and Society",
+    "premise": "ultimate|goal|individual|society|progress|toward",
+    "conclusion": "The ultimate goal for the individual and society is progress toward perfect social interest, or a community of all mankind"
+  }
+]

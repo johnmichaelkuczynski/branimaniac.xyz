@@ -1,0 +1,907 @@
+Part III
+
+Knowledge and Inductive Inference
+
+Chapter 10
+
+Knowledge
+
+1.0 The ambiguity of the word “know”
+
+The term “know” is ambiguous. Sometimes it refers to awareness of objects, as in “I know Smith.” But oftentimes it refers to awareness of truths, as in “I know that snow is white.”
+
+Other languages use different verbs to mark this difference. For example, in Spanish, when one speaks of knowing people, one uses the verb “conocer,” and when one speaks of knowing truths, one uses the verb “saber.” German also uses different words to mark this distinction (“kennen,” for knowing people, and “wissen” for knowing truths). Russian does not. It is like English, and uses one verb—“znat”—for awareness of both people and truths.
+
+This last fact is suggestive. If English were the only language that had just one word for both kinds of awareness, its doing so would be a mere idiosyncrasy—a random fact about one language that didn’t reveal anything inherent in human thought. But the fact that other languages do the same thing suggests that there is a general tendency not to distinguish these two very different kinds of knowledge. We will find that, in fact, this tendency of ours has a solid epistemological basis and is therefore not a logical faux pas. However counterintuitive it may seem, knowledge of people is, we will find, knowledge of truths.
+
+1.1 The philosophical meaning of the word “know”
+
+In philosophy, when we talk about “knowledge,” we are primarily, but not exclusively, concerned with knowledge of truths. Nonetheless, we will find that the distinction between knowledge of truths, on the one hand, and knowledge of individuals, on the other, is of great importance.
+
+We will find later that the word “know” is actually ambiguous in additional ways. For example, psychologists and philosophers often talk about “procedural” knowledge. Any case of anyone’s being able to do anything is a case of procedural knowledge. My ability to play the piano is a case of procedural knowledge; so is my ability to speak English; and so is my ability to tie my shoes.
+
+Many deny that procedural knowledge is bona fide knowledge. This is the exact opposite of the truth. What the virtuoso knows procedurally, the incompetent neophyte knows only discursively. As it deepens, knowledge becomes increasingly proceduralized. Non-procedural knowledge is poorly integrated knowledge; it is knowledge that hasn’t yet established the links to other pieces of knowledge that are needed to mobilize it. Procedural knowledge is knowledge that is sufficiently well-integrated to have established these links. It is therefore indefensible to hold that procedural knowledge is non-knowledge. We’ll say more about this in Section 9.3.
+
+We’ll find that the word “know” has meanings additional to those already discussed. But for the time being, when the word “know” is used, assume that it is referring to knowledge of truths, unless there is an explicit indication to the contrary.
+
+It should be pointed out that, even though, for the reasons given, the word “know” seems to have many meanings, some philosophers maintain that ultimately all knowledge is identical with knowledge of truths—in other words, that awareness of objects and also procedural knowledge, along with the other kinds of knowledge that we will talk about, are ultimately just different ways of knowing truths. But this is extremely controversial.
+
+2.0 Knowledge as justified true belief
+
+One cannot know something false. Of course, people often firmly believe that they know things that are in fact false. People can believe that the Earth is flat with as much conviction as they can believe that the Earth is round. The distinction between a true belief and a false one is not always marked by internal psychological or emotional differences. For example, one cannot tell whether a belief that one has is true or false merely on the basis of the intensity of that belief. In any case, it is a simple fact that only truths can be known.
+
+All cases of knowledge are cases of belief. If you know something, you believe it. If you know that Paris is the Capital of France, you believe it. If, speaking non-ironically, somebody said “I know that Paris is the capital of France, but I don’t believe it,” that person would be uttering nonsense.
+
+But not all instances of belief are instances of knowledge. We’ve already seen one reason for this. False beliefs are not knowledge. But there is another reason why not all belief is knowledge. A belief must be justified if it is to be knowledge.
+
+A lucky guess is not knowledge. Suppose that you’re taking a multiple-choice test and you come across the following question:
+
+
+
+With what digit does Professor Kuczynski’s phone number end?
+
+
+
+(a) 9
+
+(b) 3
+
+(c) 2
+
+(d) 0
+
+(e) none of the above
+
+
+
+A lucky guess will be enough for credit on the test, but it won’t be enough for knowledge. You have must have some good reason for your choice. Your opinion as to what the right answer is must be justified for it to qualify as knowledge.
+
+There are a lot of ways that you can have such a justification. Maybe I’ve told you my number. Maybe you saw it on one of my class handouts. Maybe you hired a private detective to find it out. All of these would be good sources of justification. But without some such source, you don’t have knowledge.
+
+Also, spurious reasons that happen to lead to the right answer are not enough for knowledge. Suppose that you believe, wrongly, that all people with red hair have cancer; and also suppose that, for that reason, you believe that your red-haired friend Bob has cancer. It may be that Bob does have cancer. But your reason for believing this is spurious; so you don’t know it.
+
+It is a general principle of logic that false premises can lead to true conclusion; misinformation can lead to correct beliefs. Of course, accurate information is much more reliable than misinformation. A person whose methods are sound and whose premises are correct is considerably more likely than he would otherwise be to find out the truth. But false premises and unsound methodologies can lead to truth. When it happens, it’s a kind of accident, as our previous example shows. But accidents do happen.
+
+So for something to be knowledge it must have the following three characteristics:
+
+
+
+(1) it must be true;
+
+(2) it must be a belief; and
+
+(3) it must be justified.
+
+
+
+Thus, all cases of knowledge are cases of justified true belief.
+
+2.1 What constitutes justification?
+
+We must define a few more terms before we can answer this question. The term “perceptual” means having to do with sense-perception—that is, with sight, hearing, sound, taste, smell, bodily sensations (e.g., stomach aches), and also sensations of motion and resistance. I know that there is a computer in front of me because I can see it. (In any case, this is part of the story: there’s more to it, as we’ll see later.) I know that the stove is hot because I touched it. I know that one cup is heavier than another because I feel a greater degree of resistance when I try to move the one than when I try to move the other. (Notice that this last kind of perception isn’t identical with one’s sense of touch, even though it involves the use of touch.)
+
+The term “introspective” refers to the direct awareness that one often has of one’s own mental contents. Right now I am aware of the fact that I am having thoughts—that, more specifically, I am having thoughts about the theory of knowledge (I’m writing about it), about this chapter (I hope that I’ve finished writing it by tomorrow), and about tonight’s dinner (it’ll be chicken). My knowledge of this is not based on the use of my senses: I don’t see or touch those thoughts. At the same time, that knowledge seems not to involve my making inferences: I seem to be directly, non-inferentially aware that I am having them.
+
+Bearing all of this in mind, let us consider the question: under what circumstances is one justified in having a belief? Many different kinds of facts can be known; and, as we’ll see, the way in which a belief must be justified for it to be knowledge depends on the category into which the fact in question falls. But there are ultimately only three sources of justification: (a) perceptual evidence, (b) introspective evidence and (c) rational inference. Some cases of knowledge involve only (c); some cases of knowledge are a combination of (a) and (b); the majority of cases involve a combination of both (a) and (c). Some philosophers have argued that whenever (a) is involved, so is (b).
+
+2.2 Can testimony constitute a source of justification?
+
+There is much that a given person knows that he hasn’t personally verified—much that he knows because he is told it. Such telling can take various forms: it can consist of written or spoken speech, photographs, and drawings. (This list is not complete.)
+
+I haven’t personally looked at the Earth from outer space. But I still know that it is approximately spherical. How do I know this? Because I’ve been told it. Using speech, writing, photographs, drawings, and possibly other media, various people have told me various things that justify me in believing that the Earth is spherical. For similar reasons, I have at least some knowledge about what kinds of activities are likely to bring about lung cancer and about the political situation in distant parts of the Earth, even though I have not personally done cancer research or personally visited those parts of the Earth.
+
+But, of course, not all beliefs that are based on testimony qualify as knowledge. First of all, much of what we are told is false. But even true beliefs that are based on testimony are not always knowledge. To qualify as knowledge, testimony-based belief must (a) come from a reliable source and (b) the person being given the testimony must have independent evidence of the reliability of that source.
+
+A story may clarify this. I belong to a cult. My cult leader wants me to drink a certain beverage. He has told me that it is extremely nutritious. As it happens, it is nutritious—the cult leader has told me the truth. Further, I believe that the beverage is nutritious. But the reason for this is not that I have any actual evidence that the cult leader is well-informed or truthful; the reason is that, for purely emotional reasons, I believe everything the cult leader tells me.
+
+Here I have a true belief—I believe, correctly, that the beverage is nutritious. But do I know this fact? No. And the reason is that I don’t have good reason to believe that the cult leader is in fact telling the truth—even though, in this case, he is telling the truth. The data that I have concerning the cult leader—more specifically, concerning the likelihood of his stating truths as opposed to falsehoods—does not warrant my accepting what he is saying.
+
+Here’s another story. A world-renowned physician has told me that I have arthritis. His opinion is based on his expertise and also on the results of various tests that he has performed on me. He is right—I do in fact
+
+have a mild case of arthritis. Further, I am aware of the fact that he is an arthritis expert and that he has conducted various tests.
+
+In this case, I obviously do have reason to believe the testimony I am being given. My belief is therefore justified and it is, or at least could be, a case of knowledge. (I say “or at least could be” because, for reasons that we’ll discuss later, even beliefs that are true and justified aren’t always knowledge.)
+
+So a testimony-based, true belief can be knowledge. But it is necessary that the person who has that belief have some reason to believe that the source of the testimony is accurate.
+
+Notice that testimony-based belief involves a combination of perceptual knowledge and also of rational inference. You must perceive the words that are being told to you. (You hear them or see them, depending on whether they are written or spoken.) You must also have perceived some kind of evidence of the truthfulness of the source of testimony. Finally, from those two sources of perceptual information, you must infer that the source of testimony is reliable. So testimony-based knowledge involves a combination of (a) and (c).
+
+2.2.1 A point concerning testimonial knowledge
+
+When we’re growing up, we’re told many true things by parents, teachers, and other figures of authority. During our earlier years, we obviously don’t have independent corroboration for the testimony of these people. And yet we’re inclined to say that we know the things they told us.
+
+What I believe to be going on is that, at first, we didn’t know these things. We just believed them. But then we either came to have evidence of the reliableness of the people who told them to us or we discovered them for ourselves.
+
+3.0 Knowledge as hyper-justified true belief
+
+Not all cases of justified true belief are cases of knowledge. It is only when one has a belief that is true and that is justified in a rather specific way that one has knowledge. More specifically, one has knowledge only when one has a belief that is true and justified and, moreover, one’s being justified in holding that belief is non-accidentally related to that belief’s being true.
+
+A story will help clarify this. You work at some company. Smith is a fellow employee of yours. He is an excellent worker; the boss likes him; he’s overdue for a promotion; and the boss, who is honest and rewards good work, has just announced that he’s going to give a promotion to somebody (but he hasn’t said who). Further, you know all of these facts. You also know that Smith drives a Ford. On the basis of this information, you form the belief that:
+
+
+
+(*) somebody who drives a Ford is about to be given a promotion.
+
+
+
+Obviously this belief is justified, since your reasons for holding it are solid.
+
+And that belief turns out to be true—but not for the reason that you have in mind. Smith does not get the promotion. The boss gives the promotion to Jones. Jones is a terrible employee, as you know. But what you don’t know, and had no way of knowing is that the boss owes a huge favor to Jones’ dad, who is a local and exceptionally vindictive Mafia boss. So, acting with an uncharacteristic disregard for merit, the boss gives the promotion to Jones. By sheer coincidence, Jones drives a Ford.
+
+In light of this, let’s look at your belief in *. First of all, that belief is true—a Ford driver (namely, Jones) was given a promotion. Second, it’s justified. We’ve already seen why. You were justified in believing that Smith, whom you knew to be a Ford driver, was going to be a given a promotion. That belief turned out to be wrong—but it was still justified.
+
+So your belief in * is true and justified. It is thus a justified true belief.
+
+But is it knowledge? No. It’s pure coincidence that Jones, who you had no way of knowing would get the promotion, drives a Ford. You’re right a Ford driver would get the promotion, and your belief is justified. But you still believe it for the wrong reasons. (A justified belief can thus be had for the wrong reasons.) And that’s 
+
+why it isn’t knowledge.
+
+This shows that there can be justified true beliefs that are not knowledge. It shows that, for something to be knowledge, it is not sufficient that it satisfy conditions (1)–(3), even though, for the reasons discussed earlier, it is necessary.
+
+The argument just stated was given by Edmund Gettier (1963). Bertrand Russell (1912) gave a similar argument. You look at a clock that is in fact broken but that you believe, and have every reason to believe, is in good working order. According to the clock, the time is 4:00 P.M. In fact, that is the actual time. But the clock is broken, and it is therefore a fluke that it gave you the right time. Your belief that it is 4:00 P.M. is thus true and justified, but it isn’t knowledge.
+
+3.1 Knowledge as non-accidentally justified true belief
+
+We’ve seen that for something to be knowledge, it isn’t enough that it be a justified, true belief, and that it must therefore satisfy some fourth condition. There is considerable debate as to the precise nature of that fourth condition, but it is seems clear that, when stated very approximately, it must be this:
+
+
+
+(4) if a given belief is to be knowledge, there must be a non-accidental connection between one’s reason for having that belief, on the one hand, and the fact in virtue of which that belief is true, on the other: justification and truth must be non-accidentally connected.
+
+
+
+So for something to be knowledge is for it to satisfy the following four conditions:
+
+
+
+(1) it must be true;
+
+(2) it must be a belief;
+
+(3) it must be justified; and
+
+(4) there must be a non-accidental connection between the justification for the belief and the fact which makes the belief true.
+
+
+
+Thus:
+
+
+
+(K) knowledge is a non-accidentally justified true belief.
+
+
+
+There must, in other words, be some kind of principled, as opposed to a strictly fortuitous, relationship between the justification of the belief, on the one hand, and its being true, on the other.
+
+But K is much too vague to be considered a solution to the problem at hand. What does the word “non-accidentally” mean in this context? Until we know the answer to that, we don’t know what knowledge is. We’ll now try to supply that answer.
+
+3.2 This position refined
+
+Let’s consider Russell’s clock story. You were right to believe that it’s 4:00 P.M., and you are also justified in having that belief. Your immediate justification consists in your belief that:
+
+
+
+(RT) The clock is now telling me that it’s 4:00 P.M.
+
+
+
+But by itself a belief in RT wouldn’t be enough to justify you in believing that it’s 4:00 P.M. If you had no grounds for accepting RT, or only bad grounds, your acceptance of it would not provide you with any justification for believing the time to be 4:00 P.M. But you are justified in accepting RT; and here is that justification:
+
+(OB) In my extensive past experience, the clock has always been right. I also know that the building superintendent, who is in charge of making sure all the clocks are working, is very capable and diligent. These facts ensured that, if the clock says that it’s a certain time of day, that’s because it really is that time of day. That’s why the clock is now telling me that t it’s 4:00 P.M.
+
+
+
+Of course, the italicized part of OB is identical with rt.
+
+Notice that OB is an explanation of a fact—of the fact that the clock is now telling you that it’s 4:00 P.M. It is on the basis of your acceptance of RT that you believe the time to be 4:00 P.M. But OB is the wrong explanation of RT. The right explanation is that the clock is broken and, for that reason, always reads 4:00 P.M.
+
+A story will help us move forward. You believe that Larry is in Texas, and your belief is justified. Earlier today, you saw Larry get on a plane. By all indications, the plane was Texas-bound. (It’s flight 71 and, according to the overhead monitor, that flight is bound for Texas.) When Larry got to Texas, he called you on his cell phone/video phone. He was standing next to a well-known Texas landmark (or, at the very least, a perfect duplicate therefore). On that basis, you believe that, indeed, Larry is in Texas. And, in fact, he is in Texas.
+
+Moreover, no off-the-wall, Gettier-type event infiltrated this sequence. In other words, what happened is nothing like the following:
+
+
+
+Alternative Scenario (AS): Larry got on the plane. But Martians re-routed the plane to Barbados. For some reason, they then transported Larry to Texas. In Texas, somebody other than Larry, who looks and sounds just like him, calls you and tells you that “he” (which you take to mean “Larry”) safely arrived in Texas. On that basis, you believe that Larry is in Texas. Which he is, and which you’re justified in believing, but which, clearly, you don’t know to be the case.
+
+
+
+No—neither AS nor anything at all like it occurred. What happened is exactly what you thought happened. And you therefore know that Larry is in Texas. (Let’s say that this story—the one where you know that Larry is in Texas—takes place in the “real world,” even though, of course, it’s no less a hypothetical than AS.) 
+
+Why do you know it in the real world, but not in the world described by AS? Let’s look at the data on which, in the real world, your belief is based. Although you see Larry get on the plane, you don’t see him deplane in Texas. You do see various images (on your cell phone/video phone) that are consistent with his being in Texas; and you encounter a lot of other things that, were Larry not to be in Texas, would be very hard to explain. Your belief that Larry is in Texas (after sitting on a certain plane, etc.) is not only justified: it also constitutes a correct explanation of the data that justifies your belief that he is in Texas. Your belief that, after sitting on a certain plane (etc.), Larry is in Texas correctly explains why your cell phone is giving rise to these various images and noises.
+
+Thus, your belief is not only justified, but hyper-justified. A belief is hyper-justified if it’s justified and, moreover, embodies a correct explanation of the data that is doing the justifying.
+
+In AS, your belief is justified, but not hyper-justified. Your belief is based on the same images and, in general, the same data that it’s based on in the real world. But, in AS, your beliefs as to what caused those images and noises to occur are wrong. (You explained their occurrence by wrongly supposing that Larry produced them after being transported by non-Martians to Texas.) So, in AS, your justified belief isn’t knowledge because it isn’t hyper-justified. I propose, then, that:
+
+
+
+(KN) Knowledge is hyper-justified true belief.
+
+4.0 Conceptual (analytic) versus empirical (synthetic) knowledge
+
+Some knowledge is purely conceptual; and some knowledge has a non-conceptual component. Knowledge that is purely conceptual is described as “analytic.” Knowledge that has a non-conceptual component is described as “synthetic.”
+
+Consider the statement:
+
+
+
+(#) Circles are figures of uniform curvature.
+
+
+
+# is true. And you know that it's true. You thus have knowledge of #. How does one become justified in believing #? Answer: by examining the statement itself. More specifically, by examining the components of that statement—the concepts circle, curvature, uniform, and so on. So your knowledge of # is purely conceptual. In other words, it is “analytic.”
+
+Analytic knowledge is so-called because it is acquired by analyzing the object of belief. Whenever statement-analysis is sufficient, by itself, to yield knowledge, that knowledge is analytic.
+
+Most knowledge is non-analytic. Consider the statement:
+
+
+
+(##) Donald Rumsfeld was born in the United States.
+
+
+
+An examination of that statement is not enough to know whether it is true or false. It doesn’t matter how much you dissect it and examine its components. In order to be justified in having a view, one way or the other, as to whether it is true, and in order therefore to know whether it is true, it is necessary to consider matters of fact of which no amount of conceptual analysis will apprise you. It is necessary to look at birth records or to ask informed people, or some such.
+
+Thus, if one knows that ## is true, that knowledge is non-conceptual. In other words, it is non-analytic or, as philosophers sometimes say, synthetic.
+
+4.1 More on the analytic-synthetic distinction
+
+Although some philosophers have held otherwise, I think it is fair to say that synthetic knowledge is identical with knowledge of spatiotemporal facts, whereas analytic knowledge is knowledge of properties.
+
+To know ##, for example, is to know something about the spatiotemporal world—the world of things that occupy space and time. By contrast, to know # is to know about unchanging, non-temporal (and therefore non-spatial) relations among properties.
+
+In this chapter, we will operate on the reasonable, though debatable, assumption that all synthetic knowledge is knowledge of some fact or other about the spatiotemporal realm. So, in this context, the terms “spa-tiotemporal knowledge” and “synthetic knowledge” may be used interchangeably. In Chapter 18, it is shown that, in fact, synthetic knowledge is identical with spatiotemporal knowledge.
+
+5.0 Knowledge of specific facts versus knowledge of dependence-relations among facts
+
+There is an important division within the category of spatiotemporal, or synthetic, knowledge. There is knowledge of specific facts, and there is also knowledge of causal or nomic relations among facts.
+
+The term “nomic” means “having to do with natural law.” Consider the fact that there is a combustion whenever a lit match is brought in contact with gasoline. Obviously that is not a coincidence. There is clearly some kind of principled relationship between, on the one hand, something’s being gasoline that is brought into contact with flame and, on the other hand, something’s combusting. Some kind of causal relationship is at work.
+
+Technically speaking, not all nomic relations are causal. But the distinction between causal and nomic relationships is a rather subtle one, and in this chapter we will ignore it. (In Chapter 17, Sections 9.0–9.6, it is made clear why not all nomic dependencies are causal dependencies.)
+
+Causal relations are instances of natural laws. If x causes y, that is because there is some law of nature to the effect that things that, in some relevant respect, resemble x always bring about things that, in some relevant respect, are like y.
+
+Causal relations typically involve sequences of events. But not all sequences of events are causal. When I bring my hands together quickly, a noise occurs—there is a clapping sound. That sequence of events is clearly causal in nature: the collision of my hands caused the sound to occur. But suppose that, just after I bring my hands together, one of you suddenly feels a tickle. That is not a causal sequence: it’s just a coincidence.
+
+The natural law of which a given causal sequence is an instance is known as the covering law for that sequence.
+
+To know a natural law is to know a fact about the spatiotemporal world. Natural laws are not in the same category as #: such laws are not of a strictly logical, philosophical, or mathematical nature. It is not possible to know of natural laws merely on the basis of conceptual analysis. Such knowledge can be acquired only through investigation of the spatiotemporal world. It is only through such investigation that one can know that the speed of light is 186,000 mph/second, that objects gain mass as they accelerate, that the force with which two bodies attract each other is proportional to their masses.
+
+Of course, some natural laws strike us as extremely obvious. We find it obvious that unsupported objects fall. But that is not because such knowledge is analytic; it is only because the relevant spatiotemporal knowledge constantly forces itself upon us.
+
+Even though knowledge of natural law is spatiotemporal knowledge, such knowledge tends to have a highly general character and is thus, in that respect, comparable to many cases of analytic knowledge (e.g., one’s knowledge of #). Knowledge of the laws of physics is very general knowledge. To know such laws is to know this or that specific fact, and is instead to know a fact about how events in general are interrelated.
+
+But most spatiotemporal knowledge is highly specific. You know where you live; you know what toothpaste tastes like; you know where you parked your car; you know that Barack Obama is now the president. Such knowledge concerns matters of specific fact and not dependence-relations holding among facts in general.
+
+It must be emphasized, however, that even though knowledge of natural law is general and is, from that viewpoint, similar to knowledge of logical or philosophical principles, knowledge of natural law is synthetic, whereas knowledge of logico-philosophical truths is analytic.
+
+6.0 Knowledge of the future, the past, and the merely possible
+
+Many future facts are not known and many future facts cannot possibly be known. But surely we are able to know at least some facts about the future.
+
+One can know about the future because (i) on the basis of sense-perception, one can know about the present and (ii) one can know general principles, or causal laws, that link the present with the future. Right now I know that there is water in the pitcher in front of me. I also know of the general fact that, under conditions relevantly like those that obtain in my kitchen, an open, overturned pitcher containing non-viscous liquid will release that liquid. Further, I know that I have an intention to tip the pitcher, so as to fill the glass of water in front of me. On the basis of these pieces of knowledge, I can obviously have a non-accidentally justified true belief to the effect that, in a moment, water will be flowing from the pitcher into the glass.
+
+Knowledge of the future always has two ingredients: first, knowledge of present conditions and, second, knowledge of causal laws that, given circumstances similar to those known to obtain, yield certain outcomes. In some cases, the causal laws in question are of a relatively non-theoretical character. This was the case in the example, given a moment ago, concerning the water in the pitcher. In other cases, knowledge of the future may have an extremely theoretical character. This would be the case when, on the basis of relativity theory, a physicist predicts that the mass of a certain body will increase by a certain amount, by a certain time. But, in all cases, knowledge of the future is constituted by knowledge of causal laws that link known current states of affairs to future states of affairs.
+
+6.1 Knowledge of the past
+
+We can obviously have knowledge of the past. There are two forms that such knowledge takes. In some cases, knowledge of the past is direct: one actually remembers the fact in question. I remember driving to work yesterday. My knowledge of this fact doesn’t involve inferences made on the basis of causal laws.
+
+But in other cases one’s knowledge of the past is indirect, and all such knowledge does involve some knowledge of some kind of causal law. We know facts about the political institutions of ancient Rome. We obviously don’t remember such facts, since we didn’t personally experience them. So how do we know them? We have knowledge of certain current facts (e.g., certain currently existing records and ruins); and we also have knowledge of causal principles on the basis of which, given our knowledge of those current facts, inferences concerning the past—specifically, concerning what went on in Rome thousands of years ago—can be made.
+
+Here’s a simple example of the principle in question. You know that if you press an ink-filled pen against paper, inky lines will be deposited on the paper. (You also know, so let us suppose, that such lines are not likely to be deposited on paper in any other way.) This is knowledge of a causal principle. On the basis of your knowledge of this principle, plus your knowledge of current conditions, you can acquire either knowledge of the future or knowledge of the past. If you see that Smith is about to press his pen against the paper in his notebook, you know a fact about the future—you know that inky lines will soon result. On the other hand, if you see inky lines that were clearly made by a person, you know a fact about the past—you know that somebody dragged a pen across a certain piece of paper. Our knowledge of past events that we don’t personally remember (e.g., facts about ancient Rome) falls into this second category.
+
+When it is indirect, knowledge of the past has a structure that is similar to knowledge of the future. More specifically, past knowledge can be thought of as inverted future knowledge. We know the future when, using known causal laws, we project forward from known current conditions. We know the past when, using known causal laws, we project backwards from such conditions.
+
+6.2 Counterfactual knowledge
+
+We can have knowledge of what would have been. Even though Smith did not in fact fall off the ledge, I know that:
+
+
+
+(S) if Smith had fallen off the ledge, he would now be dead or severely injured.
+
+
+
+Propositions like S are called counterfactuals . In general, a counterfactual statement is one of the form if P, then Q, where it is assumed that P is false.
+
+Knowledge of counterfactuals is identical with knowledge of relations of either logical or causal dependence. To know S is to know of some causal law that, given a case of somebody’s falling from a great height, leads to that person’s breaking his or her leg. To know that “if x were a square, x would have four sides” is to know that “x has four sides” is a logical consequence of “x is a square.”
+
+Many contemporary philosophers take counterfactual statements to be statements about events in other universes. So they take:
+
+
+
+(K) “If Kennedy hadn’t been assassinated on Nov. 22, 1963, he would have been reelected in 1964”
+
+
+
+to mean that:
+
+
+
+(K#) There is some other universe where Kennedy was not assassinated on Nov. 22, 1963, but, up until that time, was as much like our world as that fact allows it to be. In that universe Kennedy was reelected in 1964.
+
+And they argue that:
+
+
+
+(S) “If Smith, who is 6-feet tall, were half his current height, he’d been 3-feet tall”
+
+
+
+means that:
+
+
+
+(S#) There is some alternative universe where Smith is half his current height. In that universe, Smith is 3-feet tall.
+
+
+
+This is preposterous. Any knowledge that we have about other universes is parasitic on our knowledge of modal truths. First, we know the counterfactuals. Only then do we know what’s going on in other worlds. It’s only thanks to our knowledge that 6 divided by 2 is 3, along with out knowledge that Smith is six feet tall, that we know that Smith would be 3 feet tall in a world where he were half his actual height. It’s only thanks to our knowledge that Kennedy was an enormously popular first-term President, along with our knowledge that popular incumbent Presidents win re-election, that we know that Kennedy would have won in 1964 had his life not been cut short.
+
+These pedestrian points show that other worlds are useless in the way of giving us modal knowledge. It also shows that modal truths don’t hold in virtue of what goes on in other worlds. S is obviously correct. Whatever it is that makes it correct, we don’t have to leave this world to have access to it. It follows that, given any true counterfactual statement S, it is in virtue of what happens in this world, and this world alone, that S is true.
+
+The real meanings of S and K are:
+
+
+
+(S*) the statement that Smith is 6-feet tall entails that the statement, for all values of x, ‹x is half Smith’s height› entails ‹x is 3-feet tall.›
+
+and
+
+
+
+(K*) “Kennedy’s assassination caused an otherwise unthreatened Kennedy not to be reelected.”
+
+
+
+For further discussion of the nature of counterfactual truth, see Chapter 17.
+
+7.0 Theoretical versus observational knowledge
+
+It seems that much of what we can know comes directly from sense-perception. I open my eyes in a well-lit room, and I can just see that there are chairs and people there.
+
+But much knowledge is theoretical. We don’t have direct knowledge of electrons or even of gravitational fields. We have direct knowledge of the effects of these things. (More accurately, we have relatively direct knowledge of such effects. We’ll see in a moment that our knowledge of these effects is itself indirect, even though it’s obviously less so than our knowledge of electrons, etc.) But in characterizing something directly perceived as the effect of “gravitation” or of the activity of “electrons,” we are going well beyond what we can literally see (or hear or touch, etc.), and we are assuming the existence of things whose existence can be justified only by theories of some kind or other. A theory is an explanation of what is directly experienced in terms of what is not directly experienced and whose existence is therefore not directly known.
+
+Freud and others have posited the existence of mental activity that we are not directly aware of and of which we are therefore “unconscious.” One obviously can’t be directly aware of unconscious mental activity. (Any mental activity that one is directly aware of is ipso facto conscious.) Thus, any knowledge that we have of the unconscious is inferential. In addition, such knowledge is also theoretical. But here we must take a moment to clarify the distinction between inferential and theoretical knowledge.
+
+A theory is an integrated set of statements that, if correct, describe some sector of reality that cannot be known strictly through sense-perception or introspection. All theoretical knowledge is inferential, but not all inferential knowledge is theoretical. If I see smoke, and I infer on that basis that there is fire, my inference isn’t theoretical. It doesn’t presuppose the truth of a theory. It assumes the truth of the statement “where there’s smoke, there’s fire,” which merely describes an observable concomitance, and therefore doesn’t qualify as a theory. But, supposing for argument’s sake that there is unconscious mental activity and that we can have knowledge of it, the inferences that yield such knowledge do presuppose theoretical knowledge. If I infer from the fact that you are accident-prone that you have hostility towards yourself, I am obviously making several assumptions as to the nature of the psyche. Further, those assumptions don’t merely register observable concomitances, and they aren’t independent of one another. Thus, those assumptions jointly constitute a theory. It follows that any knowledge that we have of the unconscious is of a theoretical character. In sections 7.0–7.1 we’ll say more about the distinction between theoretical and inferential knowledge.
+
+7.1 Is all knowledge theoretical?
+
+Some epistemologists and cognitive scientists maintain that even perceptual knowledge is theoretical. This position may seem strange at first, but there is at least one reason to think that it may be true.
+
+Even though you don’t have to do any work to generate your own sense-perceptions, your mind and nervous system certainly have to do a great deal of work. Consider the disturbances of your sensory surfaces that lead to your sense-perceptions. If the surface of a rock or a piece of wood were similarly disturbed, no sense-perception would result. What is the difference between you and a rock? Your mind can, whereas a rock cannot, process the relevant disturbances in the right way. It’s quite extraordinary that your mind is able to do this; for all it is given are various disturbances that, in and of themselves, bear no resemblance, or only an extremely abstract resemblance, to the things off of which the relevant photons (or whatnot) are bouncing. Nonetheless, on the basis of this meager information, your mind is able to generate perceptual representations that accurately depict those objects. The gulf between input and output—between, on the one hand, the surface-stimulations on the basis of which your mind generates its perceptions and, on the other hand, those perceptions themselves—bears a striking resemblance to the gulf between, on the one hand, the data on the basis of which a theoretical physicist posits the existence of a swarm of a certain kind of sub-atomic particle and, on the other hand, that particle-swarm itself. In the case of the theoretical physicist, that gulf can be bridged only by a theory. This suggests that the same is true of the gulf between disturbances of your eyes and the perceptions in which those disturbances eventuate.
+
+7.2 A priori versus a posteriori knowledge
+
+Thus, one must have knowledge in order to acquire perceptual knowledge. Given that even a newborn can have sense-perceptions, it follows that knowledge of some kind is coded into the innate structures of our minds.
+
+Such knowledge is referred to as a priori knowledge. Thus, knowledge is a priori if it is coded into the very structures of our minds and therefore pre-exists any perceptions that we have.
+
+If knowledge is not a priori, then it is referred to as a posteriori. Thus, a posteriori knowledge is acquired knowledge, and a priori knowledge that is within us, in some form, from the outset.
+
+It is a matter of considerable debate whether there is a priori knowledge and, if so, precisely what it is that known a priori. (My own strongly held view is that there is a priori knowledge.) Among those who believe that we have a priori knowledge are Plato, Leibniz, Kant, and Chomsky. Among those who deny it are Aristotle, Locke, and Quine.
+
+7.3 A second reason to think that perceptual knowledge is theoretical
+
+Suppose that X is some stop sign. If you look at X from a certain distance—from, say, a hundred feet away—it will appear a certain way to you. Given only how X appears to you from that distance, you cannot tell whether you are looking at an object that is around 8-feet tall and a hundred feet away or an object that is 1,000-feet tall and much further away or an object that is 6 inches tall and very nearby. Nonetheless, you know, when you are looking at X, that it is not 1,000-feet tall and far away or 6-inches tall and very close, and that it is around 8-feet tall and about a hundred feet away. Given that X’s appearance, by itself, does not reveal this to you, how do you know it? It is your background knowledge that, in conjunction with how X appears to you under the circumstances described, enables you to assign the right height to X. A continuation of our story may clarify this. Your friend Larry is right next to X. You can see the comparative heights of X and Larry; you can see that Larry is around three-fourths the height of X. So it is because of X’s appearance plus this background knowledge that you are able to determine X’s height.
+
+This must be understood correctly. You can just see how tall, approximately, X is. But, for the reasons just given, it seems that background knowledge of the kind just described seems to be involved in, and to some degree to constitute, your seeing this.
+
+An argument similar to that just given in connection with seeing X’s size can be given in connection with seeing any object’s size. Indeed, similar arguments can be given in connection with seeing any fact about any object—in connection with seeing how fast an object is moving, what shape it has, how far it is from one, and so on. And extensions of those arguments suggest what is true of seeing facts about physical objects is true of any kind of perceptual awareness of any fact about them.
+
+7.4. Inferential vs. theoretical knowledge
+
+There is a reason to hold that not all knowledge is theoretical, namely that many inferences are involved in knowing a theory and, consequently, inferential knowledge is a precondition for theoretical knowledge. Some background points are needed to make it clear why, at least arguably, this holds.
+
+First of all, not all inferences—not even all inferences that lead to correct conclusions—yield knowledge. If I infer that Bob has cancer on the grounds that he has red hair, my inference doesn’t yield knowledge, even if, by coincidence, Bob does have cancer. The reason my inference doesn’t yield knowledge is that the “inference rule” implicit in it—in other words, the principle that licenses it—isn’t a good one. That inference rule is: “if a person has red hair, he or she has cancer.” Since that rule obviously isn’t “truth-conducive”—since, in other words, that rule isn’t likely to yield correct conclusions, given correct premises—no inference made on the basis of it is legitimate. So for an inference that yields a correct conclusion to yield knowledge, one must make that inference on the basis of a legitimate inference rule.
+
+Theories are systems of statements standing in various dependence-relations with respect to one another. (The word “statement” here is not meant to have any linguistic overtones and should be taken as shorthand for “truth or falsehood.”) A dependence-relation holds between two statements if one of them supports the other—if, in other words, one of them provides some basis for inferring the other. Knowing that a dependence-relation holds between two statements involves either inferring the one from the other or, failing that, recognizing that such an inference could be legitimately made. For example, my recognizing that there is a dependence-relation between “there is fire at time t in place p” and “there is smoke at t* in p*,” where t* and p* are neighbors of t and p,” involves either my knowing one of them on the basis of the other or it involves my seeing that such inference would be legitimate. In either case, I have inferential knowledge. (Even if I happened to see the fire and the smoke, and thus didn’t have to infer “fire at t in p” from “smoke at t* in p*” or vice versa, my knowing that a dependence-relation holds between them involves my knowing that the one could be legitimately inferred from the other. And that knowledge, surely, deserves to be characterized as inferential.) Since, as we noted a moment ago, knowledge of dependence-relations precedes knowledge of theories, and since knowledge of such relations is inferential, it follows that inferential knowledge precedes theoretical knowledge.
+
+Of course, those who deny that all knowledge is theoretical don’t have this in mind. Usually those who hold that there is “direct” knowledge mean that there is no inferential knowledge—they use the terms “inferential” and “theoretically” interchangeably and therefore, since they’re not interchangeable, loosely.
+
+7.4.1 Inferential vs. theoretical knowledge (continued)
+
+To be made cogent, the foregoing discussion must be qualified in a couple of ways. These qualifications will bring out some principles whose importance extends far beyond the points just made.
+
+I said that a dependence-relation holds between two statements just in case one of them can be legitimately inferred from the other. Some might object to this on grounds like the following:
+
+
+
+Smith’s crashing the car might have resulted from his being drunk. So the statements “Smith was drunk at t” and “Smith crashed the car at t*.” But surely I cannot legitimately infer the second from the first. Given only that Smith is drunk, I can’t infer that he’ll crash his car. So, contrary to what you say, dependence-relations aren’t always backed by legitimate inference rules.
+
+
+
+First of all, it wasn’t merely Smith’s being drunk that led to his crash. It was his being drunk while being behind the wheel. (In fact, more than this is involved. He wouldn’t have crashed had the car in front of him not slowed down or if he hadn’t been talking on his cell phone when this happened. It was a confluence of factors—his drunkenness, the behavior of the driver in front of him, his own distractedness—that led to the crash. Total causes are always confluences of circumstances. Thus, the dependence-relation in question holds, not between the two statements cited by the objector, but between “at t, Smith crashed” and “at immediately preceding time t*, Smith was driving while drunk and talking on his cell phone, when the car in front of him suddenly slowed down.” The second statement does make it reasonable to infer that, at or around t, Smith crashed.
+
+Admittedly, the second statement doesn’t make it certain that he crashed. This is because the presumption that, given the various factors at play (his drunkenness and distractedness, the sudden deceleration of the car in front of him, etc.) the imminent crash could still be headed off. Maybe the person in the passenger-seat of Smith’s car wrenched the steering wheel to the right, just in time to avoid the crash. Not likely, but possible. Maybe Smith is somebody whose driving is enhanced by drunkenness. Not likely, but possible. But even though, given the operative conditions, Smith’s crashing cannot be known with certainty to occur, it doesn’t follow that the inference from “Smith was drunk and chatting on his cell phone [etc.]” to “Smith crashed” isn’t legitimate or, therefore, isn’t licensed by a truth-conducive inference rule. What follows is that the inference rule in question is defeasible. An inference rule is defeasible if (i) it provides a reasonable presumption that, given certain premises, a certain conclusion holds, but (ii) that presumption may turn out to be false if other facts, not in evidence, happen to intercede.
+
+There is a big difference between an inference rule that is defeasible, on the one hand, and one that is simply bad (i.e., not truth-conducive), on the other. A bad inference rule provides no reason for inferring one thing from another. A defeasible inference rule (when good) does provide such a reason. It doesn’t provide as good a reason as a non-defeasible inference rule. But that doesn’t mean that it’s not good at all; goodness (truth-conduciveness) comes in degrees.
+
+7.4.2 Rules vs. principles
+
+There’s also a big difference between a principle and a rule. Rules are about outcomes. Principles are about tendencies. Rules have the form: “if this, then that.” (If it’s a raven, then it’s black.) They’re categorical. (All members of the category raven are members of the category black.) A rule that admits exceptions is false. (A single non-black raven falsifies the rule that all ravens are black.) A correct rule can be obtained by replacing a counter-exampled rule with one that is duly hedged with exception clauses. (So, supposing that Smith is the one non-black raven, then “all ravens other than Smith are black” is indeed a correct rule.)
+
+But a duly hedged rule is not a principle. Principles are not watered down rules. It is no accident that so many drunk drivers crashed; it’s not a statistical fluke. Nor is it parasitic on some other, more robust connection. In a society where the government forced blond people to live near nuclear waste, there would be a connection. Drunk driving is to crashing what being exposed to radiation (as opposed to being blonde in the society just described) is to getting cancer.
+
+As we’ll see in Chapter 17, empiricists think of principles as being watered-down rules—as being expressed by categorical statements to which there are exceptions. This isn’t the right way to think about them. Principles are better thought of as registering the existence of defeasible forces. Being drunk can be thought as a car-crash-conducive force (or, more likely, confluence of forces) that, like most forces, can be overridden. Note that, whereas inference-rules are defeasible in a logical sense, forces are defeasible in a causal sense.
+
+8.0 Knowledge of ourselves and others
+
+A person’s knowledge of himself is obviously much better than his knowledge of others. You obviously have a much more accurate understanding of your own mind than you do of the other people’s minds. Nonetheless, we can, within limits, have some knowledge of what others are thinking.
+
+It is a matter of considerable dispute how we can acquire such knowledge. But here is a hypothesis that, I think, must surely be correct—at least for some, though perhaps not all, instances of knowledge of others.
+
+We can, at least within limits, have direct knowledge of what is going on within our own minds. And we often know how we are likely to behave in response to an experience of a given kind. When others behave in a given way, I tend to ascribe to them the kind of mental state that accompanies instances of my behaving in that way. I know that when I am in pain, I tend to wince or clutch at the wounded part of my body (or some such). So when I see somebody else behaving in that way, I tend to assume that he or she is in pain. Comparable points hold with respect to our ascriptions of other kinds of mental states to others.
+
+8.1 Self-knowledge
+
+People know much about themselves. I know that, right now, I have the intention of producing a helpful essay on the theory of knowledge. I know that, right now, I’m in a pretty good mood. I know that I enjoy playing the piano. I know that I wish that I could play as well as Arthur Rubenstein; I also know that I’m sad that I cannot play as well he could. All of you have comparable knowledge about yourselves.
+
+A striking feature of at least some of our self-knowledge is how direct it is. My knowledge that I’m in a pretty good mood is even more direct than knowledge that I am now typing on a computer. But how is this possible? Isn’t my knowledge that I’m now typing on a keyboard as direct as knowledge can be?
+
+No. My knowledge that I’m typing on a keyboard is based on the sensory experiences I’m having. These experiences are both visual and tactile. (“Tactile” means “having to do with the sense of touch.”) But, given only the nature of those experiences, it is a possibility, if only a theoretical one, that I’m dreaming or hallucinating.
+
+My having accurate perceptions of, for example, the computer screen in front of me involves my body’s being stimulated in very specific ways by causal processes that originate with that computer screen. (Light waves must bounce off of that computer screen and disturb my retinas.) Further, those light waves mustn’t be distorted or altogether cut-off by intervening influences. If there were an uneven, thick piece of glass between me and the screen, those light waves would be distorted, and my perception of the screen would be inaccurate. If there were a piece of thick wood between me and the glass, those light-waves would be cut off, and I wouldn’t see the screen at all. So my having an accurate perception of the screen involves more than just my having a certain visual experience: that experience must be caused in a very specific way by very specific events in the external world (i.e., the world outside of my body).
+
+A corollary is that an experience that is just like the one I’m having, but that is caused in the wrong way; it isn’t a perception of the screen. Suppose that, using precision instruments, an extremely skillful surgeon is creating disturbances of my retinas that are exactly like the disturbances that would ordinarily be created by
+
+light bouncing off of a nearby computer screen. In that case, I will have an experience just like that of seeing a computer screen, even though I’m not seeing a computer screen.
+
+There are typically many different ways of creating a given effect. If you want to hang a painting on the wall, there are a lot of different ways to do it. If you want to make it look as though Smith killed Jones, there are a lot of different ways to do that. One way, of course, would be to get Smith to kill Jones (by, for example, paying him to do so). Another would be to frame Smith. Thus, even if Smith is innocent, he can be made to look guilty. Similarly, even if there’s no computer screen nearby, my retinas and, consequently, my nervous system, can be made to undergo the kinds of disturbances that would ordinarily be caused by light-rays that had bounced off of a computer screen.
+
+Of course, remarks similar to those just made about visual experiences hold with respect to all other kinds of sensory experience. (I’ll leave it to you to think of examples of this.)
+
+Basically, sensory experiences, like forensic data, can be “forged”; they can be “fakes.”
+
+But such fakery seems impossible when it comes to at least certain kinds of self-knowledge. I can have an experience  just like that of seeing a computer screen even if I’m not seeing a computer screen. But could I have an experience just like that of experiencing intense pain if I weren’t experiencing intense pain? Surely not. After all, an experience just like that of intense pain is an intense pain. Of course, what we just said about pain is true of many other psychological conditions.
+
+Thus, where some psychological occurrences are concerned, the appearance and the reality merge. By contrast, where knowledge of the external world is concerned, the appearance and the reality are always distinct and are often (in fact, usually) separated by a large tract of space. (Even where touch is concerned, the object touched is remote from the events in your central nervous system that mediate your experience of the object.) Thus, from an evidential, and in fact a spatial, point of view, knowledge of at least some facts about one’s psychological condition is considerably more direct than knowledge of facts about the external world—even when the externalities in question are literally being seen (or touched or heard, etc.).
+
+8.2 Some limits to self-knowledge
+
+Notwithstanding what was just said, there are reasons to believe that, in many cases, self-knowledge is as difficult to obtain as knowledge of the external world—that, in fact, knowledge of some facts about our own minds is as theoretical and indirect as our knowledge of sub-atomic events.
+
+Before we can discuss these reasons, we must define a term and we must also make a distinction. The term to be defined is “consciousness.” In everyday speech, that word is ambiguous. Sometimes, it simply means “knowledge” or “awareness.” For example, in the sentence, “Smith’s consciousness of the complexities involved in running a municipality is extremely limited,” the word “consciousness” seems to have more or less the same meaning as the term “knowledge” or “awareness.”
+
+In philosophical contexts, the word “consciousness” has a different and narrower meaning. In such contexts, it refers to one’s immediate experience. (Henceforth, we will use the term “consciousness” only in its narrow, philosophical sense.)
+
+This must be understood aright. The term “consciousness” does not refer to the objects of your experience. Right now, let us suppose, you are feeling a cool breeze. The cool breeze is something that you are conscious of. In other words, it is an object of consciousness. But that cool breeze isn’t identical with your consciousness or with any part of your consciousness. What is a part of your consciousness is the sensation that the cool breeze causes you to have. What is also a part of your consciousness is your visual perception of the piece of paper that the cool breeze is blowing across your front lawn. But, to echo what we said a moment ago, the piece of paper itself is not identical with your consciousness or even with a part of it, even though it is something that you are conscious of (i.e., it is an object of your consciousness).
+
+Here we must make a delicate point. Many constituents of our minds exist even when we are sleeping and even when, more generally, they are not occupying our consciousness in any way. You believe that 1 + 1 = 2. But it is only very rare occasions that this belief of yours is occupying your consciousness. Nonetheless, you obviously don’t lose that belief when it’s not occupying your consciousness. You still have that belief. This is
+
+made clear by the fact that it can readily make an appearance in your consciousness. For example, if I tell you that I’ll give you an A in the class if you answer the question “what is 1 + 1?”, you will without any difficulty be able to draw on your belief that 1 + 1 = 2, even though, in all likelihood, that belief was remote from your consciousness prior to my asking you that question.
+
+So that belief, existing as it does when it is outside of consciousness, is not a part of consciousness. It is not, as we will henceforth put it, a constituent of your consciousness.
+
+Thus, there are instances of knowledge that are not consciousness. And there are instances of consciousness that are not knowledge. The euphoria induced by a drug is an instance of consciousness; it is a component of somebody’s immediate experience. But it isn’t an instance of knowledge. (This is consistent with the fact that somebody experiencing such a euphoria could, and probably would, have knowledge of that experience, just as you have knowledge of the piece of paper blowing across your lawn).
+
+8.2.1 An important fact about consciousness
+
+One feature of consciousness (as philosophers use that term) is that, if something has consciousness, then there is “something it is like” to be that thing. If you are in pain, then there is “something it is like” to be you. So the presence of consciousness in something is sufficient for there to be “something it is like” to be that thing. Further, the presence of consciousness in something is necessary for there to be “something it is like” to be that thing.
+
+There is nothing it is like to be pinecone, since pinecones are not conscious. But if, by some miracle, a pinecone were to become conscious, then there would be something it was like to be that pinecone. The presence of consciousness in something is thus both necessary and sufficient for there to be something it is like to be that thing. In fact, consciousness may be identified with a thing’s having the property there being something it is like to be that thing.
+
+8.2.2 An important fact about your belief that 1 + 1 = 2
+
+These points help clarify our earlier point that your belief that 1 + 1 = 2 is not a constituent of your consciousness (even though it may occupy your consciousness, just as the spectacle of litter blowing across a street may occupy your consciousness without, of course, being a veritable ingredient of that consciousness). Although there is something it is like to have a pain or a tickle, or to experience a sense-perception, there isn’t anything it is like to believe that 1 + 1 = 2.
+
+Of course, that belief may have effects on your consciousness—in other words, it may generate constituents of consciousness (without itself being such a constituent)—and there is something it is like to experience those constituents. For example, your having that belief may lead to your getting an A on a test, which in turn may fill you with joy.
+
+8.2.3 A consequence of this important fact: the existence of the unconscious
+
+Thus, your belief that 1 + 1 = 2 is not a constituent of your consciousness. It is not like a pain or a tickle or a perception. But it is clearly “conscious” in some sense of the word. (It is not buried in your subconscious; it isn’t like the previously discussed processes by which your mind converts disturbances of your sensory surfaces into perceptions.) It is not a part of your consciousness. So in that sense it is unconscious. So to the extent that it is “conscious,” it is in the sense that you are conscious of it.
+
+What we just said about that particular belief is true of many, if not all, beliefs and, indeed, of many desires, aspirations, regrets, intentions, and emotions. Consider your intention to receive a degree from an institution of higher learning. That intention obviously has effects on what you do. (You choose to show up to class, take 
+
+exams, and so on.) And it therefore obviously has effects on what is occupying your consciousness. (Because of that intention, you are now reading a handout and are therefore having various perceptions and feelings that are constituents of your consciousness.) But that intention cannot be identified with any constituent of your consciousness. (That intention continues to exist even when you are asleep.) That intention is better thought of a structural fact about your mind that underlies and regulates the events that populate your consciousness, without itself being such an event. Similar remarks hold with respect to (for example) your affection for certain people, your dislike of other people, your confidence in your ability to (for example) play tennis, your doubts about your ability to (for example) play the harmonica, and so on.
+
+These points give us insight into an issue of great importance. You don’t have to be conscious of anything that you are in fact conscious of. You are now conscious of a piece of paper (or computer screen) in front of you. But you don’t have to be, and in a few minutes you won’t be. You may, at a certain moment, be conscious of the fact that you believe that 1 + 1 = 2. But you obviously don’t have to be conscious of the fact. In fact, most of the time, you are not thinking about that fact and therefore aren’t conscious of it (though you readily become so). So the truth is that we don’t have to be, and in fact are usually not, conscious of much of what is in our own minds. This shows that, contrary to what a number of authors have alleged, there is at least some reason to accept the thesis, which is urged by thinkers in the psychoanalytic tradition, that we are not conscious of much of what is in our own minds.
+
+Of course, thinkers in that tradition hold not only that we aren’t conscious of much of what occurs in our own minds, but also that emotional blocks may lead to our having very wrong and distorted and impoverished beliefs about our own minds. Whether that thesis is correct lies outside the scope of this book. But what seems reasonably clear is that there are good grounds for at least one contention of that school of thought—namely, that we are, at any given time, unaware of many of the events that constitute our very own mental lives. And, once this is granted, it becomes a garden-variety empirical question whether, unless we take special measures to learn about ourselves, we have more than a superficial understanding of our own minds.
+
+9.0 Knowledge by acquaintance versus knowledge by description
+
+At the beginning of this chapter, we distinguished between two kinds of knowledge. The one consists of awareness of people (or, more generally, objects); the other consists of awareness of truths. There is reason to think that up to a point, but probably not entirely, the first kind of knowledge collapses into the second. The reason for this is that, with certain very specific exceptions, awareness of objects is identical with knowledge of truths of a certain kind—that, more specifically, it is identical with knowledge of truths to the effect that certain descriptions are in fact satisfied.
+
+A story will help clarify what it means to say that a description is “satisfied.” In order to collect insurance money, an unscrupulous store owner falsely claims that he is robbed. He gives a description of the (nonexistent) perpetrator of the (non-existent) crime. He goes to the police station and tells the police: “the person who robbed me was a tall male; he had a tattoo that said “I love mom” on his forehead; he had pointy gold teeth . . .” Here the store owner is really saying that there exists an object (a person) that has certain characteristics. To put it another way, he is saying that a certain description is satisfied, that description being “entity that is a human being who robbed me and has pointy gold teeth and is male and . . .” Any statement to the effect that a description is satisfied is known as an existence-claim. So the store owner is affirming the following existence-claim:
+
+
+
+(1) There exists an object that is a person, that robbed me, that is a male, that has pointy gold teeth, that has a tattoo that says “I love mom” on his forehead . . .
+
+
+
+That existence-claim is false, of course, the reason being that the relevant description (the underlined part of 2) is not satisfied.
+
+But, of course, many existence-claims are true, the reason being that many descriptions are satisfied. For example, the following existence-claim is true:
+
+
+
+(2) There exists a person who is currently (in Feb. 2008) the U.S. president.
+
+
+
+And the reason that 2 is true is, of course, that the relevant description (the underlined part of 2) is satisfied. (It is satisfied by George W. Bush.)
+
+9.1 Theoretical knowledge as descriptive knowledge
+
+Whenever knowledge is theoretical or otherwise indirect, it is descriptive (i.e., it consists of knowledge of the truth of an existence-claim). We are aware of the existence of electrons. But we don’t see them or otherwise sense-perceive them; and we certainly don’t have the kind of direct experience of them that we have of some of our own psychological states (e.g., our joys and sorrows). So in what sense are we are of electrons? The answer: we know the truth of various existence-claims that they satisfy, for example:
+
+
+
+(e) there exist various macroscopic, and therefore perceptible, phenomena that, given known physical laws, are most plausibly explained in terms of theories positing the existence of negatively charged particles orbiting around the nuclei of atoms . . .
+
+
+
+We are aware of electrons in the sense that we know the truth of existence-claims that they satisfy. Since, as we discussed, an existence-claim is a statement to the effect that a description is satisfied, our awareness of electrons is entirely descriptive in nature.
+
+Remarks similar to those just made about our knowledge of electrons hold with respect to our knowledge of anything theoretical or, indeed, anything whose existence is inferred, as opposed to known directly.
+
+9.2 Perceptual knowledge as descriptive knowledge
+
+Our knowledge of directly perceived objects is strictly descriptive. Consider your current visual perception. What it tells you is that a certain existence-claim is true, that existence-claim being along the following lines:
+
+
+
+(sp) There exists a piece of paper that is in such and such a location with respect to me, that has such and such a shape and color, that has such and such discolorations on it . . .
+
+
+
+Perception is description. It is inconceivable that one should have a perception that didn’t describe the world in a certain way and that did not, therefore, say of the world that it contained an object of having certain characteristics. (Even if you are looking into empty space, your perception is to the effect that the description stretch of empty space is satisfied by at least one entity in the world.) Thus, a given perception tells you that some existence-claim is satisfied, and perceptual awareness is therefore descriptive in nature.
+
+This shows that awareness of sense-perceived objects, and therefore of other people, is identical with knowledge of truths of a certain kind (existence-claims), vindicating our earlier suggestion that knowledge of objects at least sometimes collapses into knowledge of truths.
+
+Are there any cases where knowledge is not descriptive? The answer seems to be “yes.” If you have an intense pain, it seems that your awareness of that pain is utterly direct and doesn’t involve your knowing that some existence-claim is satisfied. The pain is right there, so to speak, in the theatre of your consciousness, and it needn’t be represented to you through the intermediary of some description. So we have non-descriptive knowledge of at least some of our psychological states. But, for the most part, it seems that our knowledge is descriptive.
+
+9.3 Procedural versus declarative knowledge
+
+We have found that, at least arguably, there are some cases of awareness that are not awareness of truths. At least arguably, we can be directly aware of some of our own psychological states and can therefore be aware of them without being aware of truths that describe or otherwise implicate them. Are there other kinds of awareness or of knowledge that are not awarenesses of truth?
+
+Some philosophers and psychologists say “yes,” the reasoning being as follows:
+
+
+
+(KH) We must distinguish knowledge-that from knowledge-how. I know that Paris is the capital of France. This is knowledge of a truth. It is knowledge-that. I know how to ride a bike. This is knowledge, but it isn’t knowledge of a truth. It is knowledge-how, not knowledge-that.
+
+Any skill is a case of knowledge-how. It’s easily shown that knowledge-how and knowledge-that are fundamentally different things. No matter how much I know about the physics and geometry of bike-riding, I may not be able to ride a bike at all; and no matter how good I am at riding a bike, I may not be able to tell you the first thing about the geometry or physics involved.
+
+No amount of knowledge-that adds up to a skill, and no amount of skill adds up to knowledge-that. So knowledge-how is not knowledge-that, but it is, of course, knowledge of some kind or other.
+
+
+
+But it’s a spurious argument for a false conclusion. Knowledge of a language is knowledge-how. To be able to speak English is to have a skill. But that skill involves having knowledge-that, for you must know various syntactic and semantic truths (e.g., the truth that “snow” picks out snow) to speak English. Knowledge of a language is operationalized semantic and syntactic knowledge. In general, procedural knowledge is operationalized declarative knowledge. (By “declarative knowledge,” I mean knowledge of truths.)
+
+Of course, not all procedural knowledge starts out as declarative knowledge. (Your ability to ride a bike didn’t start out as non-procedural knowledge. It was procedural all along.) Moreover, one has no conscious access to the declarative knowledge internal to one’s procedural knowledge. (One has conscious access only to analogues of that knowledge. A given piece of knowledge may be stored at many different cognitive levels. Knowledge is oftentimes “over-represented.” A baseball player who is also a physicist may have two distinct pieces of knowledge of some one fact.) Contrary to what Ludwig Wittgenstein (1889–1951) and John McDowell (1942– ) hold, the conclusion to be drawn from these facts is not that knowledge-that is no part of knowledge-how, and is instead that the mind is compartmentalized, and the right hand doesn’t always know what the left is doing.
+
+10.0 Intuitive versus discursive knowledge
+
+Whenever we know something without knowing how we know it, we have intuitive knowledge. Whenever we know something and we do know how we know, we have discursive knowledge. So to know something intuitively is to “just know it,” whereas to know something discursively is to know it while also knowing the grounds on the basis of which one knows it.
+
+Some short stories will clarify these points.
+
+Story #1. Timmy, who is 10 years old, is in a classroom and he is looking at a figure on the blackboard. The teacher points to the figure and asks Timmy “what shape does that have?” Timmy correctly says “it’s a circle.” The teacher asks: “how do you know? Why is it a circle as opposed to oval?” Timmy says: “I just know. It’s just obvious that it’s a circle.”
+
+Story #2. Jones, who is a math major, is in a classroom and he is looking at a figure on the blackboard. The professor points to the figure and asks Jones “what shape does that have?” Jones says “it’s a circle.” The professor asks: “how do you know? Why is it a circle as opposed to oval?” Jones says: “because, if x and y are any two arbitrarily short segments of that shape’s periphery, x’s degree of curvature equals y’s.”
+
+Commentary: Obviously both Jones and Timmy know that the figure on the board is a circle. But Jones knows something that Timmy does not know. But what, exactly? A possible answer is this: “Timmy doesn’t
+
+know why the figure is a circle, whereas Jones does have that knowledge.” But surely Timmy’s belief is based on the very fact about the figure’s shape that Jones has described. It seems to me that—in some way, at some level—Timmy is aware of the fact about that figure that Jones is describing. He doesn’t know it in the same way as Jones—but he still knows it. So it is wrong, or at least very misleading, to say that Timmy doesn’t know what it is about that figure that makes it a circle.
+
+10.1 How intuitive and discursive knowledge differ
+
+Here’s what I think. Jones does, whereas Timmy does not, know on what grounds he himself is judging the figure to be a circle. Timmy and Jones both believe that the drawing is a circle, and (so we may assume) each believes it for the right reasons. But Jones knows, whereas Timmy does not know, what the considerations are that are moving him to make that judgment. The difference between Timmy and Jones is that Jones has a kind of self-knowledge that Timmy lacks.
+
+10.2 How intuitive and discursive knowledge differ (continued)
+
+Here’s another hypothesis (which, I think, is compatible with the one just given). Even though both Jones and Timmy know that the drawing is a circle, Jones knows this in two distinct ways, whereas Timmy knows it in only one way. Timmy has a strictly visual (or, in any case, sensory) knowledge of this fact, whereas Jones has what might be described as propositional knowledge of this same fact. Let us now develop this point.
+
+First of all, a proposition is what is meant by a sentence—it is the information encoded in a sentence. The information provided by sentences has two striking features: first, it is very schematic; second, it is the kind of information that can be grasped only through an act of judgment, as opposed to perception. (These two facts are related.)
+
+Suppose you see a certain man, whom you know to be Smith, next to a certain telephone pole, and you report that fact by saying:
+
+
+
+(SP) “Smith is next to that telephone pole.”
+
+
+
+Compare what you actually see to SP. You don’t just see Smith. You see an individual with very specific characteristics (a specific shape, a specific posture or series of specific postures, wearing specific clothes, having hair of a specific color, and so on). And you don’t just see a telephone pole. You see an object having a specific shape, in a specific location, with a specific color (and with specific discolorations on it), with wires of a certain kind attached to certain parts of it, and so on. Thus, the sentence provides a very schematic and abstract representation of the information provided to you by your visual perception. So, from one viewpoint, the sentence under-represents the content of your visual perception.
+
+But, from another viewpoint, the sentence over-represents the content of your perception. Given only what you see—given only what your eyes are telling you—it could be that you are seeing somebody other than Smith; it could be that you are seeing somebody who looks just like him but isn’t him—or even that you aren’t seeing a person at all and are in fact seeing a robot. When you characterize that thing as “Smith,” you are making a judgment as to who and what that thing is; you are making a judgment as to the biological species and as to the specific identity of that individual. Though partially based on what your eyes are now telling you, that judgment incorporates information that is not derived from that specific perception—information that is derived from past meetings with various individuals and from inferences drawn therefrom.
+
+And given only what your eyes are telling you, you don’t know that you are seeing a telephone pole. A telephone pole is something that serves a specific function within a complicated network of social and physical relations. When you are staring at the telephone pole, you cannot literally see it performing these functions. Thus, implicit in your characterization of that thing as a “telephone” pole is a judgment as to its social function. And, though partially derived from your sense-perception, the grounds for that judgment have roots in
+
+past experiences of yours and also in inferences drawn therefrom. So, from that viewpoint, SP over-represents what your eyes are telling you on this occasion.
+
+Similar points hold with respect to the differences between Timmy and Jones. Jones isn’t simply seeing a certain object’s shape; he isn’t simply uploading perceptual information. He is making a judgment about that information. (So Jones is generating “meta-information.”) By contrast, Timmy is just uploading the information.
+
+A related point is that, although both Timmy and Jones know that the drawing is a shape, Jones knows this fact in more ways than Timmy. This can be understood in terms of our earlier point that knowledge is descriptive. Here the fact known is that the drawing is a circle. Timmy knows one description of that fact—he knows a visual or graphic description of that fact. But Jones knows both this graphic description and a conceptual or propositional representation of it.
+
+We thus seem to have two answers to the question “what does Jones know that Timmy doesn’t?” First, Jones has a certain kind of self-knowledge that Timmy lacks: Jones does, whereas Timmy does not, know what the considerations are that led him to believe (rightly) that the drawing is a circle. Second, Jones knows the fact in question under two different descriptions (one pictorial, the other conceptual), whereas Timmy knows it only under one description.
+
+10.3 The paradox of analysis
+
+These points may give us some insight into an old philosophical dispute. Consider the statement:
+
+
+
+(CR) x is a circle if and only if x is a two-dimensional figure of uniform curvature.
+
+
+
+Obviously CR is informative. It isn’t like the statement:
+
+
+
+(CC) x is a circle if, and only if x is a circle.
+
+
+
+CR is an example of a conceptual analysis. A conceptual analysis is a statement that lays bare the structure of a concept.
+
+According to G.E. Moore, it is paradoxical to suppose that conceptual analyses can be informative. There is, he says, a “paradox of analysis.” Moore’s reasoning seems to be this. The sentence “water is H2O” expresses an analysis of water. In that sentence, the words flanking the “is” refer to the same substance. If they didn’t, that sentence wouldn’t express a correct analysis. For the same reason, the expressions flanking the “iff” in a sentence express a conceptual analysis must refer to the same concept. But if they did, then CR would be trivial, like CC, and thus fail to be an analysis.
+
+This is not good reasoning. True—“water is H2O” expresses a “chemical analysis”; and, in it, the two words flanking the “is” co-refer. True—CR expresses a “conceptual analysis.” But it doesn’t follow that, in it, the expressions flanking the “iff” must co-refer. Moore’s reasoning is comparable to that of somebody who thinks that, since so and so isn’t interested in having “legal” (law-related) discussions, so and so has no wish to have “legal” (law-permitted) discussions.
+
+In any case, Moore’s paradox is easily enough dissolved. The truth that one grasps in virtue of knowing that:
+
+
+
+(i) x is a circle
+
+
+
+is different from the truth that one grasps in virtue of knowing that:
+
+
+
+(ii) x is a two-dimensional figure of uniform curvature.
+
+Both of those truths describe the same fact—the fact that a certain object has a certain shape. But a given fact can obviously be described in different, but equally correct ways. The fact that x is a triangle can be described by saying that x is the area bounded by three straight edges, any two of which intersect, but not all of three of which do so. And that same fact can be described by saying that x is a three-sided, straight-edged, closed, planar figure. And:
+
+
+
+(iii) x is a triangle iff x is the area bounded by three straight edges, any two of which intersect, but not all of three of which do so iff x is a three-sided, straight-edged, closed, planar figure
+
+
+
+is just another way of saying that there are three different ways of describing x’s shape.
+
+11.0 Justification vs. discovery
+
+The question:
+
+
+
+(1) What events in Newton’s mind led to his coming up with his theory of gravitation?
+
+
+
+must be distinguished from the question:
+
+
+
+(2) What merit does that theory have?
+
+
+
+One can know the answer to the one question without knowing the answer to the other. To know why Newton had such and such beliefs, I don’t need to know whether those beliefs are correct or otherwise meritorious, and to know whether those beliefs are correct or otherwise meritorious, I don’t need to know why Newton had them.
+
+Given a belief, the question “is it correct?” is to be distinguished from the question “how was it arrived at?” and knowing the answer to the one question doesn’t necessarily involve knowing the answer to the other.
+
+“Justification isn’t discovery.” Philosophers of science often say this. In so doing, they’re affirming the points just made.
+
+11.1 The connection between justification and discovery
+
+Granting that an idea’s pedigree is to be distinguished from its merits, it’s misleading to say that justification isn’t discovery. To discover something is to come to know it. Knowing something involves having a justified belief in it. The justification for that belief will be encoded in the thoughts that led to that belief. No justification, no knowledge. No knowledge, no discovery. Thus, justification is discovery—or at least a good part of it.
+
+We must distinguish discovering something from merely coming to believe it. One cannot discover something without coming to believe it, but one can come to believe something without discovering it. Coming to believe something doesn’t necessarily involve being justified in believing it or, therefore, in knowing it or, therefore, in discovering it.
+
+But to the extent that a person’s thought-processes are expressions of intellectual ability, and not of prejudice or some other discovery-thwarting factor, that person’s beliefs are likely to be justified and, consequently, that person won’t come to believe something without being justified in doing so. Given that the conjectures that led to great scientific and intellectual advances are obviously reflections of intellectual ability, as opposed to blind luck, it follows that oftentimes the justification for such a conjecture is to be found in its psychological antecedents. It follows that justification is inherent, not just in scientific discovery, but also in scientific proto-discovery. In other words, it’s inherent not only in the processes that lead to advances, but in the processes that lead to the conjectures that lead to such advances.
+
+Great ideas often consist of many intricately interconnected subsidiary ideas. The odds of accidentally stumbling upon those ideas, as opposed to arriving at them on the basis of knowledge and insight, are exceedingly slim. Unless Newton and Keynes were just lucky, which is unlikely, the thoughts they had along the way to making their discoveries were driven by an understanding of how the evidence at their disposal ought to be interpreted. Those thoughts were therefore to the effect that, since such and such evidence justifies thus and such contentions, thus and such contentions ought to be accepted; therefore, thus and such contentions are true. So, setting aside cases where the discoverer was simply lucky, the psychology and the logic of discovery mirror each other.
+
+Pascal said “it is through intuition that we discover; it is through logic that we prove.” This is wrong. It is through logic that we discover and it is through logic that we prove. For there is no discovery without justification. An unjustified intuition isn’t a discovery at all. And if an unjustified intuitions happens to be right, it’s a matter of luck. While some non-trivial theoretical innovations may be made through luck, most of them are not. (I doubt that any of them are.) And a correct belief arrived at through intuition, as opposed to luck, is ipso facto justified. Proof is the identification of the logic embodied in discovery.
+
+11.2 Discovery vs. prediscovery
+
+“For all we know,” many a philosopher of science says, “it was Newton’s being hit on the head by an apple that led him to posit the inverse-square law. So we can’t expect to find much of relevance to the justification of a conjecture in the processes that led to it. While it may be of interest to psychoanalysts, the psychological back story is no concern of those interested in the logical structure of science.”
+
+Not everybody who is hit on the head becomes an innovator in physics. So far as a blow to the head had anything to do with Newton’s discoveries, it was only by way of its triggering an intricate train of thought. We must distinguish the instigators of a thought process from the thought process itself. Being hit on the head was no part of Newton’s discovery process. It was, at most, a part of his discovery pre-process. The blow, supposing that it happened, merely activated the relevant processes and therefore wasn’t constitutive of them.
+
+11.3 The roots of the problem
+
+The connection between discovery and justification is easy to overlook if one doesn’t bear in mind the following three points:
+
+
+
+(1) Having a justification for a belief doesn’t always involved knowing what that justification is.
+
+(2) Knowing that justification doesn’t always involve being able to say what it is. (One can’t always articulate what one knows.)
+
+(3) Being able to articulate that justification is different from actually doing so and, therefore, from transmitting that justification to others.
+
+11.3.1 (1) explained
+
+There is often a delay between having a justification for a belief and knowing what that justification is. My intuition tells me that so and so is ill-intentioned, even though, on the surface, he is behaving amicably; that a given sentence is grammatical, even though my grammar book classifies it as ungrammatical; that a given animal is about to attack, even though it isn’t giving off any of the obvious signs.
+
+We trust our intuitions, and our confidence in them is usually vindicated. (Speaking personally, I always regret second-guessing my intuitions.) But when we have them, we don’t know why they are to be trusted. If we did, they wouldn’t be intuitions, since an intuition is, by definition, a belief whose justification, if it exists, is unknown to the person having the belief.
+
+Some have said that, for this very reason, intuitions are never knowledge. “If one has grounds for believing something,” it is said, “one knows what those grounds are.”
+
+This reasoning couldn’t possibly be more off the mark. It is only to the extent that one hasn’t fully internalized the relevant principles that one’s thought fails to be intuitive. It is only pedants and neophytes who rely on discursive thought. Good pianists don’t have to think before they hit every note. Bad pianists do. Good pianists, unlike their bad counterparts, have internalized the relevant rules and, for that reason, don’t need crutch of conscious, discursive mentation. Relying no consciously executed operations to apply rules is like relying on an instruction manual.
+
+Discursive thought is remedial thought, and thought is non-remedial only insofar as it’s intuitive. It doesn’t follow that all non-discursive is good. But it does follow that not all intuitive thought is bad. Given that knowledge is intuitive only in so far as its possessor doesn’t know the justification for it, it follows that one can be justified in having a certain belief without knowing what that justification is.
+
+Nonetheless, philosophers of science tend to hold that one has a justification only when one states, or at least can readily state, one’s justification. For this reason, they’re forced to say intuitions are never justified. Given that scientific breakthroughs result largely from intuitive thought and often themselves take the form of intuitions, philosophers of science have no choice but to see the generation of discoveries as having no connection, or only a fortuitous connection, to the eventual justification of them.
+
+11.3.2 (2) explained
+
+One can know one’s reason for having a given belief without being able to state them. A skillful interrogator may know why he believes that the suspect his lying but not able to say why he thinks this. His judgments are made on the basis of subtle cues that he might have a hard time articulating. Articulating one’s knowledge may involve translating it from one medium into another. This is the case with the interrogator. His judgments are responses to visual information. Articulating those judgments would involve translating that information into a non-visual medium.
+
+Imagine the following. Max believes that metal usually expands when heated, and this belief of his is thoroughly justified. (He’s done numerous experiments, absorbed copious amounts of theory, and so on.) But for some reason Max refuses to state his reasons for having that belief. Max’s situation is very different from the interrogator’s. Unlike the interrogator, Max knows what the justification for his belief is. In any case, even though Max’s belief is thoroughly justified, it could be said that Max has “failed to justify” it. Thus, the expression “unjustified belief” is ambiguous. On the one hand, it can refer to beliefs that aren’t justified. On the other, it can refer to beliefs the justifications of for which, if they exist, haven’t been stated.
+
+11.3.3 (3) explained
+
+Even though a given scientist has cogent reasons for accepting a given hypothesis, and makes every effort to communicate them to others, it doesn’t follow that others know what those reasons are. Others may not understand what that scientist is saying—maybe his theories are too advanced for them. Maybe they do understand what he’s saying but haven’t yet a chance to authenticate his results. Until they have good reason to accept the scientist’s testimony, his justification for accepting the theory in question isn’t yet theirs.
+
+When epistemologists say that a belief is justified, they mean that the person who has it is justified in having it. When philosophers of science say that a belief is justified, they mean either what epistemologists mean or, what is more likely, they mean that people in general are justified in having it.
+
+There was a time when many people believed that smoking causes lung cancer, but when only a few researchers actually knew it, since those researchers alone knew the relevant clinical data. During that time, it would have been correct to describe “the widespread belief that smoking causes cancer” as unjustified.
+
+In general, there are many cases where the belief in such and such is unjustified and therefore isn’t knowledge, even though specific scientists had already discovered such and such and, therefore, knew it and, therefore, were justified in believing it. It thus happens that such and such is discovered before the belief in it is 
+
+justified. It’s obvious why this might lead one to hold that discovering might precede justification and thus have nothing to do with it, and this is exactly what philosophers of science were led to hold. But it’s the wrong conclusion to draw. No one person can discover something without knowing it or, therefore, be justified in believing it. The scientists who discovered that smoking causes cancer were justified in believing it. Their non-scientific contemporaries were not justified in believing it—but they didn’t know it either. And when in due course they did know it, it was only because they were justified in believing it. Nowhere in all this do justification and discovery pull apart.
+
+ENDNOTES
+
+Name: ________________________________________ Date: ________________________
+
+Exercises
+
+1.	True or false? Knowledge of the future involves knowledge of causal laws that, given current conditions, ensure certain outcomes. (In the context of this question, assume that we have such knowledge.)
+
+
+
+2.	True or false? A knowledge of causal laws, or at least of correlations of some kind or other, is necessary for a knowledge of what the likely effects current conditions will be.
+
+
+
+Questions 3–4 are to be answered on the basis of the following story. Within the story, you will have to make a certain assumption about the laws of nature. Don’t worry about whether that assumption is true in real life. (I myself think it’s implausible.) Just grant it for the purposes of the following questions.
+
+
+
+You flip a coin. It lands heads. (It isn’t a joke coin or anything of the sort; for example, it isn’t heads on both sides. It’s normal—heads on one side, tails on the other.) The coin didn’t have to land heads. In other words, given what the laws of nature are, and given the exact nature of the forces acting on the coin throughout this process, the coin could, under these very circumstances, have landed tails. In other words, under these circumstances, the coin was not required by natural law to land heads. It just happened to land heads. And you are aware of this fact.
+
+
+
+3.	True or false? Before the coin lands, you can’t be justified in believing that it will land heads.
+
+
+
+4.	True or false? Before the coin lands, you can know that it will land heads but you can’t be justified in believing it.
+
+
+
+Questions 5–13 are to be answered on the basis of the following passage:
+
+
+
+Smith goes to Brown’s house. Brown has a doorbell. Like most doorbells, Brown’s is activated by pushing a button. Smith has gone to Brown’s house many times; he (Smith) has pushed the button on many occasions in the past; and the doorbell has always worked. And, as Smith knows, Brown is a whiz with electronics and promptly fixes any electronic device of his that isn’t working. Smith has every reason to believe that the doorbell will work on this occasion.
+
+Brown’s doorbell, when it’s working (which, in Smith’s extensive experience thus far, it has always has) is very loud. On this particular occasion, Smith is about to ring the doorbell. But then he remembers that Brown has a newborn baby, which naps at about this time of day. Not wanting to wake the baby, Smith gently knocks on Brown’s door. Brown opens the door and lets him in.
+
+Smith is convinced that if he had pushed the button, the baby would have woken up. And he’s right. But Smith’s belief as to why the baby would have woken up is wrong. Smith believes that the noise made by the doorbell would have woken up the baby. But, for reasons that Smith couldn’t have known, the doorbell isn’t working today; so it wouldn’t have made a noise if he’d pushed it. But, if he had pushed the doorbell, Smith would have had a painful muscle spasm in his finger, which would have him caused to scream in pain, and his yelling would have woken the baby. Smith doesn’t know that he would have had this muscle spasm. If Smith had pushed the button, and had therefore screamed in
+
+pain, his scream would have been extremely loud. In fact, it would have much louder (even to people inside Brown’s house) than the doorbell would have been if the doorbell had been working.
+
+Smith is an intelligent person, and he’s skillful at identifying causal connections; but he has no training in physics.
+
+
+
+5.	True or false? Smith knows that, if he’d pushed the doorbell, he would have woken the baby.
+
+
+
+6.	True or false? Smith is not justified in believing that, if he’d pushed the button, a loud noise would have resulted.
+
+
+
+7.	True or false? Smith is justified in believing that, if he’d pushed the button, his doing so would have caused the baby to wake up. (In the context of this question, suppose that Smith knew that the baby was sleeping.)
+
+
+
+8.	True or false? Smith is right to believe that, if he’d pushed the button, his doing so would have caused the baby to wake up. (In the context of this question, suppose that Smith knew that the baby was sleeping.)
+
+
+
+9.	True or false? Knowledge of some counterfactuals is identical with knowledge of relations of logical dependence.
+
+
+
+10.	True or false? One can have knowledge of what would have happened (but did not happen), but such knowledge is possible only when, because of extensive scientific training, one has a precise microstructural understanding of the relevant causal mechanisms. The reason Smith doesn’t know that, if he pushed the button, he would have woken up the baby is that he doesn’t know the equations describing the relevant physical laws.
+
+
+
+11.	True or false? Smith is justified in believing that he’s making less noise by knocking than he would have made if (assuming that everything else was otherwise the same) he had instead pushed the doorbell button. (For the purposes of this question, assume that Smith knows that he won’t ring the doorbell, and also that he knows that he’ll knock very softly.)
+
+
+
+12.	True or false? Smith is wrong in believing that he’s making less noise by knocking than he would have made if (assuming that everything else was otherwise the same) he’d pushed the doorbell button. (For the purposes of this question, assume that Smith knows that he won’t ring the doorbell, and also that he knows that he’ll knock very softly.)
+
+
+
+13.	True or false? For the purposes of this question, assume that Smith knows that there is a sleeping infant in Brown’s apartment, and also that the infant has normal hearing, is physiologically and psychologically normal, isn’t in a sound-protected room, etc.
+
+Because human physiology and psychology are complicated, neither Smith nor anyone else can really know that, in these circumstances (or in any other circumstances, for that matter), a loud noise would have woken up the baby.
+
+
+
+Questions 14–24 are to be answered on the basis of the following story.
+
+
+
+I deliberately insult you. (I know that you are very sensitive about your clothes; and, wanting to anger you, I tell you that the clothes you have on are hideous.) You immediately scowl and your face reddens. I see this happen. I conclude, first, that you are angry and, second, that it was my insult that angered you. Both conclusions are correct. In addition, my insult angered you for the reason that I thought it would do so. So it wasn’t because of some causal mechanisms that I didn’t know anything about that my insult angered you—it was for the reason that I had in mind (viz. that you’re sensitive
+
+about your clothes, etc.). I am a good judge of people’s moods, but I’m not familiar with psychoanalytic theory or with any other psychological theory.
+
+
+
+Important: Where questions 14–22 are concerned, assume that I do know that I angered you by insulting you. Where questions 23–24 are concerned, do not assume this, but don’t assume that it’s false either.
+
+
+
+14.	True or false? My knowledge that I angered you by insulting you is empirical.
+
+
+
+15.	True or false? My knowledge that I angered you by insulting you is theoretical but not inferential.
+
+
+
+16.	True or false? My knowledge that I angered you by insulting you is inferential and analytic.
+
+
+
+17.	True or false? My knowledge that I angered you by insulting you is inferential.
+
+
+
+18.	True or false? The following argument provides at least some reason (not necessarily a conclusive reason, but some reason) to believe that at least some of the knowledge we have is what Locke described is both non-analytic and non-inferential
+
+
+
+Reasoning always involves acceptance of rules of inference; and those cannot themselves be known through inference, at least not in all cases, since knowledge of inference rules is a prerequisite to having inferential knowledge. Thus, knowledge of such rules, being non-perceptual and also non-inferential, is “intuitive.” So we have intuitive knowledge inference rules such as: “if P is true, and if P then Q is true, then Q is true,” “if not-Q, and if P then Q, then not-P,” etc.
+
+
+
+19.	Gettier showed that not all cases of justified true belief are knowledge. Come up with five examples of your own (not Gettier’s, Russell’s, mine, or anyone else’s) that show that not all cases of justified true belief are knowledge. Your scenarios must satisfy the following restrictions.
+
+
+
+In the first scenario, the “target-belief” (in other words, the belief that is true and justified, but isn’t knowledge) must be this: many of the stars that we see went out of existence long ago.
+
+In the second scenario, the target-belief must be this: your best friend Larry is now working on a farm.
+
+In the third scenario, the target-belief must be this: Charlton Heston was the star of the original version of “Planet of the Apes.”
+
+In the fourth scenario, the target-belief must be this: people are generally happier on Saturdays than on any other day of the week.
+
+In the fifth scenario, the target-belief must be this: people with degrees in chemical engineering have good employment prospects.
+
+
+
+20.	Identify six cases of knowledge that are inferential but not theoretical. In each case, explain why the belief in question is inferential but not theoretical. And make sure you begin the essay by clearly saying what it means to describe a belief as “inferential” or “theoretical.”
+
+
+
+21.	Identify six cases of inferential self-knowledge. In each case, explain why the belief in question is inferential. And make sure you begin the essay by clearly saying what it means to describe a belief as “inferential.”
+
+
+
+22.	Identify six cases of theoretical self-knowledge. In each case, explain why the belief in question is theoretical. And make sure you begin the essay by clearly saying what it means to describe a belief as “theoretical,” and also that you make it clear how that is different from describing a belief as “inferential.”

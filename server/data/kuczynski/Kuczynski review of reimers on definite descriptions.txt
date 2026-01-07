@@ -1,0 +1,399 @@
+﻿96  Book reviews
+
+
+References
+
+Frith, C. D. 1992. The Cognitive Neuropsychology of Schizophrenia. Hillsdale, NJ: Erlbaum.
+Spence, C. and Driver, J. Crossmodal Space and Crossmodal Attention. Oxford: OUP.
+
+Reviewer’s address
+
+Dr. Jonathan Cole
+Clinical Neurophysiology, Poole Hospital
+Longﬂeet Road
+Poole, BH15 2JB
+United Kingdom
+
+Email: jonathan.cole@poole.nhs.uk
+
+About the reviewer
+
+Jonathan  Cole  trained  in  medicine  in  Oxford  and  at  The  Middlesex  Hospital.  After  two 
+periods of neurphysiological research in the University Laboratory of Physiology, Oxford, 
+he moved to Southampton. He is now Senior Lecturer at the University of Southampton and 
+Consultant in Clinical Neurophysiology at Poole Hospital. His research interests have fo-
+cussed on movement after sensory loss and he has published many papers. He has also been 
+interested in the phenomenology of neurological illness and has written three biographical 
+books (on sensory loss, facial problems and spinal cord injury): Pride and a Daily Marathon 
+(1995), About Face (1998) and Still Lives: Narratives of Spinal Cord Injury (2003).
+
+                          
+
+    Marga Reimer and Anne Bezuidenhout (eds), Descriptions and 
+    Beyond. Oxford: Clarendon, 2004, 668 pages. ISBN 10: 0-19-927051-1
+
+    Reviewed by John-Michael Kuczynski (University of California, 
+    Santa Barbara)
+
+Descriptions and Beyond is a collection of articles concerning Russell’s “theory 
+of descriptions”. Before we can evaluate that collection, Russell’s theory must 
+be put into some context. 
+If  our  pre-theoretical  intuitions  are  correct,  occurrences  of  “the  current 
+U.S. President” (in 2005) refer to George W. Bush. In general, deﬁnite descrip-
+tions  seem  to  be  singular  terms,  like  proper  nouns  and  demonstratives.  But 
+Russell argued that they are quantiﬁers. *The phi* is to be deﬁned thus: *…the 
+phi…* means: exactly one thing x has phi, and…x…So 
+
+  (#)  “the current U.S. president smokes”  Book reviews  97
+
+
+means: 
+
+  (##)  Exactly one thing x is a current U.S. President, and x smokes.
+
+Thus (#) is synonymous with: 
+
+  (###)  “Exactly one thing x is a current U.S. President, and x smokes”.
+
+The same point is meant to hold (mutatis mutandis) for any deﬁnite descrip-
+tion.1
+Let us now discuss the primary motivation for this theory.2 Consider the 
+expression “George W. Bush”. The cognitive value of 
+
+  (*)  “George W. Bush smokes” 
+
+is obviously diﬀerent from that of (#). (By the “cognitive value” of a sentence, I 
+mean what is communicated by utterances of it.) And of 
+
+  (^)  “the current occupant of the most important governmental post in the 
+    country with the world’s largest economy smokes” 
+
+has a diﬀerent cognitive value from each of the other two sentences just men-
+tioned.
+Why does (#) diﬀer in cognitive value from each of (*) and (^)? The reason is 
+clear. The concept current U.S. president is a constituent of what is communicated 
+by sentences of the form “…the current U.S. president…”. For example, if I utter 
+(#), part of what is transmitted to you concerns that concept. But that concept is 
+not part of what is communicated by (^) or by (*). That is why a perfectly logical 
+speaker of English could assent to (#) without assenting to either of (^) or (*).
+Given  this,  it  seems  reasonable  to  suppose  that  the  proposition literally 
+meant by sentences of the form “…the current U.S. president…” have the con-
+cept current U.S. president as a constituent. Supposing this is the case, what do 
+such sentences say about that concept? For example, what does 
+
+  (#)  “the U.S. President smokes”
+
+say about that concept? The word “the” obviously indicates existence (unlike 
+the word “no”) and also uniqueness (unlike the word “a”). So if (#) is to be true, 
+there must be at least one U.S. president, and there must also be at most one. 
+Further, if that one thing should not smoke, then (#) will be false. But if that 
+one thing does smoke, then (#) will be true. So (#) is true exactly if: 
+
+  (##)  Exactly one thing x is a current U.S. President, and x smokes.98  Book reviews
+
+
+So it seems that (##) must be the proposition meant by (#).Given any other 
+deﬁnite description, an exactly similar argument seems to establish that it is a 
+quantiﬁer, not a singular term.3 To sum up: in order to accommodate the obvi-
+ous fact that the proposition communicated by a sentence of the form *…the 
+phi…*4 has the concept phi as a constituent, we must suppose that *the phi* is 
+a quantiﬁer of the kind just described. So the primary motivation for Russell’s 
+theory lies in facts about what is communicated by sentences containing deﬁ-
+nite descriptions.
+There are some fairly obvious problems with Russell’s theory and also with 
+Russell’s argument for it. For the sake of argument, suppose that “the current 
+U.S.  president”  is  what  it  appears  to  be:  a  singular  term  that,  at  this  time  in 
+history, refers to George W. Bush. The semantic rule for “the current U.S. presi-
+dent” is not going to be: 
+
+  (*)  “the current U.S. president” refers to Bush. 
+
+Rather, it is going to be: 
+
+  (**)  If there is a unique U.S. President x, then “the current U.S. president” 
+    refers to x.5
+
+So the semantic rule for: 
+
+  (#)  “the current U.S. president smokes” 
+
+is not going to be: 
+
+  (i)  “the current U.S. president smokes” means: Bush smokes. 
+
+It is going to be: 
+
+  (ii)  If there is a unique U.S. President x, then “the current U.S. president 
+    smokes” means: x smokes. 
+
+A comparison might be appropriate. If Fred says “I am tired”, he is attributing 
+fatigue to himself; his token of “I” refers to Fred. But the semantic rule respon-
+sible for that assignment is obviously not: tokens of “I” refer to Fred. Rather, it 
+is: if somebody x tokens the word “I”, then that token refers to x. Similarly, even 
+if (in 2005) a token of “the current U.S. President” is a singular term that refers 
+to Bush, the semantic rule responsible for that assignment is not: “the current 
+U.S. President” refers to Bush. It is: if there is a unique U.S. President x, then 
+“the current U.S. President” refers to x. 
+In general, whenever one hears a sentence, one computes its meaning on 
+the basis of the semantic rules that give it meaning. So when one hears a token  Book reviews  99
+
+
+of (#), one computes its meaning on the basis of the semantic rules that give it 
+meaning, one of these being (ii). Anyone who grasps (ii) will know that, if (#) 
+is true, then there is exactly one U.S. president x, and x smokes. So to anyone 
+capable of understanding it, an utterance of (#) will convey the existence claim: 
+there is exactly one current U.S. president x, and x smokes.
+Notice that (#) does not have that existence claim for its literal meaning: 
+but it still conveys it. Notice also that it doesn’t convey it by way of the normal, 
+Gricean,  post-semantic  implicatures.  It  conveys  it  by  way  of  what  we  might 
+call pre-semantic  implicature:  that  existence  claim  is  conveyed  to  somebody 
+in the process of that person’s computing the relevant semantic content. In this 
+reviewer’s  opinion,  the  phenomenon  of  pre-semantic  implicature  has  been 
+grossly  undervalued  in  contemporary  semantics.  Many  theories  —  those  of 
+Russell  and  Frege  among  them  —  constitute  displacements  of  pre-semantic 
+implicature onto semantics proper. In any case, given only that (#) communi-
+cates a certain kind of existence claim, it doesn’t follow that “the U.S. president” 
+is a quantiﬁer. This point applies to all deﬁnite descriptions. The just mentioned 
+facts about what is communicated by sentences containing such expressions to 
+no degree favor the view that such expressions are anything other than singu-
+lar terms. This point — or one quite close to it — was made long ago by John 
+Searle (1970: 160–161; see also Searle 1958). In fact, it is made (if obliquely) in 
+Strawson’s landmark (1950) paper. It is nowhere even mentioned in Descrip-
+tions and Beyond. 
+Noises and ink-marks don’t interpret themselves. Speakers must interpret 
+them. They do so, in part, by applying their knowledge of semantic rules. The 
+process of computing literal meaning — as distinguished from literal meaning 
+itself — is a rich source of information. Much of what an utterance tells one is 
+pre-semantic. When we take pre-semantic implicature into account, it mini-
+mizes the burden that must be placed on semantics itself. In light of what was 
+said a moment ago, there is no need to deny that “the current U.S. president” 
+refers to Bush. When we attend to pre-semantics, it turns out that we can hold 
+onto the presumption that “the current U.S. president” refers to Bush, while 
+accommodating the data about cognitive signiﬁcance (about what is commu-
+nicated) that motivate Russell’s theory. 
+Let us consider the second main problem with Russell’s view: it embodies a 
+failure to distinguish semantic from conceptual analysis. A conceptual analysis 
+of a sentence does not give the linguistic meaning of a sentence; rather, it gives 
+the meaning of that meaning, so to speak; it produces a proposition that is logical-
+ly equivalent with that meant by the sentence, but is more transparent in respect 
+of its inferential structure. Consider the sentence: “x is a circle”. The linguistic 200  Book reviews
+
+
+meaning is simply: x is a circle. But to give the proposition literally meant by 
+that sentence is not to give a conceptual analysis of that sentence. A conceptual 
+analysis is given by a proposition like: x is a closed planar ﬁgure of uniform curva-
+ture. The latter proposition more perspicuously displays its inferential structure 
+than does x is a circle. But the two propositions are logically equivalent.
+Russell is clearly doing either semantic or conceptual analysis. Given this, 
+it is clear that his theory is really a piece of semantic analysis. For the sake of 
+argument, suppose Russell is not doing semantic analysis. In that case, he is 
+doing  conceptual  analysis.  His  theory  then  amounts  to  this:  the  proposition 
+literally meant by (#) is logically equivalent with exactly one thing x is a current 
+U.S. President, and x smokes. But any proposition logically equivalent thereto 
+will  itself  be  a  quantiﬁed  generalization  of  some  kind.  So if Russell  is  doing 
+conceptual analysis, then the proposition literally meant by (#) must itself be a 
+quantiﬁed generalization. In that case, deﬁnite descriptions must, at the level 
+of literal meaning, be quantiﬁers. On the other hand, if Russell is not doing 
+conceptual analysis, then he is doing semantic analysis; and he is straightfor-
+wardly saying that, in terms of their literal meanings, deﬁnite descriptions are 
+quantiﬁers. Either way, his theory entails that, at the level of literal meaning, 
+deﬁnite descriptions are quantiﬁers. So in the end, his theory concerns the lit-
+eral meanings of deﬁnite descriptions — it is a piece of semantic, as opposed to 
+conceptual, analysis (see Kuczynski 2004a).
+Given this, there is an obvious problem with Russell’s theory. Since Rus-
+sell is giving a semantic analysis of (#), it follows trivially that he is giving its 
+semantics, and is therefore saying what is literally meant by it. So he is saying 
+that (#) has the same linguistic meaning as: 
+
+  (###)  “exactly one thing x is a current U.S. President, and x smokes”.
+
+So, if that theory is right, then (#) and (###) are synonymous. “Synonymous” 
+means “having the same meaning” or “semantically the same”. So if, as Russell’s 
+theory requires, (#) and (###) are synonymous, they ipso facto do not diﬀer in 
+any semantically signiﬁcant respects: the diﬀerences between them must be as 
+innocuous as those between a Southerner’s pronunciation of a sentence and 
+Northerner’s. But the diﬀerences between (#) and (###) are not innocuous. If 
+somebody asked you whether there was exactly one U.S. president, you would 
+display  a  lack  of  linguistic  competence  by  uttering  (###)  as  a  reply;  but  you 
+would display no such lack of competence were you to utter (#). Russellians 
+invoke principles of pragmatics to explain the fact that pairs like (#) and (###) 
+are seldom, if ever, interchangeable (see Blackburn 1984: 308–310). But if, as 
+Russell’s theory requires, they were synonymous, then it wouldn’t be necessary  Book reviews  20
+
+
+to invoke such principles in the ﬁrst place. Synonymous sentences are ipso facto 
+interchangeable.6 So (#) and (###) are not synonymous, and Russell’s theory 
+would seem to be wrong.
+The question whether Russell was doing semantic as opposed to concep-
+tual analysis is not even raised in Descriptions and Beyond, even though, as we 
+just saw, if Russell’s theory is a piece of semantic analysis, it is committed to 
+some very strong, and doubtful, claims about synonymy.
+Virtually every article in Descriptions and Beyond defends Russell’s theory. 
+They all defend it on the grounds that the alternative theory — the view that 
+deﬁnite  descriptions  are  singular  terms  —  cannot  accommodate  facts  about 
+the cognitive signiﬁcances of sentences containing such expressions. But as we 
+saw above, and as the present author argues in many places, that is simply not 
+true: such a position simply ignores the enormity of information conveyed to a 
+person in the process of computing literal meaning; it ignores the power of pre-
+semantic implicature. Though all written by ﬁne and estimable scholars, the 
+articles in the anthology under review defend Russell’s theory against arcane 
+and  minor  objections,  and  do  not  even  address  the  obvious  and  non-trivial 
+objections to it, such as those stated in the present review, and those stated long 
+ago by John Searle and, in fact, by Peter Strawson. (Michael Devitt’s ﬁne article, 
+“A Case for Referring Descriptions” is an exception to these points. Another 
+exception is R.M. Sainsbury’s penetrating paper “Referring Descriptions”.)
+The contents of Descriptions and Beyond ignore another important seman-
+tic datum. David Kaplan (1989) argued persuasively that tokens of indexicals 
+are  “directly  referential”.7  So  if  Fred  says  “I  am  tired”,  his  words  encode  the 
+proposition Fred is tired. And if, while pointing to an image of himself on a T.V. 
+screen, Fred says “I am that man”, what is literally encoded in his words is: Fred 
+is identical with Fred. If Kaplan’s widely accepted analysis is correct, then there 
+is  a  massive  deviation  between,  on  the  one  hand,  what  is  literally  meant  by 
+sentences containing indexicals and, on the other hand, the propositions that 
+they literally mean. These divergences are not generally taken to be grounds 
+for rejecting Kaplan’s theory. So it is curious that exactly similar divergences 
+are  taken  to  be  grounds  for  rejecting  the  view  that  deﬁnite  descriptions  are 
+singular terms. In fact, this is doubly perplexing given the fact that deﬁnite de-
+scriptions are regarded by some semanticists as complex demonstratives. Over 
+ﬁfty years ago, Strawson himself likened deﬁnite descriptions to indexicals. It is 
+worth pointing out that, etymologically, “the” is a truncated form of “that”. This 
+whole avenue of inquiry is simply ignored in Descriptions and Beyond.
+Further,  exactly  similar  divergences  between  literal  and  communicated 
+meaning occur where proper names are concerned. Given what Kripke (1972) 202  Book reviews
+
+
+says,  we  have  good  reason  to  believe  that  “Hesperus”  and  “Phosphorus”  are 
+directly referential, so that, for some object O, “Hesperus is Phosphorus” has 
+for its literal meaning the trivial proposition O=O. But that sentence obviously 
+communicates  a  non-trivial  proposition.  So  consideration  of  proper  names8 
+and indexicals provides us with abundant evidence that, where singular terms 
+are concerned, there can be massive deviations between literal and commu-
+nicated meaning. (Above, we saw how to explain these deviations in the case 
+of deﬁnite descriptions. Indexicals submit to a similar treatment. The case of 
+proper  names  is  more  involved.9)  It  is  curious  that  these  facts  about  proper 
+names and indexicals, which we know to be singular terms, are not even men-
+tioned in Descriptions and Beyond or, for that matter, anywhere else in the pro-
+Russell literature (see, for example, Neale 1990). And yet they were discussed 
+(though somewhat obliquely) by Strawson in his article of over ﬁfty years ago, 
+and also by Searle almost forty years ago.
+In  his  celebrated  (1905)  paper,  Russell  gives  four  arguments  purporting 
+to show that deﬁnite descriptions are quantiﬁers. Exact analogues of those ar-
+guments “show” — what we now know to be false — that proper names and 
+tokens of indexicals are quantiﬁers. Those very arguments (mutatis mutandis) 
+can be made to “demonstrate” that “Hesperus” is a quantiﬁer.10 We know it is 
+not; so those arguments must involve a non-sequitur. For reasons of brevity, we 
+cannot pursue this issue here. But it is noteworthy that none of the articles in 
+Descriptions and Beyond and, so far as the present reviewer knows, none of the 
+literature regarding deﬁnite descriptions acknowledges that fact.
+One last note: Russell’s theory is decidedly implausible when it comes to 
+deﬁnite  descriptions  occurring  in  questions  and  imperatives.  Searle  (1970: 
+161–162) made this point long ago. If Russell’s theory is correct, then when you 
+say “is the maid coming?”, your utterance is synonymous with: “is it the case 
+that we have exactly one maid x, and that x is coming?”. But this seems wrong, 
+and it conﬂicts with the presumption that synonymous expressions should be 
+interchangeable. Elsewhere (Kuczynski 2004b), the present author has argued 
+that  consideration  of  non-indicative  sentences  clearly  warrants  the  rejection 
+
+of Russell’s theory. Whether or not this is the case, any anthology concerning 
+that theory should deal with this issue. Regrettably, Descriptions and Beyond 
+ignores it. With the exceptions of the papers by Devitt and Sainsbury, it instead 
+focuses on technical minutiae that are peripheral to the rich semantic and epis-
+temological issues brought together by Russell’s important, but ﬂawed, theory.  Book reviews  203
+
+
+Notes
+
+.  See Russell (1905) and the introduction to Whitehead and Russell (1912).
+
+2.  Russell gave several arguments for this theory. But the following gives the conceit un-
+derlying most of the various arguments that have been given for it over the years (including 
+most  of  those  given  by  Russell);  and  it  is  also  the  most  compelling  reason  to  adopt  that 
+theory.
+
+3.  I am prescinding from the fact that many deﬁnite descriptions — so-called “improper” 
+ones, like “the dog”, “the man over there” — are probably subject to context-based restric-
+tions.
+
+4.  The asterices are meant to be quasi-quotes. 
+
+5.  Strictly speaking, the right rule would probably involve context-based restrictions. Also, 
+for reasons that I haven’t space to discuss here, the right rule would make a distinction be-
+tween types and tokens. So the right rule would be something like this: If, in context C, there 
+is exactly one salient U.S. president x, then tokens of the sentence-type “the U.S. president 
+smokes” that occur in C encode the proposition: x smokes. In Literal Meaning and Cognitive 
+Content (unpublished), I discuss the need for a complete “tokenization” of many semantic 
+rules. 
+
+6.  See Mates (1952). Grice and Frege would deny this. In their view “Bob is tall and he was 
+malnourished as a child” is literally synonymous with “Bob is tall but he was malnourished 
+as a child”. Intuition recoils at this view. In Literal Meaning and Cognitive Content, I argue 
+that diﬀerences in what Frege called “tone” or “coloring” — or, as Grice put, in “conven-
+tional implicature” — are actually semantic diﬀerences. They do not reﬂect diﬀerences in 
+truth-conditions, but (as I put it) in truth-preconditions. So they reﬂect the operativeness of 
+diﬀerent background assumptions.
+
+7.  Kaplan’s (1989) work is anticipated by Strawson (1950). 
+
+8.  See Kuczynski 2004a, especially the section entitled “Conceptual versus Semantic Analy-
+sis”. 
+
+9.  I deal with these problems at length in Literal Meaning and Cognitive Content and Inten-
+sionality (both unpublished). 
+
+0.  I must leave it to the reader to verify that, in fact, analogues of Russell’s four puzzles 
+show that “Hesperus” and tokens of demonstratives are quantiﬁers. 
+
+
+References
+
+Blackburn, S. 1984. Spreading the Word. Oxford: Clarendon. 
+Kaplan, D. 1989. “Demonstratives”. In Themes from Kaplan. J. Almog, J. Perry, and H. Wet-
+tstein (eds). Oxford: Oxford University Press, 481–565. 204  Book reviews
+
+
+Kripke, S. 1972. Naming and Necessity. Cambridge, MA: Harvard University Press. 
+Kuczynski, J.M. 2004a. “Why deﬁnite descriptions really are referring expressions”. Grazer 
+  Philosophische Studien 68: 45–79.
+Kuczynski, J.M. 2004b. “Non-declarative sentences and the theory of descriptions”. Principia 
+8(1): 119–154. 
+Martinich, A.P. (ed). 1990. The Philosophy of Language. Oxford: Oxford University Press.
+Mates, B. 1952. “Synonymity”. In L. Linsky (ed), Semantics and the Philosophy of Language. 
+Urbana, IL: University of Illinois Press, 111–138. 
+Neale, S. 1990. Descriptions. Cambridge, MA: The MIT Press.
+Russell, B. 1905. “On Denoting”. In Martinich, 203–211.
+Searle, J.R. 1958. “Proper Names”. Mind 67: 273–277. 
+Searle, J.S. 1970. Speech Acts. Cambridge: Cambridge University Press.
+Strawson, P. 1950. “On Referring”. In Martinich, 219–234.
+Whitehead, A.N. and Russell, B. 1912. Principia Mathematica (to *56). Cambridge: Cam-
+bridge University Press.
+
+Reviewer’s address
+
+John-Michael Kuczynski
+2665 South Bayshore Drive, Suite 1101
+Coconut Grove Florida
+33133 Florida
+U.S.A. 
+
+Email: jsbach@jps.net
+
+About the reviewer
+
+John-Michael Kuczynski is a PhD candidate in philosophy at the University of California, 
+Santa Barbara. He has published a book advocating an anti-realist view of sense-perception 
+(Elements of Virtualism, 2003), and has several articles forthcoming, or already published, 
+in the Journal for Theoretical and Philosophical Psychology, Cognition and Communication, 
+Kriterion, Teorema, and other journals.
+
+
+
+
+
+
+
+
+
+
+
+
+ 

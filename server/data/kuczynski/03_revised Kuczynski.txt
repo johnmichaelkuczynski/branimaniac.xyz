@@ -1,0 +1,274 @@
+﻿Chapter 3
+What Are Propositions and What Is Truth?
+1.0 Propositions as sets of properties, truth as instantiatedness of said properties
+By a “proposition,” I mean what is meant by an utterance of a sentence. If I point at Smith and say “that man is a scoundrel,” the meaning of my utterance is is a proposition.
+In this chapter, we’ll provide answers to the questions “what are propositions?” and “what is it for propositions to be true?” Here’s what we’ll see. Propositions are sets of properties; and a proposition is true just in case the properties that are members of it are instantiated—so what it is for a proposition to be true is for the members of the set with which it is identical to be jointly instantiated. Roughly, truth is instantiatedness. Less roughly, truth is identical with the property of being a set (of a certain kind) all of whose members are instantiated. Aside from a few brief remarks, I will leave it open whether all sets of properties qualify as propositions (hence the parenthetical hedge in the last sentence). But a case will be made that only sets of properties are propositions.
+2.0 The Argument
+Consider the proposition:
+
+1. Tommy is smoking.
+
+Intuitively, this proposition seems to consist of at least three components: first, Tommy (or, in any case, something “individuative” of Tommy: perhaps a property that he uniquely instantiates or a concept under which he and he alone falls); second, the property of smoking; and, third, some kind of “synthesis” of the two—some complex constituent that involves Tommy’s smoking. (We will try to state precisely what this synthesis involves.)
+If 1 is true, then:
+
+A. the property of being identical with Tommy
+
+is instantiated, and so is
+
+B. the property of smoking.
+
+But, of course, those two properties could be instantiated in a world where Tommy is not smoking—in a world where, for example, Larry is smoking and a non-smoking Tommy is playing golf. We thus need a third property—a property such that, if a set S contains that property along with A and B, then 1 will be true just in case all of S’s members are instantiated. That third property is not hard to identify. It is:
+
+C. The property of being identical with something that is smoking and is identical with Tommy.
+Before moving on, let’s look at the apparatus that we’ve been developing. Once again, let S be a set that contains all and only A, B, and C; and remember that we have identified S with 1 (the proposition that Tommy is smoking).
+First of all, if C is instantiated, so are B and A. Further, if C, and therefore B and A, are instantiated, then, and only then, is 1 true. It follows that 1 is true if and only if each of A, B, and C is instantiated. This is consistent with, and even corroborates, the thesis that 1 is S and that 1’s being true is S’s members being jointly instantiated.
+Of course, that does not by itself show that 1 can be identified with S or that 1’s being true can be identified with S’s members being jointly instantiated. After all, there are infinitely many distinct sets of properties such that 1 is true just in case their members are instantiated. For example, let Z be the set containing the following properties and nothing besides: the property of being identical with a smoking Tommy; the property of being an even number; the property of being three sided if a triangle. The second two properties are instantiated in every possible world, given that even numbers necessarily exist and given that triangles cannot fail to have three sides. But surely Z cannot be identified with 1, the reason being that Z’s membership cannot, at least not in a sufficiently natural manner, be aligned with what we know about 1’s constituency.
+But S’s membership does so align, as a brief look back makes clear. S’s members are (or at least include) A, B, and C. 1’s constituents are (or at least include):
+
+(i) something individuative of Tommy,
+
+(ii) the property of smoking, and
+
+(iii) something that combines those two things.
+
+Obviously A is individuative of Tommy. (Only Tommy can have that property; and, what is more, he must have it.) So far, so good. (ii) and B are identical. So far, still so good.
+What about C? That property is instantiated exactly if A and B are both instantiated. So, in a very clear sense of the term “combine,” that property combines the property of smoking with (something individuative of) Tommy. (In the relevant sense of the term “combine,” one property “combines” with n other properties exactly if the first is instantiated exactly if the other n properties are jointly instantiated.) And we know that, in some way or other, 1 combines (something individuative of) Tommy with the property of smoking. In at least one respect, then, C’s relationship to A and B is suggestively similar to 1’s relationship to its parts. Moreover, C “dominates” each of A and B in a way suggestively similar to the way in which 1 dominates its constituents. A’s being instantiated is necessary but not sufficient for C’s being instantiated, the same being true of B’s being instantiated. Tommy’s existing is necessary but not sufficient for 1’s being true, the same being true of somebody’s being a smoker.
+While none of this demonstrates definitively that 1 is identical with S or that 1’s being true is identical with S’s being instantiated, we have, I believe, found enough of a match between 1/1’s being true and S/S’s members’ being instantiated to warrant looking into the idea that they might be one and the same.
+2.1 The unity of the proposition
+How does 1 combine Tommy with the property of smoking? According to Frege, Tommy (or some concept thereof) saturates that property (or some concept thereof). (Henceforth, I’ll omit the qualification “or some concept thereof.”) But this doesn’t help at all. For, as Davidson (1967) observed, the term “saturate” is just another label for the operation in question. So while the Fregean statement:
+(FR) “1 is the result of Tommy’s saturating the concept of smoking”
+may well be correct, we don’t know what it means.
+We are in a position to give the meaning of FR and to say what this mysterious “saturating” amounts to. We’ve argued that 1 is a set whose members include the property of being Tommy, the property of smoking, and the property of being a smoking Tommy. 1 is the result of Tommy’s “saturating” the property/concept of smoking in the sense that 1 is identical with a set S that consists of those three properties.
+For any proposition X, to say that X is the result of Y’s “saturating” Z (for some Y and Z) is to say that X is a set whose members are the property of being identical with X, and Z itself, and also the property of being identical with something that is identical with X and also has Z.
+2.2 More on the decomposition of propositions
+It is indisputable that 1 is true just in case C is instantiated. So why not just identify 1 with C, and 1’s being true with C’s being instantiated? Why go through the rigmarole that we went through? Why bother with A and B and, in general, any other properties other than C? Because if we identify 1 with C, and 1’s being true with C’s being instantiated, our theory won’t accommodate the very reasonable presumption that 1 has discrete parts corresponding to Tommy and to the property of smoking.
+Consider an instance of the property of being a smoking Tommy. Obviously that instance will involve Tommy smoking. But it will not, at least in any obvious way, contain a discrete part corresponding to Tommy or a discrete part corresponding to smoking. And what is true of an instance of that property is, quite possibly, true of the property itself. It cannot be taken for granted that C has a discrete part corresponding to Tommy or to smoking or to anything else. In fact, being a non-spatiotemporal entity, C won’t have discrete parts in any straightforward sense at all.
+The impression that C is part-less, or at least lacking in the right kind of parts, is reinforced when we look at what an instance of C is like. Such an instance is, to adapt Kenneth Taylor’s (1998) apt expression, a dent or ripple in the quantum; it is a shift in the movement of mass-energy. Of course, that mass-energy is (by hypothesis) sufficient for the existence of Tommy and of smoking and, indeed, of a smoking Tommy. But you would have a devil of a time isolating some part of that distribution that corresponded to Tommy, then distinguishing that from some other part corresponding to smoking, and then finding a third that fused those two, otherwise discrete, entities into a discrete instance of a smoking Tommy.
+By contrast, the proposition:
+
+1. Tommy is smoking
+
+is, of its very nature, neatly parsed into Tommy, the property of smoking, and a third constituent that synthesizes the two just mentioned. The neat articulations found in 1 are found, in some form, in S. Those articulations, though found in S’s membership as a whole, are not found in C taken by itself, making S, but not C, a suitable mirror for the decompositional structure of 1.
+States of affairs (or “facts,” as they are sometimes called) do not, as Ian Hacking (1975) long ago put it, have the same kinds of “articulations” as propositions. The quantum-ripples on which the truth of a proposition supervenes don’t have anything like the structure of that proposition. Whereas the proposition Tommy is smoking clearly has a unique, and relatively simple decomposition into Tommy (or some property/concept individuative thereof), the property of smoking, etc., the state of affairs in which Tommy’s smoking consists—the confluence of psychological, physiological, and, ultimately, sub-atomic disturbances—obviously doesn’t uniquely decompose into Tommy, the property of smoking. In fact, it seems a stretch to suppose that it even has one such decomposition.
+2.2.1 A corollary
+Consider the proposition:
+
+2. Tommy is snoring.
+
+Let D be the property of being a snoring Tommy. It is obvious that:
+
+1. Tommy is smoking
+
+and
+
+2. Tommy is snoring
+
+have much in common. They have in common the constituent Tommy (or, in any case, something corresponding thereto). They have in common the property of being a Tommy who is doing something (in other words, they have in common the property of being identical with a thing x such that x is identical with Tommy and such that, for some y, x is doing y); and they also have in common the property of being a thing that is doing something (in other words, they have in common the property of being a thing x such that, for some y, x is doing y).
+In light of this, consider some instance of D. In other words, consider the kind of property-instance, the kind of mass-energy distribution, on which the truth of 2 supervenes. That instance will, of course, suffice for the existence of Tommy, as will an instance of C. But will those instances, in virtue of that fact, have some discrete part in common? Unlikely. In neither case do we have Tommy simpliciter. We have Tommy smoking (while sweating profusely and worrying about his algebra test and his nascent nicotine addition, all the while talking with his cousin Albert); in the other we have Tommy snoring (while having terrible dreams about his future as a second string pitcher on a mediocre team). There is no such thing, in either case, as Tommy simpliciter. There is only Tommy doing this or that, having this or that property. A corollary is that two situations that comprise Tommy do not, in virtue of that fact, have in common some discrete, isolable entity. So while it is true that C and D both comprise Tommy, the one does not, in comprising him, have a discrete constituent in common with the other.
+But now we must consider what we’ve said about the composition of 1 and also what follows, by obvious extensions of what we’ve said about 1, about 2. 1 is a set S whose members are:
+
+a:	the property of being Tommy
+b:	the property of smoking
+c:	the property of being a smoking Tommy
+
+And, by similar reasoning, 2 is a set S* whose members are:
+
+a:	the property of being Tommy
+b*:	the property of snoring
+c:	the property of being a snoring Tommy
+
+S and S* do have well-defined, discrete parts in common. Indeed, they have in common precisely what is had in common by:
+
+1. Tommy is smoking
+
+and
+2. Tommy is snoring.
+
+If we were to be really precise about it, we’d say that each of S and S* comprised, not only a–c, but also
+
+d.	the property of being a Tommy that does something (i.e., the property being a Tommy that does something or, in any case, has some property),
+
+and also
+
+e.	the property of being a something that does something (i.e., the property being a something that does something or, in any case, has some property).
+
+Let’s look at 1 for a second. It immediately and formally implies:
+
+i	Tommy smokes;
+ii	something smokes;
+iii	Tommy does something;
+iv	Tommy exists;
+v	something does something.
+
+And 2 immediately implies:
+
+i*	Tommy snores;
+ii*	something snores;
+iii	Tommy does something;
+iv	Tommy exists;
+v	something does something.
+
+Now let’s look at S and at S*. The members of S are:
+
+I	The property of being Tommy
+II	The property of smoking
+III	The property of being a Tommy that smokes
+IV	The property of being a Tommy that does something
+V	The property of being a something that does something
+
+The members of S* are:
+
+I	The property of being Tommy
+II*	The property of snoring
+III*	The property of being a Tommy that snores
+IV	The property of being a Tommy that does something
+V	The property of being a something that does something
+
+Having identified 1 with S and 2 with S*, everything we know about those propositions—about what they entail, about what their components are, and about how their higher-level components are “forged” out of their lower level components—is accounted for.
+2.3 Another desideratum satisfied by our analysis
+Many semanticists today hold that Plato and Socrates are veritable constituents of the propositions that concern them. So according to Kaplan (1989),who is following and agreeing with Russell (1903), Timmy—the person, not some Fregean concept thereof—is a constituent of both 1 and 2. Other adherents of this view are Scott Soames (2003), Nathan Salmon (2005), and Robert Moore (1995). (Opponents are J. Searle (1983), M. Dummett (1973), and—with some very heavy reservations to be stated later—the present author.)
+There is a rather serious problem with this view. Consider, not 1 or 2, but rather:
+3. Plato snores.
+At this point in time, Plato doesn’t exist. So if he’s a (necessary) constituent of 3—if, in other words, 3 exists only if Plato does—then 3 doesn’t exist. Salmon and Soames, both of them hard-line direct reference theorists, deal with this by taking a desperate measure, viz. by saying that 3 exists and that its existence constitutively depends on Plato’s existence and that these two positions can be reconciled with each other—that, more specifically, they can be reconciled by saying that 3 exists, albeit as a non-existent proposition.
+This is not necessary or plausible or helpful. 3 exists. Plato does not. But the property of being identical with Plato, whatever it is, does exist. What is it to be Plato? To be Plato is, perhaps, to be a causal sequence that is initiated by the fertilizing of a certain egg by a certain spermatozoa. To be Plato is, perhaps, to have a soul or mind of a certain kind. What we know is that, if something is Plato, its being Plato supervenes on something probably having to do with the mass-energy distribution in the cosmos—on its mode of origination, on the quotient of spiritual energy in the particle-interactions that constitute it, on who knows what. In any case, even though Plato does not exist, the property of being identical with Plato does. That’s why I can meaningfully, not to mention correctly, say “I am not Plato” or, equivalently, “I don’t have the property of being identical with Plato.” And it’s also why we can meaningfully, and presumably correctly, say that Plato does not exist. For, in making such a statement, we aren’t picking out a non-object—which would, having been picked out, ipso facto cease to be a non-object—and then saying of it that it doesn’t exist. We are saying of an existing property, viz. that of being identical with Plato, that it is uninstantiated.
+But our analysis is still consistent with the heart of direct-reference-theory, this being the idea that, for some x such that x is identical with Plato, the proposition meant by “Plato snores” is true just in case x snores, it being completely irrelevant what properties (other than being a snorer) x has. (The Fregean indirectreferentialist holds that for “Plato snores” to be correct is necessary that, for example, a unique great philosopher to die of hemlock-poisoning snore.) It is clear why our analysis is consistent on this matter with the viewpoint of the direct referentialist. According to our analysis, 3 is true exactly if the following properties are instantiated:
+a.	the property of being identical with Plato
+b.	the property of snoring
+c.	the property of being a Plato who snores
+d.	the property of being something that snores
+e.	the property of being something that does something (or has some property)
+It is readily seen that, on our analysis, there is some x, such that x is Plato and such that 3 is true exactly if x snores, it being irrelevant what other properties x has. This is exactly what the direct-referentialist holds. At the same time, our analysis guarantees the existence of the proposition that Plato snores—after all, the property of being Plato exists, even though it is now uninstantiated. So our analysis of that Plato snores gives the direct-reference-theorist the truth conditions that she wants and that (given certain compelling arguments due to Kripke 1980 and Soames 2003, 2004) she probably deserves. At the same time, our analysis doesn’t put the direct-reference-theorist in the awkward, logic-bending position of having to say that the proposition that Plato snores exists despite the failure of existence of entities on whose existence its own existence is constitutively dependent.
+3.0 Molecular propositions
+(Because this section and the three that follow it are more technical than substantive, I suggest skipping straight to Section 4.0 on a first and probably a second reading.) Our analysis applies to molecular propositions no less than to atomic propositions. But making this transposition go through will involve a certain amount of sensitivity to details and technicalities. A certain amount of “engineering,” as opposed to philosophy “proper,” will be needed.
+3.1 Existence-claims
+In keeping with tradition, I will treat generalizations as molecular propositions. So:
+
+4. something snores
+
+is an existential generalization. Given what we’ve said, the most obvious analysis of 4 would be to say that 4 is the property of snoring (or a set whose sole member is that property) and that 4’s being true is identical with that property’s being instantiated.
+That would not be the correct analysis. Even though 4 is true just in case the property of snoring is instantiated, 4 is not identical with that property and its truth is not identical with that property’s being instantiated. We know from Frege that 4, unlike the property of snoring, has a rather distinctive decompositional structure, and that 4 thus consists of (at least) three or four constituents. (Note: In this context, by an “instantiated function,” I mean a proposition-form at least one of whose members is correct. Thus x snores is such a function. An “instance” of a function is anything satisfying it. So, supposing that he snores, Smith is an instance of the just-mentioned function. A “propositional form” may be thought of as a class of propositions all of the same form.)We also know from Frege what the first two constituents are:
+
+a.	the property of snoring
+b.	the property of being instantiated
+
+In light of what we’ve already said, it is not hard to generate some (if not all) of the remaining constituents of 4, these being:
+
+c.	the property of being an instantiated function each of whose instances snores
+d.	the property of an instantiated function each of whose instances has some property or other
+
+Let S be a set containing all and only a–d. 4 will be true iff a–d are instantiated. So, from the viewpoint of truth-conditions, there is no barrier to identifying 4 with S or to identifying 4’s being true with S’s members being instantiated. Further, 4’s structure is easily mapped onto S’s. 4, if true, entails that there exists some property that has some instances; that there exists at least one snorer; that at least one property is instantiated; and that at least one property exists. And all of this is precisely what S’s members’ being instantiated involves.
+Now consider the proposition:
+
+5. Something smokes.
+
+By reasoning similar to that just given, the constituents of this proposition are:
+
+a.*	the property of smoking
+b.	the property of being instantiated
+c.*	the property of a function each of whose instances smokes
+d.	the property of a function each of whose instances has some property or other
+We know pre-theoretically that 4 and 5 have certain constituents in common (e.g., the property of being instantiated or, in any case, some property expressed by “something”). Our analysis of 4 and 5 validate everything we know, theoretically and pre-theoretically, about the decompositions and logical forms of the propositions.
+3.2 Negative non-quantified propositions
+Before considering “nothing snores,” I want to consider a negative, but non-quantified, proposition:
+6. Timmy is not smoking,
+in other words,
+6. It is not the case that Timmy is smoking.
+(The reason for the underlining will be clear in a moment.) The two immediate constituents of 6 would appear to be “It is not the case” and “that Timmy is smoking.” But there’s a problem here. We have said that propositions are sets of properties that are true when instantiated. In any case, this is what we have said about atomic propositions and, for uniformity’s sake, this is what we must say about molecular propositions. But if we say that, in 6, the underlined proposition is instantiated—that is, that all its members are instantiated— then that Timmy is smoking will be true and 6 will be false and indeed self-negating.
+Not-P is true just in case P is false. So “not” can be thought of as expressing a function that assigns truth to all and only false propositions or (what, in this context, is scarcely different) as a property of all and only false propositions.
+For the reason given a moment ago, we don’t want to say that that Timmy is smoking is a constituent of 6, and will instead say that the property of being identical with that proposition is such a property. We will also say that the property of being a false proposition is such a constituent. Then we synthesize those two components into the property of being the false proposition that Tommy is smoking. That property, it will be noticed, is instantiated exactly if the proposition that Tommy is smoking is false. So, according to our analysis, the constituents of 6 are:
+
+a.	the property of being a false proposition
+b.	b.	the property of being identical with the proposition that Tommy is smoking
+c.	c.	the property of being identical with a proposition that is false and that is identical with that Tommy is smoking.
+
+Let S be the set containing all and only a–c. Let us consider what happens when each of S’s members is instantiated. First, suppose that c is instantiated. In that case, there is an instance of a proposition that is false and that is identical with the proposition that Tommy is smoking. So 6 is true just in case c is instantiated. Since, if c is instantiated if the other members of S are instantiated, it follows that 6 is instantiated if and only if each of the members of S is instantiated. Thus, there are, as of yet, no bars to identifying 6 with S and 6’s truth with S’s members’ being instantiated.
+Next, suppose that b is instantiated. In that case, the property Tommy is smoking exists—but it isn’t necessarily true. And if 6 should be true—which, according to our analysis, would mean that all of a–c were instantiated—we’d be stuck with the existence, but not the truth of the proposition that Tommy is smoking. Which is precisely what we want.
+Finally, suppose that a is instantiated. In that case, the property of being a false proposition is instantiated. And, of course, if 6 is true—if, in other words, the members of S are all instantiated—then that property is instantiated. Which, again, is precisely what we want.
+Thus, our analysis is consistent with most of our pretheoretic intuitions about the decomposition of 6. (The one exception that being that, where our pre-theoretic intuition wants to that Tommy is smoking in 6, our analysis puts the property of being identical with that proposition in its place.) And our analysis is also inconsistent with the logical properties of 6.
+3.3 Quantified propositions revisited
+Consider:
+
+7. Everything snores.
+
+By reasoning similar to that already given, the main constituents of this are:
+
+a.	the property of snoring
+b.	the property of being universally instantiated
+c.	the property of being identical with a universally instantiated property that is identical with the property of snoring
+
+Of course, c is a property each of whose instances is an instance both of (a) the property of snoring and (b) of the property of being universally instantiated.
+Let us now consider:
+
+8. Nothing snores
+
+I will treat this is as the negation of 5. I will treat it, in other words, as:
+
+8: It is not the case that something snores.
+
+For reasons now already clear, the constituents of 8 include (but are not confined to):
+
+a.	the property of being a false proposition
+b.	the property of being identical with the proposition that something snores
+c.	the property of being identical with a false proposition that is identical with the proposition that something snores
+
+Notice that, if c is instantiated, so are b and a. And notice that, if c is instantiated, then the proposition that something snores is false. Finally, notice that c is related to a and b in the usual way—any instance of 6 is an instance both of (a) the property of being a false proposition and (b) the property of being identical with that Tommy smokes.
+3.4 Non-quantified molecular propositions
+Let’s finish up by considering two non-quantified molecular propositions. Consider the sentence:
+
+9. Tommy is smoking or Tommy is snoring
+
+9 can be seen as saying of a certain pair of propositions (namely, that Tommy is smoking and that Tommy is snoring) that at least one of its members is true. I thus see 9 as consisting of:
+
+a.	the property of disjunction
+which in this context we may regard as the property of being a pair of propositions at least one of which is true, and
+b.	b.	the property of being identical with a pair of propositions, such that one member of that pair is that Tommy is smoking, the other member being that Tommy is snoring.
+Of course, 9 could be false even if both a and b were instantiated. (This would be the case in any world where both Tommy is smoking and Tommy is snoring were false, but where some disjunction or other was true.) So, for now familiar reasons, we must look for a third constituent, where that constituent must be a property c such that each instance of c is (i) an instance of a pair of propositions at least one of which is true and is also (ii) an instance of a pair of propositions, one them being that Tommy is smoking, the other being that Tommy is snoring. So our final properties are:
+a.	the property of being a pair of propositions, at least one of which is true
+b.	b.	the property of being a pair of propositions, one of them being that Tommy is smoking, the other being that Tommy is snoring
+c.	c.	the property of being a pair of propositions, at least one of which is true, and at least one of which is that Tommy is smoking and at least one of which is that Tommy is snoring
+
+Of course, if c is instantiated, then so are b and c. And if c is instantiated, then either Tommy is snoring or Tommy is smoking. So c, and therefore a–c, are instantiated exactly if 9 is true. So if S is the set containing a–c, then 9 is true iff all of S’s members are instantiated.
+We’ve thus made it clear (i) what it is for something to be a “constituent” of a proposition, (ii) what it is for an argument to “saturate” a function, (iii) more generally what it is for two propositional constituents to “synthesize” into a third constituent, (iv) what it is to be a proposition, and (v) what it is for a proposition to be true. And our analysis is to a non-trivial degree (though not completely) consistent with what pretheoretic intuition and common sense have to tell us about propositions.
+4.0 The Russell-Kaplan-Salmon analysis of propositions
+According to Russell (1903), Salmon (1986), Kaplan (1989), R. Moore (1995), J. Perry (1996), J. King (1996, 1997), to name but a few, a proposition is some kind of “structure” consisting of “objects and properties.” So, according to this view, the proposition expressed by (tokens of) “Socrates is bald” is some kind of structure consisting of Socrates—the man himself, not some property that he has or some concept that he satisfies—and the property of baldness. It is usually said that the structure in question is an ordered pair. At least part of the reason for is that different propositions seem capable of having the same parts (cf. Brutus killed Caesar and Caesar killed Brutus). And unless the sets with which propositions are identified have some kind of ordinal structure, distinct propositions (e.g., the two mentioned in the last parenthesis) will collapse into one another. Thus Socrates is bald is identified, not with (Socrates, baldness), but instead with <Socrates, baldness> or with the <relation of having <Socrates, baldness>>, or some such.
+4.1 Problems with this view
+The ordered pair <2,7> isn’t true or false. Neither is the ordered pair <2,7 <less than>>. Given that these ordered pairs aren’t true or false, why is <Socrates, the relation of having <baldness>>rue or false? There’s no denying that we could use the corresponding expression (viz. “<Socrates, the relation of having <baldness>>”) to express the proposition expressed by the sentence “Socrates is bald.” We could obviously invent a code whereby “<the relation of having <Socrates, baldness>>” meant Socrates is bald. But this fact tells us little, if anything, about the structure of the corresponding proposition that we didn’t already know from the fact that it can be expressed by “Socrates is bald.”
+4.1.2 Another concern
+Obviously the brackets are meant to be symbolic of some kind of order that holds among Socrates and baldness (and the relation of having). But what is that ordinal relation? If that ordinal relation bears no resemblance to the relation that would actually be had by Socrates, in a situation where he was bald, with respect to the property of baldness, then it wouldn’t be clear why what relation was the right one: some kind of reason—the likes of which have never been provided by advocates of this model—would have to be provided why that particular ordinal relation was the right one. So, thus construed, the analysis in question is highly programmatic. On the other hand, if that relation is the very relation that would be had by Socrates, with respect to the property of baldness, in a situation where he was bald, then Socrates’ baldness—his actual baldness—would be built into the very existence of the proposition that he was bald. In other words, the proposition that Socrates is bald would, by virtue of its own configuration, make him bald, and would thus predetermine its own truth. But obviously the truth of Socrates is bald isn’t self-determining. Basically, if a theory requires propositions to model facts too well, then that theory wrongly requires contingent propositions to be true; but a theory runs the risk of arbitrariness if the relations that, according to it, hold among a proposition’s parts are not in any intuitive way counterbalanced by the facts that, if that proposition were true, hold among the components of the corresponding fact. If we turn the proposition Socrates is bald into a model consisting of Socrates standing in the relation of having with respect to baldness, then the proposition itself is the fact of Socrates’ being bald, and no way is left open for the obvious possibility that it might be false. At the same time, it would be easy to render overly tenuous and schematic the relationship between, on the one hand, the fact of Socrates’ being bald and, on the other hand, the relationship that, in the proposition that Socrates is bald, Socrates bears with respect to baldness. This mistake is, I believe committed by the theory according to which that proposition is identical with ordered pair <the relation of having <Socrates, baldness>>. The relation borne that, in that structure, Socrates bears with respect to baldness is, it seems to me, too schematic—too without any counterpart in the fact that, supposing that proposition true, makes it so.
+4.1.3 Another problem
+Though it is now false, the proposition Socrates is alive obviously exists. What if, unbeknownst to you, your friend Joey died some time during the last five minutes? Surely you wouldn’t want to say that the proposition Joey loves to read suddenly ceased to exist. Apart from an acceptance of a certain version of direct-reference theory, there is no reason to accept that view.
+Some authors (e.g., Salmon (2005)), do say that Joey loves to read does cease to exist when Joey dies (or that it continues to exist, but only in some curious form—that it exists, but only as a non-existent entity, or some such). The reasoning underlying this extraordinary view seems to be as follows. There is some x—namely, Joey—such that “Joey loves to read” is true exactly if x loves to read. It follows, it is said, that the proposition meant by that sentence—namely, Joey loves to read—must have Joey as a constituent. And from this, it is said, it follows that Joey loves to read ceases to exist when Joey does.
+This reasoning is spurious. If only for argument’s sake, let us suppose that, for some x, such that x is Joey, “Joey loves to read” is true iff x loves to read. It doesn’t follow that Joey loves to read ceases to exist when Joey does. For, if anything like the view I am advocating is right, it could be that it is not Joey per se, but the property of being identical with him, that is a constituent of that proposition. Our view is consistent with the idea that “Joey” rigidly designates Joey—that there is some x such that x is Joey such that “Joey loves to read” is true just in case x loves to read, it being irrelevant what properties are had by other things. But, according to our view, it isn’t Joey per se, but some property that is a constituent of Joey loves to read. That property, which is the property of being identical with Joey, is one that nothing other than Joey could possibly instantiate. (It isn’t like the concept bifocal inventor, which could be instantiated by something other than the thing which is its actual instance.) According to our analysis, the proposition that Joey loves to read is true only if that property is instantiated. Thus, there is indeed some x, namely Joey, such that each of Joey loves to read and “Joey loves to read” is true iff x loves to read. But Joey’s existence is a pre-requisite for the truth, not the existence,
+of that proposition. So, unless one maintains (implausibly) that the property of being identical with Joey can exist only if it is instantiated, it follows that Joey loves to read doesn’t cease to exist when Joey does.
+Like the present author, Frege held that it wasn’t Socrates per se that was a part of the proposition Socrates is alive but was instead some concept that Socrates uniquely satisfied. (Frege’s analysis is therefore consistent with the fact that “Joey likes to read” holds onto its meaning even if Joey ceases to exist.) But, apart from that, Frege’s view is quite as vague as Russell’s. Frege was extremely opaque about the nature of the structure of this proposition; and what he failed to provide in the way of clear formulations he tried, unsuccessfully, to make up for with unhelpful terms such as “saturate.”
+What is good about the Russell-Frege-Kaplan-King view is that it insists that propositions resemble the sentences that express them. So that view is, at least, consistent with the fact that languages can be learned and used. (For, presumably, learning and using languages involves there being systematic ways of hooking up meanings to sentences.) And, as we’ll now see, other analyses don’t do such a good job of satisfying this requirement.
+5.0 Propositions as sets of their own consequences
+For a while, it was widely held (by e.g., Clarence Lewis (1946) and Rudolph Carnap (1934)) that the “intension” of a sentence (which, in this context, we may identify with what we would now call the “meaning” of that sentence or the “proposition” expressed by it) was identical with the class of all propositions that could be inferred from that sentence. So (a natural extension of this view would be that) the proposition John knows that corn is yummy is the class of all propositions deducible from that proposition—for example, John believes that corn is yummy, John knows something, John has some kind of attitude towards the proposition that corn is yummy. There are a few problems with this analysis, some minor, some major. A minor problem is that, as it was stated by Lewis and Carnap, analysis is viciously circular, since many propositions can be deduced from John knows that corn is yummy that involve that very proposition—for example, either John knows that corn is yummy or there are square circles. This particular problem is not, I believe, insuperable, since the position can be amended to avoid it. The right emendation would seem to be: a proposition is identical with the class of all propositions—setting aside that proposition itself, and any propositions having it as a component (e.g., disjunctions of which it is a disjunct)—that can be inferred from it.
+5.1 Why this view is false
+Even so, the position in question isn’t very plausible. Consider the class of all propositions that follow from John knows that corn is yummy. That class doesn’t have a structure corresponding even remotely to the structure that we would expect that proposition to have, given that it almost certainly has a structure non-trivially similar to that of the sentences that express it. Also, in order to figure out whether a given proposition is a consequence of John knows that corn is yummy, one must grasp that proposition itself. Here’s why: The set of propositions that follow from John knows that corn is yummy is infinitely large. One can grasp that set only in the sense that one grasps some rule that generates its members—after all, one obviously cannot grasp them all one by one. And grasping that rule would seem to involve grasping John knows that corn is yummy or some other similar proposition.
+6.0 The possible worlds approach
+We now turn to what is nowadays probably the most popular analysis of propositions and, indeed, of modality: the possible worlds analysis. According to possible worlds semantics (PWS), a proposition is necessary (possible) if true in all (some) worlds, and a proposition is a function that assigns truths–values to worlds or, alternatively, is a set of worlds (viz. the set of worlds where it is true). So the proposition 
+grass is green is a function that assigns truth to all the world where grass is green, falsity to worlds where grass is not green, and either assigns falsity to grass-free worlds or assigns them no truth-value at all.
+In this context, the first question to ask is: what is meant by the term “world”? Oftentimes, advocates of PWS say that “worlds,” as they are using the term, are propositions (or sets of propositions). In that case, as David Lewis (1986) was quick to point out, the PWS slogan that “a proposition is a set of worlds” becomes “a proposition is a set of propositions,” which is not only false but viciously regressive, the same thing mutatis mutandis holding of the statement “a proposition is a function that assigns truth-values to worlds.”
+Aware that treating worlds as propositions (or sets thereof) eviscerates PWS, some advocates of that doctrine say that worlds are just that—worlds: concrete objects like our own, “maximal states of affairs.” Not, it must be emphasized, properties that, if instantiated, would be worlds. But veritable worlds.
+6.1 Problems with this approach
+Not too many are going to grant the existence of bona fide alternative worlds. Second, even if they do exist, we can’t know anything about them except what we can figure out on the basis of modal knowledge obtained independently of our knowledge of those worlds.
+Lewis (1986) says, correctly, that we don’t know about alternative worlds by taking a tour of them. We know about them by considering materials that are available to us here and “employing a principle of recombination”—by, basically, applying modal principles that we already know to hold and then seeing if those principles square with the proposition whose modal status we wish to know (e.g,. there might be square circles in other worlds). But in that case, the worlds answer to us, not us to them. Our modal knowledge is the tail that wags the dog, the dog being these other worlds; and from the viewpoint of explaining (or validating) our modal knowledge, those extra worlds are useless (though there may be other good reasons for positing them).
+6.2 Other problems
+The class of worlds where 1 + 1 = 2 is identical with the class of worlds triangles have three sides. But those propositions are obviously distinct, that being why you can think the one without thinking the other. (There’s no intensional fallacy here, since propositions are intensions.) In its most primitive form, PWS can’t distinguish analytically equivalent propositions. Some advocates of PWS deal with this by saying the following:
+There are two ways of thinking of what functions are. A function can be thought of as a set of ordered pairs. So, from that viewpoint, the function F(x) = x + 1 just is the set of pairs: <1, 2>, <2, 3>....And from that viewpoint, F(x) = x + 1 is identical with the function F(x) = x + (90 – 89). This is the extensional view of functions: functions just are the pairs they generate—how they generate them is irrelevant. But the extensionalist view of functions isn’t the only one, since there’s also the intensionalist view. The intensionalist says that functions are individuated by how they generate the pairs they generate. So, for the intensionalist, for functions to be identical, it is necessary but not sufficient that they generate the same ordered pairs. To avoid falsely identifying distinct, analytically equivalent propositions, PWS must take an intensionalist view of functions. So propositions are functions, and those functions are individuated by their intensions, not their extensions.
+There are two problems here. First, this view still demands that there be other worlds. If those worlds are propositions, then we’re no further along. If those worlds are concrete, then we’re stuck with some useless metaphysical lumber. But leaving those problems aside, the solution just proposed collapses on itself. Propositions are intensions (though not all intensions are propositions—e.g., the propositional function x is a human being is not a proposition, even though it is an intension). This by itself is a problem for PWS since much of its raison d’être is that it replaces intensions, which for various reasons are seen as inimical to scientific thought, with extensions, which are seen as methodologically unimpeachable. So in taking an intensionalist view of
+functions, PWS is undermining itself. For, in taking such a view, PWS is letting properties back in—properties are no longer to be identified with sets of their instances. But, by parity of reasoning, propositions needn’t be identified with sets of their instances (i.e., with sets of worlds where they hold). So PWS cannot, without arbitrariness, take an intensionalist view of functions; but it cannot, without failing to distinguish between obviously distinct propositions, take an extensionalist view of them either.
+6.2.1 A similar problem
+Consider the proposition grass is green. As we know, PWS identifies that proposition with a function (that assigns truth to worlds where grass is green) or with a set of worlds (containing all and only those worlds where grass is green). If it isn’t thought of as a set of ordered pairs, that function must be thought of as a rule of some kind. What kind of rule? One that assigns truth to certain worlds on the basis of their satisfying some condition. What condition is that? The condition that, in those worlds, grass is green. So the function in question, understood intensionally, must be understood in terms of the very proposition in question. So unless the advocate of PWS wants to falsely identify 1 + 1 = 2 with triangles have three sides, he must take an intensionalist view of functions, which means that he must circularly understand the functions with which he aspires to identify propositions with the very propositions with which he aspires to identify them.
+7.0 Conclusion
+Frege (1918) made it clear that propositions are the contents of psychological entities and are not themselves psychological entities. Since Frege, many attempts have been made to say what propositions are. Those attempts have either been programmatic to the point of near-emptiness or demonstrably false or both.
+But it is possible to identify structures that model the properties that we know, on both theoretical and commonsensical grounds, propositions to have. Given any proposition P, it is clear that there is some set of properties p1...pn that will be instantiated just in case P is true. Supposing that S is the set containing those properties, this suggests that S is P and that P’s being true is S’s members’ being instantiated.
+We found that, taking this approach, we could give non-metaphorical meanings to terms that, though liberally used, have thus far been used in a purely metaphorical way—terms like “constituent” and “synthesize.” A “constituent” of a proposition, we found reason to believe, is a member of the set (or, more accurately, of some set, since there are many of the kind in question) of properties whose joint-instantiatedness is necessary and sufficient for that proposition’s truth. As for the term “synthesize”: since all components of propositions are properties, only properties can, in any relevant sense, be synthesized. And two properties p1 and p2 are “synthesized” into another component when a third property, p3, is identified each of whose instances is ipso facto an instance of both p1 and p2. (Or, to put it in a way that doesn’t have any misleading chronological or psychological overtones: p3 is a synthesis of p1 and p2 just in case any instance of p3 is ipso facto an instance of each of p1 and p2.)
+ENDNOTES
+Name: _________________________________________Date: ____________________
+
+Exercises
+1.	1.	Identify three views as to the nature of propositions other than the one advocated in this chapter. What are the merits and demerits of each?
+2.	What is the theory of propositions put forth in this chapter? What are its merits and demerits?
+3.	3.	Why is it presumed (rightly, in the present author’s opinion) that sentences must be isomorphic with the propositions they expression? Why might this presumption be denied?

@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "BERG-G-001",
+    "year": 1950,
+    "premise": "gambling|gambler|system|represents|omnipotent|fantasy",
+    "conclusion": "The gambler's system represents the omnipotent fantasy of controlling the refusing mother",
+    "strength": 0.85,
+    "domain": "gambling neurosis"
+  },
+  {
+    "id": "BERG-G-002",
+    "year": 1950,
+    "premise": "gambling|represents|specific|oral|masochistic|syndrome",
+    "conclusion": "Gambling represents a specific oral-masochistic syndrome, not merely a wish to win",
+    "strength": 0.85,
+    "domain": "gambling neurosis"
+  },
+  {
+    "id": "BERG-G-003",
+    "year": 1950,
+    "premise": "gambling|gambler|primarily|wish|unconsciously|wishes",
+    "conclusion": "The gambler does not primarily wish to win; unconsciously he wishes to lose",
+    "strength": 0.85,
+    "domain": "gambling neurosis"
+  },
+  {
+    "id": "BERG-G-004",
+    "year": 1950,
+    "premise": "gambling|specific|neurosis|rooted|oral|masochism",
+    "conclusion": "Gambling is a specific neurosis rooted in oral masochism, not a vice or character flaw",
+    "strength": 0.85,
+    "domain": "gambling neurosis"
+  },
+  {
+    "id": "BERG-MAP-001",
+    "year": 1950,
+    "premise": "marriage|partner|selection|complaints|about|spouse",
+    "conclusion": "Complaints about the spouse typically represent projections of internal conflicts",
+    "strength": 0.85,
+    "domain": "relationships"
+  },
+  {
+    "id": "BERG-MAP-002",
+    "year": 1950,
+    "premise": "marriage|partner|selection|sexual|incompatibility|symptomatic",
+    "conclusion": "Sexual incompatibility in marriage is symptomatic of deeper oral-phase disturbance",
+    "strength": 0.85,
+    "domain": "relationships"
+  },
+  {
+    "id": "BERG-MAP-003",
+    "year": 1950,
+    "premise": "marriage|partner|selection|unhappy|provides|continuous",
+    "conclusion": "The unhappy marriage provides continuous masochistic gratification through suffering",
+    "strength": 0.85,
+    "domain": "relationships"
+  },
+  {
+    "id": "BERG-MAP-004",
+    "year": 1950,
+    "premise": "marriage|partner|selection|conscious|reasons|mate",
+    "conclusion": "Conscious reasons for mate selection rationalize unconscious neurotic determinants",
+    "strength": 0.85,
+    "domain": "relationships"
+  },
+  {
+    "id": "BERG-TBN-001",
+    "year": 1950,
+    "premise": "basic|neurosis|neuroses|ultimately|derive|unresolved",
+    "conclusion": "All neuroses ultimately derive from unresolved oral-stage conflicts with the pre-Oedipal mother",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-TBN-002",
+    "year": 1950,
+    "premise": "basic|neurosis|infant|experience|refusing|mother",
+    "conclusion": "The infant's experience of the refusing mother establishes the template for later neurotic repetitions",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-TBN-003",
+    "year": 1950,
+    "premise": "basic|neurosis|neuroses|ultimately|derive|unresolved",
+    "conclusion": "All neuroses ultimately derive from unresolved oral-stage conflicts with the pre-Oedipal mother",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-TBN-004",
+    "year": 1950,
+    "premise": "basic|neurosis|infant|experience|refusing|mother",
+    "conclusion": "The infant's experience of the refusing mother establishes the template for later neurotic repetitions",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-PM-001",
+    "year": 1950,
+    "premise": "psychic|masochism|unconscious|pleasure|self|created",
+    "conclusion": "Psychic masochism \u2014 unconscious pleasure in self-created displeasure \u2014 is the core mechanism of all neurotic pathology",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-PM-002",
+    "year": 1950,
+    "premise": "psychic|masochism|distinguished|moral|erogenic",
+    "conclusion": "Psychic masochism must be distinguished from moral masochism and erogenic masochism",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-PM-003",
+    "year": 1950,
+    "premise": "psychic|masochism|unconscious|pleasure|self|created",
+    "conclusion": "Psychic masochism \u2014 unconscious pleasure in self-created displeasure \u2014 is the core mechanism of all neurotic pathology",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-PM-004",
+    "year": 1950,
+    "premise": "psychic|masochism|distinguished|moral|erogenic",
+    "conclusion": "Psychic masochism must be distinguished from moral masochism and erogenic masochism",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-TMT-001",
+    "year": 1950,
+    "premise": "masochistic|triad|defensive|operates|neurotics|provocation",
+    "conclusion": "A defensive triad operates in all neurotics: masochistic provocation, pseudo-aggression, and self-pity",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-TMT-002",
+    "year": 1950,
+    "premise": "masochistic|triad|defensive|operates|neurotics|provocation",
+    "conclusion": "A defensive triad operates in all neurotics: masochistic provocation, pseudo-aggression, and self-pity",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-TMT-003",
+    "year": 1950,
+    "premise": "masochistic|triad|self|destructiveness|operates|characteristic",
+    "conclusion": "Self-destructiveness operates through a characteristic triad of defenses",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-TMT-004",
+    "year": 1950,
+    "premise": "masochistic|triad|first|element|provocation|unconsciously",
+    "conclusion": "First element: masochistic provocation \u2014 unconsciously creating situations of mistreatment",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IC-001",
+    "year": 1950,
+    "premise": "injustice|collecting|neurotic|unconsciously|engineers|situations",
+    "conclusion": "The neurotic unconsciously engineers situations of rejection and disappointment through injustice collecting",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IC-002",
+    "year": 1950,
+    "premise": "injustice|collecting|conscience|weaponized|neurotic|provokes",
+    "conclusion": "Conscience can be weaponized: the neurotic provokes situations to feel unjustly accused",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IC-003",
+    "year": 1950,
+    "premise": "injustice|collecting|marital|grievances|frequently|function",
+    "conclusion": "Marital grievances frequently function as injustice collecting",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IC-004",
+    "year": 1950,
+    "premise": "injustice|collecting|neurotic|complaint|prize|surrendering",
+    "conclusion": "The neurotic's complaint is his prize \u2014 surrendering grievances feels like loss",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG--001",
+    "year": 1950,
+    "premise": "pseudo|aggression|genuine|defense|masking|underlying",
+    "conclusion": "Pseudo-aggression is not genuine aggression but a defense masking underlying masochistic wishes",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG--002",
+    "year": 1950,
+    "premise": "pseudo|aggression|genuine|defense|masking|underlying",
+    "conclusion": "Pseudo-aggression is not genuine aggression but a defense masking underlying masochistic wishes",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG--003",
+    "year": 1950,
+    "premise": "pseudo|aggression|retaliation|occurs|pseudoaggressive|righteous",
+    "conclusion": "Retaliation occurs through pseudoaggressive righteous indignation against alleged injustice",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG--004",
+    "year": 1950,
+    "premise": "pseudo|aggression|neurotic|pseudoaggression|promotes|self",
+    "conclusion": "All neurotic aggression is pseudoaggression that promotes self-damage",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-OVO-001",
+    "year": 1950,
+    "premise": "oral|oedipal|primacy|conflicts|secondary|elaborations",
+    "conclusion": "Oedipal conflicts are secondary elaborations of more fundamental oral-stage disturbances",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-OVO-002",
+    "year": 1950,
+    "premise": "oral|oedipal|primacy|conflicts|secondary|elaborations",
+    "conclusion": "Oedipal conflicts are secondary elaborations of more fundamental oral-stage disturbances",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-OVO-003",
+    "year": 1950,
+    "premise": "oral|oedipal|primacy|apparent|conflicts|often",
+    "conclusion": "Apparent Oedipal conflicts often mask deeper oral injuries",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-TS-001",
+    "year": 1950,
+    "premise": "superego|neurotic|derives|cruelty|introjection|denying",
+    "conclusion": "The neurotic superego derives its cruelty from introjection of the denying mother",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TS-002",
+    "year": 1950,
+    "premise": "superego|conscience|primarily|derived|internalized|oedipal",
+    "conclusion": "Conscience is primarily derived from the internalized pre-Oedipal mother, not the Oedipal father",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TS-003",
+    "year": 1950,
+    "premise": "superego|cruelty|conscience|reflects|deprivations|experienced",
+    "conclusion": "The cruelty of conscience reflects deprivations experienced at the oral stage",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TS-004",
+    "year": 1950,
+    "premise": "superego|battles|often|dramatize|unresolved|infant",
+    "conclusion": "Superego battles often dramatize unresolved infant-mother conflicts",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TSO-001",
+    "year": 1950,
+    "premise": "septet|baby|fears|seven|unconscious|originating",
+    "conclusion": "The septet of baby fears \u2014 seven unconscious fears originating in oral helplessness \u2014 persist into adulthood",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-TSO-002",
+    "year": 1950,
+    "premise": "septet|baby|fears|seven|unconscious|originating",
+    "conclusion": "The septet of baby fears \u2014 seven unconscious fears originating in oral helplessness \u2014 persist into adulthood",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-PT-001",
+    "year": 1950,
+    "premise": "psychoanalytic|technique|therapeutic|success|requires|working",
+    "conclusion": "Therapeutic success requires working through oral regression, not merely resolving Oedipal material",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-PT-002",
+    "year": 1950,
+    "premise": "psychoanalytic|technique|therapeutic|pessimism|often|countertransference",
+    "conclusion": "Therapeutic pessimism is often countertransference to the patient's masochistic provocations",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-PT-003",
+    "year": 1950,
+    "premise": "psychoanalytic|technique|analyst|avoid|becoming|refusing",
+    "conclusion": "The analyst must avoid becoming the refusing mother in the transference",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-PT-004",
+    "year": 1950,
+    "premise": "psychoanalytic|technique|therapeutic|success|requires|working",
+    "conclusion": "Therapeutic success requires working through the entire oral-masochistic constellation, not symptom removal",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-B-001",
+    "year": 1950,
+    "premise": "writer|block|specific|manifestation|oral|masochism",
+    "conclusion": "Writer's block is a specific manifestation of oral masochism, not mere performance anxiety",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-B-002",
+    "year": 1950,
+    "premise": "writer|block|writers|unconsciously|seek|rejection",
+    "conclusion": "Writers unconsciously seek rejection through their work, satisfying masochistic needs",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-B-003",
+    "year": 1950,
+    "premise": "writer|block|creative|involves|unconscious|guilt",
+    "conclusion": "Creative block involves unconscious guilt over the act of creation itself, which usurps the maternal function",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-B-004",
+    "year": 1950,
+    "premise": "writer|block|audience|unconsciously|represents|approving",
+    "conclusion": "The audience unconsciously represents the approving or disapproving mother",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-CAO-001",
+    "year": 1950,
+    "premise": "creativity|orality|creative|writer|achieves|psychic",
+    "conclusion": "The creative writer achieves psychic autarchy \u2014 a fantasy of self-sufficiency recapitulating oral omnipotence",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-CAO-002",
+    "year": 1950,
+    "premise": "creativity|orality|literary|involves|controlled|regression",
+    "conclusion": "Literary creativity involves controlled regression to oral-stage modes of experience",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-CAO-003",
+    "year": 1950,
+    "premise": "creativity|orality|writer|relationship|language|recapitulates",
+    "conclusion": "The writer's relationship to language recapitulates the infant's relationship to the maternal voice",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-CAO-004",
+    "year": 1950,
+    "premise": "creativity|orality|writers|exhibit|mechanism|vocational",
+    "conclusion": "Writers exhibit the mechanism of orality as a vocational determinant",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-TMC-001",
+    "year": 1950,
+    "premise": "muse|concept|represents|giving|oedipal|mother",
+    "conclusion": "The Muse represents the giving pre-Oedipal mother; writer's block represents her withdrawal",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-TMC-002",
+    "year": 1950,
+    "premise": "muse|concept|represents|giving|oedipal|mother",
+    "conclusion": "The Muse represents the giving pre-Oedipal mother; writer's block represents her withdrawal",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-TMC-003",
+    "year": 1950,
+    "premise": "muse|concept|internal|representation|oedipal|giving",
+    "conclusion": "The Muse is the internal representation of the pre-Oedipal giving mother",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-TMC-004",
+    "year": 1950,
+    "premise": "muse|concept|creative|flow|depends|unconscious",
+    "conclusion": "Creative flow depends on the unconscious sense that the Muse is giving",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-GAM-001",
+    "year": 1950,
+    "premise": "guilt|masochism|frequently|unconsciously|manufactured|satisfy",
+    "conclusion": "Guilt is frequently unconsciously manufactured to satisfy masochistic needs",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-GAM-002",
+    "year": 1950,
+    "premise": "guilt|masochism|self|punishment|often|precedes",
+    "conclusion": "Self-punishment often precedes and unconsciously licenses subsequent forbidden behavior",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-GAM-003",
+    "year": 1950,
+    "premise": "guilt|masochism|unconscious|over|taking|leads",
+    "conclusion": "Unconscious guilt over taking leads to compulsive giving or inability to earn",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-GAM-004",
+    "year": 1950,
+    "premise": "guilt|masochism|frequently|unconsciously|manufactured|satisfy",
+    "conclusion": "Guilt is frequently unconsciously manufactured to satisfy masochistic needs",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-MM-001",
+    "year": 1950,
+    "premise": "moral|masochism|pseudo|connotation|disguises|masochistic",
+    "conclusion": "The pseudo-moral connotation disguises masochistic satisfaction as ethical suffering",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-MM-002",
+    "year": 1950,
+    "premise": "moral|masochism|many|stances|unconscious|rationalizations",
+    "conclusion": "Many moral stances are unconscious rationalizations of underlying masochistic needs",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-MM-003",
+    "year": 1950,
+    "premise": "moral|masochism|distinguished|genuine|ethical|commitment",
+    "conclusion": "Moral masochism must be distinguished from genuine ethical commitment",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-MM-004",
+    "year": 1950,
+    "premise": "moral|masochism|pseudo|connotation|disguises|masochistic",
+    "conclusion": "The pseudo-moral connotation disguises masochistic satisfaction as ethical suffering",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-TIL-001",
+    "year": 1950,
+    "premise": "inner|lawyer|mechanism|defends|against|superego",
+    "conclusion": "An inner lawyer mechanism defends the ego against superego accusations with sophisticated rationalizations",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TIL-002",
+    "year": 1950,
+    "premise": "inner|lawyer|mechanism|defends|against|superego",
+    "conclusion": "An inner lawyer mechanism defends the ego against superego accusations with sophisticated rationalizations",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TIL-003",
+    "year": 1950,
+    "premise": "inner|lawyer|pleads|superego|loses",
+    "conclusion": "The inner lawyer pleads before the superego but always loses",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-TIL-004",
+    "year": 1950,
+    "premise": "inner|lawyer|defends|sophisticated|ultimately|losing",
+    "conclusion": "The inner lawyer defends the ego with sophisticated but ultimately losing arguments",
+    "strength": 0.85,
+    "domain": "superego"
+  },
+  {
+    "id": "BERG-MAE-001",
+    "year": 1950,
+    "premise": "money|emotional|conflicts|attitudes|toward|shaped",
+    "conclusion": "Attitudes toward money are shaped primarily by oral-stage experiences, not anal fixation alone",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-MAE-002",
+    "year": 1950,
+    "premise": "money|emotional|conflicts|miser|unconsciously|equates",
+    "conclusion": "The miser unconsciously equates money with maternal supplies and hoards against oral deprivation",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-MAE-003",
+    "year": 1950,
+    "premise": "money|emotional|conflicts|spendthrift|enacts|masochistic",
+    "conclusion": "The spendthrift enacts masochistic self-damage through financial self-destruction",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-MAE-004",
+    "year": 1950,
+    "premise": "money|emotional|conflicts|economic|irrationality|becomes",
+    "conclusion": "Economic irrationality becomes comprehensible when understood as oral-masochistic repetition",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG--001",
+    "year": 1950,
+    "premise": "self|destructiveness|financial|sabotage|expresses|psychic",
+    "conclusion": "Financial self-sabotage expresses psychic masochism in the economic sphere",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG--002",
+    "year": 1950,
+    "premise": "self|destructiveness|neurotic|financial|decisions|serve",
+    "conclusion": "The neurotic's financial decisions serve masochistic purposes disguised as rational choice",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG--003",
+    "year": 1950,
+    "premise": "self|destructiveness|damage|accidental|unconsciously|motivated",
+    "conclusion": "Self-damage is not accidental but unconsciously motivated by psychic masochism",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG--004",
+    "year": 1950,
+    "premise": "self|destructiveness|accident|prone|personality|expresses",
+    "conclusion": "The accident-prone personality expresses oral-masochistic structure",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-SN-001",
+    "year": 1950,
+    "premise": "success|neurosis|anxiety|often|leads|unconscious",
+    "conclusion": "Success anxiety often leads to unconscious financial self-damage at moments of prosperity",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-SN-002",
+    "year": 1950,
+    "premise": "success|neurosis|unconsciously|experienced|forbidden|oral",
+    "conclusion": "Success is unconsciously experienced as forbidden oral gratification, triggering self-punishment",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-SN-003",
+    "year": 1950,
+    "premise": "success|neurosis|anxiety|often|leads|unconscious",
+    "conclusion": "Success anxiety often leads to unconscious financial self-damage at moments of prosperity",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-SN-004",
+    "year": 1950,
+    "premise": "success|neurosis|unconsciously|experienced|forbidden|oral",
+    "conclusion": "Success is unconsciously experienced as forbidden oral gratification, triggering self-punishment",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-FAT-001",
+    "year": 1950,
+    "premise": "fashion|unconscious|serves|oral|exhibitionistic|needs",
+    "conclusion": "Fashion serves oral-exhibitionistic needs, displaying oneself to elicit maternal approval",
+    "strength": 0.85,
+    "domain": "fashion psychology"
+  },
+  {
+    "id": "BERG-FAT-002",
+    "year": 1950,
+    "premise": "fashion|unconscious|changes|represent|collective|shifts",
+    "conclusion": "Fashion changes represent collective shifts in unconscious defenses against oral anxiety",
+    "strength": 0.85,
+    "domain": "fashion psychology"
+  },
+  {
+    "id": "BERG-FAT-003",
+    "year": 1950,
+    "premise": "fashion|unconscious|industry|exploits|universal|oral",
+    "conclusion": "The fashion industry exploits universal oral-narcissistic vulnerabilities",
+    "strength": 0.85,
+    "domain": "fashion psychology"
+  },
+  {
+    "id": "BERG-FAT-004",
+    "year": 1950,
+    "premise": "fashion|unconscious|clothing|choices|express|oral",
+    "conclusion": "Clothing choices express oral-phase conflicts: the wish to be seen and admired and fear of rejection",
+    "strength": 0.85,
+    "domain": "fashion psychology"
+  },
+  {
+    "id": "BERG-LAH-001",
+    "year": 1950,
+    "premise": "laughter|humor|genuine|requires|successful|sublimation",
+    "conclusion": "Genuine humor requires successful sublimation of oral-sadistic and oral-masochistic impulses",
+    "strength": 0.85,
+    "domain": "humor"
+  },
+  {
+    "id": "BERG-LAH-002",
+    "year": 1950,
+    "premise": "laughter|humor|comic|involves|brief|regression",
+    "conclusion": "The comic involves a brief regression to infantile omnipotence followed by ego mastery",
+    "strength": 0.85,
+    "domain": "humor"
+  },
+  {
+    "id": "BERG-LAH-003",
+    "year": 1950,
+    "premise": "laughter|humor|aggressive|expresses|oral|sadistic",
+    "conclusion": "Aggressive wit expresses oral-sadistic impulses in socially acceptable form",
+    "strength": 0.85,
+    "domain": "humor"
+  },
+  {
+    "id": "BERG-LAH-004",
+    "year": 1950,
+    "premise": "laughter|humor|self|deprecating|represent|masochistic",
+    "conclusion": "Self-deprecating humor may represent masochistic satisfaction disguised as playfulness",
+    "strength": 0.85,
+    "domain": "humor"
+  },
+  {
+    "id": "BERG-C-001",
+    "year": 1950,
+    "premise": "curability|treatability|depends|depth|oral|regression",
+    "conclusion": "Treatability depends on the depth of oral regression and rigidity of masochistic defenses",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-C-002",
+    "year": 1950,
+    "premise": "curability|incurable|neurotics|whose|masochistic|satisfactions",
+    "conclusion": "Incurable neurotics are those whose masochistic satisfactions outweigh their suffering",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-C-003",
+    "year": 1950,
+    "premise": "curability|patient|unconscious|resistance|cure|masochistic",
+    "conclusion": "The patient's unconscious resistance to cure is itself a masochistic phenomenon",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-C-004",
+    "year": 1950,
+    "premise": "curability|length|illness|determine|structure|defenses",
+    "conclusion": "Length of illness does not determine curability; structure of defenses does",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-PI-001",
+    "year": 1950,
+    "premise": "psychosomatic|illness|physical|serve|masochistic|purposes",
+    "conclusion": "Physical illness can serve masochistic purposes as organ neurosis",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PI-002",
+    "year": 1950,
+    "premise": "psychosomatic|illness|physical|serve|masochistic|purposes",
+    "conclusion": "Physical illness can serve masochistic purposes as organ neurosis",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-P-001",
+    "year": 1950,
+    "premise": "perversions|sexual|aberrant|sexuality|counterfeit|substitutes",
+    "conclusion": "Sexual perversions are not aberrant sexuality but counterfeit substitutes for genuine genitality",
+    "strength": 0.85,
+    "domain": "perversions"
+  },
+  {
+    "id": "BERG-P-002",
+    "year": 1950,
+    "premise": "perversions|rooted|oral|masochistic|fixation|oedipal",
+    "conclusion": "All perversions are rooted in oral-masochistic fixation, not Oedipal conflict",
+    "strength": 0.85,
+    "domain": "perversions"
+  },
+  {
+    "id": "BERG-P-003",
+    "year": 1950,
+    "premise": "perversions|pervert|unconsciously|seeks|humiliation|rejection",
+    "conclusion": "The pervert unconsciously seeks humiliation and rejection through sexual activity",
+    "strength": 0.85,
+    "domain": "perversions"
+  },
+  {
+    "id": "BERG-P-004",
+    "year": 1950,
+    "premise": "perversions|exhibitionism|expresses|oral|seen|oedipal",
+    "conclusion": "Exhibitionism expresses the oral need to be seen by the pre-Oedipal mother",
+    "strength": 0.85,
+    "domain": "perversions"
+  },
+  {
+    "id": "BERG-MC-001",
+    "year": 1950,
+    "premise": "midlife|crisis|regression|oral|phase|conflicts",
+    "conclusion": "The midlife crisis is a regression to oral-phase conflicts, not a developmental stage",
+    "strength": 0.85,
+    "domain": "midlife"
+  },
+  {
+    "id": "BERG-MC-002",
+    "year": 1950,
+    "premise": "midlife|crisis|middle|aged|restlessness|expresses",
+    "conclusion": "The middle-aged man's restlessness expresses reactivated infantile oral dissatisfaction",
+    "strength": 0.85,
+    "domain": "midlife"
+  },
+  {
+    "id": "BERG-MC-003",
+    "year": 1950,
+    "premise": "midlife|crisis|affairs|represent|masochistic|acting",
+    "conclusion": "Affairs in midlife represent masochistic acting-out, not genuine renewal",
+    "strength": 0.85,
+    "domain": "midlife"
+  },
+  {
+    "id": "BERG-MC-004",
+    "year": 1950,
+    "premise": "midlife|crisis|younger|woman|symbolizes|idealized",
+    "conclusion": "The younger woman symbolizes the idealized pre-Oedipal mother before she refused",
+    "strength": 0.85,
+    "domain": "midlife"
+  },
+  {
+    "id": "BERG-PAN-001",
+    "year": 1950,
+    "premise": "parents|neurosis|parental|guilt|children|neuroses",
+    "conclusion": "Parental guilt for children's neuroses is itself often a neurotic masochistic phenomenon",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-PAN-002",
+    "year": 1950,
+    "premise": "parents|neurosis|child|constitutional|oral|endowment",
+    "conclusion": "The child's constitutional oral endowment shapes neurotic development more than parental behavior",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-PAN-003",
+    "year": 1950,
+    "premise": "parents|neurosis|good|enough|parenting|prevent",
+    "conclusion": "Good enough parenting cannot prevent neurosis in constitutionally vulnerable children",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-PAN-004",
+    "year": 1950,
+    "premise": "parents|neurosis|child|actively|interprets|parental",
+    "conclusion": "The child actively interprets parental behavior through the lens of oral-phase fantasy",
+    "strength": 0.85,
+    "domain": "etiology"
+  },
+  {
+    "id": "BERG-OP-001",
+    "year": 1950,
+    "premise": "oral|phenomena|boredom|defense|against|dangerous",
+    "conclusion": "Boredom is a defense against dangerous oral wishes, not absence of stimulation",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-OP-002",
+    "year": 1950,
+    "premise": "oral|phenomena|stage|fright|expresses|exhibitionistic",
+    "conclusion": "Stage fright expresses oral-exhibitionistic conflict before the audience-mother",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-OP-003",
+    "year": 1950,
+    "premise": "oral|phenomena|reading|inhibitions|parallel|writer",
+    "conclusion": "Reading inhibitions parallel writer's block as oral-phase disturbances",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-OP-004",
+    "year": 1950,
+    "premise": "oral|phenomena|breast|complex|underlies|male",
+    "conclusion": "The breast complex underlies male psychology more pervasively than recognized",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-SS-001",
+    "year": 1950,
+    "premise": "sexual|symptoms|premature|ejaculation|expresses|oral",
+    "conclusion": "Premature ejaculation expresses oral-sadistic retaliation against women",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-SS-002",
+    "year": 1950,
+    "premise": "sexual|symptoms|frigidity|active|oral|refusal",
+    "conclusion": "Frigidity is active oral refusal, not passive inability",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-SS-003",
+    "year": 1950,
+    "premise": "sexual|symptoms|premature|ejaculation|expresses|oral",
+    "conclusion": "Premature ejaculation expresses oral-sadistic retaliation against women",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-SS-004",
+    "year": 1950,
+    "premise": "sexual|symptoms|frigidity|active|oral|refusal",
+    "conclusion": "Frigidity is active oral refusal, not passive inability",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-C-001",
+    "year": 1950,
+    "premise": "criminosis|criminality|often|serves|masochistic|purposes",
+    "conclusion": "Criminality often serves masochistic purposes through unconscious wish for punishment",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-C-002",
+    "year": 1950,
+    "premise": "criminosis|self|damage|disguised|aggression|against",
+    "conclusion": "Criminosis is self-damage disguised as aggression against others",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-SOB-001",
+    "year": 1950,
+    "premise": "septet|baby|fears|fear|starved|manifests",
+    "conclusion": "Fear of being starved manifests as block experienced as creative starvation",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-SOB-002",
+    "year": 1950,
+    "premise": "septet|baby|fears|fear|devoured|manifests",
+    "conclusion": "Fear of being devoured manifests as block defending against engulfment by the material",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-SOB-003",
+    "year": 1950,
+    "premise": "septet|baby|fears|fear|poisoned|manifests",
+    "conclusion": "Fear of being poisoned manifests as block fearing production of toxic or harmful writing",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-SOB-004",
+    "year": 1950,
+    "premise": "septet|baby|fears|fear|choked|manifests",
+    "conclusion": "Fear of being choked manifests as block experienced as inability to get words out",
+    "strength": 0.85,
+    "domain": "oral regression"
+  },
+  {
+    "id": "BERG-BT-001",
+    "year": 1950,
+    "premise": "writer|block|types|total|produce|complete",
+    "conclusion": "The total block writer cannot produce at all due to complete Muse withdrawal",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-002",
+    "year": 1950,
+    "premise": "writer|block|types|intermittent|cycles|flow",
+    "conclusion": "The intermittent block writer cycles between flow and inhibition due to ambivalent Muse",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-003",
+    "year": 1950,
+    "premise": "writer|block|types|slow|maintains|masochistic",
+    "conclusion": "The slow writer maintains masochistic suffering through laborious production",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-004",
+    "year": 1950,
+    "premise": "writer|block|types|blocked|perfectionist|uses",
+    "conclusion": "The blocked perfectionist uses standards as rationalized Muse-appeasement",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-001",
+    "year": 1950,
+    "premise": "writer|block|treatment|address|oral|masochistic",
+    "conclusion": "Treatment must address oral-masochistic structure, not creativity techniques",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-002",
+    "year": 1950,
+    "premise": "writer|block|treatment|recognize|unconscious|authorship",
+    "conclusion": "The writer must recognize his unconscious authorship of the block",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-003",
+    "year": 1950,
+    "premise": "writer|block|treatment|insight|masochistic|satisfaction",
+    "conclusion": "Insight into masochistic satisfaction is prerequisite to resolution",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-BT-004",
+    "year": 1950,
+    "premise": "writer|block|treatment|transference|recapitulate|muse",
+    "conclusion": "The transference will recapitulate the Muse relationship",
+    "strength": 0.85,
+    "domain": "creative inhibition"
+  },
+  {
+    "id": "BERG-IR-001",
+    "year": 1950,
+    "premise": "self|destructiveness|relationships|neurotic|mate|selection",
+    "conclusion": "Neurotic mate selection ensures relational self-damage",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IR-002",
+    "year": 1950,
+    "premise": "self|destructiveness|relationships|destructive|chooses|partners",
+    "conclusion": "The self-destructive person chooses partners guaranteed to disappoint",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IR-003",
+    "year": 1950,
+    "premise": "self|destructiveness|relationships|unconscious|complementarity|matches",
+    "conclusion": "Unconscious complementarity matches self-destructive partners together",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-IR-004",
+    "year": 1950,
+    "premise": "self|destructiveness|relationships|marital|unhappiness|provides",
+    "conclusion": "Marital unhappiness provides continuous masochistic gratification",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-C-001",
+    "year": 1950,
+    "premise": "career|self|sabotage|expresses|psychic|masochism",
+    "conclusion": "Career self-sabotage expresses psychic masochism in the vocational sphere",
+    "strength": 0.85,
+    "domain": "success neurosis"
+  },
+  {
+    "id": "BERG-C-002",
+    "year": 1950,
+    "premise": "career|self|sabotage|destructive|worker|unconsciously",
+    "conclusion": "The self-destructive worker unconsciously engineers failure and disappointment",
+    "strength": 0.85,
+    "domain": "success neurosis"
+  },
+  {
+    "id": "BERG-C-003",
+    "year": 1950,
+    "premise": "career|self|sabotage|success|anxiety|triggers",
+    "conclusion": "Success anxiety triggers self-destructive responses at moments of achievement",
+    "strength": 0.85,
+    "domain": "success neurosis"
+  },
+  {
+    "id": "BERG-C-004",
+    "year": 1950,
+    "premise": "career|self|sabotage|procrastination|serves|destructive",
+    "conclusion": "Procrastination serves self-destructive purposes by creating crisis and failure",
+    "strength": 0.85,
+    "domain": "success neurosis"
+  },
+  {
+    "id": "BERG-F-001",
+    "year": 1950,
+    "premise": "financial|self|destructiveness|damage|expresses|psychic",
+    "conclusion": "Financial self-damage expresses psychic masochism in the economic sphere",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-F-002",
+    "year": 1950,
+    "premise": "financial|self|destructiveness|spending|beyond|means",
+    "conclusion": "Spending beyond means serves masochistic purposes of self-created deprivation",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-F-003",
+    "year": 1950,
+    "premise": "financial|self|destructiveness|success|triggers|guilt",
+    "conclusion": "Financial success triggers guilt and subsequent self-destructive financial behavior",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-F-004",
+    "year": 1950,
+    "premise": "financial|self|destructiveness|investments|often|unconsciously",
+    "conclusion": "Bad investments are often unconsciously selected for their likelihood of failure",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-P-001",
+    "year": 1950,
+    "premise": "physical|self|destructiveness|accident|proneness|reflects",
+    "conclusion": "Accident-proneness reflects unconsciously motivated self-damage",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-P-002",
+    "year": 1950,
+    "premise": "physical|self|destructiveness|luck|matters|typically",
+    "conclusion": "Bad luck in physical matters is typically unconsciously arranged",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-P-003",
+    "year": 1950,
+    "premise": "physical|self|destructiveness|certain|illnesses|serve",
+    "conclusion": "Certain illnesses serve masochistic purposes as organ neurosis",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-P-004",
+    "year": 1950,
+    "premise": "physical|self|destructiveness|neglect|diet|sleep",
+    "conclusion": "Self-neglect in diet, sleep, and medical care expresses chronic self-destructiveness",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-R-001",
+    "year": 1950,
+    "premise": "self|destructiveness|recognition|destructive|patterns|syntonic",
+    "conclusion": "Self-destructive patterns are ego-syntonic \u2014 the person does not recognize them as self-created",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-R-002",
+    "year": 1950,
+    "premise": "self|destructiveness|recognition|destructive|experiences|suffering",
+    "conclusion": "The self-destructive person experiences his suffering as externally imposed",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-R-003",
+    "year": 1950,
+    "premise": "self|destructiveness|recognition|insight|destructive|patterns",
+    "conclusion": "Insight into self-destructive patterns is resisted because it threatens masochistic satisfaction",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-R-004",
+    "year": 1950,
+    "premise": "self|destructiveness|recognition|inner|lawyer|provides",
+    "conclusion": "The inner lawyer provides convincing rationalizations for self-destructive choices",
+    "strength": 0.85,
+    "domain": "psychic masochism"
+  },
+  {
+    "id": "BERG-UT-001",
+    "year": 1950,
+    "premise": "unified|theory|gambling|marriage|career|three",
+    "conclusion": "Gambling, marriage, and career are three theaters staging the same oral-masochistic drama",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-UT-002",
+    "year": 1950,
+    "premise": "unified|theory|unconscious|seeks|repetition|maternal",
+    "conclusion": "The unconscious seeks repetition of maternal refusal regardless of the life domain",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-UT-003",
+    "year": 1950,
+    "premise": "unified|theory|object|choice|gambling|marriage",
+    "conclusion": "Object choice in gambling, marriage, and career is determined by the repetition compulsion",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-UT-004",
+    "year": 1950,
+    "premise": "unified|theory|gambler|unhappy|spouse|career",
+    "conclusion": "The gambler, the unhappy spouse, and the career self-saboteur share identical psychic structure",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-UTT-001",
+    "year": 1950,
+    "premise": "unified|theory|treatment|treating|gambling|without",
+    "conclusion": "Treating gambling without addressing marital and career manifestations produces displacement",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-UTT-002",
+    "year": 1950,
+    "premise": "unified|theory|treatment|marital|therapy|without",
+    "conclusion": "Marital therapy without structural analysis leads to divorce and repetition with a new partner",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-UTT-003",
+    "year": 1950,
+    "premise": "unified|theory|treatment|career|coaching|without",
+    "conclusion": "Career coaching without analytic understanding cannot prevent self-sabotage",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-UTT-004",
+    "year": 1950,
+    "premise": "unified|theory|treatment|insight|triad|domain",
+    "conclusion": "Insight into the triad in one domain facilitates insight in others",
+    "strength": 0.85,
+    "domain": "clinical"
+  },
+  {
+    "id": "BERG-A-001",
+    "year": 1950,
+    "premise": "addiction|represents|oral|regression|stage|substance",
+    "conclusion": "Addiction represents oral regression to a stage where a substance replaces the mother",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-A-002",
+    "year": 1950,
+    "premise": "addiction|addict|seeks|illusion|oral|fusion",
+    "conclusion": "The addict seeks the illusion of oral fusion with the substance",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-A-003",
+    "year": 1950,
+    "premise": "addiction|addictive|patterns|inevitably|become|self",
+    "conclusion": "Addictive patterns inevitably become self-punishing, which serves the masochistic component",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-A-004",
+    "year": 1950,
+    "premise": "addiction|addict|relationship|substance|replicates|ambivalent",
+    "conclusion": "The addict's relationship to the substance replicates the ambivalent oral relationship: desperate need combined with rage",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PM-001",
+    "year": 1950,
+    "premise": "pathological|masculinity|pseudo|aggression|juanism|often",
+    "conclusion": "Pseudo-aggression and Don Juanism often mask underlying passivity and unconscious feminine identification",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PM-002",
+    "year": 1950,
+    "premise": "pathological|masculinity|compulsive|seducer|driven|sexual",
+    "conclusion": "The compulsive seducer is not driven by sexual desire but by the need to prove masculinity he unconsciously doubts",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PM-003",
+    "year": 1950,
+    "premise": "pathological|masculinity|needs|dominate|women|defending",
+    "conclusion": "The man who needs to dominate women is defending against terror of women derived from the early maternal relationship",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PM-004",
+    "year": 1950,
+    "premise": "pathological|masculinity|sadistic|toward|women|expressing",
+    "conclusion": "The sadistic man toward women is expressing displaced aggression originally directed at the mother",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PF-001",
+    "year": 1950,
+    "premise": "pathological|femininity|women|choose|unsuitable|making",
+    "conclusion": "Women who choose unsuitable men are not making errors of judgment but unconscious choices guaranteeing disappointment",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PF-002",
+    "year": 1950,
+    "premise": "pathological|femininity|masochistic|submission|women|often",
+    "conclusion": "Masochistic submission in women often represents aggression turned inward combined with repetition of early maternal submission",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PF-003",
+    "year": 1950,
+    "premise": "pathological|femininity|competition|sometimes|represents|identification",
+    "conclusion": "Competition with men sometimes represents identification with the aggressor combined with revenge for early narcissistic injuries",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-PF-004",
+    "year": 1950,
+    "premise": "pathological|femininity|woman|sabotages|husband|success",
+    "conclusion": "The woman who sabotages her husband's success may be expressing displaced aggression or maintaining his dependency",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-DC-001",
+    "year": 1950,
+    "premise": "diagnostic|categories|neurosis|psychosis|differ|degree",
+    "conclusion": "Neurosis and psychosis differ in degree of ego damage and relationship to reality",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-DC-002",
+    "year": 1950,
+    "premise": "diagnostic|categories|specific|form|neurosis|depends",
+    "conclusion": "The specific form of neurosis depends on the developmental point of fixation and defense mechanisms employed",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-DC-003",
+    "year": 1950,
+    "premise": "diagnostic|categories|hysteria|primarily|employs|repression",
+    "conclusion": "Hysteria primarily employs repression and involves genital-Oedipal themes but with underlying oral components",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-DC-004",
+    "year": 1950,
+    "premise": "diagnostic|categories|obsessional|neurosis|employs|isolation",
+    "conclusion": "Obsessional neurosis employs isolation, undoing, and reaction formation; it appears anal but often masks oral conflicts",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-TTF-001",
+    "year": 1950,
+    "premise": "talent|stupidity|subdivision|masochistic|neurosis|cognitive",
+    "conclusion": "Stupidity is a subdivision of masochistic neurosis, not a cognitive deficit",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-TTF-002",
+    "year": 1950,
+    "premise": "talent|stupidity|bungler|unconsciously|arranges|incompetence",
+    "conclusion": "The bungler unconsciously arranges his incompetence to satisfy masochistic needs",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-TTF-003",
+    "year": 1950,
+    "premise": "talent|stupidity|chronic|ineffectuality|represents|stabilized",
+    "conclusion": "Chronic ineffectuality represents a stabilized masochistic compromise formation",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-TTF-004",
+    "year": 1950,
+    "premise": "talent|stupidity|fool|uses|defense|against",
+    "conclusion": "The fool uses stupidity as a defense against forbidden knowledge",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-RS-001",
+    "year": 1950,
+    "premise": "rescue|stations|later|developmental|stages|serve",
+    "conclusion": "Later developmental stages serve as rescue stations from oral catastrophe",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-RS-002",
+    "year": 1950,
+    "premise": "rescue|stations|oedipal|conflicts|function|defenses",
+    "conclusion": "Oedipal conflicts can function as defenses against more primitive oral fears",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-RS-003",
+    "year": 1950,
+    "premise": "rescue|stations|neurotic|clings|station|desperate",
+    "conclusion": "The neurotic clings to his rescue station with desperate intensity",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-RS-004",
+    "year": 1950,
+    "premise": "rescue|stations|genital|sexuality|station|oral",
+    "conclusion": "Genital sexuality can be used as a rescue station from oral anxiety",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-CE-001",
+    "year": 1950,
+    "premise": "clinical|entities|pathological|blushing|oral|exhibitionistic",
+    "conclusion": "Pathological blushing is an oral-exhibitionistic symptom",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-CE-002",
+    "year": 1950,
+    "premise": "clinical|entities|sunday|neurosis|reflects|loss",
+    "conclusion": "The Sunday neurosis reflects loss of work as defense against oral conflict",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-CE-003",
+    "year": 1950,
+    "premise": "clinical|entities|psychogenic|aspermia|involves|oral",
+    "conclusion": "Psychogenic aspermia involves oral withholding from the demanding mother-wife",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  },
+  {
+    "id": "BERG-CE-004",
+    "year": 1950,
+    "premise": "clinical|entities|alysosis|specific|form|masochistic",
+    "conclusion": "Alysosis is a specific form of masochistic martyrdom",
+    "strength": 0.85,
+    "domain": "psychoanalysis"
+  }
+]

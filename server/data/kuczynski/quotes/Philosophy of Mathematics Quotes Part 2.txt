@@ -1,0 +1,738 @@
+
+159. All information-transmission relies on structure-preservation: Structures must physically be preserved if it is to be possible to know about the past or to predict the future (or to make inferences about the nonperceptible present, since doing as much always involves an element of prediction or retrodiction).
+160. A language preserves evanescent physical structures by mapping them onto non-transient mathematical structures (functions from noise-types to meanings).
+161. The objects of perception may be identified with any structure that validates the presumption that our perceptions are accurate within the limits set by the fact that our perceptions are effects of their objects and, therefore, are at least slightly inaccurate.
+162. The only data-consistent higher-order theories---theories as to why our lower-order theories are dataconsistent----are to the effect that our perceptions have external causes and, more generally, that the psychic residues of our interactions with the world tend, however feebly, to embody the structure of the world.
+163. Any given formal calculus is an instance of aleph-null, this being the cardinality of the class of natural numbers. This is because anything that is recursively defined is an instance of aleph-null.
+164. Logic studies those geometrical properties of onedimensional expression-strings that are preserved under certain operations.
+165. A truth is formal if it belongs to a language L such that true-in-L is recursively definable. Any recursive definition, and thus any recursive definition of true- in-L, can be expressed as a definition of some class of finite numbers.
+166. Given the just-stated incompleteness principle, any truth of formal logic can be coded into an arithmetical truth but not vice versa. Thus, arithmetic, though surely not correctly described as the study of truth and falsity, is more appropriately so described than formal logic.
+167. Statements about a language L must be distinguished from statements within L. What can be said in L doesn't coincide with what can be said about L.
+168. If L* is the language being used to discuss L, then, in that discursive context, L* is functioning as a metalanguage and L is functioning as an object-language.
+169. A language is an integrated set of semantic rules. A semantic rule is a proposition R to the effect that expression E has meaning M.
+170. Ultimately, all definition is contextual definition. If you say that 'John' refers to John, you are really saying that, in virtue of having the form '...John...', a sentence is true exactly if...John...
+171. In SE, the word 'nieve' is mentioned, but not used. What occurs in SE is not the Spanish word 'nieve,' but a quotation of that Spanish word; what occurs is '"nieve"', not 'nieve.'
+172. The sentence Joey is a person is true. The sentence Joey has four letters is false, since people don't consist of letters. The sentence 'Joey' has four letters is true. The sentence 'Joey' is a person is false, since words are not people.
+173. But S is not a language. Obviously a given group of people could use R1-R3. But because no two of those expressions can combine into a third, the members of S per se have no bonds with one another that they don't have with any expression of English or Spanish or any other language.
+174. "S1 blarg S2" is true exactly if S1 is true and S2 is also true.
+175. Because of (2), there are infinitely many sentences of L, and L is therefore 'productive,' to use Chomsky's expression.
+176. Whether 'grumpo' is true depends on whether, at the time at which it is uttered, it is raining; and 'grumpo' is therefore time-sensitive and therefore context-sensitive.
+177. A problem can be solved in a mechanical fashion, i.e. the solution to it can be computed, just in case the solution is the output of a recursive function. This is the Church-Turing Thesis.
+178. If a given act is strictly shape-driven, it is not meaning-driven and is therefore mechanical in nature.
+179. The meaning of a complex expression is assigned to it by a recursive rule.
+180. "Smith's father" does not have the same meaning as "Smith's mother," for the reason that "father" does not have the same meaning as "mother."
+181. "Smith's primary enemy" does have the same meaning as "Smith's primary foe," for the reason that "enemy" does have the same meaning as "foe."
+182. Truth-in-L cannot be defined in L. R1-R4 do not themselves constitute a definition of truth-in-L, they leave it open whether there are other sentences that belong to L.
+183. An axiom set is a finite set of statements s1... sn such that, for some statement-class K, a given statement S is a member of K just in case either S is identical with si (1≤i≤n) or S is a member of the posterity of s1...sn with respect to the relation of logical consequence.
+184. A language is a four-tuple <s1, s2, G, M> such that: s1 is a set of simple expressions (expressions that don't consist of other expressions); G is a set of rules, defined for s1, such that G says of any n-length string consisting exclusively of members of s1 whether or not that string is grammatical; s2 is the smallest class containing every grammatical n-length strings of s1-members. M is a function that assigns a meaning to each element of s2 (and therefore to s1, since s1 is a proper subset of s2).
+185. A formal language L is a class K of expressions such that K's membership is made to known to us through a recursive definition; L's semantics is made known to us through a recursive definition D such that, for any member x of K, D assigns a semantic value to x; and (iii) Each of the expressions belonging to L is non-contextually unambiguous.
+186. Whenever one learns a natural language, one first learns what is meant by some reasonably large subset of the expression class generated that language and, on that basis, one infers what the relevant recursions are.
+187. In the English language, there are two kinds of expressions that are not contextually unambiguous: Lexically ambiguous expressions (e.g. "bank," "dumb," "Jim is at the bank," "Jim is not dumb") and Syntactically ambiguous expressions (e.g. "Jim is strong because his mother is a good person and his father is a good person too" which could mean either Jim's father is a good person; moreover, Jim is strong because Jim's mother is a good person or It is because Jim's mother and father are strong people that Jim is a good person).
+188. A natural language is one that comes into existence organically: nobody sits down and invents it; it is the unintentional or semi-intentional by-product of interactions among living creatures (usually, as far as we know, human beings).
+189. The difference between a formal and an informal language is that, where informal languages are concerned, the amount of information needed to determine the identity/meaning of a given expression is greater than is the amount of information needed to identify the identity/meaning of an expression of a formal language.
+190. The distinction between artificial and natural languages is not of any significance to logic. This is because there is no difference between natural and artificial languages.
+191. But any given artificial language could have arisen organically and any given natural language could have been consciously constructed: it is never in virtue of its intrinsic properties that a given language is natural as opposed to artificial or vice versa.
+192. The distinction between formal and informal languages is of some significance to logic; but the nature of that significance is heuristic (procedural), not substantive.
+193. In some contexts, in some respects, it is easier to express extremely high level truths of logic in formal languages than in informal languages.
+194. The concept of an interpreted calculus is to be understood in terms of the concept of an uninterpreted calculus.
+195. The elements of s1 mean nothing. Second, the elements of s2 mean nothing. Third, the elements G are not truths; they are prescriptions, not descriptions.
+196. Logical relations that hold among conventions are not themselves conventions.
+197. An axiomatization that is inconsistent is worthless. An axiomatization that is incomplete is not necessarily worthless.
+198. It is seldom possible to produce complete, consistent axiomatization of statement-sets that are of any scope or significance.
+199. A truth is analytic just in case its truth-value is determined by its own structure and by the structures of the concepts composing it.
+200. Mathematics (pure, not applied) and logic consist entirely of analytic truths.
+201. There is no consistent, complete axiomatization of elementary number theory.
+202. The extension of an infinitely large class cannot be defined extensionally and must therefore be defined intensionally.
+203. If a given region R of spacetime is three-dimensional with respect to one definition of 'point,' there is another definition of 'point' relative to which R is 2 dimensional and another relative to which it is four-dimensional.
+204. T is a formal truth iff it is an instance of a statement-form all of whose instances are true.
+205. "that guy is identical with that guy," which is an instance of the sentence-form "x=x," is false, if, as may well be the case, the first occurrence of "that guy" refers to one person and the second refers to some other person.
+206. given any given one of the sentenceforms typically described as "laws of logic," it is easier to find false instances of that sentence-form than it is find true ones; and we will find some reason to believe that, given any sentence that appears to be a true instance of one of those sentence-forms, careful scrutiny of its syntactic structure indicates that it is not in fact such an instance.
+207. sentences are not themselves truths or falsehood. When it is said of a sentence that it is true, what is meant is that it expresses a true proposition.
+208. the word "true" has one meaning in "the sentence 'snow is white' is true" and an entirely different meaning in: "it is true that snow is white."
+209. Given any sentence S, it is only relative to a certain definition of 'syntax' that S is formally true.
+210. the natural numbers are 0 plus the posterity of 0 with respect to the relation predecessor of. Equivalently, the natural numbers are the smallest set that contains zero and is closed with respect to the successor-relation.
+211. An axiomatic system consists of two parts: A set of statements or statement-forms that are stipulated to be true; and The posterity of that statement-set with respect to the relation of logical consequence.
+212. whether or not a given well-formed formula is "formally true" depends on the identity of the relevant axiom set.
+213. Any true sentence is formally true with respect to some axiom set. When it is said sans qualification that a given truth is 'formally true,' what is meant, supposing it true, is that the relevant axiom-set is an important one.
+214. We have constructed a consistent model in which 1-4 are true and 5 is false. Therefore, the Parallel Postulate is independent of the other four.
+215. In any sentence of English, or any other natural language, every sentence contains an indexical. An indexical is a context-sensitive expression.
+216. If L is an indexical-free language (i) L cannot express contextual information, a consequence being that (ii) There are many context-invariant relations of logical dependence that L also cannot express.
+217. Non-perspectival information is parasitic on perspectival information: the latter generates the former. And non-perspectival utterances are parasitic on perspectival utterances: the latter generates the former.
+218. Science aspires to produce non-perspectival information---and rightly so, since natural laws are mind-independent. But scientific (nonperspectival) knowledge is painstakingly extracted from perspectival knowledge, and there is no way to acquire scientific knowledge except on the basis of perspectival knowledge.
+219. Also, the mind falls within the scope of science, and the same is therefore true of the subjective and the perspectival. It is a fact that perspectives exist, and science must model data-sets whose elements are perspectival perceptions and thoughts.
+220. In order to assign names in L to hitherto nameless entities, it is necessary to have use context-sensitive expressions.
+221. The so-called 'laws of logic' are not bona fide laws; they are (supposedly) law-schemata. In other words, they are open-sentences that are (supposedly) true under interpretations of their constants.
+222. The expressions belonging to K cannot be sentences of natural language, since those are all context-sensitive. Those expressions could be expressions belonging to artificial languages.
+223. The objective of any given non-empirical discipline is to identify purely logical relations among concepts: it is to identify rules of inference.
+224. Rules of inference have the form: if such and such is the case, then thus and such must also be the case.
+225. Such disciplines do not assert that P is true, only that it cannot coherently be asserted that Q is false supposing that P is true.
+226. For each is 100% incoherent, as each is conceptually false, in the sense that its own structure prevents it from being true.
+227. In the empirical sciences, a theory is given by a proposition that is intended to be explanatory and general.
+228. Scientific theories are general: when correct, they explain entire categories of phenomena and, for that reason, correctly identify some structural fact about (some sector of) the universe.
+229. It is not in general possible to explain an entire category of phenomena without positing entities (particles, forces, causal liaisons) not previously believed to exist.
+230. A 'theory', as logicians and mathematicians use this term, is simply an interpreted expression class.
+231. The just-mentioned theory, relating observable heat-related phenomena to hypothetical molecular phenomena, is given by the ordered triple (V,G,M), where V contains expressions that have no meaning independent of that theory.
+232. The statements in M are meaning-postulates: they assign meanings to otherwise meaningless theoretical terms.
+233. If this analysis of what theories are is correct, then 'molecule' and 'electron' and other theoretical terms are given meaning in the just-described way, in which case there is such a thing as a bridge principle.
+234. Theories merely organize statements about observable phenomena; they do not, contrary to first appearances, posit states of affairs that are distinct from observable phenomena and, since causation holds only between distinct entities, capable of causing them.
+235. The list of non-theoretical statements corresponding to S is infinitely long; and there is no way to identify the members of that list except in terms of S itself.
+236. T is false since it embodies a failure to distinguish between these two disambiguations of the word 'meaningful.'
+237. Any given finite data-set is consistent with infinitely many theories, since co-extensive finitary models need not be co-intensive.
+238. "x is a closed planar figure of uniform curvature" and "x is the area bounded by the class of all co-planar points that are equidistant from a given point" are co-intensive, meaning that α satisfies the one exactly if it satisfies the other, but they are not co-hyper intensive, meaning only that α is a closed planar figure of uniform curvature is not trivially equivalent with "α is the area bounded by the class of all co-planar points that are equidistant from a given point".
+239. Given an empirical statement S, T correctly assumes that S's being an observation-report is sufficient for S's being meaningful, but incorrectly assumes that it is also necessary.
+240. The statement (S*) What we cannot perceive affects what we can perceive cannot be true without ipso facto failing to be synonymous with any observation-report or class of observation-reports.
+241. In fact, this truth is implicit in any given observation-report.
+242. I am not seeing (or otherwise sense-perceiving) X except to the extent that my psychological condition is the end-result of a causal series Σ initiated by some X-involving state of affairs.
+243. I cannot, while having a perception of X, sense-perceive Σ, since I would then be perceiving Σ, not X.
+244. But my observation-report has no bearing on the external world unless the observation in question is the result a Σ-similar series.
+245. In fact, Σ-similar series are inherently unobservable.
+246. Observations of such series, were such observations possible, would themselves be the final installments of such series.
+247. Owing to the consequent interference-effects, such observations would be inaccurate, and we could not possibly know on strictly observational grounds exactly how inaccurate.
+248. Thus, implicit in any observation-report OR is the assumption that OR itself is inaccurate unless some other statement NR is accurate, where NR is not an observation-report and, moreover, NR cannot possibly be justified on strictly observational grounds.
+249. We may conclude that T is false and in fact deeply incoherent.
+250. According to Frege, n=Kn, where n is any cardinal number and Kn is the class of all n-tuples. According to Von Neumann, n=Kpn, where Kpn is the class of all of n's predecessors. These analyses are prima facie incompatible with each other, given that Kn≠Kpn, for n>0.
+251. In the present paper it is shown that these analyses are in fact compatible with each other, for the reason that each analysis can and ultimately must be interpreted as being to the effect that n=Cn, where Cn is the class of all ordered pairs <Kn#,Rn#>, where Kn# is an arbitrary class and Rn# is an arbitrary relation such that a class k has n-many members exactly if k bears Rn# to Kn#.
+252. We thus have a paradox: Kn≠Kpn and yet n=Kn and n=Kpn.
+253. Frege's analysis can be interpreted as being given by the proposition that, for any cardinal n, n=<Kn, ∈ >, where ∈ is the relation between class-member and class; and Von Neumann's analysis can be interpreted as being given by the proposition that n=<Kpn,≈>, where ≈ is the relation between set and equipollent set.
+254. Thus, if KJ is the class of John's cars, then Frege's analysis maps (i) John has exactly one car onto (ii) KJ ∈ K1, whereas Von Neumann's analysis maps (i) onto (iii) KJ≈Kp1.
+255. This suggests that, for any cardinal n, n can be identified with the class Cn of all ordered pairs <Kn#,Rn#>, where Kn# is any class and Rn# is any relation such that a class k has n-many members exactly if kRn#Kn#.
+256. Given an ordered pair< K,R>, let us use the notation <K,R>n to indicate that <K,R> is an n-pair, meaning that a class k is an n-tuple iff kRK.
+257. For any cardinal n, Cn is the smallest class containing every n-pair.
+258. What each Cn-member <x,y> has in common with each of <Kn, ∈ > and <Kpn,≈> is that <x,y> represents n's structure and is thus, as we might put it, an n-isomorph.
+259. Since nothing that isn't in Cn is an n-isomorph, membership in Cn is both necessary and sufficient for possession of the structural properties, and therefore of all of the properties, that are individuative of n.
+260. Therefore, a given cardinal n not only can but must be identified with Cn.
+261. Therefore, n=Cn={<x,y>│<x,y>n}.
+262. For any cardinal number n, n=Cn. This analysis is consistent with the fact that any n-pair adequately represents n's structure and also with the fact that any adequate representation of n's structure is an n-pair.
+263. The mind is an information-processing system. An information-processing system is anything that converts information into information.
+264. All computers are information-processing systems, but not all information-processing systems are computers. The human mind is an information-processing system that is not a computer.
+265. To compute a solution is to use an algorithm to identify it. An algorithm is a mechanical procedure.
+266. All algorithms are concerned with the geometrical or otherwise strictly physical properties of objects; none are concerned with their semantic properties.
+267. If a problem can be solved in a mechanical fashion, the solution is the output of a recursive function.
+268. Wherever there is a recursive function, there is a mechanical decision procedure. According to Turing, the converse also holds: wherever there is a decision-procedure, there is a recursive function.
+269. A decision-procedure that cannot add to what we know is no decision-procedure at all.
+270. A decision-procedure must apply to infinitely many cases that it does not explicitly mention.
+271. Decision-procedures enable us to add to what we know, it is by virtue of embodying conditional truths.
+272. Any statement having this two-part structure is ipso facto a recursion. Thus, where there is a decision-procedure, there is a recursion; and, as previously observed, where there is a recursion, there is a decision-procedure.
+273. A problem can be solved in a mechanical fashion---the solution to it can be computed, in other words---if, and only if, the solution is the output of a recursive function.
+274. The machine's behavior is a function only of the condition of the square that it is scanning at that time, coupled with its program.
+275. Turing proved that, given any problem that we would intuitively regard as being capable of being solved by a decision-procedure, the just-described machine can solve it.
+276. The very purpose of an algorithm is to render thought unnecessary.
+277. Intelligence is needed to create algorithms, not to implement them.
+278. A computer cannot question its own program; for a computer cannot reject its own program.
+279. If a computer rejects its program on the basis of its program, it is following that program and therefore isn't rejecting it.
+280. Mechanical problem-solvers are not thinkers; they are thinker-proxies.
+281. A mechanical 'problem-solver' is a non-problem-solver whose behavior makes it easy for an intelligent observer to solve otherwise difficult problems.
+282. Turing Machines merely simulate thought.
+283. logical equivalence entails confirmational equivalence.
+284. confirmational non-equivalence entails logical nonequivalence.
+285. There are two ways to interpret any given statement of the form: (1) All phi's are psi's (if x is a phi, then x is a psi). 1 can be interpreted (or 'read') extensionally or intensionally.
+286. Read intensionally, 1 means: (1*) For reasons of natural law, all actual phi's are psi's. Read extensionally, 1 means: (1#) By coincidence, all phi's are psi's.
+287. Any given motion presupposes a prior motion.
+288. There is no such thing as a stationary object's beginning to move.
+289. For any possible universe U, there is some distance D such that nothing in U can move at all without covering a distance of at least D.
+290. The assertion that x spontaneously appears in one cell and spontaneously reappears in an adjacent cell is equivalent with the assertion that x spontaneously ceases to exist and an x-like object that is not identical with x spontaneously appears in a cell adjacent to that occupied by x.
+291. In a Mills-universe, nothing has a past and, therefore, nothing has a future. Everything that exists, exists for an instant and then vanishes.
+292. The sum of infinitely many positive numbers may be finite (e.g. 1+½ +¼+...=2), and any finite number can be represented as such a sum.
+293. All position is relative position. Therefore, changes in position are changes in relative position.
+294. The sole occupant of a universe is that universe. Contrariwise, a space-time manifold has no existence independently of its occupants. Position and change therein are multiply relative.
+295. The more objects there are in a given universe, the greater the number of distances with which a given distance can be compared. The more such distances, the higher degree of precision with which a given distance can be meaningfully described.
+296. What we think of as a case of motion on the part of a given object xi is really a change undergone by x1...xn collectively. Seemingly system-internal changes are systemic changes.
+297. No matter how well populated and otherwise heterogeneous the universe is, the universe is capable of being even more populous and otherwise heterogeneous; and for this reason the class of possible states of the universe is a proper subset of the class of possible states of a more heterogeneous but otherwise identical universe.
+298. Systemic changes are too complex for us to understand with any precision. It is only by conceiving of them as system-internal changes that we can have any understanding of them.
+299. There are infinitely many quarter-sized regions on a flat table-top. Thus, if N is the exact number of quarter-sized regions, then, given any specific quarter-sized region, there is a 1/N=0 chance that a quarter dropped on that surface will occupy that exact region. But there is some quarter-sized region R that the quarter will come to occupy. Thus, there is 0% chance that the quarter will occupy R, and yet the quarter occupies R.
+300. To say that there is a 1/N chance that the quarter will occupy R is to say that the likelihood of its doing so is minimal but not nil.
+301. Probabilities are given by real numbers, not by cardinal numbers. Real numbers are limits.
+302. "BW2 cannot possibly be true. At any given point in time, there some space-time region R is such that Bill is occupying R."
+303. "The same points mutatis mutandis hold of any other proposition to the effect that the world per se is indeterminate in any respect."
+304. "Given any person P, there are many particles x such that one cannot non-arbitrarily say that ‹x is a part P's body› is true or that it's not true."
+305. "There is no fact as to whether the proposition x has P is true. It isn't that we don't know whether it's true; it's that there is no fact of the matter."
+306. "Propositions are individuated by what they entail. Different entailment relations, different propositions."
+307. "Until the entailment relations of some sentence-like string of verbiage have been fixed, no proposition has been identified to that verbiage; and all we have is, at most, a sentence-schema."
+308. "What a sentence says---or, to be precise, what is affirmed by a nonabortive indicative token of that sentence ---is a function of exactly two things: first, what follows from that sentence-token (supposing it is true); second, how those things follow from it (same qualification)."
+309. A proposition may be compatible with another proposition and with its negation.
+310. The concept of a proposition such that there is no fact as to whether it is true is an incoherent one, and the same is therefore true of the concept of objective, as opposed to epistemic vagueness.
+311. Like most predicates, 'poor' is a relational expression. Smith may be poor compared to Jones but wealthy compared to Green, or he may be poor relative to the standard set by some situation and wealthy relative to the standard set by some other situation.
+312. If made in a context in which the relative standard of swiftness is set by Smith's desire to join X, an utterance of 'Smith is fast' is false. But such an utterance is true if made in a context in which the relative standard of swiftness is set by Smith's desire to join Y.
+313. In a context of either kind, there is some number n such that an utterance of ‹x is slow› is true if, at his best, x's average speed when running the 100 yard dash is n and such that an utterance of 'x is fast' is true if x's average speed is n + 1.
+
+--- ANNOTATED CITATIONS ---
+
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+[Chunk 6]
+
+
+[Chunk 7]
+
+
+[Chunk 8]
+
+
+[Chunk 9]
+
+
+[Chunk 10]
+
+
+[Chunk 11]
+
+
+[Chunk 12]
+
+
+[Chunk 13]
+
+
+[Chunk 14]
+
+
+[Chunk 15]
+
+
+[Chunk 16]
+
+
+[Chunk 17]
+
+
+[Chunk 18]
+
+
+[Chunk 19]
+
+
+[Chunk 20]
+
+
+[Chunk 21]
+
+
+[Chunk 22]
+
+
+[Chunk 23]
+
+
+[Chunk 24]
+
+
+[Chunk 25]
+
+
+[Chunk 26]
+
+
+[Chunk 27]
+
+
+[Chunk 28]
+
+
+[Chunk 29]
+
+
+[Chunk 30]
+
+
+[Chunk 31]
+
+
+[Chunk 32]
+
+
+[Chunk 33]
+
+
+[Chunk 34]
+
+
+[Chunk 35]
+
+
+[Chunk 36]
+
+
+[Chunk 37]
+
+
+[Chunk 38]
+
+
+[Chunk 39]
+
+
+[Chunk 40]
+
+
+[Chunk 41]
+
+
+[Chunk 42]
+
+
+[Chunk 43]
+
+
+[Chunk 44]
+
+
+[Chunk 45]
+
+
+[Chunk 46]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+
+
+═══ CHUNK 6 ═══
+
+
+═══ CHUNK 7 ═══
+
+
+═══ CHUNK 8 ═══
+{
+  "quotes": [
+    "A real number is the least upper bound of a class Qi of rationals such that Qi is a non-empty proper subset of the class of rationals and Qi contains a given rational q only if it contains every rational p such that p<q.",
+    "Not all reals correspond to rationals, i.e. for some real numbers r, there is no rational q such that r is the limit of (Qq,<). An example of such a real is √2.",
+    "√2=DF the limit of (Q#2,<), where Q#2 is the class of rationals q such that q2<2.",
+    "Lest "√2" be an empty label, like "phlogiston" or "Zeus", it must be proved that an entity having the requisite properties exists.",
+    "Ordinal numbers are positions. In the series, 2, 4, 6, 8...n... 6's ordinal number is 3, but in the series 6, 7, 8, 9...m... 6's ordinal number is 1."
+  ],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": ""
+}
+
+═══ CHUNK 9 ═══
+
+
+═══ CHUNK 10 ═══
+
+
+═══ CHUNK 11 ═══
+
+
+═══ CHUNK 12 ═══
+
+
+═══ CHUNK 13 ═══
+
+
+═══ CHUNK 14 ═══
+
+
+═══ CHUNK 15 ═══
+
+
+═══ CHUNK 16 ═══
+
+
+═══ CHUNK 17 ═══
+
+
+═══ CHUNK 18 ═══
+
+
+═══ CHUNK 19 ═══
+
+
+═══ CHUNK 20 ═══
+
+
+═══ CHUNK 21 ═══
+
+
+═══ CHUNK 22 ═══
+
+
+═══ CHUNK 23 ═══
+
+
+═══ CHUNK 24 ═══
+
+
+═══ CHUNK 25 ═══
+
+
+═══ CHUNK 26 ═══
+
+
+═══ CHUNK 27 ═══
+
+
+═══ CHUNK 28 ═══
+
+
+═══ CHUNK 29 ═══
+
+
+═══ CHUNK 30 ═══
+
+
+═══ CHUNK 31 ═══
+
+
+═══ CHUNK 32 ═══
+
+
+═══ CHUNK 33 ═══
+
+
+═══ CHUNK 34 ═══
+
+
+═══ CHUNK 35 ═══
+
+
+═══ CHUNK 36 ═══
+
+
+═══ CHUNK 37 ═══
+
+
+═══ CHUNK 38 ═══
+
+
+═══ CHUNK 39 ═══
+
+
+═══ CHUNK 40 ═══
+
+
+═══ CHUNK 41 ═══
+
+
+═══ CHUNK 42 ═══
+
+
+═══ CHUNK 43 ═══
+
+
+═══ CHUNK 44 ═══
+
+
+═══ CHUNK 45 ═══
+
+
+═══ CHUNK 46 ═══
+{
+  "quotes": [
+    "Some predicates are binary. P is a binary predicate if the property it expresses is one that cannot be had to varying degrees; it is one that a given thing either has or doesn't have.",
+    "Sorites paradoxes always involve non-binary predicates (i.e., predicates that express properties that can be had to varying degrees), e.g., "fat," "tall," "smart."",
+    "This shows that "smart" is always relational. This, in its turn, shows that tokens of (i) are elliptical for sentence-tokens that express relational propositions---sentence-tokens having the form: (i#) "Smith is smarter than___," or perhaps: (i*) "Smith is smart enough for__."",
+    "It cannot be assumed that the philosophical insights needed to solve puzzles that turn on facts about language are themselves encoded in the semantic rules of English (or of whatever language happens to be the relevant one).",
+    "Given that those rules can, at least in principle, be mastered by somebody who has the idiotic belief that swiftness does not come in degrees, we mustn't impute to the semantic rules of English our knowledge that swiftness does come in degrees; and we must therefore take the position, for which there is a vast amount of independent corroboration, that this knowledge of ours is nonlinguistic."
+  ],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": ""
+}
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 12 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 13 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 14 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 15 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 16 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 17 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 18 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 19 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 20 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 21 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 22 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 23 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 24 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 25 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 26 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 27 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 28 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 29 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 30 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 31 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 32 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 33 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 34 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 35 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 36 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 37 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 38 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 39 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 40 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 41 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 42 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 43 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 44 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 45 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 46 ANALYSIS
+═══════════════════════════════════════
+
+

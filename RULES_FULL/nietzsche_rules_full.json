@@ -1,0 +1,1410 @@
+[
+  {
+    "id": "NIETZ-AAD-001",
+    "year": 1885,
+    "premise": "apollonian|dionysian|greek|tragedy|arose|fusion",
+    "conclusion": "Greek tragedy arose from the fusion of two fundamental artistic impulses: the Apollonian, dreamlike drive for form and illusion, and the Dionysian, intoxicated drive for ecstatic unity",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAD-002",
+    "year": 1885,
+    "premise": "apollonian|dionysian|principle|finds|highest|expression",
+    "conclusion": "The Apollonian principle finds its highest expression in the visual arts and the beautiful illusion of the dream world",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAD-003",
+    "year": 1885,
+    "premise": "apollonian|dionysian|principle|manifests|music|dance",
+    "conclusion": "The Dionysian principle manifests in music, dance, and lyric poetry, representing a primal, terrifying oneness with the core of existence",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAD-004",
+    "year": 1885,
+    "premise": "apollonian|dionysian|dramatic|plot|characters|stage",
+    "conclusion": "The dramatic plot and characters on stage are an Apollonian dream vision projected by the intoxicated, Dionysian chorus",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-GT-001",
+    "year": 1885,
+    "premise": "greek|tragedy|socratic|greeks|mythic|culture",
+    "conclusion": "The pre-Socratic Greeks, through their mythic culture, demonstrated a profound understanding of life's inherent terror and suffering",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-GT-002",
+    "year": 1885,
+    "premise": "greek|tragedy|olympian|gods|glorious|apollonian",
+    "conclusion": "The Olympian gods were a glorious, Apollonian middle world of beauty created to make the terrifying wisdom of Silenus bearable for existence",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-GT-003",
+    "year": 1885,
+    "premise": "greek|tragedy|born|placid|optimistic|spirit",
+    "conclusion": "Tragedy was not born from a placid, optimistic spirit but from a courageous confrontation with the abyss, using art as a protective and redemptive veil",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-GT-004",
+    "year": 1885,
+    "premise": "greek|tragedy|chorus|attic|originary|foundational",
+    "conclusion": "The chorus in Attic tragedy is the originary, foundational cell of the entire dramatic form",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAA-001",
+    "year": 1885,
+    "premise": "aesthetics|function|tragic|myth|provide|symbolic",
+    "conclusion": "The function of tragic myth is to provide a symbolic, metaphysical comfort for the horrors of existence, transforming them into sublime phenomena",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAA-002",
+    "year": 1885,
+    "premise": "aesthetics|operatic|form|fundamentally|misunderstands|greek",
+    "conclusion": "The operatic form fundamentally misunderstands Greek tragedy by prioritizing the lyric soloist over the Dionysian chorus",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAA-003",
+    "year": 1885,
+    "premise": "aesthetics|music|direct|representation|rather|symbolic",
+    "conclusion": "Music is not a direct representation of the Will itself, but rather a symbolic expression of the Dionysian primal unity",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-AAA-004",
+    "year": 1885,
+    "premise": "aesthetics|lyric|poetry|possible|spirit|music",
+    "conclusion": "Lyric poetry is possible only through the spirit of music; the poet is first a Dionysian musician who subsequently produces the Apollonian image-world of words",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-COS-001",
+    "year": 1885,
+    "premise": "critique|socrates|spirit|theoretical|optimism|represent",
+    "conclusion": "Socrates and the spirit of theoretical optimism represent the force that killed Attic tragedy",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COS-002",
+    "year": 1885,
+    "premise": "critique|socrates|socratic|philosophy|dictum|virtue",
+    "conclusion": "Socratic philosophy, with its dictum that virtue is knowledge and all sins arise from ignorance, replaced tragic wisdom with dialectical logic",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COS-003",
+    "year": 1885,
+    "premise": "critique|socrates|euripides|primary|agent|tragedy",
+    "conclusion": "Euripides is the primary agent of tragedy's death, as he brought the spectator onto the stage and expelled the original Dionysian element",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COS-004",
+    "year": 1885,
+    "premise": "critique|socrates|understand|specific|historical|turning",
+    "conclusion": "We must understand Socrates as the specific historical turning point where the instinctive, artistic wisdom of humanity was subverted by theoretical logic",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COS-001",
+    "year": 1885,
+    "premise": "critique|science|born|socratic|tradition|inherently",
+    "conclusion": "Science, born from the Socratic tradition, is an inherently optimistic and limitless project that believes the world can be fully understood and corrected",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-COS-002",
+    "year": 1885,
+    "premise": "critique|science|limits|reached|confronts|axiomatic",
+    "conclusion": "The limits of science are reached when it confronts its own axiomatic foundations, which cannot be proven by its own methods, leading to a tragic crisis of knowledge",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-COS-003",
+    "year": 1885,
+    "premise": "critique|science|scientific|spirit|successor|religious",
+    "conclusion": "The scientific spirit is the successor to the religious spirit, offering a more modest, piecemeal, but ultimately more honest approach to understanding the world",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-COS-004",
+    "year": 1885,
+    "premise": "critique|science|scientific|spirit|rests|moral",
+    "conclusion": "The scientific spirit rests on a moral demand for truthfulness",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-COM-001",
+    "year": 1885,
+    "premise": "critique|modernity|modern|culture|since|socrates",
+    "conclusion": "Modern culture since Socrates is profoundly Alexandrian, characterized by scholarly knowledge, theoretical man, and the death of myth-creating power",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COM-002",
+    "year": 1885,
+    "premise": "critique|modernity|modern|abstract|severed|myth",
+    "conclusion": "Modern man is an abstract being, severed from myth and community, in contrast to the Greek who felt part of a shared, symbolic reality",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COM-003",
+    "year": 1885,
+    "premise": "critique|modernity|german|victory|franco|prussian",
+    "conclusion": "The German victory in the Franco-Prussian War represents an external, political triumph that is mistaken for a true cultural victory, which it is not",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-COM-004",
+    "year": 1885,
+    "premise": "critique|modernity|modern|historical|fever|obsession",
+    "conclusion": "The modern historical fever, the obsession with accumulating knowledge of the past, is paralyzing and sickens the vital forces of life",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-CAM-001",
+    "year": 1885,
+    "premise": "culture|myth|without|doomed|sterile|rootless",
+    "conclusion": "A culture without myth is doomed to a sterile, rootless existence, starved of its natural, symbolic soil",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-CAM-002",
+    "year": 1885,
+    "premise": "culture|myth|lost|tragic|sense|exposed",
+    "conclusion": "A culture that has lost its tragic sense is exposed, defenseless, to the terrifying truth of existence, which it can no longer transmute into art",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-CAM-003",
+    "year": 1885,
+    "premise": "culture|myth|true|unity|style|emerges",
+    "conclusion": "True culture is a unity of style that emerges from a people's artistic, spiritual, and social life, a condition Germany sorely lacks",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-CAM-004",
+    "year": 1885,
+    "premise": "culture|myth|true|educated|historians|great",
+    "conclusion": "The true need of a culture is not for more educated historians, but for great artists, philosophers, and saints who can shape the future",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-001",
+    "year": 1885,
+    "premise": "german|culture|genius|exemplified|kant|schopenhauer",
+    "conclusion": "The German genius, exemplified by Kant and Schopenhauer, shattered the cheerful confidence in scientific optimism by demonstrating the limits of human reason",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-002",
+    "year": 1885,
+    "premise": "german|culture|richard|wagner|music|dramas",
+    "conclusion": "Richard Wagner's music dramas represent the potential rebirth of the Dionysian spirit and the rebirth of German myth",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-003",
+    "year": 1885,
+    "premise": "german|culture|rebirth|tragedy|spirit|music",
+    "conclusion": "The rebirth of tragedy from the spirit of music in Wagner's work offers the only hope for the rejuvenation of a degenerate modern culture",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-004",
+    "year": 1885,
+    "premise": "german|culture|contemporary|hollow|self|congratulatory",
+    "conclusion": "Contemporary German culture is hollow and self-congratulatory, obsessed with mere historical knowledge rather than life-affirming action",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-M-001",
+    "year": 1885,
+    "premise": "metaphysics|world|everyday|reality|veil|maya",
+    "conclusion": "The world of everyday reality is a veil of Maya, a persistent Apollonian illusion that tragic insight momentarily tears apart",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "NIETZ-M-002",
+    "year": 1885,
+    "premise": "metaphysics|desire|metaphysical|certainty|world|behind",
+    "conclusion": "The desire for metaphysical certainty and a world behind the appearances is a sign of sickness, not strength; health lies in accepting the world of becoming",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "NIETZ-M-003",
+    "year": 1885,
+    "premise": "metaphysics|called|world|order|human|projection",
+    "conclusion": "The so-called world order is a human projection; the actual universe is a chaos devoid of any inherent order, beauty, or harmony",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "NIETZ-M-004",
+    "year": 1885,
+    "premise": "metaphysics|thing|nonsensical|concept|ever|relations",
+    "conclusion": "The thing-in-itself is a nonsensical concept; we only ever have relations, and a thing is merely the sum of its effects on us",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "NIETZ-GC-001",
+    "year": 1885,
+    "premise": "greek|culture|hellenic|cheerfulness|admired|later",
+    "conclusion": "The Hellenic cheerfulness admired by later ages was a hard-won achievement built over a substratum of profound pessimism and knowledge of suffering",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-002",
+    "year": 1885,
+    "premise": "greek|culture|genius|greeks|capacity|harness",
+    "conclusion": "The genius of the Greeks was their capacity to harness and balance these two antagonistic drives into the supreme art form of tragedy",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-003",
+    "year": 1885,
+    "premise": "greek|culture|recover|socratic|spirit|tragic",
+    "conclusion": "We must recover the pre-Socratic spirit of tragic affirmation",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-GC-004",
+    "year": 1885,
+    "premise": "greek|culture|hellenic|cheerfulness|admired|later",
+    "conclusion": "The Hellenic cheerfulness admired by later ages was a hard-won achievement built over a substratum of profound pessimism and knowledge of suffering",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-POH-001",
+    "year": 1885,
+    "premise": "philosophy|history|three|species|necessary|life",
+    "conclusion": "There are three species of history, each necessary for life but poisonous in excess: the monumental, the antiquarian, and the critical",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-POH-002",
+    "year": 1885,
+    "premise": "philosophy|history|monumental|study|great|past",
+    "conclusion": "Monumental history, the study of great past achievements, is needed to inspire human action and prove that greatness was once possible",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-POH-003",
+    "year": 1885,
+    "premise": "philosophy|history|antiquarian|reverent|preservation|past",
+    "conclusion": "Antiquarian history, the reverent preservation of one's own past, is necessary for fostering piety, gratitude, and a sense of rooted belonging",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-POH-004",
+    "year": 1885,
+    "premise": "philosophy|history|critical|required|break|shackles",
+    "conclusion": "Critical history is required to break the shackles of a burdensome or unjust past by putting it on trial and condemning it for the sake of life",
+    "strength": 0.85,
+    "domain": "cultural critique"
+  },
+  {
+    "id": "NIETZ-E-001",
+    "year": 1885,
+    "premise": "education|youth|educated|formative|life|serving",
+    "conclusion": "Youth must be educated with a formative, life-serving historical diet, not force-fed an indigestible mass of raw historical facts",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-E-002",
+    "year": 1885,
+    "premise": "education|goal|teach|think|oneself|develop",
+    "conclusion": "The goal of education should be to teach one how to think for oneself, to develop a coherent personality, and to find one's own singular task in life",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-E-003",
+    "year": 1885,
+    "premise": "education|modern|university|system|state|controlled",
+    "conclusion": "The modern university system, with its state-controlled, careerist focus, is fundamentally hostile to the production of true philosophers and genuine culture",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-E-004",
+    "year": 1885,
+    "premise": "education|learn|read|slowly|deeply|suspicion",
+    "conclusion": "One must learn to read slowly, deeply, and with suspicion, in contrast to the modern habit of rapid, consumptive reading fostered by newspapers",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-PAP-001",
+    "year": 1885,
+    "premise": "philosophy|philosophers|arthur|schopenhauer|represents|rare",
+    "conclusion": "Arthur Schopenhauer represents the rare model of the genuine philosopher, a fearless truth-teller and educator who stands against his age",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-PAP-002",
+    "year": 1885,
+    "premise": "philosophy|philosophers|modern|scholar|philosophical|laborer",
+    "conclusion": "The modern scholar or philosophical laborer is a degraded figure compared to the genuine philosopher who legislates values and creates meaning",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-PAP-003",
+    "year": 1885,
+    "premise": "philosophy|philosophers|philosopher|true|biography|lies",
+    "conclusion": "A philosopher's true biography lies in his intellectual development and the heroic inner struggles of his thought, not in external, petty events",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-PAP-004",
+    "year": 1885,
+    "premise": "philosophy|philosophers|purpose|great|thinker|serve",
+    "conclusion": "The purpose of a great thinker is not to serve the state or the public, but to be a bad citizen who challenges the idols of the marketplace",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-NAD-001",
+    "year": 1885,
+    "premise": "nihilism|decadence|present|period|transition|chaos",
+    "conclusion": "The present is a period of transition and chaos, where the old values have decayed and new ones have not yet been born",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-NAD-002",
+    "year": 1885,
+    "premise": "nihilism|decadence|free|spirit|task|active",
+    "conclusion": "The free spirit's task is one of active nihilism: to devalue the highest values that have guided humanity thus far in order to clear the ground for new creations",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-NAD-003",
+    "year": 1885,
+    "premise": "nihilism|decadence|moral|interpretations|world|become",
+    "conclusion": "Our old moral interpretations of the world have become unbelievable; we stand before a horizon that appears empty, which is the precondition for new dawns",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-NAD-004",
+    "year": 1885,
+    "premise": "nihilism|decadence|mistake|decline|type|necessary",
+    "conclusion": "We should not mistake the decline of a type for its necessary progress",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-S-001",
+    "year": 1885,
+    "premise": "self|overcoming|greatness|lies|passionate|focused",
+    "conclusion": "Greatness lies in the passionate, focused intensity directed toward a single goal, not in the breadth of knowledge or versatility",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-S-002",
+    "year": 1885,
+    "premise": "self|overcoming|chaos|within|oneself|give",
+    "conclusion": "One must have chaos within oneself to give birth to a dancing star; periods of disintegration and doubt are necessary for higher creation",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-S-003",
+    "year": 1885,
+    "premise": "self|overcoming|learn|selfish|right|healthy",
+    "conclusion": "One must learn to be selfish in the right way, a healthy, self-affirming selfishness that cultivates one's own garden rather than a petty selfishness focused on possession",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-S-004",
+    "year": 1885,
+    "premise": "self|overcoming|become|inventors|virtues|creators",
+    "conclusion": "We must become the inventors of our own virtues, creators of new values, rather than merely repeating the old commandments like a phonograph",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-COR-001",
+    "year": 1885,
+    "premise": "critique|religion|called|metaphysical|religious|truth",
+    "conclusion": "Most of what is called metaphysical or religious truth is actually the product of profound psychological errors and needs, not divine revelation",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-COR-002",
+    "year": 1885,
+    "premise": "critique|religion|christianity|triumphed|truth|shrewd",
+    "conclusion": "Christianity triumphed not because of its truth but because of its shrewd psychological appeal to the weak, the suffering, and the resentful masses of the Roman Empire",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-COR-003",
+    "year": 1885,
+    "premise": "critique|religion|saint|dangerous|temptation|weak",
+    "conclusion": "The saint is a dangerous temptation to the weak",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-COR-004",
+    "year": 1885,
+    "premise": "critique|religion|idea|ultimate|creditor|unpayable",
+    "conclusion": "The idea of a God as the ultimate creditor, to whom we owe an unpayable debt, is the pinnacle of the moralization of indebtedness, leading to the neurosis of Christian guilt",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-M-001",
+    "year": 1885,
+    "premise": "morality|world|good|evil|purpose|meaning",
+    "conclusion": "The world of good and evil, purpose and meaning, is a strictly human world of appearances layered over a fundamentally amoral and purposeless reality",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-M-002",
+    "year": 1885,
+    "premise": "morality|moral|feelings|insights|divine|order",
+    "conclusion": "Moral feelings are not insights into a divine order but rather inherited social habits and evaluations hardened over millennia into a sense of the absolute",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-M-003",
+    "year": 1885,
+    "premise": "morality|ascetic|ideal|belief|selfless|purely",
+    "conclusion": "The ascetic ideal and the belief in selfless, purely good actions stem from a fundamental misjudgment of human motivation, which is always mixed and self-referential",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-M-004",
+    "year": 1885,
+    "premise": "morality|origins|justice|sense|fairness|prudent",
+    "conclusion": "The origins of justice lie not in a sense of fairness but in the prudent self-interest of roughly equal powers seeking to avoid mutual destruction",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-FW-001",
+    "year": 1885,
+    "premise": "free|humans|call|fiction|action|necessary",
+    "conclusion": "What humans call free will is a fiction; every action is a necessary link in a complex chain of physiological and psychological causality",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FW-002",
+    "year": 1885,
+    "premise": "free|called|theologians|idea|uncaused|cause",
+    "conclusion": "The so-called free will of theologians, the idea of an uncaused cause within the soul, is an absurdity invented for the purpose of punishment and guilt",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FW-003",
+    "year": 1885,
+    "premise": "free|theological|concept|subjection",
+    "conclusion": "The free will is a theological concept of subjection",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FW-004",
+    "year": 1885,
+    "premise": "free|responsible|subject|invented|mankind|calculable",
+    "conclusion": "The free will and responsible subject were invented to make mankind calculable and to justify punishment",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-001",
+    "year": 1885,
+    "premise": "psychology|feeling|remorse|voice|sting|thwarted",
+    "conclusion": "The feeling of remorse is not a voice of God but the sting of a thwarted instinct of power, the pain of having exercised one's power stupidly",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "NIETZ-P-002",
+    "year": 1885,
+    "premise": "psychology|genius|supernatural|figure|person|immense",
+    "conclusion": "The genius is not a supernatural figure but a person of immense energy who, through fortunate inheritance and circumstance, manages to organize all their forces toward a single goal",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "NIETZ-P-003",
+    "year": 1885,
+    "premise": "psychology|belief|opposites|crude|popular|error",
+    "conclusion": "The belief in opposites is a crude, popular error; in reality, there are only degrees and subtle nuances of mixed motives",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "NIETZ-P-004",
+    "year": 1885,
+    "premise": "psychology|called|love|fact|complex|mixture",
+    "conclusion": "What men have called love is in fact a complex mixture of lust, the drive for possession, vanity, and the desire to be recognized",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "NIETZ-P-001",
+    "year": 1885,
+    "premise": "politics|state|sacred|institution|violent|cruel",
+    "conclusion": "The state is not a sacred institution but a violent and cruel founding act that is later legitimized by custom and forgetfulness",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-002",
+    "year": 1885,
+    "premise": "politics|democracy|represents|secularization|christian|ideal",
+    "conclusion": "Democracy represents the secularization of the Christian ideal of the equal value of every soul and will lead to the flattening of human types",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-003",
+    "year": 1885,
+    "premise": "politics|rights|recognized|guaranteed|degrees|power",
+    "conclusion": "Rights are recognized and guaranteed degrees of power; when the balance of power shifts, old rights dissolve and new ones are established",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-004",
+    "year": 1885,
+    "premise": "politics|politician|divides|mankind|tools|enemies",
+    "conclusion": "A politician divides mankind into tools and enemies; this is all he can understand, revealing the profound intellectual poverty of the political realm",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-WTP-001",
+    "year": 1885,
+    "premise": "power|drive|knowledge|born|possession|mastery",
+    "conclusion": "The drive for knowledge is born from the drive for possession and mastery; to understand something is a form of appropriation",
+    "strength": 0.85,
+    "domain": "will to power"
+  },
+  {
+    "id": "NIETZ-WTP-002",
+    "year": 1885,
+    "premise": "power|highest|activity|moral|action|artistic",
+    "conclusion": "The highest activity of man is not in moral action but in artistic creation and intellectual conquest, which are forms of the will to power",
+    "strength": 0.85,
+    "domain": "will to power"
+  },
+  {
+    "id": "NIETZ-WTP-003",
+    "year": 1885,
+    "premise": "power|drive|knowledge|originates|appropriate|master",
+    "conclusion": "The drive for knowledge originates in the drive to appropriate and master the world; to know something is to make it our own",
+    "strength": 0.85,
+    "domain": "will to power"
+  },
+  {
+    "id": "NIETZ-WTP-004",
+    "year": 1885,
+    "premise": "power|truth|form",
+    "conclusion": "The will to truth is a form of the will to power",
+    "strength": 0.85,
+    "domain": "will to power"
+  },
+  {
+    "id": "NIETZ-E-001",
+    "year": 1885,
+    "premise": "epistemology|convictions|dangerous|enemies|truth|lies",
+    "conclusion": "Convictions are more dangerous enemies of truth than lies because they are held with a closed mind, immune to counter-evidence",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "NIETZ-E-002",
+    "year": 1885,
+    "premise": "epistemology|history|humanity|errors|progress|consists",
+    "conclusion": "The history of humanity is the history of its errors, and progress consists not in finding truth but in replacing grosser errors with more refined and useful ones",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "NIETZ-E-003",
+    "year": 1885,
+    "premise": "epistemology|mystical|explanations|considered|deep|truth",
+    "conclusion": "Mystical explanations are considered deep, but the truth is that they are not even superficial, as they explain nothing",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "NIETZ-E-004",
+    "year": 1885,
+    "premise": "epistemology|knowledge|drive|reached|point|threatens",
+    "conclusion": "The knowledge-drive has now reached a point where it threatens to undermine the very foundations of life, which are built on illusion and error",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "NIETZ-FS-001",
+    "year": 1885,
+    "premise": "free|spirit|experiments|life|thought|holding",
+    "conclusion": "The free spirit experiments with life and thought, holding his beliefs lightly and being willing to sacrifice any conviction for a better one",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FS-002",
+    "year": 1885,
+    "premise": "free|spirit|courage|live|experimentally|unto",
+    "conclusion": "One must have the courage to live experimentally, to be a law unto oneself, even if this means becoming evil in the eyes of the moral majority",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FS-003",
+    "year": 1885,
+    "premise": "free|spirit|freed|chains|gratitude|resentment",
+    "conclusion": "The free spirit is one who has freed himself from the chains of gratitude and resentment, who can view his past teachers and enemies with a clear, unclouded eye",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FS-004",
+    "year": 1885,
+    "premise": "free|spirit|sail|seas|morality|courage",
+    "conclusion": "One must sail the seas of morality with courage, sounding the depths, discovering new coasts, and having the strength to abandon the safe harbor of tradition",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-GI-001",
+    "year": 1885,
+    "premise": "great|individuals|like|epochs|concentrate|tremendous",
+    "conclusion": "Great men are like epochs; they concentrate a tremendous force and then discharge it in a single, monumental direction, for better or worse",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-GI-002",
+    "year": 1885,
+    "premise": "great|individuals|separates|higher|herd|capacity",
+    "conclusion": "What separates higher men from the herd is their capacity for sustained, focused attention and their ability to bear the weight of responsibility",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-GI-003",
+    "year": 1885,
+    "premise": "great|individuals|ultimate|goal|humanity|cannot",
+    "conclusion": "The ultimate goal of humanity cannot lie in its end but in its highest specimens; the meaning of history is the production of great individuals",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-GI-004",
+    "year": 1885,
+    "premise": "great|individuals|greatest|danger|fruitful|human",
+    "conclusion": "The greatest danger for the most fruitful human beings has always been the pressure of their times, the tyranny of public opinion",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-AF-001",
+    "year": 1885,
+    "premise": "amor|fati|learn|love|embrace|necessity",
+    "conclusion": "One must learn to love and embrace necessity; the formula for human greatness is amor fati: to love one's fate and not wish for anything to be different",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-AF-002",
+    "year": 1885,
+    "premise": "amor|fati|love|fate|highest|state",
+    "conclusion": "The love of fate is the highest state of being",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-AF-003",
+    "year": 1885,
+    "premise": "amor|fati|turn|necessity|virtue",
+    "conclusion": "One must turn necessity into virtue",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-AF-004",
+    "year": 1885,
+    "premise": "amor|fati|formula|greatness|human|wants",
+    "conclusion": "My formula for greatness in a human being is amor fati: that one wants nothing to be different, not forward, not backward, not in all eternity",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-O-001",
+    "year": 1885,
+    "premise": "overman|future|humanity|lies|conscious|breeding",
+    "conclusion": "The future of humanity lies in the conscious breeding and education of a higher type of man, not in the haphazard progress of the masses",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-O-002",
+    "year": 1885,
+    "premise": "overman|last|greatest|threat|humanity",
+    "conclusion": "The last men are the greatest threat to humanity",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-O-003",
+    "year": 1885,
+    "premise": "overman|last|blinks|seeks|comfort|logical",
+    "conclusion": "The last man who blinks and seeks comfort is the logical conclusion of the herd morality",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-O-004",
+    "year": 1885,
+    "premise": "overman|future|humanity|lies|conscious|breeding",
+    "conclusion": "The future of humanity lies in the conscious breeding and education of a higher type of man, not in the haphazard progress of the masses",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-MAS-001",
+    "year": 1885,
+    "premise": "master|slave|morality|older|aristocratic|distinguished",
+    "conclusion": "The older, aristocratic morality distinguished only between good and bad, where good meant noble, powerful, and beautiful, and bad meant common, weak, and contemptible",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-MAS-002",
+    "year": 1885,
+    "premise": "master|slave|morality|originates|triumphant|affirmation",
+    "conclusion": "Master morality originates from a triumphant affirmation of oneself; slave morality from the outset says No to what is not itself",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-MAS-003",
+    "year": 1885,
+    "premise": "master|slave|morality|priestly|mode|valuation",
+    "conclusion": "The priestly mode of valuation diverges from the knightly-aristocratic by being fundamentally reactive",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-MAS-004",
+    "year": 1885,
+    "premise": "master|slave|morality|good|evil|opposed",
+    "conclusion": "Good and bad and good and evil are two opposed pairs of values, originating from master and slave moralities respectively",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-A-001",
+    "year": 1885,
+    "premise": "asceticism|ascetic|ideal|profound|trick|power",
+    "conclusion": "The ascetic ideal is a profound trick of the will to power exercised by those who are physiologically weakened",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-A-002",
+    "year": 1885,
+    "premise": "asceticism|modern|science|last|evolutionary|stage",
+    "conclusion": "Modern science is the last evolutionary stage of the ascetic ideal, as it demands rigorous self-denial and discipline from its practitioners",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-A-003",
+    "year": 1885,
+    "premise": "asceticism|reject|ascetic|ideal|denigrates|life",
+    "conclusion": "We must reject the ascetic ideal that denigrates this life",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-A-004",
+    "year": 1885,
+    "premise": "asceticism|ascetic|ideal|springs|protective|instinct",
+    "conclusion": "The ascetic ideal springs from the protective instinct of a degenerating life that is fighting for its existence",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-ROV-001",
+    "year": 1885,
+    "premise": "revaluation|values|learn|think|differently|order",
+    "conclusion": "We must learn to think differently in order to eventually live differently; a revaluation of all values begins with a new way of thinking",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ROV-002",
+    "year": 1885,
+    "premise": "revaluation|values|create",
+    "conclusion": "One should create new values",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ROV-003",
+    "year": 1885,
+    "premise": "revaluation|values|invent|good|evil",
+    "conclusion": "One must invent one's own good and evil",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ROV-004",
+    "year": 1885,
+    "premise": "revaluation|values|critique|moral|value|first",
+    "conclusion": "We need a critique of moral values; the value of these values themselves must first be called into question",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-DOG-001",
+    "year": 1885,
+    "premise": "death|concept|longer|tenable|modern|mind",
+    "conclusion": "The concept of God is no longer tenable for the modern mind",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-DOG-002",
+    "year": 1885,
+    "premise": "death|madman|announces|profound|atheist",
+    "conclusion": "The madman who announces God's death is more profound than the atheist",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-DOG-003",
+    "year": 1885,
+    "premise": "death|lead|monstrous|wars|value",
+    "conclusion": "The death of God will lead to monstrous new wars of value",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-DOG-004",
+    "year": 1885,
+    "premise": "death|shadow|linger|long",
+    "conclusion": "The shadow of God will linger long after his death",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-P-001",
+    "year": 1885,
+    "premise": "perspectivism|knowledge|perspective|fact",
+    "conclusion": "Knowledge is a perspective, not a fact",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-002",
+    "year": 1885,
+    "premise": "perspectivism|scientific|view|world|interpretation|truth",
+    "conclusion": "The scientific view of the world is an interpretation, not the truth",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-003",
+    "year": 1885,
+    "premise": "perspectivism|meaning|phenomenon|interpretation",
+    "conclusion": "The meaning of a phenomenon is its interpretation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-P-004",
+    "year": 1885,
+    "premise": "perspectivism|right|interprets|interpretation|form|power",
+    "conclusion": "We have no right to ask who interprets; interpretation itself is a form of the will to power",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ER-001",
+    "year": 1885,
+    "premise": "eternal|recurrence|ultimate|question|whether|affirm",
+    "conclusion": "The ultimate question is whether you can affirm the eternal recurrence of your life",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ER-002",
+    "year": 1885,
+    "premise": "eternal|recurrence|ultimate|self|examination|thought",
+    "conclusion": "The ultimate self-examination is the thought of eternal recurrence",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ER-003",
+    "year": 1885,
+    "premise": "eternal|recurrence|ultimate|gratitude",
+    "conclusion": "The ultimate gratitude is to will the eternal recurrence",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-ER-004",
+    "year": 1885,
+    "premise": "eternal|recurrence|live|wish",
+    "conclusion": "One must live in such a way that you must wish to live again",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-MM-001",
+    "year": 1885,
+    "premise": "master|morality|noble|type|feels|determiner",
+    "conclusion": "The noble type of man feels himself as the determiner of values; he does not need approval",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-MM-002",
+    "year": 1885,
+    "premise": "master|morality|judgment|good|originate|goodness",
+    "conclusion": "The judgment good did not originate with those to whom goodness was shown but with the good themselves, the noble and powerful",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-MM-003",
+    "year": 1885,
+    "premise": "master|morality|noble|honors|powerful|having",
+    "conclusion": "The noble man honors himself as powerful and also as having power over himself",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-MM-004",
+    "year": 1885,
+    "premise": "master|morality|originates|self|affirmation|noble",
+    "conclusion": "Master morality originates in self-affirmation; the noble soul says Yes to itself first, and bad is merely an afterthought",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-SM-001",
+    "year": 1885,
+    "premise": "slave|morality|says|outside|creative|deed",
+    "conclusion": "Slave morality says no to what is outside, other, not itself; this no is its creative deed",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-SM-002",
+    "year": 1885,
+    "premise": "slave|morality|revolt|begins|ressentiment|becomes",
+    "conclusion": "The slave revolt in morality begins when ressentiment itself becomes creative and gives birth to values",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-SM-003",
+    "year": 1885,
+    "premise": "slave|morality|ressentiment|poisonous|vengeful|attitude",
+    "conclusion": "Ressentiment is the poisonous, vengeful attitude of those who are powerless and cannot act directly",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-SM-004",
+    "year": 1885,
+    "premise": "slave|morality|evil|primary|concept|positive",
+    "conclusion": "The evil of slave morality is the primary concept, from which its positive counterpart good is derived as an afterthought",
+    "strength": 0.85,
+    "domain": "ethics"
+  },
+  {
+    "id": "NIETZ-COW-001",
+    "year": 1885,
+    "premise": "critique|wagner|richard|great|corrupter|music",
+    "conclusion": "Richard Wagner is a great corrupter of music, a neurosis who has made music sick",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-COW-002",
+    "year": 1885,
+    "premise": "critique|wagner|decadent|appeals|exhaustion|fascination",
+    "conclusion": "Wagner's art is decadent; it appeals to our exhaustion and fascination with decay",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-COW-003",
+    "year": 1885,
+    "premise": "critique|wagner|actor|true|musician|genius",
+    "conclusion": "Wagner is an actor, not a true musician; his genius lies in theatrical effect, not in profound musical structure",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-COW-004",
+    "year": 1885,
+    "premise": "critique|wagner|music|german|european|decadent",
+    "conclusion": "Wagner's music is not German; it is a European, decadent phenomenon that has corrupted taste",
+    "strength": 0.85,
+    "domain": "aesthetics"
+  },
+  {
+    "id": "NIETZ-Z-001",
+    "year": 1885,
+    "premise": "zarathustra|thus|spoke|greatest|gift|highest",
+    "conclusion": "Thus Spoke Zarathustra is my greatest gift: it is the highest book ever written, a dithyramb to life, containing the idea of the Eternal Recurrence",
+    "strength": 0.85,
+    "domain": "zarathustra"
+  },
+  {
+    "id": "NIETZ-Z-002",
+    "year": 1885,
+    "premise": "zarathustra|thus|spoke|greatest|gift|highest",
+    "conclusion": "Thus Spoke Zarathustra is my greatest gift: it is the highest book ever written, a dithyramb to life, containing the idea of the Eternal Recurrence",
+    "strength": 0.85,
+    "domain": "zarathustra"
+  },
+  {
+    "id": "NIETZ-Z-003",
+    "year": 1885,
+    "premise": "zarathustra|goes|down|mountain|wisdom|shared",
+    "conclusion": "Zarathustra goes down from the mountain because wisdom must be shared; solitary wisdom curdles into sterility",
+    "strength": 0.85,
+    "domain": "zarathustra"
+  },
+  {
+    "id": "NIETZ-Z-004",
+    "year": 1885,
+    "premise": "zarathustra|eagle|represents|pride|great|overview",
+    "conclusion": "The eagle represents pride and the great overview; the serpent represents wisdom and the earthly perspective",
+    "strength": 0.85,
+    "domain": "zarathustra"
+  },
+  {
+    "id": "NIETZ-A-001",
+    "year": 1885,
+    "premise": "authenticity|become|fundamental|imperative|self|given",
+    "conclusion": "Become who you are is the fundamental imperative; the self is not given but achieved",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-A-002",
+    "year": 1885,
+    "premise": "authenticity|call|ourselves|inherited|absorbed|imitated",
+    "conclusion": "Most of what we call ourselves is inherited, absorbed, imitated; genuine selfhood requires shedding these accretions",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-A-003",
+    "year": 1885,
+    "premise": "authenticity|created|long|process|self|cultivation",
+    "conclusion": "Authenticity is created through a long process of self-cultivation, not discovered as a pre-existing essence",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-A-004",
+    "year": 1885,
+    "premise": "authenticity|requires|loneliness|authentic|self|emerge",
+    "conclusion": "Authenticity requires loneliness; the authentic self can only emerge in separation from the herd",
+    "strength": 0.85,
+    "domain": "self-overcoming"
+  },
+  {
+    "id": "NIETZ-M-001",
+    "year": 1885,
+    "premise": "masculinity|genuine|masculine|virtue|hardness|toward",
+    "conclusion": "Genuine masculine virtue is hardness toward oneself first and only secondarily toward others",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-M-002",
+    "year": 1885,
+    "premise": "masculinity|capacity|physical|spiritual|essential|masculine",
+    "conclusion": "The capacity for war, both physical and spiritual, is essential to masculine strength",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-M-003",
+    "year": 1885,
+    "premise": "masculinity|modern|civilization|weakened|masculine|virtues",
+    "conclusion": "Modern civilization has weakened masculine virtues through excessive comfort and the moralization of strength",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-M-004",
+    "year": 1885,
+    "premise": "masculinity|masculine|courage|without|physical|danger",
+    "conclusion": "Masculine courage in an age without physical danger manifests as intellectual honesty and the willingness to think dangerous thoughts",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-F-001",
+    "year": 1885,
+    "premise": "femininity|woman|fundamental|nature|oriented|toward",
+    "conclusion": "Woman's fundamental nature is oriented toward deception, including self-deception, as a survival and seduction strategy",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-F-002",
+    "year": 1885,
+    "premise": "femininity|feminine|power|operates|indirection|influence",
+    "conclusion": "Feminine power operates through indirection, influence, and the manipulation of masculine desire",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-F-003",
+    "year": 1885,
+    "premise": "femininity|woman|natural|closer|animal|less",
+    "conclusion": "Woman is more natural than man; she is closer to the animal, less mediated by consciousness and culture",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-F-004",
+    "year": 1885,
+    "premise": "femininity|feminine|wisdom|consisting|body|intelligence",
+    "conclusion": "There is a feminine wisdom consisting in the body's intelligence, the intuition that bypasses rational deliberation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-J-001",
+    "year": 1885,
+    "premise": "judaism|jewish|priestly|caste|achieved|slave",
+    "conclusion": "The Jewish priestly caste achieved the slave revolt in morality, the revaluation of all values that inverted the aristocratic equation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-J-002",
+    "year": 1885,
+    "premise": "judaism|jews|invented|moral|interpretation|existence",
+    "conclusion": "The Jews invented the moral interpretation of existence, reading sin and punishment into nature",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-J-003",
+    "year": 1885,
+    "premise": "judaism|jewish|people|suffering|capable|deepest",
+    "conclusion": "The Jewish people's suffering made them capable of the deepest hatred and the most spiritual revenge",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-J-004",
+    "year": 1885,
+    "premise": "judaism|jewish|genius|lies|capacity|ressentiment",
+    "conclusion": "Jewish genius lies in the capacity for ressentiment raised to the level of world-historical creativity",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-JAC-001",
+    "year": 1885,
+    "premise": "judaism|christianity|gentiles|universalization|jewish|slave",
+    "conclusion": "Christianity is Judaism for the Gentiles, the universalization of Jewish slave morality",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-JAC-002",
+    "year": 1885,
+    "premise": "judaism|christianity|paul|transformed|jewish|message",
+    "conclusion": "Paul transformed the Jewish message into a world religion by removing the particular requirements of the law",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-JAC-003",
+    "year": 1885,
+    "premise": "judaism|christianity|preserved|moral|interpretation|existence",
+    "conclusion": "Christianity preserved from Judaism the moral interpretation of existence, the concepts of sin and guilt, and the denial of this world",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-JAC-004",
+    "year": 1885,
+    "premise": "judaism|christianity|corrupted|adding|doctrines|grace",
+    "conclusion": "Christianity corrupted Judaism by adding the doctrines of grace, universal love, and the afterlife",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-C-001",
+    "year": 1885,
+    "premise": "christianity|satisfies|psychological|needs|weak|meaning",
+    "conclusion": "Christianity satisfies the psychological needs of the weak: the need for meaning in suffering, the need for revenge against the strong, the need for hope",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-C-002",
+    "year": 1885,
+    "premise": "christianity|christian|morality|life|denying|core",
+    "conclusion": "Christian morality is life-denying at its core; it condemns the body, the instincts, and this world in favor of a fictitious beyond",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-C-003",
+    "year": 1885,
+    "premise": "christianity|actual|teaching|jesus|practice|living",
+    "conclusion": "The actual teaching of Jesus was a practice of living, not a doctrine; the teaching about Jesus is a doctrine about salvation",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-C-004",
+    "year": 1885,
+    "premise": "christianity|suffering|bearable|interpreting|meaningful|thereby",
+    "conclusion": "Christianity makes suffering bearable by interpreting it as meaningful, but thereby perpetuates suffering by making it spiritually valuable",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "NIETZ-BE-001",
+    "year": 1885,
+    "premise": "british|empiricism|empiricist|philosophy|produced|mediocre",
+    "conclusion": "Empiricist philosophy is produced by mediocre minds incapable of genuine speculation",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-BE-002",
+    "year": 1885,
+    "premise": "british|empiricism|empiricist|denial|innate|ideas",
+    "conclusion": "The empiricist denial of innate ideas is itself a moral prejudice favoring the blank slate and opposing natural hierarchy",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-BE-003",
+    "year": 1885,
+    "premise": "british|empiricism|philosophy|reflects|national|character",
+    "conclusion": "British philosophy reflects British national character: practical, commercial, unphilosophical, lacking in depth and daring",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-BE-004",
+    "year": 1885,
+    "premise": "british|empiricism|intellectually|cowardly|refuses|think",
+    "conclusion": "Empiricism is intellectually cowardly because it refuses to think beyond what can be touched and counted",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FOE-001",
+    "year": 1885,
+    "premise": "future|europe|european|nihilism|terminal|cannot",
+    "conclusion": "European nihilism may be terminal if Europe cannot produce individuals capable of creating new values",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FOE-002",
+    "year": 1885,
+    "premise": "future|europe|aristocracy|emerge|european|decadence",
+    "conclusion": "A new aristocracy might emerge from European decadence, those who have passed through nihilism and come out the other side",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FOE-003",
+    "year": 1885,
+    "premise": "future|europe|democracy|twilight|exhaustion|noble",
+    "conclusion": "Democracy is the twilight of Europe, the exhaustion of the noble values that created European civilization",
+    "strength": 0.85,
+    "domain": "philosophy"
+  },
+  {
+    "id": "NIETZ-FOE-004",
+    "year": 1885,
+    "premise": "future|europe|exhausted|produce|overman|conditions",
+    "conclusion": "Europe may be too exhausted to produce the Overman; the conditions of modern life select against greatness",
+    "strength": 0.85,
+    "domain": "philosophy"
+  }
+]

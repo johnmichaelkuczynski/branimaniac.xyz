@@ -1,0 +1,3152 @@
+[
+  {
+    "id": 1766,
+    "topic": "Primacy of Practical Reason",
+    "premise": "pure|practical|reason|primacy|over|speculative",
+    "conclusion": "Pure practical reason has primacy over speculative reason because it can determine the will and postulate objects (God, freedom, immortality) that speculative reason can only think but not know"
+  },
+  {
+    "id": 1767,
+    "topic": "Factum der Vernunft",
+    "premise": "fundamental|principle|morality|given|priori|unconditional",
+    "conclusion": "The fundamental principle of morality is given a priori as an unconditional, apodictically certain fact of pure reason, not derived from experience"
+  },
+  {
+    "id": 1768,
+    "topic": "Categorical Imperative",
+    "premise": "maxim|your|hold|time|principle|giving",
+    "conclusion": "So act that the maxim of your will could always hold at the same time as a principle in a giving of universal law"
+  },
+  {
+    "id": 1769,
+    "topic": "Freedom as Ratio Essendi",
+    "premise": "freedom|positive|sense|autonomy|necessary|condition",
+    "conclusion": "Freedom in the positive sense of autonomy is the necessary condition (ratio essendi) for the existence of the moral law"
+  },
+  {
+    "id": 1770,
+    "topic": "Moral Law as Ratio Cognoscendi",
+    "premise": "moral|become|aware|freedom|ratio|cognoscendi",
+    "conclusion": "The moral law is how we become aware of our freedom (ratio cognoscendi)"
+  },
+  {
+    "id": 1771,
+    "topic": "Practical Freedom",
+    "premise": "theoretical|reason|cannot|prove|freedom|practical",
+    "conclusion": "While theoretical reason cannot prove freedom, practical reason necessitates its reality as a postulate for morality"
+  },
+  {
+    "id": 1772,
+    "topic": "Good and Evil",
+    "premise": "object|pure|practical|reason|good|evil",
+    "conclusion": "The object of pure practical reason is the good and the evil, defined strictly in relation to the moral law, not antecedent to it"
+  },
+  {
+    "id": 1773,
+    "topic": "Formal Principle",
+    "premise": "moral|formal|principle|form|maxims|universality",
+    "conclusion": "The moral law is a formal principle\u2014a law of the form of maxims (their universality), not a law dictating specific ends or content"
+  },
+  {
+    "id": 1774,
+    "topic": "Typic of Pure Practical Judgment",
+    "premise": "apply|moral|natural|actions|understanding|concept",
+    "conclusion": "To apply the moral law to natural actions, we use the understanding's concept of a law of nature as a type or schema"
+  },
+  {
+    "id": 1775,
+    "topic": "Moral Incentive",
+    "premise": "sole|legitimate|incentive|moral|action|respect",
+    "conclusion": "The sole legitimate incentive for moral action is respect (Achtung) for the moral law\u2014a feeling caused by reason itself, not a pathological feeling"
+  },
+  {
+    "id": 1776,
+    "topic": "Respect and Self-Conceit",
+    "premise": "respect|moral|humiliates|self|conceit|striking",
+    "conclusion": "Respect for the moral law humiliates our self-conceit (Eigend\u00fcnkel) by striking down the pretensions of our sensible inclinations"
+  },
+  {
+    "id": 1777,
+    "topic": "Summum Bonum",
+    "premise": "summum|bonum|highest|good|constituted|virtue",
+    "conclusion": "The summum bonum (highest good) is constituted by virtue (worthiness to be happy) combined with happiness proportionate to that virtue"
+  },
+  {
+    "id": 1778,
+    "topic": "Virtue as Supreme Good",
+    "premise": "virtue|supreme|good|supremum|bonum|unconditioned",
+    "conclusion": "Virtue is the supreme good (supremum bonum)\u2014the unconditioned condition of the summum bonum\u2014but not the complete good"
+  },
+  {
+    "id": 1779,
+    "topic": "Antinomy of Practical Reason",
+    "premise": "apparent|contradiction|pursuit|virtue|happiness|causally",
+    "conclusion": "There is an apparent contradiction between the pursuit of virtue and the pursuit of happiness, as they are not causally connected in the world of sense"
+  },
+  {
+    "id": 1780,
+    "topic": "Solution to the Antinomy",
+    "premise": "summum|bonum|possible|postulate|immortality|soul",
+    "conclusion": "The summum bonum is possible only if we postulate the immortality of the soul and the existence of God"
+  },
+  {
+    "id": 1781,
+    "topic": "Postulates of Practical Reason",
+    "premise": "freedom|immortality|postulates|pure|practical|reason",
+    "conclusion": "God, freedom, and immortality are postulates of pure practical reason\u2014theoretical propositions necessitated as practically necessary presuppositions of obeying the moral law"
+  },
+  {
+    "id": 1782,
+    "topic": "Immortality Postulated",
+    "premise": "moral|perfection|holiness|required|unattainable|finite",
+    "conclusion": "Moral perfection (holiness) is required by the law but unattainable for a finite being, hence we must postulate an endless temporal progression (immortality)"
+  },
+  {
+    "id": 1783,
+    "topic": "God Postulated",
+    "premise": "necessary|supreme|causality|postulated|ground|exact",
+    "conclusion": "A necessary being with supreme causality must be postulated as the ground of the exact correspondence between virtue and happiness"
+  },
+  {
+    "id": 1784,
+    "topic": "Moral Faith",
+    "premise": "belief|immortality|matter|pure|rational|faith",
+    "conclusion": "Belief in God and immortality is a matter of pure rational faith, grounded in practical necessity, not theoretical demonstration"
+  },
+  {
+    "id": 1785,
+    "topic": "Moral Proof of God",
+    "premise": "moral|proof|existence|demonstrates|belief|necessary",
+    "conclusion": "The moral proof of God's existence demonstrates that belief in God is a necessary condition for coherently willing the summum bonum"
+  },
+  {
+    "id": 1786,
+    "topic": "Practical Extension of Reason",
+    "premise": "postulates|practical|reason|gives|objective|though",
+    "conclusion": "Through its postulates, practical reason gives objective (though only practical) reality to ideas that for speculative reason were merely problematic"
+  },
+  {
+    "id": 1787,
+    "topic": "Autonomy vs Heteronomy",
+    "premise": "determined|moral|autonomous|external|object|desire",
+    "conclusion": "A will determined by its own law (the moral law) is autonomous; a will determined by any external object, desire, or authority is heteronomous"
+  },
+  {
+    "id": 1788,
+    "topic": "Categorical vs Hypothetical Imperatives",
+    "premise": "categorical|imperatives|unconditional|oughts|moral|hypothetical",
+    "conclusion": "Only categorical imperatives (unconditional oughts) are moral; hypothetical imperatives are rules of skill or prudence"
+  },
+  {
+    "id": 1789,
+    "topic": "Practical Law vs Maxim",
+    "premise": "practical|objectively|valid|rational|beings|maxim",
+    "conclusion": "A practical law is objectively valid for all rational beings; a maxim is a subjective principle of volition"
+  },
+  {
+    "id": 1790,
+    "topic": "Formal vs Material Principles",
+    "premise": "moral|principles|formal|concerned|form|material",
+    "conclusion": "Moral principles are formal (concerned with the law's form); all material principles (based on an object of desire) are empirical and cannot found a moral law"
+  },
+  {
+    "id": 1791,
+    "topic": "Intelligible vs Sensible World",
+    "premise": "conceive|ourselves|belonging|intelligible|world|noumenal",
+    "conclusion": "We must conceive ourselves as belonging to an intelligible world (noumenal) governed by laws of freedom, and a sensible world (phenomenal) governed by natural causality"
+  },
+  {
+    "id": 1792,
+    "topic": "Personhood vs Thinghood",
+    "premise": "rational|beings|persons|ends|things|means",
+    "conclusion": "Rational beings are persons (ends in themselves); non-rational beings are things (means only)"
+  },
+  {
+    "id": 1793,
+    "topic": "Good Will",
+    "premise": "thing|good|without|qualification|whose|maxims",
+    "conclusion": "The only thing good without qualification is a good will\u2014a will whose maxims conform to the moral law"
+  },
+  {
+    "id": 1794,
+    "topic": "Moral Worth",
+    "premise": "moral|worth|action|lies|effect|principle",
+    "conclusion": "The moral worth of an action lies not in its effect but in the principle of the will (the maxim) from which it is done"
+  },
+  {
+    "id": 1795,
+    "topic": "Duty as Necessitation",
+    "premise": "finite|rational|beings|inclinations|moral|presents",
+    "conclusion": "For finite rational beings who have inclinations, the moral law presents itself as a duty\u2014a necessitation or constraint"
+  },
+  {
+    "id": 1796,
+    "topic": "Virtue as Moral Strength",
+    "premise": "virtue|strength|human|maxims|fulfilling|duty",
+    "conclusion": "Virtue is the strength of a human being's maxims in fulfilling his duty\u2014the fortitude to resist inclinations contrary to the law"
+  },
+  {
+    "id": 1797,
+    "topic": "Against Happiness-Based Ethics",
+    "premise": "ethical|system|making|happiness|general|welfare",
+    "conclusion": "Any ethical system making happiness (even the general welfare) the foundation is heteronomous and fails to capture the unconditional nature of moral obligation"
+  },
+  {
+    "id": 1798,
+    "topic": "Freedom's Dual Status",
+    "premise": "freedom|transcendental|ideality|practical|reality|theoretical",
+    "conclusion": "Freedom is transcendental ideality but practical reality\u2014as a theoretical concept it is an idea of reason; as a practical concept it is a real property of our will"
+  },
+  {
+    "id": 1799,
+    "topic": "Will as Causality",
+    "premise": "kind|causality|belonging|living|beings|insofar",
+    "conclusion": "The will is a kind of causality belonging to living beings insofar as they are rational"
+  },
+  {
+    "id": 1800,
+    "topic": "Moral Law as Determining Ground",
+    "premise": "moral|rule|active|power|cause|action",
+    "conclusion": "The moral law is not just a rule but an active power to cause action independently of sensibility"
+  },
+  {
+    "id": 1801,
+    "topic": "Undeniability of Moral Law",
+    "premise": "consciousness|moral|undeniable|attempt|doubt|already",
+    "conclusion": "Consciousness of the moral law is undeniable\u2014any attempt to doubt it already presupposes a moral standard"
+  },
+  {
+    "id": 1802,
+    "topic": "No Deduction Required",
+    "premise": "unlike|categories|theoretical|reason|moral|needs",
+    "conclusion": "Unlike the categories of theoretical reason, the moral law needs no deduction because it is a fact of reason"
+  },
+  {
+    "id": 1803,
+    "topic": "Against Empiricism in Ethics",
+    "premise": "principles|based|experience|happiness|moral|sense",
+    "conclusion": "All principles based on experience (happiness, moral sense, education, civil constitution) are unfit to serve as the foundation of moral laws"
+  },
+  {
+    "id": 1804,
+    "topic": "Against Rationalistic Dogmatism",
+    "premise": "perfection|concept|defined|morally|empty|cannot",
+    "conclusion": "Perfection as a concept, if not defined morally, is empty and cannot serve as a first moral principle"
+  },
+  {
+    "id": 1805,
+    "topic": "Two Standpoints Resolution",
+    "premise": "conflict|natural|causality|freedom|resolved|viewing",
+    "conclusion": "The conflict between natural causality and freedom is resolved by viewing the same subject from two perspectives: as phenomenon (determined) and as noumenon (free)"
+  },
+  {
+    "id": 1806,
+    "topic": "A Priori Moral Law",
+    "premise": "moral|given|reason|priori|discovery|anthropology",
+    "conclusion": "The moral law is given by reason itself a priori\u2014it is not a discovery from anthropology or psychology"
+  },
+  {
+    "id": 1807,
+    "topic": "Systematic Completion",
+    "premise": "pure|practical|reason|fills|critical|system",
+    "conclusion": "Pure practical reason fills a gap in the critical system by giving content to the ideas of reason that the first Critique left empty"
+  },
+  {
+    "id": 1808,
+    "topic": "Pure Incentive",
+    "premise": "incentive|pure|practical|reason|cannot|involve",
+    "conclusion": "The incentive of pure practical reason must be pure\u2014it cannot involve any sensuous desire or fear of punishment or hope of reward"
+  },
+  {
+    "id": 1809,
+    "topic": "Highest Good as Final End",
+    "premise": "accordance|moral|final|reason|connects|summum",
+    "conclusion": "To will in accordance with the moral law is to will the final end which reason connects with it\u2014the summum bonum"
+  },
+  {
+    "id": 1810,
+    "topic": "Conditioned Happiness",
+    "premise": "happiness|general|proportionate|virtue|willed|part",
+    "conclusion": "It is not happiness in general but happiness proportionate to virtue that is willed as part of the summum bonum"
+  },
+  {
+    "id": 1811,
+    "topic": "Practical Existence",
+    "premise": "postulates|assert|actual|existence|immortal|soul",
+    "conclusion": "The postulates assert the actual existence of God and an immortal soul, but only from a practical point of view"
+  },
+  {
+    "id": 1812,
+    "topic": "Unity of Reason",
+    "premise": "human|reason|used|theoretically|practically|practical",
+    "conclusion": "There is only one human reason, used theoretically and practically, with its practical use having primacy in the sphere of ends"
+  },
+  {
+    "id": 1813,
+    "topic": "Sovereignty of Moral Law",
+    "premise": "moral|brooks|rival|determining|grounds|demands",
+    "conclusion": "The moral law brooks no rival determining grounds and demands unconditional submission"
+  },
+  {
+    "id": 1814,
+    "topic": "Ascending Method",
+    "premise": "method|pure|practical|reason|begins|analysis",
+    "conclusion": "The method of pure practical reason begins with the analysis of ordinary moral consciousness and ascends to its supreme principle"
+  },
+  {
+    "id": 1815,
+    "topic": "Origin of Knowledge",
+    "premise": "knowledge|begins|experience|arises",
+    "conclusion": "All knowledge begins with experience, but not all knowledge arises from experience"
+  },
+  {
+    "id": 1816,
+    "topic": "Synthesis Requirement",
+    "premise": "knowledge|requires|synthesis|sensory|intuitions|conceptual",
+    "conclusion": "Knowledge requires the synthesis of sensory intuitions with conceptual categories supplied by the understanding"
+  },
+  {
+    "id": 1817,
+    "topic": "Active Mind",
+    "premise": "mind|passive|recipient|impressions|actively|structures",
+    "conclusion": "The mind is not a passive recipient of impressions but actively structures experience according to its own forms"
+  },
+  {
+    "id": 1818,
+    "topic": "Conditions of Objectivity",
+    "premise": "objective|knowledge|possible|mind|imposes|necessary",
+    "conclusion": "Objective knowledge is possible only because the mind imposes necessary conditions on all possible experience"
+  },
+  {
+    "id": 1819,
+    "topic": "Two Stems of Knowledge",
+    "premise": "knowledge|stems|sensibility|provides|intuitions|understanding",
+    "conclusion": "Knowledge has two stems: sensibility (which provides intuitions) and understanding (which provides concepts)"
+  },
+  {
+    "id": 1820,
+    "topic": "Intuitions and Concepts",
+    "premise": "neither|intuitions|without|concepts|yield|knowledge",
+    "conclusion": "Neither intuitions without concepts nor concepts without intuitions can yield knowledge"
+  },
+  {
+    "id": 1821,
+    "topic": "Phenomena as Object",
+    "premise": "proper|object|human|knowledge|appearances|phenomena",
+    "conclusion": "The proper object of human knowledge is appearances (phenomena), not things as they are in themselves"
+  },
+  {
+    "id": 1822,
+    "topic": "Source of Certainty",
+    "premise": "certainty|knowledge|comes|correspondence|external|reality",
+    "conclusion": "Certainty in knowledge comes not from correspondence with external reality but from the necessary structures of cognition itself"
+  },
+  {
+    "id": 1823,
+    "topic": "Definition of A Priori",
+    "premise": "priori|knowledge|independent|experience|necessarily|universal",
+    "conclusion": "A priori knowledge is knowledge that is independent of all experience and necessarily universal"
+  },
+  {
+    "id": 1824,
+    "topic": "Marks of A Priori",
+    "premise": "marks|priori|knowledge|strict|necessity|unrestricted",
+    "conclusion": "The marks of a priori knowledge are strict necessity and unrestricted universality"
+  },
+  {
+    "id": 1825,
+    "topic": "Pure A Priori",
+    "premise": "pure|priori|knowledge|contains|empirical|admixture",
+    "conclusion": "Pure a priori knowledge contains no empirical admixture whatsoever"
+  },
+  {
+    "id": 1826,
+    "topic": "Mathematics as A Priori",
+    "premise": "mathematics|provides|paradigmatic|examples|pure|priori",
+    "conclusion": "Mathematics provides paradigmatic examples of pure a priori knowledge"
+  },
+  {
+    "id": 1827,
+    "topic": "A Priori Principles",
+    "premise": "principles|pure|understanding|causality|known|priori",
+    "conclusion": "The principles of pure understanding (e.g., causality) are known a priori"
+  },
+  {
+    "id": 1828,
+    "topic": "Possibility of A Priori",
+    "premise": "priori|knowledge|possible|mind|supplies|forms",
+    "conclusion": "A priori knowledge is possible because the mind supplies the forms under which all experience must be organized"
+  },
+  {
+    "id": 1829,
+    "topic": "A Priori Not Innate",
+    "premise": "priori|innate|sense|temporally|prior|experience",
+    "conclusion": "The a priori is not innate in the sense of being temporally prior to experience, but is logically independent of experience"
+  },
+  {
+    "id": 1830,
+    "topic": "Irrefutability of A Priori",
+    "premise": "priori|truths|cannot|refuted|experience|conditions",
+    "conclusion": "A priori truths cannot be refuted by experience because they are conditions for the possibility of experience itself"
+  },
+  {
+    "id": 1831,
+    "topic": "A Priori Space and Time",
+    "premise": "space|time|forms|intuition|known|priori",
+    "conclusion": "Space and time, as forms of intuition, are known a priori"
+  },
+  {
+    "id": 1832,
+    "topic": "Definition of A Posteriori",
+    "premise": "posteriori|knowledge|established|experience",
+    "conclusion": "A posteriori knowledge is knowledge that can only be established through experience"
+  },
+  {
+    "id": 1833,
+    "topic": "Contingency of A Posteriori",
+    "premise": "posteriori|judgments|contingent|negations|logically|possible",
+    "conclusion": "A posteriori judgments are contingent\u2014their negations are logically possible"
+  },
+  {
+    "id": 1834,
+    "topic": "Particularity of Empirical Knowledge",
+    "premise": "empirical|knowledge|particular|achieve|strict|universality",
+    "conclusion": "Empirical knowledge is always particular and can never achieve strict universality"
+  },
+  {
+    "id": 1835,
+    "topic": "A Posteriori in Natural Science",
+    "premise": "natural|science|contains|posteriori|elements|insofar",
+    "conclusion": "Natural science contains a posteriori elements insofar as it describes particular regularities in nature"
+  },
+  {
+    "id": 1836,
+    "topic": "Form vs Content",
+    "premise": "content|perception|given|posteriori|though|form",
+    "conclusion": "The content of perception is given a posteriori, though its form is a priori"
+  },
+  {
+    "id": 1837,
+    "topic": "Dependence on Experience",
+    "premise": "posteriori|knowledge|depends|actual|course|experience",
+    "conclusion": "A posteriori knowledge depends on the actual course of experience and could have been otherwise"
+  },
+  {
+    "id": 1838,
+    "topic": "Limits of Induction",
+    "premise": "inductive|generalizations|posteriori|achieve|apodictic|certainty",
+    "conclusion": "Inductive generalizations, being a posteriori, can never achieve apodictic certainty"
+  },
+  {
+    "id": 1839,
+    "topic": "Specific vs General Laws",
+    "premise": "specific|laws|nature|known|posteriori|though",
+    "conclusion": "The specific laws of nature are known a posteriori, though the general principle that nature has laws is known a priori"
+  },
+  {
+    "id": 1840,
+    "topic": "Analytic Judgments Defined",
+    "premise": "analytic|judgments|predicate|concept|contained|within",
+    "conclusion": "In analytic judgments, the predicate concept is contained within the subject concept"
+  },
+  {
+    "id": 1841,
+    "topic": "Analytic as Explicative",
+    "premise": "analytic|judgments|explicative|clarify|extend|knowledge",
+    "conclusion": "Analytic judgments are explicative\u2014they clarify but do not extend knowledge"
+  },
+  {
+    "id": 1842,
+    "topic": "Principle of Contradiction",
+    "premise": "principle|contradiction|supreme|analytic|judgments",
+    "conclusion": "The principle of contradiction is the supreme principle of all analytic judgments"
+  },
+  {
+    "id": 1843,
+    "topic": "A Priori Analytic",
+    "premise": "analytic|judgments|knowable|priori|truth|depends",
+    "conclusion": "Analytic judgments are knowable a priori because their truth depends solely on the meanings of their terms"
+  },
+  {
+    "id": 1844,
+    "topic": "Self-Contradiction Test",
+    "premise": "analytic|truths|cannot|denied|without|self",
+    "conclusion": "Analytic truths cannot be denied without self-contradiction"
+  },
+  {
+    "id": 1845,
+    "topic": "Analytic Emptiness",
+    "premise": "analytic|judgments|though|certain|cognitively|empty",
+    "conclusion": "Analytic judgments, though certain, are cognitively empty\u2014they tell us nothing about the world"
+  },
+  {
+    "id": 1846,
+    "topic": "Negation of Analytic",
+    "premise": "negation|analytic|truth|self|contradictory|therefore",
+    "conclusion": "The negation of an analytic truth is self-contradictory and therefore necessarily false"
+  },
+  {
+    "id": 1847,
+    "topic": "Synthetic Judgments Defined",
+    "premise": "synthetic|judgments|predicate|concept|lies|outside",
+    "conclusion": "In synthetic judgments, the predicate concept lies outside the subject concept"
+  },
+  {
+    "id": 1848,
+    "topic": "Synthetic as Ampliative",
+    "premise": "synthetic|judgments|ampliative|genuinely|extend|knowledge",
+    "conclusion": "Synthetic judgments are ampliative\u2014they genuinely extend our knowledge"
+  },
+  {
+    "id": 1849,
+    "topic": "Justification of Synthetic A Posteriori",
+    "premise": "synthetic|posteriori|judgments|justified|experience",
+    "conclusion": "Synthetic a posteriori judgments are justified by experience"
+  },
+  {
+    "id": 1850,
+    "topic": "Central Question",
+    "premise": "revolutionary|question|critique|synthetic|priori|judgments",
+    "conclusion": "The revolutionary question of the Critique is: How are synthetic a priori judgments possible?"
+  },
+  {
+    "id": 1851,
+    "topic": "Mathematics as Synthetic",
+    "premise": "mathematical|truths|synthetic|predicate|logically|contained",
+    "conclusion": "Mathematical truths are synthetic because the predicate is not logically contained in the subject"
+  },
+  {
+    "id": 1852,
+    "topic": "Arithmetic as Synthetic",
+    "premise": "synthetic|concept|contained|concepts|addition",
+    "conclusion": "\"7 + 5 = 12\" is synthetic because the concept of 12 is not contained in the concepts of 7, 5, and addition"
+  },
+  {
+    "id": 1853,
+    "topic": "Synthetic A Priori Principles",
+    "premise": "principles|pure|natural|science|event|cause",
+    "conclusion": "The principles of pure natural science (e.g., every event has a cause) are synthetic a priori"
+  },
+  {
+    "id": 1854,
+    "topic": "Possibility of Synthetic A Priori",
+    "premise": "synthetic|priori|judgments|possible|express|necessary",
+    "conclusion": "Synthetic a priori judgments are possible because they express the necessary conditions for any possible experience"
+  },
+  {
+    "id": 1855,
+    "topic": "Metaphysics as Science",
+    "premise": "metaphysics|science|consist|synthetic|priori|judgments",
+    "conclusion": "Metaphysics, if it is to be a science, must consist of synthetic a priori judgments"
+  },
+  {
+    "id": 1856,
+    "topic": "Transcendental Arguments Defined",
+    "premise": "transcendental|argument|demonstrates|necessary|conditions|possibility",
+    "conclusion": "A transcendental argument demonstrates the necessary conditions for the possibility of experience or knowledge"
+  },
+  {
+    "id": 1857,
+    "topic": "Regressive Method",
+    "premise": "transcendental|arguments|proceed|regressively|undeniable|fact",
+    "conclusion": "Transcendental arguments proceed regressively from an undeniable fact to its necessary presuppositions"
+  },
+  {
+    "id": 1858,
+    "topic": "Validity of Categories",
+    "premise": "validity|categories|established|showing|without|unified",
+    "conclusion": "The validity of the categories is established by showing that without them unified experience would be impossible"
+  },
+  {
+    "id": 1859,
+    "topic": "Scope of Transcendental Arguments",
+    "premise": "transcendental|arguments|prove|things|certain|think",
+    "conclusion": "Transcendental arguments do not prove that things are a certain way, but that we must think them as being that way"
+  },
+  {
+    "id": 1860,
+    "topic": "Transcendental Deduction",
+    "premise": "transcendental|deduction|shows|categories|objective|validity",
+    "conclusion": "The transcendental deduction shows that the categories have objective validity for all possible experience"
+  },
+  {
+    "id": 1861,
+    "topic": "Status of Transcendental Truths",
+    "premise": "transcendental|arguments|establish|truths|neither|merely",
+    "conclusion": "Transcendental arguments establish truths that are neither merely logical nor merely empirical"
+  },
+  {
+    "id": 1862,
+    "topic": "Paradigmatic Transcendental Argument",
+    "premise": "argument|synthetic|unity|apperception|paradigmatically|transcendental",
+    "conclusion": "The argument for the synthetic unity of apperception is paradigmatically transcendental"
+  },
+  {
+    "id": 1863,
+    "topic": "Nature of Transcendental Proofs",
+    "premise": "transcendental|proofs|cannot|dogmatic|demonstrations|show",
+    "conclusion": "Transcendental proofs cannot be dogmatic demonstrations but must show the indispensability of certain concepts"
+  },
+  {
+    "id": 1864,
+    "topic": "Forms of Intuition",
+    "premise": "space|time|priori|forms|sensible|intuition",
+    "conclusion": "Space and time are the a priori forms of sensible intuition\u2014conditions under which objects can be given to us"
+  },
+  {
+    "id": 1865,
+    "topic": "Categories as Conditions",
+    "premise": "categories|understanding|conditions|objects|thought",
+    "conclusion": "The categories of the understanding are conditions under which objects can be thought"
+  },
+  {
+    "id": 1866,
+    "topic": "Unity of Apperception",
+    "premise": "transcendental|unity|apperception|supreme|condition|knowledge",
+    "conclusion": "The transcendental unity of apperception is the supreme condition of all knowledge"
+  },
+  {
+    "id": 1867,
+    "topic": "I Think",
+    "premise": "think|able|accompany|representations",
+    "conclusion": "The \"I think\" must be able to accompany all my representations"
+  },
+  {
+    "id": 1868,
+    "topic": "Schematism",
+    "premise": "schematism|mediates|pure|concepts|sensible|intuitions",
+    "conclusion": "The schematism mediates between pure concepts and sensible intuitions"
+  },
+  {
+    "id": 1869,
+    "topic": "Transcendental Imagination",
+    "premise": "transcendental|imagination|synthesizes|manifold|intuition|according",
+    "conclusion": "Transcendental imagination synthesizes the manifold of intuition according to the categories"
+  },
+  {
+    "id": 1870,
+    "topic": "Threefold Synthesis",
+    "premise": "without|threefold|synthesis|apprehension|reproduction|recognition",
+    "conclusion": "Without the threefold synthesis (apprehension, reproduction, recognition), no coherent experience is possible"
+  },
+  {
+    "id": 1871,
+    "topic": "Principles of Understanding",
+    "premise": "principles|pure|understanding|axioms|intuition|anticipations",
+    "conclusion": "The principles of pure understanding (Axioms of Intuition, Anticipations of Perception, Analogies of Experience, Postulates of Empirical Thought) are constitutive of experience"
+  },
+  {
+    "id": 1872,
+    "topic": "Transcendental Causality",
+    "premise": "causality|transcendental|condition|event|cause|fact",
+    "conclusion": "Causality is a transcendental condition\u2014every event must have a cause, not as a fact about the world, but as a condition for experiencing any event at all"
+  },
+  {
+    "id": 1873,
+    "topic": "Empirical Self",
+    "premise": "empirical|self|appears|inner|sense|temporal",
+    "conclusion": "The empirical self is the self as it appears in inner sense\u2014a temporal sequence of mental states"
+  },
+  {
+    "id": 1874,
+    "topic": "Transcendental Self",
+    "premise": "transcendental|self|logical|subject|representations|object",
+    "conclusion": "The transcendental self (transcendental ego) is the logical subject of all representations, not itself an object of knowledge"
+  },
+  {
+    "id": 1875,
+    "topic": "Formal Unity of I",
+    "premise": "think|purely|formal|unity|substantial|soul",
+    "conclusion": "The \"I think\" is a purely formal unity, not a substantial soul"
+  },
+  {
+    "id": 1876,
+    "topic": "Paralogism of Rational Psychology",
+    "premise": "rational|psychology|commits|paralogism|treating|transcendental",
+    "conclusion": "Rational psychology commits a paralogism by treating the transcendental subject as a knowable substance"
+  },
+  {
+    "id": 1877,
+    "topic": "Limits of Soul Knowledge",
+    "premise": "cannot|theoretical|knowledge|soul|immortality|simplicity",
+    "conclusion": "We cannot have theoretical knowledge of the soul's immortality, simplicity, or substantiality"
+  },
+  {
+    "id": 1878,
+    "topic": "Phenomenal Self",
+    "premise": "self|appears|inner|sense|phenomenal|subject",
+    "conclusion": "The self that appears in inner sense is phenomenal, subject to the form of time"
+  },
+  {
+    "id": 1879,
+    "topic": "Personal Identity",
+    "premise": "personal|identity|given|persisting|substance|synthetic",
+    "conclusion": "Personal identity is not given by a persisting substance but by the synthetic unity of apperception"
+  },
+  {
+    "id": 1880,
+    "topic": "Noumenal Self",
+    "premise": "noumenal|self|outside|time|thus|free",
+    "conclusion": "The noumenal self (if there is one) would be outside time and thus free from natural causation"
+  },
+  {
+    "id": 1881,
+    "topic": "Limits of Self-Knowledge",
+    "premise": "self|knowledge|limited|appear|ourselves",
+    "conclusion": "Self-knowledge is limited to how we appear to ourselves, not how we are in ourselves"
+  },
+  {
+    "id": 1882,
+    "topic": "Self as Appearance",
+    "premise": "thinking|subject|cannot|cognize|appears",
+    "conclusion": "The thinking subject cannot cognize itself as it is in itself, only as it appears"
+  },
+  {
+    "id": 1883,
+    "topic": "Phenomena Defined",
+    "premise": "phenomena|objects|appear|conditioned|forms|intuition",
+    "conclusion": "Phenomena are objects as they appear to us, conditioned by the forms of intuition and categories of understanding"
+  },
+  {
+    "id": 1884,
+    "topic": "Noumena Defined",
+    "premise": "noumena|things|independent|cognitive|apparatus",
+    "conclusion": "Noumena are things as they are in themselves, independent of our cognitive apparatus"
+  },
+  {
+    "id": 1885,
+    "topic": "Noumena as Limiting Concept",
+    "premise": "positive|knowledge|noumena|concept|serves|limiting",
+    "conclusion": "We can have no positive knowledge of noumena; the concept serves as a limiting concept"
+  },
+  {
+    "id": 1886,
+    "topic": "Function of Distinction",
+    "premise": "noumenal|phenomenal|distinction|prevents|confusing|appearances",
+    "conclusion": "The noumenal/phenomenal distinction prevents us from confusing appearances with things in themselves"
+  },
+  {
+    "id": 1887,
+    "topic": "Empirical Reality of Phenomena",
+    "premise": "something|phenomenon|illusion|phenomena|empirically|real",
+    "conclusion": "To say something is a phenomenon is not to say it is an illusion\u2014phenomena are empirically real"
+  },
+  {
+    "id": 1888,
+    "topic": "Negative Noumena",
+    "premise": "noumena|negative|sense|simply|things|considered",
+    "conclusion": "Noumena in the negative sense are simply things considered apart from our mode of intuiting them"
+  },
+  {
+    "id": 1889,
+    "topic": "Positive Noumena Problematic",
+    "premise": "positive|concept|noumena|objects|intellectual|intuition",
+    "conclusion": "The positive concept of noumena (objects of intellectual intuition) is problematic for us, since we lack such intuition"
+  },
+  {
+    "id": 1890,
+    "topic": "Transcendental Distinction",
+    "premise": "distinction|noumena|phenomena|transcendental|empirical",
+    "conclusion": "The distinction between noumena and phenomena is transcendental, not empirical"
+  },
+  {
+    "id": 1891,
+    "topic": "Empirical Realism and Transcendental Idealism",
+    "premise": "empirical|realism|phenomena|real|compatible|transcendental",
+    "conclusion": "Empirical realism (phenomena are real) is compatible with transcendental idealism (phenomena are mind-dependent)"
+  },
+  {
+    "id": 1892,
+    "topic": "Errors of Metaphysics",
+    "premise": "errors|traditional|metaphysics|arise|treating|phenomenal",
+    "conclusion": "The errors of traditional metaphysics arise from treating phenomenal predicates as applicable to noumena"
+  },
+  {
+    "id": 1893,
+    "topic": "Categories Defined",
+    "premise": "categories|pure|concepts|understanding|apply|objects",
+    "conclusion": "The categories are pure concepts of the understanding that apply to objects of possible experience"
+  },
+  {
+    "id": 1894,
+    "topic": "Twelve Categories",
+    "premise": "exactly|twelve|categories|derived|logical|forms",
+    "conclusion": "There are exactly twelve categories, derived from the logical forms of judgment"
+  },
+  {
+    "id": 1895,
+    "topic": "Categories of Quantity",
+    "premise": "categories|quantity|unity|plurality|totality",
+    "conclusion": "The categories of Quantity are: Unity, Plurality, Totality"
+  },
+  {
+    "id": 1896,
+    "topic": "Categories of Quality",
+    "premise": "categories|quality|reality|negation|limitation",
+    "conclusion": "The categories of Quality are: Reality, Negation, Limitation"
+  },
+  {
+    "id": 1897,
+    "topic": "Categories of Relation",
+    "premise": "categories|relation|inherence|subsistence|substance|causality",
+    "conclusion": "The categories of Relation are: Inherence/Subsistence (substance), Causality/Dependence, Community (reciprocity)"
+  },
+  {
+    "id": 1898,
+    "topic": "Categories of Modality",
+    "premise": "categories|modality|possibility|impossibility|existence|necessity",
+    "conclusion": "The categories of Modality are: Possibility/Impossibility, Existence/Non-existence, Necessity/Contingency"
+  },
+  {
+    "id": 1899,
+    "topic": "Content of Categories",
+    "premise": "categories|content|apart|application|sensible|intuition",
+    "conclusion": "The categories have no content apart from their application to sensible intuition"
+  },
+  {
+    "id": 1900,
+    "topic": "Unschematized Categories",
+    "premise": "unschematized|categories|mere|logical|forms|cognitive",
+    "conclusion": "Unschematized categories are mere logical forms with no cognitive significance"
+  },
+  {
+    "id": 1901,
+    "topic": "Function of Schemata",
+    "premise": "schemata|translate|categories|temporal|terms|applicable",
+    "conclusion": "The schemata translate categories into temporal terms applicable to experience"
+  },
+  {
+    "id": 1902,
+    "topic": "Schemata of Substance and Causality",
+    "premise": "substance|schematized|permanence|time|causality|succession",
+    "conclusion": "Substance is schematized as permanence in time; causality as succession according to a rule"
+  },
+  {
+    "id": 1903,
+    "topic": "Categories Presupposed",
+    "premise": "categories|derived|experience|presupposed",
+    "conclusion": "The categories are not derived from experience but are presupposed by it"
+  },
+  {
+    "id": 1904,
+    "topic": "Kant vs Aristotle on Categories",
+    "premise": "kant|categories|epistemological|transcendental|aristotle|ontological",
+    "conclusion": "Kant's categories are epistemological/transcendental; Aristotle's are ontological/metaphysical"
+  },
+  {
+    "id": 1905,
+    "topic": "Classification Difference",
+    "premise": "aristotle|categories|classify|beings|kant|ways",
+    "conclusion": "Aristotle's categories classify beings; Kant's categories classify ways of thinking about objects"
+  },
+  {
+    "id": 1906,
+    "topic": "Systematic Derivation",
+    "premise": "aristotle|derived|categories|unsystematically|kant|derives",
+    "conclusion": "Aristotle derived his categories unsystematically; Kant derives his from the table of judgments"
+  },
+  {
+    "id": 1907,
+    "topic": "Substance Difference",
+    "premise": "aristotle|category|substance|refers|independently|existing",
+    "conclusion": "Aristotle's category of substance refers to independently existing things; Kant's refers to the logical subject of predication and the schema of permanence"
+  },
+  {
+    "id": 1908,
+    "topic": "Critique of Aristotle",
+    "premise": "kant|criticizes|aristotle|mixing|empirical|concepts",
+    "conclusion": "Kant criticizes Aristotle for mixing empirical concepts (e.g., motion, place) with pure concepts"
+  },
+  {
+    "id": 1909,
+    "topic": "Completeness Claim",
+    "premise": "kant|table|claims|completeness|principled|grounds",
+    "conclusion": "Kant's table claims completeness on principled grounds; Aristotle's list is rhapsodic"
+  },
+  {
+    "id": 1910,
+    "topic": "Scope of Application",
+    "premise": "aristotle|categories|apply|things|kant|phenomena",
+    "conclusion": "Aristotle's categories apply to things in themselves; Kant's apply only to phenomena"
+  },
+  {
+    "id": 1911,
+    "topic": "Common Ground",
+    "premise": "kant|aristotle|recognize|substance|relation|fundamental",
+    "conclusion": "Both Kant and Aristotle recognize substance and relation as fundamental, but interpret them differently"
+  },
+  {
+    "id": 1912,
+    "topic": "Transformation of Metaphysics",
+    "premise": "kant|transforms|aristotelian|metaphysics|critical|epistemology",
+    "conclusion": "Kant transforms Aristotelian metaphysics into critical epistemology"
+  },
+  {
+    "id": 1913,
+    "topic": "Ideas of Reason",
+    "premise": "reason|inevitably|generates|ideas|transcend|possible",
+    "conclusion": "Reason inevitably generates ideas that transcend all possible experience (God, soul, cosmos)"
+  },
+  {
+    "id": 1914,
+    "topic": "Regulative Ideas",
+    "premise": "transcendental|ideas|regulative|constitutive|guide|inquiry",
+    "conclusion": "The transcendental ideas are regulative, not constitutive\u2014they guide inquiry but do not yield knowledge"
+  },
+  {
+    "id": 1915,
+    "topic": "Origin of Antinomies",
+    "premise": "antinomies|arise|reason|tries|think|unconditioned",
+    "conclusion": "The antinomies arise when reason tries to think the unconditioned totality of conditions"
+  },
+  {
+    "id": 1916,
+    "topic": "Failure of Traditional Metaphysics",
+    "premise": "traditional|metaphysics|fails|applies|categories|beyond",
+    "conclusion": "Traditional metaphysics fails because it applies categories beyond the bounds of possible experience"
+  },
+  {
+    "id": 1917,
+    "topic": "Limits of Theoretical Reason",
+    "premise": "theoretical|reason|cannot|prove|disprove|existence",
+    "conclusion": "Theoretical reason cannot prove or disprove the existence of God, freedom, or immortality"
+  },
+  {
+    "id": 1918,
+    "topic": "Self-Critique of Reason",
+    "premise": "critique|reason|self|examination|powers|limits",
+    "conclusion": "The critique of reason is reason's self-examination of its own powers and limits"
+  },
+  {
+    "id": 1919,
+    "topic": "Critical Metaphysics",
+    "premise": "speculative|metaphysics|replaced|critical|study|conditions",
+    "conclusion": "Speculative metaphysics must be replaced by critical metaphysics\u2014the study of the conditions of knowledge"
+  },
+  {
+    "id": 1920,
+    "topic": "Natural Illusions",
+    "premise": "reason|illusions|natural|unavoidable|recognized",
+    "conclusion": "Reason's illusions are natural and unavoidable but must be recognized as illusions"
+  },
+  {
+    "id": 1921,
+    "topic": "Proper Use of Ideas",
+    "premise": "proper|transcendental|ideas|regulative|seek|ever",
+    "conclusion": "The proper use of transcendental ideas is regulative: to seek ever greater unity and completeness in knowledge"
+  },
+  {
+    "id": 1922,
+    "topic": "Dialectical Illusion",
+    "premise": "attempting|know|noumena|produces|dialectical|illusion",
+    "conclusion": "Attempting to know noumena produces only dialectical illusion, not genuine cognition"
+  },
+  {
+    "id": 1923,
+    "topic": "God as Ens Realissimum",
+    "premise": "conceived|realissimum|possessing|perfections",
+    "conclusion": "God is conceived as the ens realissimum\u2014the being possessing all perfections"
+  },
+  {
+    "id": 1924,
+    "topic": "Transcendental Ideal",
+    "premise": "transcendental|ideal|concept|grounds|possibility",
+    "conclusion": "God is the transcendental ideal\u2014the concept of a being that grounds all possibility"
+  },
+  {
+    "id": 1925,
+    "topic": "Limits on God Knowledge",
+    "premise": "theoretical|reason|cannot|determine|whether|exists",
+    "conclusion": "Theoretical reason cannot determine whether God exists or what God's nature is"
+  },
+  {
+    "id": 1926,
+    "topic": "Critique of Ontological Argument",
+    "premise": "ontological|argument|fails|existence|real|predicate",
+    "conclusion": "The ontological argument fails because existence is not a real predicate"
+  },
+  {
+    "id": 1927,
+    "topic": "Critique of Cosmological Argument",
+    "premise": "cosmological|argument|illicitly|infers|contingent|existence",
+    "conclusion": "The cosmological argument illicitly infers from contingent existence to a necessary being"
+  },
+  {
+    "id": 1928,
+    "topic": "Critique of Design Argument",
+    "premise": "physico|theological|design|argument|proves|architect",
+    "conclusion": "The physico-theological (design) argument at most proves an architect, not a creator ex nihilo"
+  },
+  {
+    "id": 1929,
+    "topic": "Foundation of Theistic Proofs",
+    "premise": "proofs|existence|ultimately|rest|invalid|ontological",
+    "conclusion": "All proofs of God's existence ultimately rest on the invalid ontological argument"
+  },
+  {
+    "id": 1930,
+    "topic": "God as Noumenon",
+    "premise": "noumenon|cannot|object|theoretical|cognition",
+    "conclusion": "God, as a noumenon, cannot be an object of theoretical cognition"
+  },
+  {
+    "id": 1931,
+    "topic": "Practical Necessity of God",
+    "premise": "concept|practically|necessary|postulate|moral|reason",
+    "conclusion": "The concept of God is practically necessary as the postulate of moral reason"
+  },
+  {
+    "id": 1932,
+    "topic": "God's Mode of Existence",
+    "premise": "exists|thing|appearance|space|time",
+    "conclusion": "If God exists, God exists as a thing in itself, not as an appearance in space and time"
+  },
+  {
+    "id": 1933,
+    "topic": "Categories Inapplicable to God",
+    "premise": "cannot|apply|categories|function|relation|sensible",
+    "conclusion": "We cannot apply the categories to God because they function only in relation to sensible intuition"
+  },
+  {
+    "id": 1934,
+    "topic": "Analogical Predication",
+    "premise": "statements|about|attributes|analogical|literal|concepts",
+    "conclusion": "Statements about God's attributes are analogical, not literal\u2014we use concepts from experience symbolically"
+  },
+  {
+    "id": 1935,
+    "topic": "God Outside Space and Time",
+    "premise": "subject|temporal|succession|spatial|location",
+    "conclusion": "God is not subject to temporal succession or spatial location"
+  },
+  {
+    "id": 1936,
+    "topic": "Noumenal Divine Causality",
+    "premise": "causality|noumenal|phenomenal|subject|natural|laws",
+    "conclusion": "God's causality (if any) would be noumenal, not phenomenal\u2014not subject to natural laws"
+  },
+  {
+    "id": 1937,
+    "topic": "Theoretical Agnosticism",
+    "premise": "noumenal|status|means|theoretical|agnosticism|cannot",
+    "conclusion": "The noumenal status of God means theoretical agnosticism: we cannot know, only think, God"
+  },
+  {
+    "id": 1938,
+    "topic": "Compatibility with Determinism",
+    "premise": "noumenon|compatible|thoroughgoing|causal|determinism|phenomenal",
+    "conclusion": "God as noumenon is compatible with the thoroughgoing causal determinism of the phenomenal world"
+  },
+  {
+    "id": 1939,
+    "topic": "God as Ground of Possibility",
+    "premise": "transcendental|ideal|represents|ground|possibility|determinations",
+    "conclusion": "The transcendental ideal represents God as the ground of all possibility\u2014that from which all determinations derive"
+  },
+  {
+    "id": 1940,
+    "topic": "God as Substrate",
+    "premise": "conceived|realissimum|substrate|finite|realities|limitations",
+    "conclusion": "God, conceived as the ens realissimum, is the substrate from which all finite realities are limitations"
+  },
+  {
+    "id": 1941,
+    "topic": "Regulative Conception of God",
+    "premise": "conception|noumenal|ground|regulative|think|world",
+    "conclusion": "The conception of God as noumenal ground is regulative: we are to think of the world as if grounded in a supreme reality"
+  },
+  {
+    "id": 1942,
+    "topic": "Divine Intelligible Ground",
+    "premise": "intelligible|noumenal|ground|appearances|conceived|divine",
+    "conclusion": "The intelligible (noumenal) ground of appearances might be conceived as divine"
+  },
+  {
+    "id": 1943,
+    "topic": "Limits of Speculative Theology",
+    "premise": "speculative|theology|cannot|establish|substrate|reason",
+    "conclusion": "Speculative theology cannot establish that there is such a substrate, only that reason naturally forms this idea"
+  },
+  {
+    "id": 1944,
+    "topic": "Unifying Function of God Concept",
+    "premise": "concept|noumenal|ground|helps|unify|conception",
+    "conclusion": "The concept of God as noumenal ground helps unify our conception of nature under one principle"
+  },
+  {
+    "id": 1945,
+    "topic": "Inapplicability of Creation Ex Nihilo",
+    "premise": "creation|nihilo|temporal|concept|inapplicable|noumenal",
+    "conclusion": "Creation ex nihilo is a temporal concept inapplicable to a noumenal God"
+  },
+  {
+    "id": 1946,
+    "topic": "Timeless Grounding",
+    "premise": "grounds|world|temporal|timeless|ontological|relation",
+    "conclusion": "If God grounds the world, it is not through a temporal act but through a timeless ontological relation"
+  },
+  {
+    "id": 1947,
+    "topic": "Constitution vs Manufacture",
+    "premise": "noumenal|substrate|constitutes|appearances|sense|grounding",
+    "conclusion": "The noumenal substrate constitutes appearances in the sense of grounding their possibility, not manufacturing them"
+  },
+  {
+    "id": 1948,
+    "topic": "Constitution vs Deism",
+    "premise": "constituting|ground|differs|deistic|creator|initiates",
+    "conclusion": "God as constituting ground differs from a deistic creator who initiates a causal series"
+  },
+  {
+    "id": 1949,
+    "topic": "Non-Empirical Relation",
+    "premise": "relationship|noumenal|ground|phenomenal|world|causal",
+    "conclusion": "The relationship between noumenal ground and phenomenal world is not itself a causal relationship in the empirical sense"
+  },
+  {
+    "id": 1950,
+    "topic": "Analogical Theology",
+    "premise": "traditional|theological|language|creation|understood|analogically",
+    "conclusion": "Traditional theological language of creation must be understood analogically or symbolically"
+  },
+  {
+    "id": 1951,
+    "topic": "Rational Religion",
+    "premise": "religion|within|limits|reason|alone|focuses",
+    "conclusion": "Religion within the limits of reason alone focuses on morality, not revelation or miracle"
+  },
+  {
+    "id": 1952,
+    "topic": "Moral Core of Religion",
+    "premise": "moral|authentic|core|religious|teaching",
+    "conclusion": "The moral law is the authentic core of religious teaching"
+  },
+  {
+    "id": 1953,
+    "topic": "Historical Religions as Vehicles",
+    "premise": "historical|religions|vehicles|moral|truths|accessible",
+    "conclusion": "Historical religions are vehicles for moral truths accessible to reason"
+  },
+  {
+    "id": 1954,
+    "topic": "Requirements of Rational Religion",
+    "premise": "rational|religion|requires|church|ritual|clergy",
+    "conclusion": "Rational religion requires no church, ritual, or clergy\u2014only the moral disposition"
+  },
+  {
+    "id": 1955,
+    "topic": "Ethical Commonwealth",
+    "premise": "idea|moral|community|ethical|commonwealth|true",
+    "conclusion": "The idea of a moral community (ethical commonwealth) is the true church"
+  },
+  {
+    "id": 1956,
+    "topic": "Legitimacy of Statutory Religion",
+    "premise": "statutory|religions|legitimate|insofar|promote|morality",
+    "conclusion": "Statutory religions are legitimate only insofar as they promote morality"
+  },
+  {
+    "id": 1957,
+    "topic": "Moral Interpretation of Doctrine",
+    "premise": "religious|doctrines|interpreted|accord|moral|reason",
+    "conclusion": "Religious doctrines must be interpreted to accord with moral reason"
+  },
+  {
+    "id": 1958,
+    "topic": "Irrelevance of Miracles",
+    "premise": "miracles|occur|nothing|moral|duties",
+    "conclusion": "Miracles, if they occur, add nothing to our moral duties"
+  },
+  {
+    "id": 1959,
+    "topic": "Dogmatic Religion Defined",
+    "premise": "dogmatic|religion|accepts|doctrines|authority|without",
+    "conclusion": "Dogmatic religion accepts doctrines on authority without rational justification"
+  },
+  {
+    "id": 1960,
+    "topic": "Rational Religion Defined",
+    "premise": "rational|religion|accepts|established|moral|reason",
+    "conclusion": "Rational religion accepts only what can be established by moral reason"
+  },
+  {
+    "id": 1961,
+    "topic": "Priority of Morality",
+    "premise": "dogmatic|religion|subordinates|morality|theological|commands",
+    "conclusion": "Dogmatic religion subordinates morality to theological commands; rational religion subordinates theology to morality"
+  },
+  {
+    "id": 1962,
+    "topic": "True Religion",
+    "premise": "true|religion|moral|recognition|duties|divine",
+    "conclusion": "True religion is moral religion\u2014recognition of duties as divine commands"
+  },
+  {
+    "id": 1963,
+    "topic": "Emphases of Religion Types",
+    "premise": "dogmatic|religion|emphasizes|grace|revelation|cult",
+    "conclusion": "Dogmatic religion emphasizes grace, revelation, and cult; rational religion emphasizes virtue and moral effort"
+  },
+  {
+    "id": 1964,
+    "topic": "Progress of Faith",
+    "premise": "ecclesiastical|faith|statutory|religion|gradually|give",
+    "conclusion": "Ecclesiastical faith (statutory religion) should gradually give way to pure rational faith"
+  },
+  {
+    "id": 1965,
+    "topic": "Source of Religious Disputes",
+    "premise": "religious|disputes|arise|confusing|vehicle|historical",
+    "conclusion": "Religious disputes arise from confusing the vehicle (historical religion) with the essence (moral law)"
+  },
+  {
+    "id": 1966,
+    "topic": "Universality of Rational Religion",
+    "premise": "rational|religion|universal|dogmatic|religions|parochial",
+    "conclusion": "Rational religion is universal; dogmatic religions are parochial"
+  },
+  {
+    "id": 1967,
+    "topic": "Rational Ground of Morality",
+    "premise": "morality|grounded|reason|alone|empirical|desires",
+    "conclusion": "Morality is grounded in reason alone, not in empirical desires, sentiments, or consequences"
+  },
+  {
+    "id": 1968,
+    "topic": "Categorical Nature of Moral Law",
+    "premise": "moral|categorical|commands|unconditionally|regardless|inclinations",
+    "conclusion": "The moral law is categorical\u2014it commands unconditionally, regardless of inclinations"
+  },
+  {
+    "id": 1969,
+    "topic": "Unconditional Good",
+    "premise": "good|unconditionally|goods|conditional",
+    "conclusion": "Only a good will is unconditionally good; all other goods are conditional"
+  },
+  {
+    "id": 1970,
+    "topic": "Goodness of Will",
+    "premise": "good|accomplishes|principle|volition",
+    "conclusion": "The good will is good not because of what it accomplishes but because of its principle of volition"
+  },
+  {
+    "id": 1971,
+    "topic": "Definition of Duty",
+    "premise": "duty|necessity|acting|respect|moral",
+    "conclusion": "Duty is the necessity of acting from respect for the moral law"
+  },
+  {
+    "id": 1972,
+    "topic": "Moral Worth from Duty",
+    "premise": "actions|moral|worth|done|duty|merely",
+    "conclusion": "Actions have moral worth only when done from duty, not merely in conformity with duty"
+  },
+  {
+    "id": 1973,
+    "topic": "Universality of Moral Principles",
+    "premise": "moral|principles|universal|necessary|derived|particular",
+    "conclusion": "Moral principles must be universal and necessary, not derived from particular circumstances"
+  },
+  {
+    "id": 1974,
+    "topic": "Happiness and Morality",
+    "premise": "happiness|ground|morality|consequence|moral|world",
+    "conclusion": "Happiness is not the ground of morality but may be its consequence under a moral world order"
+  },
+  {
+    "id": 1975,
+    "topic": "Categorical Imperative as Supreme",
+    "premise": "categorical|imperative|supreme|principle|morality|derivable",
+    "conclusion": "The categorical imperative is the supreme principle of morality, derivable from reason alone"
+  },
+  {
+    "id": 1976,
+    "topic": "Universal Law Formula",
+    "premise": "according|maxim|universal|first|formulation",
+    "conclusion": "Act only according to that maxim you can will to be a universal law (first formulation)"
+  },
+  {
+    "id": 1977,
+    "topic": "Humanity Formula",
+    "premise": "treat|humanity|yourself|others|merely|means",
+    "conclusion": "Treat humanity, in yourself and others, always as an end, never merely as a means (humanity formula)"
+  },
+  {
+    "id": 1978,
+    "topic": "Kingdom of Ends Formula",
+    "premise": "legislating|member|kingdom|ends|autonomy|formula",
+    "conclusion": "Act as a legislating member of a kingdom of ends (autonomy formula)"
+  },
+  {
+    "id": 1979,
+    "topic": "Unity of Formulations",
+    "premise": "formulations|categorical|imperative|express|fundamental|principle",
+    "conclusion": "All formulations of the categorical imperative express the same fundamental principle from different perspectives"
+  },
+  {
+    "id": 1980,
+    "topic": "Definition of Moral Autonomy",
+    "premise": "moral|autonomy|capacity|rational|beings|give",
+    "conclusion": "Moral autonomy is the capacity of rational beings to give themselves the moral law"
+  },
+  {
+    "id": 1981,
+    "topic": "Failure of Heteronomous Ethics",
+    "premise": "heteronomous|ethics|grounded|desire|happiness|divine",
+    "conclusion": "Heteronomous ethics (grounded in desire, happiness, divine command) cannot yield genuinely binding obligations"
+  },
+  {
+    "id": 1982,
+    "topic": "Self-Legislation",
+    "premise": "practical|reason|self|legislating|receive|outside",
+    "conclusion": "Practical reason is self-legislating\u2014it does not receive the law from outside but enacts it"
+  },
+  {
+    "id": 1983,
+    "topic": "Status of Moral Law",
+    "premise": "moral|synthetic|priori|practical|principle",
+    "conclusion": "The moral law is a synthetic a priori practical principle"
+  },
+  {
+    "id": 1984,
+    "topic": "Definition of Moral Obligation",
+    "premise": "moral|obligation|necessitation|imperfectly|rational",
+    "conclusion": "Moral obligation is necessitation of an imperfectly rational will by the moral law"
+  },
+  {
+    "id": 1985,
+    "topic": "Perfect Rationality and Obligation",
+    "premise": "perfectly|rational|morality|take|form|obligation",
+    "conclusion": "For a perfectly rational being, morality would not take the form of obligation or imperative"
+  },
+  {
+    "id": 1986,
+    "topic": "Source of Moral Constraint",
+    "premise": "human|beings|experience|moral|constraint|sensuous",
+    "conclusion": "Human beings experience the moral law as constraint because they have sensuous inclinations"
+  },
+  {
+    "id": 1987,
+    "topic": "Ought Implies Can",
+    "premise": "obligation|implies|freedom|ought",
+    "conclusion": "Obligation implies freedom: ought implies can"
+  },
+  {
+    "id": 1988,
+    "topic": "Unconditionality of Obligation",
+    "premise": "moral|obligation|unconditional|hypothetical|desired",
+    "conclusion": "Moral obligation is unconditional\u2014not hypothetical upon any desired end"
+  },
+  {
+    "id": 1989,
+    "topic": "Feeling of Respect",
+    "premise": "feeling|respect|subjective|effect|moral|sensibility",
+    "conclusion": "The feeling of respect is the subjective effect of the moral law on sensibility"
+  },
+  {
+    "id": 1990,
+    "topic": "Universal Scope of Obligation",
+    "premise": "moral|obligation|binds|rational|beings|merely",
+    "conclusion": "Moral obligation binds all rational beings as such, not merely humans"
+  },
+  {
+    "id": 1991,
+    "topic": "Independence from Reward",
+    "premise": "bindingness|duty|contingent|reward|punishment",
+    "conclusion": "The bindingness of duty is not contingent on reward or punishment"
+  },
+  {
+    "id": 1992,
+    "topic": "Republican Government",
+    "premise": "legitimate|form|government|republican|based|freedom",
+    "conclusion": "The only legitimate form of government is republican\u2014based on freedom, equality, and the rule of law"
+  },
+  {
+    "id": 1993,
+    "topic": "Public Laws",
+    "premise": "political|authority|exercised|according|publicly|promulgated",
+    "conclusion": "Political authority must be exercised according to publicly promulgated laws"
+  },
+  {
+    "id": 1994,
+    "topic": "Equal Rights",
+    "premise": "citizens|equal|rights|regardless|birth|status",
+    "conclusion": "Citizens must have equal rights under the law regardless of birth or status"
+  },
+  {
+    "id": 1995,
+    "topic": "Coercion and Universal Law",
+    "premise": "freedom|requires|coerced|except|according|universal",
+    "conclusion": "Freedom requires that no one can be coerced except according to universal law"
+  },
+  {
+    "id": 1996,
+    "topic": "Social Contract as Idea",
+    "premise": "social|contract|historical|idea|reason|legitimizing",
+    "conclusion": "The social contract is not historical but an idea of reason legitimizing the state"
+  },
+  {
+    "id": 1997,
+    "topic": "Separation of Powers",
+    "premise": "despotism|conflates|legislative|executive|power|republicanism",
+    "conclusion": "Despotism conflates legislative and executive power; republicanism separates them"
+  },
+  {
+    "id": 1998,
+    "topic": "No Right to Revolution",
+    "premise": "right|revolution|though|illegitimate|governments|reformed",
+    "conclusion": "There is no right to revolution, though illegitimate governments should be reformed"
+  },
+  {
+    "id": 1999,
+    "topic": "Federation of States",
+    "premise": "international|relations|governed|federation|free|states",
+    "conclusion": "International relations should be governed by a federation of free states aiming at perpetual peace"
+  },
+  {
+    "id": 2000,
+    "topic": "Property Rights",
+    "premise": "property|rights|grounded|rational|secured|civil",
+    "conclusion": "Property rights are grounded in the rational will and must be secured by civil law"
+  },
+  {
+    "id": 2001,
+    "topic": "Original Acquisition",
+    "premise": "original|acquisition|property|compatible|freedom|others",
+    "conclusion": "Original acquisition of property must be compatible with the freedom of all others"
+  },
+  {
+    "id": 2002,
+    "topic": "State Enforcement",
+    "premise": "state|enforce|contracts|protect|property|conditions",
+    "conclusion": "The state must enforce contracts and protect property as conditions of external freedom"
+  },
+  {
+    "id": 2003,
+    "topic": "Economic Relations and Dignity",
+    "premise": "economic|relations|respect|persons|ends|exploit",
+    "conclusion": "Economic relations must respect persons as ends in themselves, not exploit them as mere means"
+  },
+  {
+    "id": 2004,
+    "topic": "Just Economic Order",
+    "premise": "economic|order|allows|citizens|conditions|exercising",
+    "conclusion": "A just economic order allows all citizens the conditions for exercising their freedom"
+  },
+  {
+    "id": 2005,
+    "topic": "Inequality Suspect",
+    "premise": "extreme|inequality|denies|persons|means|independence",
+    "conclusion": "Extreme inequality that denies some persons the means of independence is morally suspect"
+  },
+  {
+    "id": 2006,
+    "topic": "Nebular Hypothesis",
+    "premise": "solar|system|originated|rotating|nebula|gradually",
+    "conclusion": "The solar system originated from a rotating nebula that gradually condensed under gravitational attraction"
+  },
+  {
+    "id": 2007,
+    "topic": "Initial Nebular State",
+    "premise": "initial|nebula|diffuse|cloud|dust|distributed",
+    "conclusion": "The initial nebula was a diffuse cloud of gas and dust distributed uniformly through space"
+  },
+  {
+    "id": 2008,
+    "topic": "Disk Formation",
+    "premise": "gravitational|collapse|caused|rotation|accelerate|nebula",
+    "conclusion": "Gravitational collapse caused rotation to accelerate and the nebula to flatten into a disk"
+  },
+  {
+    "id": 2009,
+    "topic": "Planet Formation",
+    "premise": "planets|formed|accretion|matter|rings|separated",
+    "conclusion": "Planets formed from the accretion of matter in rings separated from the central mass"
+  },
+  {
+    "id": 2010,
+    "topic": "Explanatory Power",
+    "premise": "nebular|hypothesis|explains|coplanar|orbits|uniform",
+    "conclusion": "The nebular hypothesis explains the coplanar orbits and uniform rotational direction of planets"
+  },
+  {
+    "id": 2011,
+    "topic": "Natural Laws Sufficient",
+    "premise": "natural|laws|govern|cosmos|sufficed|produce",
+    "conclusion": "The same natural laws that govern the cosmos now sufficed to produce it from initial chaos"
+  },
+  {
+    "id": 2012,
+    "topic": "No Supernatural Required",
+    "premise": "supernatural|intervention|required|explain|structure|solar",
+    "conclusion": "No supernatural intervention is required to explain the structure of the solar system"
+  },
+  {
+    "id": 2013,
+    "topic": "Space as Form of Intuition",
+    "premise": "space|property|things|form|outer|intuition",
+    "conclusion": "Space is not a property of things in themselves but the form of outer intuition"
+  },
+  {
+    "id": 2014,
+    "topic": "Empirical Reality of Space",
+    "premise": "space|empirically|real|applies|objects|outer",
+    "conclusion": "Space is empirically real\u2014it applies to all objects of outer experience"
+  },
+  {
+    "id": 2015,
+    "topic": "Transcendental Ideality of Space",
+    "premise": "space|transcendentally|ideal|pertain|things|apart",
+    "conclusion": "Space is transcendentally ideal\u2014it does not pertain to things apart from our mode of intuition"
+  },
+  {
+    "id": 2016,
+    "topic": "Space as A Priori Intuition",
+    "premise": "space|pure|priori|intuition|general|concept",
+    "conclusion": "Space is a pure a priori intuition, not a general concept abstracted from experience"
+  },
+  {
+    "id": 2017,
+    "topic": "Representability of Space",
+    "premise": "represent|empty|space|cannot|absence",
+    "conclusion": "We can represent empty space but cannot represent the absence of space"
+  },
+  {
+    "id": 2018,
+    "topic": "Space as Singular and Infinite",
+    "premise": "singularity|infinity|space|prove|intuition|concept",
+    "conclusion": "The singularity and infinity of space prove it is an intuition, not a concept"
+  },
+  {
+    "id": 2019,
+    "topic": "Geometry and Space",
+    "premise": "geometry|possible|synthetic|priori|knowledge|space",
+    "conclusion": "Geometry is possible as synthetic a priori knowledge because space is a pure form of intuition"
+  },
+  {
+    "id": 2020,
+    "topic": "What Space Is Not",
+    "premise": "space|substance|relation|among|substances|absolute",
+    "conclusion": "Space is not a substance, a relation among substances, or an absolute container"
+  },
+  {
+    "id": 2021,
+    "topic": "Ideality Implication",
+    "premise": "ideality|space|means|spatial|properties|characterize",
+    "conclusion": "The ideality of space means that spatial properties do not characterize things in themselves"
+  },
+  {
+    "id": 2022,
+    "topic": "Time as Form of Inner Sense",
+    "premise": "time|form|inner|sense|intuit|ourselves",
+    "conclusion": "Time is the form of inner sense\u2014the form under which we intuit ourselves and our mental states"
+  },
+  {
+    "id": 2023,
+    "topic": "Time as Universal Form",
+    "premise": "time|mediately|form|appearances|since|representations",
+    "conclusion": "Time is also mediately the form of all appearances, since all representations occur in time"
+  },
+  {
+    "id": 2024,
+    "topic": "Dual Status of Time",
+    "premise": "time|empirically|real|appearances|transcendentally|ideal",
+    "conclusion": "Time is empirically real for all appearances but transcendentally ideal"
+  },
+  {
+    "id": 2025,
+    "topic": "Subjectivity of Time",
+    "premise": "time|independent|reality|subjective|condition|intuition",
+    "conclusion": "Time is not an independent reality but a subjective condition of intuition"
+  },
+  {
+    "id": 2026,
+    "topic": "Temporal Relations",
+    "premise": "simultaneity|succession|temporal|relations|hold|phenomena",
+    "conclusion": "Simultaneity and succession are temporal relations that hold only for phenomena"
+  },
+  {
+    "id": 2027,
+    "topic": "Unity of Time",
+    "premise": "unity|time|grounds|possibility|representing|objects",
+    "conclusion": "The unity of time grounds the possibility of representing objects as enduring or changing"
+  },
+  {
+    "id": 2028,
+    "topic": "Time as A Priori",
+    "premise": "time|like|space|pure|priori|intuition",
+    "conclusion": "Time, like space, is a pure a priori intuition, presupposed by all empirical representations"
+  },
+  {
+    "id": 2029,
+    "topic": "Arithmetic and Time",
+    "premise": "arithmetic|grounded|successive|synthesis|units|time",
+    "conclusion": "Arithmetic is grounded in the successive synthesis of units in time"
+  },
+  {
+    "id": 2030,
+    "topic": "Things in Themselves Not Temporal",
+    "premise": "things|time|temporal|predicates|apply|appearances",
+    "conclusion": "Things in themselves are not in time; temporal predicates apply only to appearances"
+  },
+  {
+    "id": 2031,
+    "topic": "Mathematics as Synthetic A Priori",
+    "premise": "mathematical|propositions|synthetic|priori|extend|knowledge",
+    "conclusion": "Mathematical propositions are synthetic a priori\u2014they extend knowledge and are necessarily true"
+  },
+  {
+    "id": 2032,
+    "topic": "Geometry and Space Intuition",
+    "premise": "geometry|grounded|pure|intuition|space|applies",
+    "conclusion": "Geometry is grounded in the pure intuition of space and applies necessarily to spatial objects"
+  },
+  {
+    "id": 2033,
+    "topic": "Arithmetic Not Analytic",
+    "premise": "arithmetic|depends|successive|synthesis|units|time",
+    "conclusion": "Arithmetic depends on the successive synthesis of units in time\u2014it is not merely analytic"
+  },
+  {
+    "id": 2034,
+    "topic": "Source of Mathematical Certainty",
+    "premise": "mathematical|certainty|derives|construction|concepts|pure",
+    "conclusion": "Mathematical certainty derives from the construction of concepts in pure intuition"
+  },
+  {
+    "id": 2035,
+    "topic": "Construction in Mathematics",
+    "premise": "mathematical|truths|discovered|analyzing|concepts|constructing",
+    "conclusion": "Mathematical truths are not discovered by analyzing concepts but by constructing objects in intuition"
+  },
+  {
+    "id": 2036,
+    "topic": "Apodictic Mathematical Certainty",
+    "premise": "apodictic|certainty|mathematics|explained|grounding|pure",
+    "conclusion": "The apodictic certainty of mathematics is explained by its grounding in pure intuition"
+  },
+  {
+    "id": 2037,
+    "topic": "Applicability of Mathematics",
+    "premise": "applied|mathematics|describes|phenomenal|world|phenomena",
+    "conclusion": "Applied mathematics describes the phenomenal world because phenomena must conform to space and time"
+  },
+  {
+    "id": 2038,
+    "topic": "Mathematics and Phenomena",
+    "premise": "mathematics|about|things|formal|structure|possible",
+    "conclusion": "Mathematics is not about things in themselves but about the formal structure of possible experience"
+  },
+  {
+    "id": 2039,
+    "topic": "Universality of Mathematics",
+    "premise": "universality|mathematical|truths|reflects|forms|intuition",
+    "conclusion": "The universality of mathematical truths reflects the universality of the forms of intuition"
+  },
+  {
+    "id": 2040,
+    "topic": "Synthetic Mathematical Reasoning",
+    "premise": "mathematical|reasoning|synthetic|proceeds|construction|mere",
+    "conclusion": "Mathematical reasoning is synthetic because it proceeds by construction, not mere conceptual analysis"
+  },
+  {
+    "id": 2041,
+    "topic": "Copernican Revolution",
+    "premise": "copernican|revolution|philosophy|holds|objects|conform",
+    "conclusion": "The Copernican revolution in philosophy holds that objects must conform to our cognition, not cognition to objects"
+  },
+  {
+    "id": 2042,
+    "topic": "Subject of Transcendental Philosophy",
+    "premise": "transcendental|philosophy|investigates|objects|mode|cognizing",
+    "conclusion": "Transcendental philosophy investigates not objects but our mode of cognizing objects insofar as this is possible a priori"
+  },
+  {
+    "id": 2043,
+    "topic": "Ground of Apperception",
+    "premise": "synthetic|unity|manifold|intuition|ground|identity",
+    "conclusion": "The synthetic unity of the manifold of intuition is the ground of the identity of apperception itself"
+  },
+  {
+    "id": 2044,
+    "topic": "Receptivity and Spontaneity",
+    "premise": "cognition|involves|receptivity|sensibility|spontaneity|understanding",
+    "conclusion": "Cognition involves both receptivity (sensibility) and spontaneity (understanding)"
+  },
+  {
+    "id": 2045,
+    "topic": "Union of Faculties",
+    "premise": "understanding|cannot|intuit|senses|think|union",
+    "conclusion": "The understanding cannot intuit, and the senses cannot think; only through their union does knowledge arise"
+  },
+  {
+    "id": 2046,
+    "topic": "Experience as Knowledge",
+    "premise": "experience|species|knowledge|involves|understanding|whose",
+    "conclusion": "Experience is itself a species of knowledge that involves understanding, whose rule I must presuppose in myself before objects are given to me"
+  },
+  {
+    "id": 2047,
+    "topic": "Objectivity of Apperception",
+    "premise": "original|synthetic|unity|apperception|objective|condition",
+    "conclusion": "The original synthetic unity of apperception is objective because it is the condition of all knowledge of objects"
+  },
+  {
+    "id": 2048,
+    "topic": "Transcendental Consciousness",
+    "premise": "empirical|consciousness|necessary|relation|transcendental|preceding",
+    "conclusion": "All empirical consciousness has a necessary relation to a transcendental consciousness preceding all particular experience"
+  },
+  {
+    "id": 2049,
+    "topic": "Affinity of Appearances",
+    "premise": "thoroughgoing|affinity|appearances|necessary|consequence|synthesis",
+    "conclusion": "The thoroughgoing affinity of appearances is a necessary consequence of the synthesis according to concepts"
+  },
+  {
+    "id": 2050,
+    "topic": "Agreement of Cognition and Object",
+    "premise": "cognition|object|agree|concept|manifold|given",
+    "conclusion": "Cognition and its object must agree; an object is that in the concept of which the manifold of a given intuition is united"
+  },
+  {
+    "id": 2051,
+    "topic": "Principles of Pure Reason",
+    "premise": "pure|reason|contains|principles|knowing|something",
+    "conclusion": "Pure reason contains the principles for knowing something absolutely a priori"
+  },
+  {
+    "id": 2052,
+    "topic": "Establishing A Priori Origin",
+    "premise": "priori|origin|principles|established|showing|without",
+    "conclusion": "The a priori origin of principles can be established by showing that without them experience itself would be impossible"
+  },
+  {
+    "id": 2053,
+    "topic": "Definition of A Priori Cognition",
+    "premise": "priori|cognitions|empirical|element|intermixed",
+    "conclusion": "A priori cognitions are those with which no empirical element is intermixed"
+  },
+  {
+    "id": 2054,
+    "topic": "Ground of Category Validity",
+    "premise": "possibility|experience|priori|ground|objective|validity",
+    "conclusion": "The possibility of experience is itself the a priori ground of the objective validity of the categories"
+  },
+  {
+    "id": 2055,
+    "topic": "Limits of A Priori Knowledge",
+    "premise": "know|priori|things|ourselves",
+    "conclusion": "We can know a priori of things only what we ourselves put into them"
+  },
+  {
+    "id": 2056,
+    "topic": "Demystification of Synthetic A Priori",
+    "premise": "synthetic|priori|mysterious|recognize|mind|legislates",
+    "conclusion": "The synthetic a priori is not mysterious once we recognize that the mind legislates to nature"
+  },
+  {
+    "id": 2057,
+    "topic": "A Priori Principles",
+    "premise": "priori|principles|rules|abstracted|experience|make",
+    "conclusion": "A priori principles are not rules abstracted from experience but rules that make experience possible"
+  },
+  {
+    "id": 2058,
+    "topic": "Understanding as Source of Laws",
+    "premise": "understanding|source|laws|nature|respect|formal",
+    "conclusion": "The understanding is the source of the laws of nature with respect to their formal structure"
+  },
+  {
+    "id": 2059,
+    "topic": "A Priori Elements",
+    "premise": "pure|intuitions|concepts|priori|elements|human",
+    "conclusion": "Pure intuitions and pure concepts are the a priori elements of all human cognition"
+  },
+  {
+    "id": 2060,
+    "topic": "Distinguishing A Priori",
+    "premise": "priori|knowledge|distinguished|temporal|origin|independence",
+    "conclusion": "A priori knowledge is distinguished not by its temporal origin but by its independence from any particular experience"
+  },
+  {
+    "id": 2061,
+    "topic": "Definition of Perception",
+    "premise": "perception|empirical|consciousness|accompanied|sensation",
+    "conclusion": "Perception is empirical consciousness\u2014consciousness accompanied by sensation"
+  },
+  {
+    "id": 2062,
+    "topic": "Matter of Appearance",
+    "premise": "matter|appearance|corresponds|sensation|given|posteriori",
+    "conclusion": "The matter of appearance\u2014that which corresponds to sensation\u2014is given a posteriori"
+  },
+  {
+    "id": 2063,
+    "topic": "Possibility of Empirical Intuition",
+    "premise": "empirical|intuition|possible|pure|space|time",
+    "conclusion": "Empirical intuition is possible only through pure intuition of space and time"
+  },
+  {
+    "id": 2064,
+    "topic": "Justification of A Posteriori",
+    "premise": "posteriori|judgments|require|testimony|experience|justification",
+    "conclusion": "A posteriori judgments require the testimony of experience for their justification"
+  },
+  {
+    "id": 2065,
+    "topic": "Particular Laws Empirical",
+    "premise": "particular|laws|nature|cannot|derived|categories",
+    "conclusion": "The particular laws of nature cannot be derived from the categories alone; they must be learned empirically"
+  },
+  {
+    "id": 2066,
+    "topic": "Contingency from Experience",
+    "premise": "experience|teaches|something|constituted|thus|otherwise",
+    "conclusion": "Experience teaches us that something is constituted thus and so, but not that it could not be otherwise"
+  },
+  {
+    "id": 2067,
+    "topic": "Definition of Sensation",
+    "premise": "sensation|effect|object|faculty|representation|insofar",
+    "conclusion": "Sensation is the effect of an object upon the faculty of representation, insofar as we are affected by it"
+  },
+  {
+    "id": 2068,
+    "topic": "Intuition as Appearance",
+    "premise": "intuition|nothing|representation|appearance|things|intuit",
+    "conclusion": "All our intuition is nothing but the representation of appearance; the things we intuit are not in themselves what we intuit them as being"
+  },
+  {
+    "id": 2069,
+    "topic": "Intensive Magnitude",
+    "premise": "real|appearances|corresponding|sensation|intensive|magnitude",
+    "conclusion": "The real in appearances (corresponding to sensation) always has an intensive magnitude or degree"
+  },
+  {
+    "id": 2070,
+    "topic": "Identity in Analytic Judgments",
+    "premise": "analytic|judgments|connection|subject|predicate|thought",
+    "conclusion": "In analytic judgments, the connection of subject and predicate is thought through identity"
+  },
+  {
+    "id": 2071,
+    "topic": "Foundation of Analytic Judgments",
+    "premise": "analytic|judgments|rest|entirely|principle|contradiction",
+    "conclusion": "Analytic judgments rest entirely on the principle of contradiction"
+  },
+  {
+    "id": 2072,
+    "topic": "A Priori Status of Analytic",
+    "premise": "analytic|judgments|priori|concepts|empirical",
+    "conclusion": "All analytic judgments are a priori, even when their concepts are empirical"
+  },
+  {
+    "id": 2073,
+    "topic": "Justification of Analytic",
+    "premise": "analytic|judgments|require|appeal|experience|justification",
+    "conclusion": "Analytic judgments require no appeal to experience for their justification, only reflection on concepts"
+  },
+  {
+    "id": 2074,
+    "topic": "Containment in Analytic",
+    "premise": "predicate|affirmative|analytic|judgment|covertly|contained",
+    "conclusion": "The predicate of an affirmative analytic judgment is covertly contained in the subject concept"
+  },
+  {
+    "id": 2075,
+    "topic": "Non-Ampliative Analytic",
+    "premise": "analytic|judgments|clarify|amplify|cognition",
+    "conclusion": "Analytic judgments clarify but do not amplify our cognition"
+  },
+  {
+    "id": 2076,
+    "topic": "Logical Analysis",
+    "premise": "logical|analysis|concepts|yields|analytic|truths",
+    "conclusion": "Logical analysis of concepts yields only analytic truths"
+  },
+  {
+    "id": 2077,
+    "topic": "Guarantee of Analytic Truth",
+    "premise": "truth|analytic|judgment|guaranteed|contradiction|alone",
+    "conclusion": "The truth of an analytic judgment is guaranteed by the law of non-contradiction alone"
+  },
+  {
+    "id": 2078,
+    "topic": "Status of Analytic Judgments",
+    "premise": "analytic|judgments|epistemically|trivial|logically|necessary",
+    "conclusion": "Analytic judgments are epistemically trivial but logically necessary"
+  },
+  {
+    "id": 2079,
+    "topic": "Third Term in Synthetic",
+    "premise": "synthetic|judgments|require|third|thing|beyond",
+    "conclusion": "Synthetic judgments require a third thing beyond subject and predicate to mediate their connection"
+  },
+  {
+    "id": 2080,
+    "topic": "Experience as Mediator",
+    "premise": "synthetic|posteriori|judgments|experience|provides|mediating",
+    "conclusion": "In synthetic a posteriori judgments, experience provides the mediating third term"
+  },
+  {
+    "id": 2081,
+    "topic": "Pure Intuition as Mediator",
+    "premise": "synthetic|priori|judgments|pure|intuition|provides",
+    "conclusion": "In synthetic a priori judgments, pure intuition provides the mediating third term"
+  },
+  {
+    "id": 2082,
+    "topic": "Causality as Synthetic",
+    "premise": "principle|event|cause|synthetic|causation|contained",
+    "conclusion": "The principle that every event has a cause is synthetic because causation is not contained in the concept of event"
+  },
+  {
+    "id": 2083,
+    "topic": "Subject Matter of Transcendental Philosophy",
+    "premise": "synthetic|priori|judgments|proper|subject|matter",
+    "conclusion": "Synthetic a priori judgments are the proper subject matter of transcendental philosophy"
+  },
+  {
+    "id": 2084,
+    "topic": "General Problem",
+    "premise": "possibility|synthetic|priori|judgments|general|problem",
+    "conclusion": "The possibility of synthetic a priori judgments is the general problem of pure reason"
+  },
+  {
+    "id": 2085,
+    "topic": "Judgments of Experience Synthetic",
+    "premise": "judgments|experience|synthetic|beyond|concept|subject",
+    "conclusion": "All judgments of experience are synthetic because they go beyond what the concept of the subject contains"
+  },
+  {
+    "id": 2086,
+    "topic": "Indispensability of Synthetic",
+    "premise": "ampliative|character|synthetic|judgments|makes|indispensable",
+    "conclusion": "The ampliative character of synthetic judgments makes them indispensable for genuine knowledge"
+  },
+  {
+    "id": 2087,
+    "topic": "Synthetic vs Analytic Unity",
+    "premise": "synthetic|unity|differs|analytic|combination|mere",
+    "conclusion": "Synthetic unity differs from analytic unity as combination differs from mere analysis"
+  },
+  {
+    "id": 2088,
+    "topic": "Threefold Synthesis Grounds Cognition",
+    "premise": "synthesis|apprehension|reproduction|recognition|grounds|synthetic",
+    "conclusion": "The synthesis of apprehension, reproduction, and recognition grounds all synthetic cognition"
+  },
+  {
+    "id": 2089,
+    "topic": "Requirement of Transcendental Proofs",
+    "premise": "transcendental|proofs|show|something|condition|possibility",
+    "conclusion": "Transcendental proofs must show that something is a condition of the possibility of experience as such"
+  },
+  {
+    "id": 2090,
+    "topic": "Quid Juris",
+    "premise": "transcendental|deduction|answers|quid|juris|right",
+    "conclusion": "The transcendental deduction answers the quid juris: by what right do we apply pure concepts to objects?"
+  },
+  {
+    "id": 2091,
+    "topic": "Nature of Transcendental Argument",
+    "premise": "transcendental|argument|causal|explanation|demonstration|necessary",
+    "conclusion": "A transcendental argument is not a causal explanation but a demonstration of necessary presuppositions"
+  },
+  {
+    "id": 2092,
+    "topic": "Securing Category Objectivity",
+    "premise": "objectivity|categories|secured|showing|conditions|unified",
+    "conclusion": "The objectivity of the categories is secured by showing they are conditions of any unified consciousness"
+  },
+  {
+    "id": 2093,
+    "topic": "Scope of Validity",
+    "premise": "transcendental|arguments|establish|validity|concepts|possible",
+    "conclusion": "Transcendental arguments establish the validity of concepts for possible experience, not for things in themselves"
+  },
+  {
+    "id": 2094,
+    "topic": "Unity Requires Categories",
+    "premise": "unity|consciousness|requires|manifold|intuition|subject",
+    "conclusion": "The unity of consciousness requires that the manifold of intuition be subject to the categories"
+  },
+  {
+    "id": 2095,
+    "topic": "Refutation of Skepticism",
+    "premise": "transcendental|arguments|reveal|certain|skeptical|positions",
+    "conclusion": "Transcendental arguments reveal that certain skeptical positions are self-undermining"
+  },
+  {
+    "id": 2096,
+    "topic": "Refutation of Idealism",
+    "premise": "refutation|idealism|transcendental|argument|inner|experience",
+    "conclusion": "The refutation of idealism is a transcendental argument: inner experience presupposes outer experience"
+  },
+  {
+    "id": 2097,
+    "topic": "Impossibility from Denial",
+    "premise": "transcendental|reasoning|shows|denying|certain|principles",
+    "conclusion": "Transcendental reasoning shows that denying certain principles makes coherent experience impossible"
+  },
+  {
+    "id": 2098,
+    "topic": "Understanding as Lawgiver",
+    "premise": "understanding|lawgiver|nature|empirical|laws|universal",
+    "conclusion": "The understanding itself is the lawgiver of nature\u2014not of empirical laws, but of the universal form of law"
+  },
+  {
+    "id": 2099,
+    "topic": "Nature and Apperception",
+    "premise": "nature|appearances|possible|unity|apperception",
+    "conclusion": "Nature, as the sum of appearances, is possible only in the unity of apperception"
+  },
+  {
+    "id": 2100,
+    "topic": "Self-Consciousness and Objects",
+    "premise": "objective|unity|self|consciousness|condition|knowledge",
+    "conclusion": "The objective unity of self-consciousness is the condition of all knowledge of objects"
+  },
+  {
+    "id": 2101,
+    "topic": "Definition of Synthesis",
+    "premise": "synthesis|putting|different|representations|together|comprehending",
+    "conclusion": "Synthesis is the act of putting different representations together and comprehending their manifoldness in one cognition"
+  },
+  {
+    "id": 2102,
+    "topic": "Categories as Functions",
+    "premise": "categories|functions|unity|judgment|applied|synthesis",
+    "conclusion": "The categories are functions of unity in judgment applied to the synthesis of intuitions"
+  },
+  {
+    "id": 2103,
+    "topic": "Schema of Substance",
+    "premise": "transcendental|schema|substance|permanence|real|time",
+    "conclusion": "The transcendental schema of substance is permanence of the real in time"
+  },
+  {
+    "id": 2104,
+    "topic": "Schema of Causality",
+    "premise": "schema|causality|real|whenever|posited|something",
+    "conclusion": "The schema of causality is the real upon which, whenever posited, something else always follows"
+  },
+  {
+    "id": 2105,
+    "topic": "Schema of Community",
+    "premise": "schema|community|coexistence|determinations|substance|another",
+    "conclusion": "The schema of community is the coexistence of determinations of one substance with those of another according to a universal rule"
+  },
+  {
+    "id": 2106,
+    "topic": "Schema of Possibility",
+    "premise": "schema|possibility|agreement|synthesis|representations|conditions",
+    "conclusion": "The schema of possibility is the agreement of the synthesis of representations with the conditions of time in general"
+  },
+  {
+    "id": 2107,
+    "topic": "Schema of Actuality",
+    "premise": "schema|actuality|existence|determinate|time",
+    "conclusion": "The schema of actuality is existence at a determinate time"
+  },
+  {
+    "id": 2108,
+    "topic": "Schema of Necessity",
+    "premise": "schema|necessity|existence|object|times",
+    "conclusion": "The schema of necessity is the existence of an object at all times"
+  },
+  {
+    "id": 2109,
+    "topic": "Simplicity of I",
+    "premise": "simple|representation|establish|soul|substance",
+    "conclusion": "The I is simple in representation, but this does not establish that the soul is a simple substance"
+  },
+  {
+    "id": 2110,
+    "topic": "Transcendental Subject",
+    "premise": "transcendental|subject|logical|correlate|concepts|intuitable",
+    "conclusion": "The transcendental subject is the logical correlate of all concepts, not an intuitable object"
+  },
+  {
+    "id": 2111,
+    "topic": "Inner Sense Limits",
+    "premise": "inner|sense|gives|ourselves|appear",
+    "conclusion": "Inner sense gives us ourselves only as we appear, not as we are in ourselves"
+  },
+  {
+    "id": 2112,
+    "topic": "Unity and Nature",
+    "premise": "unity|consciousness|reveal|nature|thinking",
+    "conclusion": "The unity of consciousness does not reveal the nature of the thinking being"
+  },
+  {
+    "id": 2113,
+    "topic": "No Inference from I Think",
+    "premise": "bare|think|nothing|inferred|about|substantiality",
+    "conclusion": "From the bare I think nothing can be inferred about the substantiality, simplicity, or permanence of the soul"
+  },
+  {
+    "id": 2114,
+    "topic": "Identity Not Substantial",
+    "premise": "identity|subject|conscious|representations|substance",
+    "conclusion": "The identity of the subject of which I am conscious in all my representations is not the identity of substance"
+  },
+  {
+    "id": 2115,
+    "topic": "Soul as Phenomenal",
+    "premise": "soul|object|inner|sense|phenomenal|unknowable",
+    "conclusion": "The soul, as object of inner sense, is phenomenal; what it is in itself is unknowable"
+  },
+  {
+    "id": 2116,
+    "topic": "Source of Psychology's Errors",
+    "premise": "rational|psychology|errors|arise|treating|transcendental",
+    "conclusion": "Rational psychology's errors arise from treating the transcendental unity of apperception as an object of cognition"
+  },
+  {
+    "id": 2117,
+    "topic": "Self-Affection",
+    "premise": "self|affection|means|intuit|ourselves|affected",
+    "conclusion": "Self-affection means that we intuit ourselves only through the way we are affected internally"
+  },
+  {
+    "id": 2118,
+    "topic": "I Think as Indeterminate",
+    "premise": "think|expresses|indeterminate|empirical|intuition|determinate",
+    "conclusion": "The I think expresses an indeterminate empirical intuition, not a determinate cognition of a noumenal self"
+  },
+  {
+    "id": 2119,
+    "topic": "Noumenon as Boundary",
+    "premise": "concept|noumenon|boundary|limits|sensibility|without",
+    "conclusion": "The concept of a noumenon is a boundary concept\u2014it limits sensibility without positing anything beyond it"
+  },
+  {
+    "id": 2120,
+    "topic": "Phenomena Not Illusions",
+    "premise": "phenomena|mere|illusions|empirically|real|objects",
+    "conclusion": "Phenomena are not mere illusions; they are empirically real objects given under the forms of intuition"
+  },
+  {
+    "id": 2121,
+    "topic": "Core of Transcendental Idealism",
+    "premise": "transcendental|idealism|maintains|space|time|properties",
+    "conclusion": "Transcendental idealism maintains that space and time are not properties of things in themselves"
+  },
+  {
+    "id": 2122,
+    "topic": "Empirical Realism Affirmed",
+    "premise": "empirical|realism|affirms|external|objects|real",
+    "conclusion": "Empirical realism affirms that external objects are real as phenomena within space"
+  },
+  {
+    "id": 2123,
+    "topic": "Thing in Itself Same Thing",
+    "premise": "thing|different|appearance|considered|differently",
+    "conclusion": "The thing in itself is not a different thing from the appearance but the same thing considered differently"
+  },
+  {
+    "id": 2124,
+    "topic": "Knowledge of Phenomena",
+    "premise": "know|phenomena|appear",
+    "conclusion": "We know phenomena as they appear but not what they are in themselves"
+  },
+  {
+    "id": 2125,
+    "topic": "No Positive Characterization",
+    "premise": "noumena|cannot|positively|characterized|determinate|concepts",
+    "conclusion": "Noumena cannot be positively characterized because all our determinate concepts are schematized for sensibility"
+  },
+  {
+    "id": 2126,
+    "topic": "Salvific Function of Distinction",
+    "premise": "distinction|phenomena|noumena|saves|science|morality",
+    "conclusion": "The distinction between phenomena and noumena saves both science and morality"
+  },
+  {
+    "id": 2127,
+    "topic": "Determinism and Freedom",
+    "premise": "phenomenal|world|deterministic|noumenal|realm|allows",
+    "conclusion": "The phenomenal world is deterministic; the noumenal realm allows room for freedom"
+  },
+  {
+    "id": 2128,
+    "topic": "Source of Illusion",
+    "premise": "confuse|phenomena|things|source|transcendental|illusion",
+    "conclusion": "To confuse phenomena with things in themselves is the source of transcendental illusion"
+  },
+  {
+    "id": 2129,
+    "topic": "Origin of Categories",
+    "premise": "categories|pure|concepts|originating|solely|understanding",
+    "conclusion": "The categories are pure concepts originating solely in the understanding"
+  },
+  {
+    "id": 2130,
+    "topic": "Categories Need Intuition",
+    "premise": "without|application|intuition|categories|merely|logical",
+    "conclusion": "Without application to intuition, categories are merely logical functions without content"
+  },
+  {
+    "id": 2131,
+    "topic": "Systematic Derivation of Categories",
+    "premise": "categories|derived|systematically|logical|forms|judgment",
+    "conclusion": "The categories can be derived systematically from the logical forms of judgment"
+  },
+  {
+    "id": 2132,
+    "topic": "Category and Synthesis",
+    "premise": "category|corresponds|specific|form|synthesis|manifold",
+    "conclusion": "Each category corresponds to a specific form of synthesis through which the manifold is united"
+  },
+  {
+    "id": 2133,
+    "topic": "Quantity Categories",
+    "premise": "categories|quantity|determine|extensive|magnitude|intuitions",
+    "conclusion": "Categories of quantity determine the extensive magnitude of intuitions"
+  },
+  {
+    "id": 2134,
+    "topic": "Quality Categories",
+    "premise": "categories|quality|determine|intensive|magnitude|degree",
+    "conclusion": "Categories of quality determine the intensive magnitude (degree) of sensations"
+  },
+  {
+    "id": 2135,
+    "topic": "Relation Categories",
+    "premise": "categories|relation|determine|connection|perceptions|consciousness",
+    "conclusion": "Categories of relation determine the connection of perceptions in one consciousness"
+  },
+  {
+    "id": 2136,
+    "topic": "Modality Categories",
+    "premise": "categories|modality|concept|object|express|relation",
+    "conclusion": "Categories of modality do not add to the concept of an object but express its relation to cognition"
+  },
+  {
+    "id": 2137,
+    "topic": "Mathematical Categories Constitutive",
+    "premise": "mathematical|categories|quantity|quality|constitutive|intuitions",
+    "conclusion": "Mathematical categories (quantity, quality) are constitutive of intuitions"
+  },
+  {
+    "id": 2138,
+    "topic": "Dynamical Categories Constitutive",
+    "premise": "dynamical|categories|relation|modality|constitutive|existence",
+    "conclusion": "Dynamical categories (relation, modality) are constitutive of the existence of objects in relation to each other"
+  },
+  {
+    "id": 2139,
+    "topic": "Schema Correspondence",
+    "premise": "category|corresponding|schema|temporalizes|pure|concept",
+    "conclusion": "Each category has a corresponding schema that temporalizes the pure concept for application to experience"
+  },
+  {
+    "id": 2140,
+    "topic": "Transformation of Aristotle",
+    "premise": "kant|transforms|aristotle|categories|descriptive|classifications",
+    "conclusion": "Kant transforms Aristotle's categories from descriptive classifications to transcendental conditions"
+  },
+  {
+    "id": 2141,
+    "topic": "Completeness vs Rhapsody",
+    "premise": "aristotle|lists|categories|without|principle|completeness",
+    "conclusion": "Aristotle lists ten categories without a principle of completeness; Kant claims systematic derivation"
+  },
+  {
+    "id": 2142,
+    "topic": "Description vs Prescription",
+    "premise": "aristotle|categories|describe|kant|think",
+    "conclusion": "Aristotle's categories describe what is; Kant's describe how we must think what is"
+  },
+  {
+    "id": 2143,
+    "topic": "Rejection of Mixed Categories",
+    "premise": "kant|rejects|aristotle|inclusion|time|place",
+    "conclusion": "Kant rejects Aristotle's inclusion of time, place, position, and state as mixing pure and empirical concepts"
+  },
+  {
+    "id": 2144,
+    "topic": "Relation Encompassing",
+    "premise": "kantian|category|relation|encompasses|aristotle|distributed",
+    "conclusion": "The Kantian category of relation encompasses what Aristotle distributed among several categories"
+  },
+  {
+    "id": 2145,
+    "topic": "Different Substance Concepts",
+    "premise": "aristotle|substance|primary|kant|schema|permanence",
+    "conclusion": "For Aristotle, substance is primary being; for Kant, substance is the schema of permanence underlying change"
+  },
+  {
+    "id": 2146,
+    "topic": "Lack of Unity",
+    "premise": "kant|regards|aristotle|categories|lacking|unity",
+    "conclusion": "Kant regards Aristotle's categories as lacking unity of principle and merely empirically assembled"
+  },
+  {
+    "id": 2147,
+    "topic": "From Metaphysics to Epistemology",
+    "premise": "critical|transformation|categories|removes|metaphysics|epistemology",
+    "conclusion": "The critical transformation of the categories removes them from metaphysics to epistemology"
+  },
+  {
+    "id": 2148,
+    "topic": "Agreement on Fundamentals",
+    "premise": "kant|aristotle|agree|substance|attribute|fundamental",
+    "conclusion": "Both Kant and Aristotle agree that substance and attribute are fundamental, though they interpret them differently"
+  },
+  {
+    "id": 2149,
+    "topic": "No Object for Ideas",
+    "premise": "ideas|reason|soul|world|corresponding|object",
+    "conclusion": "The ideas of reason (soul, world, God) have no corresponding object in possible experience"
+  },
+  {
+    "id": 2150,
+    "topic": "Origin of Cosmological Antinomies",
+    "premise": "cosmological|antinomies|arise|treating|world|thing",
+    "conclusion": "The cosmological antinomies arise from treating the world as a thing in itself with determinate totality"
+  },
+  {
+    "id": 2151,
+    "topic": "Thesis vs Antithesis",
+    "premise": "thesis|antinomy|represents|rationalist|dogmatism|antithesis",
+    "conclusion": "The thesis of each antinomy represents rationalist dogmatism; the antithesis represents empiricist dogmatism"
+  },
+  {
+    "id": 2152,
+    "topic": "Mathematical Antinomies",
+    "premise": "mathematical|antinomies|thesis|antithesis|false|presuppose",
+    "conclusion": "In mathematical antinomies, both thesis and antithesis are false because they presuppose a completed infinite series"
+  },
+  {
+    "id": 2153,
+    "topic": "Dynamical Antinomies",
+    "premise": "dynamical|antinomies|thesis|antithesis|true|apply",
+    "conclusion": "In dynamical antinomies, both thesis and antithesis can be true because they apply to different realms"
+  },
+  {
+    "id": 2154,
+    "topic": "Unavoidable Illusion",
+    "premise": "transcendental|illusion|natural|unavoidable|reason|necessarily",
+    "conclusion": "Transcendental illusion is natural and unavoidable\u2014reason necessarily generates it"
+  },
+  {
+    "id": 2155,
+    "topic": "Regulative Use",
+    "premise": "ideas|reason|legitimate|regulative|guiding|understanding",
+    "conclusion": "The ideas of reason have legitimate regulative use in guiding the understanding toward systematic unity"
+  },
+  {
+    "id": 2156,
+    "topic": "Regulative vs Constitutive Error",
+    "premise": "mistake|regulative|principles|constitutive|fall|dogmatic",
+    "conclusion": "To mistake regulative principles for constitutive principles is to fall into dogmatic metaphysics"
+  },
+  {
+    "id": 2157,
+    "topic": "Limits of Speculation",
+    "premise": "dialectic|pure|reason|reveals|unaided|speculation",
+    "conclusion": "The dialectic of pure reason reveals that unaided speculation cannot resolve ultimate questions"
+  },
+  {
+    "id": 2158,
+    "topic": "Proper Business of Reason",
+    "premise": "proper|business|reason|extend|knowledge|beyond",
+    "conclusion": "The proper business of reason is not to extend knowledge beyond experience but to secure it within experience"
+  },
+  {
+    "id": 2159,
+    "topic": "Ens Realissimum",
+    "premise": "concept|realissimum|represents|total|predicates|things",
+    "conclusion": "The concept of God as ens realissimum represents the sum total of all predicates of things in general"
+  },
+  {
+    "id": 2160,
+    "topic": "Hypostasis of Ideal",
+    "premise": "transcendental|ideal|hypostasizes|concept|individual",
+    "conclusion": "The transcendental ideal hypostasizes this concept into an individual being"
+  },
+  {
+    "id": 2161,
+    "topic": "Failure of Theistic Proofs",
+    "premise": "three|speculative|proofs|ontological|cosmological|physico",
+    "conclusion": "The three speculative proofs of God (ontological, cosmological, physico-theological) all fail"
+  },
+  {
+    "id": 2162,
+    "topic": "Logical vs Real Predicates",
+    "premise": "ontological|argument|confuses|logical|real|predicates",
+    "conclusion": "The ontological argument confuses logical with real predicates"
+  },
+  {
+    "id": 2163,
+    "topic": "Existence Not Additive",
+    "premise": "hundred|actual|dollars|contain|penny|possible",
+    "conclusion": "One hundred actual dollars contain not a penny more than one hundred possible dollars"
+  },
+  {
+    "id": 2164,
+    "topic": "Covert Ontological Argument",
+    "premise": "cosmological|argument|covertly|employs|ontological|moving",
+    "conclusion": "The cosmological argument covertly employs the ontological argument by moving from necessary being to most real being"
+  },
+  {
+    "id": 2165,
+    "topic": "Limits of Design Argument",
+    "premise": "argument|design|cannot|establish|infinite|necessary",
+    "conclusion": "The argument from design cannot establish an infinite, necessary, omnipotent creator"
+  },
+  {
+    "id": 2166,
+    "topic": "Agnosticism about God",
+    "premise": "theoretical|reason|neither|prove|disprove|existence",
+    "conclusion": "Theoretical reason can neither prove nor disprove God's existence"
+  },
+  {
+    "id": 2167,
+    "topic": "God as Legitimate Idea",
+    "premise": "concept|remains|legitimate|idea|reason|though",
+    "conclusion": "The concept of God remains a legitimate idea of reason though not an object of knowledge"
+  },
+  {
+    "id": 2168,
+    "topic": "God Beyond Conditions",
+    "premise": "existing|subject|conditions|time|space",
+    "conclusion": "God, if existing, would not be subject to the conditions of time and space"
+  },
+  {
+    "id": 2169,
+    "topic": "Unknowability of God's Existence",
+    "premise": "cannot|know|whether|corresponding|concept",
+    "conclusion": "We cannot know whether there is a being corresponding to the concept of God"
+  },
+  {
+    "id": 2170,
+    "topic": "Analogical Divine Predicates",
+    "premise": "predicates|apply|derived|experience|applied|analogically",
+    "conclusion": "All predicates we apply to God are derived from experience and applied only analogically"
+  },
+  {
+    "id": 2171,
+    "topic": "No Demonstration of Attributes",
+    "premise": "divine|omniscience|omnipotence|benevolence|cannot|theoretically",
+    "conclusion": "Divine omniscience, omnipotence, and benevolence cannot be theoretically demonstrated"
+  },
+  {
+    "id": 2172,
+    "topic": "Compatibility Thesis",
+    "premise": "existence|noumenon|compatible|determinism|phenomena",
+    "conclusion": "God's existence as noumenon is compatible with the determinism of phenomena"
+  },
+  {
+    "id": 2173,
+    "topic": "Causa Noumenon",
+    "premise": "noumenal|causa|noumenon|cause|subject|empirical",
+    "conclusion": "A noumenal God would be causa noumenon\u2014a cause not subject to empirical causation"
+  },
+  {
+    "id": 2174,
+    "topic": "Thinking vs Knowing God",
+    "premise": "think|categories|yield|knowledge",
+    "conclusion": "We must think God under categories, but this does not yield knowledge of God"
+  },
+  {
+    "id": 2175,
+    "topic": "Faith Not Science",
+    "premise": "noumenal|character|means|rational|theology|yields",
+    "conclusion": "The noumenal character of God means rational theology yields only faith, not science"
+  },
+  {
+    "id": 2176,
+    "topic": "Ground of Determination",
+    "premise": "ideal|pure|reason|represents|idea|ground",
+    "conclusion": "The ideal of pure reason represents the idea of a ground of thoroughgoing determination"
+  },
+  {
+    "id": 2177,
+    "topic": "Finite as Limited",
+    "premise": "finite|things|determinations|limitations|unlimited|reality",
+    "conclusion": "All finite things are determinations or limitations of the one unlimited reality"
+  },
+  {
+    "id": 2178,
+    "topic": "Natural Formation of Idea",
+    "premise": "conception|prove|supreme|exists|shows|reason",
+    "conclusion": "This conception does not prove a supreme being exists but shows how reason naturally forms the idea"
+  },
+  {
+    "id": 2179,
+    "topic": "Grounding Possibility",
+    "premise": "realissimum|grounds|possibility|containing|predicates|primitively",
+    "conclusion": "The ens realissimum grounds all possibility by containing all predicates primitively"
+  },
+  {
+    "id": 2180,
+    "topic": "Presupposition of Positive",
+    "premise": "negative|predicates|limitation|presuppose|positive|unlimited",
+    "conclusion": "Negative predicates (non-being, limitation) presuppose positive predicates in the unlimited being"
+  },
+  {
+    "id": 2181,
+    "topic": "Possible Intelligible Substrate",
+    "premise": "world|appearances|grounded|intelligible|substrate|inaccessible",
+    "conclusion": "The world of appearances might be grounded in an intelligible substrate inaccessible to theoretical cognition"
+  },
+  {
+    "id": 2182,
+    "topic": "Seeking the Unconditioned",
+    "premise": "reason|seeks|unconditioned|ground|conditioned|existence",
+    "conclusion": "Reason seeks the unconditioned ground of all conditioned existence, though it cannot know this ground"
+  },
+  {
+    "id": 2183,
+    "topic": "Non-Successive Causality",
+    "premise": "noumenal|causality|successive|operate|time|phenomenal",
+    "conclusion": "Noumenal causality is not successive\u2014it does not operate in time as phenomenal causation does"
+  },
+  {
+    "id": 2184,
+    "topic": "Ontological Grounding",
+    "premise": "grounds|phenomenal|world|grounding|ontological|temporal",
+    "conclusion": "If God grounds the phenomenal world, this grounding is ontological, not temporal"
+  },
+  {
+    "id": 2185,
+    "topic": "No Temporal Creation",
+    "premise": "concept|creation|time|cannot|apply|timeless",
+    "conclusion": "The concept of creation in time cannot apply to a timeless noumenal ground"
+  },
+  {
+    "id": 2186,
+    "topic": "Against Anthropomorphism",
+    "premise": "distinction|phenomenal|succession|noumenal|grounding|prevents",
+    "conclusion": "The distinction between phenomenal succession and noumenal grounding prevents anthropomorphic theology"
+  },
+  {
+    "id": 2187,
+    "topic": "Against Watchmaker God",
+    "premise": "constituting|ground|differs|watchmaker|deistic|natural",
+    "conclusion": "God as constituting ground differs from the watchmaker God of deistic natural theology"
+  },
+  {
+    "id": 2188,
+    "topic": "Not First Member",
+    "premise": "noumenal|ground|appearances|first|member|temporal",
+    "conclusion": "The noumenal ground of appearances is not a first member of a temporal series"
+  },
+  {
+    "id": 2189,
+    "topic": "Moral Law as Divine Voice",
+    "premise": "moral|within|authentic|voice|divine",
+    "conclusion": "The moral law within us is the authentic voice of the divine"
+  },
+  {
+    "id": 2190,
+    "topic": "Interpretation of Ecclesiastical Faith",
+    "premise": "ecclesiastical|faith|requires|interpretation|pure|moral",
+    "conclusion": "Ecclesiastical faith requires interpretation through pure moral religion"
+  },
+  {
+    "id": 2191,
+    "topic": "Instrumental Value of Ritual",
+    "premise": "prayer|ritual|observance|value|means|moral",
+    "conclusion": "Prayer, ritual, and observance have value only as means to moral improvement"
+  },
+  {
+    "id": 2192,
+    "topic": "Religion as Recognition",
+    "premise": "religion|recognition|duties|divine|commands",
+    "conclusion": "Religion is the recognition of all our duties as divine commands"
+  },
+  {
+    "id": 2193,
+    "topic": "Radical Evil",
+    "premise": "radical|evil|innate|propensity|subordinate|moral",
+    "conclusion": "Radical evil is the innate propensity to subordinate moral law to self-love"
+  },
+  {
+    "id": 2194,
+    "topic": "Moral Regeneration",
+    "premise": "moral|regeneration|requires|revolution|disposition|rebirth",
+    "conclusion": "Moral regeneration requires a revolution in disposition, a rebirth of character"
+  },
+  {
+    "id": 2195,
+    "topic": "Archetype over Person",
+    "premise": "historical|person|moral|teacher|less|important",
+    "conclusion": "The historical person of a moral teacher is less important than the moral archetype he represents"
+  },
+  {
+    "id": 2196,
+    "topic": "Ethical Community",
+    "premise": "ethical|community|kingdom|earth|union|persons",
+    "conclusion": "The ethical community is the kingdom of God on earth\u2014a union of persons under moral laws"
+  },
+  {
+    "id": 2197,
+    "topic": "Against Clericalism",
+    "premise": "clericalism|substitutes|observance|morality|pseudo|service",
+    "conclusion": "Clericalism that substitutes observance for morality is pseudo-service to God"
+  },
+  {
+    "id": 2198,
+    "topic": "Content Sources",
+    "premise": "rational|religion|derives|content|moral|reason",
+    "conclusion": "Rational religion derives its content from moral reason; dogmatic religion accepts revelation uncritically"
+  },
+  {
+    "id": 2199,
+    "topic": "Moral Reading of Bible",
+    "premise": "bible|read|vehicle|moral|truth|literal",
+    "conclusion": "The Bible should be read as a vehicle for moral truth, not as literal metaphysical doctrine"
+  },
+  {
+    "id": 2200,
+    "topic": "Miracles Cannot Add",
+    "premise": "miracles|cannot|moral|duty|already|completely",
+    "conclusion": "Miracles cannot add to moral duty, which is already completely determined by reason"
+  },
+  {
+    "id": 2201,
+    "topic": "Salvation Basis",
+    "premise": "dogmatic|religion|makes|salvation|depend|belief",
+    "conclusion": "Dogmatic religion makes salvation depend on belief; rational religion makes it depend on moral disposition"
+  },
+  {
+    "id": 2202,
+    "topic": "Availability of Religion",
+    "premise": "rational|religion|available|beings|dogmatic|historically",
+    "conclusion": "Rational religion is available to all rational beings as such; dogmatic religion is historically particular"
+  },
+  {
+    "id": 2203,
+    "topic": "Progress toward Rational Faith",
+    "premise": "gradual|progress|humanity|toward|pure|rational",
+    "conclusion": "The gradual progress of humanity is toward pure rational faith"
+  },
+  {
+    "id": 2204,
+    "topic": "Moral Interpretation Required",
+    "premise": "mysteries|sacraments|interpreted|morally|aside",
+    "conclusion": "Mysteries and sacraments must be interpreted morally or set aside"
+  },
+  {
+    "id": 2205,
+    "topic": "Risks of Dogmatism",
+    "premise": "dogmatic|religion|risks|superstition|rational|upholds",
+    "conclusion": "Dogmatic religion risks superstition; rational religion upholds human autonomy and dignity"
+  },
+  {
+    "id": 2206,
+    "topic": "Categorical Command",
+    "premise": "moral|commands|categorically|hypothetically",
+    "conclusion": "The moral law commands categorically, not hypothetically"
+  },
+  {
+    "id": 2207,
+    "topic": "Hypothetical vs Categorical",
+    "premise": "hypothetical|imperatives|conditional|categorical|unconditional",
+    "conclusion": "Hypothetical imperatives are conditional on some end; categorical imperatives are unconditional"
+  },
+  {
+    "id": 2208,
+    "topic": "Imperatives Express Ought",
+    "premise": "imperatives|express|ought|relation|objective|laws",
+    "conclusion": "All imperatives express an ought\u2014the relation of objective laws of reason to a will not necessarily determined by them"
+  },
+  {
+    "id": 2209,
+    "topic": "Perfect Will",
+    "premise": "perfectly|good|according|moral|without|experiencing",
+    "conclusion": "A perfectly good will would act according to the moral law without experiencing it as imperative"
+  },
+  {
+    "id": 2210,
+    "topic": "Only Unconditional Good",
+    "premise": "good|unconditional|goods|misused",
+    "conclusion": "The good will is the only unconditional good because all other goods can be misused"
+  },
+  {
+    "id": 2211,
+    "topic": "Conditional Goods",
+    "premise": "talents|gifts|fortune|good|governed",
+    "conclusion": "Talents, gifts, and fortune are good only when governed by a good will"
+  },
+  {
+    "id": 2212,
+    "topic": "Conformity vs From Duty",
+    "premise": "acting|conformity|duty",
+    "conclusion": "Acting in conformity with duty is not the same as acting from duty"
+  },
+  {
+    "id": 2213,
+    "topic": "Shopkeeper Example",
+    "premise": "shopkeeper|gives|correct|change|self|interest",
+    "conclusion": "The shopkeeper who gives correct change from self-interest acts in conformity with duty but not from duty"
+  },
+  {
+    "id": 2214,
+    "topic": "Respect and Moral Worth",
+    "premise": "moral|worth|attaches|actions|done|respect",
+    "conclusion": "Moral worth attaches only to actions done from respect for the moral law"
+  },
+  {
+    "id": 2215,
+    "topic": "Inclination Without Worth",
+    "premise": "inclination|benevolent|moral|worth|unless|subordinated",
+    "conclusion": "Inclination, even benevolent inclination, has no moral worth unless it is subordinated to duty"
+  },
+  {
+    "id": 2216,
+    "topic": "Universalizability Test",
+    "premise": "universalizability|test|determines|whether|maxim|morally",
+    "conclusion": "The universalizability test determines whether a maxim is morally permissible"
+  },
+  {
+    "id": 2217,
+    "topic": "Contradiction Test",
+    "premise": "maxim|cannot|universalized|without|contradiction|forbidden",
+    "conclusion": "A maxim that cannot be universalized without contradiction is forbidden"
+  },
+  {
+    "id": 2218,
+    "topic": "Lying Promise Example",
+    "premise": "making|lying|promise|fails|universalizability|test",
+    "conclusion": "Making a lying promise fails the universalizability test because universal lying would destroy the institution of promising"
+  },
+  {
+    "id": 2219,
+    "topic": "Suicide Example",
+    "premise": "suicide|self|love|contradictory|principle|mandate",
+    "conclusion": "Suicide from self-love is contradictory because the same principle (self-love) would mandate both living and dying"
+  },
+  {
+    "id": 2220,
+    "topic": "Talent Development",
+    "premise": "neglecting|develop|talents|wrong|cannot|rationally",
+    "conclusion": "Neglecting to develop talents is wrong because we cannot rationally will a world of universal idleness"
+  },
+  {
+    "id": 2221,
+    "topic": "Aid to Others",
+    "premise": "refusing|others|distress|wrong|cannot|world",
+    "conclusion": "Refusing to aid others in distress is wrong because we cannot will a world in which no one helps anyone"
+  },
+  {
+    "id": 2222,
+    "topic": "Against Instrumentalization",
+    "premise": "humanity|formula|prohibits|using|persons|merely",
+    "conclusion": "The humanity formula prohibits using persons merely as instruments"
+  },
+  {
+    "id": 2223,
+    "topic": "Dignity Above Price",
+    "premise": "dignity|rational|beings|places|price",
+    "conclusion": "The dignity of rational beings places them above all price"
+  },
+  {
+    "id": 2224,
+    "topic": "Autonomy Grounds Dignity",
+    "premise": "autonomy|ground|dignity|human|rational|nature",
+    "conclusion": "Autonomy is the ground of the dignity of human and every rational nature"
+  },
+  {
+    "id": 2225,
+    "topic": "Source of Heteronomy",
+    "premise": "heteronomy|arises|seeks|object|outside",
+    "conclusion": "Heteronomy arises when the will seeks its law in any object outside itself"
+  },
+  {
+    "id": 2226,
+    "topic": "Source of Necessitation",
+    "premise": "moral|necessitation|arises|finite|rational|beings",
+    "conclusion": "Moral necessitation arises because finite rational beings have inclinations that may conflict with reason"
+  },
+  {
+    "id": 2227,
+    "topic": "Duty Implies Freedom",
+    "premise": "obligation|presupposes|possibility|acting|otherwise|duty",
+    "conclusion": "Obligation presupposes the possibility of acting otherwise\u2014duty implies freedom"
+  },
+  {
+    "id": 2228,
+    "topic": "Independence of Binding Force",
+    "premise": "binding|force|moral|derive|consequences|feelings",
+    "conclusion": "The binding force of the moral law does not derive from consequences or feelings"
+  },
+  {
+    "id": 2229,
+    "topic": "Uniqueness of Respect",
+    "premise": "respect|moral|unique|feeling|produced|reason",
+    "conclusion": "Respect for the moral law is a unique feeling produced by reason, not derived from sensibility"
+  },
+  {
+    "id": 2230,
+    "topic": "Duty as Self-Expression",
+    "premise": "duty|burden|imposed|without|expression|rational",
+    "conclusion": "Duty is not a burden imposed from without but the expression of our rational nature"
+  },
+  {
+    "id": 2231,
+    "topic": "Universal Legislation",
+    "premise": "moral|legislative|rational|beings|merely|human",
+    "conclusion": "The moral law is legislative for all rational beings, not merely human beings"
+  },
+  {
+    "id": 2232,
+    "topic": "Perfect vs Imperfect Duties",
+    "premise": "perfect|duties|admit|exception|favor|inclination",
+    "conclusion": "Perfect duties admit no exception in favor of inclination; imperfect duties allow latitude in fulfillment"
+  },
+  {
+    "id": 2233,
+    "topic": "Supreme Moral Principle",
+    "premise": "supreme|principle|morality|form|universal|commanded",
+    "conclusion": "The supreme principle of morality is the form of universal law commanded by reason"
+  },
+  {
+    "id": 2234,
+    "topic": "Purpose of Civil Society",
+    "premise": "civil|society|exists|secure|external|freedom",
+    "conclusion": "Civil society exists to secure the external freedom of each compatible with the freedom of all"
+  },
+  {
+    "id": 2235,
+    "topic": "Original Contract as Idea",
+    "premise": "original|contract|idea|reason|legitimizes|positive",
+    "conclusion": "The original contract is an idea of reason that legitimizes positive law"
+  },
+  {
+    "id": 2236,
+    "topic": "Consent Requirement",
+    "premise": "laws|consented|rational|citizens",
+    "conclusion": "Laws must be such that they could have been consented to by all rational citizens"
+  },
+  {
+    "id": 2237,
+    "topic": "Sovereign as General Will",
+    "premise": "sovereign|represents|general|united|private|interests",
+    "conclusion": "The sovereign represents the general united will, not private interests"
+  },
+  {
+    "id": 2238,
+    "topic": "Citizenship Requirements",
+    "premise": "active|citizenship|requires|economic|independence|dependent",
+    "conclusion": "Active citizenship requires economic independence; those dependent on others cannot vote"
+  },
+  {
+    "id": 2239,
+    "topic": "Desert-Based Punishment",
+    "premise": "punishment|justified|solely|desert|deterrence|rehabilitation",
+    "conclusion": "Punishment is justified solely by desert, not by deterrence or rehabilitation"
+  },
+  {
+    "id": 2240,
+    "topic": "International Federation",
+    "premise": "federation|free|states|replace|lawless|condition",
+    "conclusion": "The federation of free states would replace the lawless condition among nations with lawful relations"
+  },
+  {
+    "id": 2241,
+    "topic": "Perpetual Peace",
+    "premise": "perpetual|peace|final|goal|international|right",
+    "conclusion": "Perpetual peace is the final goal of all international right"
+  },
+  {
+    "id": 2242,
+    "topic": "Practical Attainability",
+    "premise": "world|republic|ideal|league|states|practically",
+    "conclusion": "A world republic may be ideal but a league of states is more practically attainable"
+  },
+  {
+    "id": 2243,
+    "topic": "Property Right Defined",
+    "premise": "right|property|external|mine|thine|established",
+    "conclusion": "The right to property is an external mine and thine established by civil law"
+  },
+  {
+    "id": 2244,
+    "topic": "Juridical Validation",
+    "premise": "unilateral|acquisition|requires|subsequent|juridical|validation",
+    "conclusion": "Unilateral acquisition requires subsequent juridical validation by the civil condition"
+  },
+  {
+    "id": 2245,
+    "topic": "State Regulation",
+    "premise": "state|regulate|property|common|good|respecting",
+    "conclusion": "The state may regulate property for the common good while respecting acquired rights"
+  },
+  {
+    "id": 2246,
+    "topic": "Framework Not Direction",
+    "premise": "state|provides|juridical|framework|economic|activity",
+    "conclusion": "A just state provides the juridical framework for economic activity but does not direct it"
+  },
+  {
+    "id": 2247,
+    "topic": "Honoring Contracts",
+    "premise": "contracts|honored|pacta|sunt|servanda|principle",
+    "conclusion": "Contracts must be honored\u2014pacta sunt servanda is a principle of right"
+  },
+  {
+    "id": 2248,
+    "topic": "Against Slavery",
+    "premise": "servitude|slavery|violate|innate|right|freedom",
+    "conclusion": "Servitude and slavery violate the innate right to freedom and are absolutely impermissible"
+  },
+  {
+    "id": 2249,
+    "topic": "Right to Economic Independence",
+    "premise": "person|right|seek|economic|independence|labor",
+    "conclusion": "Each person has the right to seek economic independence through labor and exchange"
+  },
+  {
+    "id": 2250,
+    "topic": "Transformation of Rights",
+    "premise": "civil|condition|transforms|provisional|natural|rights",
+    "conclusion": "The civil condition transforms provisional natural rights into secured peremptory rights"
+  },
+  {
+    "id": 2251,
+    "topic": "Mechanical Explanation",
+    "premise": "nebular|hypothesis|exemplifies|power|mechanical|explanation",
+    "conclusion": "The nebular hypothesis exemplifies the power of mechanical explanation in cosmology"
+  },
+  {
+    "id": 2252,
+    "topic": "1755 Cosmological Proposal",
+    "premise": "kant|proposed|universe|developed|primordial|chaos",
+    "conclusion": "Kant proposed in 1755 that the universe developed from a primordial chaos by natural laws"
+  },
+  {
+    "id": 2253,
+    "topic": "Natural Explanation",
+    "premise": "rotation|gravitational|attraction|explain|formation|solar",
+    "conclusion": "Rotation and gravitational attraction explain the formation of the solar system without supernatural intervention"
+  },
+  {
+    "id": 2254,
+    "topic": "Milky Way Shape",
+    "premise": "disk|shape|milky|reflects|origin|rotating",
+    "conclusion": "The disk shape of the Milky Way reflects its origin from a rotating nebula"
+  },
+  {
+    "id": 2255,
+    "topic": "Island Universes",
+    "premise": "nebulae|island|universes|galaxies|comparable|milky",
+    "conclusion": "Other nebulae are island universes\u2014galaxies comparable to our own Milky Way"
+  },
+  {
+    "id": 2256,
+    "topic": "Newtonian Sufficiency",
+    "premise": "laws|newtonian|mechanics|suffice|account|cosmic",
+    "conclusion": "The laws of Newtonian mechanics suffice to account for cosmic evolution"
+  },
+  {
+    "id": 2257,
+    "topic": "Mechanical Teleology",
+    "premise": "teleological|order|nature|imply|external|designer",
+    "conclusion": "Teleological order in nature need not imply an external designer\u2014it can arise from mechanical principles"
+  },
+  {
+    "id": 2258,
+    "topic": "No Transcendent Causes",
+    "premise": "nebular|hypothesis|illustrates|natural|science|explains",
+    "conclusion": "The nebular hypothesis illustrates that natural science explains phenomena without appealing to transcendent causes"
+  },
+  {
+    "id": 2259,
+    "topic": "Space as Form",
+    "premise": "space|nothing|form|appearances|outer|sense",
+    "conclusion": "Space is nothing other than the form of all appearances of outer sense"
+  },
+  {
+    "id": 2260,
+    "topic": "Space as Infinite",
+    "premise": "space|represented|given|infinite|magnitude|marks",
+    "conclusion": "Space is represented as a given infinite magnitude\u2014this marks it as intuition, not concept"
+  },
+  {
+    "id": 2261,
+    "topic": "Geometrical Construction",
+    "premise": "geometry|constructs|objects|pure|spatial|intuition",
+    "conclusion": "Geometry constructs its objects in pure spatial intuition a priori"
+  },
+  {
+    "id": 2262,
+    "topic": "Apodicticity from A Priori",
+    "premise": "apodicticity|geometry|derives|priori|status|space",
+    "conclusion": "The apodicticity of geometry derives from the a priori status of space"
+  },
+  {
+    "id": 2263,
+    "topic": "Counterfactual on Space",
+    "premise": "space|thing|geometry|empirical|contingent",
+    "conclusion": "If space were a thing in itself, geometry would be empirical and contingent"
+  },
+  {
+    "id": 2264,
+    "topic": "Against Leibniz on Space",
+    "premise": "leibniz|erred|treating|space|confused|representation",
+    "conclusion": "Leibniz erred in treating space as a confused representation of relations among things in themselves"
+  },
+  {
+    "id": 2265,
+    "topic": "Against Newton on Space",
+    "premise": "newton|erred|treating|space|absolute|container",
+    "conclusion": "Newton erred in treating space as an absolute container existing independently of things"
+  },
+  {
+    "id": 2266,
+    "topic": "Dissolution of Conflict",
+    "premise": "ideality|space|dissolves|conflict|leibnizian|newtonian",
+    "conclusion": "The ideality of space dissolves the conflict between Leibnizian and Newtonian views"
+  },
+  {
+    "id": 2267,
+    "topic": "Spatial Properties Phenomenal",
+    "premise": "spatial|properties|shape|size|position|pertain",
+    "conclusion": "Spatial properties (shape, size, position) pertain to phenomena only, not to things in themselves"
+  },
+  {
+    "id": 2268,
+    "topic": "Source of Geometry",
+    "premise": "pure|intuition|space|source|geometrical|constructions",
+    "conclusion": "The pure intuition of space is the source of all geometrical constructions"
+  },
+  {
+    "id": 2269,
+    "topic": "Time as Inner Sense Form",
+    "premise": "time|form|inner|sense|mode|mind",
+    "conclusion": "Time is the form of inner sense\u2014the mode under which the mind intuits its own states"
+  },
+  {
+    "id": 2270,
+    "topic": "All Appearances Temporal",
+    "premise": "appearances|whatsoever|time|since|representations|states",
+    "conclusion": "All appearances whatsoever are in time, since all representations are states of the mind"
+  },
+  {
+    "id": 2271,
+    "topic": "Time Not Independent",
+    "premise": "time|something|exists|inheres|things|objective",
+    "conclusion": "Time is not something that exists in itself or inheres in things as an objective determination"
+  },
+  {
+    "id": 2272,
+    "topic": "Modes of Time",
+    "premise": "three|modes|time|duration|succession|coexistence",
+    "conclusion": "The three modes of time are duration, succession, and coexistence"
+  },
+  {
+    "id": 2273,
+    "topic": "Time as Formal Condition",
+    "premise": "time|formal|condition|appearances|general",
+    "conclusion": "Time is the formal condition of all appearances in general"
+  },
+  {
+    "id": 2274,
+    "topic": "Change Requires Time",
+    "premise": "change|possible|time|without|neither|permanence",
+    "conclusion": "Change is possible only in time; without time, neither change nor permanence is representable"
+  },
+  {
+    "id": 2275,
+    "topic": "Permanence Schema",
+    "premise": "permanence|substance|schema|time|respect|duration",
+    "conclusion": "The permanence of substance is the schema of time with respect to duration"
+  },
+  {
+    "id": 2276,
+    "topic": "Counterfactual on Time",
+    "premise": "time|thing|exist|without|actual|object",
+    "conclusion": "If time were a thing in itself, it would exist without any actual object"
+  },
+  {
+    "id": 2277,
+    "topic": "One Dimension of Time",
+    "premise": "time|dimension|different|times|simultaneous|successive",
+    "conclusion": "Time has only one dimension; different times are not simultaneous but successive"
+  },
+  {
+    "id": 2278,
+    "topic": "Infinity of Time",
+    "premise": "infinity|time|means|determinate|magnitude|possible",
+    "conclusion": "The infinity of time means that every determinate magnitude of time is possible only through limitations of one underlying time"
+  },
+  {
+    "id": 2279,
+    "topic": "Mathematical Cognition Defined",
+    "premise": "mathematical|cognition|construction|concepts",
+    "conclusion": "Mathematical cognition is cognition from the construction of concepts"
+  },
+  {
+    "id": 2280,
+    "topic": "Concept Construction",
+    "premise": "construct|concept|exhibit|priori|intuition|corresponding",
+    "conclusion": "To construct a concept is to exhibit a priori the intuition corresponding to it"
+  },
+  {
+    "id": 2281,
+    "topic": "Geometrical Construction Process",
+    "premise": "geometry|construction|proceeds|pure|spatial|intuition",
+    "conclusion": "In geometry, construction proceeds in pure spatial intuition"
+  },
+  {
+    "id": 2282,
+    "topic": "Algebraic Construction",
+    "premise": "algebraic|construction|employs|symbolic|characters|representing",
+    "conclusion": "Algebraic construction employs symbolic construction through characters representing magnitudes"
+  },
+  {
+    "id": 2283,
+    "topic": "Demonstrations in Intuition",
+    "premise": "mathematical|demonstrations|exhibit|objects|intuition|thus",
+    "conclusion": "Mathematical demonstrations exhibit their objects in intuition and thus yield synthetic knowledge"
+  },
+  {
+    "id": 2284,
+    "topic": "Philosophy Cannot Construct",
+    "premise": "philosophy|cannot|proceed|construction|philosophical|concepts",
+    "conclusion": "Philosophy cannot proceed by construction because philosophical concepts cannot be exhibited in pure intuition"
+  },
+  {
+    "id": 2285,
+    "topic": "Mathematical Discovery",
+    "premise": "synthetic|character|mathematics|explains|mathematical|discoveries",
+    "conclusion": "The synthetic character of mathematics explains why mathematical discoveries are genuine extensions of knowledge"
+  },
+  {
+    "id": 2286,
+    "topic": "Certainty of Axioms",
+    "premise": "mathematical|axioms|immediately|certain|grounded|pure",
+    "conclusion": "Mathematical axioms are immediately certain because they are grounded in pure intuition"
+  },
+  {
+    "id": 2287,
+    "topic": "Mathematical Postulates",
+    "premise": "mathematical|postulates|practical|propositions|constructing|figures",
+    "conclusion": "Mathematical postulates are practical propositions for constructing figures"
+  },
+  {
+    "id": 2288,
+    "topic": "Necessity from Forms",
+    "premise": "necessity|mathematical|truths|follows|grounding|necessary",
+    "conclusion": "The necessity of mathematical truths follows from their grounding in the necessary forms of intuition"
+  },
+  {
+    "id": 2289,
+    "topic": "Apodictic Certainty",
+    "premise": "mathematics|achieves|apodictic|certainty|deals|necessary",
+    "conclusion": "Mathematics achieves apodictic certainty because it deals with the necessary structure of appearances"
+  },
+  {
+    "id": 2290,
+    "topic": "Applicability Guaranteed",
+    "premise": "applicability|mathematics|nature|guaranteed|conform|forms",
+    "conclusion": "The applicability of mathematics to nature is guaranteed because nature must conform to the forms of intuition"
+  }
+]

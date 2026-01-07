@@ -1,0 +1,43 @@
+ISSUE 1: In Compare Thinkers mode, the responses disappear from the screen
+FIX: In the Compare Thinkers component, the response container needs proper state management and DOM persistence.
+Instructions:
+
+Find the Compare Thinkers component (likely CompareThinkers.jsx or similar)
+Ensure the response state is stored in React state (useState) and NOT just temporary variables
+The response display divs must be inside the return() statement of the component, not conditionally removed
+Check for any display: none or visibility conditions that hide responses after they're generated
+Make sure the responses are rendered in scrollable containers with overflow-y: auto and fixed/absolute positioning if needed
+Verify there's no code that clears the response state after displaying
+
+ISSUE 2: In single thinker mode, the user's question doesn't show up
+FIX: The user's question needs to be displayed in the conversation history.
+Instructions:
+
+Find the single thinker/normal mode component (likely AskPhilosopher.jsx or main chat component)
+When the user submits a question, it must be added to the conversation history state BEFORE the API call
+The conversation history should render both user messages and philosopher responses
+Check the message rendering logic - ensure user messages have a distinct style/class (e.g., message-user class)
+Verify the conversation history container is visible and not hidden by CSS
+Make sure the addMessage or similar function includes both role: "user" and the message content
+
+SPECIFIC CODE PATTERN TO LOOK FOR AND FIX:
+In Compare mode, look for:
+javascript// BAD - responses disappear
+let response1 = await callAPI(...);
+let response2 = await callAPI(...);
+// responses not saved to state
+Should be:
+javascript// GOOD - responses persist
+const [responses, setResponses] = useState({ thinker1: '', thinker2: '' });
+const response1 = await callAPI(...);
+const response2 = await callAPI(...);
+setResponses({ thinker1: response1, thinker2: response2 });
+In single thinker mode, look for:
+javascript// BAD - only shows philosopher response
+setMessages([...messages, { role: 'assistant', content: response }]);
+Should be:
+javascript// GOOD - shows both question and response
+setMessages([...messages, 
+  { role: 'user', content: userQuestion },
+  { role: 'assistant', content: response }
+]);

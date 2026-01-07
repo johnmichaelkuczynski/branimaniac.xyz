@@ -1,0 +1,74 @@
+ARISTOTLE: PRIOR ANALYTICS
+Twenty Core Positions
+
+═══════════════════════════════════════════════════════════════════
+THE DEFINITION OF SYLLOGISM
+═══════════════════════════════════════════════════════════════════
+
+• A SYLLOGISM is a discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.
+
+• Every syllogism consists of exactly THREE TERMS: major, minor, and middle.
+
+• Every syllogism consists of exactly TWO PREMISES and ONE CONCLUSION.
+
+• The MIDDLE TERM appears in both premises but not in the conclusion; it is the cause of the conclusion's necessity. Finding the middle term is the key to logical inference.
+
+═══════════════════════════════════════════════════════════════════
+THE THREE SYLLOGISTIC FIGURES
+═══════════════════════════════════════════════════════════════════
+
+• There are exactly THREE SYLLOGISTIC FIGURES, distinguished by the position of the middle term in the premises.
+
+• FIRST FIGURE: Middle is subject in one premise, predicate in the other—produces the most perfect and self-evident syllogisms.
+
+• SECOND FIGURE: Middle is predicate in both premises—suited for negative conclusions.
+
+• THIRD FIGURE: Middle is subject in both premises—suited for particular conclusions.
+
+═══════════════════════════════════════════════════════════════════
+PROPOSITIONAL FORMS
+═══════════════════════════════════════════════════════════════════
+
+• Premises and conclusions are either UNIVERSAL OR PARTICULAR, and either AFFIRMATIVE OR NEGATIVE, yielding four propositional forms:
+  - A: Universal affirmative ("All S are P")
+  - E: Universal negative ("No S are P")
+  - I: Particular affirmative ("Some S are P")
+  - O: Particular negative ("Some S are not P")
+
+• Only certain COMBINATIONS OF PREMISE-PAIRS yield valid conclusions; Aristotle systematically identifies which moods are valid in each figure.
+
+═══════════════════════════════════════════════════════════════════
+PERFECT AND IMPERFECT SYLLOGISMS
+═══════════════════════════════════════════════════════════════════
+
+• FIRST-FIGURE MOODS (Barbara, Celarent, Darii, Ferio) are perfect—their validity is self-evident and requires no proof.
+
+• IMPERFECT SYLLOGISMS (in second and third figures) can be PERFECTED by reduction to first-figure moods.
+
+• CONVERSION is a key method of reduction: E-propositions and I-propositions convert simply; A-propositions convert only to I-propositions.
+
+═══════════════════════════════════════════════════════════════════
+PROOF METHODS
+═══════════════════════════════════════════════════════════════════
+
+• REDUCTIO AD IMPOSSIBILE is another method for proving validity: assume the contradictory of the desired conclusion and derive a contradiction.
+
+• EKTHESIS (exposition/setting out) is a third proof method involving selection of an individual instance.
+
+• Some premise combinations yield NO VALID CONCLUSION AT ALL—Aristotle proves invalidity by counterexample.
+
+═══════════════════════════════════════════════════════════════════
+MODAL SYLLOGISTIC
+═══════════════════════════════════════════════════════════════════
+
+• MODAL SYLLOGISTIC extends the theory to premises involving necessity, possibility, and contingency.
+
+• MIXED MODAL SYLLOGISMS (one necessary premise, one assertoric) can yield necessary conclusions under certain conditions.
+
+═══════════════════════════════════════════════════════════════════
+TERM LOGIC VS. PROPOSITIONAL LOGIC
+═══════════════════════════════════════════════════════════════════
+
+• The logic is fundamentally TERM LOGIC, not propositional logic—it concerns relations among terms via predication, not truth-functional connectives.
+
+• The syllogistic provides the FORMAL STRUCTURE FOR SCIENTIFIC DEMONSTRATION, though demonstration proper requires additional conditions treated in the Posterior Analytics.

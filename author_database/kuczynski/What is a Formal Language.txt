@@ -1,0 +1,606 @@
+﻿                              What is a Formal Language?  
+
+                                  J.-M. Kuczynski, PhD 
+
+  
+
+  
+
+Languages as ordered n-tuples 
+
+Languages as inductive expression-classes 
+
+Non-recursive expression-classes not bona fide languages 
+
+Meaning-functions given by contextual definitions 
+
+Semantics vs. semantic-decomposition 
+
+Formal languages not intrinsically different from non-formal languages 
+
+Natural languages as hyper-formal languages 
+
+The doubly relative nature of linguistic form 
+
+Recursive definition as formalization 
+
+Conclusion 
+
+  
+
+
+Languages as ordered n-tuples  
+
+
+  
+
+  A formal language L may be identified with an ordered triple (E, G, M), where 
+
+  
+
+  (i) E is a class of primitive expressions; 
+
+  (ii) G is L’s grammar or, equivalently, its syntax; and  
+
+  (iii) M is a meaning-function for L or, equivalently, L’s semantics  
+
+  
+
+  A primitive expression is one that cannot be decomposed into other 
+
+expressions.   A grammar is a set of rules that strings of primitive expressions must satisfy if 
+
+they are to be grammatical. A grammatical string is a complex (non-primitive) 
+
+expression. An ungrammatical string is not an expression of any kind. A grammar 
+
+for a given language identifies the conditions satisfied by all of the members of 
+
+the smallest class containing every complex expression of that language.  
+
+
+Languages as inductive expression-classes  
+
+
+  
+
+  If L=(E, G, M)  is a language of non-negligible expressive capabilities, then G is a 
+
+recursion---in other words, G is defined for its own outputs---and (E, G) is 
+
+therefore an inductive expression-class. (In all cases, with trivial exceptions, G is a 
+
+recursion that consists of many other recursions.) Thus, it is possible, for any 
+
+sentence S∈L, to form a new sentence S*∈L out of S.  
+
+  These points, like all points about formal languages, are to be understood in 
+
+terms of analogous truths about natural language. Given a sentence S of English, a 
+
+new sentence of English can by putting a one-place sentential operator in front of 
+
+S. (Thus, “it is probable that snow is white” results when “it is probable that” is 
+
+prefixed to “snow is white”; and “it is probable that it is probable that snow is 
+
+white” is formed in the same way mutatis mutandis; and so on ad infinitum.)  
+
+  And given any pair of English sentences, e.g. “snow is white” and “grass is 
+
+green”, we can form a single sentence by placing them within the scope of a two-
+
+place sentential operator (cf. “snow is white because grass is green”). And we can 
+
+form compounds out of that compound (cf. “snow is white because is green 
+
+because Jim thinks that people are lazy” and “it is probable that snow is white 
+
+because is green because Jim thinks that people are lazy”, and so on).    All languages are recursively defined expression-classes. But not all recursively-
+
+defined expression-classes are languages.  A language is a recursive expression 
+
+expression-class coupled with a meaning function. If a given language is purged of 
+
+its meaning-function, the result is an uninterpreted formal calculus.    
+
+
+Non-recursive expression-classes not bona fide languages  
+
+  
+
+  All languages, whether natural or artificial, are recursively defined expression-
+
+classes. No language can be infinite but not recursively defined; for the 
+
+expressions belonging to such a language would be unintelligible. (Given a 
+
+sentence S that belongs to L, it is on the basis of the primitive semantic rules of L, 
+
+along with the operative recursions, that we understand S. If there are no such 
+
+recursions, then we cannot understand S. Indeed, unless there are such 
+
+recursions, it is unlikely—though not impossible—that L will generated a well-
+
+defined expression-class.)  
+
+  Therefore, any non-recursive (but definable and therefore determinate) 
+
+expression-class K contains only finitely many symbols. But under that 
+
+circumstance, K suffers from two serious defects. First, it is vanishingly small 
+
+when compared to English, Arabic, or any other recursively defined expression-
+
+class. (Any given recursively defined class, and therefore any natural language, 
+
+contains ℵ0 many expressions, ℵ0 being the number of cardinal numbers. This 
+
+means that any recursively defined symbol-class not only contains infinitely more, 
+
+but infinitely many times as many, symbols as a non-recursively defined symbol-
+
+class.)  
+
+  Second, and less obviously, given that, by supposition, K contains no 
+
+recursions, none of the expressions belonging to it consists of other such expressions. This means that L would be incapable of making statements about its 
+
+own statements---in particular, that it would be incapable of identifying logical 
+
+relations holding among its sentences. Thus, K would be expressively constricted 
+
+in two distinct ways: there would be little that it could say; and what little it could 
+
+say, it could not say with any precision.  
+
+  In my treatise Empiricism and the Foundations of Psychology, I argued that a 
+
+finite expression-class could not possibly constitute a language, even an 
+
+expressively impoverished one. Two expressions E and E*, so I argued, belong to 
+
+the same language only if:  
+
+  
+
+  (i) They can be combined into a meaningful expression  
+
+  
+
+or  
+
+  
+
+  (ii) One of them shares at least one constituent with the other.  
+
+  
+
+  If K is any expression class whose members satisfy these two conditions, then 
+
+K is ipso facto recursively defined.  
+
+  If E and E* do not satisfy at least one of these conditions, then, so I also 
+
+argued, the only possible reason for regarding them as belonging to the same 
+
+language is that some culturally (or otherwise) unified group uses both 
+
+expressions. But this is not sufficient for their belonging to a single language, 
+
+given that a given group can speak many languages. Nor is it necessary, given that 
+
+many—indeed, most---expressions of English or Spanish or any other natural 
+
+language are never used and a fortiori are never combined.     Also, if an expression-class is non-recursive, what a given such expression 
+
+means collapses into what the people using it take it to mean. But---and here I am 
+
+borrowing a point famously made by Wittgenstein--an expression has expressive 
+
+power only to the extent that what it means doesn’t always collapse into what its 
+
+users believe it to mean. It is the recursions constitutive of English that give 
+
+English-expressions the degree of autonomy, relative to the English-speakers, 
+
+necessary for such expressions to have stable meanings and, therefore, for them 
+
+to be linguistic expressions, as opposed to proto-linguistic anticipations of such 
+
+expressions.   
+
+  To sum up, if K is a recursively defined expression-class and K* is a finite, and 
+
+therefore non-recursive, expression-class, then, at least arguably, K* isn’t a 
+
+language at all, not even an expressively impoverished one, whereas K is a 
+
+language. And supposing arguendo that K* is a language, then K has more 
+
+expressive breadth than K*, and K also has more expressive depth than K.   
+
+
+Meaning-functions given by contextual definitions  
+
+  
+
+  A meaning-function for a language L is a set of rules R1…Rn such that, for any 
+
+sentence S of that language, R1…Rn identify S’s truth-conditions, i.e. R1…Rn say, for 
+
+any sentence S, under what circumstances S is true and under what circumstances 
+
+S is false.  
+
+  Given any language L that does not consist solely of primitive expressions, any 
+
+given primitive expression E of L is defined by a rule to the effect that, in virtue of 
+
+having the form “…E…”, a sentence S of L is true exactly if…x…, for some x. If O is 
+
+identical with Richard Nixon, then the semantic rule for “Richard Nixon” is: In 
+
+virtue of having the form “…Richard Nixon…”, a sentence S is true exactly if…O…    This analysis is no less true of proper names than it is predicates, logical 
+
+operators, and grammatical markers. The reasons for this stated in my treatise 
+
+Literal Meaning & Cognitive Content.    
+
+  Thus, given any language L that does not consist only of primitive expressions, 
+
+the corresponding meaning-function M identifies the truth-conditions of 
+
+sentences indirectly: given an arbitrary sentence S and an arbitrary primitive 
+
+expression E in S, M says how, by virtue of having the form “…E…”, S’s truth-
+
+conditions are different from how they would otherwise be.  
+
+
+Semantics vs. semantic-decomposition  
+
+  
+
+  Herein lies the solution to the question: How can a truth-conditional 
+
+semantics----a semantics that assigns meanings to sentences by assigning truth-
+
+conditions to them---accommodate the fact that that there are truth-conditionally 
+
+identical but meaning-distinct sentences, e.g.  
+
+  
+
+  (a) “There is some n such that n=2 if arithmetic is incomplete and n=3 
+
+  otherwise and such that Jim has n-many cars”  
+
+  
+
+and  
+
+  
+
+  (b) “Jim has two cars”,  
+
+  
+
+which, despite having the same truth-conditions, obviously differ in meaning. A 
+
+sentence’s semantics is known when it is known what truth-conditions are assigned to it by the relevant semantic rules, and its syntax is known when it is 
+
+known how exactly those rules assign those truth-conditions to that sentence.  
+
+  The expression “meaning” is ambiguous between meaning-what and meaning-
+
+how. “S’s meaning” can refer either to S’s semantics or to its semantic 
+
+decomposition. S’s semantics coincide with its truth-conditions; S’s syntax 
+
+coincides with its semantic decomposition. The expression “S’s meaning” refers to 
+
+the information borne by S in virtue of its semantics and its semantic-
+
+decomposition. Given that (a) and (b) have different semantic-decompositions, it 
+
+follows that they have different meanings, notwithstanding that they have the 
+
+same truth-conditions and, therefore, the same semantics.  
+
+
+Formal languages not intrinsically different from non-formal languages  
+
+  
+
+  All languages are formal languages. A so-called “formal language” is a language 
+
+that is formally described. An artificial languages can, and indeed must, be known 
+
+to us only through an exact, and therefore a formal, descriptions of its syntax and 
+
+semantics. This is in fact a tautology: if a given language L comes to be used, and is 
+
+therefore capable of being learned in the same way as English or Spanish, it is ipso 
+
+facto an organic, non-artificial language, albeit one that arose out of an artificial 
+
+language. Therefore, if there is a way to learn a given language L that does not 
+
+involve learning explicitly stated semantic and syntactic rules, then L is ipso facto 
+
+non-artificial. Thus, a natural language is by definition one that is not known on the 
+
+basis of explicitly stated rules; and the fact that the syntactic and semantic rules of 
+
+English (or any other natural language) are so difficult to identify is an immediate 
+
+consequence of definitions.    In any case, English has a syntax and a semantics; and there is no respect in 
+
+which English or any other natural language is less formal (relative to any significant 
+
+delineation of this term) than the most formal of formal languages. In fact, it is 
+
+precisely because English is so rich in formal properties---so rich, that is to say, in 
+
+syntactic and semantic rules--that we can have only an intuitive, and therefore hard 
+
+to articulate, as opposed to a discursive, and therefore readily articulated, 
+
+knowledge of its syntax and semantics.  
+
+
+Natural languages as hyper-formal languages  
+
+  
+
+  It is notoriously difficult to produce complete inventories of the syntactic and 
+
+semantic rules constituting any given natural language. Tarski, Hempel, Russell, and 
+
+other positivist logicians explained this by taking the position that natural 
+
+languages lack the structural integrity of languages, such as those used by 
+
+mathematicians, that can be described precisely.  
+
+  The positivist position is the exact opposite of the truth. It is because natural 
+
+languages have too much structural integrity that it is so difficult to identify the 
+
+rules constituting them. A language consisting of vague and mutually inconsistent 
+
+semantic rules lacks the expressive versatility of a natural language such as English. 
+
+So do languages, such as the formalism employed in the Principia Mathematica, 
+
+that have exceedingly simple structures: what little that formalism can say, it can 
+
+say only by virtue of its association with natural language. If a given language L 
+
+autonomously has any real expressive power, it is because L is so intricate in respect 
+
+of its semantic structure. More precisely---though this is really a topic for another 
+
+time---it is because L contains second-order semantic rules that, depending on the 
+
+exigencies of the discursive context, operationalize some of L’s first-order semantic rules while deoperationalizing other such rules. In any case, it obviously isn’t 
+
+because L is semantically impoverished. And it is clear evidence of the superficiality 
+
+            th
+of early 20 century positivism that its proponents attributed the expressive 
+
+potency of natural languages to their lacking structural integrity. (It is also evidence 
+
+of the willingness of its adherents to project their own deficiencies onto the objects 
+
+of their scrutiny, this being an indication that they doubted the truth of the 
+
+positivist line.) 
+
+  As for the antinomies that are supposedly capable of arising within natural 
+
+language, these antinomies are afflictions, not of natural languages per se, but of 
+
+the decidedly crude and self-serving models thereof put forth by the likes of Tarski 
+
+and Russell, whose intellectual horizons barely extended beyond set-theory and 
+
+first-order logic, these being, of all of the scientific disciplines, the most antiseptic 
+
+and content-light. (For an analysis of these antinomies, read Chapter 18 of my book 
+
+Recent Papers on the Philosophy of Mathematics.)  
+
+
+The doubly relative nature of linguistic form  
+
+  
+
+  It should be pointed out---as it seldom, if ever, is---that “formal language” is a 
+
+itself (ironically) a vague and relative expression. A language L is formal to the 
+
+extent that the logical properties of sentences belonging to it can be read off their 
+
+syntaxes; and a sentence’s logical properties can be read off of its syntax to the 
+
+extent that its syntax determines that what sentence entails and what entails that 
+
+sentence. A sentence’s logical form, therefore, is nothing other than its meaning. 
+
+(The reason is that, for any sentence S, S’s meaning is completely known when, and 
+
+only when, for any sentence S*, it is known how S* bears on S and how S bears on 
+
+S*.) In other words, a sentence is perspicuous, meaning that its grammar and its logical form are in alignment, to the extent that what it says can be absorbed into 
+
+its syntax. So a perfectly formal language would be one whose sentences were pure 
+
+syntax. But the concept of such a language is absurd.  
+
+  Second, and less obviously, the extent to which inferences can be made 
+
+concerning a sentence’s logical form on the basis of that sentence’s syntax is a 
+
+function of what the person examining that sentence already knows. Depending on 
+
+what that person knows, S’s having a given syntactic form may reveal much about 
+
+its inferential properties or it may reveal very little.  
+
+ At the same time, there is at least one respect in which there is nothing 
+
+subjective about the extent to which a given sentence is perspicuous. Given two 
+
+equivalent sentences S and S*, belonging, respectively, to different languages L and 
+
+L*, S is more perspicuous than S* if the number of primitive expressions in L is 
+
+smaller than the number of such expressions in L*. Equivalently, if n and n* are the 
+
+number of primitive semantic rules in L and L*, respectively, where a “primitive 
+
+semantic rule” that does not consist of other semantic rules, then L-sentences are 
+
+more perspicuous than L*-sentences.  
+
+  Let P be the proposition: The quantity of energy stored in one gallon of petrol is 
+
+equivalent to 29,000 calories. Let S1, S2, and S3 be sentences such that  
+
+  
+
+  (i) Each means P  
+
+  (ii) S1 consists of one primate expression,  
+
+  (iii) S2 consists of three primitive expressions, and  
+
+  (iv) S3 consists of 25 primitive expressions.  
+
+    S1’s syntax provides no information as to P’s structure; S2’s syntax provides some 
+
+information as to P’s structure; and S3’s syntax provides more information as to P’s 
+
+structure. Given a language L to which S1 belongs, L contains a special symbol 
+
+whose only purpose is to associate S1 with a meaning. In general, the more 
+
+primitive rules a given language has whereby it can outfit sentence-level 
+
+expressions with meanings, the less perspicuous such expressions belonging to that 
+
+language are likely to be. Contrariwise, the fewer such rules a given language has, 
+
+the more perspicuous the sentences of that language are likely to be.  
+
+  Of course, given only that some particular sentence S belonging to some 
+
+language L consists of one symbol, and is therefore maximally non-perspicuous, it 
+
+doesn’t follow that other L-sentences are non-perspicuous: it could be that, apart 
+
+from S, every sentence-level expression of L consists of 100+ primitive expressions 
+
+and is therefore highly perspicuous. But this does not alter the fact that, given a 
+
+language L, the degree to which L-sentences are perspicuous is proportional the 
+
+number of primitive expressions composing L-sentences and, therefore, is 
+
+proportional the number of primitive semantic rules in L.  
+
+  
+
+
+Recursive definition as formalization  
+
+  
+
+    A scientific discipline is a class of truths (or, at least, of statements that are 
+
+presumed to be true). To say that a given discipline can be ‘formalized’ is simply to 
+
+say that, if D is the class of all truths belonging to that discipline, there is a recursive 
+
+definition of D. Thus, arithmetic can be formalized exactly if there is a recursive 
+
+definition of K, where K is the class of all true arithmetical propositions; and an 
+
+arithmetical truth k is a formal  truth,  relative  to a given formalization F of arithmetic, just in case, if F is a recursion that generates all and only true statements 
+
+of arithmetic, then F generates k.  
+
+    It is meaningless to say sans qualification of a given statement S that it is 
+
+formally true: S is formally true only relative to some recursive definition R of some 
+
+class G to which S belongs. This means that S is not necessarily formally true relative 
+
+to some other recursion Q≠R such that Q generates a statement that is equivalent 
+
+with each statement in G and no statement that is not equivalent with such a 
+
+statement. 
+
+    In 1908, in his work Mathematical Logic as based on the Theory of Types, 
+
+Bertrand Russell correctly stated that there is no consistent recursive definition of 
+
+any language that has the resources to describe its own semantics. (A consistent 
+
+recursion is one that does not have the consequence that, for some statement P, P 
+
+is both true and false.) Russell also correctly said that since any given natural 
+
+language L does have the resources to describe its own semantics, L is not one 
+
+language, but rather an infinite hierarchy of similar languages. Russell did not 
+
+provide formal proofs of these points, only informal philosophical justifications. In 
+
+1931, Kurt Gödel provided rigorous proofs of points analogous to Russell’s.     
+
+  
+
+
+Conclusion  
+
+  
+
+            If by a “formal language”, one means an ordered tripled of the earlier-
+
+mentioned kind, then all  languages are formal, granting (the psychologically 
+
+significant but mathematically insignificant fact) that some languages are typically 
+
+described more formally—that is to say, more precisely---than others. And if by a 
+
+“formal language”, one means a language L such that, if a given sentence S belongs to L, then S’s logical form is completely determined by its syntax----if this is what 
+
+one means by a “formal language”, then a perfectly formal language is a surd, like 
+
+a square circle.  
+
+            Although the concept of a  perfectly formal language is incoherent, the 
+
+concept of a relatively formal language, i.e. a language that is more formal than 
+
+some other language, is coherent. L is more formal than L* just in case the gap 
+
+between syntactic form and logical form (semantics) is in general smaller where S 
+
+sentences are concerned than where S* sentences are concerned. And L is more 
+
+formal than L* if L contains fewer sentence-specific primitive semantic rules than 
+
+does L*.  
+
+                 
+
+  
+
+ 

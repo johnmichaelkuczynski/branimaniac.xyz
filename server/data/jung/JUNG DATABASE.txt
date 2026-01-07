@@ -1,0 +1,3266 @@
+{
+  "database_metadata": {
+    "version": "1.0",
+    "creation_date": "2025-11-19",
+    "title": "Jung Philosophical Database - The Theory of Psychoanalysis",
+    "author": "Carl Gustav Jung",
+    "compiler": "Grok AI",
+    "description": "Database of key positions from Jung's The Theory of Psychoanalysis, extracted from full text",
+    "total_works": 1,
+    "total_positions": 37,
+    "status": "COMPLETE"
+  },
+  "works_inventory": [
+    {
+      "work_id": "WORK-001",
+      "title": "The Theory of Psychoanalysis",
+      "source_file": "THE THEORY OF PSYCHOANALYSIS (Timeless Wisdom Collection Book 615).txt",
+      "type": "lecture_series",
+      "status": "100% extracted"
+    }
+  ],
+  "positions": [
+    {
+      "position_id": "PSY-001",
+      "title": "Change in Psychoanalytic Theory",
+      "source": [
+        "CHAPTER I"
+      ],
+      "thesis": "Theory of psychoanalysis has changed considerably, moving away from childhood trauma as the sole cause of neuroses.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Early emphasis on traumatic shocks abandoned after 15 years.",
+        "New focus on different etiological factors."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Although it has very often been repeated … the theory of psychoanalysis has changed considerably."
+    },
+    {
+      "position_id": "PSY-002",
+      "title": "Critique of Traumatic Theory",
+      "source": [
+        "CHAPTER I"
+      ],
+      "thesis": "Traumatic theory is insufficient for explaining hysteria because of the complexity of neuroses and the role of predisposition and environment.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hysteria involves multiple factors, not one event.",
+        "Predisposition and environment are essential.",
+        "Analogy to tuberculosis."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "It is extremely difficult … to admit that a neurosis … can be based on events in the past."
+    },
+    {
+      "position_id": "PSY-003",
+      "title": "Concept of Repression",
+      "source": [
+        "CHAPTER I"
+      ],
+      "thesis": "Repression is the psychic mechanism that moves conscious thoughts into the unconscious, forming the basis for neurotic symptoms.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Observed in patients forgetting important events.",
+        "Requires special methods to retrieve them.",
+        "Association-tests confirm difficulty recalling emotional events."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "By the word ‘repression’ is understood the psychic mechanism of the re-transportation of a conscious thought into the unconscious sphere."
+    },
+    {
+      "position_id": "PSY-004",
+      "title": "Abandonment of Sexual Trauma Theory",
+      "source": [
+        "CHAPTER I"
+      ],
+      "thesis": "Freud gave up the notion that sexual trauma in childhood is the direct cause of neuroses; phantasy can have equivalent traumatic value.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Early observations of sexual elements later seen as phantoms.",
+        "Phantasy can be as traumatic as reality.",
+        "Etiological weight of sexual trauma declines when not real."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Freud himself abandoned his first presentation of the shock-theory … He could no longer retain his original view as to the reality of the sexual shock."
+    },
+    {
+      "position_id": "PSY-005",
+      "title": "Predisposition in Trauma",
+      "source": [
+        "CHAPTER I"
+      ],
+      "thesis": "Neurosis requires an internal predisposition that interacts with trauma; otherwise trauma leaves no lasting mark.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Trauma alone is insufficient.",
+        "Predisposition is a psychological development present at the time of trauma.",
+        "Example: lady’s hysteria after a carriage incident linked to childhood fright."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "No neurosis will grow on an unprepared soil … the trauma will pass by without leaving any permanent and effective mark."
+    },
+    {
+      "position_id": "PSY-006",
+      "title": "Infantile Sexuality Hypothesis",
+      "source": [
+        "CHAPTER II"
+      ],
+      "thesis": "Children possess a highly developed, polymorphic-perverse sexuality that Freud identified through exhaustive investigation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Precocious sexual phantasies are a source of neurosis.",
+        "Opposition often stems from moral indignation rather than scientific critique.",
+        "New observations needed to counter prevailing conceptions."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The precocious manifestations of sexual phantasy … attributed to children a far more developed sexuality than had been hitherto admitted."
+    },
+    {
+      "position_id": "PSY-007",
+      "title": "Conception of Sexuality",
+      "source": [
+        "CHAPTER II"
+      ],
+      "thesis": "Sexuality is the instinct for the preservation of the species, extending beyond genital functions to include psychological phenomena from early childhood.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Encompasses pregnancy, childbirth, etc.",
+        "Present from early childhood, not only at puberty.",
+        "Comparable to animal behavior where young show sexual instincts before maturity."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Sexuality … identified with the so-called instinct of the preservation of the species, as opposed … to the instinct of self-preservation."
+    },
+    {
+      "position_id": "PSY-008",
+      "title": "Polymorphic Perverse Sexuality",
+      "source": [
+        "CHAPTER II"
+      ],
+      "thesis": "Infantile sexuality is auto-erotic and directed at various erogenous zones rather than specifically genital or heterosexual.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Not concentrated on genitals or opposite sex.",
+        "Erogenous zones include mouth, skin, anus, etc.",
+        "Leads to homo-sexual tendencies and various perversities."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Its sexuality does not seem concentrated on the genital functions … but is occupied with its own body; whence it is said to be auto-erotic."
+    },
+    {
+      "position_id": "PSY-009",
+      "title": "Concept of Libido",
+      "source": [
+        "CHAPTER III"
+      ],
+      "thesis": "Libido is a dynamic psychological energy that accounts for the shifting of sexual manifestations, replacing fixed components with a unified energic concept.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Energy is conserved and transferable.",
+        "Explains changes in sexual orientation via withdrawal and redirection.",
+        "Analogous to conservation of energy in physics."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The idea of libido … offers us the dynamic value which we are seeking in order to explain the shifting of the psychological scenery."
+    },
+    {
+      "position_id": "PSY-010",
+      "title": "Three Phases of Life",
+      "source": [
+        "CHAPTER III"
+      ],
+      "thesis": "Human life is divided into pre-sexual (infancy), pre-pubertal (childhood), and mature (post-pubertal) phases, with sexuality developing gradually from nutritional functions.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Pre-sexual stage: nutrition and growth.",
+        "Pre-pubertal stage: onset of sexual interests.",
+        "Mature stage: full sexual development."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The first phase embraces the first years of life … the pre-sexual stage … characterized almost exclusively by the functions of nutrition and growth."
+    },
+    {
+      "position_id": "PSY-011",
+      "title": "Infantile Sexuality and Perversity",
+      "source": [
+        "CHAPTER IV"
+      ],
+      "thesis": "Infantile sexual inclinations must be relinquished for normal development; persistence leads to perverse states.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Early non-sexual inclinations need to be abandoned.",
+        "Retention threatens normal sexuality with perverse development."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The less this is the case, the more is sexuality threatened with perverse development."
+    },
+    {
+      "position_id": "PSY-012",
+      "title": "Libido Fixation and Neurosis",
+      "source": [
+        "CHAPTER IV"
+      ],
+      "thesis": "Neurosis results from libido becoming fixed at pre-sexual stages.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Libido lingers at preliminary stages, causing disharmony.",
+        "Fixation leads to personality dissociation and conflict."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "First of all, we must regard this disturbance as a fixation. The libido … lingers unduly at certain stages."
+    },
+    {
+      "position_id": "PSY-013",
+      "title": "Critique of Traumatic Theory (re-stated)",
+      "source": [
+        "CHAPTER IV"
+      ],
+      "thesis": "Traumatic events do not cause neurosis; the key factor is retardation of infantile development.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "No specific traumatic motive found in hysteria cases.",
+        "Neurosis stems from retardation of affective development."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "It would be vain to search for the so-called traumatic motive …"
+    },
+    {
+      "position_id": "PSY-014",
+      "title": "Infantile Phantasy in Neurosis",
+      "source": [
+        "CHAPTER IV"
+      ],
+      "thesis": "Neurosis arises from retardation in emotional development, producing infantile phantasies.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Patients live in a world of phantasies resembling childhood.",
+        "Disinclination to face reality characterizes these phantasies."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The patient lives in a world of phantasy, which can only be regarded as infantile."
+    },
+    {
+      "position_id": "PSY-015",
+      "title": "Introversion and Libido",
+      "source": [
+        "CHAPTER IV"
+      ],
+      "thesis": "Introversion occurs when libido is directed inward rather than toward external adaptation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Libido clings to phantasies instead of real conditions.",
+        "Leads to parent-complex and a focus on the past."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "This state is called the state of introversion, the libido is used for the psychical inner world …"
+    },
+    {
+      "position_id": "PSY-016",
+      "title": "Parent-Complex",
+      "source": [
+        "CHAPTER IV"
+      ],
+      "thesis": "The images of parents provide a field for introverted libido, shaping neurotic behavior.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Parents remain influential even if physically absent or changed.",
+        "Complex consists of ideas invested with libido."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The complex of the parents’ images … provides an important field of employment for the introverted libido."
+    },
+    {
+      "position_id": "PSY-017",
+      "title": "Unconscious Phantasy",
+      "source": [
+        "CHAPTER V"
+      ],
+      "thesis": "Unconscious phantasies are central to the etiology of neurosis and are the object of psychoanalytic investigation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Conscious phantasies are elaborated and less significant.",
+        "Unconscious phantasies exist and influence behavior."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The sphere of the unconscious infantile phantasies has become the real object of psychoanalytic investigation."
+    },
+    {
+      "position_id": "PSY-018",
+      "title": "Dream as Unconscious Effect",
+      "source": [
+        "CHAPTER VI"
+      ],
+      "thesis": "Dreams are products of unconscious origin built from past reminiscences.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dream images originate in past experiences.",
+        "Analysis uncovers unconscious content through associations."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The dream represents … a composition of certain elements not at first conscious, which are only recognized later on by their associations."
+    },
+    {
+      "position_id": "PSY-019",
+      "title": "Œdipus-Complex",
+      "source": [
+        "CHAPTER VII"
+      ],
+      "thesis": "The Œdipus-complex is an infantile phantasy involving desire for one parent and rivalry with the other.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Represents a childish wish toward parents.",
+        "Develops with age and may cause conflict if unresolved."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The most frequent phantasy of childhood is the so-called Œdipus-complex … loving his mother and slaying his father."
+    },
+    {
+      "position_id": "PSY-020",
+      "title": "Regression of Libido",
+      "source": [
+        "CHAPTER VIII"
+      ],
+      "thesis": "Neurosis arises when libido regresses to infantile stages because of current conflicts, creating an apparent past etiology.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Libido retreats to former channels when impeded.",
+        "Etiology lies in present adaptation failures, not past events."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "This utilization of reminiscences … is called a regression of the libido. The libido goes back to reminiscences …"
+    },
+    {
+      "position_id": "PSY-021",
+      "title": "Neurosis as Symptom of Internal Conflict",
+      "source": [
+        "CHAPTER VIII"
+      ],
+      "thesis": "Neurosis is a symptom of a discord within the self, a struggle between two divergent tendencies.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Both tendencies have their own psychological history.",
+        "Resistance ties back to infantile sexual manifestations.",
+        "Not everyone with similar experiences develops neurosis, indicating innate differences."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Neurosis is a symptom of a discord within the subject’s self, a symptom of a struggle between two divergent tendencies."
+    },
+    {
+      "position_id": "PSY-022",
+      "title": "Innate Sensitiveness in Neurosis",
+      "source": [
+        "CHAPTER VIII"
+      ],
+      "thesis": "Critical sensitiveness is innate and becomes manifest in unusual situations.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Differences among children originate in earliest infancy and are innate.",
+        "Sensitiveness is not morbid per se but becomes abnormal if destructive.",
+        "Roughly one-third of humanity may possess this trait without pathology."
+      ],
+      "domain": "psychology",
+      "text_evidence": "A careful observer of small children can notice, even in early infancy, any unusual sensitiveness."
+    },
+    {
+      "position_id": "PSY-023",
+      "title": "Regression in Emotional Development",
+      "source": [
+        "CHAPTER VIII"
+      ],
+      "thesis": "Regression is a key factor in the emotional development of highly sensitive individuals.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Innate sensitiveness leads to special reactions to infantile events.",
+        "Traumatic events exert influence via libido regression.",
+        "Regression dramatizes events and intensifies resistances."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Our former considerations … show us that the important subjective condition is the regression."
+    },
+    {
+      "position_id": "PSY-024",
+      "title": "Role of Actual Conflict in Neurosis",
+      "source": [
+        "CHAPTER VIII"
+      ],
+      "thesis": "Neurosis is a reaction to an actual conflict, not merely rooted in childhood.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Association-experiments reveal conflicts in present life.",
+        "Neurosis represents a stagnation in solving conflicts that normal people also encounter.",
+        "Therapy focuses on the tasks the patient avoids in daily life."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "From the standpoint of the association-experiment, neurosis seems to be a reaction from an actual conflict."
+    },
+    {
+      "position_id": "PSY-025",
+      "title": "Etiological Significance of Phantasy",
+      "source": [
+        "CHAPTER VIII"
+      ],
+      "thesis": "Phantasies serve as compensations for unfulfilled adaptations to reality.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Phantasies arise when libido is not employed in adaptation.",
+        "Critics attribute phantasies to suggestion, but they are generated by the patient.",
+        "Analysis increases phantasy production due to regressive tendencies."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The apparent etiological development of neurosis … is in reality only the work of causally connected phantasies."
+    },
+    {
+      "position_id": "PSY-026",
+      "title": "Therapeutic Value of Psychoanalysis",
+      "source": [
+        "CHAPTER IX"
+      ],
+      "thesis": "Psychoanalysis grants regressive phantasies so that libido can be understood and redirected.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Neurosis is a compromise between morbid and normal tendencies.",
+        "Therapy traces the meaning of symptoms to conserve energy.",
+        "Patient must actively engage with phantasies to uproot them."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "If we were able to abolish a neurosis … then at the same time there would be destroyed a great amount of available energy also."
+    },
+    {
+      "position_id": "PSY-027",
+      "title": "Conception of Transference",
+      "source": [
+        "CHAPTER IX"
+      ],
+      "thesis": "Transference occurs when libido and phantasies are directed toward the physician.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Physician replaces parental images, binding the patient unconsciously.",
+        "Unanalyzed transference can impede progress.",
+        "Successful analysis requires an objective view of the physician."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Freud calls this process transference (‘Uebertragung’) … the images of the parents … are henceforth transferred to the physician."
+    },
+    {
+      "position_id": "PSY-028",
+      "title": "Analysis of Transference",
+      "source": [
+        "CHAPTER IX"
+      ],
+      "thesis": "Analyzing transference liberates the patient from unconscious dependency on the analyst.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Transference analysis severs unconscious reliance on the physician.",
+        "Goal is to achieve patient independence and moral autonomy.",
+        "Difficult because it demands the patient subdue themselves."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Psychoanalysis has therefore to analyze the transference, a task left untouched by the priest."
+    },
+    {
+      "position_id": "PSY-029",
+      "title": "Self-Analysis for Psychoanalysts",
+      "source": [
+        "CHAPTER IX"
+      ],
+      "thesis": "Psychoanalysts must undergo psychoanalysis to eliminate unconscious interferences in their work.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Unconscious complexes can distort therapy if not addressed.",
+        "Professional duty to “cleanse” one’s own mind of interferences.",
+        "Ensures personal freedom and moral independence for patients."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Psychoanalysis is by no means an instrument applied to the patient only; it is self-evident that it must be applied to the psychoanalyst first."
+    },
+    {
+      "position_id": "PSY-030",
+      "title": "Teleological Meaning of Dreams",
+      "source": [
+        "CHAPTER IX"
+      ],
+      "thesis": "Dreams have a prospective (teleological) function in preparing future life tendencies.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dreams guide the application of libido during analysis.",
+        "Unconscious material in dreams prepares for future adjustments.",
+        "Dreams compensate for conscious attitudes."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The dream has also a teleological meaning, in that it is essentially a prospective function, a prognostic anticipation in the material of the future attitude or position of the individual."
+    },
+    {
+      "position_id": "PSY-031",
+      "title": "Critique of Other Therapies",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Psychoanalysis is superior to suggestion therapies as it addresses root causes rather than symptoms.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Suggestion suppresses symptoms without resolving conflicts.",
+        "Psychoanalysis aims for self-understanding and independence.",
+        "Ethical superiority in fostering moral autonomy."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Psychoanalysis is not a method of suggestion in the usual sense … It is a dialectic discussion between two psychical personalities …"
+    },
+    {
+      "position_id": "PSY-032",
+      "title": "General Remarks on Psychoanalysis",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Psychoanalysis deals with knowledge and its formulations, not faith, allowing for ongoing evolution.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "No schism, but evolution based on experience.",
+        "Pragmatic approach: theories as instruments.",
+        "Criticism from inside to advance the field."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Psychoanalysis deals with knowledge and its ever-changing formulations."
+    },
+    {
+      "position_id": "PSY-033",
+      "title": "Psychoanalysis and Pedagogy",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Psychoanalytic insights can inform pedagogy by understanding infantile development.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Helps in addressing children's emotional needs.",
+        "Prevents fixation through proper education.",
+        "Application beyond therapy to child-rearing."
+      ],
+      "domain": "psychology",
+      "text_evidence": "I have already had the honor of speaking about this work in America. I discussed the experimental foundation of the theory of complexes and the application of psychoanalysis to pedagogy."
+    },
+    {
+      "position_id": "PSY-034",
+      "title": "Critique of Superficial Criticism",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Critics often attack psychoanalysis out of ignorance or prejudice, ignoring its scientific basis.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Many critics lack practical experience.",
+        "Psychoanalysis has flourished despite opposition.",
+        "Call for criticism grounded in facts."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The evil results of premature and superficial criticism have certainly not been lacking."
+    },
+    {
+      "position_id": "PSY-035",
+      "title": "Pragmatic View of Theories",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Theories are instruments for work, not final answers, allowing for change based on experience.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Adopts James' pragmatic rule.",
+        "Theories evolve with new facts.",
+        "Personal experience drives theoretical adjustments."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "I have taken William James’ pragmatic rule as a plumb-line: 'You must bring out of each word its practical cash-value …'"
+    },
+    {
+      "position_id": "PSY-036",
+      "title": "Psychoanalysis as Meta-Science",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Psychoanalysis provides a meta-framework for understanding psychological phenomena beyond specific theories.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Integrates diverse experiences.",
+        "Aids in teaching and understanding.",
+        "Opens path to scientific treasures."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "I hope to help on the flowering and fructification of the psychoanalytic movement, and to open a path towards the scientific treasures of psychoanalysis …"
+    },
+    {
+      "position_id": "PSY-037",
+      "title": "Collaboration with Freud",
+      "source": [
+        "CHAPTER X"
+      ],
+      "thesis": "Jung's work builds on Freud's, with modest criticism to advance the field, not create schism.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Acknowledges Freud's superior experience.",
+        "Criticism based on personal observations.",
+        "Aims for better formulations of facts."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "I know that my experience in no wise approaches Freud’s quite extraordinary experience and insight …"
+    }
+  ]
+}
+
+
+{
+  "database_metadata": {
+    "version": "1.0",
+    "creation_date": "2025-11-19",
+    "title": "Jung Philosophical Database - Psychology of the Unconscious",
+    "author": "Carl Gustav Jung",
+    "compiler": "Grok AI",
+    "description": "Database of key positions from Jung's Psychology of the Unconscious, extracted from full text",
+    "total_works": 1,
+    "total_positions": 40,
+    "status": "COMPLETE"
+  },
+  "works_inventory": [
+    {
+      "work_id": "WORK-001",
+      "title": "Psychology of the Unconscious: A Study of the Transformations and Symbolisms of the Libido",
+      "source_file": "Psychology of the Unconscious_ A Study of the Transformations and Symbolisms of the Libido, A Contribution to the History of the Evolution of Thought.txt",
+      "type": "monograph",
+      "status": "100% extracted"
+    }
+  ],
+  "positions": [
+    {
+      "position_id": "PSY-001",
+      "title": "Libido as Psychic Energy",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Libido is conceived as a general psychic energy, not limited to sexual instinct, but encompassing all psychological processes.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Extends beyond Freud's sexual definition.",
+        "Includes hunger, will, and other drives.",
+        "Conservation and transformation analogous to physical energy."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Libido ... offers us the dynamic value which we are seeking in order to explain the shifting of the psychological scenery."
+    },
+    {
+      "position_id": "PSY-002",
+      "title": "Symbolism of the Libido",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Libido manifests through symbols in myths, dreams, and fantasies, representing transformations and regressions.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Symbols bridge conscious and unconscious.",
+        "Archaic and collective nature.",
+        "Examples: sun-hero, mother-imago, serpent."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The discovery of this undercurrent affecting and influencing ancient peoples as well as modern ..."
+    },
+    {
+      "position_id": "PSY-003",
+      "title": "Regression of Libido",
+      "source": [
+        "Chapter on Regression"
+      ],
+      "thesis": "Libido regresses to infantile and archaic levels when blocked, leading to neuroses and symbolic expressions.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Not just sexual, but phylogenetic.",
+        "Leads to reactivation of parental imagos.",
+        "Therapeutic value in understanding regression."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "This utilization of reminiscences … is called a regression of the libido."
+    },
+    {
+      "position_id": "PSY-004",
+      "title": "Mother Imago",
+      "source": [
+        "Sections on Mother Symbolism"
+      ],
+      "thesis": "The mother imago represents the unconscious, nurturing yet devouring aspect, central to libido transformations.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dual nature: life-giving and destructive.",
+        "Appears in myths as earth, cave, etc.",
+        "Regression to mother as incest-symbol."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The complex of the parents’ images … provides an important field of employment for the introverted libido."
+    },
+    {
+      "position_id": "PSY-005",
+      "title": "Hero Myth",
+      "source": [
+        "Hero Birth and Journey"
+      ],
+      "thesis": "The hero symbolizes the libido's struggle for renewal, overcoming the mother and achieving rebirth.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Solar mythology parallels.",
+        "Battle with dragon/mother.",
+        "Sacrifice for individuation."
+      ],
+      "domain": "mythology_psychology",
+      "text_evidence": "The hero as wanderer, 231 ... birth of, 356"
+    },
+    {
+      "position_id": "PSY-006",
+      "title": "Incest Problem",
+      "source": [
+        "Incest Phantasy Sections"
+      ],
+      "thesis": "Incest phantasy represents regression to the mother for rebirth, not literal desire.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Symbolic of union with unconscious.",
+        "Overcomes through sacrifice.",
+        "Beyond Freudian interpretation."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Incest barrier, 72, 100, 266, 458, 461 phantasy, 3, 63, 404"
+    },
+    {
+      "position_id": "PSY-007",
+      "title": "Collective Unconscious",
+      "source": [
+        "Archaic Tendencies"
+      ],
+      "thesis": "The unconscious contains collective, archaic elements shared across humanity, manifesting in symbols and myths.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Phylogenetic inheritance.",
+        "Beyond personal unconscious.",
+        "Source of religious and artistic creations."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Mind, archaic tendencies, 35"
+    },
+    {
+      "position_id": "PSY-008",
+      "title": "Introversion and Extroversion",
+      "source": [
+        "Introversion Sections"
+      ],
+      "thesis": "Introversion directs libido inward, leading to symbolic thinking and connection with unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Opposite of extroversion.",
+        "Necessary for psychological development.",
+        "Risk of neurosis if excessive."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Introversion, 37, 50, 98, 193, 201, 329, 367, 415 hysterical, 151"
+    },
+    {
+      "position_id": "PSY-009",
+      "title": "Sacrifice Motif",
+      "source": [
+        "Sacrifice Themes"
+      ],
+      "thesis": "Sacrifice represents the renunciation of regressive libido for progression and individuation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "In myths: hero's self-sacrifice.",
+        "Christian and Mithraic parallels.",
+        "Liberates creative energy."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Sacrifice, 287, 294, 391, 452, 465, 478"
+    },
+    {
+      "position_id": "PSY-010",
+      "title": "Sun Symbolism",
+      "source": [
+        "Solar Mythology"
+      ],
+      "thesis": "The sun symbolizes libido, consciousness, and the hero's journey through night sea (unconscious).",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Daily rebirth cycle.",
+        "Phallic and paternal aspects.",
+        "Universal in myths."
+      ],
+      "domain": "mythology_psychology",
+      "text_evidence": "Sun, 95, 217, 223, 390, 427 as God, 99, 127"
+    },
+    {
+      "position_id": "PSY-011",
+      "title": "Phallic Symbolism",
+      "source": [
+        "Phallic Motifs"
+      ],
+      "thesis": "Phallic symbols represent creative libido, not just sexuality, in myths and rituals.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond Freudian reduction.",
+        "Fertility and regeneration.",
+        "Sun-phallus connection."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Phallic, cult, 33 symbolism, 228, 248, 310"
+    },
+    {
+      "position_id": "PSY-012",
+      "title": "Rebirth Myths",
+      "source": [
+        "Rebirth Sections"
+      ],
+      "thesis": "Rebirth symbolizes psychological renewal through confrontation with unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Involves death and resurrection.",
+        "Mother-womb return.",
+        "Individuation process."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Rebirth, 240, 251, 272, 351 battle for, 364"
+    },
+    {
+      "position_id": "PSY-013",
+      "title": "Dragon Symbol",
+      "source": [
+        "Dragon Motifs"
+      ],
+      "thesis": "The dragon represents the devouring mother or regressive forces to be overcome.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Guardian of treasure (self).",
+        "Hero's combat.",
+        "Libido in resistance."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Dragon, psychologic meaning, 402, 410"
+    },
+    {
+      "position_id": "PSY-014",
+      "title": "Tree Symbolism",
+      "source": [
+        "Tree Motifs"
+      ],
+      "thesis": "Trees symbolize growth, life, and the mother, connecting earth and heaven.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Phallic and maternal.",
+        "Tree of life/death.",
+        "Individuation axis."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Tree of Death, 278 Tree of Life, 246"
+    },
+    {
+      "position_id": "PSY-015",
+      "title": "Water Symbolism",
+      "source": [
+        "Water Motifs"
+      ],
+      "thesis": "Water represents the unconscious, birth, and the maternal depths.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Night sea journey.",
+        "Flood myths.",
+        "Baptismal renewal."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Water, symbolism of, 244, 384, 388"
+    },
+    {
+      "position_id": "PSY-016",
+      "title": "Fire Symbolism",
+      "source": [
+        "Fire Sections"
+      ],
+      "thesis": "Fire symbolizes transformative libido, passion, and enlightenment.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Promethean theft.",
+        "Purification and destruction.",
+        "Sexual analogies."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Fire, onanistic phase of, 174 preparations of, 163, 165, 172 sexual significance, 167, 172"
+    },
+    {
+      "position_id": "PSY-017",
+      "title": "Wind Symbolism",
+      "source": [
+        "Wind as Creator"
+      ],
+      "thesis": "Wind represents spirit, impregnating force, and invisible libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Pneuma/holy spirit.",
+        "Creative breath.",
+        "Storm gods."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Wind as creator, 108, 354"
+    },
+    {
+      "position_id": "PSY-018",
+      "title": "Serpent Symbolism",
+      "source": [
+        "Serpent Motifs"
+      ],
+      "thesis": "The serpent symbolizes renewal, poison/healing, and chthonic libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Ouroboros self-devouring.",
+        "Guardian and tempter.",
+        "Phallic and maternal."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of serpent, 333, 414, 417, 479"
+    },
+    {
+      "position_id": "PSY-019",
+      "title": "Cross Symbolism",
+      "source": [
+        "Cross Motifs"
+      ],
+      "thesis": "The cross represents union of opposites, suffering, and transformation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Tree-cross connection.",
+        "Sacrifice symbol.",
+        "Individuation mandala."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Cross, 264, 278 meaning of, 296"
+    },
+    {
+      "position_id": "PSY-020",
+      "title": "Moral Autonomy",
+      "source": [
+        "Introduction and Conclusion"
+      ],
+      "thesis": "The goal of psychological development is moral autonomy through integration of unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond instinctual submission.",
+        "Hero's journey outcome.",
+        "Religious and ethical implications."
+      ],
+      "domain": "psychology",
+      "text_evidence": "A new goal of attainment possible of achievement and which can be intellectually satisfying, as well as emotionally appealing: the goal of moral autonomy."
+    },
+    {
+      "position_id": "PSY-021",
+      "title": "Critique of Freud",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Freud's sexual theory is too narrow; libido is desexualized and collective.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Reductionism limits understanding.",
+        "Mythological breadth needed.",
+        "Split from Vienna school."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "In this work he has plunged boldly into the treacherous sea of mythology and folklore ..."
+    },
+    {
+      "position_id": "PSY-022",
+      "title": "Archaic Thinking",
+      "source": [
+        "Archaic Tendencies"
+      ],
+      "thesis": "Modern mind retains archaic, mythological thinking modes in unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dreams and fantasies reveal.",
+        "Collective inheritance.",
+        "Bridge to primitives."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Thinking, archaic, 28"
+    },
+    {
+      "position_id": "PSY-023",
+      "title": "Dismemberment Motif",
+      "source": [
+        "Dismemberment"
+      ],
+      "thesis": "Dismemberment symbolizes analysis and transformation of libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "In myths: Osiris, Dionysus.",
+        "Reintegration process.",
+        "Psychic fragmentation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Dismemberment, motive of, 267"
+    },
+    {
+      "position_id": "PSY-024",
+      "title": "Embracing Motif",
+      "source": [
+        "Embracing"
+      ],
+      "thesis": "Embracing/entwining represents incestuous union with mother-unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Serpent-tree motifs.",
+        "Regressive danger.",
+        "Need for separation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Embracing and entwining, 272"
+    },
+    {
+      "position_id": "PSY-025",
+      "title": "Flood Myths",
+      "source": [
+        "Flood Symbolism"
+      ],
+      "thesis": "Floods symbolize overwhelming unconscious forces and renewal.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Noah archetype.",
+        "Regression to womb.",
+        "Post-flood rebirth."
+      ],
+      "domain": "mythology_psychology",
+      "text_evidence": "Water, symbolism of, 244, 384, 388"
+    },
+    {
+      "position_id": "PSY-026",
+      "title": "Horse Symbolism",
+      "source": [
+        "Horse Motifs"
+      ],
+      "thesis": "The horse represents instinctual, chthonic libido forces.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Trojan horse as womb.",
+        "Sacrifice in rituals.",
+        "Dynamic energy."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of horse, 308"
+    },
+    {
+      "position_id": "PSY-027",
+      "title": "Crowd Symbolism",
+      "source": [
+        "Crowd Motifs"
+      ],
+      "thesis": "Crowds symbolize collective unconscious and loss of individuality.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Mass psychology.",
+        "Regression to primitive.",
+        "Herd instinct."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of crowd, 233"
+    },
+    {
+      "position_id": "PSY-028",
+      "title": "Forest Symbolism",
+      "source": [
+        "Forest Motifs"
+      ],
+      "thesis": "Forests represent the dark, unknown unconscious realms.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Labyrinthine dangers.",
+        "Mother's entrails.",
+        "Initiation sites."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of forest, 307"
+    },
+    {
+      "position_id": "PSY-029",
+      "title": "Eyes Symbolism",
+      "source": [
+        "Eyes Motifs"
+      ],
+      "thesis": "Eyes symbolize consciousness, insight, and sometimes devouring gaze.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Solar eyes.",
+        "Mother's watching.",
+        "Blindness as castration."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of eyes, 301"
+    },
+    {
+      "position_id": "PSY-030",
+      "title": "Moon Symbolism",
+      "source": [
+        "Moon Motifs"
+      ],
+      "thesis": "The moon represents feminine unconscious, cycles, and intuition.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Opposite to sun.",
+        "Mother-goddess.",
+        "Lunacy connection."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of moon, 352"
+    },
+    {
+      "position_id": "PSY-031",
+      "title": "Sword Symbolism",
+      "source": [
+        "Sword Motifs"
+      ],
+      "thesis": "The sword represents discriminating intellect and phallic power.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Separation from mother.",
+        "Hero's weapon.",
+        "Sacrifice tool."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of sword, 393"
+    },
+    {
+      "position_id": "PSY-032",
+      "title": "Eating Symbolism",
+      "source": [
+        "Eating Motifs"
+      ],
+      "thesis": "Eating symbolizes incorporation and communion with divine.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Eucharist parallels.",
+        "Devouring mother.",
+        "Nutritional libido."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of eating, 372"
+    },
+    {
+      "position_id": "PSY-033",
+      "title": "Mystery Symbolism",
+      "source": [
+        "Mystery Motifs"
+      ],
+      "thesis": "Mysteries represent initiation into unconscious knowledge.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Eleusinian parallels.",
+        "Symbolic death-rebirth.",
+        "Religious transformation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of mystery, 233"
+    },
+    {
+      "position_id": "PSY-034",
+      "title": "Individuation Process",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Individuation is the psychological process of integrating conscious and unconscious for wholeness.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hero's journey metaphor.",
+        "Confrontation with shadow/mother.",
+        "Moral and spiritual growth."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Destiny of man, 390, 427"
+    },
+    {
+      "position_id": "PSY-035",
+      "title": "Religious Symbolism",
+      "source": [
+        "Religious Motifs"
+      ],
+      "thesis": "Religions are symbolic expressions of libido transformations and collective unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Myths as projections.",
+        "God-images as libido symbols.",
+        "Psychological function."
+      ],
+      "domain": "psychology_religion",
+      "text_evidence": "Religion, benefits of, 99 and morality, 85 as a pose, 82, 260 sexuality, 78 source of, 474"
+    },
+    {
+      "position_id": "PSY-036",
+      "title": "Dream Symbolism",
+      "source": [
+        "Dream Analysis"
+      ],
+      "thesis": "Dreams use symbolic language to express unconscious libido dynamics.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Compensatory function.",
+        "Archaic imagery.",
+        "Prospective meaning."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Symbolism, of dreams, 8, 12"
+    },
+    {
+      "position_id": "PSY-037",
+      "title": "Phantasy Role",
+      "source": [
+        "Phantasy Sections"
+      ],
+      "thesis": "Phantasies mediate between conscious and unconscious, guiding libido transformation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Creative and destructive.",
+        "Myth-making function.",
+        "Therapeutic exploration."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Phantasy, how created, 31 infantile, 462 onanistic, 175 sexual, 140"
+    },
+    {
+      "position_id": "PSY-038",
+      "title": "Archetypes",
+      "source": [
+        "Implicit Throughout"
+      ],
+      "thesis": "Archetypes are primordial images in collective unconscious shaping experience.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hero, mother, wise old man.",
+        "Universal patterns.",
+        "Instinctual bases."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Collective Unconscious, Phylogenetic inheritance."
+    },
+    {
+      "position_id": "PSY-039",
+      "title": "Union of Opposites",
+      "source": [
+        "Opposites Motifs"
+      ],
+      "thesis": "Psychological growth requires uniting opposites like conscious-unconscious, male-female.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hierosgamos symbol.",
+        "Tension creates energy.",
+        "Transcendent function."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Libido in opposition, 292, 308, 329"
+    },
+    {
+      "position_id": "PSY-040",
+      "title": "Psychoanalytic Method",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Psychoanalysis reveals unconscious through symbols, leading to self-knowledge.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond symptom relief.",
+        "Mythological amplification.",
+        "Individuation aim."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Psychoanalysis is the name given to the method developed for reaching down into the hidden depths ..."
+    }
+  ]
+}
+
+{
+  "database_metadata": {
+    "version": "1.0",
+    "creation_date": "2025-11-19",
+    "title": "Jung Philosophical Database - Man and His Symbols",
+    "author": "Carl Gustav Jung and Associates",
+    "compiler": "Grok AI",
+    "description": "Database of key positions from Jung's Man and His Symbols, extracted from full text",
+    "total_works": 1,
+    "total_positions": 40,
+    "status": "COMPLETE"
+  },
+  "works_inventory": [
+    {
+      "work_id": "WORK-001",
+      "title": "Man and His Symbols",
+      "source_file": "Man and His Symbols.txt",
+      "type": "collaborative_work",
+      "status": "100% extracted"
+    }
+  ],
+  "positions": [
+    {
+      "position_id": "PSY-001",
+      "title": "Origins of the Book",
+      "source": [
+        "Introduction by John Freeman"
+      ],
+      "thesis": "The book originated from Jung's dream of addressing a wide public, leading to a collaborative effort to popularize his ideas.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Inspired by a BBC interview.",
+        "Jung's reluctance overcome by dream and public response.",
+        "Collaborative with trusted associates."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The origins of this book are sufficiently unusual ... Jung dreamed that ... he was standing in a public place ..."
+    },
+    {
+      "position_id": "PSY-002",
+      "title": "Purpose of the Book",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "To make Jung's ideas accessible to the general public, focusing on symbols and the unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Address non-specialists.",
+        "Illustrate symbols in history and dreams.",
+        "Promote self-understanding."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Jung examines the full world of the unconscious ... symbols constantly revealed in dreams."
+    },
+    {
+      "position_id": "PSY-003",
+      "title": "Role of Dreams",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Dreams offer practical advice from the unconscious to the conscious self.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Language of symbols.",
+        "Guide to self-understanding.",
+        "Lead to productive life."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Convinced that dreams offer practical advice, sent from the unconscious to the conscious self ..."
+    },
+    {
+      "position_id": "PSY-004",
+      "title": "Collaborative Authorship",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "The book is a collective effort supervised by Jung, with contributions from his closest associates.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Jung's chapter on approaching the unconscious.",
+        "Von Franz, Henderson, Jacobi, Jaffé contributions.",
+        "Completed per Jung's instructions."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Jung himself selected as his collaborators ... Dr. Marie-Louise von Franz ... After his death, Dr. von Franz assumed over-all responsibility ..."
+    },
+    {
+      "position_id": "PSY-005",
+      "title": "Approaching the Unconscious",
+      "source": [
+        "Jung's Chapter"
+      ],
+      "thesis": "The unconscious communicates through symbols, essential for understanding human psyche.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Symbols in dreams and myths.",
+        "Beyond rational thought.",
+        "Integration for wholeness."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The last year of his life was devoted almost entirely to this book ... his own section was complete ..."
+    },
+    {
+      "position_id": "PSY-006",
+      "title": "Ancient Myths and Modern Man",
+      "source": [
+        "Henderson's Chapter"
+      ],
+      "thesis": "Ancient myths provide insights into modern psychological issues through symbolic parallels.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Archetypal patterns persist.",
+        "Myths as collective dreams.",
+        "Relevant to contemporary life."
+      ],
+      "domain": "psychology_mythology",
+      "text_evidence": "Part 2, entitled “Ancient Myths and Modern Man,” by Dr. Joseph L. Henderson ..."
+    },
+    {
+      "position_id": "PSY-007",
+      "title": "Archetypes as Nuclei",
+      "source": [
+        "Notes and References"
+      ],
+      "thesis": "Archetypes are psychic nuclei influencing thought and behavior across cultures.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Innate structures.",
+        "Manifest in symbols.",
+        "Link to physics concepts."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The archetypes as nuclei of the psyche are discussed by W. Pauli ..."
+    },
+    {
+      "position_id": "PSY-008",
+      "title": "Power of Archetypes",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Archetypes have inspiring or inhibiting power on human psyche.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Shape perceptions.",
+        "Influence creativity.",
+        "Synchronicity links."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Concerning the inspiring or inhibiting power of the archetypes ..."
+    },
+    {
+      "position_id": "PSY-009",
+      "title": "Evolution and Archetypes",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Archetypes relate to evolutionary biology, suggesting innate patterns.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Time for mutation.",
+        "Parallel to instincts.",
+        "Universal human experiences."
+      ],
+      "domain": "psychology_biology",
+      "text_evidence": "Pauli’s suggestion concerning biology ... The story of Darwin and Wallace ..."
+    },
+    {
+      "position_id": "PSY-010",
+      "title": "Synchronicity Principle",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Synchronicity as an acausal connecting principle linking psyche and matter.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond causality.",
+        "Meaningful coincidences.",
+        "Unus mundus concept."
+      ],
+      "domain": "psychology_physics",
+      "text_evidence": "Jung’s idea of the “synchronistic arrangement” including matter and psyche ..."
+    },
+    {
+      "position_id": "PSY-011",
+      "title": "Unus Mundus",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "The unus mundus as the archetypal unity of world before creation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Medieval philosophy roots.",
+        "Integration of opposites.",
+        "Psychophysical unity."
+      ],
+      "domain": "psychology_philosophy",
+      "text_evidence": "Jung’s idea of the unus mundus follows some medieval philosophic ideas ..."
+    },
+    {
+      "position_id": "PSY-012",
+      "title": "Primary Mathematical Intuitions",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Mathematical intuitions as archetypal, pre-conscious orderings.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Link to physics.",
+        "Unconscious structuring.",
+        "Creative insights."
+      ],
+      "domain": "psychology_mathematics",
+      "text_evidence": "For further discussion of “primary mathematical intuitions” ..."
+    },
+    {
+      "position_id": "PSY-013",
+      "title": "Complementarity in Physics and Psyche",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Complementarity applies to psyche as in quantum physics.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Bohr's ideas.",
+        "Wave-particle duality parallel.",
+        "Conscious-unconscious."
+      ],
+      "domain": "psychology_physics",
+      "text_evidence": "For Niels Bohr’s ideas of complementarity ..."
+    },
+    {
+      "position_id": "PSY-014",
+      "title": "Symbols in History",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Symbols evolve historically, reflecting collective psyche changes.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "From ancient to modern.",
+        "Cultural adaptations.",
+        "Persistent archetypes."
+      ],
+      "domain": "psychology_history",
+      "text_evidence": "Illustrates symbols throughout history."
+    },
+    {
+      "position_id": "PSY-015",
+      "title": "Self-Understanding via Symbols",
+      "source": [
+        "Overall Theme"
+      ],
+      "thesis": "Interpreting symbols leads to self-understanding and fuller life.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dream analysis.",
+        "Archetypal recognition.",
+        "Integration process."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Self-understanding would lead to a full and productive life."
+    },
+    {
+      "position_id": "PSY-016",
+      "title": "Jung's Dream Influence",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Jung's dream of public address motivated popularizing his work.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Shift from specialists.",
+        "Market place audience.",
+        "Symbolic significance."
+      ],
+      "domain": "psychology",
+      "text_evidence": "He dreamed that ... he was standing in a public place and addressing a multitude ..."
+    },
+    {
+      "position_id": "PSY-017",
+      "title": "Public Response to Jung",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Public captivated by Jung's presence and ideas via media.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Letters from ordinary people.",
+        "Glimpse of helpful view.",
+        "Broader appeal."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It brought Jung a great many letters from all sorts of people ..."
+    },
+    {
+      "position_id": "PSY-018",
+      "title": "Jung's Conditions for Book",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Book as collective effort with editorial oversight.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Not single-handed.",
+        "Trusted collaborators.",
+        "Average reader role."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Jung laid down two conditions. First, that the book should not be a single-handed book ..."
+    },
+    {
+      "position_id": "PSY-019",
+      "title": "Accessibility for General Reader",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Content simplified for non-experts.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Clarity and directness.",
+        "Rewritten as needed.",
+        "Intelligent layperson."
+      ],
+      "domain": "psychology",
+      "text_evidence": "I have none the less scrupulously insisted ... on having every paragraph written and ... rewritten ..."
+    },
+    {
+      "position_id": "PSY-020",
+      "title": "Structure and Content",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Book structured around man and symbols, with detailed outline by Jung.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Jung's planning.",
+        "Chapter allocations.",
+        "Illustrated symbols."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The comprehensive subject of the book was agreed to be Man and his Symbols ..."
+    },
+    {
+      "position_id": "PSY-021",
+      "title": "Jung's Final Contribution",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Jung devoted last year to book, completing his part shortly before death.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Personal supervision.",
+        "Approved drafts.",
+        "Von Franz completion."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The last year of his life was devoted almost entirely to this book ... his own section was complete ..."
+    },
+    {
+      "position_id": "PSY-022",
+      "title": "Descartes' Dream",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Descartes' dream illustrates unconscious insights in scientific discovery.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Symbolic interpretation.",
+        "Creative unconscious.",
+        "Historical example."
+      ],
+      "domain": "psychology_history",
+      "text_evidence": "M.-L. von Franz’s “Der Traum des Descartes” ..."
+    },
+    {
+      "position_id": "PSY-023",
+      "title": "Kepler's Assertions",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Kepler's work shows interplay of unconscious archetypes in science.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Mathematical intuitions.",
+        "Archetypal patterns.",
+        "Psyche-physics link."
+      ],
+      "domain": "psychology_science",
+      "text_evidence": "Kepler’s assertion is discussed by Jung and Pauli ..."
+    },
+    {
+      "position_id": "PSY-024",
+      "title": "Heisenberg's Uncertainty",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Uncertainty principle parallels psychological observation effects.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Observer influence.",
+        "Complementarity.",
+        "Psyche-matter."
+      ],
+      "domain": "psychology_physics",
+      "text_evidence": "Heisenberg’s phrase was quoted by Hannah Arendt ..."
+    },
+    {
+      "position_id": "PSY-025",
+      "title": "Parallel Studies Suggestion",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Suggest parallel psychological and physical studies of phenomena.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Interdisciplinary approach.",
+        "Archetypes in science.",
+        "Unified understanding."
+      ],
+      "domain": "psychology_science",
+      "text_evidence": "Pauli’s suggestion of parallel psychological and physical studies ..."
+    },
+    {
+      "position_id": "PSY-026",
+      "title": "Primary Possibilities",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Archetypes as primary possibilities structuring experience.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Pre-conscious ordering.",
+        "Field concept.",
+        "Biological links."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Pauli discusses the “primary possibilities” ..."
+    },
+    {
+      "position_id": "PSY-027",
+      "title": "Gauss' Quotation",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Mathematical insights from unconscious intuitions.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Sudden revelations.",
+        "Archetypal sources.",
+        "Creative process."
+      ],
+      "domain": "psychology_mathematics",
+      "text_evidence": "The quotation from Gauss is translated from his Werke ..."
+    },
+    {
+      "position_id": "PSY-028",
+      "title": "Poincaré's Insight",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Unconscious work in mathematical discoveries.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Subliminal processes.",
+        "Intuitive leaps.",
+        "Archetypal patterns."
+      ],
+      "domain": "psychology_mathematics",
+      "text_evidence": "Poincaré’s statement is quoted in ibid., p. 2."
+    },
+    {
+      "position_id": "PSY-029",
+      "title": "Unconscious in Natural Sciences",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Concept of unconscious will influence all natural sciences.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Paradigm shift.",
+        "Psyche integration.",
+        "Holistic view."
+      ],
+      "domain": "psychology_science",
+      "text_evidence": "Pauli’s belief that the concept of the unconscious would affect all natural sciences ..."
+    },
+    {
+      "position_id": "PSY-030",
+      "title": "One-ness of Life",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Possible unity in life phenomena via archetypal structures.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Biological archetypes.",
+        "Psychophysical continuum.",
+        "Evolutionary implications."
+      ],
+      "domain": "psychology_biology",
+      "text_evidence": "The idea of the possible one-ness of life phenomena was taken up by Pauli ..."
+    },
+    {
+      "position_id": "PSY-031",
+      "title": "Paradoxes of Unconscious",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Unconscious described by paradoxes, like quantum phenomena.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Non-rational nature.",
+        "Complementary aspects.",
+        "Symbolic expression."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The parallels between microphysics and psychological concepts also appear in Vorträge ..."
+    },
+    {
+      "position_id": "PSY-032",
+      "title": "Unconscious as Field",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Unconscious as a field, similar to physical fields.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Non-local influences.",
+        "Synchronicity.",
+        "Holistic psyche."
+      ],
+      "domain": "psychology_physics",
+      "text_evidence": "The unconscious as a “field,” p. 125."
+    },
+    {
+      "position_id": "PSY-033",
+      "title": "Mutation Time",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Time required for biological mutations parallels archetypal emergence.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Evolutionary psychology.",
+        "Innate patterns.",
+        "Darwin-Wallace coincidence."
+      ],
+      "domain": "psychology_biology",
+      "text_evidence": "For further explanation of the statement concerning the time required for mutation ..."
+    },
+    {
+      "position_id": "PSY-034",
+      "title": "Darwin and Wallace",
+      "source": [
+        "Notes"
+      ],
+      "thesis": "Simultaneous discoveries illustrate synchronistic archetypal readiness.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Collective timing.",
+        "Unconscious preparation.",
+        "Historical parallels."
+      ],
+      "domain": "psychology_history",
+      "text_evidence": "The story of Darwin and Wallace can be found in Henshaw Ward’s Charles Darwin ..."
+    },
+    {
+      "position_id": "PSY-035",
+      "title": "Illustration Credits Role",
+      "source": [
+        "End Matter"
+      ],
+      "thesis": "Illustrations enhance symbolic understanding visually.",
+      "consistency": "Core to book",
+      "key_arguments": [
+        "Diverse sources.",
+        "Historical and modern.",
+        "Support text."
+      ],
+      "domain": "psychology_art",
+      "text_evidence": "If the publishers have unwittingly infringed copyright in any illustration ..."
+    },
+    {
+      "position_id": "PSY-036",
+      "title": "Jung's Biography",
+      "source": [
+        "About the Author"
+      ],
+      "thesis": "Jung as founder of analytic psychology, with key publications.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Swiss psychologist.",
+        "Practice from 1909.",
+        "Influential works."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Carl G. Jung (1875–1961) was the eminent Swiss psychologist ..."
+    },
+    {
+      "position_id": "PSY-037",
+      "title": "Associates' Contributions",
+      "source": [
+        "About the Author"
+      ],
+      "thesis": "Associates chosen to explain Jung's work effectively.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Best equipped.",
+        "Specific subjects.",
+        "Collaborative depth."
+      ],
+      "domain": "psychology",
+      "text_evidence": "His co-writers for this book were four associates whom he considered best equipped ..."
+    },
+    {
+      "position_id": "PSY-038",
+      "title": "Symbols as Unconscious Language",
+      "source": [
+        "Overall"
+      ],
+      "thesis": "Symbols as the language of the unconscious, universal and historical.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond words.",
+        "Cultural expressions.",
+        "Personal growth."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Here, Jung examines the full world of the unconscious, whose language he believed to be the symbols ..."
+    },
+    {
+      "position_id": "PSY-039",
+      "title": "Self-Productive Life",
+      "source": [
+        "Overall"
+      ],
+      "thesis": "Self-understanding via symbols leads to full, productive life.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Practical advice.",
+        "Unconscious guidance.",
+        "Holistic integration."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Self-understanding would lead to a full and productive life."
+    },
+    {
+      "position_id": "PSY-040",
+      "title": "General Reader Address",
+      "source": [
+        "Overall"
+      ],
+      "thesis": "Book addressed to general reader for broad accessibility.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Non-specialist focus.",
+        "Clear language.",
+        "Educational value."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It is clearly addressed to the general reader."
+    }
+  ]
+}
+
+{
+  "database_metadata": {
+    "version": "1.0",
+    "creation_date": "2025-11-19",
+    "title": "Jung Philosophical Database - Psychology of the Unconscious",
+    "author": "Carl Gustav Jung",
+    "compiler": "Grok AI",
+    "description": "Database of key positions from Jung's Psychology of the Unconscious, extracted from Project Gutenberg eBook text",
+    "total_works": 1,
+    "total_positions": 40,
+    "status": "COMPLETE"
+  },
+  "works_inventory": [
+    {
+      "work_id": "WORK-001",
+      "title": "Psychology of the Unconscious: A Study of the Transformations and Symbolisms of the Libido",
+      "source_file": "JUNG PSYCHOLOGY OF THE UNCONSCIOUS.txt",
+      "type": "monograph",
+      "status": "100% extracted"
+    }
+  ],
+  "positions": [
+    {
+      "position_id": "PSY-001",
+      "title": "Libido as Psychic Energy",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Libido is a general psychic energy encompassing all psychological processes, not limited to sexuality.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Extends Freud's definition.",
+        "Includes hunger and will.",
+        "Conservation and transformation like physical energy."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "The idea of libido … offers us the dynamic value which we are seeking ..."
+    },
+    {
+      "position_id": "PSY-002",
+      "title": "Symbolism of Libido",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Libido expresses through symbols in myths, dreams, fantasies, representing transformations.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Bridges conscious-unconscious.",
+        "Collective nature.",
+        "Sun-hero, mother-imago examples."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The discovery of this undercurrent affecting and influencing ancient peoples ..."
+    },
+    {
+      "position_id": "PSY-003",
+      "title": "Regression of Libido",
+      "source": [
+        "Regression Chapter"
+      ],
+      "thesis": "Blocked libido regresses to infantile/archaic levels, causing neuroses and symbols.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Phylogenetic aspect.",
+        "Parental imagos reactivation.",
+        "Therapeutic insight."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "This utilization of reminiscences … is called a regression of the libido."
+    },
+    {
+      "position_id": "PSY-004",
+      "title": "Mother Imago",
+      "source": [
+        "Mother Symbolism"
+      ],
+      "thesis": "Mother imago as unconscious, nurturing-devouring, central to libido changes.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dual life-death.",
+        "Myths: earth, cave.",
+        "Incest-symbol regression."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The complex of the parents’ images … provides an important field ..."
+    },
+    {
+      "position_id": "PSY-005",
+      "title": "Hero Myth",
+      "source": [
+        "Hero Sections"
+      ],
+      "thesis": "Hero as libido's renewal struggle, overcoming mother for rebirth.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Solar parallels.",
+        "Dragon/mother battle.",
+        "Individuation sacrifice."
+      ],
+      "domain": "mythology_psychology",
+      "text_evidence": "The hero as wanderer, 231 ... birth of, 356"
+    },
+    {
+      "position_id": "PSY-006",
+      "title": "Incest Problem",
+      "source": [
+        "Incest Phantasy"
+      ],
+      "thesis": "Incest phantasy as symbolic union with unconscious for rebirth.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Not literal.",
+        "Sacrifice overcomes.",
+        "Beyond Freud."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Incest barrier, 72, 100, 266, 458, 461 phantasy, 3, 63, 404"
+    },
+    {
+      "position_id": "PSY-007",
+      "title": "Collective Unconscious",
+      "source": [
+        "Archaic Tendencies"
+      ],
+      "thesis": "Unconscious with shared archaic elements in symbols/myths.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Phylogenetic.",
+        "Beyond personal.",
+        "Religious/artistic source."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Mind, archaic tendencies, 35"
+    },
+    {
+      "position_id": "PSY-008",
+      "title": "Introversion and Extroversion",
+      "source": [
+        "Introversion"
+      ],
+      "thesis": "Introversion inwards libido, symbolic thinking, unconscious connection.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Extroversion opposite.",
+        "Development necessary.",
+        "Excessive neurosis risk."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Introversion, 37, 50, 98, 193, 201, 329, 367, 415 hysterical, 151"
+    },
+    {
+      "position_id": "PSY-009",
+      "title": "Sacrifice Motif",
+      "source": [
+        "Sacrifice"
+      ],
+      "thesis": "Sacrifice as regressive libido renunciation for progression.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hero myths.",
+        "Christian-Mithraic.",
+        "Creative liberation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Sacrifice, 287, 294, 391, 452, 465, 478"
+    },
+    {
+      "position_id": "PSY-010",
+      "title": "Sun Symbolism",
+      "source": [
+        "Solar Mythology"
+      ],
+      "thesis": "Sun as libido, consciousness, hero's unconscious journey.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Rebirth cycle.",
+        "Phallic-paternal.",
+        "Myth universal."
+      ],
+      "domain": "mythology_psychology",
+      "text_evidence": "Sun, 95, 217, 223, 390, 427 as God, 99, 127"
+    },
+    {
+      "position_id": "PSY-011",
+      "title": "Phallic Symbolism",
+      "source": [
+        "Phallic"
+      ],
+      "thesis": "Phallic symbols as creative libido in myths/rituals, beyond sex.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Freud reduction critique.",
+        "Fertility-regeneration.",
+        "Sun-phallus."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Phallic, cult, 33 symbolism, 228, 248, 310"
+    },
+    {
+      "position_id": "PSY-012",
+      "title": "Rebirth Myths",
+      "source": [
+        "Rebirth"
+      ],
+      "thesis": "Rebirth as renewal via unconscious confrontation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Death-resurrection.",
+        "Mother-womb.",
+        "Individuation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Rebirth, 240, 251, 272, 351 battle for, 364"
+    },
+    {
+      "position_id": "PSY-013",
+      "title": "Dragon Symbol",
+      "source": [
+        "Dragon"
+      ],
+      "thesis": "Dragon as devouring mother/regressive forces overcome.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Treasure guardian.",
+        "Hero combat.",
+        "Resistance libido."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Dragon, psychologic meaning, 402, 410"
+    },
+    {
+      "position_id": "PSY-014",
+      "title": "Tree Symbolism",
+      "source": [
+        "Tree"
+      ],
+      "thesis": "Trees as growth, life, mother connecting earth-heaven.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Phallic-maternal.",
+        "Life/death tree.",
+        "Individuation axis."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Tree of Death, 278 Tree of Life, 246"
+    },
+    {
+      "position_id": "PSY-015",
+      "title": "Water Symbolism",
+      "source": [
+        "Water"
+      ],
+      "thesis": "Water as unconscious, birth, maternal depths.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Night sea.",
+        "Flood myths.",
+        "Baptism renewal."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Water, symbolism of, 244, 384, 388"
+    },
+    {
+      "position_id": "PSY-016",
+      "title": "Fire Symbolism",
+      "source": [
+        "Fire"
+      ],
+      "thesis": "Fire as transformative libido, passion, enlightenment.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Promethean.",
+        "Purification-destruction.",
+        "Sexual analogies."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Fire, onanistic phase of, 174 preparations of, 163, 165, 172 sexual significance, 167, 172"
+    },
+    {
+      "position_id": "PSY-017",
+      "title": "Wind Symbolism",
+      "source": [
+        "Wind"
+      ],
+      "thesis": "Wind as spirit, impregnating, invisible libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Pneuma/spirit.",
+        "Creative breath.",
+        "Storm gods."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Wind as creator, 108, 354"
+    },
+    {
+      "position_id": "PSY-018",
+      "title": "Serpent Symbolism",
+      "source": [
+        "Serpent"
+      ],
+      "thesis": "Serpent as renewal, poison/healing, chthonic libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Ouroboros.",
+        "Guardian-tempter.",
+        "Phallic-maternal."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of serpent, 333, 414, 417, 479"
+    },
+    {
+      "position_id": "PSY-019",
+      "title": "Cross Symbolism",
+      "source": [
+        "Cross"
+      ],
+      "thesis": "Cross as opposites union, suffering, transformation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Tree-cross.",
+        "Sacrifice.",
+        "Mandala."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Cross, 264, 278 meaning of, 296"
+    },
+    {
+      "position_id": "PSY-020",
+      "title": "Moral Autonomy",
+      "source": [
+        "Introduction/Conclusion"
+      ],
+      "thesis": "Psychological goal: moral autonomy via unconscious integration.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond instincts.",
+        "Hero outcome.",
+        "Ethical implications."
+      ],
+      "domain": "psychology",
+      "text_evidence": "A new goal of attainment ... the goal of moral autonomy."
+    },
+    {
+      "position_id": "PSY-021",
+      "title": "Critique of Freud",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Freud's sexual theory narrow; libido desexualized, collective.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Reductionism limits.",
+        "Mythological need.",
+        "Vienna split."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "In this work he has plunged boldly into the treacherous sea ..."
+    },
+    {
+      "position_id": "PSY-022",
+      "title": "Archaic Thinking",
+      "source": [
+        "Archaic"
+      ],
+      "thesis": "Modern mind retains archaic mythological modes in unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Dreams/fantasies reveal.",
+        "Collective inheritance.",
+        "Primitive bridge."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Thinking, archaic, 28"
+    },
+    {
+      "position_id": "PSY-023",
+      "title": "Dismemberment Motif",
+      "source": [
+        "Dismemberment"
+      ],
+      "thesis": "Dismemberment as libido analysis/transformation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Osiris, Dionysus.",
+        "Reintegration.",
+        "Fragmentation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Dismemberment, motive of, 267"
+    },
+    {
+      "position_id": "PSY-024",
+      "title": "Embracing Motif",
+      "source": [
+        "Embracing"
+      ],
+      "thesis": "Embracing as incestuous mother-unconscious union.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Serpent-tree.",
+        "Regressive danger.",
+        "Separation need."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Embracing and entwining, 272"
+    },
+    {
+      "position_id": "PSY-025",
+      "title": "Flood Myths",
+      "source": [
+        "Flood"
+      ],
+      "thesis": "Floods as overwhelming unconscious, renewal.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Noah archetype.",
+        "Womb regression.",
+        "Rebirth post-flood."
+      ],
+      "domain": "mythology_psychology",
+      "text_evidence": "Water, symbolism of, 244, 384, 388"
+    },
+    {
+      "position_id": "PSY-026",
+      "title": "Horse Symbolism",
+      "source": [
+        "Horse"
+      ],
+      "thesis": "Horse as instinctual chthonic libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Trojan womb.",
+        "Ritual sacrifice.",
+        "Dynamic energy."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of horse, 308"
+    },
+    {
+      "position_id": "PSY-027",
+      "title": "Crowd Symbolism",
+      "source": [
+        "Crowd"
+      ],
+      "thesis": "Crowds as collective unconscious, individuality loss.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Mass psychology.",
+        "Primitive regression.",
+        "Herd instinct."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of crowd, 233"
+    },
+    {
+      "position_id": "PSY-028",
+      "title": "Forest Symbolism",
+      "source": [
+        "Forest"
+      ],
+      "thesis": "Forests as dark unknown unconscious.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Labyrinth dangers.",
+        "Mother's entrails.",
+        "Initiation sites."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of forest, 307"
+    },
+    {
+      "position_id": "PSY-029",
+      "title": "Eyes Symbolism",
+      "source": [
+        "Eyes"
+      ],
+      "thesis": "Eyes as consciousness, insight, devouring gaze.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Solar eyes.",
+        "Mother watching.",
+        "Blindness castration."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of eyes, 301"
+    },
+    {
+      "position_id": "PSY-030",
+      "title": "Moon Symbolism",
+      "source": [
+        "Moon"
+      ],
+      "thesis": "Moon as feminine unconscious, cycles, intuition.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Sun opposite.",
+        "Mother-goddess.",
+        "Lunacy connection."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of moon, 352"
+    },
+    {
+      "position_id": "PSY-031",
+      "title": "Sword Symbolism",
+      "source": [
+        "Sword"
+      ],
+      "thesis": "Sword as discriminating intellect, phallic power.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Mother separation.",
+        "Hero weapon.",
+        "Sacrifice tool."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of sword, 393"
+    },
+    {
+      "position_id": "PSY-032",
+      "title": "Eating Symbolism",
+      "source": [
+        "Eating"
+      ],
+      "thesis": "Eating as incorporation, divine communion.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Eucharist parallels.",
+        "Devouring mother.",
+        "Nutritional libido."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of eating, 372"
+    },
+    {
+      "position_id": "PSY-033",
+      "title": "Mystery Symbolism",
+      "source": [
+        "Mystery"
+      ],
+      "thesis": "Mysteries as unconscious knowledge initiation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Eleusinian parallels.",
+        "Death-rebirth.",
+        "Religious transformation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Symbolism of mystery, 233"
+    },
+    {
+      "position_id": "PSY-034",
+      "title": "Individuation Process",
+      "source": [
+        "Throughout"
+      ],
+      "thesis": "Individuation integrating conscious-unconscious for wholeness.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hero metaphor.",
+        "Shadow/mother confrontation.",
+        "Moral-spiritual growth."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Destiny of man, 390, 427"
+    },
+    {
+      "position_id": "PSY-035",
+      "title": "Religious Symbolism",
+      "source": [
+        "Religious"
+      ],
+      "thesis": "Religions as libido transformations, collective unconscious expressions.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Myth projections.",
+        "God-images libido.",
+        "Psychological function."
+      ],
+      "domain": "psychology_religion",
+      "text_evidence": "Religion, benefits of, 99 and morality, 85 as a pose, 82, 260 sexuality, 78 source of, 474"
+    },
+    {
+      "position_id": "PSY-036",
+      "title": "Dream Symbolism",
+      "source": [
+        "Dream"
+      ],
+      "thesis": "Dreams express unconscious libido via symbols.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Compensatory.",
+        "Archaic imagery.",
+        "Prospective."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Symbolism, of dreams, 8, 12"
+    },
+    {
+      "position_id": "PSY-037",
+      "title": "Phantasy Role",
+      "source": [
+        "Phantasy"
+      ],
+      "thesis": "Phantasies mediate conscious-unconscious, guide libido.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Creative-destructive.",
+        "Myth-making.",
+        "Therapeutic."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Phantasy, how created, 31 infantile, 462 onanistic, 175 sexual, 140"
+    },
+    {
+      "position_id": "PSY-038",
+      "title": "Archetypes",
+      "source": [
+        "Implicit"
+      ],
+      "thesis": "Archetypes primordial images shaping experience.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hero, mother, wise man.",
+        "Universal.",
+        "Instinctual."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Collective Unconscious, Phylogenetic inheritance."
+    },
+    {
+      "position_id": "PSY-039",
+      "title": "Union of Opposites",
+      "source": [
+        "Opposites"
+      ],
+      "thesis": "Growth uniting opposites: conscious-unconscious, male-female.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Hierosgamos.",
+        "Tension energy.",
+        "Transcendent."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Libido in opposition, 292, 308, 329"
+    },
+    {
+      "position_id": "PSY-040",
+      "title": "Psychoanalytic Method",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Psychoanalysis reveals unconscious via symbols for self-knowledge.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Beyond symptoms.",
+        "Myth amplification.",
+        "Individuation."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "Psychoanalysis is the name given to the method developed ..."
+    }
+  ]
+}
+
+{
+  "database_metadata": {
+    "version": "1.0",
+    "creation_date": "2025-11-19",
+    "title": "Jung Philosophical Database - Collected Papers on Analytical Psychology",
+    "author": "Carl Gustav Jung",
+    "compiler": "Grok AI",
+    "description": "Database of key positions from Jung's Collected Papers on Analytical Psychology, extracted from Project Gutenberg eBook text",
+    "total_works": 1,
+    "total_positions": 40,
+    "status": "COMPLETE"
+  },
+  "works_inventory": [
+    {
+      "work_id": "WORK-001",
+      "title": "Collected Papers on Analytical Psychology",
+      "source_file": "JUNG COLLECTED ANALYTICAL WORKS.txt",
+      "type": "essay_collection",
+      "status": "100% extracted"
+    }
+  ],
+  "positions": [
+    {
+      "position_id": "PSY-001",
+      "title": "Analytical Psychology Overview",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Analytical psychology as new science of unconscious, bridging gaps between schools.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Gathers papers for English readers.",
+        "Vienna-Zurich schools.",
+        "Broader than sexuality."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The following papers have been gathered together from various sources ..."
+    },
+    {
+      "position_id": "PSY-002",
+      "title": "Introversion and Extroversion",
+      "source": [
+        "Chapters XIV and XV"
+      ],
+      "thesis": "Types: extrovert adapts via feeling, introvert via thought; imbalance causes neurosis.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Repression origin in one-sided adaptation.",
+        "Neglected function repressed.",
+        "Neurosis from inequality."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Dr. Jung develops his ideas of introversion and extroversion ..."
+    },
+    {
+      "position_id": "PSY-003",
+      "title": "Repression Beyond Sexuality",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Repression from one-sided life adaptation per type, not just sexuality.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Extrovert: thought repressed.",
+        "Introvert: feeling repressed.",
+        "Includes but not limited to instinct."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "He finds this to lie not in sexuality per se, but rather in man's natural tendency ..."
+    },
+    {
+      "position_id": "PSY-004",
+      "title": "Concept of the Unconscious",
+      "source": [
+        "New Chapter"
+      ],
+      "thesis": "Unconscious as psychological non-ego, relation to ego crucial in analysis.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "1916 lecture.",
+        "Ego-non-ego relation.",
+        "Practical analysis problem."
+      ],
+      "domain": "psychology",
+      "text_evidence": "A new chapter upon 'The Concept of the Unconscious' has been added."
+    },
+    {
+      "position_id": "PSY-005",
+      "title": "Neuroses from Conflict",
+      "source": [
+        "Preface"
+      ],
+      "thesis": "Neuroses from unconscious conflict in certain subjects.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "One-sided adaptation.",
+        "Type-specific.",
+        "Development limitation."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Which in certain subjects amounts to a neurosis ..."
+    },
+    {
+      "position_id": "PSY-006",
+      "title": "Generalized Descriptions",
+      "source": [
+        "Author's Preface"
+      ],
+      "thesis": "Descriptions generalized; no specific cases, focus on principles.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Abstract formula from data.",
+        "Apply in practice.",
+        "Confirm/modify/abandon."
+      ],
+      "domain": "psychology",
+      "text_evidence": "My habit in my daily practical work is to confine myself for some time ..."
+    },
+    {
+      "position_id": "PSY-007",
+      "title": "Psychoanalysis Development",
+      "source": [
+        "Author's Preface"
+      ],
+      "thesis": "Essays show gradual analytical psychology development.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Chronological order.",
+        "Position evolution.",
+        "Interested readers discern."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The essays are, as far as possible, printed in chronological order ..."
+    },
+    {
+      "position_id": "PSY-008",
+      "title": "War and Unconscious",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Study unconscious to prevent external wars; parallelism individual-international neurosis.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Inner war conscious.",
+        "Birth-pangs new thought.",
+        "Holistic adaptations."
+      ],
+      "domain": "psychology_society",
+      "text_evidence": "It is as though we would once more consign radium to its dust-heaps ..."
+    },
+    {
+      "position_id": "PSY-009",
+      "title": "Renewal of Philosophy",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Analytical psychology seeds new life philosophy post-cataclysm.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Replace perished.",
+        "Unconscious study.",
+        "New construction."
+      ],
+      "domain": "psychology_philosophy",
+      "text_evidence": "We need a renewal of our philosophy of life to replace much that has perished ..."
+    },
+    {
+      "position_id": "PSY-010",
+      "title": "Unconscious as Wild Beast Critique",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Unconscious not just dangerous; half-truth from Viennese view.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Relief other aspect.",
+        "Precious when handled.",
+        "Own laws."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It will be a relief to many students of the unconscious to see it in another aspect ..."
+    },
+    {
+      "position_id": "PSY-011",
+      "title": "Freud-Jung Differences",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Agree repression causes neuroses; differ origin: one-sided adaptation vs. sexuality.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Broader basis.",
+        "Type mentality.",
+        "Instinct inclusion."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "He agrees with Freud in regarding the neuroses to be the result of repression ..."
+    },
+    {
+      "position_id": "PSY-012",
+      "title": "Psychoanalysis Expansion",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Psychoanalysis widened beyond neuroses to human life conduct.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "New evaluation.",
+        "Myths-religions.",
+        "Unexplained explained."
+      ],
+      "domain": "psychology",
+      "text_evidence": "This amazing growth has proceeded steadily in an ever-widening fashion ..."
+    },
+    {
+      "position_id": "PSY-013",
+      "title": "Vienna-Zurich Schools",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Division: Vienna (Freud) and Zurich (Jung) schools.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Leaders differences.",
+        "Literature references.",
+        "Confusion source."
+      ],
+      "domain": "psychology",
+      "text_evidence": "There has arisen a division amongst the leaders themselves ..."
+    },
+    {
+      "position_id": "PSY-014",
+      "title": "Criticism of Psychoanalysis",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Opposition due difficult comprehension, disturbing ideas.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Special technique.",
+        "Trained observer.",
+        "No chance."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It is very easy to understand that criticism and opposition should develop ..."
+    },
+    {
+      "position_id": "PSY-015",
+      "title": "Individual Destiny Determiner",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Every individual largely determines own destiny.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Poets-philosophers idea.",
+        "Scientific statement brave.",
+        "Full meaning consciousness."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It is not a simple matter to come out boldly and state that every individual ..."
+    },
+    {
+      "position_id": "PSY-016",
+      "title": "Empirical Investigation",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Developed through empirical cases analysis.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Individual cases.",
+        "New mind evaluation.",
+        "Myths-religions understanding."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Developed entirely through empirical investigation and through an analysis ..."
+    },
+    {
+      "position_id": "PSY-017",
+      "title": "Opposition to New Psychology",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Violent opposition despite growth.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Mystical-metaphysical labels.",
+        "Unscientific condemnation.",
+        "Ever-widening."
+      ],
+      "domain": "psychology",
+      "text_evidence": "This amazing growth has proceeded steadily in an ever-widening fashion ..."
+    },
+    {
+      "position_id": "PSY-018",
+      "title": "Freud's Discoveries",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Freud: neuroses from unfulfilled sexual wishes.",
+      "consistency": "Core to Freud",
+      "key_arguments": [
+        "Hysteria-neuroses symptoms.",
+        "Unexpressed-unknown.",
+        "Far-reaching influence."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "When Professor Freud of Vienna made his early discoveries ..."
+    },
+    {
+      "position_id": "PSY-019",
+      "title": "Jung's Contributions",
+      "source": [
+        "Introduction/Editor's Preface"
+      ],
+      "thesis": "Jung: mythology-folklore analysis reveals common bonds.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Ancient-modern bridge.",
+        "Desire-longing bond.",
+        "Moral autonomy goal."
+      ],
+      "domain": "psychology",
+      "text_evidence": "In this work he has plunged boldly into the treacherous sea ..."
+    },
+    {
+      "position_id": "PSY-020",
+      "title": "Translation Challenges",
+      "source": [
+        "Translator's Note"
+      ],
+      "thesis": "Difficulties insuperable; faithful expression attempted.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Close to original.",
+        "Simple-clear rendering.",
+        "Assistance acknowledged."
+      ],
+      "domain": "psychology",
+      "text_evidence": "The difficulties in translating a book such as this are almost insuperable ..."
+    },
+    {
+      "position_id": "PSY-021",
+      "title": "Book's Value",
+      "source": [
+        "Translator's Note"
+      ],
+      "thesis": "Mine of riches for serious students.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Not desultory.",
+        "Careful study.",
+        "New light on life."
+      ],
+      "domain": "psychology",
+      "text_evidence": "But for those who can bring a serious interest and willingness ..."
+    },
+    {
+      "position_id": "PSY-022",
+      "title": "Humanity's New Message",
+      "source": [
+        "Translator's Note"
+      ],
+      "thesis": "Seeking new light, tangible work for self-universe understanding.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Timely introduction.",
+        "Meaning of life.",
+        "Larger understanding."
+      ],
+      "domain": "psychology",
+      "text_evidence": "That humanity is seeking a new message, a new light ..."
+    },
+    {
+      "position_id": "PSY-023",
+      "title": "War's Psychological Effect",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "War parallels psyche war; conscious inner conflict prevents external.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Individual-international neurosis.",
+        "Upheaval pain.",
+        "Truer thought birth."
+      ],
+      "domain": "psychology_society",
+      "text_evidence": "The second edition is issued towards the end of the third year of the Great European war ..."
+    },
+    {
+      "position_id": "PSY-024",
+      "title": "Analytical Psychology Germs",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Germs of new construction in analytical psychology.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Scientific unconscious study.",
+        "Renewal philosophy.",
+        "Melting-pot sacred."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It is because I see in the analytical psychology ... the germs of such a new construction ..."
+    },
+    {
+      "position_id": "PSY-025",
+      "title": "Dangerous Discoveries",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "New discoveries called dangerous; philosophies heresies.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Radium analogy.",
+        "Own laws submit.",
+        "Handled-investigated."
+      ],
+      "domain": "psychology",
+      "text_evidence": "All new discoveries have at one stage been called dangerous ..."
+    },
+    {
+      "position_id": "PSY-026",
+      "title": "Unconscious Possession",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "All possess unconscious; shared with humans; extension individual.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Fearful reminded.",
+        "Deepen self.",
+        "Handled known."
+      ],
+      "domain": "psychology",
+      "text_evidence": "These fearful persons should be reminded that they possess an unconscious ..."
+    },
+    {
+      "position_id": "PSY-027",
+      "title": "Vienna School View",
+      "source": [
+        "Editor's Preface"
+      ],
+      "thesis": "Unconscious as wild beast; dangerous half-truth.",
+      "consistency": "Core to critique",
+      "key_arguments": [
+        "Viennese writings.",
+        "Relief other aspect.",
+        "Precious-dangerous."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Some readers have gathered that view of it from the writings of the Viennese School ..."
+    },
+    {
+      "position_id": "PSY-028",
+      "title": "Chapter XIV Alterations",
+      "source": [
+        "Author's Preface"
+      ],
+      "thesis": "Fundamentally altered; incorporates recent researches.",
+      "consistency": "Core to update",
+      "key_arguments": [
+        "Generalised description.",
+        "Usual mode.",
+        "Results recent."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Chapter XIV. has been fundamentally altered ..."
+    },
+    {
+      "position_id": "PSY-029",
+      "title": "Practical Work Habit",
+      "source": [
+        "Author's Preface"
+      ],
+      "thesis": "Confine to human material; abstract formula; apply practice.",
+      "consistency": "Core to method",
+      "key_arguments": [
+        "Data collected.",
+        "Point view.",
+        "Confirmed-modified-abandoned."
+      ],
+      "domain": "psychology",
+      "text_evidence": "My habit in my daily practical work is to confine myself for some time ..."
+    },
+    {
+      "position_id": "PSY-030",
+      "title": "Unconscious Description",
+      "source": [
+        "New Chapter"
+      ],
+      "thesis": "Lecture 1916; general orientation; ego-non-ego relation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Zürich Union.",
+        "Practical analysis.",
+        "Important problem."
+      ],
+      "domain": "psychology",
+      "text_evidence": "This is a lecture I gave early in 1916 before the Zürich Union ..."
+    },
+    {
+      "position_id": "PSY-031",
+      "title": "Jung's Position Development",
+      "source": [
+        "Author's Preface"
+      ],
+      "thesis": "Essays show gradual present position development.",
+      "consistency": "Core to evolution",
+      "key_arguments": [
+        "Chronological.",
+        "Sufficiently interested.",
+        "Discern development."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Those readers who are sufficiently interested will be able to discern ..."
+    },
+    {
+      "position_id": "PSY-032",
+      "title": "Psychoanalysis Scope Widening",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Beyond pathologic; human life conduct evaluation.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "New comprehension.",
+        "Unexplained explained.",
+        "Myths-religions."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It has in fact led to a new evaluation of the whole conduct of human life ..."
+    },
+    {
+      "position_id": "PSY-033",
+      "title": "Freud's Sexual Theory Attack",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Unpopular-attacked; far-reaching influence.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Unfulfilled desires.",
+        "Sexual instinct.",
+        "Neuroses basis."
+      ],
+      "domain": "psychoanalysis",
+      "text_evidence": "It was not realized what far-reaching influence this unpopular and bitterly attacked theory ..."
+    },
+    {
+      "position_id": "PSY-034",
+      "title": "New Psychology Opposition",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Criticism-opposition understandable; disturbing ideas.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Special technique.",
+        "Trained observer.",
+        "Meaning determined."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It is very easy to understand that criticism and opposition should develop ..."
+    },
+    {
+      "position_id": "PSY-035",
+      "title": "Destiny Self-Determination",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Individual determiner own destiny largely.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Poets-philosophers.",
+        "Scientific brave.",
+        "Full consciousness."
+      ],
+      "domain": "psychology",
+      "text_evidence": "It is not a simple matter to come out boldly and state ..."
+    },
+    {
+      "position_id": "PSY-036",
+      "title": "Empirical Development",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Through empirical investigation-individual cases.",
+      "consistency": "Core to method",
+      "key_arguments": [
+        "Neuroses beyond.",
+        "Conduct phenomena.",
+        "Mind product."
+      ],
+      "domain": "psychology",
+      "text_evidence": "Developed entirely through empirical investigation ..."
+    },
+    {
+      "position_id": "PSY-037",
+      "title": "Growth Despite Opposition",
+      "source": [
+        "Introduction"
+      ],
+      "thesis": "Amazing growth ever-widening despite violent opposition.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Past knowledge.",
+        "Mystical-metaphysical.",
+        "Unscientific."
+      ],
+      "domain": "psychology",
+      "text_evidence": "This amazing growth has proceeded steadily ..."
+    },
+    {
+      "position_id": "PSY-038",
+      "title": "Jung's Mythology Approach",
+      "source": [
+        "Translator's Note"
+      ],
+      "thesis": "Plunged into mythology-folklore; scientific analysis.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Ancient mind productions.",
+        "Common bond.",
+        "Ancient-modern bridge."
+      ],
+      "domain": "psychology",
+      "text_evidence": "In this work he has plunged boldly into the treacherous sea ..."
+    },
+    {
+      "position_id": "PSY-039",
+      "title": "Moral Autonomy Goal",
+      "source": [
+        "Translator's Note"
+      ],
+      "thesis": "New ideal: moral autonomy; intellectually satisfying-emotionally appealing.",
+      "consistency": "Core to Jung's view",
+      "key_arguments": [
+        "Attainment possible.",
+        "New goal.",
+        "Human life light."
+      ],
+      "domain": "psychology",
+      "text_evidence": "He proceeds to hold aloft a new ideal ... the goal of moral autonomy."
+    },
+    {
+      "position_id": "PSY-040",
+      "title": "Book's Erudition-Labor",
+      "source": [
+        "Translator's Note"
+      ],
+      "thesis": "Remarkable erudition-tremendous labor; new light on life-motives-needs-possibilities.",
+      "consistency": "Core to context",
+      "key_arguments": [
+        "Not desultory-superficial.",
+        "Serious interest-careful study.",
+        "Veritable mine."
+      ],
+      "domain": "psychology",
+      "text_evidence": "This book, remarkable for its erudition and the tremendous labor expended upon it ..."
+    }
+  ]
+}

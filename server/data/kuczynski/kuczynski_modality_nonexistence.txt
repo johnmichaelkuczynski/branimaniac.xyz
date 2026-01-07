@@ -1,0 +1,2837 @@
+﻿          Modality and Non-existence
+
+
+
+ 
+
+
+
+ 
+
+
+
+                  John-Michael Kuczynski, PhD
+
+
+
+                          Fellow, Bard College
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+
+1.0 Necessity and possibility properties of statements, not objects
+
+
+
+2.0 Necessity does not come in degrees
+
+
+
+3.0 No necessary a posteriori
+
+
+
+4.0 Necessary truth identical with truth in virtue of microstructure
+
+
+
+5.0 Quine’s denial of informal analytic truth: preliminary concepts6.0 Why there are necessarily true propositions
+
+
+
+7.0 Analytic truth vs. formal truth
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+  
+
+
+
+ 
+
+
+ 
+
+
+
+1.0 Necessity and possibility properties of statements, not objects
+
+
+  A modal statement is one that says what could be the case or what must
+
+be the case. Here are some examples of such statements: (i) Triangles must
+
+have three sides. (ii) There’s no way anyone could have survived that fall.
+
+(iii) John cannot possibly have 50 cars unless he's very wealthy. (iv) Military
+
+service is sure to toughen a man up.
+
+
+
+  For any proposition P, it’s necessarily the case that P iff it’s not possible
+
+that not-P; and it’s possible that P iff it’s not necessarily the case that not-P.
+
+(“Iff” is short for “if and only if.”) It’s necessarily the case that Jim is in the
+
+barn iff it’s not possible that Jim is not in the barn; and it’s possibly the case
+
+that Jim is in the barn iff it’s not necessarily the case that Jim is not in the
+
+barn.
+
+
+    There  are  no  non-entities  and,  therefore,  no  impossible  entities.  Non-
+
+existence and impossibility are properties of propositions, not of objects. For
+
+example, (v) square  circles  cannot  possibly  exist says that (vi) there  are
+
+square  circles cannot  possibly  be  correct.  (v)  doesn’t  make  the  self-
+
+contradictory claim that there exists some object x such that x is a square
+
+circle and such that x cannot exist. And (vii) happiness is a possibility for
+
+Jim,  even  though  he’s  still  miserable says  that,  even  though  Jim  is  now
+
+miserable, the proposition (viii) Jim  is  happy could  be  true.  (vii)  doesn’tmake the absurd claim that (viii) there exists some x such that x is Jim’s as of
+
+yet nonexistent happiness and such that x could exist.
+
+
+
+1.1 Existence and non-existence properties of propositions, not of objects
+
+
+  The  points  just  made  concerning  the  concepts  of  possibility  and
+
+impossibility are to be understood in terms of more general points concerning
+
+the concepts of existence and non-existence.
+
+
+
+    Nothing  doesn’t  exist.  There  exists  no  x  such  that  x  doesn’t  exist.
+
+Statements  that,  given  their  surface-structures,  appear  to  be  attribute  non-
+
+existence to objects in fact attribute falsity to propositions. A story will make
+
+this clear.
+
+
+  An unscrupulous person claims to have been attacked. In reality, he wasn’t
+
+attacked; but, for whatever reason, it’s to his advantage for people to believe
+
+otherwise. He describes his non-existent assailant to a police sketch artist. The
+
+resulting sketch is distributed across the nation. If we say that the sketch depicts
+
+a nonexistent person, we’re saying that there exists some person who doesn’t
+
+exist who it depicts. But that would be absurd. The sketch is better thought of as
+
+saying: there  is  somebody  having  such  and  such  features, these  being  the
+
+features that a person would have to have if he were to fit the sketch. Though
+
+false, that statement—that existence-claim obviously exists.
+
+
+
+    Similarly, the cartoons that brought Fred Flintstone and Bart Simpson into
+
+our homes can be thought of as making false statements of a similar kind. In the
+
+case of Fred Flintstone, that statement might be something along the lines of:
+
+there exists a boorish man who has pet dinosaur named “Dino,” a wife named
+
+“Wilma,” etc. In the case of Bart Simpson that claim might say something alongthe lines of: “there exists a bratty boy who torments his oafish father with his
+
+loveable shenanigans (etc.)” All of these statements exist; they’re simply not
+
+true; nothing answers the descriptions encoded in them. And that is the real
+
+meaning of “Fred Flintstone/Bart Simpson doesn’t exist.” The real meaning is
+
+clearly not some absurd claim to the effect that there exists some non-existent
+
+thing.
+
+
+
+2.0 Necessity does not come in degrees
+
+
+  Here is a view about modality that is false, as we’ll see in a moment, but is
+
+nonetheless a useful starting point[1]:
+
+
+
+        (DN) There are different degrees of necessity. “Squares have four
+
+    sides.” This is necessary in the strongest sense. The very idea of a
+
+    square’s failing to have four sides is an incoherent one.
+
+
+        “Metal expands when heated.” This is not as necessary as “squares
+
+    have fours sides,” since the idea of a universe in which metal didn’t
+
+    expand when heated is not incoherent. But, given that it describes a law
+
+  of physics, and is therefore utterly unalterable, it clearly has a high
+
+    degree of necessity.
+
+
+
+        “After surgery, people are unusually prone to get infections and
+
+    must be given antibiotics to stave them off.” There is clearly some
+
+    sense in which this is necessarily true. An immunologically normal
+
+    person  who wasn’t more  prone  to  get  infections  after  surgery  is  a
+
+    medical impossibility. And, unless he qualified his point very heavily, a
+
+    professor  of  medicine  who  denied  this  would  be  misleading  his
+
+    students. But this statement clearly isn’t as necessary as the others.  DN is false. There are only two degrees of necessity: having it completely
+
+and lacking it completely. When we say that P is “more necessary” than Q,
+
+we’re saying something about the conditions that must hold for those statements
+
+to be true; we’re saying that the conditions that must hold for the first to be true
+
+are weaker than those that must hold if the second is to be true. “Squares have
+
+four  sides”  is  maximally  necessary,  because  it  holds unconditionally. In any
+
+universe at all, no matter how mass-energy is distributed in it, that statement is
+
+ 
+true.[2]So no condition has to be met for that statement to be true. Or, to think
+
+of it another way, the only conditions that have to be met are maximally weak:
+
+they  could  be  thought  of  as  limiting  cases  of  conditions  that  are  trivially
+
+satisfied by any distribution of mass-energy. And to say that “metal expands
+
+when heated” is “less necessary” than “squares have four sides” is to say that
+
+the former could to be true in a wider class of circumstances than the latter. And,
+
+obviously,  to  say  that  “after  surgery,  people  are  unusually  prone  to  get
+
+infections” is “less necessary” than “metal expands when heated” is to say
+
+that the former could fail in a wider class of circumstances than the latter. So
+
+there aren’t really degrees of necessity. Something is either necessary or it
+
+isn’t. But some statements (e.g., “two is bigger than one”) need less help
+
+from others to be true—those are the “highly necessary” ones. Others (e.g.,
+
+“people who wear hats are bad drivers”) need a little more help—those are
+
+the “less necessary” ones.
+
+
+
+3.0 No necessary a posteriori
+
+
+  In 1969, Saul Kripke gave a now famous series of lectures in which he
+
+argued that there are non-analytic necessary truths. Here (in boldface) is a
+
+summary of Kripke’s argument (KA):
+
+
+
+  (KA) The ancients referred to the last celestial body (besides the Sun) todisappear from the morning sky as “Phosphorous” (or, to be precise, they
+
+referred to it with an expression whose Anglicization is “Phosphorous”), and
+
+they  referred  to  the  first  celestial  body  to  appear  in  the  evening  sky  as
+
+“Hesperus” (same qualification). The former is Venus and so is the latter, and
+
+the former is therefore identical with the latter. The ancients didn’t yet know
+
+this;  and  they  went  for  a  very  long  time  having  no  idea  that  some one
+
+celestial body appeared in the evening sky before any other and disappeared
+
+from the morning sky after any other. But eventually they found this out.
+
+What they found out isn’t trivial, of course; it isn’t in the same category as
+
+the fact that Hesperus is identical with Hesperus. What they discovered is a
+
+non-trivial, empirical fact.
+
+
+
+    Henceforth,  “FES”  and  “LMS”  will  be  our  abbreviations  for  the
+
+predicates  “first  celestial  body  to  appear  in  the  evening  sky”  will  be
+
+abbreviated as “FES” and, respectively, “last celestial body (besides the Sun)
+
+to  disappear  from  the  morning  sky.”  Contrary  to  what  it  is  extremely
+
+tempting to believe:
+
+
+        (HIP[3]) “Hesperus is Phosphorous”
+
+
+
+  does not have the same meaning as
+
+
+        (S*) “the LMS is identical with the FES.”
+
+
+
+  It will take a moment to make it clear why this is so.
+
+
+  Let P be the proposition expressed by HIP. As we just saw, empirical
+
+investigation was needed to establish the truth of P; so P is an empirical truth
+
+and is therefore non-analytic. It’s important to keep the distinction betweenHIP and P in mind. The ancients didn’t have any feelings about the English
+
+sentence  “Hesperus  is  identical  with  Hesperus.”  And,  in  making  the
+
+astronomical discovery that we’ve been discussing, what they found out had
+
+nothing to do with HIP—or any other sentence. It was an astronomical, not a
+
+linguistic, discovery. This point is crucial.
+
+
+
+  If  HIP  has  the  same  meaning  as  S*,  then  P  is  identical  with  the
+
+proposition meant by S*. And the latter is equivalent with the proposition
+
+that:
+
+
+        (P*) exactly one thing is an LMS and exactly one thing is an
+
+    FES, and nothing that has the one property lacks the other.
+
+
+
+  And the same is true of P, supposing that S* and HIP express the same
+
+proposition.
+
+
+  In light of these points, consider a world W* satisfying the following
+
+conditions. W* is semantically just like our world. (Two worlds or situations
+
+are “semantically identical” if the rules that govern word-usage in the one
+
+coincide with those that govern it in the other.) So, in W*, people speak
+
+English. But, in W*, Venus isn’t the LMS or the FES. In W*, because of
+
+some  cataclysm  that  didn’t  occur  in  our  world,  Mars  is  the  LMS,  and
+
+Mercury is the FES. So, in W*, “the LMS” picks out Mars, and “the FES”
+
+picks out Mercury. This follows from the fact that W* is semantically just
+
+like our world. (If John McCain had become President in 2008 instead of
+
+Barack Obama, “the U.S. President” would, given the semantic rules that we
+
+use, refer to McCain. But, given those very same rules, “Barack Obama”
+
+would still refer to Barack Obama. In other words, if x is the person who in
+
+our world is referred to as “Barack Obama,” “Barack Obama” would refer tox in W*. Similarly, if Mars were the LMS, as opposed to Venus, “the LMS”
+
+would, given the semantic rules that we use, refer to Mars. But given those
+
+same rules, “Venus” would still refer to Venus. In other words, if x is the
+
+planet that n i our world is referred to as “Venus,” “Venus” would refer to x
+
+in W*.
+
+
+
+  “Venus,” like “Barack Obama,” is thus a rigid designator. If x is what
+
+“Venus” in fact refers to, x is what “Venus” would refer to in any world
+
+semantically like ours. But “the LMS,” like “the current U.S. President,” is
+
+not a rigid designator; it refers to different things in semantically identical
+
+situations.  (It  used  to  refer  to  Carter;  now  it  refers  to  Obama.  But  the
+
+semantic rules governing that expression haven’t changed in the least in the
+
+mean time.)
+
+
+    Proper names are rigid designators. Therefore, unlike “the LMS” and “the
+
+FES,”  "Hesperus"  and  "Phosphorous",  being  proper  names,  are  rigid
+
+designators. So as long as the semantic rules of English haven’t changed,
+
+there is some one object x such that (i) each refers to x; and, therefore, such
+
+that (ii) each of ‹Hesperus has phi› and ‹Phosphorous has phi› is true exactly
+
+if x has phi, a corollary being that (iii) “Hesperus is Phosphorous” (HIP) is
+
+true exactly if x is identical with x.
+
+
+
+  It’s obvious that, for any object x, the proposition x is identical with x is
+
+necessarily true. But it’s equally obvious that the proposition expressed by
+
+HIP  is  empirical  and,  therefore,  non-analytic.  Therefore,  HIP  expresses  a
+
+non-analytic necessary truth.
+
+
+3.1 Kripke’s argument evaluated  This  argument  involves  a  massive  non-sequitur,  which  the  following
+
+story exposes. I meet a man. We shake hands. I obviously see what he looks
+
+like. He tells me that his name is “Hesperus.” (Without worrying about the
+
+details,  let’s  assume  that  I  know  him  to  be  telling  me  the  truth.)  In  this
+
+context, there is some individual x such that I am learning that:
+
+
+
+        (HX) “Hesperus” is x’s name.
+
+
+  But what I  am  learning  must  be  distinguished  from  the  information
+
+through which I am learning it. The information relayed to me by my senses
+
+isn’t confined to HX. It would be absurd to think otherwise. That information
+
+is more along the lines of:
+
+
+
+        (BHX) There is some individual x such that x is standing right
+
+  in front of me (in my office in Richmond, VA) at this moment
+
+    (3:00 P.M., March 13, 2009) and such that x has such and such
+
+    characteristics (he has a mustache, he’s over 6-feet tall, etc.) and
+
+    such  that  I  am  being  told,  by  x  himself,  that  “Hesperus”  is  x’s
+
+    name.
+
+
+  So there is some x such that “Hesperus” merely labels x. “Hesperus”
+
+doesn’t  have  for  any  part  of  its  meaning  anything  having  to  do  with  the
+
+property of being over 6 feet, having a mustache, being in this or that place at
+
+this or that time. But the information through which I learn whom “Hesperus”
+
+labels does concern such properties. That information is descriptive; a certain
+
+person x is visually represented, and thus described, to me as having certain
+
+characteristics (over 6-feet tall, etc.); and, with the help of this information, it
+
+is also being made clear to me that “Hesperus” names x. But that descriptive
+
+information is not itself a part of the semantic rule that, with its help, I amlearning—that is to say, it is not itself any part of HX. HX is extremely
+
+threadbare; it merely puts a label on a certain object. So the just-mentioned
+
+descriptive  information  has  no  place  in  the semantics of  “Hesperus”;  its
+
+relevance  is  confined  to  the  pre-semantic  act  of  assigning  it  to  the  right
+
+object. That information isn’t semantic; it’s pre-semantic.
+
+
+
+  The  following  evening,  I  receive  a  phone  call.  I  don’t  recognize  the
+
+caller’s  voice.  The  caller  is  obviously  using  a  voice-modulation  device,
+
+giving it a metallic, threatening sound. And threaten is just what he does; for
+
+he says “if you don’t move out of town, I’m going to kill you. By the way,
+
+my name is Phosphorous.” I look at my caller ID; and, sure enough, the call
+
+is from one “Phosphorous.” In this context, there is some individual y such
+
+that I am learning that:
+
+
+        (PX) “Phosphorous” is y’s name.
+
+
+
+      PX merely registers the fact that a certain name is associated with a
+
+certain object. It doesn’t say anything (else) about that object. It doesn’t say
+
+whether that object is tall or short, friendly or unfriendly. PX is exceedingly
+
+threadbare.  But  the  information through which  I  am  learning  PX  is  very
+
+different from PX itself. That information—that pre-semantic information—
+
+is along the lines of:
+
+
+        (BPX) There is some individual y such that, a moment ago (7:00
+
+    P.M.,  March  14,  2009),  y  rang  me;  such  that,  using  a  voice-
+
+    modulation  device  to  disguise  his  voice,  y  is  making  threatening
+
+    statements;  and  such  that  I  am  being  told,  by  y  himself,  that
+
+    “Phosphorous” is y’s name.  Thus,  there  is  some  y  such  that  “Phosphorous”  merely  labels  y.
+
+“Hesperus” doesn’t have for any part of its meaning anything having to do
+
+with the property of talking on the phone with me at a certain time, or of
+
+using a voice-modulation device, or of making threats. But the information
+
+through  which I  learn  who  “Phosphorous”  labels does concern  such
+
+properties. That information is descriptive; a certain person y is perceptually
+
+represented,  and  thus  described,  to  me  as  having  certain  characteristics
+
+(calling me at a certain time, making certain statements, etc.) and, with the
+
+help of this information, it is also being made clear to me that “Phosphorous”
+
+names x. But that descriptive information is not itself a part of the semantic
+
+rule that, with its help, I am learning—that is to say, it is not itself any part of
+
+PX. PX is extremely threadbare; it merely puts a label on a certain object. So
+
+the just-mentioned descriptive information has no place in the semantics of
+
+“Phosphorous,” its relevance is confined to the pre-semantic act of assigning
+
+it to the right object.
+
+
+
+      Such pre-semantic information can have an incalculably profound
+
+effect  on  what  is  (non-semantically;  i.e.,  non-literally) conveyed by
+
+utterances. A continuation of our story makes this clear. Right after getting
+
+the upsetting phone call, the police call. For some reason, they know about
+
+the phone call. They say to me:
+
+
+          (A) “Phosphorous is a professor of political science.”
+              1
+
+
+
+      There is some y such that A affirms only that:
+                                        1
+
+
+
+          (A) y is a professor of political science.
+              2  But under the circumstances, what will be conveyed to me is some much
+
+richer proposition along the lines of:
+
+
+
+        (A) There is some individual y such that, a little while ago (at
+          3
+
+    around 7:00 P.M., March 14, 2009), y rang me; such that, using a
+
+    voice-modulation  device  to  disguise  his  voice,  y  is  making
+
+    threatening statements; such that I am being told, by y himself, that
+
+    “Phosphorous” is y’s name; and, finally, such that y is a professor of
+
+    political science.
+
+
+  The pre-semantic information embedded in BPX affects what I take away
+
+from the policeman’s utterance of L, even though it is no part of its literal
+                                          1
+
+meaning. For exactly similar reasons, the pre-semantic information embedded
+
+in BHX affects what I would take away from an utterance of:
+
+
+
+          (B) “Hesperus is an avid tennis player.”
+              1
+
+
+
+    There  is  some  x  such  that  B  does  nothing  more  than  affirm  the
+                                          1
+
+descriptively impoverished proposition that:
+
+
+
+        (B) x is an avid tennis player.
+          2
+
+
+
+  But under the circumstances, what that utterance conveys to me is some
+
+much richer proposition along the lines of:
+
+
+
+        (B)  There  is  some  individual  x  such,  a  couple  of  days  ago
+          3
+
+    (March 13, 2009) at about 3:00 P.M., x is standing right in front of me
+
+  (in  my  office  in  Richmond,  VA);  such  that  x  has  such  and  such    characteristics (he has a mustache, he’s over 6-feet tall, etc.); such
+
+    that “Hesperus” is x’s name; and such that x is a political science
+
+    professor.
+
+
+
+  We need only add one finishing touch to our story to see what’s wrong
+
+with  Kripke’s  reasoning.  The  police  arrest  Phosphorous.  They  ask  me  to
+
+come down to the station to talk to them. They point to Phosphorous (who is
+
+handcuffed) and say: “that’s Phosphorous.” Phosphorous, I now see, is none
+
+other than Hesperus. The man I see is the mustachioed man I met a few days
+
+earlier.  The  police  then  say:  “Phosphorous  also  goes  by  the  name  of
+
+Hesperus.  His  legal  name  is  ‘Hesperus  Phosphorous.’  But  he  tends  to
+
+introduce  himself  as  either  ‘Hesperus’  or  ‘Phosphorous.’  In  any  case,
+
+Hesperus is Phosphorous.” The italicized sentence is none other than HIP, of
+
+course.
+
+
+    Given what we’ve already learned, it’s obvious that there is some one
+
+individual z such that this utterance of HIP is true exactly if:
+
+
+
+        (K) z is identical with z.
+
+
+  Any proposition of that form is trivial. It is always trivial to say of an
+
+object that it is identical with itself. But by obvious extensions of what we
+
+said a moment ago, when I hear the policeman’s utterance of HIP, what I take
+
+away from it—what it (non-literally) conveys to me, given the pre-semantic
+
+information at my disposal—won’t be at all trivial, as it will be along the
+
+lines of:
+
+
+
+        (K)  There  is  some  individual  x  such,  a  couple  of  days  ago
+          2
+
+    (March 13, 2009) at about 3:00 P.M., x is standing right in front of me  (in  my  office  in  Richmond,  VA;  such  that  x  has  such  and  such
+
+    characteristics (he has a mustache, he’s over 6-feet tall, etc.); such
+
+    that “Hesperus” is x’s name; and such that x is a political science
+
+    professor; and there is some individual y such that, a few hours ago
+
+    (at around 7:00 P.M., March 14, 2009), y rang me; such that, using a
+
+    voice-modulation  device  to  disguise  his  voice,  y  is  making
+
+    threatening  statements;  such  that  I  was  told  by  y  himself  that
+
+    “Phosphorous” is y’s name; and such that y is a professor of political
+
+    science; moreover, I have just learned from the police that x is y.
+
+
+
+  K is an empirical proposition; it isn’t analytic; a fortiori it isn’t trivial.
+    2
+
+But it’s also a contingent truth. K, on the other hand, is a necessary truth. But
+
+it’s also analytic. So we don’t have anything that is both necessary and non-
+
+analytic.
+
+
+  Kripke  and,  after  him,  many  others  have  professed  to  find  many
+
+examples  of  non-analytic  necessary  truths;  but  in  each  case,  an  exact
+
+analogue of the argument just given shows a confusion similar to the one just
+
+identified to be at work. In each case, semantics is being confused with pre-
+
+semantics, for reasons that are identified in my book Conceptual Atomism
+
+and the Computational Theory of Mind.
+
+
+
+4.0 Necessary truth identical with truth in virtue of microstructure
+
+
+  The  main  modal  concepts  are  necessity,  possibility,  impossibility,  and
+
+contingency. All of these can be understood in terms of the concept of necessity.
+
+P is possible iff not-P isn’t necessary. P is impossible iff not-P is necessary. P is
+
+contingent iff neither P nor not-P is necessary.  Whether all modal concepts can be understood in terms of this one concept
+
+depends  on  how  inclusive  one’s  conception  of  modality  is.  Like  Bas  van
+
+Fraassen (1989), I believe that the property of being probably true is a modal
+
+property—that, indeed, for any number n, the property of being probable to
+
+degree n is a modal property. It’s an open question whether the concept of
+
+probable truth can be understood in terms of that necessary truth. I’m inclined to
+
+think that it can be, given how natural it is to think of necessity as a limiting
+
+case of probable truth. But until this is resolved, it can’t be said that all modal
+
+notions can be understood in terms of the concept of probability. But there’s no
+
+denying that necessity is the most important modal concept.
+
+
+
+  But  what is necessity?  One  plausible  answer  is  this:  necessary  truth  is
+
+analytic truth; necessity is analyticity. “Squares have four sides” is “analytic,” or
+
+“analytically true.” Indeed, all analytically true statements are necessarily true.
+
+So it’s obviously worth looking into the idea necessity is analyticity. Many deny
+
+this  (for  reasons  that  we’ll  discuss  in  a  moment);  but  many,  including  the
+
+present author, hold it. But different authors use the word “analytic” to mean
+
+different things, and we must make it clear how we will be using it before we
+
+can evaluate the proposal that necessary truth is analytic truth.
+
+
+    Sometimes  that  word  denotes  a  property  of  sentences;  other  times,  it
+
+denotes a proposition of propositions. A sentence is analytic if, given only what
+
+it means, it must be true. So “squares have four sides” is analytic. Given only
+
+what it means, it couldn’t possibly be false. A proposition is analytic if it’s non-
+
+empirically true. So the proposition that squares have four sides is analytic. No
+
+conceivable state of affairs could make it false. We will use the word “analytic”
+
+to denote a property of propositions, not sentences.
+
+
+
+    When examining the concept of analyticity, one must make it clear at theoutset whether one is talking about sentences or propositions. Otherwise one
+
+won’t be able to produce a coherent analysis of that concept. This is because
+
+there are analytically true sentences (or, strictly speaking, sentence-tokens) that
+
+have contingent propositions for their meanings. If, at this very moment, I were
+
+to say “I am here now,” my utterance couldn’t fail to be true. Given only the
+
+semantic  rules  that  assign  truth-conditions  to  that  utterance,  it’s  a  logical
+
+impossibility that it should be false. But what it is that I’m saying could very
+
+well be false. Given that I am JMK, that I’m in Richmond, and that it’s now
+
+March 13, 2009, I am, in producing such an utterance, attributing to JMK the
+
+property of being in Richmond, VA, on March 13, 2009. And, quite obviously,
+
+it’s not a necessary truth that I be in that place at that time. Similarly, if I say “I
+
+am not here now,” my utterance is analytically false: given only its semantics—
+
+given only what the semantic rules are that assign truths-conditions to it—it’s
+
+logically impossible that it should be true. But what it’s saying could easily have
+
+been false; I might not, after all, have been in Richmond, VA, at this very time.
+
+It isn’t in virtue of what it’s saying that a given token of “I am here now” (“I am
+
+not here now”) must be true (false); it is in virtue of how it is saying it. But it is
+
+in virtue of what it is saying that a token of “any case of knowledge is a case of
+
+true belief” must be true. This shows that there are two very different kinds of
+
+sentence-analyticity.
+
+
+
+  It also shows that sentence-analyticity diverges from proposition-analyticity
+
+and,  more  generally,  that  sentence-logic  diverges  from  proposition-logic.  In
+
+other words, the logical relations that propositions bear to one another don’t
+
+always parallel the logical relation that the corresponding sentences bear to one
+
+another. The two sets of interrelations can diverge quite dramatically. (Credit for
+
+this astonishing insight goes entirely to P.F. Strawson.) So it’s important to bear
+
+in  mind  that,  in  what  follows,  the  word  “analytic”  refers  to  a  property  ofpropositions,  not  sentences.  (Later  we’ll  discuss  how  it  is  exactly  that
+
+analytically true (false) sentence-tokens can have contingent truths (falsehoods)
+
+for their meanings.)
+
+
+
+  The word “analytic” is ambiguous in another, equally important respect. As
+
+some  philosophers  use  it,  “analytic”  is  synonymous  with  “trivial”  or
+
+“tautologous.” So “there are 3 feet in a yard” is “analytic” because it’s trivial—
+
+because, basically, it says nothing. But as other philosophers use that word,
+
+analytic truths are often decidedly non-trivial—for example, “a class is infinitely
+
+large exactly if it can be into a one-one correspondence with a proper subset of
+
+itself.” When non-trivial truths are described as “analytic,” what is meant is
+
+that they are non-empirically true. This is what we will mean by it, as earlier
+
+stated.
+
+
+    There is one last ambiguity to deal with. As some philosophers use it, the
+
+word  “analytic”  is  synonymous  with  “formally  true.”  Formal  truth  is  a
+
+ 
+property of sentences. It’s the property of being “syntactically” true.[4]A
+
+sentence  is  “syntactically  true”  if  any  sentence  having  the  same  syntactic
+
+form is true. So “either John is tall or John is not tall” is formally true, and
+
+thus analytic (in one sense of the word), because every sentence having the
+
+form “either P or not-P” is true. This obviously isn’t how we’ll be using the
+
+term “analytic,” given that, as previously stated, we’re using it to pick out a
+
+property  of  propositions,  not  sentences.  (Propositions  don’t  have  syntax.
+
+Syntax  is  a  property  of  complex expressions. Propositions  aren’t
+
+expressions.)
+
+
+
+  A final note: even though sentence-analyticity diverges from proposition-
+
+analyticity,  the  two  ultimately  coalesce.  What  does  it  mean  to  say  that,
+
+although the proposition it encodes is synthetic, a given token of “I am herenow” is analytic? It means that, the semantic rules of English being what they
+
+are,  the  proposition  that  any  given  token  of  “I  am  here  now”  is  true  is
+
+analytic. (Given that any token t of “I” refers to the person who utters t, that
+                                    11
+
+any token t of “now” refers to the time at which t was uttered, and so on, it
+            22
+
+follows that a token t of “I am here now” couldn’t be false.)
+
+
+
+  Analytic propositions are true no matter what. The proposition:
+
+
+        (GG) either grass is green or grass is not green
+
+
+
+    cannot fail to be true. It doesn’t matter what happens or what natural laws
+
+govern  what  happens.  Why  is  this?  What  is  it  about  GG  that  makes  it
+
+incapable of being false? A natural proposal is to say that GG is structurally
+
+true. In other words, given what its constituents are, along with how those
+
+constituents are put together, it cannot fail to be true. All structural truths are
+
+analytic truths. Analytic truth is truth in virtue of structure.
+
+
+  This proposal is almost correct, but not quite. Analytic truth is truth in
+
+virtue not just of structure but also of substructure. It isn’t merely in virtue of
+
+its structure that:
+
+
+
+        (ACK) any case of knowledge is a case of true belief
+
+
+  is  analytic;  the  structures  of  its constituents are  involved.  Some
+
+propositions structurally just like ACK are false (e.g., any case of knowledge
+
+is a case of false belief). At the same time, there are false propositions that
+
+are substructurally just like ACK (e.g., “any case of true belief is a case of
+
+knowledge”); and it’s obviously because its structure differs from theirs that,unlike those propositions, ACK is analytically true. Analyticity is truth in
+
+virtue of structure along with substructure. Analytic truth is, as we’ll put it,
+
+high-resolution structural truth.
+
+
+
+    Before we can see what exactly this means, or why it holds, we must
+
+make a few non-controversial, but also non-trivial, points about language.
+
+Languages are evaluated in terms of how much expressive power they have—
+
+in other words, in terms of how much can be said in them. The expressive
+
+power of a language is to be understood not only in terms of how many
+
+propositions  can  be  expressed,  but  also  in  terms  of  how varied those
+
+propositions are. A language that can express the propositions snow is white,
+
+it is true that snow is white, it is true that it is true that snow is white, and so
+
+on, can express infinitely many propositions. But its expressive resources are
+
+minimal;  and  some  other  language  that  can  express  only  a  thousand
+
+propositions, not a single one of which entails a single one of the others, will
+
+grossly exceed the expressive capabilities of the first. And that’s why, when
+
+assessing the expressive potency of a language, the relevant question isn’t so
+
+much  “how  many  propositions  can  it  express?”  as  it  is  “how  much
+
+redundancy is there within the set of propositions that it can express?”
+
+
+    These points may be obvious, but they have a non-obvious consequence,
+
+namely:  as  a  rule,  sentential  structure  mirrors  propositional  structure;
+
+propositions  must  have  structures  similar  to  those  of  the  sentences  that
+
+represent  them.  This  doesn’t  mean  that  each  proposition’s  structure  is
+
+perfectly represented by those of all the sentences that express it. (In fact, this
+
+is impossible, given that sentences with different structures can express the
+
+same proposition.) It doesn’t even mean that any proposition’s structure is
+
+perfectly represented by that of any of the sentences that express it. Here’s
+
+what it does mean: to the extent that the sentences of a given language fail tomirror  the  structures  of  the  propositions  they  express,  that  language  is
+
+expressively  frozen.  So  if  L  and  L*  are  any  two  languages,  then ceteris
+
+paribus L’s expressive power exceeds L*s to the extent that the structures of
+
+L-sentences  do  a  better  job  than  those  of  L*-sentences  of  mirroring  the
+
+structures of the propositions they represent.
+
+
+
+  Let L* be a language that has only simple symbols. So the L*-sentence
+
+for “snow is colder than water” is some single, syntactically simple symbol,
+
+the same being true of every other L*-sentence. Obviously, there’s no limit to
+
+what  L*  can  express,  since  there’s  no  limit  in  principle  to  how  many
+
+primitive  symbols  can  belong  to  a  language.  But,  since  each  symbol
+
+belonging to L* is simple, it’s necessary to add a new symbol to L* every
+
+time one wants to make a point that isn’t the literal meaning of one of its
+
+simple expressions. Nothing could be said in L* that hadn’t been said before:
+
+it would be impossible to express discoveries. Symbols would have to be
+
+added ad hoc to say anything new. But given a language L that has many
+
+ways of combining its primitive symbols into complex ones, it’s expressive
+
+capabilities  will  dwarf  those  of  L*,  so  long  as  the  number  of  primitive
+
+expressions belonging to L rises above a certain, extremely small minimum
+
+number. L* is totally inflexible. L is highly flexible, and can do a lot with a
+
+little. Other things being equal, the extent to which one language’s expressive
+
+resources exceed those of another is directly proportional to the extent by
+
+which sentences of the one language exceed their counterparts in the other in
+
+respect of syntactic complexity.
+
+
+    There is only one viable explanation of this last fact: Syntactic structure
+
+mirrors propositional structure. The syntactic devices that endow a language
+
+with expressive flexibility correspond to the relations by which propositions
+
+are  constructed  out  of  their  constituents  and,  in  particular,  by  whichpropositions  are  constructed  out  of  other  propositions.  Thus,  we  can
+
+confidently  say  that  the  (syntactic)  structures  of  sentences  tend  to  mirror
+
+those of the propositions they express.
+
+
+
+4.1 Necessity as high-resolution structural truth
+
+
+  We can now say what it means to say that analytic truth is high-resolution
+
+structural truth. Given the reasoning just presented, the sentence “either grass
+
+is green or grass is not green” must have a structure similar to GG. But, by
+
+that same reasoning, GG’s structure probably differs from the structure of:
+
+
+
+        (GA) grass is green and grass is not green.
+
+
+  But GA is not analytically true. (It’s analytically false.) Given that GA is
+
+false and has the same structure as GG, it cannot possibly be solely in virtue
+
+of its structure that GG is true. But we don’t just want to give up on the idea
+
+that analytic truth is structural truth. An analytically true proposition is ipso
+
+facto  true  no  matter  what  contingencies  obtain.  This  entails,  or  strongly
+
+suggests,  that  it  is  always  in  virtue  of  something inherent in  it  that  a
+
+proposition is analytically true, and it’s hard to see how the relevant property
+
+could fail to be structural in nature. It’s obvious that, in the case of GA,
+
+what’s causing the trouble is that the concept of conjunction (the concept of
+
+and)  is  occupying  the  place  that,  in  GG,  is  occupied  by  the  concept  of
+
+disjunction (the concept of or). Taken together, these points suggest that it is
+
+in virtue of its structure along with the structure of one of its constituents—
+
+viz. the concept of conjunction—that GG is analytically true.
+
+
+
+  So it’s not quite right to say that analytic truth is structural truth. At the
+
+same  time,  it  isn’t  quite  right  to  identify  analytic  truth  with substructuraltruth. The proposition:
+
+
+
+        (NG) it’s not the case that grass is green or grass is green
+
+
+  is equivalent with the proposition that grass is not green. Thus, NG is
+
+contingently false. But it has the same constituents as the analytically true
+
+GG, and is thus substructurally identical with it, even though it’s structurally
+
+very different.
+
+
+
+  This suggests that for a proposition to be analytically true is for it to be
+
+true in virtue of its structural and its substructural properties. In other words,
+
+given a proposition’s structure along with the structures of its constituents,
+
+it’s settled whether or not that proposition is analytically true. Thus, a high-
+
+resolution representation of a proposition’s structure settles whether or not
+
+it’s analytic. (A “low-resolution” representation would be one that failed to
+
+disclose substructure.) Thus, analytic truth is high-resolution structural truth
+
+—and so, therefore, is necessary truth, given that it’s identical with analytic
+
+truth.
+
+
+5.0 Quine’s denial of informal analytic truth: preliminary concepts
+
+
+
+  In this section, all references to “analytic” truth are to sentential analytic
+
+truths; we will be discussing analytically true sentences, not analytically true
+
+propositions.
+
+
+    W.V.O. Quine (1951) says that, with a few trivial exceptions, there is no
+
+such thing as sentential analytic truth. To understand exactly what it is that he
+
+holds, and why he holds it, we must first make some background points.
+
+Given the sentence        (ST) “if Smith is tall, then it is not the case that Smith is not
+
+    tall”,
+
+
+
+    nonsense results if “Smith” is replaced with “therefore” or “red", and
+
+such replacements are therefore grammatically admissible. But “Smith” can
+
+be replaced with "Jones" or with “that person", in the sense that
+
+
+        (JT) “if Jones is tall, then it is not the case that Jones is not tall”
+
+
+
+  is  a  perfectly  grammatical  sentence.  JT  is  what  results  when  the
+
+occurrences of “Smith” in it are made uniformly. In other words, JT is what
+
+results when, not just one, but all of those occurrences are replaced with the
+
+same thing. The following sentence, by contrast, is what results when only
+
+one of the occurrences of “Smith” in ST is replaced with “Jones” (“NU” is
+
+short for “not uniform”):
+
+
+        (NU) “if Jones is tall, then it is not the case that Jenkins is not
+
+    tall.”
+
+
+
+  Thus, a syntactically well-formed sentence S cannot be false if it is the
+
+result  of  uniformly  replacing  the  occurrences  in  ST  of  “Smith”  (or,  for
+
+reasons analogous to those just given, of “tall”) with some other expression.
+
+
+  In general, a sentence S is formaly true if there is some expression E
+
+occurring in S such that no syntactically well-formed sentence S* is false if
+
+S* is what results when the occurrences in S of E are uniformly replaced with
+
+occurrences of some other expression.
+
+
+
+5.1 Quine’s denial of informal analytic truth  Here, in boldface, is a summary of Quine’s argument :
+
+
+
+  If there are any analytically true sentences, (B) "bachelors are unmarried
+
+men" is one of them. Suppose that (B) is in fact analytic, the reason is that
+
+“bachelor”  and  “unmarried  man”  are  synonyms.  All  analytic  truths,
+
+supposing any to exist, hold in virtue of synonymy-relations.
+
+
+  What is it for two expressions to be synonyms? It is for them to be such
+
+that inter-substitutions of them preserve meaning. “Foe” and “enemy” are
+
+synonymous  because  you  cannot  change  sentence  meaning  by  replacing
+
+“foe” with “enemy.” Put another way, “foe” and “enemy” mean the same
+
+thing  because,  if  a  sentence  S  contains  an  occurrence  of  “foe,”  and  that
+
+occurrence is replaced with an occurrence of “enemy,” the resulting sentence
+
+has the same meaning as S.
+
+
+
+    Consider the sentence: “Smith is a foe.” Now replace the word “foe” with
+
+“enemy.” What results is “Smith is an enemy.” The sentence “Smith is an
+
+enemy” has precisely the same meaning as “Smith is a foe.”
+
+
+  Let S and S* be any two sentences that are exactly alike except for the
+
+fact that, in the place where S contains the word “foe,” S* contains the word
+
+“enemy.” What we just said about “Smith is an enemy” and “Smith is a foe”
+
+is true of S and S*. And that is why “foe” and “enemy” are synonyms. Inter-
+
+substituting  synonyms  doesn’t  change  sentence-meaning—and  for  two
+
+expressions  to  be  synonymous  just is for  them  to  be  such  that  inter-
+
+substituting them doesn’t ever change sentence-meaning.
+
+
+
+  But what is it for two sentences to have the same “meaning”? What is it
+
+for “Smith is an enemy” and “Smith is a foe” to mean the same thing? Fortwo  statements  to  have  the  same  meaning  is  for  them  to  be analytically
+
+equivalent. In other words, it is for them to entail, and be entailed by, exactly
+
+the same statements.
+
+
+
+  “Smith is an enemy” entails “Smith is somebody who is attempting to do
+
+me ill,” and so does “Smith is a foe.” The statement “Smith is somebody
+
+whose sole objective in life is to make my life as unpleasant as possible”
+
+entails “Smith is an enemy,” and it also entails “Smith is a foe.” Given any
+
+statement S that entails “Smith is an enemy,” S also entails “Smith is a foe”;
+
+and given any statement S* such that “Smith is an enemy” entails S*, “Smith
+
+is a foe” also entails S*. Thus, “Smith is an enemy” and “Smith is a foe”
+
+entail, and are entailed by, exactly the same statements—and that, according
+
+to Quine, is what it is for them to have the same meaning.
+
+
+  The just stated argument consists of three steps: 1. (B) is analytic because
+
+“bachelor” and “unmarried man” are synonyms: in general, if a sentence is
+
+analytic, that is because it holds true entirely in virtue of some synonymy
+
+relation. 2. For two expressions to be synonymous is for them to be such that
+
+inter-substitutions of them preserve sentence meaning. 3. For two statements
+
+to have the same meaning is for them to be analytically equivalent. In other
+
+words,  it  is  for  them  to  entail,  and  be  entailed  by,  exactly  the  same
+
+statements.
+
+
+
+      This argument is obviously viciously circular. 1 defines analyticity in
+
+terms of 2 and, thus, in terms of synonymy. 2 defines synonymy in terms of
+
+3, and thus in terms of analyticity. Thus, analyticity has been defined in terms
+
+of itself. We have gone in a vicious circle. Thus, the concept of analyticity is
+
+viciously  circular  and  therefore  incoherent  and,  consequently,  there  is  no
+
+such thing as analytic truth: all truths are synthetic.5.2 Quine’s argument evaluated
+
+
+
+    Contrary  to  what  Quine  alleges,  there  exist  many  analytically  true
+
+sentences that do not hold in virtue of relations of synonymy, for example (T)
+
+"The unique number n such that n = 2 if the interior angles of a Euclidean
+
+triangle add up to 180° and n = 3 otherwise is identical with the unique
+
+                          m 
+number m such that 9= 90 minus 9." No empirical knowledge, over and
+
+above such as is needed to know what T means, is required to know whether
+
+or not T is true. So T true in virtue of what it means and is thus analytic.
+
+
+     To be sure, unlike some analytic sentences, it isn’t formally true. But
+
+since the very thing that Quine is trying to show is that there is no informal
+
+analytic truth, he cannot, without assuming the truth of the very thing he’s
+
+trying to show, claim on those grounds that T is not analytic.) So if Quine is
+
+right, T holds in virtue of some synonymy relation. What, in this case, would
+
+the  relevant  synonyms  be?  Presumably  they  would  be: (*) “the  unique
+
+number n such that n = 2 if the interior angles of a Euclidean triangle add up
+
+                                                                                    m 
+to 180° and n = 3 otherwise”and (#) “the unique number m such that 9= 90
+
+minus 9.”
+
+
+
+     But, even though they refer to the same thing (namely, the number
+
+two), * and # obviously don’t have the same meaning; and Quine is therefore
+
+wrong to say that, if there are analytic truths, they always hold in virtue of
+
+synonymy relations.
+
+
+5.3 Analytic truth non-circularly definable as non-empirical truth
+
+
+
+    Quine’s larger point seems to be that there is no non-circular definition of
+
+the term “analytic truth.” But that is false: a sentence is analytic if (a) it istrue and (b) it does not hold in virtue of empirical facts. Put simply: analytic
+
+truth is non-empirical truth. “Circles are figures of uniform curvature” is true
+
+and, moreover, it holds, not in virtue of empirical facts (i.e., not in virtue of
+
+how objects are in fact shaped), but in virtue of facts about the structures of
+
+the properties circle, curvature, and so on. Of course, being a nominalist,
+
+Quine would reject the idea that there are non-empirical truths. (After all, a
+
+nominalist believes that everything is spatiotemporal: there are no platonic
+
+entities and thus no properties.) But in attempting to establish that all truths
+
+are synthetic, Quine is, in effect, trying to establish that there are no empirical
+
+truths. For an empirical truth is, by definition, one that can be learned only
+
+through observation and therefore cannot be learned through any non-sensory
+
+modality such as conceptual analysis. So Quine would be guilty of begging
+
+the question were he to say that, since all truth is empirical, it is not an option
+
+to define “analytic” as “non-empirically true.”
+
+
+
+5.4 Quine’s position self-defeating
+
+
+  Also, the view that there are no analytic statements is self-defeating.[5]
+
+ 
+The statement (^) There are no empirical statementsis equivalent to (^^) for
+
+all  values  of  S,  the  statement  nothing  follows  from  S  follows  from  the
+
+ 
+statement S is a statement.In other words, if you say that there are no analytic
+
+statements, you are saying that nothing follows from any statement. But if
+
+you say that, then you are saying that the statement nothing follows from S
+
+follows from the statement S is a statement. Thus, the view that there is no
+
+analytic  truth  entails  that there  is analytic  truth,  and  is  therefore  self-
+
+ 
+defeating.Also if all truths were empirical, then, for any statements S and S,
+                                                                                  12
+
+it would be an empirical question, and thus one to be decided on the basis of
+
+some third statement S, whether S confirmed S ; but it would equally be an
+                          312empirical question, and thus one to be decided on the basis of some fourth
+
+statement S, whether or not S confirmed that S confirmed S ; and so on ad
+            4312
+
+infinitum. Thus, if all truth were empirical, nothing would confirm anything.
+
+ 
+
+6.0 Why there are necessarily true propositions
+
+ 
+
+  First  a  terminological  point:  If  a  proposition  is  true,  but  it  isn’t
+
+necessarily  true,  it  is  “contingently  true,”  or  just  “contingent”;  and  if  a
+
+proposition is false, but it isn’t necessarily false, it is “contingently false.”
+
+  It seems clear that some truths are contingent. Gore might have become
+
+President in 2001. He didn’t. Bush became President instead. But Bush didn’t
+
+have to  become  President.  So  it’s  a  contingent  truth  that  Bush  became
+
+President. In general, things don’t have to be the way they are; they could be
+
+different. In any case, this is what we think, and it’s what we’ll assume in this
+
+context.
+
+
+
+    Given  this  assumption,  we  must  ask  the  following  question:  Are  any
+
+propositions necessarily true? Yes. Why is this? Because the assumption that
+
+no propositions are necessarily true is self-undermining. For argument’s sake,
+
+suppose that: (NN) No propositions are necessarily true.
+
+
+  Is NN itself necessarily true or not? It has to be one or the other. If NN is
+
+a necessary truth, it’s a counterexample to itself and is therefore false. So
+
+let’s suppose for argument’s sake that NN is contingently true. In that case, it
+
+could be false. In other words, there is some possible world W where some
+
+proposition P is necessarily true. A proposition is necessarily true iff it’s true
+
+in all possible worlds. So given that P is necessarily true in W, it follows that
+
+P is true in every world. Thus, P is true in our world, and P is true in everyworld. Thus, P is necessarily true in our world, and NN is therefore false. To
+
+sum up: NN is self-defeating if it’s necessarily true, and NN is self-defeating
+
+if it’s true but not necessarily so. Therefore, NN is false.
+
+
+
+  Also,  if  NN  is  true,  then  the  statement  (i)  “P  isn’t  necessarily  true”
+
+necessarily follows the statement (ii) “P is a proposition,” and it is therefore a
+
+necessary truth that (i) isn’t false if (ii) is true. So NN cannot be true unless
+
+it’s false, and it’s therefore false.
+
+
+6.1  Knowledge  of  necessary  truth  a  prerequisite  for  knowledge  of
+
+contingent truth
+
+
+
+    Nonetheless,  some  philosophers  have  denied  that  there  are  necessary
+
+propositions.  We  just  considered  Quine’s  argument  for  this.  Given  how
+
+contrived that argument is, how lacking in logical integrity and devoid of
+
+intuitive force, it’s hard to believe that Quine’s rejection of necessary truth
+
+was based entirely on it. Quine, one would suspect, must have had some pre-
+
+existing agenda and he constructed that argument in the hopes that it would
+
+legitimate that agenda.
+
+
+    Such suspicions would be correct. Throughout his long career, Quine was
+
+unrelenting in his advocacy of a particularly extreme form of empiricism.
+
+
+
+  To understand Quine’s empiricism, we must note a fact about empiricism
+
+in general. Empiricism says that you know only what your senses are telling
+
+you.  Unless  you  assume  the  truth  of  principles  that  cannot  be  learned
+
+empirically,  you  can’t  show  that  your  perceptions  correspond  to  any
+
+transperceptual  reality.  For  this  reason,  empiricism  tends  to  collapse  into
+
+idealism, this being why Berkeley, who has a hardcore empiricist, was alsoan idealist.
+
+
+
+    Quine’s  empiricism  is  in  some  ways  antithetical  to  Berkeley’s
+
+empiricism.  Berkeley  was  led  by  his  empiricism  to  deny  the  non-mental.
+
+Quine was led by his empiricism to deny the mental. According to Quine,
+
+there is no observational evidence of mental states. One sees bodies. One
+
+doesn’t see or otherwise sense-perceive mental states. Quine’s position is that
+
+mental states either don’t exist or are identical with the bodily behaviors that
+
+we ordinarily, and wrongly in Quine’s view, believe to be expressions of
+
+mental states. Thus, Quine was a behaviorist. (In my short book Empiricism
+
+and its Limits, it is shown why behaviorism is false.)
+
+
+    Quine also held that there is no a priori knowledge. There is, he believed,
+
+no  knowledge  that  is  hardwired  into  us  and  that  regulates  the  intake  and
+
+subsequent processing of sensory information. Quine also believed that our
+
+linguistic behavior can be explained on the assumption that, at birth, we are
+
+blank slates and that it is entirely through a process of Pavlovian conditioning
+
+that we come to use words in the way we do.
+
+
+
+  This doctrine is also known as “behaviorism.” Behaviorism in this sense
+
+is a psychological theory that tries to answer the question “how does a human
+
+being  learn  to  speak  a  language?”  Behaviorism  in  the  other  sense  is  a
+
+philosophical  theory  that  tries  to  answer  the  question  “what  are  mental
+
+states?”  To  avoid  confusion,  I’ll  refer  to  the  first  doctrine  as  “linguistic
+
+behaviorism.”
+
+
+    Linguistic behaviorism is incoherent. To say “that’s a fire” and mean it, I
+
+must  have  beliefs  as  to  what  that  expression  means  and  as  to  what
+
+circumstances would warrant my uttering it. If I reflexively bark it out when Isee  a  fire,  I’m  no  more  affirming  that  there’s  a  fire  than  I  am  if  I  start
+
+sweating in response to the heat given off by a nearby fire.
+
+
+
+  Also,  in  1957,  Noam  Chomsky  published  his  groundbreaking  work
+
+Syntactic Structures, which, along with the many other important works that
+
+Chomsky  was  soon  to  publish,  made  it  clear  that  Quine’s  linguistic
+
+behaviorism simply didn’t model the relevant facts. Chomsky proposed an
+
+alternative theory, according to which inborn cognitive structures are largely,
+
+though  obviously  not  entirely,  determinative  of  how  we  learn  and  use
+
+language. Unlike Quine’s theory, Chomsky’s is splendidly borne out by the
+
+facts.
+
+
+    Quine and others accused Chomsky of putting forth a priori theories that
+
+lacked an adequate empirical grounding. This is both false and confused. It’s
+
+true that according to Chomsky’s theory we have a priori knowledge. But it
+
+doesn’t follow that Chomsky’s theory is itself a priori. Chomsky’s theory is
+
+based on empirical data; and, unlike Quine’s theory, it fits that data. And
+
+even though, according to Quine’s theory, there is no a priori knowledge, it
+
+doesn’t follow that Quine’s theory is itself empirically well-founded. It isn’t.
+
+It’s  rooted  in  the  a  priori,  and  easily  disconfirmed,  presumption  that  all
+
+psychological  phenomena  are  to  be  explained  in  the  same  way  as  the
+
+salivating of Pavlov’s dog.
+
+
+
+  One  of  the  great  ironies  of  empiricism  is  that  it’s  one  of  the  most
+
+unempirical theories of all time. People learn languages. Dogs don’t. A dog
+
+wouldn’t even learn the rudiments of a language were it to experience the
+
+sensory simulations that enable a human being to master one. This shows
+
+that, unlike dogs, human beings are endowed with innate cognitive structures
+
+that enable them to derive an integrated and complex body of knowledgefrom  such  stimulations.  The  same  point mutatis  mutandis holds  of  any
+
+cognitive  skill  that  human  beings  can  acquire  that  animals  cannot.
+
+Empiricism  is  therefore  inconsistent  with  empirical  evidence  of  the  most
+
+blatant and widespread kind.
+
+
+
+  In  any  case,  despite  the  vast  and  ever-growing  body  of  evidence  in
+
+support of Chomsky’s anti-Quinean views, Quine stuck to his guns, and in
+
+the 45 years that passed between the publication of Syntactic Structures and
+
+his death, Quine didn’t soften his position. Not only did he not concede that
+
+Chomsky was at all right; he didn’t even concede that mental entities even
+
+exist, except to the (non-existent) extent to which they can be identified with
+
+overt behaviors.[6]
+
+
+  In any case, it’s clear that Quine’s rejection of analytic truth wasn’t the
+
+effect,  but  was  instead  the  cause,  of  his  acceptance  of  the  bizarre  and
+
+unwieldy  argument  of  his  that  we  considered  earlier.  Quine  obviously
+
+produced  that  argument  ad  hoc,  hoping  to  give  his  idiosyncratic  form  of
+
+empiricism a solid foundation. Quine’s real reason for denying the existence
+
+of analytic truth lay in his staunch empiricism. All philosophers, and indeed
+
+non-philosophers, who deny the existence of analytic truth do so because
+
+they are staunch empiricists.
+
+
+
+  Thus, when authors deny that there are necessary truths, the underlying
+
+sentiment, if not the immediately operative rationale, is that (NT) Since it is
+
+unscientific  to  believe  that  knowledge  has  any  basis  other  than  sensory
+
+observation, it is unscientific to believe in necessary truth; for a necessary
+
+truth  is  one  that  holds  in  any  possible  scenario,  it  is  one  with  which  all
+
+observational data are equally compatible and, for that reason, is not to be
+
+known on the basis of observation.  6.2 Why NT does not go through
+
+
+
+  All knowledge of the spatiotemporal world is rooted in observation. But
+
+there’s more to doing science than making observations. The observations are
+
+only  a  means  to  an  end,  the  end  being  the  acquisition  of  theoretical
+
+knowledge.  We’ll  now  see  that  non-observational  knowledge  is  a
+
+precondition for theoretical knowledge and also that it is always necessary
+
+truths that are known non-observationally.
+
+
+  Our senses give us raw data. Raw data is the foundation of all empirical
+
+knowledge. But data cannot interpret itself. And even if it could, it wouldn’t
+
+relieve of you of the burden of having to interpret the data for yourself. For
+
+argument’s sake, suppose that the data were self-interpreting, and that its self-
+
+interpretations were disclosed to you in periodic reports. Any such report
+
+would itself be given to you in terms of raw data that you’d have to analyze;
+
+so you couldn’t even understand the report unless you already knew how to
+
+interpret the data. Second, once you did understand the report, you’d have no
+
+good reason to trust it unless you could find some independent corroboration
+
+for it. Finding such corroboration would involve coming up with your own
+
+interpretation of the data and seeing how well it matched the interpretation in
+
+the report. So even if per impossible perceptual data could self-interpret, one
+
+could learn nothing about the external world from those interpretations unless
+
+one could interpret the data for oneself. It is, therefore, totally incoherent to
+
+suppose  that  one  could  know  on  the  basis  of  observation  alone  how  to
+
+interpret the data of observation; and since it’s totally incoherent to suppose
+
+that one could have theoretical or, therefore, scientific knowledge without
+
+interpreting  the  data,  it  is  totally  incoherent  to  suppose  that  any  science
+
+should be strictly observation-based. There is necessarily a non-observational
+
+component to the acquisition of scientific knowledge.    Interpreting  data  involves  being  able  to  discern  abstract  resemblances
+
+between  different  concrete  situations.  Doing  this,  in  its  turn,  involves
+
+knowing necessary truths. Seeing that two objects are alike in respect of (e.g.)
+
+their shape involves seeing that they fulfill conditions that, if not fulfilled by
+
+an object, necessarily preclude it from having the shape in question. Seeing
+
+that otherwise dissimilar objects x and y are both square-shaped involves
+
+knowing that, were an object to have more sides than x or y, it would for that
+
+very reason fail to have the same shape as them, and it also involves knowing
+
+that, if an object had a different color from x or y, it would not for that very
+
+reason fail to have the same shape as them. One can’t know that x and y have
+
+the  same  shape  unless  one  knows  that  an  object’s  having  four  sides
+
+necessarily disqualifies it from being shape-identical with those objects. In
+
+general,  one  cannot  discern any abstract  similarities  between any two
+
+concrete  situations  unless  one  knows,  for  at  least  some  property,  what
+
+conditions must be fulfilled if a given object is to have that property. So
+
+knowledge of necessary truths is a precondition for being able to recognize
+
+resemblances between things. Since knowledge of such resemblances is the
+
+first, and the most rudimentary phase, of scientific endeavor, it is radically
+
+incoherent to suppose that there should be any scientific knowledge without
+
+knowledge of at least some necessary truths.
+
+
+
+    W.V.O. Quine tried to provide a rigorous proof of NT. We considered
+
+this proof in Sections 5.0–5.5 of the present paper and found it to be wanting.
+
+But notice that the very idea of trying to prove that contention is a self-
+
+defeating one. For there are no proofs if all truth is contingent, since proving
+
+something is showing that it must be the case. (More accurately, to prove
+
+conclusion C on the basis of premises P is to show it to be necessarily true
+
+that if P, then C.) Thus, to prove NN to be true is to prove it to be false. So acertain incoherence is embedded in the very idea of trying to show that there
+
+are no necessary statements.
+
+
+
+7.0 Analytic truth vs. formal truth
+
+
+    Formal truth isn’t analytic truth. We’ll discuss this in this section, and
+
+we’ll  also  see  what  exactly  it  means  to  describe  a  truth  as  “formal.”  A
+
+statement is analytically true if its negation is incoherent. “Squares have four
+
+sides”  is  analytic.  Why?  Because  “squares  don’t  have  four  sides”  is
+
+incoherent, and so is “anything that is literate is animate.” The reason being
+
+that it makes no sense to suppose that squares might fail to have four sides or
+
+that literate beings might fail to be animate.
+
+
+
+  “Right now, in 2009, Barack Obama is the U.S. President” is a non-
+
+analytic truth. This is because “Barack Obama is not President in 2009,”
+
+though false, makes sense. If that sentence didn’t make sense, then in 2007 it
+
+wouldn’t  have  been  reasonable  to  wonder  whether  Obama  would  be
+
+President in 2009. But it was.
+
+
+    Non-analytic truths are empirical truths. An empirical truth is one that
+
+can be known only through sensory observation. It is only on the basis of
+
+sense-perception that one can know that Barack Obama is currently the U.S.
+
+President.  That  is  why  “Barack  Obama  is  currently  the  U.S.  President”
+
+expresses  an  empirical  truth.  But  it  is  entirely  through  insight  into  its
+
+meaning, and into its entailment-relations, that one knows that nothing could
+
+be to be identical with itself; that being why that truth is analytic.
+
+
+
+  In the Critique of Pure Reason, Immanuel Kant (1724–1804) infamously
+
+claimed  that  there  are  non-analytic  (or,  as  he  referred  to  them, synthetic)truths that can be learned in a non-observational manner. He was wrong, as
+
+we’ll see in Section 9.2.
+
+
+
+7.1 Empirical vs. pseudo-empirical truth
+
+
+  One  must  distinguish  genuine  empirical  knowledge  from  analytic
+
+knowledge  the  acquisition  of  which  is triggered by empirical knowledge.
+
+Consider the principle that:
+
+
+
+        (DN[7]) if a statement is false, then the negation of its negation is
+
+    false.
+
+
+  For example, if Smith is in Richmond, then it is false that Smith is not in
+
+Richmond. DN is one of the cornerstones of logic.
+
+
+
+    Learning DN may involve hearing or reading, and therefore seeing, some
+
+affirmation of it. But you don’t learn DN empirically—that is, it isn’t through
+
+sensory observation that you learn it. But, if you know DN, it is because you
+
+see  that,  given  its  meaning,  it  would  make  no  sense  to  deny  it.  Sense-
+
+perceptions may well have been needed to initiate or trigger the reflections
+
+on  the  basis  of  which  you  learned  DN.  But  such  sense-perceptions  were
+
+themselves  no  part  of  that  discovery  process.  They  were  part  of  the pre-
+
+discovery process—much as turning the ignition in a car is part of the pre-
+
+journey, and not the journey proper.[8]
+
+
+    Given a true statement S, there is a simple test for determining whether it
+
+is empirical or analytic. If, in order to justify acceptance of S, you must cite
+
+empirical data, it’s empirical. To justify your acceptance of the statement that
+
+Smith has gained 20 pounds in the last year, you must cite empirical data(e.g., sense-perceptions that you have had of Smith or of affirmations on the
+
+part of reliable sources as to Smith’s weight situation). But your acceptance
+
+of DN can be justified only by insight into its meaning; it cannot possibly be
+
+justified  on  observational  grounds.  Of  course,  one  might  justify  one’s
+
+acceptant of DN by citing the fact that one has heard some authority affirm it;
+
+and, of course, one’s knowledge of that fact is observation-based. But those
+
+observations  justify  DN only to  the  extent  that  the  authority  figures  in
+
+question understand why, for reasons that lie entirely in DN’s content and
+
+having nothing to with anything one perceives, that statement must be true.
+
+Testimony-based knowledge of analytic truths, if it exists, is parasitic on non-
+
+observational knowledge of them.
+
+
+
+  And  it’s  doubtful  whether  such  knowledge  really  exists.  If  I  don’t
+
+understand why DN is true, and I accept it only because somebody I trust
+
+does so, then I don’t really know it. What I accept is not, it seems to me, quite
+
+what the authority figure in question accepts. That person really accepts DN.
+
+But what I accept isn’t DN, and is instead some statement along the lines of:
+
+“since  so  and  so  is  authoritative,  and  since  so  and  so  affirmed  DN,  that
+
+statement is probably right”—which, unlike DN itself, is empirical.
+
+
+    Sense-perception adds to one’s knowledge in two different ways. In some
+
+cases, it does so by transmitting information about the external world. If I see
+
+Jim  playing  soccer,  my  visual  perception  adds  to  my  knowledge  by
+
+transmitting to me the correct message that Jim is playing soccer. In other
+
+cases, sense-perception merely activates some purely ratiocinative process.
+
+The ratiocination-activating role of sense-perceptions must be distinguished
+
+from  its  information-transmitting  role.  Empiricism,  the  doctrine  that  all
+
+knowledge is derived from the senses, is based on a failure to make this
+
+distinction,  for  reasons  that  are  put  forth  in  my  book Empiricism and itsLimits.
+
+
+
+7.2 Analytic knowledge vs. linguistic knowledge
+
+
+  It’s an empirical fact that the sentence “squares have four sides” means
+
+what  it  does.  Those  sounds  could  mean  anything.  They  could  mean  that
+
+squares  don’t  have  four  sides  or  that  everybody  owns  a  Rolls  Royce.  A
+
+brilliant extraterrestrial could reasonably wonder what that sentence means.
+
+But such a being could not reasonably wonder whether squares have four
+
+sides. Thus, it’s an empirical truth that the sentence “squares have four sides”
+
+is to the effect that squares have four sides. But it’s an analytic, non-empirical
+
+fact that squares have four sides.
+
+
+
+7.3 Analyticity vs. triviality
+
+
+  The concept of analytic truth is typically illustrated in connection with
+
+trivial statements (e.g., “any given thing is identical with itself”). But there
+
+are non-trivial analytic  truths.  Some  examples:  (a) Given  only  that  an
+
+institution is flourishing, it cannot be inferred that the individuals composing
+
+it are flourishing; and given that the individuals composing an institution are
+
+flourishing, it cannot be inferred that the institution itself is flourishing. (b)
+
+No finite set can be put into a one-one correspondence with a proper subset
+
+of itself. (c) Any infinite set can be put into a one-one correspondence with a
+
+proper subset of itself. (d) Anything sentient is, at any given point, unaware
+
+of at least some of its mental states. (e) Two objects that cannot enter into
+
+causal relations with each other cannot have spatial or temporal positions
+
+relative to each other. (g) There are continuous functions that are nowhere
+
+differentiable.7.4 No synthetic non-empirical truths: an outline of an argument
+
+
+
+  In the Critique of Pure Reason Kant claimed that there are non-analytic
+
+(or,  as  he  called  them, synthetic)  truths  that  can  be  learned  in  a non-
+
+ 
+observational manner.[9]He was wrong. To say why, we must first define
+
+some terms.
+
+
+  The negation of a statement P is not-P. (The negation of snow is white is
+
+snow is not white.) A statement is coherent if what it says isn’t ruled out
+
+solely by considerations of how things must be. An analytic statement is one
+
+whose negation is incoherent. (It’s analytic that triangles have three sides,
+
+since a triangle’s having four sides can be ruled out entirely on the basis of
+
+consideration of how things must be.)
+
+
+
+  Now for the argument. A statement may be non-analytic either because
+
+its  negation  is  analytically  true  (triangles  don’t  have  four  sides is  non-
+
+analytic for this reason) or because both it and its negation are coherent (JMK
+
+is in Richmond is non-analytic for this reason). A statement that satisfies the
+
+second condition cannot be known to be false (or true) merely on the basis of
+
+how things must be, and can known to be false (or true) only on the basis of
+
+how  things  are.  How  things  are  can  be  known  only  through  observation.
+
+Anything  so  known  is  ipso  facto  empirical.  So  any  non-analytic  truth  is
+
+empirical.
+
+
+7.5 Formal truth
+
+
+
+  The  concept  of formal  truth has  an  important  place  in  philosophical
+
+inquiry. It is sometimes propositions that are described as “formally true.”
+
+But this is quite rare, and it’s almost always expressions that are so described.To the extent that formal truth is a property of expressions, it must be a
+
+property  of  sentence-tokens, not  of  sentence-types,  since  the  latter,  for
+
+reasons explained in Language, by the present author, are never true or false.
+
+And  in  the  pages  to  come,  we  must  bear  in  mind  that,  so  far  as  any
+
+expressions are formally true, it is sentence-tokens, not sentence-types.
+
+
+
+       Here are some examples of sentences[10] that would universally be
+
+agreed to be “formally true”: (1) If Bill is tall, then it is not the case that Bill
+
+is not tall. (2) If everything has a given property, then any given thing has
+
+that property. (3) If all F’s are G’s, and no G’s are H’s, then no F’s are H’s.
+
+(4) Either Helsinki is in Finland or Helsinki is not in Finland. (5) “If Smith is
+
+at home, then it’s not the case that Smith is not at home” (6) If x is at home,
+
+then it’s not the case that x is not at home. (7) If Smith is phi, then it’s not the
+
+case that Smith is not phi. (8)              If x is phi, then it’s not the case that x
+
+is not phi. (9)              If P, then it’s not the case that not-P. (10) If it’s
+
+necessarily  the  case  that  Smith  is  a  mammal  if  Smith  is  a  dog,  then  it’s
+
+necessarily the case that Smith is a mammal if it’s necessarily the case that
+
+Smith is a dog
+
+
+          What  is  “formal  truth”?  What  does  it  mean  to  describe  (1),  for
+
+example, as “formally true”? Here’s the canonical answer (“FT” stands for
+
+“formal truth,” of course):
+
+
+
+        (FT) Formal truth is syntactic truth. A sentence is “syntactically
+
+    true” if, given only its syntactic structure, it cannot fail to be true.
+
+    Thus, a sentence is formally true if no sentence having the same
+
+    syntactic structure is false.
+
+
+  FT cannot be accepted. A linguist would say that (1) “grass is green orgrass is not green” has the same syntax as (2) “grass is green and grass is not
+
+green.” As linguists use the word “syntax,” two expressions have the same
+
+syntax if the way in which the one is built out of its parts is identical with the
+
+way in which the other is built out of its parts. For example, “Bill hates Ted”
+
+and “Laura loves Sally,” though having very different meanings, have the
+
+same syntax, the reason being that they’re structurally identical. The one is
+
+built out of its simple constituents in the very way that the other is built out of
+
+its constituents. Thus, it isn’t because of any structural differences between
+
+them that they have different meanings.
+
+
+
+  The relevant difference is substructural. It lies in the fact that the meaning
+
+of “and” is different from that of “or.” So the difference between (1) and (2)
+
+is  like  the  difference  between  “John  is  tall”  and  “Mary  is  short”:  it  lies
+
+entirely in the fact that the primitive, semantically unstructured constituents
+
+of the one have different meanings from their counterparts in the other. Thus,
+
+relative to what linguists mean by “syntax” (and “syntactic,” etc.), it’s a non-
+
+starter to say that “formal truth” is syntactic truth. Logicians and philosophers
+
+obviously  have  in  mind  some  very  different  understanding  of  the  word
+
+“syntax” when they identify “formal” truth with “syntactic” truth. They don’t
+
+have in mind sentential (or phrasal) structure. What do they have in mind?
+
+What do philosophers mean when they say that a formally true sentence is
+
+one that holds entirely in virtue of its “syntax”? What do they mean when
+
+they describe some statement as a “formal truth”?
+
+
+7.5.1 Quine on formal truth
+
+
+
+    W.V.O.  Quine  (1908–2000)  gave  a  characteristically  intelligent  and
+
+straightforward answer to this important question: a sentence S is formally
+
+true if, given any expression in S that isn’t a logical constant, it isn’t possibleto  produce  a  false  sentence  by  replacing  that  expression  with  another
+
+expression of the appropriate grammatical category. A “logical constant” is
+
+an expression on the following list: “if . . . then . . . ,” “either . . . or . . . ,”
+
+“not,” “for all,” “for some,” “=”—and any obvious derivatives of any of these
+
+expressions (e.g., “is identical with,” “given any,” “it is not the case that,”
+
+etc.)[11]
+
+
+
+    Consider the sentence “grass is green or grass is not green.” Replacing
+
+“grass” with “fire” or “Bob” results in a truth, as does replacing “green” with
+
+“cool” or “voluminous.” (It’s assumed that the replacements are uniformly
+
+made: if a single occurrence of “grass” is replaced with “fire,” so is every
+
+other such occurrence.) Given any expression in (1) other than the logical
+
+constants in it (viz. “either . . . or . . .” and “not”), replacing that expression
+
+with another belonging to the same grammatical category results in truth.
+
+
+    There are two problems with Quine’s analysis. First, it doesn’t say what
+
+is so special about those items; it doesn’t say what these so-called “logical
+
+constants” have in common with one another that other expressions not on
+
+the  list don’t have  in  common  with  them.  And  until  that  information  is
+
+provided, there’s nothing to prevent one from extending that list in arbitrary
+
+ways. Unless that list was generated by some rule, anything can be added to it
+
+without diminishing its integrity, since it has no integrity to begin with. But if
+
+it was generated by some rule, then Quine’s answer fails to identify it and
+
+thus fails to say what formal truth is.
+
+
+
+  An analogy may help. When asked to define the expression “number,” I
+
+simply list the  various  different  kinds  of  numbers  (“real,”  “whole,”
+
+“rational,”  “imaginary,”  etc.).  Have  I  answered  the  question?  No.  Even
+
+though I’ve listed the various different kinds of numbers, I haven’t said whatnumbers are, and I thus haven’t provided any reason why fractions are on
+
+that list but birds are not. Accordingly, my answer doesn’t give anyone a
+
+reason not to extend that list as he or she pleases—not to decide that birds
+
+and rocks are numbers. Of course, nobody would extend the list in such an
+
+absurd way. But that’s only because our intuitions strongly suggest that there
+
+is some characteristic had in common by reals, rationals, etc., that birds and
+
+rocks don’t have.
+
+
+
+    Second, there are truths not covered by Quine’s analysis that don’t appear
+
+to differ in any relevant respect from those covered by that analysis. Many
+
+modal statements are in this category—for example, “if it’s necessarily the
+
+case that Smith is a mammal if Smith is a dog, then if it’s necessarily the case
+
+that Smith is a mammal if it’s necessarily the case that Smith is a dog.” There
+
+doesn’t seem to be any relevant difference between that statement and one
+
+that conforms to Quine’s analysis—for example, “if Smith is a mammal if
+
+Smith is a dog, and Smith is an animal if Smith is mammal, then Smith is an
+
+animal if Smith is a dog.” So there doesn’t seem to be any good reason why
+
+“necessarily,” unlike “if . . . then . . . ,” doesn’t make it onto Quine’s list.
+
+
+  Of course, one could deal with this by adding “necessarily” to that list.
+
+But  then  we’d  have  to  ask:  “what  makes that extension  of  the  list
+
+legitimate?,” bringing us back to the criticism made a moment ago.
+
+
+
+7.5.2 Why formal truth ≠ topic-neutral truth
+
+
+    Some  have  argued  that  formal  truth  is  maximally  generic,  or  “topic-
+
+neutral,”  truth.  The  idea  is  that  “x  =  x”  is  logically  true  because  it’s
+
+completely  general:  it  doesn’t  belong  to  any  one  discipline  and  is
+
+presupposed by all of them.[12]  But  this  doesn’t  work.  There  are  maximally  generic  truths  that  aren’t
+
+formal—for  example,  “nothing  can  wholly  pre-exist  itself,”  “nothing
+
+spatiotemporal can lack causal properties,” “nothing non-spatiotemporal can
+
+have causal properties,” “inductive inference isn’t an appropriate method of
+
+reasoning for non-empirical disciplines.” Given any one of these sentences,
+
+it’s easy to show that there are false sentences having the same syntactic
+
+form. For example, the first of those sentences has the same form as “nothing
+
+spatiotemporal can have causal properties,” which is obviously false.
+
+
+
+  One could argue that these truths aren’t sufficiently generic. But then it
+
+would  be  very  unclear  what  exactly  “sufficiently  generic”  meant  in  this
+
+context, and the suspicion would arise that, so far as it had any coherent
+
+meaning,  “sufficiently  generic”  meant  “not  a  counterexample  to  this
+
+particular theory of formal truth.”
+
+
+  Also, whether a sentence expresses a generic truth has nothing to do with
+
+its form. The truth expressed by “if everything has a given property, then any
+
+given thing has that property” is surely a maximally generic one. But that
+
+truth could obviously be expressed by a primitive, syntactically unstructured
+
+symbol. In fact, there is no form that sentences must have if they are to
+
+express  that  truth  or  any  other.  So,  if  “formal  truth”  is  taken  to  be  a
+
+characteristic of expressions of some kind, then it’s simply false to identify
+
+“formal truth” with “maximally generic” truth. And if “formal truth” isn’t
+
+meant in this way, then it’s simply irrelevant to our current inquiry.
+
+
+
+7.5.3 An alternative analysis of formal truth
+
+
+  A sentence is formally true if it is an instance of an open-sentence that is
+
+true for all values of its free variables. (An “open-sentence” is an expressionthat contains a free variable, and is therefore neither true nor false, but is
+
+otherwise  just  like  a  sentence.  So  “x  is  tall”  is  an  open-sentence.)  For
+
+example (5) is a formal truth because it’s an instance of the open-sentence “if
+
+x is phi, then it’s not the case that x is not phi,” which is true for all values of
+
+x. (We’ll see that (5) is an instance of many such open-sentences. But its
+
+being an instance of just one is enough for its being formally true.) Given any
+
+formal truth, the same holds.
+
+
+
+  If an open-sentence is true for all values of its variables, we’ll say that it’s
+
+“universally true.” So “x = x” is universally true (that being why “Smith =
+
+Smith”  is  “formally”  true).  It  must  be  kept  in  mind  that  this  is  just  an
+
+abbreviation. “x = x” is neither true nor false. No open sentence is true or
+
+false.
+
+
+  (1) is a true sentence. (2)–(4) are neither true nor false. Given (1), (2) is
+
+what results when “Bill Gates” is replaced with a variable, (3) is what results
+
+when “wealthy” is replaced with a variable, and (4) is what results when both
+
+are replaced with variables. Of course, actual sentences are formed out of
+
+these open-sentences by replacing the variables in (6)–(9) with constants. In
+
+each case, this procedure may yield either a true sentence or a false one. For
+
+example, replacing the variable in (2) with “Bill Gates” yields a truth and
+
+replacing it with “Mike Smith,” the name of an impecunious friend of mine,
+
+yields a falsehood.
+
+
+
+  Each of (6)–(9) is formed by replacing one or more expressions in (5)
+
+with a variable. And the following sentences result when, in each case, the
+
+variables are bound by universal quantifiers: (6UG) For any individual x, if x
+
+is  at  home,  then  it’s  not  the  case  that  x  is  not  at  home.  (7UG) For any
+
+property phi, if Smith is phi, then it’s not the case that Smith is not phi. (8UG)For any individual x and any property phi, if x is phi, then it’s not the case
+
+that x is not phi. (9UG) For any proposition P, if P, then it’s not the case that
+
+not-P.
+
+
+
+      Thus, a sentence is formally true if it’s an instance of a universally
+
+true open-sentence. Thus, (10) is formally true, because it’s an instance of the
+
+following  open-sentences,  each  of  which  is  true  for  all  values  of  its  free
+
+variables: (11) If it’s necessarily the case that x is a mammal if x is a dog,
+
+then it’s necessarily the case that x is a mammal if it’s necessarily the case
+
+that x is a dog. (12) If it’s necessarily the case that Smith is a mammal if P,
+
+then it’s necessarily the case that Smith is a mammal if it’s necessarily the
+
+case that P. (13) If it’s necessarily the case that Q if P, then it’s necessarily
+
+the case that Q if it’s necessarily the case that P.
+
+
+7.5.4 What is a logical constant?
+
+
+
+    Quine’s  analysis,  we  noted,  is  vitiated  by  his  failing  to  say  what
+
+conditions an expression must satisfy to be a “logical constant.” We are in
+
+position to provide this information. The expressions “not” and “if . . . then . .
+
+.” are on Quine’s list of logical constants, and those expressions occur in (5).
+
+
+     Before we proceed, we have to make a couple of points about the
+
+word “not.” That word what is known as a “sentence-level operator”: it’s an
+
+expression  that  forms  sentences  out  of  sentences—it  forms  “snow  is  not
+
+white” out of “snow is white.” It isn’t often that sentence-level operators are
+
+replaced with variables. But not only can such replacements be made; they
+
+must  be  made.  Otherwise,  it  would  be  impossible  to  express  any
+
+generalization  about  sentence-level  connectives.  (Logicians  and  linguists
+
+often make statements about whole classes of sentence-level connectives, andsuch statements involve replacements of this kind, since they have the form:
+
+“given any sentence level connective X . . .”)
+
+
+
+    In fact, we’re about to state just such a principle right now. Given (5),
+
+if we replace “not” with a variable, the result is: (5X) “If Smith is at home,
+
+then it’s X the case that Smith is X at home.”If we bind the free variable with
+
+a universal quantifier of the appropriate kind, the result is: (5XUG) “Given
+
+any sentence-level operator X, if Smith is at home, then it’s X the case that
+
+Smith is X at home," which is false, the reason being that some sentence-level
+
+operators lack the relevant property. An example of such an operator is the
+
+word “necessarily.” When this word replaces the variable in (5X), the result
+
+is: (5XN) “If Smith is at home, then it’s necessarily the case that Smith is
+
+necessarily at home,” which is false.
+
+
+    Another expression on Quine’s list that occurs in (5) is “if . . . then . . .”
+
+This expression, like “not,” is a sentence-level operator. But whereas “not” is
+
+a one-placed sentence-connective, “if . . . then . . .” is a two-place sentence
+
+connective. So, whereas “not” assigns sentences to single sentences, “if . . .
+
+then . . .” assigns sentences to ordered pairs of sentences. Given the ordered
+
+pair  <Toby  is  a  dog,  Toby  is  a  mammal>,  “if  .  .  .  then  .  .  .”  yields  the
+
+sentence: “if Toby is a dog, then Toby is a mammal.”
+
+
+
+    Everything  just  said  about  “not”  is  true  of  it.  If  it’s  replaced  with  a
+
+variable, which is then bound by a universal quantifier of the appropriate
+
+kind, the result is: (5IT) For any two-place sentence-connective X <Smith is
+
+at home, it’s not the case that Smith is not at home>, which is false. Let C be
+
+a  two-place  sentence-level  operator  defined  as  follows:  Given  two
+
+propositions  (or  sentences)  P  and  Q,  C(P,Q)  is  true  exactly  if  P  is
+
+incompatible with Q. In that case: (5C) C<Smith is at home, it’s not the casethat Smith is not at home>, which is false.
+
+
+
+  What we just said about “not” and “if . . . then . . .” is true of all the other
+
+items  on  Quine’s  list  of  “logical  constants.”  And  it’s  true  of  many  other
+
+expressions  that  Quine  did  not  personally  include  on  that  list  but  that,
+
+according to many, nonetheless belong on it. (For example, some hold that
+
+“necessarily” and “possibly” belong on that list.) This suggests that, when
+
+Quine  judged  an  expression  to  be  a  “logical  constant,”  he  did  so  on  the
+
+(cogent)  grounds  that  replacing  occurrences  of  it  with  variables
+
+systematically failed to yield universally true open-sentences.
+
+
+  This suggests that the following definition of “logical constant” might be
+
+the right one (we’ll soon see that it’s only approximately right): (LC) An
+
+expression E to be a “logical constant” is for there to be some universally-
+
+true open sentence that contains E, which is false. given that (#) ‹If P and Q
+
+and grass is green, then grass is green› is universally true, along with the fact
+
+that "grass is green" isn't a logical constant. But apart from “P,” “Q,” and
+
+“R,” all the expressions occurring in: (##) ‹If P and Q and R, then R› are
+
+logical constants. (##) is universally true, and it contains no expressions that,
+
+when replaced with free-variables, result in some other open sentence that is
+
+universally  true.  If  a  universally  true  open  sentence  contains  no  such
+
+variables, let us say that it is “pure.” This shows that a “logical constant” is
+
+any expression other than a variable that occurs in a pure, universally true
+
+open-sentence.
+
+
+
+7.6 analytic truth not the same thing as formal truth
+
+
+            The  two  main  contentions  of  Wittgenstein’s Tractatus  Logico-
+
+philosophicus (TLP)  are  (i)  that  all  non-empirical  truths  are  tautologous(definitional truths; e.g., “a fortnight is a period of two weeks”) and (ii) that
+
+all non-tautologous truths are observation-reports.
+
+
+
+  (i)  is  false,  given  that  many  arithmetical  truths,  e.g.  "243+707=950",
+
+follow from  terminological  conventions,  and  nothing  that follows from  a
+
+convention,  or  from  anything  else,  is  itself  a  convention:  conventions  are
+
+arbitrary  and  therefore  do  not  follow  from  anything.  (ii)  is  false,  given
+
+observation apprises us of what is, not of what must be, and it therefore
+
+doesn't apprise us of logical norms or consequently of relations of logical
+
+dependence. Another reason why (ii) is false is that sense-perception makes
+
+us  aware  of  objects,  not  of  truths,  and  knowledge  is  truth-awareness,  not
+
+object-awareness. My awareness of the uncomfortable tightness of my shoes
+
+is one thing; my knowledge of the truth that my shoes are too tight is a
+
+conceptualization of that awareness.
+
+
+    Given the points just made, we are in a position to put forth another
+
+reason to reject (i) and, therewith, to reject a third contention of the TLP, viz.
+
+that  all  formal  truth  is  analytic  truth  and,  therefore,  that  all  entailment  is
+
+formal entailment. Both claims are false. The open sentence ‹If P and Q and
+
+R, then R› is true for all values of its variables. This means that (A) For any
+
+propositions P, Q, and R, if P and Q and R, then R. But, (A) is not itself a
+
+formal truth. (A) is true, of course.
+
+
+
+  But it is not in virtue of its being an instance of a universally true open-
+
+sentence that it’s true. For it isn’t an instance of such a sentence. Any open-
+
+sentence of which (A) is an instance is one of which: (B) For no propositions
+
+P, Q, and R, if P and Q and R, then R, which is obviously false. Since (B) is
+
+an instance of any open-sentence of which (+) is an instance, the latter is not
+
+formally true.  It is in virtue not only of its form, but also of what is meant by “for any
+
+propositions P, Q, and Q” that (A) is true. (A) and (B) have the same form.
+
+What  distinguishes  them  is  that,  in  the  place  where  (B)  contains  an
+
+occurrence  of  one  expression  (“for no propositions  P,  Q,  and  R”),  (A)
+
+contains an expression with a different meaning (“for any propositions P, Q,
+
+and R”).
+
+
+
+  So  the  fact  that  A  is,  whereas  B  is  not,  analytic  cannot  possibly  be
+
+chalked up to the fact that one is, whereas the other is not, formally true.
+
+Thus, not all analytic truth is formal truth.
+
+
+ 
+  In the Tractatus, Wittgenstein[13]says that all analytic truth is formal
+
+truth. Wittgenstein is wrong, for the reasons just given.
+
+
+
+  Also, even if there were some formally true sentence S such that S was
+
+equivalent with (A), the statement (C) ‹S is equivalent with A› would not
+
+itself be a formal truth. To be a formal truth is to be a consequence of an
+
+informally true universal generalization. The statement that: (%) If grass is
+
+green and snow is white and roses are red, then roses are red is a formal
+
+truth because it is a consequence of (A). Thus, Wittgenstein’s thesis that all
+
+analytic truth is formal truth is not only wrong but incoherent.
+
+
+7.7 Conceptual analyses never expressed by formal truths
+
+
+
+  A conceptual analysis is a non-empirical, non-trivial sentence of the form
+
+‹C  is  fulfilled  if  and  only  if  C›,  where  C  and  C  are  conditions.  (The
+  1212
+
+sentence  “condition  C  is  fulfilled”  is  synonymous  with  “property  P  isn’t
+
+instantiated.”) Thus, (CK) x is a circle if and only if x is a closed planarfigure of uniform curvature is a conceptual analysis, as is (CK*) x is a closed
+
+planar figure of uniform curvature iff  for some plane P and some point D on
+
+P, x is the area bounded by every point on P that is a fixed distance from D.
+
+
+
+      Neither CK nor CK* is a formal truth. No conceptual analysis is
+
+formally true. Conceptual analyses are expressed by analytic statements, and
+
+analytic  statements  either:  (i)  coincide  with  informal,  analytic  universal
+
+generalizations  or  (ii)  are  instances  of  such  generalizations.  If  (i),  they’re
+
+obviously not formally true. But any statement that is an instance of some
+
+informal,  analytic  universal  generalization  is  trivial,  and  is  therefore  not
+
+analytic. For example, % is a consequence of (A), and % is clearly trivial.  [1].               “DN” is short for “degrees of necessity.”
+
+  [2].               Obviously the sentences used to express it aren’t necessarily
+
+  true. It’s the content of those sentences that cannot fail to be true. The
+
+  linguistic vehicles can easily fail to be true; even in our universe, they’re
+
+  only regionally true.
+
+  [3].               “HIP” is short for “Hesperus identical with Phosphorous.”
+
+  [4].               This is only approximately correct. See Appendix 1, Section
+
+  4.5.
+
+  [5].               The argument about to be given is found in Bonjour (1998)
+
+  and also in Dummett (1973).
+
+  [6].               This is a shame. Quine was a brilliant man. He had a lot to
+
+  say, and he would have had a lot more to say if he had been a bit more
+
+  willing to reconsider some of his views. Sadly, it’s a rare scholar who is
+
+  willing to admit that he’s wrong.
+
+  [7].               “DN” stands for “double negation.”
+
+  [8].               See Jerry Fodor’s superb paper, “The present status of
+
+  innateness controversy,” in Fodor (1981b).
+
+  [9].               Kant (1787).
+
+  [10] In my book Language, it is shown that sentence-tokens are the only
+
+expressions that are true or false—that sentence-types are neither, since their
+
+meanings  are  rules  that  assign  truths  and  falsehoods  to  their  tokens,  and
+
+aren’t truths or falsehoods per se. But to avoid verbosity, we’ll often speak as
+
+though sentence-types per se can be formally true. So we’ll say, for example,
+
+“(1) is formally true,” and we’ll discuss the conditions that “sentences” must
+
+satisfy to be formally true. But it’s crucial to bear in mind that this is only an
+
+expedient way of talking about sentence-tokens—of saying that tokens of (1)
+
+are formally true, etc.
+
+  [11].               Quine (1970).
+
+  [12].               Frege (1956).
+
+  [13].               Wittgenstein (1922).

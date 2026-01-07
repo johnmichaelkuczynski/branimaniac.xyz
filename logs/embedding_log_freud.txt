@@ -1,0 +1,131 @@
+=== EMBEDDING LOG FOR SIGMUND FREUD ===
+Figure ID: freud
+Source Folder: /home/runner/workspace/server/data/freud
+Started: 2025-12-13T03:58:16.533Z
+============================================================
+
+[2025-12-13T03:58:16.538Z] SUCCESS | Beyond_the_Pleasure_Principle_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:16.783Z] FLAGGED | Civilization and Its Discontents Analysis.txt | 0 chunks | Contains 6 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:16.829Z] FLAGGED | Civilization and Its Discontents Extended Analysis.txt | 0 chunks | Contains 28 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:16.876Z] SUCCESS | Civilization_Discontents_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:16.915Z] SUCCESS | Cocaine_Papers_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:16.956Z] SUCCESS | Collected_Papers_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:16.997Z] SUCCESS | Dora_Case_Hysteria_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:17.038Z] FLAGGED | Dream Formation and Unconscious Part 6.txt | 0 chunks | Contains 6 mentions of "Mill" - possible misattribution
+[2025-12-13T03:58:17.154Z] FLAGGED | Dream Formation and Unconscious Part 7.txt | 0 chunks | Contains 6 mentions of "Mill" - possible misattribution
+[2025-12-13T03:58:17.223Z] FLAGGED | Dream Interpretation Verbal Analysis.txt | 0 chunks | Contains 73 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:17.300Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part1.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:17.347Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part10.txt | 0 chunks | Contains 8 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:17.401Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part11.txt | 0 chunks | Contains 8 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:17.456Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part12.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution
+[2025-12-13T03:58:17.507Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part13.txt | 0 chunks | Contains "by Plutarch" - likely wrong author
+[2025-12-13T03:58:17.564Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part14.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:17.609Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part15.txt | 0 chunks | Contains 13 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:17.660Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part16.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:17.715Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part17.txt | 0 chunks | Contains 11 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:17.767Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part18.txt | 0 chunks | Contains 13 mentions of "Mill" - possible misattribution
+[2025-12-13T03:58:17.816Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part19.txt | 0 chunks | Contains "by Mill" - likely wrong author
+[2025-12-13T03:58:17.864Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part2.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T03:58:17.910Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part20.txt | 3 chunks | 
+[2025-12-13T03:58:19.075Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part3.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution
+[2025-12-13T03:58:19.131Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part4.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:19.199Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part5.txt | 0 chunks | Contains 11 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:15.267Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part2.txt | 561 chunks | 
+[2025-12-13T04:00:16.055Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part20.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:00:16.096Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part3.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution
+[2025-12-13T04:00:16.147Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part4.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T04:00:16.196Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part5.txt | 0 chunks | Contains 11 mentions of "Mises" - possible misattribution
+[2025-12-13T04:00:16.247Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part6.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:00:16.295Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part7.txt | 0 chunks | Contains 28 mentions of "Mill" - possible misattribution
+[2025-12-13T04:00:16.350Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part8.txt | 0 chunks | Contains 6 mentions of "Mises" - possible misattribution
+[2025-12-13T03:58:19.254Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part6.txt | 602 chunks | 
+[2025-12-13T04:00:31.177Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part7.txt | 0 chunks | Contains 28 mentions of "Mill" - possible misattribution
+[2025-12-13T04:00:31.227Z] FLAGGED | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part8.txt | 0 chunks | Contains 6 mentions of "Mises" - possible misattribution
+[2025-12-13T04:00:31.286Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part9.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:00:31.331Z] SUCCESS | Freud_Beyond_Pleasure_NEW.txt | 5 chunks | 
+[2025-12-13T04:00:32.455Z] SUCCESS | Freud_Civilization_Discontents.txt | 6 chunks | 
+[2025-12-13T04:00:34.167Z] SUCCESS | Freud_Clinical_Cultural.txt | 49 chunks | 
+[2025-12-13T04:00:44.220Z] SUCCESS | Freud_Clinical_Themes.txt | 90 chunks | 
+[2025-12-13T04:01:02.385Z] SUCCESS | Freud_Cocaine_Papers.txt | 6 chunks | 
+[2025-12-13T04:01:03.695Z] SUCCESS | Freud_Collected_Essays.txt | 5 chunks | 
+[2025-12-13T04:01:04.841Z] SUCCESS | Freud_Collected_Papers_Uncanny.txt | 19 chunks | 
+[2025-12-13T04:01:08.784Z] SUCCESS | Freud_Dora.txt | 2 chunks | 
+[2025-12-13T04:01:09.200Z] SUCCESS | Freud_Ego_and_Id.txt | 6 chunks | 
+[2025-12-13T04:01:10.629Z] SUCCESS | Freud_Four_Works.txt | 22 chunks | 
+[2025-12-13T04:01:15.082Z] SUCCESS | Freud_Future_Illusion.txt | 5 chunks | 
+[2025-12-13T04:01:16.210Z] SUCCESS | Freud_Group_Psychology.txt | 7 chunks | 
+[2025-12-13T04:01:18.019Z] SUCCESS | Freud_Inhibitions_Symptoms_Anxiety.txt | 4 chunks | 
+[2025-12-13T04:01:18.934Z] SUCCESS | Freud_Interpretation_of_Dreams.txt | 6 chunks | 
+[2025-12-13T04:01:20.154Z] SUCCESS | Freud_Introductory_Works.txt | 9 chunks | 
+[2025-12-13T04:01:22.296Z] SUCCESS | Freud_Jokes.txt | 8 chunks | 
+[2025-12-13T04:01:24.016Z] SUCCESS | Freud_Little_Hans.txt | 2 chunks | 
+[2025-12-13T04:01:24.515Z] SUCCESS | Freud_Moses_Monotheism.txt | 5 chunks | 
+[2025-12-13T04:01:25.774Z] SUCCESS | Freud_Project_Scientific_Psychology.txt | 7 chunks | 
+[2025-12-13T04:01:27.075Z] SUCCESS | Freud_Psychopathology_Everyday_Life.txt | 7 chunks | 
+[2025-12-13T04:01:28.558Z] SUCCESS | Freud_Schreber.txt | 2 chunks | 
+[2025-12-13T04:01:29.021Z] SUCCESS | Freud_Thematic_Compilations.txt | 41 chunks | 
+[2025-12-13T04:01:37.826Z] SUCCESS | Freud_Three_Essays_Sexuality.txt | 7 chunks | 
+[2025-12-13T04:01:39.624Z] SUCCESS | Freud_Volume8_Positions.txt | 10 chunks | 
+[2025-12-13T04:01:41.691Z] SUCCESS | Freud_Wolf_Man.txt | 2 chunks | 
+[2025-12-13T04:01:42.130Z] SUCCESS | Future_of_an_Illusion_Positions.txt | 7 chunks | 
+[2025-12-13T04:01:43.749Z] SUCCESS | Inhibitions_Symptoms_Anxiety_Positions.txt | 6 chunks | 
+[2025-12-13T04:01:45.682Z] SUCCESS | Introductory_Lectures_Positions.txt | 5 chunks | 
+[2025-12-13T04:01:46.795Z] SUCCESS | Little_Hans_Positions.txt | 3 chunks | 
+[2025-12-13T04:01:47.431Z] SUCCESS | Metapsychological_Papers_Positions.txt | 4 chunks | 
+[2025-12-13T04:01:48.159Z] SUCCESS | Project_Scientific_Psychology_Positions.txt | 8 chunks | 
+[2025-12-13T04:01:49.915Z] SUCCESS | Schreber_Paranoia_Positions.txt | 3 chunks | 
+[2025-12-13T04:01:50.847Z] FLAGGED | Studies on Hysteria Analysis.txt | 0 chunks | Contains 20 mentions of "Mises" - possible misattribution
+[2025-12-13T04:01:50.896Z] FLAGGED | The Interpretation of Dreams Analysis.txt | 0 chunks | Contains 46 mentions of "Mises" - possible misattribution
+[2025-12-13T04:01:50.951Z] SUCCESS | Wolf_Man_Positions.txt | 3 chunks | 
+
+============================================================
+SUMMARY
+Files processed: 44
+Chunks created: 976
+Files flagged: 21
+Errors: 0
+Completed: 2025-12-13T04:01:51.495Z
+[2025-12-13T04:00:16.409Z] SUCCESS | Freud - Complete Works (Over 4000 pages, Most Comprehensive Version Available)_Part9.txt | 585 chunks | 
+[2025-12-13T04:02:26.196Z] SUCCESS | Freud_Beyond_Pleasure_NEW.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.233Z] SUCCESS | Freud_Civilization_Discontents.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.269Z] SUCCESS | Freud_Clinical_Cultural.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.307Z] SUCCESS | Freud_Clinical_Themes.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.346Z] SUCCESS | Freud_Cocaine_Papers.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.384Z] SUCCESS | Freud_Collected_Essays.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.421Z] SUCCESS | Freud_Collected_Papers_Uncanny.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.459Z] SUCCESS | Freud_Dora.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.496Z] SUCCESS | Freud_Ego_and_Id.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.532Z] SUCCESS | Freud_Four_Works.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.570Z] SUCCESS | Freud_Future_Illusion.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.606Z] SUCCESS | Freud_Group_Psychology.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.643Z] SUCCESS | Freud_Inhibitions_Symptoms_Anxiety.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.679Z] SUCCESS | Freud_Interpretation_of_Dreams.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.716Z] SUCCESS | Freud_Introductory_Works.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.753Z] SUCCESS | Freud_Jokes.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.790Z] SUCCESS | Freud_Little_Hans.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.827Z] SUCCESS | Freud_Moses_Monotheism.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.864Z] SUCCESS | Freud_Project_Scientific_Psychology.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.902Z] SUCCESS | Freud_Psychopathology_Everyday_Life.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.939Z] SUCCESS | Freud_Schreber.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:26.975Z] SUCCESS | Freud_Thematic_Compilations.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.012Z] SUCCESS | Freud_Three_Essays_Sexuality.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.048Z] SUCCESS | Freud_Volume8_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.090Z] SUCCESS | Freud_Wolf_Man.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.126Z] SUCCESS | Future_of_an_Illusion_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.163Z] SUCCESS | Inhibitions_Symptoms_Anxiety_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.200Z] SUCCESS | Introductory_Lectures_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.236Z] SUCCESS | Little_Hans_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.273Z] SUCCESS | Metapsychological_Papers_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.309Z] SUCCESS | Project_Scientific_Psychology_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.346Z] SUCCESS | Schreber_Paranoia_Positions.txt | 0 chunks | SKIPPED - already indexed
+[2025-12-13T04:02:27.384Z] FLAGGED | Studies on Hysteria Analysis.txt | 0 chunks | Contains 20 mentions of "Mises" - possible misattribution
+[2025-12-13T04:02:27.431Z] FLAGGED | The Interpretation of Dreams Analysis.txt | 0 chunks | Contains 46 mentions of "Mises" - possible misattribution
+[2025-12-13T04:02:27.484Z] SUCCESS | Wolf_Man_Positions.txt | 0 chunks | SKIPPED - already indexed
+
+============================================================
+SUMMARY
+Files processed: 44
+Chunks created: 2357
+Files flagged: 21
+Errors: 0
+Completed: 2025-12-13T04:02:27.523Z

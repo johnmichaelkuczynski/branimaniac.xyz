@@ -1,0 +1,19 @@
+=== EMBEDDING LOG FOR GOTTFRIED WILHELM LEIBNIZ ===
+Figure ID: leibniz
+Source Folder: /home/runner/workspace/server/data/leibniz
+Started: 2025-12-13T04:06:59.178Z
+============================================================
+
+[2025-12-13T04:06:59.182Z] SUCCESS | Leibniz_Positions.txt | 151 chunks | 
+[2025-12-13T04:07:31.817Z] FLAGGED | leibniz complete workds_1762619708914.txt | 0 chunks | Contains 17 mentions of "Mill" - possible misattribution
+[2025-12-13T04:07:31.920Z] FLAGGED | leibniz_complete_works.txt | 0 chunks | Contains 17 mentions of "Mill" - possible misattribution
+[2025-12-13T04:07:32.053Z] SUCCESS | leibniz_monadology_kuczynski.txt | 21 chunks | 
+[2025-12-13T04:07:36.560Z] SUCCESS | leibniz_theodicy_utf8.txt | 116 chunks | 
+
+============================================================
+SUMMARY
+Files processed: 3
+Chunks created: 288
+Files flagged: 2
+Errors: 0
+Completed: 2025-12-13T04:08:03.468Z

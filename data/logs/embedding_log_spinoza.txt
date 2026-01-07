@@ -1,0 +1,16 @@
+=== EMBEDDING LOG FOR BARUCH SPINOZA ===
+Figure ID: spinoza
+Source Folder: /home/runner/workspace/server/data/spinoza
+Started: 2025-12-13T04:06:38.278Z
+============================================================
+
+[2025-12-13T04:06:38.283Z] SUCCESS | Spinoza_Complete_Positions.txt | 15 chunks | 
+[2025-12-13T04:06:41.789Z] SUCCESS | Spinoza_Position_Statements.txt | 20 chunks | 
+
+============================================================
+SUMMARY
+Files processed: 2
+Chunks created: 35
+Files flagged: 0
+Errors: 0
+Completed: 2025-12-13T04:06:45.775Z

@@ -1,0 +1,1618 @@
+[
+  {
+    "question": 1,
+    "text": "According to Kuczynski, what is knowledge always knowledge of?",
+    "response": "According to Kuczynski's work on a priori knowledge (in the dialogue \"A Priori Knowledge\"), knowledge is fundamentally knowledge of **bearing relations** - specifically, what follows from what, what is incompatible with what, and dependence relations between truths.\n\nThis is evident in Dr. K's argument that sensory observation \"apprises you of what is, not of what isn't, and certainly not of what cannot possibly be.\" He explains that \"For P to be incompatible with Q is for it to impossible for P and not-Q to be jointly actual. Only actualities can be observed. Impossibilities must be deduced.\"\n\nThe dialogue establishes that you cannot learn anything without already knowing that certain things follow from certain things, because \"For Q to be a consequence of P is for not-Q to be incompatible with P.\" Dr. K argues that observation cannot tell you \"what is incompatible with what\" and therefore \"cannot tell you what follows from what.\"\n\nThis a priori knowledge of bearing relations is what makes all other knowledge possible - it is \"constitutive of one's ability to reason and to learn from sensory experience.\" Without this foundational knowledge of logical relationships, deduction would be impossible, and \"a creature that cannot see bearing relations among specific truths cannot see bearing relations among bearing relations.\"\n\n— \"For P to be incompatible with Q is for it to impossible for P and not-Q to be jointly actual. Only actualities can be observed. Impossibilities must be deduced.\" (A Priori Knowledge)",
+    "quotesFound": 8,
+    "quotesVerified": 7,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "), knowledge is fundamentally knowledge of **bearing relations** - specifically, what follows from what, what is incompatible with what, and dependence relations between truths.\n\nThis is evident in Dr. K's argument that sensory observation ",
+        "verified": false
+      },
+      {
+        "quote": "For P to be incompatible with Q is for it to impossible for P and not-Q to be jointly actual. Only actualities can be observed. Impossibilities must be deduced.",
+        "verified": true
+      },
+      {
+        "quote": "For Q to be a consequence of P is for not-Q to be incompatible with P.",
+        "verified": true
+      },
+      {
+        "quote": "what is incompatible with what",
+        "verified": true
+      },
+      {
+        "quote": "cannot tell you what follows from what.",
+        "verified": true
+      },
+      {
+        "quote": "constitutive of one's ability to reason and to learn from sensory experience.",
+        "verified": true
+      },
+      {
+        "quote": "a creature that cannot see bearing relations among specific truths cannot see bearing relations among bearing relations.",
+        "verified": true
+      },
+      {
+        "quote": "For P to be incompatible with Q is for it to impossible for P and not-Q to be jointly actual. Only actualities can be observed. Impossibilities must be deduced.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 2,
+    "text": "Can one know an object in the same sense that one knows that 1+1=2?",
+    "response": "# Response\n\nNo, one cannot know an object in the same sense that one knows that 1+1=2. The confusion here stems from failing to distinguish two radically different senses of \"know\": *knowledge by acquaintance* (knowing objects) versus *propositional knowledge* (knowing truths). When I say \"I know Paris\" versus \"I know that 1+1=2,\" I'm using \"know\" in fundamentally different ways. The first involves direct experiential contact with a spatiotemporal particular; the second involves grasping a non-empirical, analytic truth. One cannot \"know\" the number 2 in the way one knows Paris—numbers aren't spatiotemporal objects one encounters. Conversely, one cannot \"know\" Paris in the way one knows that 1+1=2—cities aren't propositions one grasps as necessarily true through pure conceptual analysis. The former is empirical knowledge acquired through sense-perception; the latter is a priori knowledge that is \"constitutive of one's ability to reason\" rather than derived from experience. Mathematical truths like 1+1=2 are analytic—they \"hold entirely in virtue of [their] own content\" and \"could not possibly fail to be true\" given what they say. No object-knowledge has this character; empirical knowledge of objects is always contingent, always dependent on how the spatiotemporal world happens to be configured.\n\n---\n\n**Supporting Quote:**\n\n— \"It is knowledge that is constitutive of one's ability to reason and to learn from sensory experience... We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge.\" (A Priori Knowledge)",
+    "quotesFound": 7,
+    "quotesVerified": 1,
+    "quotesFabricated": 6,
+    "quoteDetails": [
+      {
+        "quote": ": *knowledge by acquaintance* (knowing objects) versus *propositional knowledge* (knowing truths). When I say ",
+        "verified": false
+      },
+      {
+        "quote": " in fundamentally different ways. The first involves direct experiential contact with a spatiotemporal particular; the second involves grasping a non-empirical, analytic truth. One cannot ",
+        "verified": false
+      },
+      {
+        "quote": " the number 2 in the way one knows Paris—numbers aren't spatiotemporal objects one encounters. Conversely, one cannot ",
+        "verified": false
+      },
+      {
+        "quote": " Paris in the way one knows that 1+1=2—cities aren't propositions one grasps as necessarily true through pure conceptual analysis. The former is empirical knowledge acquired through sense-perception; the latter is a priori knowledge that is ",
+        "verified": false
+      },
+      {
+        "quote": " rather than derived from experience. Mathematical truths like 1+1=2 are analytic—they ",
+        "verified": false
+      },
+      {
+        "quote": "could not possibly fail to be true",
+        "verified": true
+      },
+      {
+        "quote": "It is knowledge that is constitutive of one's ability to reason and to learn from sensory experience... We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 3,
+    "text": "What is the difference between a proposition and a linguistic expression?",
+    "response": "# The Distinction Between Propositions and Linguistic Expressions\n\nThe fundamental difference lies in the relationship between meaning and medium. A **linguistic expression** is a physical or perceptible entity—spoken sounds, written marks, or hand gestures—that exists in space and time. A **proposition** is what such expressions *mean*—the abstract content they convey.\n\n## Multiple Expressions, One Proposition\n\nDifferent linguistic expressions can express the same proposition. As Kuczynski illustrates: \"Snow is white,\" \"schnee is weiss,\" and \"la neige est blanche\" are three distinct sentences in different languages, but \"there is some one proposition that is the meaning of each of them.\" The sentences are different physical entities with different structures, but they all express the same claim about the world.\n\n## The Independence of Propositions from Language\n\nPropositions exist independently of the particular linguistic expressions used to convey them. A proposition \"can be grasped without speaking English; and one needn't know English, or any other given language, to be able to analyze that proposition correctly.\" You can understand *what is claimed* without understanding *the particular words* used to claim it—though of course you need some way of accessing the proposition.\n\n## Truth-Bearers\n\nThis distinction matters for understanding truth. When we describe a sentence as \"true,\" we're really saying it *encodes* a true proposition. \"A sentence is true or false depending on whether it has a true or false proposition for its meaning.\" The sentence itself—as a physical or written entity—doesn't have truth-value in the primary sense; rather, it inherits truth-value from the proposition it expresses.\n\n## Propositions as Properties\n\nIn Kuczynski's metaphysical framework, propositions are actually *properties*—specifically, properties that the world either has or lacks. \"For a proposition to be true is for the world to be a certain way... Thus, the world's being a certain way is identical with its having a certain property... propositions must be identified with properties and a proposition's being true must be identified with its being instantiated.\"\n\nThe linguistic expression is the vehicle; the proposition is what's conveyed. The expression is created by humans and varies across languages; the proposition exists independently of human linguistic practices.\n\n---\n\n**Supporting Quote:**\n\n— \"Propositions are not sentences. The sentence 'the moon is less massive than Earth' is a human artifact; it didn't exist until a few centuries ago. But the truth it expresses is in a different category. That truth exists independently of us.\" (*Analytic Philosophy*)",
+    "quotesFound": 6,
+    "quotesVerified": 2,
+    "quotesFabricated": 4,
+    "quoteDetails": [
+      {
+        "quote": "la neige est blanche",
+        "verified": true
+      },
+      {
+        "quote": "there is some one proposition that is the meaning of each of them.",
+        "verified": true
+      },
+      {
+        "quote": "can be grasped without speaking English; and one needn't know English, or any other given language, to be able to analyze that proposition correctly.",
+        "verified": false
+      },
+      {
+        "quote": " we're really saying it *encodes* a true proposition. ",
+        "verified": false
+      },
+      {
+        "quote": " The sentence itself—as a physical or written entity—doesn't have truth-value in the primary sense; rather, it inherits truth-value from the proposition it expresses.\n\n## Propositions as Properties\n\nIn Kuczynski's metaphysical framework, propositions are actually *properties*—specifically, properties that the world either has or lacks. ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nThe linguistic expression is the vehicle; the proposition is what's conveyed. The expression is created by humans and varies across languages; the proposition exists independently of human linguistic practices.\n\n---\n\n**Supporting Quote:**\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 4,
+    "text": "Are propositions beliefs, according to Kuczynski?",
+    "response": "No, propositions are not beliefs according to Kuczynski. He distinguishes these clearly.\n\nIn the Pragmatism paper, Kuczynski explains that propositions are **properties** - specifically, they are what sentences mean. He states: \"Propositions are properties. For a proposition to be true is for the world to be a certain way... propositions are properties and truth is instantiatedness.\" He further clarifies: \"Sentences, on the other hand, are human creations. They wouldn't be around if it weren't for us. So sentential analysis is a very different thing from propositional analysis.\"\n\nThe relationship between beliefs and propositions is that beliefs *have* propositions as their contents or objects. In the \"What is an Intention?\" paper, when discussing Wittgenstein's errors, Kuczynski notes: \"A belief is necessarily a belief that such and such is the case: the object of a belief is always a proposition. A proposition is what one affirms when one makes a statement.\" And he criticizes Wittgenstein precisely for denying beliefs exist: \"Since Wittgenstein didn't believe in beliefs, he didn't believe in meanings.\"\n\nSo the structure is: beliefs are mental states that have propositional content. Propositions are abstract entities (properties) that serve as the meanings of sentences and the objects of beliefs. They are categorically different things.\n\n— \"Propositions are properties. For a proposition to be true is for the world to be a certain way... propositions are properties and truth is instantiatedness.\" (Pragmatism: Epistemology Posing as Metaphysics)",
+    "quotesFound": 6,
+    "quotesVerified": 2,
+    "quotesFabricated": 4,
+    "quoteDetails": [
+      {
+        "quote": "Propositions are properties. For a proposition to be true is for the world to be a certain way... propositions are properties and truth is instantiatedness.",
+        "verified": false
+      },
+      {
+        "quote": "Sentences, on the other hand, are human creations. They wouldn't be around if it weren't for us. So sentential analysis is a very different thing from propositional analysis.",
+        "verified": false
+      },
+      {
+        "quote": "What is an Intention?",
+        "verified": true
+      },
+      {
+        "quote": "A belief is necessarily a belief that such and such is the case: the object of a belief is always a proposition. A proposition is what one affirms when one makes a statement.",
+        "verified": true
+      },
+      {
+        "quote": "Since Wittgenstein didn't believe in beliefs, he didn't believe in meanings.",
+        "verified": false
+      },
+      {
+        "quote": "Propositions are properties. For a proposition to be true is for the world to be a certain way... propositions are properties and truth is instantiatedness.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 5,
+    "text": "Are propositions spatiotemporal entities?",
+    "response": "# No, Propositions Are Not Spatiotemporal Entities\n\nPropositions exist outside space and time. This is definitively established in the \"Analytic Philosophy\" text through multiple converging arguments:\n\n## The Core Argument\n\nThe most direct argument appears in the discussion of properties and universals. Just as properties themselves are not spatiotemporal even though their instances are, propositions (which are identified with properties in the formal system) cannot be located in space-time:\n\n**The Property Argument**: \"Everything that exists is either a property or is in space-time. Non-spatiotemporal entities that seem not to be properties always turn out to be so... propositions are not spatiotemporal and propositions do not initially seem to be identical with properties. (Propositions are sentence-meanings.) But propositions turn out to be properties.\"\n\n## The Instance vs. Universal Distinction\n\nThe text draws a crucial distinction: \"I like to play tennis. I thus have the property of liking to play tennis and am thus an instance of that property. I am obviously in space-time, but that property is not. No matter how thoroughly one searches the universe, one will never encounter the property of liking to play tennis. One will, at most, encounter its instances.\"\n\nThis same structure applies to propositions: you can encounter spatiotemporal *utterances* of sentences, but not the propositions themselves.\n\n## The Pre-Existence Argument\n\nA powerful argument comes from temporal considerations: \"The sentence 'the moon is less massive than Earth' is a human artifact; it didn't exist until a few centuries ago. But the truth it expresses is in a different category. That truth exists independently of us. After all, the moon was less massive than the Earth before we came along, and it'll be that way after we sign out.\"\n\nThis establishes that propositions—the truths expressed by sentences—must exist independently of their spatiotemporal expressions.\n\n## Formal Identification\n\nThe technical apparatus identifies propositions with properties explicitly: \"For a proposition to be true is for the world to be a certain way. The proposition that Smith is in Richmond is true if the world is a certain way and it's false if it isn't... For a thing to be a certain way is for it to have a certain property... Thus, the world's being a certain way is identical with its having a certain property. Since, therefore, the world's being a certain way is identical with some proposition's being true, propositions must be identified with properties and a proposition's being true must be identified with its being instantiated. **Propositions are properties and truth is instantiatedness.**\"\n\nSince properties are established as non-spatiotemporal, and propositions are identified with properties, propositions cannot be spatiotemporal entities.\n\n— \"Everything that exists is either a property or is in space-time.\" (*Analytic Philosophy*, Chapter 2)",
+    "quotesFound": 5,
+    "quotesVerified": 0,
+    "quotesFabricated": 5,
+    "quoteDetails": [
+      {
+        "quote": " text through multiple converging arguments:\n\n## The Core Argument\n\nThe most direct argument appears in the discussion of properties and universals. Just as properties themselves are not spatiotemporal even though their instances are, propositions (which are identified with properties in the formal system) cannot be located in space-time:\n\n**The Property Argument**: ",
+        "verified": false
+      },
+      {
+        "quote": "\n\n## The Instance vs. Universal Distinction\n\nThe text draws a crucial distinction: ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nThis same structure applies to propositions: you can encounter spatiotemporal *utterances* of sentences, but not the propositions themselves.\n\n## The Pre-Existence Argument\n\nA powerful argument comes from temporal considerations: ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nThis establishes that propositions—the truths expressed by sentences—must exist independently of their spatiotemporal expressions.\n\n## Formal Identification\n\nThe technical apparatus identifies propositions with properties explicitly: ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nSince properties are established as non-spatiotemporal, and propositions are identified with properties, propositions cannot be spatiotemporal entities.\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 6,
+    "text": "What happens to a proposition if it is false - does it cease to exist?",
+    "response": "Looking at your question about whether a false proposition ceases to exist, I need to clarify what propositions actually are according to the material in these papers.\n\nIn the \"OCD and Philosophy\" paper, when discussing values and meanings, there's a crucial insight about propositions as properties. The text states that propositions are properties, and specifically: \"Propositions are properties and truth is instantiatedness.\" The paper explains this by noting that \"For a proposition to be true is for the world to be a certain way. The proposition that Smith is in Richmond is true if the world is a certain way and it's false if it isn't...the world's being a certain way is identical with its having a certain property. Since, therefore, the world's being a certain way is identical with some proposition's being true, propositions must be identified with properties and a proposition's being true must be identified with its being instantiated.\"\n\nSo according to this framework: A false proposition doesn't cease to exist - it simply remains an uninstantiated property. Just as the property \"being a unicorn\" exists as a property even though nothing instantiates it (there are no unicorns), a false proposition exists as a property that the world fails to instantiate.\n\nThe proposition continues to exist as an abstract entity (a property) regardless of whether it's true or false. What changes is not its existence, but whether reality exemplifies it - whether the property is instantiated or not.\n\n— \"Since, therefore, the world's being a certain way is identical with some proposition's being true, propositions must be identified with properties and a proposition's being true must be identified with its being instantiated. Propositions are properties and truth is instantiatedness.\" (OCD and Philosophy)",
+    "quotesFound": 4,
+    "quotesVerified": 0,
+    "quotesFabricated": 4,
+    "quoteDetails": [
+      {
+        "quote": " paper, when discussing values and meanings, there's a crucial insight about propositions as properties. The text states that propositions are properties, and specifically: ",
+        "verified": false
+      },
+      {
+        "quote": " The paper explains this by noting that ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nSo according to this framework: A false proposition doesn't cease to exist - it simply remains an uninstantiated property. Just as the property ",
+        "verified": false
+      },
+      {
+        "quote": " exists as a property even though nothing instantiates it (there are no unicorns), a false proposition exists as a property that the world fails to instantiate.\n\nThe proposition continues to exist as an abstract entity (a property) regardless of whether it's true or false. What changes is not its existence, but whether reality exemplifies it - whether the property is instantiated or not.\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 7,
+    "text": "How does Kuczynski define what it means for a proposition to be true?",
+    "response": "Looking through Kuczynski's papers in this library, I cannot find a systematic definition of what it means for a proposition to be true.\n\nThe closest I can find are these relevant passages:\n\nFrom the Pragmatism paper, Kuczynski discusses truth critically in the context of evaluating pragmatist theories. He argues against identifying truth with usefulness:\n\n— \"The theorems of trigonometry are useful because they are true, not the other way around. What is true is that truths are learned—and are worth learning—because they are useful.\" (Pragmatism: Epistemology Posing as Metaphysics)\n\nAnd he notes about propositions and truth:\n\n— \"Propositions are properties and truth is instantiatedness.\" (Analytic Philosophy, Chapter 1, Section 4.2.2)\n\nThis suggests that for Kuczynski, a proposition being true means that property is instantiated (i.e., the world has that property).\n\nHowever, I should note that while these passages give some indication of his view, Kuczynski does not provide an extended, systematic analysis of the nature of truth in these particular papers. The references to truth are made in passing while making other philosophical points about pragmatism, propositions, and logic.",
+    "quotesFound": 2,
+    "quotesVerified": 1,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "The theorems of trigonometry are useful because they are true, not the other way around. What is true is that truths are learned—and are worth learning—because they are useful.",
+        "verified": false
+      },
+      {
+        "quote": "Propositions are properties and truth is instantiatedness.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 8,
+    "text": "What three properties must be jointly instantiated for the proposition 'John smokes' to be true?",
+    "response": "Looking at the dialogue \"Analytic Truth vs. Formal Truth,\" I can find the relevant passage where this is discussed.\n\nIn that dialogue, Dr. K explains:\n\n\"Given any statement S, there are properties p1…pn such that S is true if p1…pn are jointly instantiated and S is false otherwise. For example,\n\n(c) John is tall\n\nis true if the each of the following properties is instantiated, and otherwise false: the property of being identical with John, the property of being tall, and the property of a being a thing x such that x is tall and x is identical with John.\"\n\nApplying this same analysis to \"John smokes,\" the three properties that must be jointly instantiated would be:\n\n1. **The property of being identical with John**\n2. **The property of being a smoker** (or \"smoking\")\n3. **The property of being a thing x such that x smokes and x is identical with John**\n\nDr. K acknowledges in the text: \"Of course, if the last of these properties is instantiated, so are the other two. But given the (c) contains discrete parts corresponding to 'John' and 'tall,' the corresponding proposition cannot possibly consist of just one property, and the decomposition of that proposition is therefore to be identified with the membership of the set containing all three of the just-mentioned properties.\"\n\n— \"Given any statement S, there are properties p1…pn such that S is true if p1…pn are jointly instantiated and S is false otherwise.\" (Analytic Truth vs. Formal Truth)",
+    "quotesFound": 5,
+    "quotesVerified": 2,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "Analytic Truth vs. Formal Truth,",
+        "verified": false
+      },
+      {
+        "quote": "Given any statement S, there are properties p1…pn such that S is true if p1…pn are jointly instantiated and S is false otherwise. For example,\n\n(c) John is tall\n\nis true if the each of the following properties is instantiated, and otherwise false: the property of being identical with John, the property of being tall, and the property of a being a thing x such that x is tall and x is identical with John.",
+        "verified": true
+      },
+      {
+        "quote": " the three properties that must be jointly instantiated would be:\n\n1. **The property of being identical with John**\n2. **The property of being a smoker** (or ",
+        "verified": false
+      },
+      {
+        "quote": ")\n3. **The property of being a thing x such that x smokes and x is identical with John**\n\nDr. K acknowledges in the text: ",
+        "verified": false
+      },
+      {
+        "quote": "Given any statement S, there are properties p1…pn such that S is true if p1…pn are jointly instantiated and S is false otherwise.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 9,
+    "text": "Can falsehoods be known, or only believed?",
+    "response": "# Can Falsehoods Be Known, or Only Believed?\n\nFalsehoods cannot be known—they can only be believed. This follows from the fundamental nature of knowledge itself.\n\nKnowledge requires truth as a necessary condition. When we say someone \"knows\" something, we're making a claim that goes beyond mere belief. We're claiming that (1) they believe it, (2) it's true, and (3) their belief stands in the right relationship to that truth. If any of these conditions fails, we don't have knowledge—we have something else.\n\nConsider: if I believe my car keys are on the kitchen counter, but they're actually in my coat pocket, I don't \"know\" they're on the counter. I merely believe this. The moment we discover a belief is false, we immediately retract any knowledge-claim associated with it. We say \"I thought I knew where my keys were, but I was wrong\"—which is just another way of saying \"I didn't actually know where they were.\"\n\nThis isn't merely a linguistic convention. There's a deeper logical point: knowledge claims are success terms. \"Knowing where the keys are\" means successfully identifying their location. If you fail to identify their location, you didn't know—by definition. Similarly, you can try to hit a target and fail, but you cannot successfully hit it and fail. Knowledge is to belief what successful hitting is to aiming.\n\nThe philosophical puzzle about knowledge isn't whether falsehoods can be known (they cannot), but rather what distinguishes justified true belief from mere true belief, and whether justified true belief is sufficient for knowledge. These are the questions that animate serious epistemological inquiry—not whether we can \"know\" falsehoods, which would be a contradiction in terms.\n\n— *From the dialogue \"A Priori Knowledge\":* \"Ordinary knowledge—in other words, knowledge of the non-a priori variety—is a relation between the subject, on the one hand, and the truth known, on the other.\"",
+    "quotesFound": 7,
+    "quotesVerified": 2,
+    "quotesFabricated": 5,
+    "quoteDetails": [
+      {
+        "quote": " something, we're making a claim that goes beyond mere belief. We're claiming that (1) they believe it, (2) it's true, and (3) their belief stands in the right relationship to that truth. If any of these conditions fails, we don't have knowledge—we have something else.\n\nConsider: if I believe my car keys are on the kitchen counter, but they're actually in my coat pocket, I don't ",
+        "verified": false
+      },
+      {
+        "quote": " they're on the counter. I merely believe this. The moment we discover a belief is false, we immediately retract any knowledge-claim associated with it. We say ",
+        "verified": false
+      },
+      {
+        "quote": "—which is just another way of saying ",
+        "verified": true
+      },
+      {
+        "quote": "\n\nThis isn't merely a linguistic convention. There's a deeper logical point: knowledge claims are success terms. ",
+        "verified": false
+      },
+      {
+        "quote": " means successfully identifying their location. If you fail to identify their location, you didn't know—by definition. Similarly, you can try to hit a target and fail, but you cannot successfully hit it and fail. Knowledge is to belief what successful hitting is to aiming.\n\nThe philosophical puzzle about knowledge isn't whether falsehoods can be known (they cannot), but rather what distinguishes justified true belief from mere true belief, and whether justified true belief is sufficient for knowledge. These are the questions that animate serious epistemological inquiry—not whether we can ",
+        "verified": false
+      },
+      {
+        "quote": " falsehoods, which would be a contradiction in terms.\n\n— *From the dialogue ",
+        "verified": false
+      },
+      {
+        "quote": "Ordinary knowledge—in other words, knowledge of the non-a priori variety—is a relation between the subject, on the one hand, and the truth known, on the other.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 10,
+    "text": "What is required for a true belief to count as knowledge?",
+    "response": "# What is Required for a True Belief to Count as Knowledge?\n\nThe question of what transforms true belief into knowledge leads us to examine both the traditional analysis and a novel solution suggested by examining how artificial intelligence systems acquire reliable knowledge.\n\n## The Traditional Analysis and Gettier's Challenge\n\nThe traditional philosophical view held that **knowledge is justified true belief** - you must (1) believe something, (2) it must be true, and (3) you must have justification for believing it. However, Edmund Gettier demonstrated that justified true belief isn't sufficient for knowledge through cases where someone has a justified true belief but intuitively lacks knowledge because the truth is accidentally related to the justification.\n\n## The Solution Through AI Architecture\n\nExamining how AI systems learn provides insight into what's missing from the traditional analysis. The key insight is that **knowledge requires justification that serves as a proper, scalable conduit between reality and belief**. \n\nWhen AI systems produce correct outputs through unreliable patterns—analogous to Gettier cases—these patterns tend to be revised or abandoned precisely because **they aren't scalable**. Consider several examples:\n\n### Time-telling systems\nAn AI learning to read clocks might initially succeed through simple pattern-matching of digits, but this fails when encountering broken clocks. The system must develop **scalable pattern recognition that tracks real time rather than mere appearances**.\n\n### Classification systems  \nAn image classifier identifying sheep based only on superficial features (white, fluffy) will fail on edge cases. It must learn to integrate multiple features and build **reliable classification based on essential rather than superficial features**.\n\nThe crucial requirement is that justification must:\n- Track reality rather than superficial appearances\n- Scale reliably across different situations  \n- Connect beliefs to reality through reliable pathways\n- Not involve false premises or unreliable rules\n\n## The Deeper Architecture: Coherentism\n\nFurthermore, the architecture of AI systems—which develop knowledge through **interconnected networks of mutual support** rather than building up from foundational certainties—suggests that knowledge is best understood coherentistically rather than foundationally, as an interconnected web rather than a hierarchical structure.\n\n—\"The way AI systems evolve toward reliable knowledge representations supports our solution to the Gettier problem. In each case, the system must develop justificatory patterns that: Track reality rather than superficial appearances, Scale reliably across different situations, Integrate with other knowledge patterns, Connect beliefs (outputs) to reality through reliable pathways\" (AI Learning and the Gettier Problem)",
+    "quotesFound": 1,
+    "quotesVerified": 0,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "The way AI systems evolve toward reliable knowledge representations supports our solution to the Gettier problem. In each case, the system must develop justificatory patterns that: Track reality rather than superficial appearances, Scale reliably across different situations, Integrate with other knowledge patterns, Connect beliefs (outputs) to reality through reliable pathways",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 11,
+    "text": "What is the broken clock example meant to illustrate about justified true belief?",
+    "response": "# The Broken Clock and Justified True Belief\n\nThe broken clock example demonstrates that justified true belief is **insufficient for knowledge** because justification can be accidentally related to truth. When John looks at his normally reliable clock showing 3:00 PM and forms the belief that it's 3:00 PM, he has:\n\n1. **Belief** (he believes it's 3:00 PM)\n2. **Truth** (it actually is 3:00 PM)  \n3. **Justification** (checking a reliable clock is good justification)\n\nYet this isn't knowledge because the clock is broken and stopped exactly 12 hours ago. The truth of his belief is **accidental** - his justification doesn't actually track reality reliably. As the paper explains, \"His true, justified belief isn't knowledge because its truth is accidentally related to its justification.\"\n\nThis reveals a critical flaw in the traditional \"justified true belief\" analysis of knowledge: justification must serve as a **proper conduit between reality and belief**. The broken clock case shows justification can be **scalable or non-scalable**. John's justification involves the falsehood \"the clock works properly,\" making it non-scalable - if he relies on this clock again, he'll likely be wrong.\n\nThe AI analogue involves a system correctly reading \"3:00\" from a broken clock image through pattern-matching. Both cases demonstrate that correct output through unreliable patterns fails to constitute knowledge because such patterns **aren't scalable** across different situations.\n\n---\n\n— \"John's belief is correct this time, but because his justification involves a falsehood ('the clock works properly'), it isn't scalable. If John relies on this clock again, he'll likely be wrong.\" (AI Learning and the Gettier Problem)",
+    "quotesFound": 4,
+    "quotesVerified": 1,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "His true, justified belief isn't knowledge because its truth is accidentally related to its justification.",
+        "verified": false
+      },
+      {
+        "quote": "justified true belief",
+        "verified": true
+      },
+      {
+        "quote": "the clock works properly,",
+        "verified": false
+      },
+      {
+        "quote": " from a broken clock image through pattern-matching. Both cases demonstrate that correct output through unreliable patterns fails to constitute knowledge because such patterns **aren't scalable** across different situations.\n\n---\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 12,
+    "text": "What does it mean for a physical process to be 'information-transmissive'?",
+    "response": "Looking through the actual papers provided, I need to locate what Kuczynski says about \"information-transmissive\" processes.\n\nFrom **Philosophical Knowledge**, I find this passage:\n\nIn discussing how sense perceptions can add to knowledge, Kuczynski distinguishes two roles: \"The message borne by a perception, or any other mental representation, is known as its 'content.' One way in which sense-perceptions can add to what we know is by transmitting their contents to us.\"\n\nHe elaborates: \"You see a dog running towards me, and I know on that basis that, indeed, there is a dog running towards me. Here what I learned from my sense perception coincided with the content of that very perception.\"\n\nThe key contrast comes when he explains the **information-transmitting role** versus the **thought-triggering role**:\n\nFor information transmission specifically: \"In the first scenario, your sensory experience [doesn't give] you knowledge to the effect that there was a dog running towards you... Those visual experiences merely prompted the thought-process... In the other scenario, your visual experiences weren't themselves constitutive of your justification for accepting BH. They were merely precursors to the thought-processes that did provide you with such a justification.\"\n\nSo for Kuczynski, a process is **information-transmissive** when:\n1. The content of the perception itself directly conveys knowledge\n2. What you learn coincides with what the perception contains\n3. The perception constitutes (not merely triggers) your justification for belief\n4. The veridicality of the perception determines whether you gain knowledge\n\nThis contrasts with merely triggering reasoning processes whose validity is independent of whether the triggering perception was veridical.\n\n— \"One way in which sense-perceptions can add to what we know is by transmitting their contents to us. I see a dog running towards me, and I know on that basis that, indeed, there is a dog running towards me. Here what I learned from my sense perception coincided with the content of that very perception.\" (Philosophical Knowledge)",
+    "quotesFound": 5,
+    "quotesVerified": 2,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "information-transmissive",
+        "verified": false
+      },
+      {
+        "quote": "The message borne by a perception, or any other mental representation, is known as its 'content.' One way in which sense-perceptions can add to what we know is by transmitting their contents to us.",
+        "verified": false
+      },
+      {
+        "quote": "You see a dog running towards me, and I know on that basis that, indeed, there is a dog running towards me. Here what I learned from my sense perception coincided with the content of that very perception.",
+        "verified": true
+      },
+      {
+        "quote": "In the first scenario, your sensory experience [doesn't give] you knowledge to the effect that there was a dog running towards you... Those visual experiences merely prompted the thought-process... In the other scenario, your visual experiences weren't themselves constitutive of your justification for accepting BH. They were merely precursors to the thought-processes that did provide you with such a justification.",
+        "verified": false
+      },
+      {
+        "quote": "One way in which sense-perceptions can add to what we know is by transmitting their contents to us. I see a dog running towards me, and I know on that basis that, indeed, there is a dog running towards me. Here what I learned from my sense perception coincided with the content of that very perception.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 13,
+    "text": "What are the two kinds of knowledge according to Kuczynski?",
+    "response": "Based on the papers provided, Kuczynski distinguishes between **empirical knowledge** and **non-empirical (analytic) knowledge**.\n\n**Empirical knowledge** is knowledge whose findings are \"justified by their consistency with sensory observation\" - knowledge acquired through the senses about the spatiotemporal world. Biology and physics are empirical disciplines.\n\n**Non-empirical knowledge** (also called **analytic knowledge**) is \"purely conceptual: it is knowledge, not of the structures or interrelations of denizens of the spatiotemporal world, but of the structures and interrelations of concepts.\" This knowledge results \"from purely ratiocinative processes, regardless of whether those processes were occasioned by sense-perceptions.\" Mathematics and philosophy yield non-empirical knowledge.\n\nKuczynski emphasizes that non-empirical knowledge is \"typically (though probably not always) obtained by analyzing concepts. For this reason, it is often described as analytic.\"\n\nCrucially, he argues that empirical science depends on assumptions it cannot itself justify - assumptions that only philosophy (non-empirical inquiry) can justify. For instance, the assumption that our senses give accurate information about the external world \"cannot itself be given an empirical justification\" because \"observation cannot tell you that it itself is a source of accurate information.\"\n\n— \"Non-empirical knowledge is purely conceptual: it is knowledge, not of the structures or interrelations of denizens of the spatiotemporal world, but of the structures and interrelations of concepts.\" (Philosophical Knowledge)",
+    "quotesFound": 7,
+    "quotesVerified": 7,
+    "quotesFabricated": 0,
+    "quoteDetails": [
+      {
+        "quote": "justified by their consistency with sensory observation",
+        "verified": true
+      },
+      {
+        "quote": "purely conceptual: it is knowledge, not of the structures or interrelations of denizens of the spatiotemporal world, but of the structures and interrelations of concepts.",
+        "verified": true
+      },
+      {
+        "quote": "from purely ratiocinative processes, regardless of whether those processes were occasioned by sense-perceptions.",
+        "verified": true
+      },
+      {
+        "quote": "typically (though probably not always) obtained by analyzing concepts. For this reason, it is often described as analytic.",
+        "verified": true
+      },
+      {
+        "quote": "cannot itself be given an empirical justification",
+        "verified": true
+      },
+      {
+        "quote": "observation cannot tell you that it itself is a source of accurate information.",
+        "verified": true
+      },
+      {
+        "quote": "Non-empirical knowledge is purely conceptual: it is knowledge, not of the structures or interrelations of denizens of the spatiotemporal world, but of the structures and interrelations of concepts.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 14,
+    "text": "Give an example of an analytic truth according to the text.",
+    "response": "According to the text, an analytic truth is \"one that holds entirely in virtue of its own content.\" \n\nSeveral examples of analytic truths are provided in the dialogue:\n\n1. **\"Cubes are three-dimensional figures\"** - This is given as a straightforward example of an analytic truth.\n\n2. **\"Triangles have three sides\"** - This is described as \"an example, if only a rather trivial one\" of an analytic truth.\n\n3. **\"x is a triangle just in case x is a closed, planar, straight-edged three-sided figure such that any given two of its sides intersect but not all three of them intersect\"** - This is described as \"an example of a relatively non-trivial analytic truth.\"\n\n4. **\"There are continuous functions that cannot be differentiated at any given point\"** - Max offers this as an example that is \"utterly non-trivial,\" and Dr. K confirms \"That is indeed analytic, and it is utterly non-trivial.\"\n\nThe key characteristic emphasized is that analytic truths \"could not possibly fail to be true\" given only what they say about the world - their content alone guarantees their truth.\n\n— \"An analytic truth is one that holds entirely in virtue of its own content, for example: cubes are three-dimensional figures.\" (Analytic Truth vs. Formal Truth)",
+    "quotesFound": 11,
+    "quotesVerified": 10,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "one that holds entirely in virtue of its own content.",
+        "verified": true
+      },
+      {
+        "quote": "Cubes are three-dimensional figures",
+        "verified": true
+      },
+      {
+        "quote": "Triangles have three sides",
+        "verified": true
+      },
+      {
+        "quote": "an example, if only a rather trivial one",
+        "verified": true
+      },
+      {
+        "quote": "x is a triangle just in case x is a closed, planar, straight-edged three-sided figure such that any given two of its sides intersect but not all three of them intersect",
+        "verified": true
+      },
+      {
+        "quote": "an example of a relatively non-trivial analytic truth.",
+        "verified": true
+      },
+      {
+        "quote": "There are continuous functions that cannot be differentiated at any given point",
+        "verified": true
+      },
+      {
+        "quote": "utterly non-trivial,",
+        "verified": false
+      },
+      {
+        "quote": "That is indeed analytic, and it is utterly non-trivial.",
+        "verified": true
+      },
+      {
+        "quote": "could not possibly fail to be true",
+        "verified": true
+      },
+      {
+        "quote": "An analytic truth is one that holds entirely in virtue of its own content, for example: cubes are three-dimensional figures.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 15,
+    "text": "What is an empirical truth?",
+    "response": "An empirical truth is one whose justification, when justified, depends on its consistency with sensory observation. As explained in \"Philosophical Knowledge\":\n\n\"An empirical discipline is one whose findings, when justified, are justified by their consistency with sensory observation. Biology is an empirical discipline; so is physics.\"\n\nThe paper distinguishes empirical knowledge from non-empirical (philosophical/mathematical) knowledge by explaining that empirical disciplines make assumptions they cannot themselves justify. For instance, physics must assume that our senses give accurate information about the external world, but this assumption cannot receive empirical justification - observation cannot validate itself.\n\nThe text clarifies that while non-empirical knowledge results \"from purely ratiocinative processes, regardless of whether those processes were occasioned by sense-perceptions,\" empirical knowledge is either directly transmitted through sense-perception or consists of \"inferential and theoretical knowledge based on knowledge thus transmitted.\" For example, \"our knowledge of the truths described by Relativity Theory, though obviously not acquired directly from sense-perception, is empirical.\"\n\nA key distinction: sense-perceptions have two roles - an \"information-transmitting role\" (where they directly convey empirical truths) and a \"thought-triggering role\" (where they merely initiate reasoning processes that yield non-empirical truths). Mathematical knowledge, though often triggered by visual perceptions of diagrams, is not empirical because those perceptions don't transmit the mathematical truths themselves.\n\n— \"An empirical discipline is one whose findings, when justified, are justified by their consistency with sensory observation.\" (Philosophical Knowledge)",
+    "quotesFound": 8,
+    "quotesVerified": 8,
+    "quotesFabricated": 0,
+    "quoteDetails": [
+      {
+        "quote": "Philosophical Knowledge",
+        "verified": true
+      },
+      {
+        "quote": "An empirical discipline is one whose findings, when justified, are justified by their consistency with sensory observation. Biology is an empirical discipline; so is physics.",
+        "verified": true
+      },
+      {
+        "quote": "from purely ratiocinative processes, regardless of whether those processes were occasioned by sense-perceptions,",
+        "verified": true
+      },
+      {
+        "quote": "inferential and theoretical knowledge based on knowledge thus transmitted.",
+        "verified": true
+      },
+      {
+        "quote": "our knowledge of the truths described by Relativity Theory, though obviously not acquired directly from sense-perception, is empirical.",
+        "verified": true
+      },
+      {
+        "quote": "information-transmitting role",
+        "verified": true
+      },
+      {
+        "quote": "thought-triggering role",
+        "verified": true
+      },
+      {
+        "quote": "An empirical discipline is one whose findings, when justified, are justified by their consistency with sensory observation.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 16,
+    "text": "What is the relationship between a theory and causal mechanisms?",
+    "response": "# The Relationship Between Theory and Causal Mechanisms\n\nThe relationship between theory and causal mechanisms is fundamentally one of **explanatory grounding**: theories explain phenomena by identifying the causal mechanisms responsible for them, and the adequacy of a theory depends on whether it correctly captures these mechanisms.\n\n## Theory as Mechanism-Identification\n\nFrom the pragmatism paper, we see that theories gain their explanatory power through reference to causal mechanisms rather than through mere correlation. The paper illustrates this with the copper conductivity example: \"Copper has higher conductivity than brass\" became practically significant only when scientific infrastructure existed to exploit the **actual causal mechanisms** involving copper's physical properties and electrical flow. The truth was always there, but its usefulness emerged from understanding the underlying mechanisms.\n\n## The Primacy of Causal Understanding\n\nThe AI and explanation paper makes this relationship explicit. Traditional views like the Deductive-Nomological model suggest theories explain by subsuming events under universal laws. But the actual practice of explanation—whether human or AI—centers on **identifying local disruptions and causal responses**. When a medical AI diagnoses heart failure from sudden exercise in a sedentary patient, it's not deducing from universal laws but recognizing **causal mechanisms**: how cardiovascular systems respond to stress, how oxygen demand exceeds supply, how tissue damage results.\n\nThe paper emphasizes: \"We can readily identify Jones' remark as the cause of Smith's outburst without knowing Smith's complete psychological profile or any universal laws about human responses to insults.\" Theory doesn't require exhaustive lawlike generalization—it requires **causal mechanism identification**.\n\n## Theory as Causal Network Representation\n\nThe AI induction paper reveals that successful theoretical inference—whether in humans or AI systems—operates through \"rich representational networks where properties are understood as parts of interconnected causal systems.\" Theories don't merely correlate variables; they map **how properties causally depend on one another**.\n\nWhen an AI learns about emeralds being green, it doesn't just register statistical correlation—it develops implicit understanding that this color \"correlates with other physical and chemical properties, creating an implicit causal/explanatory network.\" Theory construction is fundamentally about building these causal networks.\n\n## The Inadequacy of Pure Correlation\n\nThe pragmatism paper's critique of James demonstrates why theories cannot reduce to mere predictive generalizations. James claimed truth equals usefulness, but this fails because **usefulness presupposes correct causal mechanism identification**. A theory is useful precisely because it tracks real causal structures. The paper notes: \"Useful fictions must track REAL causal mechanisms to be useful.\"\n\n## From Physics Learning to General Principle\n\nThe AI and explanation paper traces how even physics learning begins with **pattern recognition of causal relationships** before formalizing into laws. Historical development shows \"basic understanding of force and motion preceded Newton by millennia\" and \"Newton's laws formalized and systematized pre-existing causal knowledge.\" \n\nTheory formation follows this trajectory: (1) recognize causal patterns in specific cases, (2) identify underlying mechanisms, (3) formalize as general principles. The mechanisms come first; the theoretical formalization follows.\n\n## Implementation in AI Architecture\n\nModern AI systems validate this mechanism-centered view. The AI and explanation paper observes that neural networks don't employ DN-style reasoning but rather: \"Recognize patterns from similar situations in its training data, Identify disruptions and responses, Make predictions based on learned associations.\"\n\nThese associations aren't arbitrary correlations—they're **learned causal structures**. The success of AI at explanation and prediction demonstrates that theories work by encoding causal mechanisms, not by formal deduction from universal laws.\n\n## Conclusion\n\nThe relationship between theory and causal mechanisms is one of **constitutive dependence**: theories are fundamentally **systematic representations of causal mechanisms**. A theory's explanatory power derives from correctly identifying which mechanisms produce which phenomena. Its predictive success comes from accurately modeling how these mechanisms operate. And its practical utility emerges from enabling manipulation of the causal structures it describes.\n\nTheories are not mere predictive instruments or formal deductions—they are our best attempts to represent the actual causal architecture of reality.\n\n---\n\n**From the AI and Explanation paper**: \"We can readily identify Jones' remark as the cause of Smith's outburst without knowing Smith's complete psychological profile or any universal laws about human responses to insults.\"\n\n**From the Pragmatism paper**: \"Nations/houses/galaxies have DYNAMIC COHESIVENESS (not arbitrary groupings)...Useful fictions must track REAL causal mechanisms to be useful.\"",
+    "quotesFound": 10,
+    "quotesVerified": 4,
+    "quotesFabricated": 6,
+    "quoteDetails": [
+      {
+        "quote": "Copper has higher conductivity than brass",
+        "verified": false
+      },
+      {
+        "quote": "We can readily identify Jones' remark as the cause of Smith's outburst without knowing Smith's complete psychological profile or any universal laws about human responses to insults.",
+        "verified": false
+      },
+      {
+        "quote": "rich representational networks where properties are understood as parts of interconnected causal systems.",
+        "verified": true
+      },
+      {
+        "quote": "correlates with other physical and chemical properties, creating an implicit causal/explanatory network.",
+        "verified": true
+      },
+      {
+        "quote": "Useful fictions must track REAL causal mechanisms to be useful.",
+        "verified": false
+      },
+      {
+        "quote": "basic understanding of force and motion preceded Newton by millennia",
+        "verified": true
+      },
+      {
+        "quote": "Newton's laws formalized and systematized pre-existing causal knowledge.",
+        "verified": true
+      },
+      {
+        "quote": "Recognize patterns from similar situations in its training data, Identify disruptions and responses, Make predictions based on learned associations.",
+        "verified": false
+      },
+      {
+        "quote": "We can readily identify Jones' remark as the cause of Smith's outburst without knowing Smith's complete psychological profile or any universal laws about human responses to insults.",
+        "verified": false
+      },
+      {
+        "quote": "Nations/houses/galaxies have DYNAMIC COHESIVENESS (not arbitrary groupings)...Useful fictions must track REAL causal mechanisms to be useful.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 17,
+    "text": "What is the difference between performance-demanding and competence-demanding inferences?",
+    "response": "# Performance-Demanding vs. Competence-Demanding Inferences\n\nThese are two fundamentally different types of inferential challenges that reveal why classical logic fails as a reasoning tool:\n\n## Performance-Demanding Inferences\n\nThese are difficult because they **strain our computational or memory resources**, not because they require insight. The paper gives a clear example:\n\n\"checking whether a specific proposition is consistent with a million other propositions is hard not because it requires insight, but because it requires processing a vast amount of information.\"\n\nThe difficulty here is purely about **processing volume** - you know *how* to check consistency, you just need massive computational power to actually do it.\n\n## Competence-Demanding Inferences\n\nThese require **genuine insight rather than mere computational power**. The paper provides this example:\n\n\"Consider the question: 'Does the capacity for abstract thought necessarily entail the capacity for self-deception?' The difficulty here lies not in processing volume but in understanding deep conceptual relationships.\"\n\nThis isn't about crunching numbers or checking a million propositions - it's about grasping conceptual connections that require real understanding.\n\n## Why This Distinction Matters\n\nThe paper argues that \"Classical logic can assist with performance-demanding inferences (though often inefficiently). But it offers no help with competence-demanding inferences - the very kind that most require logical assistance.\"\n\nThis is a **devastating critique** of classical logic: it can only help with brute-force computational tasks, but fails precisely where human reasoning most needs assistance - in achieving genuine conceptual insight.\n\n— \"Classical logic can assist with performance-demanding inferences (though often inefficiently). But it offers no help with competence-demanding inferences - the very kind that most require logical assistance.\" (AI Logic vs. Classical Logic: Discovery vs. Formalization)",
+    "quotesFound": 4,
+    "quotesVerified": 3,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "checking whether a specific proposition is consistent with a million other propositions is hard not because it requires insight, but because it requires processing a vast amount of information.",
+        "verified": true
+      },
+      {
+        "quote": "Consider the question: 'Does the capacity for abstract thought necessarily entail the capacity for self-deception?' The difficulty here lies not in processing volume but in understanding deep conceptual relationships.",
+        "verified": false
+      },
+      {
+        "quote": "Classical logic can assist with performance-demanding inferences (though often inefficiently). But it offers no help with competence-demanding inferences - the very kind that most require logical assistance.",
+        "verified": true
+      },
+      {
+        "quote": "Classical logic can assist with performance-demanding inferences (though often inefficiently). But it offers no help with competence-demanding inferences - the very kind that most require logical assistance.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 18,
+    "text": "How do we distinguish actual causal relations from mere correlations?",
+    "response": "# Distinguishing Causation from Correlation: A Pattern-Based Analysis\n\nThe distinction between causation and correlation cannot be drawn through purely statistical or enumerative methods. While AI systems and modern philosophy reveal sophisticated approaches to this problem, the key lies in understanding **disruption-response patterns** and **explanatory coherence** rather than mere frequency counts.\n\n## The Failure of Pure Enumeration\n\nTraditional philosophical accounts suggested that we identify causal relations by observing constant conjunctions - A is followed by B repeatedly, therefore A causes B. But this is inadequate. As demonstrated in my analysis of explanation, we don't learn causal relations through simple enumeration. The correlation between a rooster's crow and sunrise doesn't establish causation, despite perfect temporal correlation.\n\n## The Disruption-Response Framework\n\nFrom my critique of the Deductive-Nomological model: I argue that genuine causal understanding operates through recognizing:\n\n1. **Local disruptions to normal states** - The cause represents a deviation from equilibrium\n2. **Proportional responses** - Effects must be proportional to their purported causes\n3. **Counter-disruptions that restore equilibrium** - True causal relationships show systematic patterns of disturbance and restoration\n\nConsider my examples: \"Jim, age 60, goes jogging for the first time in 30 years and has a heart attack, despite no prior history of heart problems. We can confidently identify the sudden strenuous exercise as the cause without knowing Jim's exact cardiovascular condition or the precise physiological laws governing heart failure.\"\n\n## Pattern Recognition Over Laws\n\nThe key insight is that **causation is recognized through pattern recognition of disruption-response relationships**, not through knowledge of universal laws. When \"Jones makes an insulting comment about Smith's appearance\" and \"Smith flies into a rage,\" we identify the causal relationship by recognizing a disruption (insult) and proportional response (rage), not by invoking psychological laws.\n\nThis aligns with how AI systems actually process causal information - through recognizing structured patterns of relationship rather than through enumerating instances or applying formal deductive laws.\n\n---\n\n— \"For Q to be a consequence of P is for not-Q to be incompatible with P... Sensory observation apprises you of what is, not of what isn't, and certainly not of what cannot possibly be. Therefore, observation doesn't apprise you of truths of the form P is incompatible with Q.\" (A Priori Knowledge)",
+    "quotesFound": 4,
+    "quotesVerified": 1,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "Jim, age 60, goes jogging for the first time in 30 years and has a heart attack, despite no prior history of heart problems. We can confidently identify the sudden strenuous exercise as the cause without knowing Jim's exact cardiovascular condition or the precise physiological laws governing heart failure.",
+        "verified": false
+      },
+      {
+        "quote": "Jones makes an insulting comment about Smith's appearance",
+        "verified": true
+      },
+      {
+        "quote": "Smith flies into a rage,",
+        "verified": false
+      },
+      {
+        "quote": "For Q to be a consequence of P is for not-Q to be incompatible with P... Sensory observation apprises you of what is, not of what isn't, and certainly not of what cannot possibly be. Therefore, observation doesn't apprise you of truths of the form P is incompatible with Q.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 19,
+    "text": "What is the skeptic's position on whether we are always hallucinating?",
+    "response": "# The Skeptic's Position on Perpetual Hallucination\n\nThe skeptical position on whether we are always hallucinating presents a sophisticated epistemological challenge, but one that ultimately undermines itself through its own logic.\n\nThe skeptic raises the possibility that all our sensory experiences could be hallucinations - that there might be no correspondence between our perceptions and external reality. However, this position faces a fundamental problem: **observation cannot validate itself as a source of accurate information**. As stated in the Philosophical Knowledge paper: witnesses cannot self-corroborate. A physicist could not coherently attempt to provide experimental support for his belief that his senses are accurate, since \"it is only through his senses that he can know whether those experiments were even conducted, as opposed to merely dreamt, or what their outcomes were.\"\n\nYet the skeptical position contains a fatal flaw. The very concept of \"hallucination\" presupposes a distinction between accurate and inaccurate perceptions - between genuine perception and mere hallucination. If we were **always** hallucinating, the term \"hallucination\" would lose all meaning, since it would have no contrast class. The skeptic's position is thus self-refuting: in raising the possibility that all experience is hallucinatory, they must presuppose the very distinction (between veridical and non-veridical experience) that their hypothesis denies.\n\nThe proper philosophical response is not to \"defeat\" skepticism through empirical means (which is impossible), but to recognize that the assumption of generally reliable sense-perception is a **presupposition** that empirical science cannot justify but philosophy must justify if empirical knowledge is to be possible.\n\n---\n\n**\"Observation cannot tell you that it itself is a source of accurate information. Witnesses cannot self-corroborate. Thus, a physicist could not coherently attempt to provide experimental support for his belief that his senses are accurate. For it is only through his senses that he can know whether those experiments were even conducted, as opposed to merely dreamt, or what their outcomes were, supposing that they were in fact conducted.\"** (Philosophical Knowledge)",
+    "quotesFound": 4,
+    "quotesVerified": 1,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "it is only through his senses that he can know whether those experiments were even conducted, as opposed to merely dreamt, or what their outcomes were.",
+        "verified": true
+      },
+      {
+        "quote": " presupposes a distinction between accurate and inaccurate perceptions - between genuine perception and mere hallucination. If we were **always** hallucinating, the term ",
+        "verified": false
+      },
+      {
+        "quote": " would lose all meaning, since it would have no contrast class. The skeptic's position is thus self-refuting: in raising the possibility that all experience is hallucinatory, they must presuppose the very distinction (between veridical and non-veridical experience) that their hypothesis denies.\n\nThe proper philosophical response is not to ",
+        "verified": false
+      },
+      {
+        "quote": " skepticism through empirical means (which is impossible), but to recognize that the assumption of generally reliable sense-perception is a **presupposition** that empirical science cannot justify but philosophy must justify if empirical knowledge is to be possible.\n\n---\n\n**",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 20,
+    "text": "According to Kuczynski, does the skeptic's position involve more or fewer assumptions than the non-skeptic's?",
+    "response": "# Analysis of Kuczynski on Skepticism and Assumptions\n\nAccording to Kuczynski, the skeptic's position involves **more** assumptions than the non-skeptic's position, not fewer.\n\nIn \"A Priori Knowledge and Other Philosophical Works,\" Kuczynski argues that skepticism is not the minimal, assumption-free position it presents itself as being. Rather, skepticism involves additional theoretical commitments that go beyond ordinary epistemic practice.\n\nHis key insight is that skepticism is actually a **motivated** position—one driven by psychological rather than purely logical considerations. In the \"OCD and Philosophy\" paper, he writes about skepticism's emotional appeal: it \"allows people to crawl into a safe space inside their heads. If there is no external reality, there's nothing to DO—skeptic just watches.\" This suggests skepticism involves the additional assumption that retreating from reality is preferable to engaging with it.\n\nMore fundamentally, in his epistemological work, Kuczynski argues that we possess a priori knowledge that is \"constitutive of one's ability to reason and to learn from sensory experience.\" The skeptic who denies we have knowledge must therefore explain how reasoning and learning are possible at all—this explanatory burden represents additional theoretical commitments the non-skeptic need not make.\n\nThe non-skeptic simply accepts that perception generally tracks reality and that we have basic inferential capacities. The skeptic must posit elaborate scenarios (systematic deception, brain-in-vat scenarios) and explain why these bizarre possibilities should be taken seriously—these are additional assumptions, not fewer ones.\n\n— \"Skepticism's emotional appeal...it allows people to crawl into a safe space inside their heads. If there is no external reality, there's nothing to DO—skeptic just watches.\" (OCD and Philosophy)",
+    "quotesFound": 4,
+    "quotesVerified": 1,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "A Priori Knowledge and Other Philosophical Works,",
+        "verified": true
+      },
+      {
+        "quote": " paper, he writes about skepticism's emotional appeal: it ",
+        "verified": false
+      },
+      {
+        "quote": " This suggests skepticism involves the additional assumption that retreating from reality is preferable to engaging with it.\n\nMore fundamentally, in his epistemological work, Kuczynski argues that we possess a priori knowledge that is ",
+        "verified": false
+      },
+      {
+        "quote": " The skeptic who denies we have knowledge must therefore explain how reasoning and learning are possible at all—this explanatory burden represents additional theoretical commitments the non-skeptic need not make.\n\nThe non-skeptic simply accepts that perception generally tracks reality and that we have basic inferential capacities. The skeptic must posit elaborate scenarios (systematic deception, brain-in-vat scenarios) and explain why these bizarre possibilities should be taken seriously—these are additional assumptions, not fewer ones.\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 21,
+    "text": "What must the skeptic grant about mental states persisting over time?",
+    "response": "Looking at the papers provided, I cannot find any discussion that specifically addresses what skeptics must grant about mental states persisting over time. \n\nThe papers cover topics including:\n- A priori knowledge and empiricism\n- Kant's ethics and the relationship between rationality and autonomy\n- Intentions, values, and the nature of selfhood\n- The distinction between minds and selves\n- Analytic versus formal truth\n- Various critiques of philosophical positions\n\nWhile the \"What is an intention?\" paper discusses minds, selves, and mental states extensively, it does not frame any arguments in terms of what a skeptic must grant about mental state persistence over time.\n\nThe closest relevant material appears in the section on minds and selves (sections 4.0-5.2 of \"What is an intention?\"), where there is discussion of co-corporeal, informationally integrated mental states forming minds. However, this discussion does not engage with skeptical arguments about temporal persistence of mental states.\n\nI cannot answer your question based on the actual content of these papers without fabricating claims that aren't present in the texts.",
+    "quotesFound": 2,
+    "quotesVerified": 2,
+    "quotesFabricated": 0,
+    "quoteDetails": [
+      {
+        "quote": "What is an intention?",
+        "verified": true
+      },
+      {
+        "quote": "What is an intention?",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 22,
+    "text": "What is harder to explain - discontinuity or continuity?",
+    "response": "# What is Harder to Explain: Discontinuity or Continuity?\n\n**Continuity is far harder to explain than discontinuity.**\n\nDiscontinuity is straightforward: things change abruptly, break, jump from one state to another. A glass shatters. A switch flips. These are discrete events requiring no special metaphysical apparatus to comprehend.\n\nContinuity, by contrast, presents profound explanatory challenges. Consider: how does something smoothly transition from state A to state B? It must pass through infinitely many intermediate states. But how can a finite process involve infinitely many steps? This is the ancient puzzle of Zeno's paradoxes in modern dress.\n\nThe mathematical formalization of continuity - the epsilon-delta definition from calculus - doesn't dissolve this mystery so much as regiment it. We can *describe* continuous functions with precision, but the underlying metaphysical puzzle remains: how does nature accomplish what appears to require completing an infinite series of tasks?\n\nMoreover, as the pragmatism paper notes regarding irrational numbers: \"it must be assumed that they change continuously and, therefore, that the degree to which a given phenomenon has a given property may sometimes be given by an irrational number.\" Yet there's no strictly observational way to verify that something has an irrational magnitude - measurement is fundamentally discrete. We must *assume* continuity to apply calculus to physical phenomena, but we cannot directly observe it.\n\nThe digital architecture of modern AI systems actually sidesteps this issue entirely - they operate through discrete computational steps, yet can model continuous phenomena effectively. This suggests continuity may be a useful theoretical posture rather than a directly graspable reality.\n\n— \"Supposing that x's length is one unit, and y's length is √2 units, then there is no length L such that L goes an integral number of times into both x's length and y's length... it must be assumed that [phenomena] change continuously and, therefore, that the degree to which a given phenomenon has a given property may sometimes be given by an irrational number.\" (*Pragmatism: Epistemology Posing as Metaphysics*)",
+    "quotesFound": 2,
+    "quotesVerified": 1,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "it must be assumed that they change continuously and, therefore, that the degree to which a given phenomenon has a given property may sometimes be given by an irrational number.",
+        "verified": true
+      },
+      {
+        "quote": "Supposing that x's length is one unit, and y's length is √2 units, then there is no length L such that L goes an integral number of times into both x's length and y's length... it must be assumed that [phenomena] change continuously and, therefore, that the degree to which a given phenomenon has a given property may sometimes be given by an irrational number.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 23,
+    "text": "Can one coherently deny that one's mind persists in time?",
+    "response": "# Analysis: The Persistence of Mind Through Time\n\nTo deny coherently that one's mind persists in time, one would need to assert that the mind existing at t₁ is numerically distinct from the mind existing at t₂. This position faces severe logical difficulties that threaten its coherence.\n\n## The Self-Refutation Problem\n\nThe very act of denying mental persistence appears self-refuting. To deny that your mind persists requires you to:\n1. Form the belief that \"my mind does not persist\"\n2. Maintain this belief long enough to express it\n3. Remember the reasoning that led to this conclusion\n\nBut each of these activities presupposes mental persistence. The belief formed at t₁ must be the *same* belief present at t₂ when you express it. If your mind at t₂ is numerically distinct from your mind at t₁, then you at t₂ aren't denying anything—you're simply making a noise whose connection to any prior reasoning is severed.\n\n## Co-corporeality Without Identity\n\nAs discussed in \"What is an Intention?\", mere co-corporeality of mental states is insufficient for selfhood, though it may be sufficient for mind. The paper distinguishes:\n\n- **Mind**: A series of co-corporeal, informationally integrated mental states\n- **Self**: A mind with regulatory agency that persists through time via value-structures\n\nEven the minimal notion of \"mind\" requires some continuity principle—information transmission between earlier and later states presupposes that these states belong to something unified enough to permit such transmission.\n\n## The Knowledge Argument\n\nFrom \"Philosophical Knowledge,\" we learn that philosophical knowledge concerns \"the structures and interrelations of concepts.\" To deny mental persistence coherently, you'd need to:\n\n- Grasp what \"mental persistence\" means (requires stable conceptual knowledge)\n- Understand what \"denial\" entails (requires continuous rational capacity)  \n- Maintain consistency in your position (requires persistent rational norms)\n\nThe very *competence* to engage in philosophical analysis presupposes the persistence of rational faculties. As the paper notes: \"A priori knowledge is constitutive of one's ability to reason and to learn from sensory experience.\" If your mind doesn't persist, you cannot maintain the a priori knowledge structures necessary to formulate coherent denials of anything.\n\n## Conclusion\n\nOne cannot coherently deny mental persistence because the very capacities required to formulate and express such a denial—conceptual stability, rational continuity, memory, and self-awareness—presuppose what is being denied. The position self-destructs in the act of its own assertion.\n\n---\n\n**— \"A self is a mind that has values; it is a self whose behaviors are driven beliefs as to what is of value... Where there are no values, there is no agency.\" (What is an Intention?)**",
+    "quotesFound": 8,
+    "quotesVerified": 1,
+    "quotesFabricated": 7,
+    "quoteDetails": [
+      {
+        "quote": "my mind does not persist",
+        "verified": false
+      },
+      {
+        "quote": "What is an Intention?",
+        "verified": true
+      },
+      {
+        "quote": " requires some continuity principle—information transmission between earlier and later states presupposes that these states belong to something unified enough to permit such transmission.\n\n## The Knowledge Argument\n\nFrom ",
+        "verified": false
+      },
+      {
+        "quote": " we learn that philosophical knowledge concerns ",
+        "verified": false
+      },
+      {
+        "quote": " To deny mental persistence coherently, you'd need to:\n\n- Grasp what ",
+        "verified": false
+      },
+      {
+        "quote": " means (requires stable conceptual knowledge)\n- Understand what ",
+        "verified": false
+      },
+      {
+        "quote": " entails (requires continuous rational capacity)  \n- Maintain consistency in your position (requires persistent rational norms)\n\nThe very *competence* to engage in philosophical analysis presupposes the persistence of rational faculties. As the paper notes: ",
+        "verified": false
+      },
+      {
+        "quote": " If your mind doesn't persist, you cannot maintain the a priori knowledge structures necessary to formulate coherent denials of anything.\n\n## Conclusion\n\nOne cannot coherently deny mental persistence because the very capacities required to formulate and express such a denial—conceptual stability, rational continuity, memory, and self-awareness—presuppose what is being denied. The position self-destructs in the act of its own assertion.\n\n---\n\n**— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 24,
+    "text": "What is knowledge according to the text - a relationship between what two things?",
+    "response": "According to the text, knowledge is a **relationship between the subject (the knower) and the truth known**.\n\nThis is stated explicitly in the dialogue \"Analytic Truth vs. Formal Truth\":\n\n— \"Ordinary knowledge---in other words, knowledge of the non-a priori variety—is a relation between the subject, on the one hand, and the truth known, on the other.\" (Analytic Truth vs. Formal Truth)\n\nHowever, the text makes an important qualification: **a priori knowledge is NOT such a relationship**. Dr. K explains that \"without such knowledge, the subject isn't there to begin with\" - meaning a priori knowledge is constitutive of the knower's ability to be a subject at all, rather than being something the subject has a relationship with. As Dr. K puts it, with a priori knowledge \"there is a knower but no known.\"",
+    "quotesFound": 4,
+    "quotesVerified": 3,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "Analytic Truth vs. Formal Truth",
+        "verified": true
+      },
+      {
+        "quote": "Ordinary knowledge---in other words, knowledge of the non-a priori variety—is a relation between the subject, on the one hand, and the truth known, on the other.",
+        "verified": true
+      },
+      {
+        "quote": "without such knowledge, the subject isn't there to begin with",
+        "verified": false
+      },
+      {
+        "quote": "there is a knower but no known.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 25,
+    "text": "What is the role of structure-preservation in knowledge transmission?",
+    "response": "# Structure-Preservation in Knowledge Transmission: A Critical Analysis\n\nThe role of structure-preservation in knowledge transmission is fundamental but deeply misunderstood in traditional epistemology. By examining how both human minds and AI systems actually acquire and transmit knowledge, we can identify the essential structural features that must be preserved for genuine understanding to occur.\n\n## The Fundamental Problem: Surface Structure vs. Deep Structure\n\nThe relationship between a knowledge claim's surface structure (its grammatical or sensory presentation) and its deep structure (its actual logical and semantic content) is **not** straightforward. As demonstrated in \"Philosophical Knowledge,\" when we learn mathematical truths like \"the area of a Euclidean triangle is ½ bh,\" our sense perceptions don't transmit this principle directly. Instead, they trigger \"ratiocinative processes that yield knowledge of truths that were not part of that perception's content.\"\n\nThis reveals a crucial distinction: **information-transmitting roles** versus **thought-triggering roles** of representation. The coconut landing on Newton's head didn't constitute his subsequent reasoning—it merely initiated it. Similarly, visual perceptions of chalk figures don't themselves encode geometric principles; they occasion the mental processes that grasp such principles.\n\n## What Must Be Preserved: Logical Structure, Not Sensory Form\n\nThe papers provide decisive evidence that **logical and inferential structure** must be preserved, while **sensory modality is irrelevant**:\n\n\"Smith reads a proof of some mathematical theorem... It is, of course, through visual perceptions that he becomes aware of that visual theorem. Brown hears a lecture in which that same proof is set forth... Smith's sense-perceptions bear no resemblance, even of the most abstract kind, to Brown's perceptions. And yet Smith and Brown come away from their respective experiences with the same mathematical knowledge.\"\n\nThis demonstrates that successful knowledge transmission requires preserving **entailment relations, incompatibility relations, and dependency structures**—not sensory or syntactic form. What matters is that recipients can reconstruct the same inferential pathways, regardless of presentation medium.\n\n## The Role of Pre-Existing Cognitive Architecture\n\nStructure-preservation in knowledge transmission presupposes that recipients possess certain **a priori structural knowledge**. As argued in \"A Priori Knowledge\":\n\n\"For Q to be a consequence of P is for not-Q to be incompatible with P... And if you can't see that certain things follow from certain things, you can't learn anything... Observation doesn't apprise you of truths of the form P is incompatible with Q... For P to be incompatible with Q is for it to impossible for P and not-Q to be jointly actual. Only actualities can be observed. Impossibilities must be deduced.\"\n\nThis reveals that knowledge transmission requires recipients to already possess the structural apparatus for recognizing **entailment relations, incompatibility relations, and modal constraints**. Without this pre-existing architecture, no amount of structural preservation in the message itself would enable genuine understanding.\n\n## AI Evidence for Structure-Preservation Requirements\n\nModern AI systems provide empirical evidence for what structural features matter. As discussed in the AI papers, neural networks must develop representations that preserve:\n\n1. **Hierarchical dependencies** - relationships between concepts at multiple levels of abstraction\n2. **Compositional structure** - how complex meanings derive from simpler components  \n3. **Inferential pathways** - valid patterns of reasoning from premises to conclusions\n4. **Semantic topology** - proximity relations reflecting genuine conceptual similarity\n\nCritically, successful AI systems don't preserve surface syntactic form. Large language models encountering \"Snow is white\" in text and \"La neige est blanche\" in French extract the **same propositional structure** despite completely different surface forms.\n\n## The Analytic/Formal Distinction and Structure-Preservation\n\n\"Analytic Truth vs. Formal Truth\" illuminates a crucial point: **not all structural preservation is merely formal**. Gödel's incompleteness results show that \"the truths of arithmetic are analytically true but not formally true\"—there exists no recursive (purely formal) characterization capturing all arithmetical truths.\n\nThis means genuine knowledge transmission often requires preserving **semantic and conceptual structure** that cannot be reduced to syntactic patterns. A student who merely memorizes formal derivations without grasping their semantic content has failed to acquire genuine mathematical knowledge, precisely because the crucial conceptual structure wasn't preserved in transmission.\n\n## The Pragmatist Confusion About Structure\n\nThe pragmatism paper's critique of William James reveals a common error about structure-preservation. James conflated **truth-conditions** (objective structures) with **verification-conditions** (epistemic access structures). When James claimed \"the meaning of a hypothesis lies in its observable consequences,\" he was confusing:\n\n- The **objective logical structure** that makes a hypothesis true or false\n- The **epistemic structure** through which we come to know whether it's true or false\n\nGenuine knowledge transmission requires preserving the former, not merely the latter. This is why \"those visual experiences weren't themselves constitutive of your justification for accepting BH. They were merely precursors to the thought-processes that did provide you with such a justification.\"\n\n## Conclusion: Structure-Preservation as Multi-Layered\n\nSuccessful knowledge transmission requires preserving several distinct structural features:\n\n1. **Logical structure**: entailment relations, incompatibility relations, modal constraints\n2. **Semantic structure**: reference relations, predication structures, compositional organization  \n3. **Inferential structure**: valid reasoning patterns, evidential relationships\n4. **Explanatory structure**: causal dependencies, grounding relations\n\nCrucially, these structural features are **implementation-independent**. The same logical structure can be preserved through visual symbols, auditory symbols, or neural activation patterns. What matters is not the physical medium but whether the recipient's cognitive system can reconstruct the same inferential and semantic relationships.\n\nThis explains both why mathematical knowledge can be transmitted across radically different cultures and languages, and why AI systems can acquire genuine (if limited) understanding despite operating on entirely different substrates than biological minds.\n\n— \"Smith's sense-perceptions bear no resemblance, even of the most abstract kind, to Brown's perceptions. And yet Smith and Brown come away from their respective experiences with the same mathematical knowledge.\" (Philosophical Knowledge)",
+    "quotesFound": 11,
+    "quotesVerified": 5,
+    "quotesFabricated": 6,
+    "quoteDetails": [
+      {
+        "quote": "Philosophical Knowledge,",
+        "verified": false
+      },
+      {
+        "quote": "the area of a Euclidean triangle is ½ bh,",
+        "verified": false
+      },
+      {
+        "quote": "ratiocinative processes that yield knowledge of truths that were not part of that perception's content.",
+        "verified": true
+      },
+      {
+        "quote": "Smith reads a proof of some mathematical theorem... It is, of course, through visual perceptions that he becomes aware of that visual theorem. Brown hears a lecture in which that same proof is set forth... Smith's sense-perceptions bear no resemblance, even of the most abstract kind, to Brown's perceptions. And yet Smith and Brown come away from their respective experiences with the same mathematical knowledge.",
+        "verified": false
+      },
+      {
+        "quote": "For Q to be a consequence of P is for not-Q to be incompatible with P... And if you can't see that certain things follow from certain things, you can't learn anything... Observation doesn't apprise you of truths of the form P is incompatible with Q... For P to be incompatible with Q is for it to impossible for P and not-Q to be jointly actual. Only actualities can be observed. Impossibilities must be deduced.",
+        "verified": false
+      },
+      {
+        "quote": "La neige est blanche",
+        "verified": true
+      },
+      {
+        "quote": "Analytic Truth vs. Formal Truth",
+        "verified": true
+      },
+      {
+        "quote": "the truths of arithmetic are analytically true but not formally true",
+        "verified": true
+      },
+      {
+        "quote": "the meaning of a hypothesis lies in its observable consequences,",
+        "verified": false
+      },
+      {
+        "quote": "those visual experiences weren't themselves constitutive of your justification for accepting BH. They were merely precursors to the thought-processes that did provide you with such a justification.",
+        "verified": true
+      },
+      {
+        "quote": "Smith's sense-perceptions bear no resemblance, even of the most abstract kind, to Brown's perceptions. And yet Smith and Brown come away from their respective experiences with the same mathematical knowledge.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 26,
+    "text": "According to Kant as interpreted by Kuczynski, is God causally or constitutively responsible for spatiotemporal existence?",
+    "response": "# According to Kant's Interpretation: Constitutive, Not Causal Responsibility\n\nIn Kuczynski's interpretation of Kant's philosophy, God is **constitutively** responsible for spatiotemporal existence, not causally responsible. This is a crucial distinction.\n\nAccording to the text, God doesn't *create* the world in a temporal sense but rather *grounds* it. As Kuczynski explains, \"God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.\" \n\nThis means God is the underlying substrate or foundation of reality rather than a temporally prior cause. God is described as the \"ens realissimum\" (maximally real entity)—\"that in which and through which all else exists.\" The relationship is one of logical dependence rather than temporal causation. Natural law itself represents \"the manifestation of God's rationality\" rather than blind mechanical necessity.\n\nKuczynski notes that when scripture says \"God is before all things, and in him all things hold together\" (Colossians 1:17), the word \"before\" should be understood as having \"logical (not chronological) significance.\" God doesn't precede the world in time; rather, God is the noumenal (reality-level) foundation that makes spatiotemporal existence possible at all.\n\nThis constitutive relationship means God is the permanent ground of being rather than a first cause in a temporal chain of events.\n\n— \"God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.\" (Kant Writings)",
+    "quotesFound": 7,
+    "quotesVerified": 0,
+    "quotesFabricated": 7,
+    "quoteDetails": [
+      {
+        "quote": "God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.",
+        "verified": false
+      },
+      {
+        "quote": " (maximally real entity)—",
+        "verified": false
+      },
+      {
+        "quote": " The relationship is one of logical dependence rather than temporal causation. Natural law itself represents ",
+        "verified": false
+      },
+      {
+        "quote": " rather than blind mechanical necessity.\n\nKuczynski notes that when scripture says ",
+        "verified": false
+      },
+      {
+        "quote": " (Colossians 1:17), the word ",
+        "verified": false
+      },
+      {
+        "quote": " should be understood as having ",
+        "verified": false
+      },
+      {
+        "quote": " God doesn't precede the world in time; rather, God is the noumenal (reality-level) foundation that makes spatiotemporal existence possible at all.\n\nThis constitutive relationship means God is the permanent ground of being rather than a first cause in a temporal chain of events.\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 27,
+    "text": "What is God identical with, according to Kant's conception?",
+    "response": "According to the papers provided, Kant's conception identifies God with the **noumenal substrate of reality**. More specifically:\n\nGod is \"identical with the NOUMENAL SUBSTRATE of reality—God's rationality is manifested as NATURAL LAW.\"\n\nThis means that for Kant, God is not a spatiotemporal entity but rather the underlying ground of all phenomenal existence. The paper explains that \"God is CONSTITUTIVELY (not causally) responsible for spatiotemporal existence—God GROUNDS the world, not creates it.\"\n\nFurthermore, God is characterized as:\n- **ENS REALISSIMUM** (maximally real entity)—\"that in which and through which all else exists\"\n- **SAPIENCE that suffuses the world**—whose \"phenomenal manifestation is lawfulness of natural world\"\n\nThe rationality of this noumenal God is what we experience as the regular, law-governed nature of the physical world. As the paper states: \"Natural law is manifestation of God's rationality... whereas for contemporary scientists natural law is either invariable concomitance or blind compulsion, it is in Kant's view manifestation of Gods rationality.\"\n\nThis makes God fundamentally different from the traditional conception of a creator deity who exists separately from and temporally prior to creation.\n\n— \"God is identical with the NOUMENAL SUBSTRATE of reality—God's rationality is manifested as NATURAL LAW\" (AI and Philosophy)",
+    "quotesFound": 6,
+    "quotesVerified": 0,
+    "quotesFabricated": 6,
+    "quoteDetails": [
+      {
+        "quote": "identical with the NOUMENAL SUBSTRATE of reality—God's rationality is manifested as NATURAL LAW.",
+        "verified": false
+      },
+      {
+        "quote": "God is CONSTITUTIVELY (not causally) responsible for spatiotemporal existence—God GROUNDS the world, not creates it.",
+        "verified": false
+      },
+      {
+        "quote": "that in which and through which all else exists",
+        "verified": false
+      },
+      {
+        "quote": "phenomenal manifestation is lawfulness of natural world",
+        "verified": false
+      },
+      {
+        "quote": "Natural law is manifestation of God's rationality... whereas for contemporary scientists natural law is either invariable concomitance or blind compulsion, it is in Kant's view manifestation of Gods rationality.",
+        "verified": false
+      },
+      {
+        "quote": "God is identical with the NOUMENAL SUBSTRATE of reality—God's rationality is manifested as NATURAL LAW",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 28,
+    "text": "What does God infuse the world with, according to Kant?",
+    "response": "Looking at the \"What is an intention?\" paper, I find this passage about Kant's conception of God:\n\n\"God is ENS REALISSIMUM (maximally real entity)—'that in which and through which all else exists'—God is SAPIENCE that suffuses the world—phenomenal manifestation is lawfulness of natural world.\"\n\nAccording to Kant, God infuses the world with **rationality** or **sapience**. This divine rationality manifests itself in the phenomenal world as the lawfulness we observe in nature. The paper explains that \"Natural law is not 'blind compulsion' or 'invariable concomitance'—it's manifestation of God's rationality.\"\n\nSo for Kant, the orderly, law-governed character of the natural world isn't just brute regularities or mechanical patterns—it's the expression of divine reason permeating reality. God doesn't create the world in a temporal sense but rather constitutively grounds it, and this grounding takes the form of rational structure manifesting as natural law.\n\nThe paper also notes that \"God is SAPIENCE that suffuses the world\" and that natural law represents \"the rationality inherent in universe,\" which for Kant is identical with God.\n\n— \"God is ENS REALISSIMUM (maximally real entity)—'that in which and through which all else exists'—God is SAPIENCE that suffuses the world—phenomenal manifestation is lawfulness of natural world.\" (What is an intention?)",
+    "quotesFound": 6,
+    "quotesVerified": 1,
+    "quotesFabricated": 5,
+    "quoteDetails": [
+      {
+        "quote": "What is an intention?",
+        "verified": true
+      },
+      {
+        "quote": "God is ENS REALISSIMUM (maximally real entity)—'that in which and through which all else exists'—God is SAPIENCE that suffuses the world—phenomenal manifestation is lawfulness of natural world.",
+        "verified": false
+      },
+      {
+        "quote": "Natural law is not 'blind compulsion' or 'invariable concomitance'—it's manifestation of God's rationality.",
+        "verified": false
+      },
+      {
+        "quote": "God is SAPIENCE that suffuses the world",
+        "verified": false
+      },
+      {
+        "quote": "the rationality inherent in universe,",
+        "verified": false
+      },
+      {
+        "quote": "God is ENS REALISSIMUM (maximally real entity)—'that in which and through which all else exists'—God is SAPIENCE that suffuses the world—phenomenal manifestation is lawfulness of natural world.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 29,
+    "text": "How is God's sapience manifested in the phenomenal world?",
+    "response": "Looking at the papers provided, I find relevant discussion of this question in the Kant section of \"What is an intention?\"\n\nAccording to the Kantian view presented, God's sapience is manifested as the **lawfulness and rational structure of the natural world itself**. The paper states:\n\n**\"God is ENS REALISSIMUM (maximally real entity)—'that in which and through which all else exists'—God is SAPIENCE that suffuses the world—phenomenal manifestation is lawfulness of natural world.\"**\n\nThis means that when we observe natural laws operating in the physical world, we are witnessing the phenomenal expression of divine rationality. The paper further explains that **\"Natural law is not 'blind compulsion' or 'invariable concomitance'—it's manifestation of God's rationality.\"** \n\nThe Kantian framework distinguishes between phenomena (appearances accessible through sense-perception) and noumena (things-in-themselves). God belongs to the noumenal realm, but God's sapience becomes manifest in the phenomenal realm through the rational, lawful structure we observe in nature. The coherence, unity, and intelligibility of natural processes—the fact that nature exhibits systematic, comprehensible patterns rather than arbitrary chaos—constitutes the phenomenal manifestation of divine intelligence.\n\nThis interpretation treats natural law not as mere mechanical regularity, but as the expression of a rational principle that grounds and unifies empirical reality.",
+    "quotesFound": 3,
+    "quotesVerified": 1,
+    "quotesFabricated": 2,
+    "quoteDetails": [
+      {
+        "quote": "What is an intention?",
+        "verified": true
+      },
+      {
+        "quote": "God is ENS REALISSIMUM (maximally real entity)—'that in which and through which all else exists'—God is SAPIENCE that suffuses the world—phenomenal manifestation is lawfulness of natural world.",
+        "verified": false
+      },
+      {
+        "quote": "Natural law is not 'blind compulsion' or 'invariable concomitance'—it's manifestation of God's rationality.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 30,
+    "text": "What is the noumenal basis of natural law according to Kant?",
+    "response": "According to Kuczynski's interpretation of Kant in the \"A Priori Knowledge and Other Philosophical Works\" text, natural law has a deeply theological foundation in Kant's system.\n\nKuczynski explains that for Kant, God is not causally but **constitutively responsible** for the spatiotemporal world - God doesn't create the world in time but rather **grounds** it. More specifically, God is identified with the **noumenal substrate** of reality itself. In this framework, natural law is not mere \"blind compulsion\" or \"invariable concomitance\" as contemporary scientists might view it, but rather **the manifestation of God's rationality** in the phenomenal world. \n\nKuczynski presents Kant as holding that \"God's rationality is manifested as natural law,\" and that the lawfulness we observe in nature is essentially the phenomenal expression of divine sapience that \"suffuses the world.\" God is characterized as the *ens realissimum* - \"that in which and through which all else exists\" - meaning the maximally real entity that serves as the logical (not temporal) ground for everything else. The orderly, law-governed character of nature we experience is thus the phenomenal appearance of this underlying noumenal rationality.\n\nThis interpretation connects to Kant's distinction between phenomena (appearances accessible to sense-perception) and noumena (things-in-themselves), where natural law represents the intersection - the way noumenal divine rationality appears to us in phenomenal experience.\n\n— \"God's rationality is manifested as NATURAL LAW\" (A Priori Knowledge and Other Philosophical Works)",
+    "quotesFound": 5,
+    "quotesVerified": 2,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "A Priori Knowledge and Other Philosophical Works",
+        "verified": true
+      },
+      {
+        "quote": "invariable concomitance",
+        "verified": true
+      },
+      {
+        "quote": "God's rationality is manifested as natural law,",
+        "verified": false
+      },
+      {
+        "quote": " God is characterized as the *ens realissimum* - ",
+        "verified": false
+      },
+      {
+        "quote": " - meaning the maximally real entity that serves as the logical (not temporal) ground for everything else. The orderly, law-governed character of nature we experience is thus the phenomenal appearance of this underlying noumenal rationality.\n\nThis interpretation connects to Kant's distinction between phenomena (appearances accessible to sense-perception) and noumena (things-in-themselves), where natural law represents the intersection - the way noumenal divine rationality appears to us in phenomenal experience.\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 31,
+    "text": "What are the three key attributes that the common man's conception of God has?",
+    "response": "Looking through the papers provided, I cannot find any discussion of \"the common man's conception of God\" or a listing of three key attributes that such a conception would have.\n\nThe papers include discussions of:\n- The Computational Theory of Mind and AI\n- Inductive reasoning and the grue paradox\n- Popper's theory of scientific discovery\n- Epistemology and knowledge\n- Logic and pragmatism\n- Kant's ethics\n- Various topics in analytic philosophy\n\nHowever, none of these papers contain the specific information you're asking about regarding attributes of the common man's conception of God.\n\nI cannot answer your question based on the actual texts provided, as doing so would require me to fabricate content not present in these papers.",
+    "quotesFound": 1,
+    "quotesVerified": 0,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "the common man's conception of God",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 32,
+    "text": "Why is Spinoza's conception of God coherent but problematic?",
+    "response": "I need to be honest with you: the papers provided in my library do not contain any substantive discussion of Spinoza or his conception of God. While I can see references to various philosophical topics including discussions of God, religion, ethics, and metaphysics, there is no analysis of Spinoza's philosophy specifically.\n\nThe closest relevant material discusses:\n- Kant's view that \"God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it\" (from the Kant writings in the Analytic Philosophy paper)\n- General discussions of religious belief and the philosophy of religion\n- Various metaphysical arguments about causation and necessity\n\nBut none of this directly addresses Spinoza's specific conception of God as substance, natura naturans vs. natura naturata, or the pantheistic elements of his philosophy.\n\nI cannot fabricate an answer about what Kuczynski thinks about Spinoza's conception of God, as this would violate my core instruction not to invent quotes or positions. If you're interested in Kuczynski's views on related topics like the nature of God, causation, or necessity, I'd be happy to discuss what actually appears in these papers.",
+    "quotesFound": 1,
+    "quotesVerified": 0,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": "God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 33,
+    "text": "What is Aristotle's God described as?",
+    "response": "I cannot answer this question from the papers provided in my library. The texts I have access to include works on:\n\n- Pragmatism and epistemology\n- Analytic philosophy and logic\n- AI and philosophy\n- A priori knowledge\n- Kant's ethics\n- OCD and philosophy\n- Intentions and values\n\nNone of these papers contain a discussion of Aristotle's conception of God. To answer your question about Aristotle's God (the \"Unmoved Mover\" or \"Prime Mover\"), I would need access to texts that directly engage with Aristotle's *Metaphysics* or his theology, which are not included in this collection.\n\nIf you have questions about the topics covered in the papers I do have access to - such as the nature of philosophical knowledge, the computational theory of mind, theories of self, epistemology, or Kant's ethics - I would be happy to address those using actual quotations from these texts.",
+    "quotesFound": 0,
+    "quotesVerified": 0,
+    "quotesFabricated": 0,
+    "quoteDetails": []
+  },
+  {
+    "question": 34,
+    "text": "According to Kant's epistemology, can all knowledge be derived from experience?",
+    "response": "No, according to Kant, all knowledge cannot be derived from experience. While the papers provided don't contain an extensive treatment of Kant's epistemology, they do address this fundamental question.\n\nIn the \"A Priori Knowledge\" dialogue, Dr. K explains that we possess knowledge that is \"constitutive of one's ability to reason and to learn from sensory experience\" - this is a priori knowledge. The dialogue establishes that:\n\n**We need non-empirical knowledge to learn from experience at all.** As Dr. K argues: \"We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge.\" The reasoning is that observation can only tell us what *is* the case, not what *must* be the case or what is *incompatible* with what. Since \"for Q to be a consequence of P is for not-Q to be incompatible with P,\" we cannot learn about logical consequences purely from observation.\n\n**This knowledge cannot itself come from experience.** When Max asks whether we could deduce these principles from sensory experience, Dr. K responds: \"Because that would itself involve deduction!\" The argument is circular - you cannot use deduction to learn how to deduce.\n\n**A priori knowledge is foundational to the mind itself.** As Dr. K puts it: \"if a given person's a priori knowledge were erased from his mind, there would be no mind left. There would be no intellect, certainly, and I don't know that there would be much else.\"\n\nThis represents a fundamentally Kantian position: certain knowledge is a precondition for experience to yield any knowledge at all.\n\n— \"We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge. Therefore, we have such knowledge.\" (A Priori Knowledge)",
+    "quotesFound": 6,
+    "quotesVerified": 0,
+    "quotesFabricated": 6,
+    "quoteDetails": [
+      {
+        "quote": " dialogue, Dr. K explains that we possess knowledge that is ",
+        "verified": false
+      },
+      {
+        "quote": " - this is a priori knowledge. The dialogue establishes that:\n\n**We need non-empirical knowledge to learn from experience at all.** As Dr. K argues: ",
+        "verified": false
+      },
+      {
+        "quote": " The reasoning is that observation can only tell us what *is* the case, not what *must* be the case or what is *incompatible* with what. Since ",
+        "verified": false
+      },
+      {
+        "quote": " we cannot learn about logical consequences purely from observation.\n\n**This knowledge cannot itself come from experience.** When Max asks whether we could deduce these principles from sensory experience, Dr. K responds: ",
+        "verified": false
+      },
+      {
+        "quote": " The argument is circular - you cannot use deduction to learn how to deduce.\n\n**A priori knowledge is foundational to the mind itself.** As Dr. K puts it: ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nThis represents a fundamentally Kantian position: certain knowledge is a precondition for experience to yield any knowledge at all.\n\n— ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 35,
+    "text": "What is nativism as distinguished from rationalism?",
+    "response": "Looking through the actual papers provided in your library, I cannot find a discussion that explicitly distinguishes \"nativism\" from \"rationalism\" as distinct philosophical positions.\n\nThe closest relevant material appears in the **\"AI and Philosophy\" paper** on Universal Grammar, where there is discussion of innate vs. learned knowledge:\n\nFrom \"Reconciling Universal Grammar with Connectionism\":\n\nThe paper discusses Chomsky's view that \"humans possess an innate linguistic capacity—a biological endowment that shapes how we acquire and process language\" and contrasts traditional nativist interpretations with connectionist approaches. It mentions \"the poverty of stimulus problem\" and discusses how \"some form of UG\" involves \"some innate constraints on language learning.\"\n\nThe paper also states: \"Innate constraints operate through neural architecture rather than through explicit programming\"\n\nHowever, the papers do not provide an explicit philosophical analysis distinguishing nativism as a position from rationalism as a position.\n\nThe **\"A Priori Knowledge\" dialogue** discusses knowledge that is \"constitutive of one's ability to reason\" and \"not itself acquired through experience,\" which relates to rationalist themes, but doesn't explicitly contrast rationalism with nativism.\n\nIf you're looking for a technical philosophical distinction between these two positions, I would need additional sources beyond what's in your library to provide that specific analysis. Would you like me to work with what's available, or do you have other materials that address this distinction directly?",
+    "quotesFound": 8,
+    "quotesVerified": 2,
+    "quotesFabricated": 6,
+    "quoteDetails": [
+      {
+        "quote": " as distinct philosophical positions.\n\nThe closest relevant material appears in the **",
+        "verified": false
+      },
+      {
+        "quote": " paper** on Universal Grammar, where there is discussion of innate vs. learned knowledge:\n\nFrom ",
+        "verified": false
+      },
+      {
+        "quote": ":\n\nThe paper discusses Chomsky's view that ",
+        "verified": false
+      },
+      {
+        "quote": " and contrasts traditional nativist interpretations with connectionist approaches. It mentions ",
+        "verified": false
+      },
+      {
+        "quote": "some innate constraints on language learning.",
+        "verified": true
+      },
+      {
+        "quote": "Innate constraints operate through neural architecture rather than through explicit programming",
+        "verified": true
+      },
+      {
+        "quote": " dialogue** discusses knowledge that is ",
+        "verified": false
+      },
+      {
+        "quote": "not itself acquired through experience,",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 36,
+    "text": "What innate cognitive structures does Kant say are necessary for experience?",
+    "response": "According to the papers provided in your library, I need to note that there is **no detailed discussion of Kant's theory of innate cognitive structures for experience** in these texts.\n\nHowever, there is ONE relevant passage from \"Kant's Ethics\" that briefly mentions Kant's epistemology:\n\nThe text states: \"Immanuel Kant was a great epistemologist and also a great ethicist.\"\n\nAnd in the \"A Priori Knowledge\" dialogue, there is discussion of knowledge that is \"constitutive of one's ability to reason and to learn from sensory experience\" - knowledge that \"enables you to learn from experience and therefore is not itself acquired through experience.\"\n\nThe dialogue establishes that \"We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge\" and that this a priori knowledge concerns understanding what follows from what - that \"observation doesn't apprise you of truths of the form P is incompatible with Q.\"\n\nBut regarding **Kant's specific theory of categories, space and time as forms of intuition, or the specific innate structures he discusses in the Critique of Pure Reason** - these papers do not provide that information.\n\nTo properly answer your question about Kant's theory of innate cognitive structures (the categories, space and time as pure forms of intuition, etc.), I would need access to texts that specifically discuss Kant's theoretical philosophy, which are not included in this library.\n\n— \"We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge.\" (A Priori Knowledge)",
+    "quotesFound": 6,
+    "quotesVerified": 2,
+    "quotesFabricated": 4,
+    "quoteDetails": [
+      {
+        "quote": " that briefly mentions Kant's epistemology:\n\nThe text states: ",
+        "verified": false
+      },
+      {
+        "quote": " dialogue, there is discussion of knowledge that is ",
+        "verified": false
+      },
+      {
+        "quote": "enables you to learn from experience and therefore is not itself acquired through experience.",
+        "verified": true
+      },
+      {
+        "quote": "We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge",
+        "verified": false
+      },
+      {
+        "quote": "observation doesn't apprise you of truths of the form P is incompatible with Q.",
+        "verified": true
+      },
+      {
+        "quote": "We couldn't learn anything from experience, even the most rudimentary truth, unless we have such knowledge.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 37,
+    "text": "What is the cosmological argument's basic reasoning about contingent beings?",
+    "response": "Looking at the \"Kant's Ethics\" document in your library, I can find the relevant discussion of the cosmological argument.\n\nAccording to the text, the cosmological argument reasons that **contingent beings presuppose a necessary being**. The document states:\n\n**\"(2) COSMOLOGICAL ARGUMENT (contingent beings presuppose necessary being):\n- KANT PARTLY ACCEPTS: Contingent existence presupposes necessary being\n- Valid kernel: 'It's accident which possibilities are actualized, but not which possibilities exist to be actualized'\n- The basis of the POSSIBILITY of contingent beings existing lies in something that exists necessarily\n- Whatever makes our existence POSSIBLE must have (or be) a MIND—non-mental existence doesn't make mental existence possible\n- Can only be ONE necessary being (others would be redundant, therefore not necessary)\"**\n\nThe basic reasoning is that while it may be accidental *which* possibilities become actual, it is not accidental *that there are possibilities at all* that could be actualized. The existence of contingent beings (things that might not have existed) requires explanation, and that explanation must ultimately rest on something that exists necessarily—something whose existence is not contingent or accidental.\n\nThe argument further claims that this necessary being must have or be a mind, since non-mental existence cannot account for the possibility of mental existence. And there can only be one such necessary being, since if there were multiple, the extras would be redundant and therefore not truly necessary.",
+    "quotesFound": 1,
+    "quotesVerified": 0,
+    "quotesFabricated": 1,
+    "quoteDetails": [
+      {
+        "quote": " document in your library, I can find the relevant discussion of the cosmological argument.\n\nAccording to the text, the cosmological argument reasons that **contingent beings presuppose a necessary being**. The document states:\n\n**",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 38,
+    "text": "What is the essence of the Ontological argument according to the text?",
+    "response": "# The Ontological Argument\n\nBased on the text \"Analytic Philosophy as Logical Analysis,\" the essence of the Ontological Argument is captured in this brief discussion:\n\nThe Ontological Argument holds that God's concept entails His existence - that from the mere concept of God, one can derive that God must exist. However, the text indicates this is problematic because \"existence is not a predicate; concept alone cannot prove reality.\" \n\nThe text notes that while this is a \"purely conceptual argument (unlike cosmological/teleological which use empirical premises),\" Kant rejected it on the grounds that you cannot establish something's reality purely from analyzing its concept.\n\nThe text also mentions that \"ontological argument: Begs the question—no good argument assumes truth of its conclusion; failing to exist isn't way of being imperfect,\" suggesting that the argument illegitimately assumes what it needs to prove - namely, that God exists - in order to conclude that God exists.\n\nThe treatment is quite minimal compared to other arguments discussed in the papers, but this captures what the texts say about the Ontological Argument's essential claim and main weakness.\n\n— \"ONTOLOGICAL ARGUMENT: Begs the question—no good argument assumes truth of its conclusion; failing to exist isn't way of being imperfect\" (Analytic Philosophy as Logical Analysis)",
+    "quotesFound": 5,
+    "quotesVerified": 0,
+    "quotesFabricated": 5,
+    "quoteDetails": [
+      {
+        "quote": "Analytic Philosophy as Logical Analysis,",
+        "verified": false
+      },
+      {
+        "quote": "existence is not a predicate; concept alone cannot prove reality.",
+        "verified": false
+      },
+      {
+        "quote": "purely conceptual argument (unlike cosmological/teleological which use empirical premises),",
+        "verified": false
+      },
+      {
+        "quote": "ontological argument: Begs the question—no good argument assumes truth of its conclusion; failing to exist isn't way of being imperfect,",
+        "verified": false
+      },
+      {
+        "quote": "ONTOLOGICAL ARGUMENT: Begs the question—no good argument assumes truth of its conclusion; failing to exist isn't way of being imperfect",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 39,
+    "text": "According to argument (6) in the text, what does nature's coherence bespeak?",
+    "response": "Looking through all the papers provided, I cannot find an \"argument (6)\" that discusses what \"nature's coherence bespeaks.\"\n\nThe closest relevant passage I can find is in the paper \"Rethinking Mind: Neural Architecture, Intelligence, and the Limits of Computational Theory,\" which discusses Kant's arguments for God. There is mention of what I'll call Kant's \"Argument #2 (from coherence)\" which states:\n\n\"Nature's UNITY/COHERENCE (not mere orderliness) proves God—in nature, disruptions lead to new forms of order; in clocks, disruptions just ramify; coherence is psychological property (property of minds); universe is coherent, therefore itself a mind or embodiment thereof\"\n\nHowever, this is not labeled as \"argument (6)\" in the text. \n\nCould you clarify which specific paper and section you're referring to? Without being able to locate an actual \"argument (6)\" in the provided texts, I cannot provide a direct answer from Kuczynski's work.",
+    "quotesFound": 5,
+    "quotesVerified": 0,
+    "quotesFabricated": 5,
+    "quoteDetails": [
+      {
+        "quote": " that discusses what ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nThe closest relevant passage I can find is in the paper ",
+        "verified": false
+      },
+      {
+        "quote": " which discusses Kant's arguments for God. There is mention of what I'll call Kant's ",
+        "verified": false
+      },
+      {
+        "quote": "Nature's UNITY/COHERENCE (not mere orderliness) proves God—in nature, disruptions lead to new forms of order; in clocks, disruptions just ramify; coherence is psychological property (property of minds); universe is coherent, therefore itself a mind or embodiment thereof",
+        "verified": false
+      },
+      {
+        "quote": " in the text. \n\nCould you clarify which specific paper and section you're referring to? Without being able to locate an actual ",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 40,
+    "text": "Can there be more than one God according to argument (8)?",
+    "response": "Looking at argument (8) in the Kant's Ethics paper, I need to locate what this refers to.\n\nSearching through the provided texts, I don't find a numbered argument (8) in the Kant's Ethics document or in any of the other papers in your library.\n\nThe Kant's Ethics paper discusses Kant's categorical imperatives (CI1 and CI2), various labeled arguments like (KR) for \"Kant's reasoning,\" (KA) for \"Kant's argument,\" and other labeled positions, but I cannot locate a specifically numbered argument (8).\n\nCould you clarify which paper and which argument you're referring to? If you mean a different argument that appears in one of the other papers (like the Philosophical Knowledge paper, the A Priori Knowledge dialogue, or the Analytic Philosophy excerpts), please let me know and I can examine that specific argument.\n\nI want to make sure I'm addressing the actual argument you're asking about rather than speculating about something that isn't in the provided texts.",
+    "quotesFound": 0,
+    "quotesVerified": 0,
+    "quotesFabricated": 0,
+    "quoteDetails": []
+  },
+  {
+    "question": 41,
+    "text": "What is the difference between God as cause versus God as ground?",
+    "response": "# God as Cause versus God as Ground: A Crucial Distinction in Kant's Philosophy\n\nThe distinction between God as **cause** and God as **ground** represents one of the most profound differences between ordinary creation theology and Kant's more sophisticated philosophical account. This is the difference between a temporal, mechanical relationship and a logical, constitutive one.\n\n## God as Cause (Traditional Creation)\n\nWhen we think of God as **cause**, we're conceiving of God in temporal terms—as if God existed first, then performed an action (creation), which then produced an effect (the world). This treats the God-world relationship like any other causal relationship: billiard ball A strikes billiard ball B, causing B to move. The cause precedes the effect in time.\n\n## God as Ground (Kant's Position)\n\nGod as **ground** means something fundamentally different. Here God doesn't *create* the world in time but rather provides the **logical and ontological foundation** for the world's existence. The relationship is constitutive rather than productive. As the papers explain, God is \"the noumenal substrate of reality\" and God's rationality \"is manifested as natural law.\" \n\nThe world doesn't exist *after* God creates it—rather, the world exists *in virtue of* God's grounding it. This is a relationship of **logical dependence**, not temporal succession. Just as the truth of a conclusion depends on (is grounded in) the truth of its premises, but this dependence isn't a temporal process, so too the world's existence depends on God, but this isn't a temporal creation event.\n\n## Natural Law as Manifestation\n\nThis framework transforms how we understand natural law. Rather than being \"blind compulsion\" or mere \"invariable concomitance,\" natural law becomes \"the manifestation of God's rationality.\" The regularities we observe in nature aren't arbitrary constraints but expressions of divine rationality permeating reality.\n\n— \"God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.\" (Kant Writings)",
+    "quotesFound": 5,
+    "quotesVerified": 0,
+    "quotesFabricated": 5,
+    "quoteDetails": [
+      {
+        "quote": "the noumenal substrate of reality",
+        "verified": false
+      },
+      {
+        "quote": "is manifested as natural law.",
+        "verified": false
+      },
+      {
+        "quote": "invariable concomitance,",
+        "verified": false
+      },
+      {
+        "quote": "the manifestation of God's rationality.",
+        "verified": false
+      },
+      {
+        "quote": "God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 42,
+    "text": "What role does God's existence play in moral obligations according to argument (10)?",
+    "response": "I need to check the papers provided for argument (10) regarding God's existence and moral obligations.\n\nSearching through the papers... I can find discussions of moral obligation in the Kant's Ethics section and some discussion of values and morality in \"What is an intention?\" but I cannot locate a specifically numbered argument (10) that addresses the role of God's existence in moral obligations.\n\nThe closest relevant material I can find is in the Kant's Ethics paper, which discusses moral obligations extensively, but it does not present a numbered argument (10) about God's relationship to moral obligations. There are also discussions in \"What is an intention?\" about values and moral systems, but again, no numbered argument (10).\n\n**I cannot find argument (10) in the papers provided.** Without being able to locate this specific argument in the actual texts, I cannot accurately answer your question about what role God's existence plays in it. \n\nCould you clarify which paper contains argument (10), or provide more context about where this argument appears? This would help me locate it in the materials and give you an accurate answer based on what Kuczynski actually wrote.",
+    "quotesFound": 2,
+    "quotesVerified": 2,
+    "quotesFabricated": 0,
+    "quoteDetails": [
+      {
+        "quote": "What is an intention?",
+        "verified": true
+      },
+      {
+        "quote": "What is an intention?",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 43,
+    "text": "Where does Kant suggest we should locate supreme causality?",
+    "response": "# Kant's Location of Supreme Causality: In the Noumenal Substrate\n\nAccording to the materials provided, Kant locates supreme causality in what he terms the **noumenal substrate of reality** - that which grounds phenomenal existence rather than causally producing it in time.\n\n## The Key Distinction: Constitutive vs. Causal Responsibility\n\nThe crucial point is that Kant's God is **\"constitutively (not causally) responsible for spatiotemporal existence\"** - meaning God **grounds** the world rather than creates it in the ordinary temporal sense. This represents a fundamental departure from traditional theological conceptions of divine causation.\n\n## God as Ens Realissimum\n\nKant identifies supreme causality with God understood as:\n\n- **Ens realissimum** (maximally real entity) - \"that in which and through which all else exists\"\n- The **noumenal substrate** underlying all phenomenal reality\n- The **sapience that suffuses the world** - whose phenomenal manifestation is the lawfulness of nature\n- That which has **logical (not chronological) priority** - \"before all things\" in the sense of logical grounding\n\n## Natural Law as Manifestation of Divine Rationality\n\nThe provided text emphasizes that for Kant, **\"natural law is manifestation of God's rationality\"** - it is **not** \"blind compulsion\" or mere \"invariable concomitance\" as contemporary scientists might view it, but rather the rational structure through which divine intelligence expresses itself in the phenomenal world.\n\nThis positioning of supreme causality in the noumenal realm that grounds (rather than temporally precedes) spatiotemporal existence represents one of Kant's most sophisticated theological-metaphysical innovations.\n\n— \"God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.\" (AI and Philosophy - Kant Writings section)",
+    "quotesFound": 5,
+    "quotesVerified": 1,
+    "quotesFabricated": 4,
+    "quoteDetails": [
+      {
+        "quote": "constitutively (not causally) responsible for spatiotemporal existence",
+        "verified": false
+      },
+      {
+        "quote": "that in which and through which all else exists",
+        "verified": false
+      },
+      {
+        "quote": " in the sense of logical grounding\n\n## Natural Law as Manifestation of Divine Rationality\n\nThe provided text emphasizes that for Kant, **",
+        "verified": false
+      },
+      {
+        "quote": "invariable concomitance",
+        "verified": true
+      },
+      {
+        "quote": "God is constitutively, as opposed to causally, responsible for spatiotemporal existence: God is responsible for the world not by creating it but by grounding it.",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 44,
+    "text": "Is Kant a rationalist or a nativist according to the text?",
+    "response": "Looking through the actual papers provided, I can find relevant discussion in the \"Kant's Ethics\" paper.\n\nAccording to the text, Kant holds positions that align with both rationalism and certain forms of nativism, though the paper focuses more on his rationalist commitments. The key passage states:\n\n**On Rationality:**\nThe paper explains that for Kant, \"what gives us value is our rationality. Our rationality is what makes us better than animals. It is what makes us human. It is what makes us what we are.\" The text further clarifies that \"rationality is autonomy\" and that \"rationality is intellectual autonomy. In other words, to be rational is to decide for oneself how to think.\"\n\n**On the Relationship Between Rationality and Autonomy:**\nThe paper demonstrates that Kant identifies rationality with autonomy: \"To be rational is to regulate one's thinking in accordance with norms. To be autonomous is to regulate one's actions in accordance with norms. The latter is a special case of the former... Thus, rationality and autonomy are the same thing—or, rather, autonomy is a special case of rationality.\"\n\nThe text presents Kant as fundamentally a **rationalist** who believes that our value and moral capacity derive from our rational nature. While the paper doesn't extensively discuss whether Kant believes certain knowledge is innate (the nativist question), it emphasizes his rationalist ethics—that morality and self-interest ultimately align through our rational nature.\n\n— \"what gives us value is our rationality. Our rationality is what makes us better than animals.\" (Kant's Ethics)",
+    "quotesFound": 5,
+    "quotesVerified": 2,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": " paper.\n\nAccording to the text, Kant holds positions that align with both rationalism and certain forms of nativism, though the paper focuses more on his rationalist commitments. The key passage states:\n\n**On Rationality:**\nThe paper explains that for Kant, ",
+        "verified": false
+      },
+      {
+        "quote": " The text further clarifies that ",
+        "verified": false
+      },
+      {
+        "quote": "rationality is intellectual autonomy. In other words, to be rational is to decide for oneself how to think.",
+        "verified": true
+      },
+      {
+        "quote": "To be rational is to regulate one's thinking in accordance with norms. To be autonomous is to regulate one's actions in accordance with norms. The latter is a special case of the former... Thus, rationality and autonomy are the same thing—or, rather, autonomy is a special case of rationality.",
+        "verified": false
+      },
+      {
+        "quote": "what gives us value is our rationality. Our rationality is what makes us better than animals.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 45,
+    "text": "What does Frankfurt mean by a 'person' in his philosophical framework?",
+    "response": "# Frankfurt's Concept of \"Person\"\n\nAccording to Frankfurt's framework as discussed in the papers, a \"person\" is **not merely a member of the species homo sapiens**. Rather, it refers to any entity possessing a specific psychological architecture characterized by three essential features:\n\n1. **Self-consciousness** - The capacity for reflective awareness of one's own mental states\n2. **Rationality** - Not just about achieving objectives, but critically examining them\n3. **Critical evaluation of desires** - The distinctive ability to subject one's own desires and mental states to rational scrutiny\n\nThe crucial distinguishing feature is that **persons evaluate their own desires**, while non-persons do not. Non-persons may be highly intelligent in pursuing their goals (beavers building dams, for instance), but they don't question whether those objectives should be pursued in the first place. As the text states: \"Non-persons are often very clever when it comes to figuring out how to attain their objectives... But they are not smart about whether they should be building dams in the first place.\"\n\nThis capacity for self-evaluation generates **second-order desires** - desires about desires - which are the foundation of Frankfurt's analysis of free will. A person doesn't just want things; they can want to want certain things and want not to want others. This hierarchical structure of desires, where higher-order desires evaluate and potentially override lower-order ones, is what constitutes personhood in Frankfurt's technical sense.\n\n---\n\n**Quote from the papers:**\n\n\"What distinguishes persons from non-persons is that the former, but not the latter, subject their own desires (and, more generally, their own mental states) to critical scrutiny.\" (*What is an intention?*)",
+    "quotesFound": 3,
+    "quotesVerified": 0,
+    "quotesFabricated": 3,
+    "quoteDetails": [
+      {
+        "quote": "\n\nAccording to Frankfurt's framework as discussed in the papers, a ",
+        "verified": false
+      },
+      {
+        "quote": " is **not merely a member of the species homo sapiens**. Rather, it refers to any entity possessing a specific psychological architecture characterized by three essential features:\n\n1. **Self-consciousness** - The capacity for reflective awareness of one's own mental states\n2. **Rationality** - Not just about achieving objectives, but critically examining them\n3. **Critical evaluation of desires** - The distinctive ability to subject one's own desires and mental states to rational scrutiny\n\nThe crucial distinguishing feature is that **persons evaluate their own desires**, while non-persons do not. Non-persons may be highly intelligent in pursuing their goals (beavers building dams, for instance), but they don't question whether those objectives should be pursued in the first place. As the text states: ",
+        "verified": false
+      },
+      {
+        "quote": "\n\nThis capacity for self-evaluation generates **second-order desires** - desires about desires - which are the foundation of Frankfurt's analysis of free will. A person doesn't just want things; they can want to want certain things and want not to want others. This hierarchical structure of desires, where higher-order desires evaluate and potentially override lower-order ones, is what constitutes personhood in Frankfurt's technical sense.\n\n---\n\n**Quote from the papers:**\n\n",
+        "verified": false
+      }
+    ]
+  },
+  {
+    "question": 46,
+    "text": "What does James mean by saying the meaning of a hypothesis lies in its observable consequences?",
+    "response": "# James's Claim About Meaning and Observable Consequences\n\nAccording to the Pragmatism paper, when James says \"the meaning of a hypothesis lies in its observable consequences,\" he means:\n\n**(i) The meaning of a hypothesis—what it says about the world—lies in its observable consequences.**\n\nThis is tantamount to saying that instead of asserting some hypothesis H, you might as well just assert O, where O is a description of H's observable consequences. In other words, James is claiming that a hypothesis and a description of its observable effects are **equivalent in meaning**.\n\nHowever, the paper demonstrates this is **fundamentally incorrect**. The relationship between a hypothesis and its observable consequences is always **contingent, never analytic**—it depends on what the operative conditions and causal mechanisms are.\n\nTake James's own example about people coming from apes. The observable consequences (fossil records, humanoid skeletons, weapons) are consequences of that hypothesis **only if certain conditions are met**. Different conditions would yield different consequences. Therefore, the hypothesis and the description of its observable consequences are **not equivalent**.\n\nThe paper provides a concrete refutation: \"One could accept 'people come from apes' and deny 'skeletons with such-and-such shapes will be discovered in Tanzania' without contradiction. Therefore (i) is FALSE.\"\n\nThe key insight: **observational equivalence only guarantees actual equivalence when it's built into the very meanings of claims** (when it's analytic), not when it results from natural law.\n\n— \"The relationship between a hypothesis and its observable consequences is always contingent, never analytic, as it depends on what the operative conditions and causal mechanisms are.\" (Pragmatism: Epistemology Posing as Metaphysics)",
+    "quotesFound": 3,
+    "quotesVerified": 1,
+    "quotesFabricated": 2,
+    "quoteDetails": [
+      {
+        "quote": "the meaning of a hypothesis lies in its observable consequences,",
+        "verified": false
+      },
+      {
+        "quote": "One could accept 'people come from apes' and deny 'skeletons with such-and-such shapes will be discovered in Tanzania' without contradiction. Therefore (i) is FALSE.",
+        "verified": false
+      },
+      {
+        "quote": "The relationship between a hypothesis and its observable consequences is always contingent, never analytic, as it depends on what the operative conditions and causal mechanisms are.",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "question": 47,
+    "text": "According to James, what makes an idea true?",
+    "error": "terminated"
+  },
+  {
+    "question": 48,
+    "text": "What does James mean by saying 'truth happens to an idea'?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 49,
+    "text": "Is the relationship between a hypothesis and its observable consequences analytic or contingent?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 50,
+    "text": "Why can one accept 'people come from apes' and deny specific fossil discoveries?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 51,
+    "text": "Is it true that truth is made, not discovered, according to Kuczynski's analysis?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 52,
+    "text": "What is the distinction between truth and our knowledge of it in pragmatism?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 53,
+    "text": "Are true ideas necessarily more assimilable than false ones?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 54,
+    "text": "What is the corrected version of 'truth is made' that Kuczynski proposes?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 55,
+    "text": "What is knowledge according to the pragmatist correction - assimilated what?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 56,
+    "text": "Is truth empowering or is knowledge empowering?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 57,
+    "text": "What is the difference between Classical Epistemology (CE) and pragmatism about action?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 58,
+    "text": "When did modern epistemology come into existence and why?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 59,
+    "text": "What practical problem led to the invention of calculus?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 60,
+    "text": "Are purely theoretical problems worth solving according to the text?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 61,
+    "text": "What happens when pure theory concerns itself only with schemata?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 62,
+    "text": "Are the theorems of trigonometry useful because they are true or true because they are useful?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 63,
+    "text": "What is the relationship between the applied mathematician and the pure mathematician?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 64,
+    "text": "Is the intellect autonomous or does it serve biological purposes?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 65,
+    "text": "What is the artist doing compared to the engineer according to the text?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 66,
+    "text": "Why does classical logic fail as a tool for reasoning?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 67,
+    "text": "What requires more intelligence - recognizing an inference is valid or recognizing it instantiates a logical law?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 68,
+    "text": "What did Gödel demonstrate about arithmetic?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 69,
+    "text": "What is the difference between performance-demanding and competence-demanding inferences in AI context?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 70,
+    "text": "What is System L?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 71,
+    "text": "How does System L represent concepts?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 72,
+    "text": "What are 'meta-reasoning patterns' in System L?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 73,
+    "text": "What kind of reasoning does System L incorporate that classical logic doesn't?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 74,
+    "text": "What happens when n=40 in the equation n² + n + 41?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 75,
+    "text": "Can a being be rational without being capable of error?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 76,
+    "text": "What are the four levels of observation and interaction described?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 77,
+    "text": "Is Level 2 knowledge obtainable from Level 1 observation alone?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 78,
+    "text": "What distinguishes AI from traditional computing?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 79,
+    "text": "Can AI make inferences we cannot make?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 80,
+    "text": "Does AI constitute a new epistemic faculty?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 81,
+    "text": "What does pragmatism find its ultimate validation in according to the text?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 82,
+    "text": "What is Level 4 interaction?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 83,
+    "text": "Was pragmatism prescient about knowledge's technological evolution?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 84,
+    "text": "Can traditional computers make novel inferences?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 85,
+    "text": "Are AI systems deterministic or non-deterministic?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 86,
+    "text": "What are intentions according to Kuczynski?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 87,
+    "text": "What are values according to Kuczynski?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 88,
+    "text": "According to Locke, what makes you free?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 89,
+    "text": "Can desires be free or unfree according to Locke?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 90,
+    "text": "What is a first-order desire?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 91,
+    "text": "What is a second-order desire?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 92,
+    "text": "In Frankfurt's analysis, when does someone have a free will?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 93,
+    "text": "What distinguishes persons from non-persons according to Frankfurt?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 94,
+    "text": "What is the difference between intelligent conduct and rational conduct?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 95,
+    "text": "Can an irrational act involve enormous intelligence?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 96,
+    "text": "What two conditions must be met for one to be free according to Frankfurt's revised view?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 97,
+    "text": "In the example, who is most free - Person X, Y, or Z?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 98,
+    "text": "What does Person Z have that Person Y lacks?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 99,
+    "text": "Does estrangement from one's desires amount to estrangement from one's actions?",
+    "error": "fetch failed"
+  },
+  {
+    "question": 100,
+    "text": "Why is Smith (the poet with cocaine cravings) not maximally free despite acting on second-order desires?",
+    "error": "fetch failed"
+  }
+]

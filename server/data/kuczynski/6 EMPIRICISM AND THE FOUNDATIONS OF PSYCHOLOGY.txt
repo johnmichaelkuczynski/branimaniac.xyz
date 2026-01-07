@@ -1,0 +1,416 @@
+﻿Empiricism and the Foundations of Psychology 
+Q A 
+nothing in the way of reducing D to D*: it actually obscures the nomic structure of the world. No physiological property can be co-extensive with any microphysical 
+property. 
+Principle #3 (already partly, but not completely, established): Given a physiological property phi and a microphysical property psi, it is possible for some psi-instance x to be identical with something that constitutes some phiinstance y; but it is not possible for x itself to be identical with y itself. 
+Principle #4 (already partly, but not completely, established ): D can be reduced to D* if, and only if, there neither is, nor can be, any D-truth that isn't equivalent with some D*-truth. 
+Principle #5 (already partly, but not completely, established): Blind to the distinction between RF-meaning and MG-meaning, philosophers have seen counterexamles to this analysis where there are none, and they have therefore embraced analyses, such as Hempel's, that assume the truth of its negation. Because this analysis is a truism, its negation is an absurdity, and so, consequently, are the alternatives to it that philosophers have embraced. 
+Principle #6 (not yet established): L is a surd; the very idea of such a law is an incoherent one. 
+< 
+218-219/476 
+Empiricism and the Foundations of Psychology 
+QA 
+currently occupied by your liver, it wouldn't interact with your other body-parts in the right ways, and it would therefore fail to be a liver. But that only proves our point: so far as a thing's being made of glass disqualifies it from being a person's liver, it is because, given any person P, that thing's being made of glass would prevent it from interacting in the right ways with P's other body-parts. Also, given only that a thing's being made of glass makes it unsuitable to be a person's liver, it doesn't follow that there couldn't possibly be some a creature of some kind whose liver it could be. 
+But, for argument's sake, let's suppose that, the laws governing our universe being what they are, there is no nomically possible creature C such a thing's being made of glass wouldn't disqualify that thing from being C's liver. In that case, a thing's having certain microphysical properties would rule out its being a liver. But given only that there are certain microphysical properties that a liver can't have, it doesn't follow that there is some microphysical property phi that any given liver must have; it doesn't follow that there is a microphysical interpretation of the term "liver.” Indeed, it doesn't follow that there aren't infinitely many distinct microstructures that a liver can have. 
+We can go even further in this direction. Let's suppose that there is no possible universe in which there is any creature C such that C's liver could be made of glass. That supposition entails that there is one type of microstructure that no liver could possibly have. But it leaves open the possibility that there are infintely many different 
+< 
+220/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+conjuncts. Nothing has to be added to P to make it entail G: P doesn't have to be conjoined with some other proposition; in particular, P doesn't have to conjoined with a law-affirming proposition or, therefore, some law-affirming proposition that isn't one of its own conjuncts. It follows that, without itself being a law of W, G is a consequence of the laws governing W. (To be precise, it follows that, without itself being a law of W, G is a consequence of the law-affirming propositions, taken jointly, that correspond to the laws that govern W.) These points establish Principle #8. Some notational conventions will help us move forward. Given an object x, let "m(x)" be an abbreviation for "either x or the material constituting x." (Thus, on each of its disambiguations, “x instantiates phi just in case m(x) instantiates psi" is a consequence of "x instantiates phi just in case x instantiates phi," but it is only on one of its disambiguations that the first sentence is a consequence of the second.) And if, for some property phi and some property psi, x instantiates phi just in case either x itself or m(x) instantiates psi, let us say that phi and psi are coextensive*. (Thus, coextensive properties are coextensive, but coextensive* properties aren't necessarily coextensive.) 
+We have established that 
+(^) "it is nomically necessary that any given macro-property phi be coextensive wth 
+< 
+221-222 / 476 
+Empiricism and the Foundations of Psychology 
+y such that x's relationship to y is governed by P. 
+Q A 
+Nor is P a macroophysical law. To the extent that macro-events are to be understood in terms of micro-events, macro-events are not to be understood in terms 
+of P. To the extent that macro-events are to be understood in terms of other macro- 
+events, macro-events are not to be understood in terms of P. 
+Two microphysically identical situations (or universes) cannot be macrophysically different. It would be incoherent to say, although Bill's microstructure was just like Jim's, Bill was having a heart-attack and Jim was not. The macrophysical "supervenes" on the microphysical. If (^^^) is true, then the macrophysical doesn't supervene on the microphysical. If (^^^) is true, two situations that were particle-for- particle duplicates of each other could mediate qualitatively different macro-events: one of those situations could involve some volcano's erupting, while the other did not. 
+But two microphysically identical situations canot be macrophysically different. Therefore (^^^) is false. Therefore, P is not compatible with P*, and Principle #6 is correct. This has the consequence, we will now see, that if any given macro-property is coextensive with some micro-property, that is nothing but an accident, and therefore has no explanatory value. (Supposing this true, it obviously follows that Hempel's anaysis is false, and it also follows - for reasons that aren't obvious but will be made clear soon enough - that seemingly platitudinous mainstay of empiricism is incoherent.) 
+< 
+222-223/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+that isn governed by different microphysical laws. In W*, macrophenomena are multiply realizable with respect to microphenomena: given only that m(x) has macro- property phi, thre are infinitely many distinct microproperties psi that x might have. 
+In W, macro-phenomena are in lockstep with micro-phenomena. W's microphysical laws i therefore prohibit the occurrence of events that W's macrophysical laws do not prohibit. There is nothing that W-macrophysical laws prohibit that W*-macrophysical laws permit. For, by hypothesis, those two bodies of laws coincide. At the same time, there are physiological occurrences that can occur in W* that cannot occur in W, for the reason that the W-entities constituting macrophysical objects are subject to laws to which their W*-couterparts are not subject. In W, there are physiological occcurrences that cannot occur but whose W*-counterparts can occur. But this isn't because the phsyiological laws in W are any less perimssive than their counterparts in W*. It is because the microphysical laws in W limit the behavior of non-physiological entities that constitute physiological entities in ways that the microphysical laws in W* do not limit the behavior of such entities. The fact that, in W, each physiological property is coextensive* with some microphysical property obscures W's nomic structure; for it prohibits occurrences that are physiologically possible and, were there beings just like us in W, it would dispose those beings to misidentify the laws of physiology in their universe; and to that extent, it would blind them to the nomic 
+structure of their world. 
+< 
+224/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+laws in W* are capable of being reduced to the microphysical laws in W*. This shows that, even though there is obviously a sense in which, in W, it isn't accident that the physiological tracks the microphysical, there is another, sense in which it is an accident, it being the second sense, not the first, that is relevant to whether a given statement constitutes a correct answer to the question: What is it to reduce one discipline to another? 
+We have thus established that (#4), were it true, would to no degree enable microphysics to absorbe physiology (or any other discipline that studies objects constituted by those studied by microphysics), and it obviously follows that (#5'), were it true, would just as innocuous in that respect as (#4). 
+(#6) couldn't possibly be true; it is incoherent. We have already established this. (#7) cannot be true unless, for any given macrophysical property phi, there is a microphysical property psi such that x instantiates psi just in case m(x) instantiates phi. Therefore, (#7) is incoherent, given that (#6) is incoherent. 
+If D is to be reducible to D*, we must conclude, it is not enough that it be possible to correlate D-phenomena with D*-phenomena; it is necessary that every D-truth be a logical consequence of some D*-truth. So if there is so much as a single psychological truth that isn't equivalent to any physiological (or otherwise non-psychological) 
+< 
+225/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+events cause us to have, T is a tree in virtue of its having those causal properties. 
+“Tree” is a “natural-kind” term. This means that, in virtue of being a tree, an object has causal properties that it would otherwise like and, consequently, that it is governed by laws that wouldn't otherwise govern it. It is because of its causal properties that T is a tree; it isn't because of its effects on anyone's ideation. 
+That said, we are able to know that T is a tree only to the extent that its having those causal properties is dispositive of its causing people to have certain kinds of experiences. Let K be an arbitrary natural kind. There is some property P such that, if a given thing is a member of K, it is by virtue of its having P. It is only if a thing's having P disposes people to have experiences the likes of which they wouldn't otherwise have that one can know that thing to have P or, therefore, to be an instance of K. But, if K is any non-psychological natural kind, there can be none but a purely circumstantial correlation between, on the one hand, a given thing's having P and, on the other hand, a given person's having experiences of a certain kind. 
+It is for this reason and this reason alone that, in virtue of having the form “..... tree...", a given sentence's RF-meaning might diverge from its MG-meaning; and it is for an analogues of this reason that the same is true of sentences of the form "... heat...." and of the form "...iron..." 
+Let P and P* be any two distinct properties. If x's having P is responsible for its belonging to some natural kind K#, and x's having P* is responsible for our being able 
+< 
+226-227/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+bearing, x's being a heart isn't a consequence of its being content-bearing or, therefore, of its bearing content of this or that sort. Supposing that x is both a physiological entity and a mental entity, it isn't in virtue of x's being content-bearing, let alone its bearing this or that specific kind of content, that x is a physiological entity; and it is in virtue of its being contentbearing that x is a mental entity. 
+Not one of the statements just made is empirical. Each is analytically true. It would make no sense to say that empirical discoveries might prove that x's being contentbearing might not have the consequence that x was a mental entity; and it would make no sense to say that x's being cntent-bearing had the consequence that it was a heart of a lung. Many hold that mental entities are identical with, or mediated by, physiological entities. But it would either make no sense to say, of some arbitrary entity x, (a) that it was in virtue of x's being a desire for world-peace that x was a frontal lobe, and it would make equally little sense to say (b) that it was in virtue of x's being a frontal lobe that it was a desire for world peace. This does not mean that mental entities are not constituted by physiological entities. What it means is that, for any psychological property phi, x instantiates phi only on the condition that there be some physiological property psi such that m(x) instantiates psi. 
+and 
+< 
+227-228/476 
+Empiricism and the Foundations of Psychology 
+become clear.) 
+: Q A 
+Given two distinct disciplines D and D* and some proposition P, if D doesn't overlap with D*, and if D does overlap with with D* but P falls outside the area of overlap, P's being D-specific doesn't necessarily rule out its being D*-specific. (In thus defining "discipline-specific” I am not assuming that P could be both D-specific and D*-specific without, for that very reason, falling into (a possibly otherwise non- existent) area of overlap between the two disciplines: it is not being assumed that the second "if"-clause isn't counterlogical in nature.) In describing a proposition P as D- specific, for some discipline D, one is distinguishing principles that D merely employs, but don't belong to it, from principles that fall into the class of propositions individuative of D. There are obviously contexts where biologists use principles of physics. (Physicians not only use, but are aware of using, the principle that unsupported bodies fall. But that principle is not medicine- or biology-specific.) More importantly, there are principles of logic that all disciplines use, but that don't belong to any discipline. So far as a given truth T of logic is being put to physics-specific use, T assumes a physics specific-form. But that doesn't mean that T itself is physics- specific. 
+Incidentally, there are in fact discipline-specific logical truths. This is a consequence of three facts. First, so-called "formal logic" isn't identical with logic- proper. Second, by any reasonable measure, for each explanatorily useful truth of 
+< 
+229/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+Suppose that x's position at t is p and that it's density at t* is d*. Given only that information, there is no sense in which x's having density d* at t* can be understood in terms of its having position p at t. This doesn't mean that its having d* at t* cannot be explained in terms of its having p at t. But it means that, in order for there to be any sense at all in which its x's t*-density can be explained in terms of its t-place, the information already given must be supplemented with the sort of information that can only be given by general propositions - propositions concerning classes of events, as opposed to specific events. (“But that isn't true," it will be said. "Suppose it a law of nature that, if x's position at t is p, then its density at t* is d*." Unless that conditional were known to be a consequence of some general proposition, it couldn't be known to express a law of nature and thus couldn't help explain x's t*-density in terms of its t- place.) 
+With these points in mind, consider the obvious truth that: 
+(P1) If x's position at time t is p, and x moves continuously from p to p*, this being its position at t*, there is obviously some significant sense (though it may not be obvious what that sense is) in which, given only that information, x's occupying p* at t* can be understood, if not explained, in terms of its occupying pat t. 
+Appropriately generalized, this platitude yields an answer to the question "what is it to explain one state of affairs in terms of another?" In each of the P1-derivatives we're about to identity, the parenthetical qualification will be omitted The other 
+< 
+230/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+Suppose that x's position at t is p and that it's density at t* is d*. Given only that information, there is no sense in which x's having density d* at t* can be understood in terms of its having position p at t. This doesn't mean that its having d* at t* cannot be explained in terms of its having p at t. But it means that, in order for there to be any sense at all in which its x's t*-density can be explained in terms of its t-place, the information already given must be supplemented with the sort of information that can only be given by general propositions - propositions concerning classes of events, as opposed to specific events. (“But that isn't true," it will be said. "Suppose it a law of nature that, if x's position at t is p, then its density at t* is d*." Unless that conditional were known to be a consequence of some general proposition, it couldn't be known to express a law of nature and thus couldn't help explain x's t*-density in terms of its t- place.) 
+With these points in mind, consider the obvious truth that: 
+(P1) If x's position at time t is p, and x moves continuously from p to p*, this being its position at t*, there is obviously some significant sense (though it may not be obvious what that sense is) in which, given only that information, x's occupying p* at t* can be understood, if not explained, in terms of its occupying pat t. 
+Appropriately generalized, this platitude yields an answer to the question "what is it to explain one state of affairs in terms of another?" In each of the P1-derivatives we're about to identity, the parenthetical qualification will be omitted The other 
+< 
+230/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+to excogitate the underlying reasons on the basis of what I've already said – of taste and odor than it is of color and pitch.) 
+Secondary-properties are properties of relations. (The relata in question are (or, rather, include) the observer and the observed.) Primary properties are properties of objects, not relations. (Technically, both kinds of properties are properties of relations, as we saw in Chapter. But, as we also saw, if ordered n-tuples instantiate primary properties, then ordered n+ -tuples instantiate secondary properties.) So if no property of the one kind can possible generate a space* coincident with (any part of) the space* generated by any property of the other kind. 
+But it is still possible to explain a given object's secondary properties in terms of its primary properties. Suppose that an object x is red to observer y if x bears R to y (that, in other words, it is a property had by the ordered pair <x, y>, by virtue of that pair's instantiating R). If R is held fixed, it is in virtue of x's micro-structure that it bears R to y. (We are also supposing that y's constitution is held fixed. So we are prescinding from the fact that colors are properties of ordered triples <x, y, z>, where the third parameter corresponds to the observer's constitution.) And so long as R is held fixed, redness may for all intents and purposes be identified with micro-structure (or micro- micro-structure, rather), and for that reason being explained in terms of an object's structure in the same way as an object's temperature. 
+But there is an important meta-explanatory principle that we have yet to identify 
+< 
+233/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+the concept of a perception-relevant property with the concept of a property that we know to be instantiated on the basis of theory-light inferences from observational data. Redness is a perception-relevant property: I can observe that there is a red car in the garage. The property of being owned by Jerry is not perception-relevant: there is no observable difference between things that have that property and things that don't. Consequently, I don't observe that there is a Jerry-owned car in the garage: I infer it. I see that there is an object with certain properties in a certain place. I know that, in that place, nothing other than a Jerry-owned car could possibly have those properties, and I rightly infer that there is a Jerry-owned car in the garage. So far as we are inclined to think that I can just see there to be such a car, it's because the inference in question is theory-light and we have a tendency to conflate "unobservable” with "theoretical.” Molecules aren't just unobservable: they are theoretical - it is on the basis of theory-heavy inferences that we know of their existence. Under ordinary circumstances, there isn't anything theoretical about the fact that there is a Jerry- owned car in a given place, and this disposes us to believe that an appropriately situated person can just see there to be such a car. 
+(Incidentally, content-externalism is nothing but a generalization of the failure to distinguish between what we perceive and what we know on the basis of perception. The property of being identical with Jerry is not perceptible. What is perceptible is the property of having a certain appearance, a certain height, gait, etc. Given that x has a 
+< 
+234/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+certain height, etc., I know a given object to be Jerry. That is, if I have knowledge of the first kind, I know that I'm seeing Jerry so long as I know that nobody in the world who isn't Jerry looks like Jerry and so long as I have other, similarly ulterior pieces of information at my disposal.) 
+Supposing S to be the sort of visual sensation that, in actuality, mediate my perceptions of (certain kinds of) solid objects (as seen under certain conditions), S would mediate no such perception if it weren't accompanied by sensations of the kind that, in actuality, mediate perceptions of instances of those properties that are concomitants of solidity. Were S thus unaccompanied on a single occasion, I would have had a perception of a faux-solid object. Were S routinely thus unaccompanied, it would cease to be evidence of anything's having this as opposed shape; to the extent that spatial relations holding among the points on objects' surfaces are indication of spatial relations holding among external objects, my S-sensations would cease to give me knowledge of the mutual spatial relations of the occupants of the external world; and to the extent that the same fate befell each sensations-type S* that hitherto mediated my perception of instances of solidity (as such instances), I would cease to have such perceptions, as they would all have collapsed into the conceptually unarticulated sensations that mediated them. This shows that, given any perceptible property P, a precondition for P's being such a property is that it be observed – disclosed to sensepecerception - as having reliable concomitants. This means that a 
+< 
+234/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+statement "x's position is p" means nothing, except to the extent that it makes a statement as to the relationship between x's position and y's position, for some body y. (For expository reasons, we may set aside the subtlety that position-space*, being identical with space (no asterisk), is an alloy of a multitude of different spaces*, rather than a space* in its own right.) But "x's position bears R to y" (for suitable values of “x,” “y,” and “R”) is of only limited informational value. (In other words, the range of possible values of R is very restricted.) It can affirm the fact that x's position is distinct from y's. (In this context, we are assuming that statement not to implicitly concern some third body z, or, therefore, some nth body, for any 3 ≥ n.) It can affirm that there are forces operative between x and y that are drawing those two bodies nearer to each other. But it cannot cannot affirm that at it is x, as opposed to y, or vice versa, that is thus responsible for their coming together. Nor can it say anything as to how far apart x and y are; as to how long it is taking them for to come into contact, supposing that they are doing so; or as to the nature of the force, supposing there to be one, that is responsible for their doing so. 
+When a third body z is added, “x bears R to y" is potentially much richer in information than it was before. In other words, the range of possible values of "R" is wider than it was before. For any number n (n ≤ 3) the amount of information borne by that statement increases as n increases. (It doesn't necessarily increase indefinitely. How much it increases, and how much it improves in quality, is a function of the laws 
+< 
+236/476 
+Empiricism and the Foundations of Psychology 
+governing the universe hosting the bodies in question.) 
+Q A 
+Any given space* is defined by its characteristic "metric." A metric is a definition of congruence. Given a property P, x and y are P-congruent if, and only if, they have P to the same degree. x and y are length-congruent if neither is longer than the other; temperature-congruent if neither is hotter than the other; and so on. Thus, given some property P that generates a space*, a metric is a criterion whereby it is determined whether a given object has P to the same degree as some other object and, if not, whether it has it to a greater or a lesser degree. 
+For illustrative reasons, I will speak of position-space* and time-space*, leaving aside the fact that these are not in actuality distinguishable. Given some one object L, and given two segments of x and y of L, it can obviously be determined whether x is longer than y and also of course whether L is longer x and whether it is longer than y. But statements about position-space* are worthless unless there is a way of determining how distinct objects compare in terms of length. Given any space*, the concept of an an interval must be defined. (Ordinarily, an “interval” is the time-period separating two, non-simtultaneous events. For us, it is the difference, for any property P, between two things in respect of how much they have P.) It must be said what it is for distinct objects in that space to have the same duration, length, temperature, loudness, density, or color; for any p-space*, it must be determinate whether any two occupants x and y of that space* coincide in respect of the degree to which they have 
+< 
+236-237/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+fast moving objects start to move slowly; and any given such object's change in velocity is discontinuous, dropping to a lower speed without assuming each, or even any, of the intermediate velocities. Avoidable anomalies result if we choose this metric, but not if we choose an optical metric (e.g. one given by the proposition that the speed of light is invariant), that being why we use optical, as opposed to cardiological, definitions of spatiotemporal congruence. 
+A non-anomalous space* is not one that comprises no changes or only uniform change. It is one that comprises only metric-consistent changes. This means that if one event in such a space* is disruptive, it leads to a proportionally counter-disruptive event e*. Instances of uniformity are null changes and are limiting cases of proportionality-restoration. e causes e* to occur if e*'s failing to follow e would invalidate the metric characteristic of the relevant space*. Relative to metric m, car C is moving uniformly at t. At t*, the lead weight on its roof falls off; otherwise C is unchanged. Relative to m, C's state of motion doesn't change. But the distances between cities have suddenly shrunk and every clock on the planet has just slowed down. Relative to any given metric, C's relations to other objects changed when the weight fell off. Relative to an ideal metric m*, but not relative to a substandard metric, such as m, those relational changes can be explained without positing any instances of action at a distance or of any other sort of discontinuity. e is e*'s cause if an otherwise ideal metric's invalidity is a logical consequence e*'s failing to follow e. Explanation is 
+< 
+238/476 
+Empiricism and the Foundations of Psychology 
+QA 
+terms of any other such instance or any muliplicity of such instances. Hume's analysis 
+therefore entails that neither of the events constitutive of such an instance can be 
+understood in terms of the other: each such event is an accident relative to the other. 
+In identifying causation with correlation, Hume is therefore claiming that to explain an event is to show that it is an accident: to explain is to show that there is no explanation. This is what Hume's analysis of causation comes to; and it is what Hempel's analysis of interdisciplinary reduction comes to, for much the same reason “To explain is to fail to explain": this is the methodological significance of empiricism, at least to the extent that the meta-explanatory views of these two philosophers are indeed consistent with that doctrine. 
+Empiricism and the Foundations of Psychology 
+: Q A 
+perception, and the very arguments that re-validate the one re-validate the other. The belief that there is an external world is itself known through inductive inference: hence the points just made. 
+2.0 There are two kinds of induction: enumerative and explanatory. Hume puts forth an argument against 'induction,' without making it clear which of the two kinds of induction is the one being targeted: 
+HA: How do you know that the future will resemble the past (To generalize this question: setting aside cases of deduction-generated knowledge, how do you know that the unknown will resemble the known? "In the past, things were thus and so❞ doesn't deductively entail "in the future, they'll be thus and so." So the connection isn't deductive. It's only if we assume that nature is uniform - if we assume the truth of the uniformity principle (UP) - that we can justify 'things will be thus and so' on the basis of 'things thus far have been thus and so.' The uniformity principles bridges the future to the past, and, more generally, the unknown to the known. If it's assumed that nature is synchronically and diachronically uniform (uniform across space and time), then we can legitimately extrapolate from the limited data we have. But how is UP to be justified? It's not analytic; there's no deductive or purely conceptual justification for it. So it must be justified inductively. But it's only if induction is justified that UP is justified. So UP is inherently unjustifiable, and so, therefore, is 
+< 
+241-242/476 
+Empiricism and the Foundations of Psychology 
+(a) something is disposing the coin to land tails this time, 
+or you are assuming, no less irrationally, that 
+: Q A 
+(b) for absolutely no reason at all, it's going to land tails this time. 
+3.1 Now let's change the situation. You've seen the coin land tails 10,000 times and never seen it land heads or otherwise known it to do so. On that basis, you posit some mechanism that disposes the coin to land tails. (One side is heavier than the other. The table is magnetically charged and so is one side of the coin.) Having posited such a mechanism, you are not guilty of the gambler's fallacy if, on the basis of the coin's past behavior, you infer that it will land tails this time. 
+In reality, if you were to see a coin land tails over and over again, never landing heads, you would assume that it was a weighted coin (or some such) and for that reason infer that it would land tails next time. Supposedly, there are gamblers who know that the dice they're rolling are fare, but who nonetheless make predictions concerning future rolls on the basis of past roll. I suspect that at some level such people believe that the dice aren't fair. 
+183. Hume (1740, 1748). 
+< 
+242/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+but for IBE's, we can't avoid violating the continuity maxim. We are therefore justified in holding that those mechanisms will continue to operate. More precisely, we are required, as a matter of logic, to hold that they will continue to hold to the extent that the world is explicable. This doesn't mean that we're right to do so, only that we're it's rational to do so. 
+3.2.1 "But the skeptic isn't saying that m isn't operative on the other side of the line," it will be objected. "He's saying that he has no grounds for saying that it is or that it isn't." If m isn't operative on the other side of the line, all manner of otherwise nonexistent anomalies pop up. So his saying that he has no grounds for making the aforementioned judgment amounts to his saying that, given only that H eliminates more anomalies than H*, it doesn't follow that H is ceteris paribus preferable to H*. But that is an analytically false position. 
+To sum up, if there is analytic, non-empirical knowledge, we can justify our faith in our sense perceptions and in our predictions about the future. If there is not, we cannot. We have not shown that these beliefs of ours are correct. We've shown that they are correct if the world is explicable. Later we'll discharge the assumption that the world is indeed explicable. 
+3.3 Given the legitimacy of induction, the legitimacy of sense-perception follows. 
+< 
+243/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+4.0 Idealism is the doctrine that objects are identical with one's perceptions of them. So according to the idealist, there is no difference between the dog and your perceptions of the dog. 
+If idealism is correct, our "perceptions" have no objects at all, and they're therefore just hallucinations. But many a distinguished empiricist disagrees. Berkeley (1710), Mill (1882), James (1910), Russell (1921), Ayer (1934), and Carnap (1937), among others, hold that not only that idealism (the latter four prefer the term "neutral monism") allows us to have knowledge of objects, but also that no other doctrine has this virtue. Further, some of the authors just mentioned, e.g. Berkeley, go so far as to say that idealism is the view of common sense. They rightly say that common sense identifies objects with perceptible entities, not with unknown, imperceptible quiddities; on this basis, they spuriously conclude that common sense (unwittingly) identifies objects with "bundles of perceptions." 
+4.1 Like Berkeley (1710), the linguistically oriented idealists of the early 20th century James (1907), Russell (1928), Ayer (1934), Carnap (1937) - held that the difference between idealism and realism is one of language. 
+Realism, they held, is a language (call it "RL"); idealism, they held, is another language ("IL"). Any statement of the one language, they believed, can be translated into a statement of other. Let us use one of Berkeley's own examples: 
+< 
+244/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+One might try to side step this, as Jackson (1977) did, by adverbializing our descriptions of the contents of our perceptions. Instead of seeing a table, I am having 'tably' perceptions. 
+But there is no way to say what a 'tably' perception is except in terms of what it is to see a table. In trying to translate from RL to IL, we must constantly make surreptitious use of knowledge that idealism says we don't have and that we wouldn't need to have if IL and RL really were languages, as opposed to substantive hypotheses. 184 Also, there is no IL-translation of the antecedent of 
+(IW) "If I walked into the next room, I'd have such and such perceptions." For an idealist, there are no rooms, and there is no such thing as walking. But, as we've just seen, in order to describe perceptions of tables and rooms, one must assume that there really are such things and one must therefore assume that idealism is false. 
+5.0 Idealism is an old doctrine. There were idealists before there were philosophers. Many forms of psychosis are marked by an acceptance of positions similar to idealism, and psychosis predates philosophy. Also, all infants are idealists. It is only when the newborn learns that his caregivers have needs of their own that he acknowledges that they have any existence outside of his own thought-sphere, and it 
+< 
+245/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+In general, so far it is within a given person's power to change his environment, he turns it into one that validates his pre-existing worldview; and his environment – his world - is thereby assimilated into his psyche. 
+So it isn't just newborns and psychotics who are idealists: it's everyone. A nonpsychotic's idealism operates within a fundamentally non-idealistic belief-system. The anxiety-case who is drawn to high-stress situations does fundamentally see the world as it is. He is a bit quick to see problems where there aren't any. But he doesn't think that the fire-hydrant in front of him is a dog. The psychotic's idealism is not subordinated to a correct world view. 
+Given that there have been idealists as long as there have been newborns, George Berkeley (1658-1783) obviously wasn't the first idealist. But he was the first idealist with whose work contemporary philosophical thought is meaningfully connected. Berkeley was also the only person, sans qualification, to make anything resembling a creditable case for idealism. Russell (1914), Carnap (1967) and other 20th century idealists did nothing to improve Berkeley's arguments; they merely rearticulated those arguments with the help of recent developments in mathematical logic. 
+These moderns self-described as "neutral monists," not as "idealists"; and they defined "neutral monism" as the position that both mind and matter are built out of perceptions. But perceptions are mental. So this isn't neutral monism. It's mental monism; it's Berkeleyan idealism. And the 20th century idealists did nothing to 
+< 
+246/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+are accurate. So the perception I have from the top of the building, in which people are represented as being no bigger than ants, is accurate; and so is the perception I have when standing at the base of the building, when people are represented as being my size (or, if I'm a child, as being veritable giants). Both (sets of) perceptions can't be right. An object can't both have and not have a quality. 
+Imagine that you are one tenth your current size. You'd see people as giants. but your perceptions would be accurate (given that you're not on drugs). Now imagine that your 10 times your actual size. Your perceptions would correctly represent people as midgets. So one and the same person would be both small and big; and, by similar arguments, one the same car would be moving quickly and slowly; one and the same rock would be both light and heavy. 
+Since, by supposition, we've excluded deviant perceptual experiences those induced by sleep, drug-consumption, and psychosis - the ones we're examining are all veridical. (In any case, it's a datum that, for common sense, they're veridical.) Therefore, if we suppose that our perceptions are depictions of transperceptual entities, we must suppose all of them or all but an arbitrarily selected few – to be falsidical. It being a datum that they're veridical, we can't do that. So instead of saying that perceptions represent transperceptual realities, we say that the perceptions are the reality: the rock is the perceptions we have of it. 
+< 
+247/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+instances of comparative largeness and smallness. All that is left, therefore, are instances of comparative properties and, therefore, of relations, e.g. the relation borne by x with respect to y iff x is larger than y, or heavier than y. 
+5.2 Berkeley's second argument: 
+Try to conceive of a chicken that isn't conceived. You can't do it - because, if you did it, you would ipso facto conceive of the chicken that you were trying to conceive of as unconceived. To be, therefore, is to be conceived. 
+Analysis: Berkeley's injunction: 
+(C) Try to conceive of a chicken that is unconceived. 
+is "syntactically ambiguous." (In other words, it has two meanings, but not because there is an ambiguous item in it, but rather because it can be parsed in two different ways.) It can mean: 
+(C1) Consider some chicken x: Now try to consider the proposition x isn't being thought of. 
+Or it can mean: 
+< 
+248/476 
+Empiricism and the Foundations of Psychology 
+of. 
+: Q A 
+(C2) Consider the proposition: there is some chicken x that isn't being thought 
+If I obey C1, there is some specific chicken that I'm thinking of. But there is no specific chicken that I need be thinking of to comply with C2. Berkeley takes the object of "conceive" to be a noun denoting a chicken. He should take it to be a noun denoting a proposition. The proposition there are chickens that you aren't thinking of can be thought and accepted without there being any specific hitherto unconceived chicken, or therefore any hitherto unconceived chicken, that I'm thinking. Right now I'm considering (and accepting) the proposition: "there are primes greater than 8,887,777, which I know to be true; but there is no prime number x such that I am thereby thinking of x. 
+PART II 
+< 
+248-249/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+Implicit in our answers to these questions are reasons for believing all emotions to be beliefs, and the rest of this chapter will therefore consist in our delineating the implications of the statements made in these sections. 
+2.0 
+A number of philosophers deny that we have propositional attitudes. Though radically implausible, this view has no shortage of capable advocates (e.g. Donald Davidson, Daniel Dennett, W. V. O. Quine, Paul Churchland, Gilbert Ryle, Ludwig Wittgenstein, B. F. Skinner). We must establish that these authors are wrong before we try to say what propositional attitudes are, lest we waste our time on a non- question. 
+Those who deny that we have propositional attitudes all do so for the same reason: they accept an "interpretivist" analysis of the mental. Calculators don't have beliefs, the interpretivist says, but it's useful to interpret their behavior as though they did. 
+It's easy to predict what will show up on the calculator's monitor if you do so on the assumption that the calculator is adding digits. You enter “2” “+” “2′ 
+”“2”“=” and "ENTER," and you enter them in that order. It is easy to predict that a "4" will appear on the monitor if you pretend that the calculator is a thinker. But one couldn't possibly make such a prediction if one regarded the calculator as just another physical 
+< 
+251/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+186. Short for "Davidson's position." 
+(ii) A person's behavior itself determines where he belongs on that plenum, any concomitant psychological states either being indistinguishable from his behavior or altogether non-existent (i.e. a person's behavior is logically determined by his behavior, in that the former is the latter). 
+(ii) is the right disambiguation. For (i) entails either that interpretivism (the position that I, Donald Davidson, am defending) is wrong or that it is nothing more than the truism that, when trying to figure out what another person's propositional attitudes are, we must take his overt behavior into account. 
+The usefulness of describing people as though they had propositional attitudes lies in the following fact. The function that assigns a position in this plenum to a given person, at a given time, does so on the basis of that person's behavior. (Following Quine (1960), I [Donald Davidson] hold that a person's overt behavior is all we have to go on in the way of understanding him.) As long as that function doesn't assign relatively similar coordinates to people who are behaving in relatively different ways, or relatively different coordinates to people who are behaving in relatively similar ways, that function will, to the extent that a person's behavior is reflected in his overt behavior, perfectly capture how any given person differs, in any given respect, from any other person. 
+< 
+252-253/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+argument can be represented as consisting of two premises and a conclusion, these being (i), (ii) and (iii), respectively. 
+(i) The belief that there are propositional attitudes is part of folk-psychology. We don't put any stock in folk-physics or folk-physiology. So ceteris paribus we shouldn't put any stock in folk-psychology. 
+(ii) Folk-theories aren't necessarily wrong. (Hence the "ceteris paribus” in the last sentence.) It's an empirical, not an a priori truth, that folk-physics turned out to be wrong, and it's theoretically possible that some species exists whose members are born knowing the Theory of Relativity. But folk-psychology is wrong. We know this because it has yielded nothing. No progress of any kind has been made in psychology. The reason: psychology has assumed the veridicality of folk-psychology. 
+(iii) Conclusion: Propositional attitudes don't exist. Explanation: Folk-psychology is wrong. The essence of folk-psychology is that we have propositional attitudes. We can't believe that we have such things without accepting folkpsychology. Therefore we don't have such things and they don't exist. 
+3.1 Churchland's argument evaluated: Folk psychology is a belief system; so its mere existence guarantees that there are beliefs. To that extent, folk-psychology verifies itself, and to that same extent, Churchland's position undermines itself. 
+It has often been said that Churchland's position is self-undermining, and when it is 
+< 
+254/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+said, it's said for the reason just given. 187 Churchland (1984) says that such arguments beg the question (this is a paraphrase, not a quotation): (CP188) Smith believes in witches. One of the things he believes about witches is that they, and they alone, deny that witches exist. Brown says to Smith: "Witches don't exist." In response, Smith says: "Your contention defeats itself and establishes the truth of mine." Obviously Smith's argument is no good. 
+One day Smith comes up to me, Paul Churchland, and says: "I believe that there are beliefs. Being a counter-example to itself, your belief to the contrary undermines your position and establishes mine." This argument of Smith's fails, and it fails for the 
+same reason as his other argument. 
+The first part of CP is correct; the second part is not. Smith's first argument does fail. Brown's denial of Smith's theory confirms that theory only if there is independent reason to accept that theory. Smith gives Brown no independent reason to accept it; 
+so Smith's retort to Brown rolls foul. 
+187. Hacker (1996) puts forth the argument just stated. 188. Short for "Churchland's position." 
+Smith's theory concerns witches, not theories. Therefore it doesn't concern itself, and it can no more be a confirmatory or a disconfirmatory instance of itself than an object known to contain no metal can confirm or disconfirm the hypothesis that all 
+< 
+254-255/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+propositional attitudes. (Objectual awarenesses do not so consist; but the former are not attitudes.) One's admiration for someone is contingent on one's beliefs about that person: no sooner does one find out that Smith plagiarized his award winning novel than one ceases to admire Smith. The relationship between one's beliefs about Smith and one's level admiration towards him is constitutive, not causal. It isn't that your belief that Smith is a great writer causes you to admire Smith. It's that your belief that he is a great writer is your admiration of him, or at least a component of it. (To be sure, your believing that Smith is a great writer may be what caused you to admire Smith. But if so, that is because it itself became a constituent of that belief or because was causative of some other, similar belief that became such a constituent.) Contrariwise, when you find out that Smith is a plagiarist and all-around fraud, your admiration ipso facto dies. And so far as your admiration lingers, it is only because you haven't really reconciled yourself to the fact that he's a plagiarist. It is not because your belief that he was a greater author was a now-defunct cause of your admiration of him. It is because your belief that he was a great writer was your admiration of him, or at least a part of it. 
+It is not even theoretically possible to admire somebody as to whose lack of merit one is completely convinced. Thus, any instance of admiration consists of at least one belief. Exactly similar points hold with regard to any instance of any objectual attitude and thus of any instance of love, hate, envy, or amity. 
+< 
+255/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+"But surely that isn't categorically true," it will be said. "Obviously lusting for someone is different from having various beliefs about them. Surely there are pure objectual attitudes: objectual attitudes that don't consist of propositional attitudes." 
+In the pages to come, we'll see that all emotions are beliefs and that all affects embody beliefs. We'll thus see that lusting for someone does consist in having certain beliefs. So far as this seems obviously false, it's because we have internalized erroneous empiricism-based theories concerning emotions. Telescoped into one's having lust for someone, or into one's having any affect of any kind, are all manner of beliefs. Those beliefs are not only unconscious, but subpersonal; and for reasons to be discussed, their entry into consciousness is contingent on their being disguised as ratiocinatively unarticulated dollops of phenomenology. 
+There are pure objectual awarenesses. Perceptions are such awarenesses. But if the argument I've put forth is cogent, there are no pure objectual attitudes. To have an attitude towards something, so I am trying to show, is to have a belief about it. To have a negative attitude towards one's job is to believe it to be beneath one, or some such. To have a positive attitude about it is to believe it to be worthy of one, or some 
+such. 
+4.1 The term "propositional attitude" is misleading, as it suggests that my belief 
+< 
+255-256/476 
+Empiricism and the Foundations of Psychology 
+that 
+(US189) I have been unfaithful to my spouse 
+can be decomposed into two distinct parts, namely: 
+and 
+QA 
+(i) an awareness of a proposition (namely, that I was unfaithful towards my spouse); 
+(ii) an acceptance of that proposition. 
+The conventional wisdom is that this propositional attitude is to be decomposed in just this way. The conventional wisdom is not to be accepted. What is it to have "an attitude of acceptance" towards US? Presumably, it is to believe US. But in that case, the just-stated analysis of US is viciously circular, since, according to it, to believe US is 
+and 
+< 
+256/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+Presumably, ph's being an awareness of P has effects. But this presumption is false if ph's being such an awareness consists in its having certain effects. To say that content is causal role is to say that content isn't causally responsible responsible. But that's obviously wrong: the content of my wish to be a lawyer obviously is a cause of my deciding to study for the requisite examinations. 
+Functionalizing one's awareness of P strips that awareness of causal efficacy, and functionalism is therefore false. 
+4.2 There is a way to analyze (i) that, unlike the two analyses just considered, doesn't have any obvious demerits. Sense-perception is predicational, as Barry Stroud (2001) says. One can't just see the rock; one must see the rock as having this or that shape or location or size or color.190 
+190. This is is a corollary of the fact that the spatiotemporal world consists of property-instances. There is nothing in which property-instances inhere. 
+Locke held that property-instances necessary "inhere" in substances or, as Locke called them, "substrates." Locke's position is that of commonsense, so far as commonsense has any view on the matter. And few philosophers explicitly negate Locke's contention; most tacitly accept it; and, among those who explicitly weigh in on the matter, more affirm it than deny it. And those, such as Hume and Russell, who do 
+< 
+257/476 
+Empiricism and the Foundations of Psychology 
+explicitly deny it are excoriated for doing so. 
+: Q A 
+But as Hume and Russell themselves state, Locke's contention is true only "substrate" and "inhere" are taken to mean, respectively, "aggregate of property- instances” and “belong to.” But in that case, Locke's contention is exactly what we are saying. 
+But that isn't Locke's contention. Locke advocates the commonsense-based view 
+that there cannot be free-floating property-instances. Locke's view is incoherent. Nothing can possibly be propertyless, since a propertyless thing wouldn't have a location in time or space and therefore wouldn't exist in the same realm as the property-instances it supposedly underlies. So substrates are surds, and so a fortiori are instances of things" "inhering" in them, whatever that An analogue of Stroud's point holds of one's awareness of propositions. Propositions are not just presented to one; they are presented as true, false, possible, etc. I submit that for one to believe P is for P to be presented to one as true. One's believing P is P's being presented to one as true, much as one's seeing the rock as gray identical with the rock's being presented to 
+one as gray. 
+means. 
+To say that P is presented to one as true is not to say that P is true. Just as one can have inaccurate perceptions of rocks, so one can have inaccurate conceptions of propositions. 
+< 
+257-258/476 
+Empiricism and the Foundations of Psychology 
+explicitly deny it are excoriated for doing so. 
+: Q A 
+But as Hume and Russell themselves state, Locke's contention is true only "substrate" and "inhere" are taken to mean, respectively, "aggregate of property- instances” and “belong to.” But in that case, Locke's contention is exactly what we are saying. 
+But that isn't Locke's contention. Locke advocates the commonsense-based view 
+that there cannot be free-floating property-instances. Locke's view is incoherent. Nothing can possibly be propertyless, since a propertyless thing wouldn't have a location in time or space and therefore wouldn't exist in the same realm as the property-instances it supposedly underlies. So substrates are surds, and so a fortiori are instances of things" "inhering" in them, whatever that An analogue of Stroud's point holds of one's awareness of propositions. Propositions are not just presented to one; they are presented as true, false, possible, etc. I submit that for one to believe P is for P to be presented to one as true. One's believing P is P's being presented to one as true, much as one's seeing the rock as gray identical with the rock's being presented to 
+one as gray. 
+means. 
+To say that P is presented to one as true is not to say that P is true. Just as one can have inaccurate perceptions of rocks, so one can have inaccurate conceptions of propositions. 
+< 
+257-258/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+which in turn causes me to have a painful heart-attack); and a negative emotion can cause happiness (my being depressed lowers my blood pressure, thereby alleviating the severity of the headache I am experiencing). So it isn't virtue of a given emotion's causing one to feel good (bad) that it is a positive (negative) emotion. Laughter can set off asthma attacks. Positive emotions lead to physiological changes, which can trigger migraines. Anything can cause anything. Surges of positive emotion have physiological concomitants, and those concomitants could in principle precipitate acute distress. 
+In high school I knew a talented athlete whose lungs filled up with fluid whenever he did vigorous exercise. He loved playing soccer but couldn't do so without experiencing serious respiratory distress. Of course, it wasn't his enjoyment per se that caused his lungs to fill up with fluid. But we could coherently imagine his ailment to be such that his enjoyment per se did have that effect. So it is not by virtue of what its effects are that a given emotion is positive or negative. 
+Supposing that this person were cured of his ailment, his subsequent delight would consist in his recognizing that his life had thereby improved. His delight would be identical with a belief that his being cured would improve his life in some way. 
+Similarly, your fact that fear that your mother-in-law is coming to visit is identical 
+with the fact that 
+< 
+259-260/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+6.0 But can't one dispassionately know that one's life is going to improve? When I first discover that in one year's time Smith is going to give me $1,000,000, I am ecstatic. But doesn't that knowledge soon become disaffected? Can't one have emotionally anti-septic knowledge that one's life has changed for the better (or the worse)? 
+Yes one can. But that doesn't mean that any given belief as to one's life-prospects is disaffected. There are two very different kinds of beliefs: discursive and egocentric. Let T be the truth that it is extremely cold in place p at time t. Supposing that I am in p at t, there are two ways that T can be given to me. It can be given to me as the truth that: 
+(i) It is cold in p at t 
+Or it can be given to me as the truth that: 
+191. Short for "distinct possibility." 
+192. Short for "George stole my bicycle." 
+< 
+260/476 
+Empiricism and the Foundations of Psychology 
+(ii) It is now cold in the place where I am. 
+Q A 
+T's being given to me in the second way consists in my relativizing it to a cognitive map of which I am the point of origin. T's being to me in the first way consists in my relativizing it to a map in which no person, including myself, is given a privileged position. If I grasp T in the second way, I have an "egocentric" grasp of it. If I grasp it in the first way, I have an “discursive" grasp of it. 
+Let T* be the truth that Smith is going to give me $1,000,000 in one year's time. Since I am the recipient of Smith's generosity, T* can be given to me as the truth that Smith will give me $1,000,000; and it can also be given to me in the same way that it is given to you, namely, as the truth that Smith will give JMK $1,000,000. My grasping T in the first way, but not the second, is identical with my having an emotion. 
+A given individual almost certainly has egocentric beliefs before he has dispassionate, discursive beliefs; and egocentric beliefs are undoubtedly more central to one's psychological architecture than discursive beliefs. The latter are easily modified and displaced; and such displacements tend to have little or no affect on one's character. After decades of believing otherwise, Einstein became convinced that the universe was expanding. Surely his character didn't change much as a result. But if Einstein had come to believe that everyone was trying to kill him, including his wife and relatives, his character would have undergone quite dramatic changes. 
+To have a correct view of what emotions really are, one must countenance the 
+< 
+261/476 
+Empiricism and the Foundations of Psychology 
+(ii) It is now cold in the place where I am. 
+Q A 
+T's being given to me in the second way consists in my relativizing it to a cognitive map of which I am the point of origin. T's being to me in the first way consists in my relativizing it to a map in which no person, including myself, is given a privileged position. If I grasp T in the second way, I have an "egocentric" grasp of it. If I grasp it in the first way, I have an “discursive" grasp of it. 
+Let T* be the truth that Smith is going to give me $1,000,000 in one year's time. Since I am the recipient of Smith's generosity, T* can be given to me as the truth that Smith will give me $1,000,000; and it can also be given to me in the same way that it is given to you, namely, as the truth that Smith will give JMK $1,000,000. My grasping T in the first way, but not the second, is identical with my having an emotion. 
+A given individual almost certainly has egocentric beliefs before he has dispassionate, discursive beliefs; and egocentric beliefs are undoubtedly more central to one's psychological architecture than discursive beliefs. The latter are easily modified and displaced; and such displacements tend to have little or no affect on one's character. After decades of believing otherwise, Einstein became convinced that the universe was expanding. Surely his character didn't change much as a result. But if Einstein had come to believe that everyone was trying to kill him, including his wife and relatives, his character would have undergone quite dramatic changes. 
+To have a correct view of what emotions really are, one must countenance the 
+< 
+261/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+of the form given any y, there is some x, such that x bears R to y. We've seen many instances of this fallacy. Cf. the failure, discussed in Chapter 8, Section 16.0, to distinguish between 
+and 
+(1) For any n you choose, it is possible that, by coincidence, models M and M* (M + M*) model data 01...o equally well. 
+(2) It is possible that, by coincidence, for any n you choose, models M and M* (M + M*) model data 01...on equally well. 
+Aware of the distinction between (i) and (ii), and of the distinction between egocentric and discursive beliefs, we can do justice to the fact that emotions involve conscious feelings, without going so far as to say that emotions are nothing but such feelings. 
+Egocentric beliefs by definition concern one's welfare. It follows that egocentric beliefs necessarily tend to give rise to phenomenological episodes. The reason this follows is that propositional attitudes are not actionable except in so far as they give rise to phenomenological episodes. Your belief that the hissing rattlesnake in front of you is a threat won't cause you to take survival-critical measures, such as fleeing, 
+< 
+262-263/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+of the form given any y, there is some x, such that x bears R to y. We've seen many instances of this fallacy. Cf. the failure, discussed in Chapter 8, Section 16.0, to distinguish between 
+and 
+(1) For any n you choose, it is possible that, by coincidence, models M and M* (M + M*) model data 01...o equally well. 
+(2) It is possible that, by coincidence, for any n you choose, models M and M* (M + M*) model data 01...on equally well. 
+Aware of the distinction between (i) and (ii), and of the distinction between egocentric and discursive beliefs, we can do justice to the fact that emotions involve conscious feelings, without going so far as to say that emotions are nothing but such feelings. 
+Egocentric beliefs by definition concern one's welfare. It follows that egocentric beliefs necessarily tend to give rise to phenomenological episodes. The reason this follows is that propositional attitudes are not actionable except in so far as they give rise to phenomenological episodes. Your belief that the hissing rattlesnake in front of you is a threat won't cause you to take survival-critical measures, such as fleeing, 
+< 
+262-263/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+to believe that we could improve our thinking by forcing it into the straightjacket of logically ordered operations. We know very well that thinking follows its own dark ways, and that efficiency cannot be secured by prescriptions controlling the paths from the known to the unknown. It is rather the results of thinking, not the thinking process themselves, that are controlled by logic. Logic is the touchstone of thinking, not its propelling 
+193. The italics are Reichenbach's own. 
+force, a regulative of thought more than a motive; it formulates the laws by which we judge thought processes to be correct, not laws that we want to impose upon thinking. What Reichenbach says about logic holds of empiricism. Empiricism doesn't describe how we actually think or how we should think. But it does describe a standard with respect to which it is appropriate to evaluate the thoughts we have had. To paraphrase 
+Reichenbach: 
+If we want to say that [empiricism] deals with thinking, we had better say that [empiricism] teaches us how thinking should proceed and not how it does proceed.194 This formulation, however, is susceptible of another misunderstanding. It would be very unreasonable to believe that we could improve our thinking by forcing it into the straightjacket of [empiricism-friendly] operations. We know very 
+< 
+264-265/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+well that thinking follows its own dark ways, and that efficiency cannot be secured by prescriptions controlling the paths from the known to the unknown. It is rather the results of thinking, not the thinking process themselves, that are controlled by [empiricism]. [Empiricism] is the touchstone of thinking, not its propelling force, a regulative of thought more than a motive; it formulates the laws by which we judge thought processes to be correct, not laws that we want to impose upon thinking. Empiricism is correctly taken as a "touchstone of thinking." (I say "a," not "the," because empiricism is irrelevant to the adjudication of purely conceptual propositions.) But empiricists see empiricism as describing how we should think, if we are to acquire knowledge. Since involuntary ideation falls outside the scope of personal responsibility, empiricists have no choice but to regard such ideation as either spurious or as noncognitive. Thus, empiricists are ipso facto predisposed to categorize the involuntary with the purely reflexive. 
+7.1 Whether your knee jerks is a function only of how hard the doctor's mallet collides with it; every other aspect of the collision is irrelevant. The mechanism underlying your knee's behavior is therefore rigid. 
+That mechanism is also binary. Either your knee jerks or it doesn't: two sufficiently strong collisions make it jerk by the same amount, even if one of those collisions is much stronger than the other. (I am leaving it open whether the point made in this 
+< 
+265/476 
+Empiricism and the Foundations of Psychology 
+the micro-physical properties of those collisions. 
+Q A 
+But whether GS mediates genuine olfaction depends on whether it has second- order responses of the right kind. If GS responds to its responses to the aforementioned collisions in a way that is appropriate to the olfaction-specific properties (supposing there to be any) mediated by said collisions, then GS mediates actual olfaction. It doesn't mediate olfaction if it doesn't thus respond to its responses to those collisions. Further, it doesn't mediate olfaction if it does respond to its first- order responses, but fails to do so in a way that tracks the differences in the various olfaction-specific properties mediated by the relevant particle-collisions. 
+In Chapter 1, Section 1.2.1, we discussed why there is virtually no chance of there being a microphysical characterization of any given biological property. Whether a given object functions as a heart (or a kidney or even a subcellular organelle) depends only on facts about its gross-structure; its microstructure is relevant only to the extent that it must implement the requisite gross-structure. Correspondingly, olfaction picks up on biology-relevant (survival- and health-relevant) properties of its objects: rottenness, wholesomeness, and the like. 
+Thus, for GS to mediate olfaction, it isn't enough that it be pushed and pulled in various ways. Nor is it enough that in actuality those pushes and pulls mediate certain olfaction-specific property-instances. It is necessary that, in being sensitive to the requisite particle collisions, GS is thereby sensitized to the olfaction-specific 
+< 
+266/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+propertyinstances mediated thereby. But since there is no mechanical characterization of those olfactory properties, you cannot endow Gloxo with olfaction, or anything comparable to it, without sensitizing GS to principles that mediate between the micro-physical and the olfactory. You must see to it that, encoded in GS's structure, is a way of generating olfactory awareness out of the aforementioned collision-caused disturbances. And to do that you must endow GS with sensitivity to principles. 
+This is perfectly possible. The position being advocated isn't that we can't build olfactorily-intelligent robots. We can build them, and probably do. The position being advocated is that olfaction in such robots, as in us, is mediated not by first-order mechanical responses to disturbances of its requisite organs, but by responses to those responses, with the qualification that these second-order responses are connected by way of principle-embodying correspondence-rules to those first-order 
+responses. 
+For suppose that, when programming Gloxo, you don't use the method justdescribed, choosing instead to use the brute-force method. Suppose, in other words, that you so construct GS that, given physical disturbances pd1...pd, it responds by having olfactory-responses oe1...oe. n will not be a large number. This has nothing to do with our current technological limitations: no matter how much technology improves, n will always be a relatively small number. (That is, it will be small relative 
+< 
+266-267/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+qualities inherent in v, and v Vj, (1 ≤ i,j ≤ ≤ i,j ≤ n), that they are both visual perceptions. But the operative word is "partly." You automatically integrate the contents of two visual perceptions. But you would not do so if they were generated by different mechanisms - if, in other words, different correspondence-rules mediated between vi and v v; (1 ≤ i,j ≤ n) and their respective causes. For your mind to regard their respective contents as concerning some single space, it is not enough that those contents in fact have some principled relationship to each other: it is also necessary that your mind be sensitive to that relationship. But if it is thus sensitive, then embodied in your visual system is precisely the sort of second-order sensitivity that we've been discussing. Obviously these points apply to olfaction, no less than to sight. So for any two members of oe1...oe, to 
+so much as qualify as instances of single modality, it is necessary that GS be endowed with knowledge of (or knowledge-like sensitivity to) some one principle that assigns olfaction-specific properties to microphysical properties. 
+Thus endowed, GS is like a computer that is programmed to pair off any number with its square, as opposed to computer that has been programmed to assign 4 to 2, 9 to 3...and n2 to n, for some finite n. Problems relating to limitations of storage space have been resolved, as have problems relating to the desideratum that GS's olfactory responses vary continuously with continuous changes in the corresponding 
+< 
+267-268/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+qualities inherent in v, and v Vj, (1 ≤ i,j ≤ ≤ i,j ≤ n), that they are both visual perceptions. But the operative word is "partly." You automatically integrate the contents of two visual perceptions. But you would not do so if they were generated by different mechanisms - if, in other words, different correspondence-rules mediated between vi and v v; (1 ≤ i,j ≤ n) and their respective causes. For your mind to regard their respective contents as concerning some single space, it is not enough that those contents in fact have some principled relationship to each other: it is also necessary that your mind be sensitive to that relationship. But if it is thus sensitive, then embodied in your visual system is precisely the sort of second-order sensitivity that we've been discussing. Obviously these points apply to olfaction, no less than to sight. So for any two members of oe1...oe, to 
+so much as qualify as instances of single modality, it is necessary that GS be endowed with knowledge of (or knowledge-like sensitivity to) some one principle that assigns olfaction-specific properties to microphysical properties. 
+Thus endowed, GS is like a computer that is programmed to pair off any number with its square, as opposed to computer that has been programmed to assign 4 to 2, 9 to 3...and n2 to n, for some finite n. Problems relating to limitations of storage space have been resolved, as have problems relating to the desideratum that GS's olfactory responses vary continuously with continuous changes in the corresponding 
+< 
+267-268/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+The money-maker is confronting the world. The world isn't meeting his needs; so he tries to change it. The approval-seeker is avoiding confronting the world. It is by being meek and passive that one gets approval; it is by being confrontational that one loses it. In any case, we have been trying to obtain a clear view of the other emotional factors at work, and our inquiry hasn't yet come to an end. So we have been obliged, and will continue to be obliged, to set aside the monetary dimension of one's fear of being criticized by one's peers. 
+It is only if one cannot tolerate being wrong that one cares one way or the other about the emotional validations of one's colleagues. It is only if one is pathologically insecure that one cannot tolerate being wrong. And it is only if one is holding onto the infantile conceit that one is superhuman that one takes being wrong personally. This is because making mistakes is as inseparable from the human condition as breathing; and shame at being wrong, and thus of not being omniscient, is quite as morbid and regressive as shame at needing to breathe. 
+Pathological insecurity and pathological grandiosity are two sides of the same coin. I know I can't fly. That's why, even though I'm not happy about the fact that I can't fly, I'm not insecure about not being able to do so. It would only be if I hadn't fully internalized that fact that it would be a source of insecurity. It is only if one has the audacity to believe oneself superhuman that one feels justified in feeling insecure about being wrong. Insecurity-driven humility is crypto-narcissism. "Don't be so 
+< 
+269-270/476

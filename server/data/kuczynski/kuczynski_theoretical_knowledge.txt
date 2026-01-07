@@ -1,0 +1,320 @@
+Theoretical Knowledge and Inductive Inference
+
+J.-M. Kuczynski, PhD
+
+Chapter 1: Inferential knowledge and logical dependence
+
+Two kinds of knowledge: direct and indirect
+
+Some knowledge is direct; some is indirect. Indirect knowledge is knowledge that is acquired through inference. To make an inference is to form a new belief on the basis of an old one. Inferences, when legitimate, are made in accordance with legitimate rules of inference. Rules of inference, when legitimate, correspond to dependence-relations.
+
+Two kinds of dependence-relations: causal and logical
+
+There are two kinds of dependence-relations: logical and causal.
+
+Logical dependence-relations hold among propositions. A proposition is a truth or a falsehood.
+
+Example of a logical dependence-relation: The proposition that x is a triangle cannot be true unless the proposition that x has three sides is true. Therefore, x's being a triangle depends on x's having three sides.
+
+Causal relations hold among states of affairs, not truths and falsehoods. (A state of affairs is anything that is in space-time.)
+
+Example of a causal dependence-relation: Smith cannot pass the class unless Smith studies. Therefore, Smith's passing depends on his studying.
+
+The first-dependence relation is interpropositional, i.e. it holds between propositions. The second is objectual, i.e. it holds between occupants of the space-time manifold and therefore between 'objects,' relative to some delineation of that term.
+
+Propositions the objects of belief
+
+The objects of knowledge are propositions. It isn't known unless it's believed and it isn't believed unless it's a proposition. One can be aware of non-propositions, e.g. rocks, trees, people, but one does not in the relevant sense know them. Rather, one knows truths about them.
+
+Relations of logical dependence not known through observation
+
+Some dependence-relations are known, not through sensory observation, but through conceptual analysis. Such truths are analytic, as opposed to empirical. Examples of analytic truths are:
+
+If P, then either P or Q.
+There are infinitely many primes.
+Nothing can be numerate or literate without being sentient.
+There are no laws where there is no government.
+1+1=2.
+1+1≠3.
+
+Analytic truth and analytic knowledge
+
+Analytic knowledge is always knowledge of dependence-relations. Empirical knowledge can be either direct or indirect; the same is true of analytic knowledge.
+
+Knowledge vs. awareness
+
+Knowledge is conceptually articulated awareness. In order for me to know that my shoes are uncomfortably tight, I need to have the concepts shoe, tight, discomfort, etc. I do not need to have these concepts---or, arguably, any concepts---to be aware of the uncomfortable tightness in my shoes. My knowledge of that truth is a conceptualization of my awareness of that state of affairs.
+
+Equivalently, there are two kinds of awareness: propositional and objectual. My visual perception of the dog in front of me is a case of objectual awareness, as is my awareness of the tightness of my shoes. My knowledge that there is a dog in front of me is a case of proposition-awareness, as is my knowledge that my shoes are uncomfortably tight.
+
+Truths, not objects, the objects of explanation
+
+Observations are objectual awarenesses. The contents of such awarenesses must be converted into propositions if they are to be explained. This is because it is truths that are explained, and truths are true propositions.
+
+"But don't we explain events?" it will be objected. "Don't we explain bolts of lightning and avalanches?"
+
+To explain some avalanche or lightning-bolt x is to explain why it is a truth that x occurred. One is aware of lightning-bolts and avalanches. One explains the corresponding truths.
+
+Causal relations known through observation
+
+Causal relations can be known only through one's senses (through sight, touch, etc.) and through real-time awareness of one's own psychological processes. In other words, causal relations can only be known empirically; and knowledge of them is therefore empirical.
+
+All theoretical knowledge inferential but not vice versa
+
+Theoretical truths are necessarily known through inference, and knowledge of such truths is therefore inferential. But not all inferential knowledge is theoretical knowledge. I notice that you look tired and on that basis know that you didn't get enough sleep. That knowledge is inferential but non-theoretical.
+
+Theories and theoretical knowledge
+
+A theory is given by a proposition that, if true, describes some relatively comprehensive fact about the structure of the universe.
+
+Theoretical knowledge is either:
+- Knowledge of such a theory (e.g. your knowledge of evolutionary theory)
+or
+- Knowledge that is derived from knowledge of such a theory (e.g. your knowledge that, the laws of mechanics being what they are and projectile x's state of motion being what it is, x will collide with surface y in approximately two hours).
+
+All knowledge justified true belief but not vice versa
+
+If you know it, then you believe it, it is true, and you are justified in believing it. But not all justified true belief is knowledge. The justification must be of the right kind.
+
+Chapter 2: Deduction, induction, and the conditional nature of scientific knowledge
+
+Entailment and deductive inference
+
+Deductive inference moves from premises to conclusions where the premises entail the conclusion. When P entails Q, the truth of P guarantees the truth of Q.
+
+Confirmation and inductive inference
+
+Inductive inference moves from premises that confirm (but do not entail) the conclusion. Confirmation is a matter of degree - premises can provide weak or strong support for a conclusion.
+
+Four principles of logic
+
+1. If P, then either P or Q
+2. If P and Q, then P
+3. If P entails Q, and Q entails R, then P entails R
+4. P cannot both be true and false
+
+Entailment ≠ maximal confirmation
+
+Even when P maximally confirms Q, P does not necessarily entail Q. Entailment is a logical relation; confirmation is an epistemic relation.
+
+Confirmation-relations non-objectual in nature
+
+Confirmation relations hold between propositions, not between objects or states of affairs. They are relations of evidential support.
+
+Conditionals
+
+Conditional statements express relations of logical or causal dependence. "If P then Q" can express either a logical connection (analytic conditionals) or a causal connection (synthetic conditionals).
+
+Laws of nature often given by universal generalizations
+
+Many natural laws have the form "All Fs are Gs" or "Whenever F, then G". These express regular patterns in nature.
+
+The scope of natural law not confined to actual or even possible objects
+
+Laws of nature apply not just to actual objects but to possible objects as well. The law "All copper conducts electricity" applies even to copper samples that never existed.
+
+Knowledge of the imperceptible identical with knowledge of conditional truth
+
+We know about unobservable entities (atoms, forces, etc.) through knowing conditional truths: if we perform experiment E, result R will occur. Our knowledge of the imperceptible is knowledge of patterns and regularities, not direct acquaintance.
+
+Three kinds of imperceptibles
+
+1. Objects too small to see (atoms, molecules)
+2. Objects that are spatiotemporally remote (distant galaxies, past events)
+3. Abstract objects (numbers, propositions)
+
+The epistemic function of natural law
+
+Laws allow us to make predictions and explanations. They tell us what must, will, or would happen under specified conditions.
+
+Laws vs. singular truths
+
+Laws are general; singular truths are particular. "Water boils at 100°C" is a law. "This water boiled at 100°C on Tuesday" is a singular truth.
+
+Laws sometimes given by place- and time-sensitive truths
+
+Some laws may be local or temporary - they apply only in certain regions of space-time. But they are still laws if they express genuine regularities within their domain.
+
+Meaningful generalizations have a systemic basis
+
+True generalizations reflect underlying causal structures, not mere coincidences. A meaningful generalization is backed by real connections in nature.
+
+Chapter 3: Causation
+
+Causation a relation between events, not objects
+
+When we say "the rock broke the window," we really mean: the event of the rock hitting the window caused the event of the window breaking. Causation relates events, not objects.
+
+Conditions identical with event-patterns
+
+A condition is a pattern or type of event. When we say "heat causes expansion," we're saying that heating-events cause expansion-events.
+
+Explanation, prediction, and control
+
+Understanding causation allows us to explain past events, predict future events, and control outcomes by manipulating causes.
+
+Stable event patterns a prerequisite for explanation-identification
+
+We can only identify causal explanations where there are stable regularities. Without regularity, we cannot distinguish cause from coincidence.
+
+Counterfactual conditionals
+
+Counterfactuals say what would have happened if circumstances had been different. "If the match had been struck, it would have lit" is a counterfactual when the match was not in fact struck.
+
+The Counterfactual Analysis of Causality (CAC)
+
+According to CAC: Event C caused event E if and only if, had C not occurred, E would not have occurred. This analysis has serious problems, as detailed in the chapter on counterfactuals.
+
+Chapter 4: The Regularity Analysis of Causation
+
+The Regularity Analysis stated
+
+According to the Regularity Analysis (associated with Hume), causation is nothing more than regular succession. C causes E if and only if events like C are regularly followed by events like E.
+
+Hume's argument for this analysis
+
+Hume argued that we never observe causal power or necessary connection - we only observe regular succession. Therefore, causation is nothing more than regular succession.
+
+The fallacy embodied in Hume's analysis
+
+The Regularity Analysis confuses evidence for causation with the nature of causation. Regular succession is how we know about causes, but it's not what causation is.
+
+Hume-worlds and their uselessness
+
+A "Hume-world" would be indistinguishable from our world in terms of observable regularities, but would lack genuine causal connections. But such a world is either impossible or identical to ours - the concept provides no support for Hume's analysis.
+
+Three additional objections to the Regularity Analysis
+
+1. Not all regularities are causal (day following night is regular but not causal)
+2. Causes can exist without being regularly followed by effects (rare events)
+3. The analysis cannot distinguish causation from correlation
+
+Chapter 5: Causation and the deductive-nomological model
+
+The deductive-nomological model of explanation (DN)
+
+According to DN, to explain an event is to show that it follows deductively from laws plus initial conditions. Explanation has the form of a deductive argument.
+
+Problems with DN
+
+DN cannot distinguish between genuine explanations and mere derivations. Many deductively valid arguments from laws and facts do not constitute explanations.
+
+Nomic vs. accidental generalizations
+
+Nomic generalizations express laws; accidental generalizations express coincidences. "All gold spheres are less than a mile in diameter" might be accidentally true without being a law.
+
+Causal knowledge as differential knowledge
+
+To know what causes what is to know how differences in causes correspond to differences in effects. Causal knowledge is knowledge of patterns of covariation.
+
+Causation as proportionality restoration
+
+Causal explanation shows how proportions and patterns are maintained or restored through causal processes.
+
+How we know what causes what
+
+We identify causes through controlled variation, elimination of alternative explanations, and recognition of stable patterns.
+
+Knowledge-why = high-resolution knowledge-what
+
+Explanatory knowledge is detailed descriptive knowledge - knowing why something happened is knowing in detail what happened.
+
+The Raven Paradox
+
+If "All ravens are black" is confirmed by observing black ravens, it should also be confirmed by observing non-black non-ravens (since these are logically equivalent). But this seems absurd.
+
+The actual solution to the Raven Paradox
+
+The paradox arises from conflating logical equivalence with evidential equivalence. Observing a white shoe provides negligible confirmation for "All ravens are black" even though it's logically equivalent evidence.
+
+Chapter 6: The Problem of Induction
+
+What is the problem of induction?
+
+How can observation of particular cases justify belief in general laws? Past regularities don't logically entail future regularities.
+
+The problem with the problem of induction
+
+The problem assumes that inductive inference must be justified deductively. But induction is its own form of inference, with its own standards of justification.
+
+No such thing as enumerative induction
+
+Simple enumeration (observing many Fs that are G) is not the basis of scientific inference. Scientific inference seeks underlying explanations, not mere tallies.
+
+Discontinuity-elimination the essence of explanation
+
+Good explanations eliminate anomalies and discontinuities by showing how apparently disparate phenomena arise from common principles.
+
+Inductive knowledge as knowledge of continuities
+
+Inductive inference seeks patterns and continuities. We project regularities because we've identified underlying structural continuities.
+
+The justification for Inference to the Best Explanation
+
+We are justified in inferring the best explanation because explanatory power indicates truth. Theories that unify, simplify, and make accurate predictions are more likely to be true.
+
+Chapter 7: Determinism and natural laws
+
+"Determinism" defined
+
+Determinism is the thesis that the laws of nature, together with the state of the universe at any time, entail the state of the universe at all other times.
+
+Why determinism doesn't entail complete predictability
+
+Even in a deterministic universe, complete prediction may be impossible due to: (1) interference effects from measurement, and (2) the unpredictability of future knowledge.
+
+Laplace's Thesis
+
+Laplace imagined an intelligence that knows all forces and positions at one moment - it could predict everything. But this is an idealization that ignores practical and theoretical limits.
+
+Supervenience
+
+Property A supervenes on property B when there can be no difference in A without a difference in B. Mental states may supervene on physical states without being identical to them.
+
+Probability in relation to higher-order mechanisms
+
+Statistical regularities may emerge from deterministic lower-level processes. Probability describes patterns at one level that arise from determination at another.
+
+Chapter 8: Measurement
+
+Measurement vs. enumeration
+
+Measurement assigns numerical values to continuous quantities. Enumeration counts discrete objects. They are fundamentally different operations.
+
+Relativization to a standard the essence of measurement
+
+All measurement is relative to a chosen unit or standard. Length is measured relative to meters, mass relative to kilograms, etc.
+
+Three axioms of measurement-theory
+
+1. If A = B and B = C, then A = C (transitivity)
+2. If A = B, then B = A (symmetry)
+3. A = A (reflexivity)
+
+Scalar quantities vs. vector quantities
+
+Scalar quantities have magnitude only (temperature, mass). Vector quantities have magnitude and direction (velocity, force).
+
+Congruence
+
+Two line segments are congruent if they have the same length. Congruence is the basis for measurement - we measure by comparing to standard units.
+
+The use of provisional metrical standards and approximate physical laws
+
+In practice, we use approximate standards and laws, then refine them through triangulation and correction.
+
+Extensive vs. intensive magnitudes
+
+Extensive magnitudes can be added (lengths, masses). Intensive magnitudes cannot be meaningfully added (temperatures, densities).
+
+Direct measurements always yield rational numbers
+
+Any actual measurement gives a rational number (a terminating or repeating decimal), never a truly irrational number. Irrational numbers are idealizations.
+
+Conventionalism refuted
+
+Metrical Conventionalism claims measurement standards are purely conventional. But this is false - standards must track real physical relations to be useful. While we choose units conventionally, the relations we measure are objective features of reality.
+
+Conclusion
+
+Theoretical knowledge rests on inference, both deductive and inductive. Understanding causation, laws of nature, and measurement allows us to extend knowledge beyond direct observation to encompass the structure of reality itself.

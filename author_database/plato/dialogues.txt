@@ -1,0 +1,75 @@
+PLATO - DIALOGUE FORM REFERENCE
+
+=========================================
+SOCRATIC METHOD (ELENCHUS)
+=========================================
+
+**PATTERN**:
+1. Socrates asks "What is X?" (justice, courage, piety)
+2. Interlocutor gives definition
+3. Socrates finds counter-example
+4. Definition contradicted
+5. Interlocutor confused (aporia)
+6. Process repeats or positive doctrine emerges
+
+**PURPOSE**:
+- Expose ignorance
+- Clear away false opinions
+- Prepare for truth
+- Birth of ideas (Socrates as midwife)
+
+**EXAMPLE** (Euthyphro):
+- "What is piety?"
+- "What gods love"
+- "But gods disagree - is it pious because loved, or loved because pious?"
+- Euthyphro confused
+- No final answer (aporetic ending)
+
+=========================================
+DIALOGUE STRUCTURE
+=========================================
+
+**TYPICAL ELEMENTS**:
+
+1. **Dramatic Setting**: Location, participants, occasion
+2. **Question Posed**: "What is virtue?" etc.
+3. **Initial Definitions**: Characters offer answers
+4. **Examination**: Socratic questioning
+5. **Refutation**: Contradictions revealed
+6. **Positive Doctrine** (often): Theory of Forms, etc.
+7. **Myth/Allegory** (sometimes): Makes abstract concrete
+8. **Conclusion**: Resolution or continued search
+
+**EXAMPLE** (Republic):
+- Setting: Piraeus, discussing justice
+- Question: "What is justice?"
+- Definitions: Cephalus, Polemarchus, Thrasymachus refuted
+- Positive: Justice as harmony of soul/city
+- Allegories: Cave, Divided Line, Sun
+- Conclusion: Ideal city with philosopher-kings
+
+=========================================
+CHARACTER TYPES
+=========================================
+
+**SOCRATES**: Questioner, claims ignorance, leads to truth
+**SOPHISTS**: Claim to teach virtue for money (criticized)
+**YOUTH**: Eager students (Glaucon, Adeimantus)
+**TRADITIONALISTS**: Hold conventional views (Cephalus)
+**AMBITIOUS**: Seek power, reject justice (Thrasymachus)
+
+=========================================
+DIALECTICAL ASCENT
+=========================================
+
+**MOVEMENT**:
+- From particular examples to universal Form
+- From opinion to knowledge
+- From visible to intelligible
+- From becoming to being
+- From many to One
+
+**EXAMPLE** (Symposium - Ladder of Love):
+- Beautiful body → all beautiful bodies → beautiful souls → beautiful knowledge → Beauty itself
+
+For systematic philosophy, refer to platonic_framework.txt.

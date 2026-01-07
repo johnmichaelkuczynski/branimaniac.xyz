@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 6197,
+    "topic": "Methodic Doubt",
+    "premise": "beliefs|based|senses|potentially|false",
+    "conclusion": "All beliefs based on the senses are potentially false"
+  },
+  {
+    "id": 6198,
+    "topic": "Methodic Doubt",
+    "premise": "systematic|doubt|necessary|find|certainty",
+    "conclusion": "Systematic doubt is necessary to find certainty"
+  },
+  {
+    "id": 6199,
+    "topic": "Methodic Doubt",
+    "premise": "doubt|extend|mathematics|evil|demon|hypothesis",
+    "conclusion": "Doubt must extend to mathematics because of the evil-demon hypothesis"
+  },
+  {
+    "id": 6200,
+    "topic": "Methodic Doubt",
+    "premise": "suspend|assent|proposition|doubted",
+    "conclusion": "One should suspend assent to any proposition that can be doubted"
+  },
+  {
+    "id": 6201,
+    "topic": "Methodic Doubt",
+    "premise": "doubt|methodological|tool|permanent|philosophical|position",
+    "conclusion": "Doubt is a methodological tool, not a permanent philosophical position"
+  },
+  {
+    "id": 6202,
+    "topic": "Cogito",
+    "premise": "thinking|cannot|occur|without|thinker",
+    "conclusion": "Thinking cannot occur without a thinker"
+  },
+  {
+    "id": 6203,
+    "topic": "Cogito",
+    "premise": "doubt|proves|existence|doubter",
+    "conclusion": "Doubt itself proves the existence of the doubter"
+  },
+  {
+    "id": 6204,
+    "topic": "Cogito",
+    "premise": "cogito|self|evident|considered",
+    "conclusion": "The Cogito is self-evident once considered"
+  },
+  {
+    "id": 6205,
+    "topic": "Cogito",
+    "premise": "cogito|known|intuition|deduction",
+    "conclusion": "The Cogito is known by intuition, not deduction"
+  },
+  {
+    "id": 6206,
+    "topic": "Cogito",
+    "premise": "cogito|establishes|first|indubitable|truth",
+    "conclusion": "The Cogito establishes the first indubitable truth"
+  },
+  {
+    "id": 6207,
+    "topic": "Nature of the Mind",
+    "premise": "mind|thinking|substance",
+    "conclusion": "The mind is a thinking substance"
+  },
+  {
+    "id": 6208,
+    "topic": "Nature of the Mind",
+    "premise": "mind|essence|thought|alone",
+    "conclusion": "The mind's essence is thought alone"
+  },
+  {
+    "id": 6209,
+    "topic": "Nature of the Mind",
+    "premise": "mind|indivisible",
+    "conclusion": "The mind is indivisible"
+  },
+  {
+    "id": 6210,
+    "topic": "Nature of the Mind",
+    "premise": "mind|known|clearly|body",
+    "conclusion": "The mind is known more clearly than the body"
+  },
+  {
+    "id": 6211,
+    "topic": "Nature of the Mind",
+    "premise": "mind|require|spatial|extension",
+    "conclusion": "The mind does not require spatial extension"
+  },
+  {
+    "id": 6212,
+    "topic": "Mind-Body Distinction",
+    "premise": "mind|body|distinct|substances",
+    "conclusion": "The mind and body are distinct substances"
+  },
+  {
+    "id": 6213,
+    "topic": "Mind-Body Distinction",
+    "premise": "mind|exist|without|body",
+    "conclusion": "The mind can exist without the body"
+  },
+  {
+    "id": 6214,
+    "topic": "Mind-Body Distinction",
+    "premise": "bodies|divisible|minds",
+    "conclusion": "Bodies are divisible; minds are not"
+  },
+  {
+    "id": 6215,
+    "topic": "Mind-Body Distinction",
+    "premise": "clear|distinct|conception|shows|separable",
+    "conclusion": "Clear and distinct conception of each shows they are separable"
+  },
+  {
+    "id": 6216,
+    "topic": "Mind-Body Distinction",
+    "premise": "self|essentially|mental|corporeal",
+    "conclusion": "The self is essentially mental, not corporeal"
+  },
+  {
+    "id": 6217,
+    "topic": "Essence of Material Bodies",
+    "premise": "extension|defining|property|matter",
+    "conclusion": "Extension is the defining property of matter"
+  },
+  {
+    "id": 6218,
+    "topic": "Essence of Material Bodies",
+    "premise": "bodies|characterized|size|shape|motion",
+    "conclusion": "Bodies are characterized by size, shape, and motion"
+  },
+  {
+    "id": 6219,
+    "topic": "Essence of Material Bodies",
+    "premise": "sensible|qualities|color|taste|essential",
+    "conclusion": "Sensible qualities (color, taste, etc.) are not essential"
+  },
+  {
+    "id": 6220,
+    "topic": "Essence of Material Bodies",
+    "premise": "matter|infinitely|divisible",
+    "conclusion": "Matter is infinitely divisible"
+  },
+  {
+    "id": 6221,
+    "topic": "Essence of Material Bodies",
+    "premise": "geometry|fully|captures|nature|bodies",
+    "conclusion": "Geometry fully captures the nature of bodies"
+  },
+  {
+    "id": 6222,
+    "topic": "Existence of God",
+    "premise": "idea|perfect|cause",
+    "conclusion": "The idea of a perfect being must have a perfect cause"
+  },
+  {
+    "id": 6223,
+    "topic": "Existence of God",
+    "premise": "cause",
+    "conclusion": "Only God could be that cause"
+  },
+  {
+    "id": 6224,
+    "topic": "Existence of God",
+    "premise": "finite|cannot|originate|idea|infinity",
+    "conclusion": "A finite being cannot originate the idea of infinity"
+  },
+  {
+    "id": 6225,
+    "topic": "Existence of God",
+    "premise": "existence|knowable|reason|alone",
+    "conclusion": "God's existence is knowable by reason alone"
+  },
+  {
+    "id": 6226,
+    "topic": "Existence of God",
+    "premise": "exist|guarantee|truth|clear|distinct|perceptions",
+    "conclusion": "God must exist to guarantee the truth of clear and distinct perceptions"
+  },
+  {
+    "id": 6227,
+    "topic": "Truth Rule",
+    "premise": "whatever|clearly|distinctly|perceived|true",
+    "conclusion": "Whatever is clearly and distinctly perceived is true"
+  },
+  {
+    "id": 6228,
+    "topic": "Truth Rule",
+    "premise": "rule|intuitive|inferred",
+    "conclusion": "This rule is intuitive, not inferred"
+  },
+  {
+    "id": 6229,
+    "topic": "Truth Rule",
+    "premise": "rule|depends|deceptiveness",
+    "conclusion": "The rule depends on God's non-deceptiveness"
+  },
+  {
+    "id": 6230,
+    "topic": "Truth Rule",
+    "premise": "error|arises|judgment|exceeds|perception",
+    "conclusion": "Error arises only when judgment exceeds perception"
+  },
+  {
+    "id": 6231,
+    "topic": "Truth Rule",
+    "premise": "rule|applies|universally|across|domains",
+    "conclusion": "The rule applies universally across domains"
+  },
+  {
+    "id": 6232,
+    "topic": "Problem of Error",
+    "premise": "error|arise|human|misuse",
+    "conclusion": "Error does not arise from God but from human misuse of will"
+  },
+  {
+    "id": 6233,
+    "topic": "Problem of Error",
+    "premise": "intellect|finite|deceptive",
+    "conclusion": "Intellect is finite but not deceptive"
+  },
+  {
+    "id": 6234,
+    "topic": "Problem of Error",
+    "premise": "infinite|affirm|beyond|intellect|perceives",
+    "conclusion": "Will is infinite and can affirm beyond what the intellect perceives"
+  },
+  {
+    "id": 6235,
+    "topic": "Problem of Error",
+    "premise": "error|avoidable|careful|judgment",
+    "conclusion": "Error is avoidable through careful judgment"
+  },
+  {
+    "id": 6236,
+    "topic": "Problem of Error",
+    "premise": "human|imperfection|imply|divine|deception",
+    "conclusion": "Human imperfection does not imply divine deception"
+  },
+  {
+    "id": 6237,
+    "topic": "Cartesian Circle",
+    "premise": "clear|distinct|perceptions|require|existence|trustworthy",
+    "conclusion": "Clear and distinct perceptions require God's existence to be trustworthy"
+  },
+  {
+    "id": 6238,
+    "topic": "Cartesian Circle",
+    "premise": "existence|proven|clear|distinct|perceptions",
+    "conclusion": "Yet God's existence is proven by clear and distinct perceptions"
+  },
+  {
+    "id": 6239,
+    "topic": "Cartesian Circle",
+    "premise": "vicious|circle|cogito|self|justifying",
+    "conclusion": "This is not a vicious circle because the Cogito is self-justifying"
+  },
+  {
+    "id": 6240,
+    "topic": "Cartesian Circle",
+    "premise": "present|clear|distinct|perceptions|divine|guarantee",
+    "conclusion": "Present clear and distinct perceptions need no divine guarantee"
+  },
+  {
+    "id": 6241,
+    "topic": "Cartesian Circle",
+    "premise": "memory|clear|distinct|perceptions|requires|reliability",
+    "conclusion": "Memory of clear and distinct perceptions requires God's reliability"
+  },
+  {
+    "id": 6242,
+    "topic": "Role of the Will in Judgment",
+    "premise": "unlimited|relative|intellect",
+    "conclusion": "Will is unlimited relative to intellect"
+  },
+  {
+    "id": 6243,
+    "topic": "Role of the Will in Judgment",
+    "premise": "error|produced|willing|without|proper|intellectual",
+    "conclusion": "Error is produced by willing without proper intellectual clarity"
+  },
+  {
+    "id": 6244,
+    "topic": "Role of the Will in Judgment",
+    "premise": "freedom|consists|rationally|guided|indifference",
+    "conclusion": "Freedom consists in rationally guided will, not indifference"
+  },
+  {
+    "id": 6245,
+    "topic": "Role of the Will in Judgment",
+    "premise": "perfect|freedom|belongs|humans|approximate",
+    "conclusion": "Perfect freedom belongs to God; humans approximate it"
+  },
+  {
+    "id": 6246,
+    "topic": "Role of the Will in Judgment",
+    "premise": "judgment|withheld|clarity|achieved",
+    "conclusion": "Judgment should be withheld until clarity is achieved"
+  },
+  {
+    "id": 6247,
+    "topic": "Innate Ideas",
+    "premise": "ideas|born",
+    "conclusion": "Some ideas are born with us"
+  },
+  {
+    "id": 6248,
+    "topic": "Innate Ideas",
+    "premise": "idea|innate",
+    "conclusion": "The idea of God is innate"
+  },
+  {
+    "id": 6249,
+    "topic": "Innate Ideas",
+    "premise": "idea|mind|innate",
+    "conclusion": "The idea of mind is innate"
+  },
+  {
+    "id": 6250,
+    "topic": "Innate Ideas",
+    "premise": "mathematical|concepts|innate",
+    "conclusion": "Mathematical concepts are innate"
+  },
+  {
+    "id": 6251,
+    "topic": "Innate Ideas",
+    "premise": "innate|ideas|dispositions|fully|formed|contents",
+    "conclusion": "Innate ideas are \"dispositions,\" not fully formed contents"
+  },
+  {
+    "id": 6252,
+    "topic": "Sensory Perception",
+    "premise": "senses|sometimes|deceive|cannot|foundational",
+    "conclusion": "Senses sometimes deceive, so they cannot be foundational"
+  },
+  {
+    "id": 6253,
+    "topic": "Sensory Perception",
+    "premise": "sensory|qualities|misrepresent|physical|reality",
+    "conclusion": "Sensory qualities misrepresent physical reality"
+  },
+  {
+    "id": 6254,
+    "topic": "Sensory Perception",
+    "premise": "pain|heat|color|mental|constructs|properties",
+    "conclusion": "Pain, heat, and color are mental constructs, not properties of bodies"
+  },
+  {
+    "id": 6255,
+    "topic": "Sensory Perception",
+    "premise": "sensory|error|traced|bodily|mechanisms|deception",
+    "conclusion": "Sensory error can be traced to bodily mechanisms, not deception by God"
+  },
+  {
+    "id": 6256,
+    "topic": "Sensory Perception",
+    "premise": "sensation|purpose|survival|knowledge",
+    "conclusion": "Sensation's purpose is survival, not knowledge"
+  },
+  {
+    "id": 6257,
+    "topic": "Nature of Matter",
+    "premise": "matter|pure|extension",
+    "conclusion": "Matter is pure extension"
+  },
+  {
+    "id": 6258,
+    "topic": "Nature of Matter",
+    "premise": "vacuum|space|identical|matter",
+    "conclusion": "There is no vacuum; space is identical with matter"
+  },
+  {
+    "id": 6259,
+    "topic": "Nature of Matter",
+    "premise": "motion|primary|physical|phenomenon",
+    "conclusion": "Motion is the primary physical phenomenon"
+  },
+  {
+    "id": 6260,
+    "topic": "Nature of Matter",
+    "premise": "bodies|interact|solely|contact",
+    "conclusion": "Bodies interact solely through contact"
+  },
+  {
+    "id": 6261,
+    "topic": "Nature of Matter",
+    "premise": "universe|plenum|filled|matter",
+    "conclusion": "The universe is a plenum filled with matter"
+  },
+  {
+    "id": 6262,
+    "topic": "Laws of Motion",
+    "premise": "conserves|total|quantity|motion",
+    "conclusion": "God conserves the total quantity of motion"
+  },
+  {
+    "id": 6263,
+    "topic": "Laws of Motion",
+    "premise": "bodies|persist|motion|unless|impeded",
+    "conclusion": "Bodies persist in motion unless impeded"
+  },
+  {
+    "id": 6264,
+    "topic": "Laws of Motion",
+    "premise": "collisions|obey|determinable|laws|based|extension",
+    "conclusion": "Collisions obey determinable laws based on extension and motion"
+  },
+  {
+    "id": 6265,
+    "topic": "Laws of Motion",
+    "premise": "natural|motion|rectilinear",
+    "conclusion": "Natural motion is rectilinear"
+  },
+  {
+    "id": 6266,
+    "topic": "Laws of Motion",
+    "premise": "motion|relative|reference|frames",
+    "conclusion": "Motion is relative to reference frames"
+  },
+  {
+    "id": 6267,
+    "topic": "Vortices as Cosmic Explanation",
+    "premise": "celestial|bodies|move|vortex|like|swirls",
+    "conclusion": "Celestial bodies move in vortex-like swirls of matter"
+  },
+  {
+    "id": 6268,
+    "topic": "Vortices as Cosmic Explanation",
+    "premise": "planets|carried|whirlpools|subtle|matter",
+    "conclusion": "Planets are carried by whirlpools of subtle matter"
+  },
+  {
+    "id": 6269,
+    "topic": "Vortices as Cosmic Explanation",
+    "premise": "action|distance|needed",
+    "conclusion": "No action at a distance is needed"
+  },
+  {
+    "id": 6270,
+    "topic": "Vortices as Cosmic Explanation",
+    "premise": "vortices|replace|aristotelian|spheres",
+    "conclusion": "Vortices replace Aristotelian spheres"
+  },
+  {
+    "id": 6271,
+    "topic": "Vortices as Cosmic Explanation",
+    "premise": "cosmic|order|emerges|mechanically|vortex|behavior",
+    "conclusion": "Cosmic order emerges mechanically from vortex behavior"
+  },
+  {
+    "id": 6272,
+    "topic": "Animal Automatism",
+    "premise": "animals|lack|rational|souls",
+    "conclusion": "Animals lack rational souls"
+  },
+  {
+    "id": 6273,
+    "topic": "Animal Automatism",
+    "premise": "animals|cannot|think",
+    "conclusion": "Animals cannot think"
+  },
+  {
+    "id": 6274,
+    "topic": "Animal Automatism",
+    "premise": "animal|behavior|mechanistic",
+    "conclusion": "All animal behavior is mechanistic"
+  },
+  {
+    "id": 6275,
+    "topic": "Animal Automatism",
+    "premise": "animals|feel|pain|human|sense",
+    "conclusion": "Animals do not feel pain in the human sense"
+  },
+  {
+    "id": 6276,
+    "topic": "Animal Automatism",
+    "premise": "language|decisive|mark|rationality",
+    "conclusion": "Language use is the decisive mark of rationality"
+  },
+  {
+    "id": 6277,
+    "topic": "Passions of the Soul",
+    "premise": "passions|arise|union|mind|body",
+    "conclusion": "Passions arise from the union of mind and body"
+  },
+  {
+    "id": 6278,
+    "topic": "Passions of the Soul",
+    "premise": "passions|triggered|bodily|movements",
+    "conclusion": "Passions are triggered by bodily movements"
+  },
+  {
+    "id": 6279,
+    "topic": "Passions of the Soul",
+    "premise": "passions|inherently|irrational",
+    "conclusion": "Passions are not inherently irrational"
+  },
+  {
+    "id": 6280,
+    "topic": "Passions of the Soul",
+    "premise": "proper|understanding|allows|rational|control|passions",
+    "conclusion": "Proper understanding allows rational control of passions"
+  },
+  {
+    "id": 6281,
+    "topic": "Passions of the Soul",
+    "premise": "wonder|first|passion|root|others",
+    "conclusion": "Wonder is the first passion and the root of others"
+  },
+  {
+    "id": 6282,
+    "topic": "Mind-Body Interaction",
+    "premise": "mind|interacts|body|single|point",
+    "conclusion": "Mind interacts with body at a single point"
+  },
+  {
+    "id": 6283,
+    "topic": "Mind-Body Interaction",
+    "premise": "pineal|gland|uniquely|suited|role",
+    "conclusion": "The pineal gland is uniquely suited for this role"
+  },
+  {
+    "id": 6284,
+    "topic": "Mind-Body Interaction",
+    "premise": "animal|spirits|transmit|signals|mind|body",
+    "conclusion": "Animal spirits transmit signals between mind and body"
+  },
+  {
+    "id": 6285,
+    "topic": "Mind-Body Interaction",
+    "premise": "sensory|images|originate|movements|gland",
+    "conclusion": "Sensory images originate from movements in the gland"
+  },
+  {
+    "id": 6286,
+    "topic": "Mind-Body Interaction",
+    "premise": "volition|causes|gland|motion|directs|bodily",
+    "conclusion": "Volition causes gland motion that directs bodily action"
+  },
+  {
+    "id": 6287,
+    "topic": "Mathematics as Model of Knowledge",
+    "premise": "true|knowledge|certain|mathematics",
+    "conclusion": "True knowledge must be as certain as mathematics"
+  },
+  {
+    "id": 6288,
+    "topic": "Mathematics as Model of Knowledge",
+    "premise": "mathematics|demonstrates|clarity|distinctness",
+    "conclusion": "Mathematics demonstrates clarity and distinctness"
+  },
+  {
+    "id": 6289,
+    "topic": "Mathematics as Model of Knowledge",
+    "premise": "geometry|provides|paradigm|understanding|matter",
+    "conclusion": "Geometry provides the paradigm for understanding matter"
+  },
+  {
+    "id": 6290,
+    "topic": "Mathematics as Model of Knowledge",
+    "premise": "method|deduction|modeled|math",
+    "conclusion": "The method of deduction is modeled on math"
+  },
+  {
+    "id": 6291,
+    "topic": "Mathematics as Model of Knowledge",
+    "premise": "universal|science|rests|mathematical|reasoning",
+    "conclusion": "Universal science rests on mathematical reasoning"
+  },
+  {
+    "id": 6292,
+    "topic": "Eternal Truths",
+    "premise": "eternal|truths|math|logic|depend",
+    "conclusion": "Eternal truths (math, logic) depend on God's will"
+  },
+  {
+    "id": 6293,
+    "topic": "Eternal Truths",
+    "premise": "freely|created|eternal|truths",
+    "conclusion": "God freely created the eternal truths"
+  },
+  {
+    "id": 6294,
+    "topic": "Eternal Truths",
+    "premise": "otherwise|willed|differently",
+    "conclusion": "They could have been otherwise if God willed differently"
+  },
+  {
+    "id": 6295,
+    "topic": "Eternal Truths",
+    "premise": "human|reason|grasps|necessary",
+    "conclusion": "Human reason grasps them as necessary"
+  },
+  {
+    "id": 6296,
+    "topic": "Eternal Truths",
+    "premise": "immutability|depends|divine",
+    "conclusion": "Their immutability depends on divine immutability"
+  },
+  {
+    "id": 6297,
+    "topic": "Substance and Modes",
+    "premise": "substance|depends",
+    "conclusion": "Substance is that which depends only on God"
+  },
+  {
+    "id": 6298,
+    "topic": "Substance and Modes",
+    "premise": "mind|body|created|substances",
+    "conclusion": "Mind and body are created substances"
+  },
+  {
+    "id": 6299,
+    "topic": "Substance and Modes",
+    "premise": "modes|variable|states|substances",
+    "conclusion": "Modes are variable states of substances"
+  },
+  {
+    "id": 6300,
+    "topic": "Substance and Modes",
+    "premise": "attributes|express|substance|essence",
+    "conclusion": "Attributes express a substance's essence"
+  },
+  {
+    "id": 6301,
+    "topic": "Substance and Modes",
+    "premise": "alone|substance|strictest|sense",
+    "conclusion": "God alone is a substance in the strictest sense"
+  },
+  {
+    "id": 6302,
+    "topic": "Freedom of the Will",
+    "premise": "hallmark|human|freedom",
+    "conclusion": "Will is the hallmark of human freedom"
+  },
+  {
+    "id": 6303,
+    "topic": "Freedom of the Will",
+    "premise": "freedom|increases|knowledge",
+    "conclusion": "Freedom increases with knowledge"
+  },
+  {
+    "id": 6304,
+    "topic": "Freedom of the Will",
+    "premise": "indifference|defect|ideal|form|freedom",
+    "conclusion": "Indifference is a defect, not an ideal form of freedom"
+  },
+  {
+    "id": 6305,
+    "topic": "Freedom of the Will",
+    "premise": "freedom|absolute|human|derivative",
+    "conclusion": "God's freedom is absolute; human freedom is derivative"
+  },
+  {
+    "id": 6306,
+    "topic": "Freedom of the Will",
+    "premise": "freedom|compatible|divine|foreknowledge",
+    "conclusion": "Freedom is compatible with divine foreknowledge"
+  },
+  {
+    "id": 6307,
+    "topic": "Divine Conservation of Motion",
+    "premise": "conserves|quantity|motion|universe",
+    "conclusion": "God conserves the same quantity of motion in the universe"
+  },
+  {
+    "id": 6308,
+    "topic": "Divine Conservation of Motion",
+    "premise": "conservation|continuous|time|creation",
+    "conclusion": "Conservation is continuous, not a one-time creation"
+  },
+  {
+    "id": 6309,
+    "topic": "Divine Conservation of Motion",
+    "premise": "natural|laws|reflect|divine|constancy",
+    "conclusion": "Natural laws reflect divine constancy"
+  },
+  {
+    "id": 6310,
+    "topic": "Divine Conservation of Motion",
+    "premise": "physical|change|orderly|governance",
+    "conclusion": "Physical change is orderly because of God's governance"
+  },
+  {
+    "id": 6311,
+    "topic": "Divine Conservation of Motion",
+    "premise": "violations|conservation|imply|divine|inconsistency",
+    "conclusion": "Violations of conservation would imply divine inconsistency"
+  },
+  {
+    "id": 6312,
+    "topic": "Dreams vs Waking Life",
+    "premise": "dream|experiences|resemble|waking",
+    "conclusion": "Dream experiences resemble waking experiences"
+  },
+  {
+    "id": 6313,
+    "topic": "Dreams vs Waking Life",
+    "premise": "certain|mark|distinguishing|dream|wake",
+    "conclusion": "There is no certain mark distinguishing dream from wake"
+  },
+  {
+    "id": 6314,
+    "topic": "Dreams vs Waking Life",
+    "premise": "dream|argument|undermines|sensory|certainty",
+    "conclusion": "Dream argument undermines sensory certainty"
+  },
+  {
+    "id": 6315,
+    "topic": "Dreams vs Waking Life",
+    "premise": "mathematics|remains|true|whether|dreamt|awake",
+    "conclusion": "Mathematics remains true whether dreamt or awake"
+  },
+  {
+    "id": 6316,
+    "topic": "Dreams vs Waking Life",
+    "premise": "cogito|survives|dream|doubt",
+    "conclusion": "Only the Cogito survives the dream doubt"
+  },
+  {
+    "id": 6317,
+    "topic": "Criterion of Certainty",
+    "premise": "certainty|requires|indubitability",
+    "conclusion": "Certainty requires indubitability"
+  },
+  {
+    "id": 6318,
+    "topic": "Criterion of Certainty",
+    "premise": "mind|achieves|certainty|clear|distinct|ideas",
+    "conclusion": "The mind achieves certainty through clear and distinct ideas"
+  },
+  {
+    "id": 6319,
+    "topic": "Criterion of Certainty",
+    "premise": "sensory|beliefs|fall|short|certainty",
+    "conclusion": "Sensory beliefs fall short of certainty"
+  },
+  {
+    "id": 6320,
+    "topic": "Criterion of Certainty",
+    "premise": "mathematics|cogito|meet|standard",
+    "conclusion": "Mathematics and the Cogito meet the standard"
+  },
+  {
+    "id": 6321,
+    "topic": "Criterion of Certainty",
+    "premise": "divine|deception|grounds|lasting|certainty",
+    "conclusion": "Divine non-deception grounds lasting certainty"
+  },
+  {
+    "id": 6322,
+    "topic": "Algebraic Method and Notation",
+    "premise": "algebra|universal|language|geometric|reasoning|expressed",
+    "conclusion": "Algebra is the universal language in which all geometric reasoning can be expressed"
+  },
+  {
+    "id": 6323,
+    "topic": "Algebraic Method and Notation",
+    "premise": "power|algebra|lies|generality|symbolic|manipulation",
+    "conclusion": "The power of algebra lies in its generality: one symbolic manipulation applies to infinitely many cases"
+  },
+  {
+    "id": 6324,
+    "topic": "Algebraic Method and Notation",
+    "premise": "unknowns|denoted|letters|near|alphabet|constants",
+    "conclusion": "Unknowns should be denoted with letters near the end of the alphabet; constants with letters at the beginning"
+  },
+  {
+    "id": 6325,
+    "topic": "Algebraic Method and Notation",
+    "premise": "exponents|written|superscripts|rather|literal|repeated",
+    "conclusion": "Exponents should be written as superscripts rather than literal repeated multiplication"
+  },
+  {
+    "id": 6326,
+    "topic": "Algebraic Method and Notation",
+    "premise": "polynomial|equations|encode|geometric|operations|thus",
+    "conclusion": "Polynomial equations encode geometric operations; thus geometry is a species of algebra"
+  },
+  {
+    "id": 6327,
+    "topic": "Algebraic Method and Notation",
+    "premise": "equations|higher|degree|correspond|geometrically|complex",
+    "conclusion": "Equations of higher degree correspond to geometrically more complex curves"
+  },
+  {
+    "id": 6328,
+    "topic": "Algebraic Method and Notation",
+    "premise": "negative|roots|correspond|magnitudes|geometry|still",
+    "conclusion": "Negative roots do not correspond to magnitudes in geometry but are still algebraically meaningful"
+  },
+  {
+    "id": 6329,
+    "topic": "Algebraic Method and Notation",
+    "premise": "single|algebraic|equation|represents|entire|class",
+    "conclusion": "A single algebraic equation represents an entire class of geometric curves"
+  },
+  {
+    "id": 6330,
+    "topic": "Algebraic Method and Notation",
+    "premise": "algebra|reveals|hidden|symmetries|geometric|figures",
+    "conclusion": "Algebra reveals hidden symmetries in geometric figures better than classical construction"
+  },
+  {
+    "id": 6331,
+    "topic": "Algebraic Method and Notation",
+    "premise": "algebraic|manipulation|reduce|number|geometric|constructions",
+    "conclusion": "Algebraic manipulation can reduce the number of geometric constructions required in a proof"
+  },
+  {
+    "id": 6332,
+    "topic": "Geometry and Curves",
+    "premise": "curve|geometric|opposed|mechanical|described|finite",
+    "conclusion": "A curve is \"geometric\" (as opposed to mechanical) if it can be described by a finite algebraic equation"
+  },
+  {
+    "id": 6333,
+    "topic": "Geometry and Curves",
+    "premise": "transcendental|curves|generated|continuous|mechanical|motion",
+    "conclusion": "Transcendental curves (generated by continuous mechanical motion) should be excluded from classical geometry"
+  },
+  {
+    "id": 6334,
+    "topic": "Geometry and Curves",
+    "premise": "curves|equal|degree|considered|fundamentally|related",
+    "conclusion": "Curves of equal degree should be considered fundamentally related"
+  },
+  {
+    "id": 6335,
+    "topic": "Geometry and Curves",
+    "premise": "surfaces|like|curves|classifiable|equations|three",
+    "conclusion": "Surfaces, like curves, should be classifiable by equations in three unknowns"
+  },
+  {
+    "id": 6336,
+    "topic": "Geometry and Curves",
+    "premise": "tangents|curves|derivable|systematic|analytic|procedures",
+    "conclusion": "Tangents to curves should be derivable by systematic analytic procedures, not ad hoc geometric tricks"
+  },
+  {
+    "id": 6337,
+    "topic": "Geometry and Curves",
+    "premise": "point|location|described|coordinates|relative|fixed",
+    "conclusion": "A point's location must be described by coordinates relative to fixed axes"
+  },
+  {
+    "id": 6338,
+    "topic": "Geometry and Curves",
+    "premise": "study|curvature|requires|analyzing|infinitesimal|changes",
+    "conclusion": "The study of curvature requires analyzing infinitesimal changes in direction"
+  },
+  {
+    "id": 6339,
+    "topic": "Geometry and Curves",
+    "premise": "intersection|points|curves|correspond|solutions|simultaneous",
+    "conclusion": "Intersection points of curves correspond to solutions of simultaneous equations"
+  },
+  {
+    "id": 6340,
+    "topic": "Geometry and Curves",
+    "premise": "lines|degree|curves|conics|higher|generate",
+    "conclusion": "Lines are degree-1 curves; conics are degree-2; higher-degree curves generate entirely new geometric categories"
+  },
+  {
+    "id": 6341,
+    "topic": "Geometry and Curves",
+    "premise": "classical|euclidean|problem|expressible|equation|solving",
+    "conclusion": "Any classical Euclidean problem should be expressible as an equation-solving task"
+  },
+  {
+    "id": 6342,
+    "topic": "Polynomials and Equations",
+    "premise": "admissible|operations|algebra|correspond|geometrically|valid",
+    "conclusion": "The admissible operations in algebra correspond to geometrically valid constructions"
+  },
+  {
+    "id": 6343,
+    "topic": "Polynomials and Equations",
+    "premise": "general|algebraic|solution|polynomial|equations|fourth",
+    "conclusion": "There is no general algebraic solution for polynomial equations above the fourth degree using ruler and compass"
+  },
+  {
+    "id": 6344,
+    "topic": "Polynomials and Equations",
+    "premise": "roots|degree|polynomials|appear|symmetric|pairs",
+    "conclusion": "Roots of even-degree polynomials appear in symmetric pairs"
+  },
+  {
+    "id": 6345,
+    "topic": "Polynomials and Equations",
+    "premise": "polynomial|sign|changes|constrain|possible|positive",
+    "conclusion": "A polynomial's sign changes constrain its possible positive roots"
+  },
+  {
+    "id": 6346,
+    "topic": "Polynomials and Equations",
+    "premise": "complex|roots|come|conjugate|pairs",
+    "conclusion": "Complex roots must come in conjugate pairs"
+  },
+  {
+    "id": 6347,
+    "topic": "Polynomials and Equations",
+    "premise": "factorization|polynomial|corresponds|decomposition|geometric|figure",
+    "conclusion": "Factorization of a polynomial corresponds to decomposition of a geometric figure"
+  },
+  {
+    "id": 6348,
+    "topic": "Polynomials and Equations",
+    "premise": "polynomial|degree|expresses|possible|intersections|associated",
+    "conclusion": "A polynomial of degree n expresses all possible intersections of its associated curve with a line"
+  },
+  {
+    "id": 6349,
+    "topic": "Polynomials and Equations",
+    "premise": "solving|equations|intrinsically|connected|constructing|geometric",
+    "conclusion": "Solving equations is intrinsically connected to constructing geometric diagrams"
+  },
+  {
+    "id": 6350,
+    "topic": "Polynomials and Equations",
+    "premise": "polynomial|equations|reflect|operations|magnitudes|merely",
+    "conclusion": "Polynomial equations reflect operations on magnitudes and not merely symbolic manipulations"
+  },
+  {
+    "id": 6351,
+    "topic": "Polynomials and Equations",
+    "premise": "extraneous|roots|arise|algebraic|transformations|licensed",
+    "conclusion": "Extraneous roots arise from algebraic transformations not licensed by geometry"
+  },
+  {
+    "id": 6352,
+    "topic": "Coordinates and Representation",
+    "premise": "geometric|locus|representable|algebraic|condition",
+    "conclusion": "Every geometric locus should be representable by an algebraic condition"
+  },
+  {
+    "id": 6353,
+    "topic": "Coordinates and Representation",
+    "premise": "geometry|simplified|reducing|figures|coordinate|descriptions",
+    "conclusion": "Geometry is simplified by reducing all figures to coordinate descriptions"
+  },
+  {
+    "id": 6354,
+    "topic": "Coordinates and Representation",
+    "premise": "rotations|translations|axes|change|essential|nature",
+    "conclusion": "Rotations and translations of axes do not change the essential nature of the figure"
+  },
+  {
+    "id": 6355,
+    "topic": "Coordinates and Representation",
+    "premise": "distances|computable|coordinate|differences|algebraic|rules",
+    "conclusion": "Distances are computable from coordinate differences via algebraic rules"
+  },
+  {
+    "id": 6356,
+    "topic": "Coordinates and Representation",
+    "premise": "curve|classification|invariant|coordinate|change",
+    "conclusion": "Curve classification is invariant under coordinate change"
+  },
+  {
+    "id": 6357,
+    "topic": "Coordinates and Representation",
+    "premise": "curve|essential|nature|fixed|equation|change",
+    "conclusion": "A curve's essential nature is fixed by its equation up to change of axes"
+  },
+  {
+    "id": 6358,
+    "topic": "Coordinates and Representation",
+    "premise": "parametric|descriptions|unnecessary|algebraic|available",
+    "conclusion": "Parametric descriptions are unnecessary when algebraic descriptions are available"
+  },
+  {
+    "id": 6359,
+    "topic": "Coordinates and Representation",
+    "premise": "symmetry|properties|figures|become|algebraically|transparent",
+    "conclusion": "Symmetry properties of figures become algebraically transparent in coordinate form"
+  },
+  {
+    "id": 6360,
+    "topic": "Coordinates and Representation",
+    "premise": "translating|geometry|algebra|eliminates|reliance|visual",
+    "conclusion": "Translating geometry into algebra eliminates reliance on visual intuition"
+  },
+  {
+    "id": 6361,
+    "topic": "Coordinates and Representation",
+    "premise": "coordinate|methods|produce|generality|synthetic|euclidean",
+    "conclusion": "Coordinate methods produce more generality than synthetic Euclidean proofs"
+  },
+  {
+    "id": 6362,
+    "topic": "Mathematical Methodology",
+    "premise": "mathematical|problems|reduced|simplest|algebraic|form",
+    "conclusion": "Mathematical problems should be reduced to their simplest algebraic form before attempting solution"
+  },
+  {
+    "id": 6363,
+    "topic": "Mathematical Methodology",
+    "premise": "value|geometric|construction|lies|reproducibility|algebraic",
+    "conclusion": "The value of a geometric construction lies in its reproducibility by algebraic means"
+  },
+  {
+    "id": 6364,
+    "topic": "Mathematical Methodology",
+    "premise": "proceed|simple|complex|lines|conics|higher",
+    "conclusion": "One should proceed from simple to complex: from lines to conics to higher curves"
+  },
+  {
+    "id": 6365,
+    "topic": "Mathematical Methodology",
+    "premise": "mathematics|employ|uniform|method|across|subfields",
+    "conclusion": "Mathematics should employ a uniform method across all subfields"
+  },
+  {
+    "id": 6366,
+    "topic": "Mathematical Methodology",
+    "premise": "mechanical|curves|excluded|rigorous|mathematics|generating",
+    "conclusion": "Mechanical curves should be excluded from rigorous mathematics because their generating motions lack algebraic description"
+  },
+  {
+    "id": 6367,
+    "topic": "Mathematical Methodology",
+    "premise": "algebraic|analysis|precede|geometric|construction|problem",
+    "conclusion": "Algebraic analysis should precede geometric construction in every problem"
+  },
+  {
+    "id": 6368,
+    "topic": "Mathematical Methodology",
+    "premise": "complete|method|allow|classification|solution|first",
+    "conclusion": "A complete method must allow classification and solution of all first-degree and second-degree problems"
+  },
+  {
+    "id": 6369,
+    "topic": "Mathematical Methodology",
+    "premise": "higher|degree|problems|require|tools|beyond",
+    "conclusion": "Higher-degree problems require tools beyond ruler-and-compass construction"
+  },
+  {
+    "id": 6370,
+    "topic": "Mathematical Methodology",
+    "premise": "admissible|operations|preserve|geometric|meaning|magnitudes",
+    "conclusion": "All admissible operations must preserve the geometric meaning of magnitudes"
+  },
+  {
+    "id": 6371,
+    "topic": "Mathematical Methodology",
+    "premise": "mathematical|solutions|correct|correspond|geometrically|realizable",
+    "conclusion": "Mathematical solutions are correct only if they correspond to geometrically realizable constructions"
+  }
+]

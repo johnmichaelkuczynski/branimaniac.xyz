@@ -1,0 +1,71 @@
+{
+  "metadata": {
+    "author": "Bertrand Russell",
+    "version": "RUSSELL_v1_COMPLETE",
+    "totalPositions": 150,
+    "domains": ["EPISTEMOLOGY", "METAPHYSICS", "PHIL_MATHEMATICS", "PHIL_MIND", "PHIL_LANGUAGE", "LOGIC", "POLITICAL_PHIL"],
+    "extractionDate": "2025-01-19",
+    "sourceWorks": [
+      "The Problems of Philosophy",
+      "An Essay on the Foundations of Geometry",
+      "Our Knowledge of the External World",
+      "Introduction to Mathematical Philosophy",
+      "The Analysis of Mind",
+      "Mysticism and Logic",
+      "Principles of Social Reconstruction"
+    ]
+  },
+  "positions": [
+    {
+      "positionId": "RUSSELL-EPIST-001",
+      "domain": "EPISTEMOLOGY",
+      "title": "The Distinction Between Knowledge by Acquaintance and Knowledge by Description",
+      "thesis": "All knowledge ultimately rests on knowledge by acquaintance with particulars (sense-data, memory, self) and universals, while knowledge by description is derivative and involves both acquaintance and knowledge of truths.",
+      "keyArguments": [
+        "We are directly acquainted with sense-data (colors, sounds, hardnesses) without inference",
+        "We are also acquainted with universals (whiteness, resemblance, before/after relations)",
+        "Physical objects are known only by description as 'causes of sense-data'",
+        "Other minds are known by description, not acquaintance",
+        "Descriptions like 'the so-and-so' denote objects we are not acquainted with"
+      ],
+      "sourceWork": "The Problems of Philosophy",
+      "sourceLocation": "Chapter V",
+      "significance": "FOUNDATIONAL - Grounds empiricism while avoiding skepticism",
+      "relatedConcepts": ["sense-data", "universals", "definite descriptions", "theory of reference"]
+    },
+    {
+      "positionId": "RUSSELL-EPIST-002",
+      "domain": "EPISTEMOLOGY",
+      "title": "The Theory of Sense-Data",
+      "thesis": "Immediate perceptual experience consists of sense-data (colors, shapes, sounds) that are distinct from physical objects; what we are directly aware of in perception are sense-data, not the physical objects themselves.",
+      "keyArguments": [
+        "A table appears different colors from different angles, but we believe it has one 'real' color",
+        "The apparent shape changes with viewpoint, though the 'real' shape stays constant",
+        "Different observers see different distributions of color on the same object",
+        "Sense-data are what is immediately known; physical objects are inferred",
+        "The real table, if it exists, must be distinct from all sense-data of it"
+      ],
+      "sourceWork": "The Problems of Philosophy",
+      "sourceLocation": "Chapter I",
+      "significance": "FOUNDATIONAL - Solves the problem of perceptual variation while maintaining realism",
+      "relatedConcepts": ["appearance vs reality", "phenomenalism", "naive realism"]
+    },
+    {
+      "positionId": "RUSSELL-EPIST-003",
+      "domain": "EPISTEMOLOGY",
+      "title": "The Problem of Induction Cannot Be Solved by Experience",
+      "thesis": "Inductive reasoning (inferring future from past) cannot be justified by experience alone, since any experiential justification would itself be circular; induction must be accepted as an independent logical principle.",
+      "keyArguments": [
+        "Past uniformities do not logically entail future uniformities",
+        "The principle 'the future will resemble the past' cannot be proved from experience",
+        "Any attempt to justify induction from experience assumes induction",
+        "Induction is a synthetic a priori principle, not derivable from logic alone",
+        "Without induction, all scientific knowledge would be impossible"
+      ],
+      "sourceWork": "The Problems of Philosophy",
+      "sourceLocation": "Chapter VI",
+      "significance": "CRITICAL_PROBLEM - Identifies fundamental challenge to empiricism",
+      "relatedConcepts": ["problem of induction", "Hume", "uniformity of nature"]
+    }
+  ]
+}

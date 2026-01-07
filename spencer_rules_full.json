@@ -1,0 +1,1802 @@
+[
+  {
+    "id": 1,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "knowledge|limited|phenomena|cannot|know|nature",
+    "conclusion": "All knowledge is limited to phenomena; we cannot know the nature of reality in itself (the \"Unknowable\")"
+  },
+  {
+    "id": 2,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "exists|unknowable|ultimate|reality|underlying|phenomena",
+    "conclusion": "There exists an \"Unknowable\" ultimate reality underlying all phenomena"
+  },
+  {
+    "id": 3,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "force|behind|cosmic|evolution|unknown|unknowable",
+    "conclusion": "The force behind cosmic evolution is unknown and unknowable"
+  },
+  {
+    "id": 4,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "human|understanding|capable|relative|knowledge|absolute",
+    "conclusion": "Human understanding is capable only of \"relative\" knowledge, not absolute knowledge"
+  },
+  {
+    "id": 5,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "space|time|force|motion|substance|cannot",
+    "conclusion": "Space, time, force, motion, and substance cannot be completely known in their ultimate nature"
+  },
+  {
+    "id": 6,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "science|religion|reconciled|shared|acknowledgment|unknowable",
+    "conclusion": "Science and religion can be reconciled through shared acknowledgment of the Unknowable"
+  },
+  {
+    "id": 7,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "ultimate|scientific|religious|ideas|cannot|fully",
+    "conclusion": "Ultimate scientific and religious ideas cannot be fully rationally established"
+  },
+  {
+    "id": 8,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "unknowable|represents|final|evolutionary|stage|religion",
+    "conclusion": "The Unknowable represents the final evolutionary stage of religion\u2014the elimination of anthropomorphic vestiges"
+  },
+  {
+    "id": 9,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "worship|unknowable|serve|positive|basis|religious",
+    "conclusion": "Worship of the Unknowable can serve as a positive basis for religious sentiment"
+  },
+  {
+    "id": 10,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "knowledge|subject|change|known|process|evolution",
+    "conclusion": "Knowledge is subject to change because that which is known is in a process of evolution"
+  },
+  {
+    "id": 11,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "empirical|demonstration|required|knowledge|about|phenomena",
+    "conclusion": "Empirical demonstration is required for knowledge about phenomena"
+  },
+  {
+    "id": 12,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "starting|either|religion|science|driven|accept",
+    "conclusion": "Starting from either religion or science, we are driven to accept inconceivable notions"
+  },
+  {
+    "id": 13,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|universal|applying|phenomena|physical|biological",
+    "conclusion": "Evolution is a universal law applying to all phenomena\u2014physical, biological, psychological, and social"
+  },
+  {
+    "id": 14,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|proceeds|simple|undifferentiated|homogeneity|complex",
+    "conclusion": "Evolution proceeds from simple, undifferentiated homogeneity to complex, differentiated heterogeneity"
+  },
+  {
+    "id": 15,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|involves|increasing|integration|differentiated|parts",
+    "conclusion": "Evolution involves increasing integration of differentiated parts"
+  },
+  {
+    "id": 16,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|integration|matter|concomitant|dissipation|motion",
+    "conclusion": "Evolution is \"an integration of matter and concomitant dissipation of motion\""
+  },
+  {
+    "id": 17,
+    "topic": "General Evolutionary Theory",
+    "premise": "natural|laws|reduced|fundamental|evolution",
+    "conclusion": "All natural laws can be reduced to one fundamental law: the law of evolution"
+  },
+  {
+    "id": 18,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|direction|endpoint|attainment|final|state",
+    "conclusion": "Evolution has a direction and endpoint\u2014the attainment of a final state of equilibrium"
+  },
+  {
+    "id": 19,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|applies|equally|stars|galaxies|organisms",
+    "conclusion": "The law of evolution applies equally to stars, galaxies, organisms, minds, and societies"
+  },
+  {
+    "id": 20,
+    "topic": "General Evolutionary Theory",
+    "premise": "progress|accidental|necessary",
+    "conclusion": "Progress is not accidental but necessary"
+  },
+  {
+    "id": 21,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|applies|cosmos|universal|process",
+    "conclusion": "Evolution applies to the cosmos as a universal process"
+  },
+  {
+    "id": 22,
+    "topic": "General Evolutionary Theory",
+    "premise": "dissolution|reverse|evolution|universal|process|undoes",
+    "conclusion": "Dissolution (the reverse of evolution) is also a universal process that undoes evolved forms"
+  },
+  {
+    "id": 23,
+    "topic": "General Evolutionary Theory",
+    "premise": "persistence|force|fundamental|matter|evolutionary|processes",
+    "conclusion": "The persistence of force is a fundamental law of matter from which evolutionary processes follow"
+  },
+  {
+    "id": 24,
+    "topic": "Biological Evolution",
+    "premise": "lamarckian|inheritance|acquired|characteristics|primary|mechanism",
+    "conclusion": "Lamarckian inheritance of acquired characteristics is a primary mechanism of evolution"
+  },
+  {
+    "id": 25,
+    "topic": "Biological Evolution",
+    "premise": "organs|develop|diminish|disuse",
+    "conclusion": "Organs develop or diminish through use or disuse"
+  },
+  {
+    "id": 26,
+    "topic": "Biological Evolution",
+    "premise": "acquired|characteristics|transmitted|future|generations",
+    "conclusion": "Acquired characteristics can be transmitted to future generations"
+  },
+  {
+    "id": 27,
+    "topic": "Biological Evolution",
+    "premise": "natural|selection|secondary|mechanism|evolution|less",
+    "conclusion": "Natural selection is a secondary mechanism of evolution, less important than use-inheritance"
+  },
+  {
+    "id": 28,
+    "topic": "Biological Evolution",
+    "premise": "spencer|coined|phrase|survival|fittest|darwin",
+    "conclusion": "Spencer coined the phrase \"survival of the fittest\" (before Darwin adopted it)"
+  },
+  {
+    "id": 29,
+    "topic": "Biological Evolution",
+    "premise": "evolution|explains|higher|developments|especially|social",
+    "conclusion": "Evolution explains \"higher\" developments, especially social development of humanity"
+  },
+  {
+    "id": 30,
+    "topic": "Biological Evolution",
+    "premise": "biological|organisms|evolve|simple|complex|forms",
+    "conclusion": "Biological organisms evolve from simple to complex forms"
+  },
+  {
+    "id": 31,
+    "topic": "Biological Evolution",
+    "premise": "physiological|units|responsible|transmission|characteristics|offspring",
+    "conclusion": "Physiological \"units\" are responsible for transmission of characteristics to offspring"
+  },
+  {
+    "id": 32,
+    "topic": "Biological Evolution",
+    "premise": "primary|evolutionary|mechanism|direct|equilibration|inheritance",
+    "conclusion": "The primary evolutionary mechanism is \"direct equilibration\" (use-inheritance)"
+  },
+  {
+    "id": 33,
+    "topic": "Biological Evolution",
+    "premise": "indirect|equilibration|natural|selection|plays|supporting",
+    "conclusion": "\"Indirect equilibration\" (natural selection) plays a supporting role in evolution"
+  },
+  {
+    "id": 34,
+    "topic": "Biological Evolution",
+    "premise": "species|transformation|results|primarily|inherited|functional",
+    "conclusion": "Species transformation results primarily from inherited functional modifications"
+  },
+  {
+    "id": 35,
+    "topic": "Biological Evolution",
+    "premise": "evolution|produces|greater|specialization|individuation|organisms",
+    "conclusion": "Evolution produces greater specialization and individuation in organisms"
+  },
+  {
+    "id": 36,
+    "topic": "Psychology",
+    "premise": "human|mind|subject|natural|laws|discoverable",
+    "conclusion": "The human mind is subject to natural laws discoverable within general biology"
+  },
+  {
+    "id": 37,
+    "topic": "Psychology",
+    "premise": "psychology|approached|developmental|evolutionary|perspective",
+    "conclusion": "Psychology should be approached from a developmental and evolutionary perspective"
+  },
+  {
+    "id": 38,
+    "topic": "Psychology",
+    "premise": "mental|evolution|occurs|individual|species|racial",
+    "conclusion": "Mental evolution occurs at individual, species, and racial levels"
+  },
+  {
+    "id": 39,
+    "topic": "Psychology",
+    "premise": "repeated|associations|ideas|become|embodied|specific",
+    "conclusion": "Repeated associations of ideas become embodied in specific strands of brain tissue"
+  },
+  {
+    "id": 40,
+    "topic": "Psychology",
+    "premise": "mental|associations|inherited|lamarckian|inheritance",
+    "conclusion": "Mental associations can be inherited through Lamarckian use-inheritance"
+  },
+  {
+    "id": 41,
+    "topic": "Psychology",
+    "premise": "feelings|class|mental|elements|distinct|sensations",
+    "conclusion": "Feelings are a class of mental elements distinct from sensations"
+  },
+  {
+    "id": 42,
+    "topic": "Psychology",
+    "premise": "nervous|shocks|bursts|activity|basic|units",
+    "conclusion": "Nervous \"shocks\" (bursts of nervous activity) are the basic units of consciousness"
+  },
+  {
+    "id": 43,
+    "topic": "Psychology",
+    "premise": "relations|feelings|felt|exist",
+    "conclusion": "Relations between feelings are felt but can only exist between two feelings"
+  },
+  {
+    "id": 44,
+    "topic": "Psychology",
+    "premise": "mind|develops|correspondence|internal|external|relations",
+    "conclusion": "The mind develops through correspondence between internal and external relations"
+  },
+  {
+    "id": 45,
+    "topic": "Psychology",
+    "premise": "associationist|psychology|phrenology|partial|truths|reconciled",
+    "conclusion": "Associationist psychology and phrenology are both partial truths that can be reconciled"
+  },
+  {
+    "id": 46,
+    "topic": "Psychology",
+    "premise": "mental|faculties|evolved|promote|survival|adaptation",
+    "conclusion": "Mental faculties evolved to promote survival and adaptation"
+  },
+  {
+    "id": 47,
+    "topic": "Psychology",
+    "premise": "human|psychology|represents|culmination|evolutionary|development",
+    "conclusion": "Human psychology represents the culmination of evolutionary development"
+  },
+  {
+    "id": 48,
+    "topic": "Psychology",
+    "premise": "consciousness|exists|individual|member|society|whole",
+    "conclusion": "Consciousness exists in each individual member of society, not in society as a whole"
+  },
+  {
+    "id": 49,
+    "topic": "Psychology",
+    "premise": "intelligence|involves|adjustment|internal|relations|external",
+    "conclusion": "Intelligence involves adjustment of internal relations to external relations"
+  },
+  {
+    "id": 50,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "happiness|ultimate|contemplated|utilitarian|standard",
+    "conclusion": "Happiness is the ultimate end to be contemplated (utilitarian standard)"
+  },
+  {
+    "id": 51,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "happiness|proximate|moral|conduct|follow|principles",
+    "conclusion": "Happiness should not be the proximate end\u2014moral conduct should follow from principles"
+  },
+  {
+    "id": 52,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "greatest|happiness|number|ultimate|standard|value",
+    "conclusion": "The greatest happiness of the greatest number is the ultimate standard of value"
+  },
+  {
+    "id": 53,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "morality|science|deduce|laws|conduct|life",
+    "conclusion": "Morality is a science that can deduce laws of conduct from laws of life"
+  },
+  {
+    "id": 54,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "exists|innate|moral|sense|humans|arrive",
+    "conclusion": "There exists an innate \"moral sense\" by which humans arrive at moral intuitions"
+  },
+  {
+    "id": 55,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "good|defined|pleasurable|painful|consequences",
+    "conclusion": "Good and bad are defined by pleasurable or painful consequences"
+  },
+  {
+    "id": 56,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "moral|intuitions|become|biologically|inheritable|evolution",
+    "conclusion": "Moral intuitions become biologically inheritable through evolution"
+  },
+  {
+    "id": 57,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "pleasure|producing|activities|generate|inheritable|associations",
+    "conclusion": "Pleasure-producing activities generate inheritable associations between actions and approval"
+  },
+  {
+    "id": 58,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "utilitarianism|gradually|becomes|intuitive|evolutionary|development",
+    "conclusion": "Utilitarianism gradually becomes intuitive through evolutionary development"
+  },
+  {
+    "id": 59,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "absolute|ethics|provides|scientifically|grounded|moral",
+    "conclusion": "\"Absolute Ethics\" provides a scientifically grounded moral system"
+  },
+  {
+    "id": 60,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "relative|ethics|accounts|present|moral|imperfections",
+    "conclusion": "\"Relative Ethics\" accounts for our present moral imperfections"
+  },
+  {
+    "id": 61,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "altruism|compassion|beyond|family|recently|evolved",
+    "conclusion": "Altruism and compassion beyond family are recently evolved sentiments in humans"
+  },
+  {
+    "id": 62,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "sympathy|single|important|component|justice",
+    "conclusion": "Sympathy is the single most important component of justice"
+  },
+  {
+    "id": 63,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "moral|rights|indefeasible|unlike|mill|view",
+    "conclusion": "Moral rights are indefeasible (unlike Mill's view that they are defeasible)"
+  },
+  {
+    "id": 64,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "rational|egoists|pursuing|self|interest|fundamentally",
+    "conclusion": "Rational egoists pursuing self-interest will not fundamentally conflict with one another"
+  },
+  {
+    "id": 65,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "caring|unrelated|oneself|encourages|laziness|works",
+    "conclusion": "Caring for those unrelated to oneself encourages laziness and works against evolution"
+  },
+  {
+    "id": 66,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "moral|progress|occurs|empirical|utilitarianism|gives",
+    "conclusion": "Moral progress occurs as \"empirical utilitarianism\" gives way to \"rational utilitarianism\""
+  },
+  {
+    "id": 67,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "culmination|evolution|maximization|utility",
+    "conclusion": "The culmination of evolution will be the maximization of utility"
+  },
+  {
+    "id": 68,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "perfect|society|individuals|derive|pleasure|exercising",
+    "conclusion": "In the perfect society, individuals will derive pleasure from exercising altruism"
+  },
+  {
+    "id": 69,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "conduct|restrained|within|equal|freedom|promotes",
+    "conclusion": "Conduct restrained within equal freedom promotes harmonious cooperation"
+  },
+  {
+    "id": 70,
+    "topic": "Political Philosophy",
+    "premise": "equal|freedom|person|provided|infringe|others",
+    "conclusion": "\"Law of Equal Freedom\": Every person has freedom to do all they will, provided they don't infringe equal freedom of others"
+  },
+  {
+    "id": 71,
+    "topic": "Political Philosophy",
+    "premise": "liberty|means|absence|coercion",
+    "conclusion": "Liberty means the absence of coercion"
+  },
+  {
+    "id": 72,
+    "topic": "Political Philosophy",
+    "premise": "state|essential|institution|decay|over|time",
+    "conclusion": "The state is not an \"essential\" institution and will decay over time"
+  },
+  {
+    "id": 73,
+    "topic": "Political Philosophy",
+    "premise": "voluntary|market|organization|replace|coercive|aspects",
+    "conclusion": "Voluntary market organization will replace coercive aspects of the state"
+  },
+  {
+    "id": 74,
+    "topic": "Political Philosophy",
+    "premise": "individuals|right|ignore|state|early|view",
+    "conclusion": "Individuals have a \"right to ignore the state\" (early view, later abandoned)"
+  },
+  {
+    "id": 75,
+    "topic": "Political Philosophy",
+    "premise": "government|legitimate|function|policing|protection|individual",
+    "conclusion": "Government's only legitimate function is policing and protection of individual rights"
+  },
+  {
+    "id": 76,
+    "topic": "Political Philosophy",
+    "premise": "education|religion|economy|care|sick|undertaken",
+    "conclusion": "Education, religion, economy, and care for the sick should not be undertaken by the state"
+  },
+  {
+    "id": 77,
+    "topic": "Political Philosophy",
+    "premise": "public|authority|exist|administration|justice|equated",
+    "conclusion": "Law and public authority exist for administration of justice (equated with freedom and rights protection)"
+  },
+  {
+    "id": 78,
+    "topic": "Political Philosophy",
+    "premise": "parliamentary|government|exhibits|virtual|divine|right",
+    "conclusion": "Parliamentary government exhibits a virtual \"divine right\" claiming unbounded power"
+  },
+  {
+    "id": 79,
+    "topic": "Political Philosophy",
+    "premise": "political|association|model|joint|stock|company",
+    "conclusion": "Political association should model a \"joint stock company\" requiring explicit shareholder consent"
+  },
+  {
+    "id": 80,
+    "topic": "Political Philosophy",
+    "premise": "parliaments|imposing|conceptions|good|different|tyrannies",
+    "conclusion": "Parliaments imposing conceptions of the good are no different from tyrannies"
+  },
+  {
+    "id": 81,
+    "topic": "Political Philosophy",
+    "premise": "government|action|requires|individual|consent",
+    "conclusion": "Government action requires individual consent"
+  },
+  {
+    "id": 82,
+    "topic": "Political Philosophy",
+    "premise": "laissez|faire|appropriate|economic|policy",
+    "conclusion": "Laissez-faire is the appropriate economic policy"
+  },
+  {
+    "id": 83,
+    "topic": "Political Philosophy",
+    "premise": "government|intervention|causes|problems|solves",
+    "conclusion": "Government intervention causes more problems than it solves"
+  },
+  {
+    "id": 84,
+    "topic": "Political Philosophy",
+    "premise": "regulations|constantly|needed|repair|damage|prior",
+    "conclusion": "New regulations are constantly needed to repair damage from prior interventions"
+  },
+  {
+    "id": 85,
+    "topic": "Political Philosophy",
+    "premise": "socialism|tantamount|slavery|limiting|human|freedom",
+    "conclusion": "Socialism is tantamount to slavery in limiting human freedom"
+  },
+  {
+    "id": 86,
+    "topic": "Political Philosophy",
+    "premise": "imperialism|colonial|expansion|subvert|evolutionary|progress",
+    "conclusion": "Imperialism and colonial expansion subvert evolutionary progress"
+  },
+  {
+    "id": 87,
+    "topic": "Political Philosophy",
+    "premise": "militarism|conscription|unjust|impositions",
+    "conclusion": "Militarism and conscription are unjust impositions"
+  },
+  {
+    "id": 88,
+    "topic": "Political Philosophy",
+    "premise": "private|charity|replace|government|welfare|programs",
+    "conclusion": "Private charity should replace government welfare programs"
+  },
+  {
+    "id": 89,
+    "topic": "Political Philosophy",
+    "premise": "voluntary|association|informal|care|preferred|government",
+    "conclusion": "Voluntary association and informal care are preferred to government bureaucracy"
+  },
+  {
+    "id": 90,
+    "topic": "Political Philosophy",
+    "premise": "century|liberalism|actually|toryism|enemy|liberty",
+    "conclusion": "19th-century \"New Liberalism\" was actually a \"New Toryism\"\u2014enemy of liberty"
+  },
+  {
+    "id": 91,
+    "topic": "Political Philosophy",
+    "premise": "coming|slavery|drift|toward|collectivism|state",
+    "conclusion": "The coming \"slavery\" is the drift toward collectivism and state control"
+  },
+  {
+    "id": 92,
+    "topic": "Rights Theory",
+    "premise": "basic|rights|exist|virtue|human|constitution",
+    "conclusion": "Basic rights exist in virtue of human constitution"
+  },
+  {
+    "id": 93,
+    "topic": "Rights Theory",
+    "premise": "rights|include|life|liberty|property|free",
+    "conclusion": "Rights include life, liberty, property, and free speech"
+  },
+  {
+    "id": 94,
+    "topic": "Rights Theory",
+    "premise": "rights|equal|freedom|women|early|view",
+    "conclusion": "Rights to equal freedom for women (early view)"
+  },
+  {
+    "id": 95,
+    "topic": "Rights Theory",
+    "premise": "universal|suffrage|political|right|early|view",
+    "conclusion": "Universal suffrage as a political right (early view, later abandoned)"
+  },
+  {
+    "id": 96,
+    "topic": "Rights Theory",
+    "premise": "private|land|ownership|incompatible|equal|freedom",
+    "conclusion": "Private land ownership is incompatible with equal freedom (early view, later abandoned)"
+  },
+  {
+    "id": 97,
+    "topic": "Rights Theory",
+    "premise": "citizen|right|earth|early|view",
+    "conclusion": "Every citizen has a right to use of the earth (early view)"
+  },
+  {
+    "id": 98,
+    "topic": "Rights Theory",
+    "premise": "political|rights|interim|devices|moral|imperfection",
+    "conclusion": "\"Political rights\" are interim devices for moral imperfection, not authentic moral rights"
+  },
+  {
+    "id": 99,
+    "topic": "Rights Theory",
+    "premise": "moral|rights|properly|called|specifications|equal",
+    "conclusion": "Moral rights (\"rights properly so-called\") are specifications of equal freedom"
+  },
+  {
+    "id": 100,
+    "topic": "Rights Theory",
+    "premise": "rights|natural|valorize|customs|arising|ameliorate",
+    "conclusion": "Rights are natural in that they valorize customs arising to ameliorate social friction"
+  },
+  {
+    "id": 101,
+    "topic": "Sociology",
+    "premise": "society|analogous|biological|organism|social",
+    "conclusion": "Society is analogous to a biological organism (\"social organism\")"
+  },
+  {
+    "id": 102,
+    "topic": "Sociology",
+    "premise": "society|regulative|system|government|analogous|nervous",
+    "conclusion": "Society has a regulative system (government) analogous to the nervous system"
+  },
+  {
+    "id": 103,
+    "topic": "Sociology",
+    "premise": "society|sustaining|system|industry|analogous|alimentation",
+    "conclusion": "Society has a sustaining system (industry) analogous to alimentation"
+  },
+  {
+    "id": 104,
+    "topic": "Sociology",
+    "premise": "society|distribution|system|roads|telegraphs|analogous",
+    "conclusion": "Society has a distribution system (roads, telegraphs) analogous to veins and arteries"
+  },
+  {
+    "id": 105,
+    "topic": "Sociology",
+    "premise": "society|exists|benefit|members|difference|biological",
+    "conclusion": "Society exists for benefit of its members, not members for society's benefit (key difference from biological organism)"
+  },
+  {
+    "id": 106,
+    "topic": "Sociology",
+    "premise": "social|evolution|proceeds|undifferentiated|hordes|complex",
+    "conclusion": "Social evolution proceeds from undifferentiated hordes to complex civilizations"
+  },
+  {
+    "id": 107,
+    "topic": "Sociology",
+    "premise": "division|labor|mechanism|social|progress",
+    "conclusion": "Division of labor is a key mechanism of social progress"
+  },
+  {
+    "id": 108,
+    "topic": "Sociology",
+    "premise": "types|society|militant|industrial",
+    "conclusion": "There are two types of society: militant and industrial"
+  },
+  {
+    "id": 109,
+    "topic": "Sociology",
+    "premise": "militant|society|structured|around|hierarchy|obedience",
+    "conclusion": "Militant society is structured around hierarchy, obedience, and force"
+  },
+  {
+    "id": 110,
+    "topic": "Sociology",
+    "premise": "industrial|society|based|voluntary|contractual|social",
+    "conclusion": "Industrial society is based on voluntary, contractual social obligations"
+  },
+  {
+    "id": 111,
+    "topic": "Sociology",
+    "premise": "evolution|transforms|militant|societies|industrial",
+    "conclusion": "Evolution transforms militant societies into industrial societies"
+  },
+  {
+    "id": 112,
+    "topic": "Sociology",
+    "premise": "simple|societies|nomadic|differentiation|specialization",
+    "conclusion": "Simple societies are nomadic with low differentiation and specialization"
+  },
+  {
+    "id": 113,
+    "topic": "Sociology",
+    "premise": "compound|societies|result|merger|simple",
+    "conclusion": "Compound societies result from merger of simple societies"
+  },
+  {
+    "id": 114,
+    "topic": "Sociology",
+    "premise": "social|institutions|differentiate|like|organs|developing",
+    "conclusion": "Social institutions differentiate like organs in a developing embryo"
+  },
+  {
+    "id": 115,
+    "topic": "Sociology",
+    "premise": "social|statics|studies|conditions|order",
+    "conclusion": "\"Social statics\" studies conditions of social order"
+  },
+  {
+    "id": 116,
+    "topic": "Sociology",
+    "premise": "social|dynamics|studies|human|progress|evolution",
+    "conclusion": "\"Social dynamics\" studies human progress and evolution"
+  },
+  {
+    "id": 117,
+    "topic": "Sociology",
+    "premise": "religion|originated|worship|ghosts|ancestors",
+    "conclusion": "Religion originated in worship of ghosts or ancestors"
+  },
+  {
+    "id": 118,
+    "topic": "Sociology",
+    "premise": "religious|evolution|progresses|primitive|worship|agnostic",
+    "conclusion": "Religious evolution progresses from primitive worship to agnostic scientific consciousness"
+  },
+  {
+    "id": 119,
+    "topic": "Sociology",
+    "premise": "professional|institutions|illustrate|social|evolution|conforming",
+    "conclusion": "Professional institutions illustrate social evolution conforming to universal evolutionary law"
+  },
+  {
+    "id": 120,
+    "topic": "Economics",
+    "premise": "free|market|competition|improves|well|society",
+    "conclusion": "Free market competition improves well-being of society"
+  },
+  {
+    "id": 121,
+    "topic": "Economics",
+    "premise": "private|enterprise|voluntary|exchange|replace|state",
+    "conclusion": "Private enterprise and voluntary exchange should replace state direction"
+  },
+  {
+    "id": 122,
+    "topic": "Economics",
+    "premise": "fittest|business|enterprises|survive|competition",
+    "conclusion": "The fittest business enterprises survive through competition"
+  },
+  {
+    "id": 123,
+    "topic": "Economics",
+    "premise": "economic|regulation|harms|personal|freedom|prosperity",
+    "conclusion": "Economic regulation harms personal freedom and prosperity"
+  },
+  {
+    "id": 124,
+    "topic": "Economics",
+    "premise": "wage|labor|ideally|replaced|free|worker",
+    "conclusion": "Wage-labor should ideally be replaced by free worker cooperatives (early view)"
+  },
+  {
+    "id": 125,
+    "topic": "Economics",
+    "premise": "trade|unions|legitimate|bulwark|against|exploitation",
+    "conclusion": "Trade unions are a legitimate bulwark against exploitation by bosses"
+  },
+  {
+    "id": 126,
+    "topic": "Economics",
+    "premise": "commerce|trade|generate|independent|sources|freedom",
+    "conclusion": "Commerce and trade generate independent sources of freedom separate from state"
+  },
+  {
+    "id": 127,
+    "topic": "Education",
+    "premise": "science|knowledge|worth",
+    "conclusion": "Science is the knowledge of most worth"
+  },
+  {
+    "id": 128,
+    "topic": "Education",
+    "premise": "study|science|provides|valuable|knowledge",
+    "conclusion": "The study of science provides the most valuable knowledge"
+  },
+  {
+    "id": 129,
+    "topic": "Education",
+    "premise": "traditional|classical|curriculum|humanities|criticized",
+    "conclusion": "Traditional classical curriculum (humanities) should be criticized"
+  },
+  {
+    "id": 130,
+    "topic": "Education",
+    "premise": "self|development|essential|education",
+    "conclusion": "Self-development is essential to education"
+  },
+  {
+    "id": 131,
+    "topic": "Education",
+    "premise": "observation|problem|solving|educational|methods",
+    "conclusion": "Observation and problem-solving are key educational methods"
+  },
+  {
+    "id": 132,
+    "topic": "Education",
+    "premise": "physical|exercise|free|play|important",
+    "conclusion": "Physical exercise and free play are important"
+  },
+  {
+    "id": 133,
+    "topic": "Education",
+    "premise": "discipline|derive|natural|consequences|punishments|imposed",
+    "conclusion": "Discipline should derive from natural consequences, not punishments imposed by teachers"
+  },
+  {
+    "id": 134,
+    "topic": "Education",
+    "premise": "sympathetic|attention|instructors|important",
+    "conclusion": "Sympathetic attention from instructors is important"
+  },
+  {
+    "id": 135,
+    "topic": "Education",
+    "premise": "education|teach|everyone|live|completely",
+    "conclusion": "Education should teach everyone how to live completely"
+  },
+  {
+    "id": 136,
+    "topic": "Education",
+    "premise": "science|underlies|sculpture|painting|music|poetry",
+    "conclusion": "Science underlies sculpture, painting, music, and poetry"
+  },
+  {
+    "id": 137,
+    "topic": "Education",
+    "premise": "science|poetry|opposed|poetic",
+    "conclusion": "Science and poetry are not opposed\u2014science is itself poetic"
+  },
+  {
+    "id": 138,
+    "topic": "Education",
+    "premise": "opposition|national|education|central|government",
+    "conclusion": "Opposition to national education under central government"
+  },
+  {
+    "id": 139,
+    "topic": "Education",
+    "premise": "private|schools|competing|students|lead|better",
+    "conclusion": "Private schools competing for students would lead to better education"
+  },
+  {
+    "id": 140,
+    "topic": "Education",
+    "premise": "education|teach|practical|skills|benefiting|society",
+    "conclusion": "Education should teach practical skills benefiting society"
+  },
+  {
+    "id": 141,
+    "topic": "Religion",
+    "premise": "religion|religious|doctrine|appropriate|objects|empirical",
+    "conclusion": "Religion and religious doctrine are appropriate objects of empirical investigation"
+  },
+  {
+    "id": 142,
+    "topic": "Religion",
+    "premise": "general|position|religion|agnostic|cannot|know",
+    "conclusion": "General position on religion is agnostic\u2014we cannot know if God exists"
+  },
+  {
+    "id": 143,
+    "topic": "Religion",
+    "premise": "theism|cannot|adopted|means|acquire|knowledge",
+    "conclusion": "Theism cannot be adopted because there is no means to acquire knowledge of the divine"
+  },
+  {
+    "id": 144,
+    "topic": "Religion",
+    "premise": "cannot|know|fundamental|religious|beliefs|false",
+    "conclusion": "We cannot know that fundamental religious beliefs are false either"
+  },
+  {
+    "id": 145,
+    "topic": "Religion",
+    "premise": "attributing|human|personality|degrades|anti|anthropomorphism",
+    "conclusion": "Attributing human personality to God degrades God (anti-anthropomorphism)"
+  },
+  {
+    "id": 146,
+    "topic": "Religion",
+    "premise": "religion|disappear|evolve",
+    "conclusion": "Religion will not disappear but will evolve"
+  },
+  {
+    "id": 147,
+    "topic": "Religion",
+    "premise": "religious|sentiment|humility|wonder|incomprehensible|reality",
+    "conclusion": "Religious sentiment\u2014humility and wonder before incomprehensible reality\u2014will persist"
+  },
+  {
+    "id": 148,
+    "topic": "Religion",
+    "premise": "traditional|theology|promises|reward|threats|damnation",
+    "conclusion": "Traditional theology with promises of reward and threats of damnation will continue to decline"
+  },
+  {
+    "id": 149,
+    "topic": "Religion",
+    "premise": "infinite|eternal|energy|things|proceed|refined",
+    "conclusion": "The \"Infinite and Eternal Energy from which all things proceed\" is the refined religious object"
+  },
+  {
+    "id": 150,
+    "topic": "Religion",
+    "premise": "ecclesiastical|institutions|vanish|religious|sentiment|remain",
+    "conclusion": "Ecclesiastical institutions may vanish but religious sentiment will remain"
+  },
+  {
+    "id": 151,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "knowledge|limited|phenomena|cannot|know|nature",
+    "conclusion": "All knowledge is limited to phenomena; we cannot know the nature of reality in itself (the \"Unknowable\")"
+  },
+  {
+    "id": 152,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "exists|unknowable|ultimate|reality|underlying|phenomena",
+    "conclusion": "There exists an \"Unknowable\" ultimate reality underlying all phenomena"
+  },
+  {
+    "id": 153,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "force|behind|cosmic|evolution|unknown|unknowable",
+    "conclusion": "The force behind cosmic evolution is unknown and unknowable"
+  },
+  {
+    "id": 154,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "human|understanding|capable|relative|knowledge|absolute",
+    "conclusion": "Human understanding is capable only of \"relative\" knowledge, not absolute knowledge"
+  },
+  {
+    "id": 155,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "space|time|force|motion|substance|cannot",
+    "conclusion": "Space, time, force, motion, and substance cannot be completely known in their ultimate nature"
+  },
+  {
+    "id": 156,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "science|religion|reconciled|shared|acknowledgment|unknowable",
+    "conclusion": "Science and religion can be reconciled through shared acknowledgment of the Unknowable"
+  },
+  {
+    "id": 157,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "ultimate|scientific|religious|ideas|cannot|fully",
+    "conclusion": "Ultimate scientific and religious ideas cannot be fully rationally established"
+  },
+  {
+    "id": 158,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "unknowable|represents|final|evolutionary|stage|religion",
+    "conclusion": "The Unknowable represents the final evolutionary stage of religion\u2014the elimination of anthropomorphic vestiges"
+  },
+  {
+    "id": 159,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "worship|unknowable|serve|positive|basis|religious",
+    "conclusion": "Worship of the Unknowable can serve as a positive basis for religious sentiment"
+  },
+  {
+    "id": 160,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "knowledge|subject|change|known|process|evolution",
+    "conclusion": "Knowledge is subject to change because that which is known is in a process of evolution"
+  },
+  {
+    "id": 161,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "empirical|demonstration|required|knowledge|about|phenomena",
+    "conclusion": "Empirical demonstration is required for knowledge about phenomena"
+  },
+  {
+    "id": 162,
+    "topic": "Metaphysics and Epistemology",
+    "premise": "starting|either|religion|science|driven|accept",
+    "conclusion": "Starting from either religion or science, we are driven to accept inconceivable notions"
+  },
+  {
+    "id": 163,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|universal|applying|phenomena|physical|biological",
+    "conclusion": "Evolution is a universal law applying to all phenomena\u2014physical, biological, psychological, and social"
+  },
+  {
+    "id": 164,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|proceeds|simple|undifferentiated|homogeneity|complex",
+    "conclusion": "Evolution proceeds from simple, undifferentiated homogeneity to complex, differentiated heterogeneity"
+  },
+  {
+    "id": 165,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|involves|increasing|integration|differentiated|parts",
+    "conclusion": "Evolution involves increasing integration of differentiated parts"
+  },
+  {
+    "id": 166,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|integration|matter|concomitant|dissipation|motion",
+    "conclusion": "Evolution is \"an integration of matter and concomitant dissipation of motion\""
+  },
+  {
+    "id": 167,
+    "topic": "General Evolutionary Theory",
+    "premise": "natural|laws|reduced|fundamental|evolution",
+    "conclusion": "All natural laws can be reduced to one fundamental law: the law of evolution"
+  },
+  {
+    "id": 168,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|direction|endpoint|attainment|final|state",
+    "conclusion": "Evolution has a direction and endpoint\u2014the attainment of a final state of equilibrium"
+  },
+  {
+    "id": 169,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|applies|equally|stars|galaxies|organisms",
+    "conclusion": "The law of evolution applies equally to stars, galaxies, organisms, minds, and societies"
+  },
+  {
+    "id": 170,
+    "topic": "General Evolutionary Theory",
+    "premise": "progress|accidental|necessary",
+    "conclusion": "Progress is not accidental but necessary"
+  },
+  {
+    "id": 171,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolution|applies|cosmos|universal|process",
+    "conclusion": "Evolution applies to the cosmos as a universal process"
+  },
+  {
+    "id": 172,
+    "topic": "General Evolutionary Theory",
+    "premise": "dissolution|reverse|evolution|universal|process|undoes",
+    "conclusion": "Dissolution (the reverse of evolution) is also a universal process that undoes evolved forms"
+  },
+  {
+    "id": 173,
+    "topic": "General Evolutionary Theory",
+    "premise": "persistence|force|fundamental|matter|evolutionary|processes",
+    "conclusion": "The persistence of force is a fundamental law of matter from which evolutionary processes follow"
+  },
+  {
+    "id": 174,
+    "topic": "Biological Evolution",
+    "premise": "lamarckian|inheritance|acquired|characteristics|primary|mechanism",
+    "conclusion": "Lamarckian inheritance of acquired characteristics is a primary mechanism of evolution"
+  },
+  {
+    "id": 175,
+    "topic": "Biological Evolution",
+    "premise": "organs|develop|diminish|disuse",
+    "conclusion": "Organs develop or diminish through use or disuse"
+  },
+  {
+    "id": 176,
+    "topic": "Biological Evolution",
+    "premise": "acquired|characteristics|transmitted|future|generations",
+    "conclusion": "Acquired characteristics can be transmitted to future generations"
+  },
+  {
+    "id": 177,
+    "topic": "Biological Evolution",
+    "premise": "natural|selection|secondary|mechanism|evolution|less",
+    "conclusion": "Natural selection is a secondary mechanism of evolution, less important than use-inheritance"
+  },
+  {
+    "id": 178,
+    "topic": "Biological Evolution",
+    "premise": "spencer|coined|phrase|survival|fittest|darwin",
+    "conclusion": "Spencer coined the phrase \"survival of the fittest\" (before Darwin adopted it)"
+  },
+  {
+    "id": 179,
+    "topic": "Biological Evolution",
+    "premise": "evolution|explains|higher|developments|especially|social",
+    "conclusion": "Evolution explains \"higher\" developments, especially social development of humanity"
+  },
+  {
+    "id": 180,
+    "topic": "Biological Evolution",
+    "premise": "biological|organisms|evolve|simple|complex|forms",
+    "conclusion": "Biological organisms evolve from simple to complex forms"
+  },
+  {
+    "id": 181,
+    "topic": "Biological Evolution",
+    "premise": "physiological|units|responsible|transmission|characteristics|offspring",
+    "conclusion": "Physiological \"units\" are responsible for transmission of characteristics to offspring"
+  },
+  {
+    "id": 182,
+    "topic": "Biological Evolution",
+    "premise": "primary|evolutionary|mechanism|direct|equilibration|inheritance",
+    "conclusion": "The primary evolutionary mechanism is \"direct equilibration\" (use-inheritance)"
+  },
+  {
+    "id": 183,
+    "topic": "Biological Evolution",
+    "premise": "indirect|equilibration|natural|selection|plays|supporting",
+    "conclusion": "\"Indirect equilibration\" (natural selection) plays a supporting role in evolution"
+  },
+  {
+    "id": 184,
+    "topic": "Biological Evolution",
+    "premise": "species|transformation|results|primarily|inherited|functional",
+    "conclusion": "Species transformation results primarily from inherited functional modifications"
+  },
+  {
+    "id": 185,
+    "topic": "Biological Evolution",
+    "premise": "evolution|produces|greater|specialization|individuation|organisms",
+    "conclusion": "Evolution produces greater specialization and individuation in organisms"
+  },
+  {
+    "id": 186,
+    "topic": "Psychology",
+    "premise": "human|mind|subject|natural|laws|discoverable",
+    "conclusion": "The human mind is subject to natural laws discoverable within general biology"
+  },
+  {
+    "id": 187,
+    "topic": "Psychology",
+    "premise": "psychology|approached|developmental|evolutionary|perspective",
+    "conclusion": "Psychology should be approached from a developmental and evolutionary perspective"
+  },
+  {
+    "id": 188,
+    "topic": "Psychology",
+    "premise": "mental|evolution|occurs|individual|species|racial",
+    "conclusion": "Mental evolution occurs at individual, species, and racial levels"
+  },
+  {
+    "id": 189,
+    "topic": "Psychology",
+    "premise": "repeated|associations|ideas|become|embodied|specific",
+    "conclusion": "Repeated associations of ideas become embodied in specific strands of brain tissue"
+  },
+  {
+    "id": 190,
+    "topic": "Psychology",
+    "premise": "mental|associations|inherited|lamarckian|inheritance",
+    "conclusion": "Mental associations can be inherited through Lamarckian use-inheritance"
+  },
+  {
+    "id": 191,
+    "topic": "Psychology",
+    "premise": "feelings|class|mental|elements|distinct|sensations",
+    "conclusion": "Feelings are a class of mental elements distinct from sensations"
+  },
+  {
+    "id": 192,
+    "topic": "Psychology",
+    "premise": "nervous|shocks|bursts|activity|basic|units",
+    "conclusion": "Nervous \"shocks\" (bursts of nervous activity) are the basic units of consciousness"
+  },
+  {
+    "id": 193,
+    "topic": "Psychology",
+    "premise": "relations|feelings|felt|exist",
+    "conclusion": "Relations between feelings are felt but can only exist between two feelings"
+  },
+  {
+    "id": 194,
+    "topic": "Psychology",
+    "premise": "mind|develops|correspondence|internal|external|relations",
+    "conclusion": "The mind develops through correspondence between internal and external relations"
+  },
+  {
+    "id": 195,
+    "topic": "Psychology",
+    "premise": "associationist|psychology|phrenology|partial|truths|reconciled",
+    "conclusion": "Associationist psychology and phrenology are both partial truths that can be reconciled"
+  },
+  {
+    "id": 196,
+    "topic": "Psychology",
+    "premise": "mental|faculties|evolved|promote|survival|adaptation",
+    "conclusion": "Mental faculties evolved to promote survival and adaptation"
+  },
+  {
+    "id": 197,
+    "topic": "Psychology",
+    "premise": "human|psychology|represents|culmination|evolutionary|development",
+    "conclusion": "Human psychology represents the culmination of evolutionary development"
+  },
+  {
+    "id": 198,
+    "topic": "Psychology",
+    "premise": "consciousness|exists|individual|member|society|whole",
+    "conclusion": "Consciousness exists in each individual member of society, not in society as a whole"
+  },
+  {
+    "id": 199,
+    "topic": "Psychology",
+    "premise": "intelligence|involves|adjustment|internal|relations|external",
+    "conclusion": "Intelligence involves adjustment of internal relations to external relations"
+  },
+  {
+    "id": 200,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "happiness|ultimate|contemplated|utilitarian|standard",
+    "conclusion": "Happiness is the ultimate end to be contemplated (utilitarian standard)"
+  },
+  {
+    "id": 201,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "happiness|proximate|moral|conduct|follow|principles",
+    "conclusion": "Happiness should not be the proximate end\u2014moral conduct should follow from principles"
+  },
+  {
+    "id": 202,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "greatest|happiness|number|ultimate|standard|value",
+    "conclusion": "The greatest happiness of the greatest number is the ultimate standard of value"
+  },
+  {
+    "id": 203,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "morality|science|deduce|laws|conduct|life",
+    "conclusion": "Morality is a science that can deduce laws of conduct from laws of life"
+  },
+  {
+    "id": 204,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "exists|innate|moral|sense|humans|arrive",
+    "conclusion": "There exists an innate \"moral sense\" by which humans arrive at moral intuitions"
+  },
+  {
+    "id": 205,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "good|defined|pleasurable|painful|consequences",
+    "conclusion": "Good and bad are defined by pleasurable or painful consequences"
+  },
+  {
+    "id": 206,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "moral|intuitions|become|biologically|inheritable|evolution",
+    "conclusion": "Moral intuitions become biologically inheritable through evolution"
+  },
+  {
+    "id": 207,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "pleasure|producing|activities|generate|inheritable|associations",
+    "conclusion": "Pleasure-producing activities generate inheritable associations between actions and approval"
+  },
+  {
+    "id": 208,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "utilitarianism|gradually|becomes|intuitive|evolutionary|development",
+    "conclusion": "Utilitarianism gradually becomes intuitive through evolutionary development"
+  },
+  {
+    "id": 209,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "absolute|ethics|provides|scientifically|grounded|moral",
+    "conclusion": "\"Absolute Ethics\" provides a scientifically grounded moral system"
+  },
+  {
+    "id": 210,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "relative|ethics|accounts|present|moral|imperfections",
+    "conclusion": "\"Relative Ethics\" accounts for our present moral imperfections"
+  },
+  {
+    "id": 211,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "altruism|compassion|beyond|family|recently|evolved",
+    "conclusion": "Altruism and compassion beyond family are recently evolved sentiments in humans"
+  },
+  {
+    "id": 212,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "sympathy|single|important|component|justice",
+    "conclusion": "Sympathy is the single most important component of justice"
+  },
+  {
+    "id": 213,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "moral|rights|indefeasible|unlike|mill|view",
+    "conclusion": "Moral rights are indefeasible (unlike Mill's view that they are defeasible)"
+  },
+  {
+    "id": 214,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "rational|egoists|pursuing|self|interest|fundamentally",
+    "conclusion": "Rational egoists pursuing self-interest will not fundamentally conflict with one another"
+  },
+  {
+    "id": 215,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "caring|unrelated|oneself|encourages|laziness|works",
+    "conclusion": "Caring for those unrelated to oneself encourages laziness and works against evolution"
+  },
+  {
+    "id": 216,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "moral|progress|occurs|empirical|utilitarianism|gives",
+    "conclusion": "Moral progress occurs as \"empirical utilitarianism\" gives way to \"rational utilitarianism\""
+  },
+  {
+    "id": 217,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "culmination|evolution|maximization|utility",
+    "conclusion": "The culmination of evolution will be the maximization of utility"
+  },
+  {
+    "id": 218,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "perfect|society|individuals|derive|pleasure|exercising",
+    "conclusion": "In the perfect society, individuals will derive pleasure from exercising altruism"
+  },
+  {
+    "id": 219,
+    "topic": "Ethics and Moral Philosophy",
+    "premise": "conduct|restrained|within|equal|freedom|promotes",
+    "conclusion": "Conduct restrained within equal freedom promotes harmonious cooperation"
+  },
+  {
+    "id": 220,
+    "topic": "Political Philosophy",
+    "premise": "equal|freedom|person|provided|infringe|others",
+    "conclusion": "\"Law of Equal Freedom\": Every person has freedom to do all they will, provided they don't infringe equal freedom of others"
+  },
+  {
+    "id": 221,
+    "topic": "Political Philosophy",
+    "premise": "liberty|means|absence|coercion",
+    "conclusion": "Liberty means the absence of coercion"
+  },
+  {
+    "id": 222,
+    "topic": "Political Philosophy",
+    "premise": "state|essential|institution|decay|over|time",
+    "conclusion": "The state is not an \"essential\" institution and will decay over time"
+  },
+  {
+    "id": 223,
+    "topic": "Political Philosophy",
+    "premise": "voluntary|market|organization|replace|coercive|aspects",
+    "conclusion": "Voluntary market organization will replace coercive aspects of the state"
+  },
+  {
+    "id": 224,
+    "topic": "Political Philosophy",
+    "premise": "individuals|right|ignore|state|early|view",
+    "conclusion": "Individuals have a \"right to ignore the state\" (early view, later abandoned)"
+  },
+  {
+    "id": 225,
+    "topic": "Political Philosophy",
+    "premise": "government|legitimate|function|policing|protection|individual",
+    "conclusion": "Government's only legitimate function is policing and protection of individual rights"
+  },
+  {
+    "id": 226,
+    "topic": "Political Philosophy",
+    "premise": "education|religion|economy|care|sick|undertaken",
+    "conclusion": "Education, religion, economy, and care for the sick should not be undertaken by the state"
+  },
+  {
+    "id": 227,
+    "topic": "Political Philosophy",
+    "premise": "public|authority|exist|administration|justice|equated",
+    "conclusion": "Law and public authority exist for administration of justice (equated with freedom and rights protection)"
+  },
+  {
+    "id": 228,
+    "topic": "Political Philosophy",
+    "premise": "parliamentary|government|exhibits|virtual|divine|right",
+    "conclusion": "Parliamentary government exhibits a virtual \"divine right\" claiming unbounded power"
+  },
+  {
+    "id": 229,
+    "topic": "Political Philosophy",
+    "premise": "political|association|model|joint|stock|company",
+    "conclusion": "Political association should model a \"joint stock company\" requiring explicit shareholder consent"
+  },
+  {
+    "id": 230,
+    "topic": "Political Philosophy",
+    "premise": "parliaments|imposing|conceptions|good|different|tyrannies",
+    "conclusion": "Parliaments imposing conceptions of the good are no different from tyrannies"
+  },
+  {
+    "id": 231,
+    "topic": "Political Philosophy",
+    "premise": "government|action|requires|individual|consent",
+    "conclusion": "Government action requires individual consent"
+  },
+  {
+    "id": 232,
+    "topic": "Political Philosophy",
+    "premise": "laissez|faire|appropriate|economic|policy",
+    "conclusion": "Laissez-faire is the appropriate economic policy"
+  },
+  {
+    "id": 233,
+    "topic": "Political Philosophy",
+    "premise": "government|intervention|causes|problems|solves",
+    "conclusion": "Government intervention causes more problems than it solves"
+  },
+  {
+    "id": 234,
+    "topic": "Political Philosophy",
+    "premise": "regulations|constantly|needed|repair|damage|prior",
+    "conclusion": "New regulations are constantly needed to repair damage from prior interventions"
+  },
+  {
+    "id": 235,
+    "topic": "Political Philosophy",
+    "premise": "socialism|tantamount|slavery|limiting|human|freedom",
+    "conclusion": "Socialism is tantamount to slavery in limiting human freedom"
+  },
+  {
+    "id": 236,
+    "topic": "Political Philosophy",
+    "premise": "imperialism|colonial|expansion|subvert|evolutionary|progress",
+    "conclusion": "Imperialism and colonial expansion subvert evolutionary progress"
+  },
+  {
+    "id": 237,
+    "topic": "Political Philosophy",
+    "premise": "militarism|conscription|unjust|impositions",
+    "conclusion": "Militarism and conscription are unjust impositions"
+  },
+  {
+    "id": 238,
+    "topic": "Political Philosophy",
+    "premise": "private|charity|replace|government|welfare|programs",
+    "conclusion": "Private charity should replace government welfare programs"
+  },
+  {
+    "id": 239,
+    "topic": "Political Philosophy",
+    "premise": "voluntary|association|informal|care|preferred|government",
+    "conclusion": "Voluntary association and informal care are preferred to government bureaucracy"
+  },
+  {
+    "id": 240,
+    "topic": "Political Philosophy",
+    "premise": "century|liberalism|actually|toryism|enemy|liberty",
+    "conclusion": "19th-century \"New Liberalism\" was actually a \"New Toryism\"\u2014enemy of liberty"
+  },
+  {
+    "id": 241,
+    "topic": "Political Philosophy",
+    "premise": "coming|slavery|drift|toward|collectivism|state",
+    "conclusion": "The coming \"slavery\" is the drift toward collectivism and state control"
+  },
+  {
+    "id": 242,
+    "topic": "Rights Theory",
+    "premise": "basic|rights|exist|virtue|human|constitution",
+    "conclusion": "Basic rights exist in virtue of human constitution"
+  },
+  {
+    "id": 243,
+    "topic": "Rights Theory",
+    "premise": "rights|include|life|liberty|property|free",
+    "conclusion": "Rights include life, liberty, property, and free speech"
+  },
+  {
+    "id": 244,
+    "topic": "Rights Theory",
+    "premise": "rights|equal|freedom|women|early|view",
+    "conclusion": "Rights to equal freedom for women (early view)"
+  },
+  {
+    "id": 245,
+    "topic": "Rights Theory",
+    "premise": "universal|suffrage|political|right|early|view",
+    "conclusion": "Universal suffrage as a political right (early view, later abandoned)"
+  },
+  {
+    "id": 246,
+    "topic": "Rights Theory",
+    "premise": "private|land|ownership|incompatible|equal|freedom",
+    "conclusion": "Private land ownership is incompatible with equal freedom (early view, later abandoned)"
+  },
+  {
+    "id": 247,
+    "topic": "Rights Theory",
+    "premise": "citizen|right|earth|early|view",
+    "conclusion": "Every citizen has a right to use of the earth (early view)"
+  },
+  {
+    "id": 248,
+    "topic": "Rights Theory",
+    "premise": "political|rights|interim|devices|moral|imperfection",
+    "conclusion": "\"Political rights\" are interim devices for moral imperfection, not authentic moral rights"
+  },
+  {
+    "id": 249,
+    "topic": "Rights Theory",
+    "premise": "moral|rights|properly|called|specifications|equal",
+    "conclusion": "Moral rights (\"rights properly so-called\") are specifications of equal freedom"
+  },
+  {
+    "id": 250,
+    "topic": "Rights Theory",
+    "premise": "rights|natural|valorize|customs|arising|ameliorate",
+    "conclusion": "Rights are natural in that they valorize customs arising to ameliorate social friction"
+  },
+  {
+    "id": 251,
+    "topic": "Sociology",
+    "premise": "society|analogous|biological|organism|social",
+    "conclusion": "Society is analogous to a biological organism (\"social organism\")"
+  },
+  {
+    "id": 252,
+    "topic": "Sociology",
+    "premise": "society|regulative|system|government|analogous|nervous",
+    "conclusion": "Society has a regulative system (government) analogous to the nervous system"
+  },
+  {
+    "id": 253,
+    "topic": "Sociology",
+    "premise": "society|sustaining|system|industry|analogous|alimentation",
+    "conclusion": "Society has a sustaining system (industry) analogous to alimentation"
+  },
+  {
+    "id": 254,
+    "topic": "Sociology",
+    "premise": "society|distribution|system|roads|telegraphs|analogous",
+    "conclusion": "Society has a distribution system (roads, telegraphs) analogous to veins and arteries"
+  },
+  {
+    "id": 255,
+    "topic": "Sociology",
+    "premise": "society|exists|benefit|members|difference|biological",
+    "conclusion": "Society exists for benefit of its members, not members for society's benefit (key difference from biological organism)"
+  },
+  {
+    "id": 256,
+    "topic": "Sociology",
+    "premise": "social|evolution|proceeds|undifferentiated|hordes|complex",
+    "conclusion": "Social evolution proceeds from undifferentiated hordes to complex civilizations"
+  },
+  {
+    "id": 257,
+    "topic": "Sociology",
+    "premise": "division|labor|mechanism|social|progress",
+    "conclusion": "Division of labor is a key mechanism of social progress"
+  },
+  {
+    "id": 258,
+    "topic": "Sociology",
+    "premise": "types|society|militant|industrial",
+    "conclusion": "There are two types of society: militant and industrial"
+  },
+  {
+    "id": 259,
+    "topic": "Sociology",
+    "premise": "militant|society|structured|around|hierarchy|obedience",
+    "conclusion": "Militant society is structured around hierarchy, obedience, and force"
+  },
+  {
+    "id": 260,
+    "topic": "Sociology",
+    "premise": "industrial|society|based|voluntary|contractual|social",
+    "conclusion": "Industrial society is based on voluntary, contractual social obligations"
+  },
+  {
+    "id": 261,
+    "topic": "Sociology",
+    "premise": "evolution|transforms|militant|societies|industrial",
+    "conclusion": "Evolution transforms militant societies into industrial societies"
+  },
+  {
+    "id": 262,
+    "topic": "Sociology",
+    "premise": "simple|societies|nomadic|differentiation|specialization",
+    "conclusion": "Simple societies are nomadic with low differentiation and specialization"
+  },
+  {
+    "id": 263,
+    "topic": "Sociology",
+    "premise": "compound|societies|result|merger|simple",
+    "conclusion": "Compound societies result from merger of simple societies"
+  },
+  {
+    "id": 264,
+    "topic": "Sociology",
+    "premise": "social|institutions|differentiate|like|organs|developing",
+    "conclusion": "Social institutions differentiate like organs in a developing embryo"
+  },
+  {
+    "id": 265,
+    "topic": "Sociology",
+    "premise": "social|statics|studies|conditions|order",
+    "conclusion": "\"Social statics\" studies conditions of social order"
+  },
+  {
+    "id": 266,
+    "topic": "Sociology",
+    "premise": "social|dynamics|studies|human|progress|evolution",
+    "conclusion": "\"Social dynamics\" studies human progress and evolution"
+  },
+  {
+    "id": 267,
+    "topic": "Sociology",
+    "premise": "religion|originated|worship|ghosts|ancestors",
+    "conclusion": "Religion originated in worship of ghosts or ancestors"
+  },
+  {
+    "id": 268,
+    "topic": "Sociology",
+    "premise": "religious|evolution|progresses|primitive|worship|agnostic",
+    "conclusion": "Religious evolution progresses from primitive worship to agnostic scientific consciousness"
+  },
+  {
+    "id": 269,
+    "topic": "Sociology",
+    "premise": "professional|institutions|illustrate|social|evolution|conforming",
+    "conclusion": "Professional institutions illustrate social evolution conforming to universal evolutionary law"
+  },
+  {
+    "id": 270,
+    "topic": "Economics",
+    "premise": "free|market|competition|improves|well|society",
+    "conclusion": "Free market competition improves well-being of society"
+  },
+  {
+    "id": 271,
+    "topic": "Economics",
+    "premise": "private|enterprise|voluntary|exchange|replace|state",
+    "conclusion": "Private enterprise and voluntary exchange should replace state direction"
+  },
+  {
+    "id": 272,
+    "topic": "Economics",
+    "premise": "fittest|business|enterprises|survive|competition",
+    "conclusion": "The fittest business enterprises survive through competition"
+  },
+  {
+    "id": 273,
+    "topic": "Economics",
+    "premise": "economic|regulation|harms|personal|freedom|prosperity",
+    "conclusion": "Economic regulation harms personal freedom and prosperity"
+  },
+  {
+    "id": 274,
+    "topic": "Economics",
+    "premise": "wage|labor|ideally|replaced|free|worker",
+    "conclusion": "Wage-labor should ideally be replaced by free worker cooperatives (early view)"
+  },
+  {
+    "id": 275,
+    "topic": "Economics",
+    "premise": "trade|unions|legitimate|bulwark|against|exploitation",
+    "conclusion": "Trade unions are a legitimate bulwark against exploitation by bosses"
+  },
+  {
+    "id": 276,
+    "topic": "Economics",
+    "premise": "commerce|trade|generate|independent|sources|freedom",
+    "conclusion": "Commerce and trade generate independent sources of freedom separate from state"
+  },
+  {
+    "id": 277,
+    "topic": "Education",
+    "premise": "science|knowledge|worth",
+    "conclusion": "Science is the knowledge of most worth"
+  },
+  {
+    "id": 278,
+    "topic": "Education",
+    "premise": "study|science|provides|valuable|knowledge",
+    "conclusion": "The study of science provides the most valuable knowledge"
+  },
+  {
+    "id": 279,
+    "topic": "Education",
+    "premise": "traditional|classical|curriculum|humanities|criticized",
+    "conclusion": "Traditional classical curriculum (humanities) should be criticized"
+  },
+  {
+    "id": 280,
+    "topic": "Education",
+    "premise": "self|development|essential|education",
+    "conclusion": "Self-development is essential to education"
+  },
+  {
+    "id": 281,
+    "topic": "Education",
+    "premise": "observation|problem|solving|educational|methods",
+    "conclusion": "Observation and problem-solving are key educational methods"
+  },
+  {
+    "id": 282,
+    "topic": "Education",
+    "premise": "physical|exercise|free|play|important",
+    "conclusion": "Physical exercise and free play are important"
+  },
+  {
+    "id": 283,
+    "topic": "Education",
+    "premise": "discipline|derive|natural|consequences|punishments|imposed",
+    "conclusion": "Discipline should derive from natural consequences, not punishments imposed by teachers"
+  },
+  {
+    "id": 284,
+    "topic": "Education",
+    "premise": "sympathetic|attention|instructors|important",
+    "conclusion": "Sympathetic attention from instructors is important"
+  },
+  {
+    "id": 285,
+    "topic": "Education",
+    "premise": "education|teach|everyone|live|completely",
+    "conclusion": "Education should teach everyone how to live completely"
+  },
+  {
+    "id": 286,
+    "topic": "Education",
+    "premise": "science|underlies|sculpture|painting|music|poetry",
+    "conclusion": "Science underlies sculpture, painting, music, and poetry"
+  },
+  {
+    "id": 287,
+    "topic": "Education",
+    "premise": "science|poetry|opposed|poetic",
+    "conclusion": "Science and poetry are not opposed\u2014science is itself poetic"
+  },
+  {
+    "id": 288,
+    "topic": "Education",
+    "premise": "opposition|national|education|central|government",
+    "conclusion": "Opposition to national education under central government"
+  },
+  {
+    "id": 289,
+    "topic": "Education",
+    "premise": "private|schools|competing|students|lead|better",
+    "conclusion": "Private schools competing for students would lead to better education"
+  },
+  {
+    "id": 290,
+    "topic": "Education",
+    "premise": "education|teach|practical|skills|benefiting|society",
+    "conclusion": "Education should teach practical skills benefiting society"
+  },
+  {
+    "id": 291,
+    "topic": "Religion",
+    "premise": "religion|religious|doctrine|appropriate|objects|empirical",
+    "conclusion": "Religion and religious doctrine are appropriate objects of empirical investigation"
+  },
+  {
+    "id": 292,
+    "topic": "Religion",
+    "premise": "general|position|religion|agnostic|cannot|know",
+    "conclusion": "General position on religion is agnostic\u2014we cannot know if God exists"
+  },
+  {
+    "id": 293,
+    "topic": "Religion",
+    "premise": "theism|cannot|adopted|means|acquire|knowledge",
+    "conclusion": "Theism cannot be adopted because there is no means to acquire knowledge of the divine"
+  },
+  {
+    "id": 294,
+    "topic": "Religion",
+    "premise": "cannot|know|fundamental|religious|beliefs|false",
+    "conclusion": "We cannot know that fundamental religious beliefs are false either"
+  },
+  {
+    "id": 295,
+    "topic": "Religion",
+    "premise": "attributing|human|personality|degrades|anti|anthropomorphism",
+    "conclusion": "Attributing human personality to God degrades God (anti-anthropomorphism)"
+  },
+  {
+    "id": 296,
+    "topic": "Religion",
+    "premise": "religion|disappear|evolve",
+    "conclusion": "Religion will not disappear but will evolve"
+  },
+  {
+    "id": 297,
+    "topic": "Religion",
+    "premise": "religious|sentiment|humility|wonder|incomprehensible|reality",
+    "conclusion": "Religious sentiment\u2014humility and wonder before incomprehensible reality\u2014will persist"
+  },
+  {
+    "id": 298,
+    "topic": "Religion",
+    "premise": "traditional|theology|promises|reward|threats|damnation",
+    "conclusion": "Traditional theology with promises of reward and threats of damnation will continue to decline"
+  },
+  {
+    "id": 299,
+    "topic": "Religion",
+    "premise": "infinite|eternal|energy|things|proceed|refined",
+    "conclusion": "The \"Infinite and Eternal Energy from which all things proceed\" is the refined religious object"
+  },
+  {
+    "id": 300,
+    "topic": "Religion",
+    "premise": "ecclesiastical|institutions|vanish|religious|sentiment|remain",
+    "conclusion": "Ecclesiastical institutions may vanish but religious sentiment will remain"
+  }
+]

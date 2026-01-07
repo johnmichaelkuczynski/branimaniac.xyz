@@ -1,0 +1,66 @@
+ARISTOTLE: ON INTERPRETATION (DE INTERPRETATIONE)
+Twenty Core Positions
+
+═══════════════════════════════════════════════════════════════════
+WORDS, SYMBOLS, AND MENTAL AFFECTIONS
+═══════════════════════════════════════════════════════════════════
+
+• WORDS ARE SYMBOLS OF MENTAL AFFECTIONS, which are likenesses of things; written words are symbols of spoken words.
+
+• MENTAL AFFECTIONS ARE THE SAME FOR ALL HUMANS, though spoken and written words differ by convention across languages. The thoughts are universal; only the signs are conventional.
+
+• NOUNS AND VERBS IN ISOLATION ARE NEITHER TRUE NOR FALSE—truth and falsity require combination or separation in a statement.
+
+═══════════════════════════════════════════════════════════════════
+NOUNS AND VERBS
+═══════════════════════════════════════════════════════════════════
+
+• A NOUN signifies by convention and without reference to time; no part of it has independent meaning. "Socrates" is a noun; none of its syllables mean anything on their own.
+
+• A VERB additionally co-signifies time and is always a sign of something said of something else. "Runs" signifies running and indicates present time.
+
+• INDEFINITE NOUNS ("not-man") and INDEFINITE VERBS ("does-not-recover") are not genuine nouns or verbs but distinct forms. They lack positive signification.
+
+═══════════════════════════════════════════════════════════════════
+STATEMENTS AND TRUTH
+═══════════════════════════════════════════════════════════════════
+
+• THE STATEMENT (logos apophantikos) is the only form of discourse that admits truth or falsity; prayers, commands, and questions do not. Only declarative sentences can be true or false.
+
+• Every statement is either an AFFIRMATION (kataphasis) or a DENIAL (apophasis). These are the two fundamental forms of statement.
+
+• A SIMPLE STATEMENT predicates one thing of one subject; COMPOSITE STATEMENTS join multiple predications.
+
+═══════════════════════════════════════════════════════════════════
+CONTRADICTORY PAIRS AND LOGICAL OPPOSITION
+═══════════════════════════════════════════════════════════════════
+
+• CONTRADICTORY PAIRS consist of an affirmation and its corresponding denial; exactly one must be true, the other false. "Socrates is sitting" and "Socrates is not sitting" are contradictories.
+
+• UNIVERSAL, PARTICULAR, AND INDEFINITE STATEMENTS differ in logical force—"every man is white" differs from "some man is white" differs from "man is white."
+
+• Contradictory opposition differs from CONTRARY OPPOSITION—"every man is just" and "no man is just" are contraries (both can be false), not contradictories.
+
+═══════════════════════════════════════════════════════════════════
+BIVALENCE AND FUTURE CONTINGENTS
+═══════════════════════════════════════════════════════════════════
+
+• With singular statements about PRESENT OR PAST FACTS, the law of bivalence holds without exception. Either Socrates is sitting or he is not—there is no third possibility.
+
+• FUTURE CONTINGENT STATEMENTS (e.g., "there will be a sea-battle tomorrow") pose a problem: assigning definite truth-values seems to imply fatalism.
+
+• THE SEA-BATTLE ARGUMENT: If every future-tensed statement is already true or false, then everything happens by necessity and deliberation is pointless. If it is now true that there will be a sea-battle, then it is now necessary.
+
+• ARISTOTLE'S SOLUTION (variously interpreted): The DISJUNCTION "there will or will not be a sea-battle" is necessarily true, but neither disjunct is determinately true now. The law of excluded middle holds; bivalence may not.
+
+═══════════════════════════════════════════════════════════════════
+MODAL LOGIC
+═══════════════════════════════════════════════════════════════════
+
+• MODAL NOTIONS—possibility, impossibility, necessity, contingency—attach to statements and must be analyzed carefully.
+
+• "Possible" and "not impossible" are LOGICALLY EQUIVALENT; "necessary" and "not possible not" are equivalent.
+
+• The SQUARE OF OPPOSITION for modal statements differs from that for assertoric statements; modal contradictories must be carefully identified.
+
+• There is a logical ASYMMETRY BETWEEN NECESSITY AND POSSIBILITY: What is necessary is possible, but not vice versa; what is impossible is not possible, but not everything not-possible is impossible in the same sense.

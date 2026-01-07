@@ -1,0 +1,91 @@
+Counterfactuals
+
+J.-M. Kuczynski, PhD
+
+Abstract
+
+Ordinarily counterfactuals are seen as making statements about states of affairs, albeit ones that hold in merely possible or alternative worlds. Thus analyzed, nearly all counterfactuals turn out to be incoherent. Any counterfactual, thus analyzed, requires that there be a metaphysically (not just epistemically) possible world w where the laws are the same as here, and where almost all of the facts are the same as here. (The factual differences relate to the antecedent of the relevant counterfactual.) But, for reasons having to do with the nature of causal relations, there cannot be such a world, given standard assumptions about the nature of physical law. Counterfactuals do not say anything about relations among events, not even events that are in worlds other than this one. Counterfactuals say something only about the degree of credibility that certain propositions confer on other propositions.
+
+Introduction
+
+Statements like the following are examples of counterfactuals:
+
+If Kennedy had not been assassinated, the U.S. would have pulled out of Viet Nam before 1965.
+
+If Jones had not fired the gun, Smith would still be alive today.
+
+A counterfactual says what would have been the case if some condition C obtained, when in fact C did not obtain.
+
+The consensus is that no acceptable analysis of counterfactuals has been proposed. I agree with the consensus. The reason there is no satisfactory analysis is that the existing analyses regard counterfactuals as saying something about causal relations among states of affairs — albeit ones that take place in non-actual or actual but alternative worlds. The right approach, I argue, is to see counterfactuals as expressing relations of probabilification holding among statements.
+
+I must make one thing clear. I am taking it for granted that counterfactuals are, or can be, true. I am not arguing that they are necessarily incoherent or otherwise false. So given that a factualist analysis makes them incoherent, a non-factualist analysis — an epistemic one — is needed.
+
+Of course, it has been argued (by Quine, for example) that counterfactuals are meaningless or, at least, systematically false. But given how endemic they are to our thought, it would be better to find a way to make them non-meaningless than to try to do without them. (I am open to the idea that they are all meaningless or false, but I will try to show how we can avoid coming to that undesirable conclusion.)
+
+David Lewis's Factualist Analysis
+
+David Lewis has given the most perspicuous account of the conceit that underlies ordinary thinking about counterfactuals, and that underlies virtually all philosophical thinking about it:
+
+"If kangaroos had no tails, they would topple over" seems to me to mean something like this: in any possible state of affairs in which kangaroos have no tails, and which resembles our actual state of affairs as much as having no tails permits it to, the kangaroos topple over.
+
+Notice that Lewis construes counterfactuals as making statements about states of affairs, albeit ones that hold in worlds other than this one. What makes a counterfactual true is (inter alia) that, in some other world, certain events occur in a certain way.
+
+If Lewis is right, what counterfactuals do not do is make statements about logical relations among propositions. Counterfactuals are about facts following facts, bodies hitting (or not hitting) other bodies. If Lewis is right, counterfactuals aren't about a shadow world of logical interrelations holding among platonic entities.
+
+Let us describe as factualist any analysis that is, in this respect, like Lewis'. The factualist says that counterfactuals are about states of affairs, facts, and objects — the things we encounter in this world — except that they are in alternative worlds.
+
+The factualist view is not tenable. That is what I will show. Counterfactuals do not say anything about relations among events, not even events that are in worlds other than this one. Counterfactuals say something only about the degree of credibility that certain propositions confer on other propositions.
+
+Problems with Factualism
+
+Suppose that, in actual fact, Smith shoots Jones and thereby kills him. Given this, let us consider the proposition:
+
+If Jones had not fired the gun, Smith would still be alive today.
+
+This is a perfectly good counterfactual: the kind that might well be true. Let us apply the factualist analysis to it. According to the factualist, the meaning of this counterfactual is:
+
+Consider a world w with the following two properties. First, in w, Jones doesn't pull the trigger. Second, with that qualification, w is as much like our world as it could be. In w, Smith is still alive.
+
+One point must be made explicit. The laws obtaining in w must be the same as the laws that govern our universe. For if the physical laws of w are different from those in our world, then the counterfactual is immediately voided. If those laws are different, then Jones' pulling the trigger might not lead to the bullet leaving the gun, or Smith's flesh might repulse the bullet, or there might not even be a gun — perhaps those other laws wouldn't permit atoms to bind to one another in the right ways.
+
+The Determinism Problem
+
+Given this, let L1...Ln be the laws that govern our world. As we just saw, L1...Ln must also govern w. Now in our world, C1...Ck led to Jones' pulling the trigger. Of course, C1...Ck led to that event because laws L1...Ln govern our world. (A different set of laws needn't lead from those initial conditions to that particular conclusion.) Trivially, laws are either deterministic or they're not. A "deterministic" law is given by a proposition of the form: if x, then necessarily y.
+
+First case: suppose L1...Ln are deterministic. In that case, in w, C1...Ck lead to Jones pulling the trigger. Now remember that we are trying to keep things in w as much like things in our world as is possible given that, in w, Jones did not pull the trigger. We've just seen that we cannot keep C1...Ck the same; at least one of them must go. So, for some i, Ci must not be the case in w. But Ci did not just come out of nowhere; some previous set of conditions C*1...C*m are what led to Ci.
+
+So given that Ci is not the case in w, and given that the laws leading from C*1...C*m to Ci are deterministic, we must suppose that, for some j, C*j is not the case. Otherwise we are stuck with Ci, and if we are stuck with Ci, we are stuck with Jones' pulling the trigger. Of course, C*j didn't just come out of nowhere; it arose from some prior conditions C**1...C**o. So we must assume, for now familiar reasons, that for some k, C**k is not the case. Clearly this regress goes on and on.
+
+In fact, this regress goes back into the furthest recesses of the past. So it is clear that, if Jones is to not pull the trigger in w, then w's past must be very different from the past of our world. But if w's past is that different, then there is no guarantee at all that w's present would even remotely resemble our present. What we want is for w's present to be just like ours except that Jones doesn't pull the trigger. But what we get is a present which almost certainly doesn't contain Jones, Smith, or anything else that our world contains.
+
+In a deterministic world, any event is deeply embedded in other events. Consequently, two deterministic worlds cannot differ with respect to a single event unless they differ with respect to countless other events. Given that Jones didn't actually shoot Smith, a world that is different enough from ours to have Jones shooting Smith will, paradoxically, be too different to include that event.
+
+So if the factualist approach is to work, then our world must be indeterministic. Let us now consider this option.
+
+The Indeterminism Problem
+
+Second case: suppose some laws are indeterministic. Once again, let L1...Ln be the laws governing our world. And suppose that, for some i, Li is indeterministic.
+
+First of all, counterfactuals are only as good as our laws are deterministic. Suppose that being shot in the chest is fatal 100% of the time. In other words, suppose the law: x is shot in the chest → x dies is deterministic. In that case, I can say with complete certainty "if Jones had been shot in the chest, he would have died".
+
+But if that law is only probabilistic, then the counterfactual is not true. If being shot in the chest leads to death 39% of the time, or even 72% of the time, then the counterfactual "if x had been shot in the chest, x would have died" is definitely not true. It seems to lack truth-value. What can truly be said is "if x had been shot in the chest, then there would have been a 39% (or 72%) chance of x's dying." But that is an entirely different statement from the original counterfactual.
+
+Of course, given only that some laws are indeterministic, it doesn't follow that all counterfactuals are thereby vitiated: only those counterfactuals are vitiated which depend on the probabilistic laws in question.
+
+Given this, it might seem that if some, but not all, laws are indeterministic, then the factualist position might work.
+
+But it is easy to show that the existence of some indeterministic laws doesn't help the factualist at all. It makes things worse for him.
+
+Independence from Physics
+
+An analysis of counterfactuals cannot make the truth of such statements depend on things on which their truth is not in fact dependent. It is a datum that certain counterfactuals are true. It is not a datum (though it may be true) that there are indeterministic laws.
+
+Consider: If Brown had struck the window with the hammer, it would have broken.
+
+Let us suppose that the window is very thin, that Brown is strong, and so on. In other words, let us suppose that this is a true counterfactual. If future physicists discover that quantum mechanics is deterministic, would it mean that this counterfactual turns out to be false? Suppose that in the year 2135 it is finally established that all physical laws are deterministic. Will people then say: "I guess we were wrong to say that if President Clinton had resigned, Gore would have become President"?
+
+An analysis of counterfactuals cannot make the truth of such statements depend on things on which their truth is not in fact dependent.
+
+Conclusion
+
+The factualist approach fails. Counterfactuals should instead be understood as expressing epistemic relations - relations of probabilification and evidential support - among propositions, not as describing alternative concrete situations in other possible worlds.

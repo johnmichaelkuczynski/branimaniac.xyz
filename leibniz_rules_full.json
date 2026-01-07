@@ -1,0 +1,3548 @@
+[
+  {
+    "id": 13667,
+    "topic": "Discourse on Metaphysics",
+    "premise": "acts|according|greatest|perfection",
+    "conclusion": "God acts according to the greatest perfection"
+  },
+  {
+    "id": 13668,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substance|expresses|entire|universe",
+    "conclusion": "Every substance expresses the entire universe"
+  },
+  {
+    "id": 13669,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substance|unique|point|view",
+    "conclusion": "Each substance has a unique point of view"
+  },
+  {
+    "id": 13670,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substances|exactly|alike",
+    "conclusion": "No two substances are exactly alike"
+  },
+  {
+    "id": 13671,
+    "topic": "Discourse on Metaphysics",
+    "premise": "chooses|best|possible|worlds",
+    "conclusion": "God chooses the best of all possible worlds"
+  },
+  {
+    "id": 13672,
+    "topic": "Discourse on Metaphysics",
+    "premise": "created|substances|internal|principles",
+    "conclusion": "Created substances act only through internal principles"
+  },
+  {
+    "id": 13673,
+    "topic": "Discourse on Metaphysics",
+    "premise": "causal|interaction|created|substances",
+    "conclusion": "There is no causal interaction between created substances"
+  },
+  {
+    "id": 13674,
+    "topic": "Discourse on Metaphysics",
+    "premise": "events|follow|complete|concept|substance",
+    "conclusion": "All events follow from the complete concept of a substance"
+  },
+  {
+    "id": 13675,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substance|future|states|contained|concept",
+    "conclusion": "A substance's future states are contained in its concept"
+  },
+  {
+    "id": 13676,
+    "topic": "Discourse on Metaphysics",
+    "premise": "freedom|compatible|determinism",
+    "conclusion": "Freedom is compatible with determinism"
+  },
+  {
+    "id": 13677,
+    "topic": "Discourse on Metaphysics",
+    "premise": "moral|necessity|differs|metaphysical",
+    "conclusion": "Moral necessity differs from metaphysical necessity"
+  },
+  {
+    "id": 13678,
+    "topic": "Discourse on Metaphysics",
+    "premise": "foreknowledge|eliminate|human|freedom",
+    "conclusion": "God's foreknowledge does not eliminate human freedom"
+  },
+  {
+    "id": 13679,
+    "topic": "Discourse on Metaphysics",
+    "premise": "miracles|violate|natural|laws",
+    "conclusion": "Miracles do not violate natural laws"
+  },
+  {
+    "id": 13680,
+    "topic": "Discourse on Metaphysics",
+    "premise": "miracles|extraordinary|divine|acts",
+    "conclusion": "Miracles are extraordinary divine acts"
+  },
+  {
+    "id": 13681,
+    "topic": "Discourse on Metaphysics",
+    "premise": "concurs|creaturely|actions",
+    "conclusion": "God concurs with all creaturely actions"
+  },
+  {
+    "id": 13682,
+    "topic": "Discourse on Metaphysics",
+    "premise": "originates|creaturely|limitation",
+    "conclusion": "Sin originates in creaturely limitation"
+  },
+  {
+    "id": 13683,
+    "topic": "Discourse on Metaphysics",
+    "premise": "permits|greater|harmony",
+    "conclusion": "God permits sin for greater harmony"
+  },
+  {
+    "id": 13684,
+    "topic": "Discourse on Metaphysics",
+    "premise": "contingent|truths|sufficient|reasons",
+    "conclusion": "Contingent truths have sufficient reasons"
+  },
+  {
+    "id": 13685,
+    "topic": "Discourse on Metaphysics",
+    "premise": "necessary|truths|follow|principle|contradiction",
+    "conclusion": "Necessary truths follow from the principle of contradiction"
+  },
+  {
+    "id": 13686,
+    "topic": "Discourse on Metaphysics",
+    "premise": "contingent|truths|follow|principle|sufficient|reason",
+    "conclusion": "Contingent truths follow from the principle of sufficient reason"
+  },
+  {
+    "id": 13687,
+    "topic": "Discourse on Metaphysics",
+    "premise": "essence|substance|includes|predicates",
+    "conclusion": "The essence of a substance includes all its predicates"
+  },
+  {
+    "id": 13688,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substances|primitive|active|force",
+    "conclusion": "Substances have primitive active force"
+  },
+  {
+    "id": 13689,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substances|primitive|passive|force",
+    "conclusion": "Substances have primitive passive force"
+  },
+  {
+    "id": 13690,
+    "topic": "Discourse on Metaphysics",
+    "premise": "motion|arises|internal|force",
+    "conclusion": "Motion arises from internal force"
+  },
+  {
+    "id": 13691,
+    "topic": "Discourse on Metaphysics",
+    "premise": "perception|essential|substance",
+    "conclusion": "Perception is essential to substance"
+  },
+  {
+    "id": 13692,
+    "topic": "Discourse on Metaphysics",
+    "premise": "apperception|distinguishes|rational|substances",
+    "conclusion": "Apperception distinguishes rational substances"
+  },
+  {
+    "id": 13693,
+    "topic": "Discourse on Metaphysics",
+    "premise": "animals|perception|without|reflection",
+    "conclusion": "Animals have perception without reflection"
+  },
+  {
+    "id": 13694,
+    "topic": "Discourse on Metaphysics",
+    "premise": "human|souls|reason",
+    "conclusion": "Human souls have reason"
+  },
+  {
+    "id": 13695,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substances|develop|according|laws",
+    "conclusion": "Substances develop according to their own laws"
+  },
+  {
+    "id": 13696,
+    "topic": "Discourse on Metaphysics",
+    "premise": "conserves|substances|continually",
+    "conclusion": "God conserves substances continually"
+  },
+  {
+    "id": 13697,
+    "topic": "Discourse on Metaphysics",
+    "premise": "created|substances|limited|mirrors",
+    "conclusion": "Created substances are limited mirrors of God"
+  },
+  {
+    "id": 13698,
+    "topic": "Discourse on Metaphysics",
+    "premise": "harmony|among|substances|established",
+    "conclusion": "Harmony among substances is pre-established"
+  },
+  {
+    "id": 13699,
+    "topic": "Discourse on Metaphysics",
+    "premise": "created|substances|naturally|inclined|perfection",
+    "conclusion": "Created substances are naturally inclined to perfection"
+  },
+  {
+    "id": 13700,
+    "topic": "Discourse on Metaphysics",
+    "premise": "perception|foundation|reality",
+    "conclusion": "Every perception has some foundation in reality"
+  },
+  {
+    "id": 13701,
+    "topic": "Discourse on Metaphysics",
+    "premise": "confused|perceptions|arise|complexity",
+    "conclusion": "Confused perceptions arise from complexity"
+  },
+  {
+    "id": 13702,
+    "topic": "Discourse on Metaphysics",
+    "premise": "clear|knowledge|depends|attention",
+    "conclusion": "Clear knowledge depends on attention"
+  },
+  {
+    "id": 13703,
+    "topic": "Discourse on Metaphysics",
+    "premise": "distinct|knowledge|depends|analysis",
+    "conclusion": "Distinct knowledge depends on analysis"
+  },
+  {
+    "id": 13704,
+    "topic": "Discourse on Metaphysics",
+    "premise": "goodness|grounded|perfection",
+    "conclusion": "Goodness is grounded in perfection"
+  },
+  {
+    "id": 13705,
+    "topic": "Discourse on Metaphysics",
+    "premise": "evil|privation|perfection",
+    "conclusion": "Evil is a privation of perfection"
+  },
+  {
+    "id": 13706,
+    "topic": "Discourse on Metaphysics",
+    "premise": "moral|evil|arises",
+    "conclusion": "Moral evil arises from will"
+  },
+  {
+    "id": 13707,
+    "topic": "Discourse on Metaphysics",
+    "premise": "physical|evil|arises|material|limitation",
+    "conclusion": "Physical evil arises from material limitation"
+  },
+  {
+    "id": 13708,
+    "topic": "Discourse on Metaphysics",
+    "premise": "metaphysical|evil|arises|creatureliness",
+    "conclusion": "Metaphysical evil arises from creatureliness"
+  },
+  {
+    "id": 13709,
+    "topic": "Discourse on Metaphysics",
+    "premise": "permits|evils|sake|order",
+    "conclusion": "God permits evils for the sake of order"
+  },
+  {
+    "id": 13710,
+    "topic": "Discourse on Metaphysics",
+    "premise": "divine|justice|compatible|goodness",
+    "conclusion": "Divine justice is compatible with divine goodness"
+  },
+  {
+    "id": 13711,
+    "topic": "Discourse on Metaphysics",
+    "premise": "punishment|restores|moral|order",
+    "conclusion": "Punishment restores moral order"
+  },
+  {
+    "id": 13712,
+    "topic": "Discourse on Metaphysics",
+    "premise": "grace|elevates|natural|faculties",
+    "conclusion": "Grace elevates natural faculties"
+  },
+  {
+    "id": 13713,
+    "topic": "Discourse on Metaphysics",
+    "premise": "predestination|respects|freedom",
+    "conclusion": "Predestination respects freedom"
+  },
+  {
+    "id": 13714,
+    "topic": "Discourse on Metaphysics",
+    "premise": "decrees|rational",
+    "conclusion": "God's decrees are rational"
+  },
+  {
+    "id": 13715,
+    "topic": "Discourse on Metaphysics",
+    "premise": "contingent|beings|require|sufficient|reason|existence",
+    "conclusion": "Contingent beings require a sufficient reason for existence"
+  },
+  {
+    "id": 13716,
+    "topic": "Discourse on Metaphysics",
+    "premise": "created|world|contains|maximal|variety",
+    "conclusion": "The created world contains maximal variety"
+  },
+  {
+    "id": 13717,
+    "topic": "Discourse on Metaphysics",
+    "premise": "world|exhibits|maximal|order",
+    "conclusion": "The world exhibits maximal order"
+  },
+  {
+    "id": 13718,
+    "topic": "Discourse on Metaphysics",
+    "premise": "individual|substances|naturally|social",
+    "conclusion": "Individual substances are naturally social"
+  },
+  {
+    "id": 13719,
+    "topic": "Discourse on Metaphysics",
+    "premise": "laws|nature|express|wisdom",
+    "conclusion": "Laws of nature express God's wisdom"
+  },
+  {
+    "id": 13720,
+    "topic": "Discourse on Metaphysics",
+    "premise": "matter|phenomenon|grounded|force",
+    "conclusion": "Matter is a phenomenon grounded in force"
+  },
+  {
+    "id": 13721,
+    "topic": "Discourse on Metaphysics",
+    "premise": "bodies|aggregates|substances",
+    "conclusion": "Bodies are aggregates of substances"
+  },
+  {
+    "id": 13722,
+    "topic": "Discourse on Metaphysics",
+    "premise": "true|unity|belongs|simple|substances",
+    "conclusion": "True unity belongs only to simple substances"
+  },
+  {
+    "id": 13723,
+    "topic": "Discourse on Metaphysics",
+    "premise": "secondary|qualities|arise|confused|perceptions",
+    "conclusion": "Secondary qualities arise from confused perceptions"
+  },
+  {
+    "id": 13724,
+    "topic": "Discourse on Metaphysics",
+    "premise": "identity|depends|continuity|substance",
+    "conclusion": "Identity depends on continuity of substance"
+  },
+  {
+    "id": 13725,
+    "topic": "Discourse on Metaphysics",
+    "premise": "divine|understanding|grasped|possibilities",
+    "conclusion": "Divine understanding grasped all possibilities"
+  },
+  {
+    "id": 13726,
+    "topic": "Discourse on Metaphysics",
+    "premise": "divine|chooses|actualities",
+    "conclusion": "Divine will chooses actualities"
+  },
+  {
+    "id": 13727,
+    "topic": "Discourse on Metaphysics",
+    "premise": "divine|power|realizes|chosen|world",
+    "conclusion": "Divine power realizes the chosen world"
+  },
+  {
+    "id": 13728,
+    "topic": "Discourse on Metaphysics",
+    "premise": "choice|balances|simplicity|richness",
+    "conclusion": "God's choice balances simplicity and richness"
+  },
+  {
+    "id": 13729,
+    "topic": "Discourse on Metaphysics",
+    "premise": "created|substances|depend|existence",
+    "conclusion": "Created substances depend on God for existence"
+  },
+  {
+    "id": 13730,
+    "topic": "Discourse on Metaphysics",
+    "premise": "created|substances|depend|activity",
+    "conclusion": "Created substances depend on God for activity"
+  },
+  {
+    "id": 13731,
+    "topic": "Discourse on Metaphysics",
+    "premise": "mind|body|correspond|harmony",
+    "conclusion": "Mind and body correspond through harmony"
+  },
+  {
+    "id": 13732,
+    "topic": "Discourse on Metaphysics",
+    "premise": "moral|truths|eternal",
+    "conclusion": "Moral truths are eternal"
+  },
+  {
+    "id": 13733,
+    "topic": "Discourse on Metaphysics",
+    "premise": "natural|truths|depend",
+    "conclusion": "Natural truths depend on God's will"
+  },
+  {
+    "id": 13734,
+    "topic": "Discourse on Metaphysics",
+    "premise": "human|knowledge|limited|confused|perception",
+    "conclusion": "Human knowledge is limited by confused perception"
+  },
+  {
+    "id": 13735,
+    "topic": "Discourse on Metaphysics",
+    "premise": "perfect|knowledge|possible",
+    "conclusion": "Perfect knowledge is possible only for God"
+  },
+  {
+    "id": 13736,
+    "topic": "Discourse on Metaphysics",
+    "premise": "rational|understanding|distinguishes|truths|reason|fact",
+    "conclusion": "Rational understanding distinguishes truths of reason and truths of fact"
+  },
+  {
+    "id": 13737,
+    "topic": "Discourse on Metaphysics",
+    "premise": "contingent|truths|demonstrated|complete|concepts",
+    "conclusion": "Contingent truths can be demonstrated through complete concepts"
+  },
+  {
+    "id": 13738,
+    "topic": "Discourse on Metaphysics",
+    "premise": "human|actions|imputable|follow|internal|principles",
+    "conclusion": "Human actions are imputable because they follow from internal principles"
+  },
+  {
+    "id": 13739,
+    "topic": "Discourse on Metaphysics",
+    "premise": "perfection|criterion|divine|choice",
+    "conclusion": "Perfection is the criterion of divine choice"
+  },
+  {
+    "id": 13740,
+    "topic": "Discourse on Metaphysics",
+    "premise": "substances|tend|toward|greater|distinctness|perception",
+    "conclusion": "Substances tend toward greater distinctness in perception"
+  },
+  {
+    "id": 13741,
+    "topic": "Discourse on Metaphysics",
+    "premise": "universe|forms|hierarchical|order|beings",
+    "conclusion": "The universe forms a hierarchical order of beings"
+  },
+  {
+    "id": 13742,
+    "topic": "Correspondence with Arnauld",
+    "premise": "substance|contains|predicates|complete|concept",
+    "conclusion": "A substance contains all its predicates in its complete concept"
+  },
+  {
+    "id": 13743,
+    "topic": "Correspondence with Arnauld",
+    "premise": "individual|essences|include|future|states",
+    "conclusion": "Individual essences include all future states"
+  },
+  {
+    "id": 13744,
+    "topic": "Correspondence with Arnauld",
+    "premise": "contingent|truths|require|sufficient|reasons",
+    "conclusion": "Contingent truths require sufficient reasons"
+  },
+  {
+    "id": 13745,
+    "topic": "Correspondence with Arnauld",
+    "premise": "possibility|grounded|divine|intellect",
+    "conclusion": "Possibility is grounded in divine intellect"
+  },
+  {
+    "id": 13746,
+    "topic": "Correspondence with Arnauld",
+    "premise": "choice|world|rational|selection|among|possibles",
+    "conclusion": "God's choice of the world is a rational selection among possibles"
+  },
+  {
+    "id": 13747,
+    "topic": "Correspondence with Arnauld",
+    "premise": "created|substances|internal|principles",
+    "conclusion": "Created substances act only through internal principles"
+  },
+  {
+    "id": 13748,
+    "topic": "Correspondence with Arnauld",
+    "premise": "real|causal|interaction|substances",
+    "conclusion": "There is no real causal interaction between substances"
+  },
+  {
+    "id": 13749,
+    "topic": "Correspondence with Arnauld",
+    "premise": "phenomenal|interaction|explained|established|harmony",
+    "conclusion": "Phenomenal interaction is explained by pre-established harmony"
+  },
+  {
+    "id": 13750,
+    "topic": "Correspondence with Arnauld",
+    "premise": "body|true|unity",
+    "conclusion": "Body is not a true unity"
+  },
+  {
+    "id": 13751,
+    "topic": "Correspondence with Arnauld",
+    "premise": "simple|substances|true|unity",
+    "conclusion": "Only simple substances have true unity"
+  },
+  {
+    "id": 13752,
+    "topic": "Correspondence with Arnauld",
+    "premise": "composite|bodies|aggregates|simples",
+    "conclusion": "Composite bodies are aggregates of simples"
+  },
+  {
+    "id": 13753,
+    "topic": "Correspondence with Arnauld",
+    "premise": "perception|primitive|simple|substances",
+    "conclusion": "Perception is primitive in simple substances"
+  },
+  {
+    "id": 13754,
+    "topic": "Correspondence with Arnauld",
+    "premise": "rational|souls|apperception",
+    "conclusion": "Rational souls have apperception"
+  },
+  {
+    "id": 13755,
+    "topic": "Correspondence with Arnauld",
+    "premise": "human|freedom|compatible|determinism",
+    "conclusion": "Human freedom is compatible with determinism"
+  },
+  {
+    "id": 13756,
+    "topic": "Correspondence with Arnauld",
+    "premise": "freedom|consists|acting|internal|reasons",
+    "conclusion": "Freedom consists in acting from internal reasons"
+  },
+  {
+    "id": 13757,
+    "topic": "Correspondence with Arnauld",
+    "premise": "foreknows|actions|without|constraining",
+    "conclusion": "God foreknows all actions without constraining them"
+  },
+  {
+    "id": 13758,
+    "topic": "Correspondence with Arnauld",
+    "premise": "grace|works|harmony|natural|inclinations",
+    "conclusion": "Grace works in harmony with natural inclinations"
+  },
+  {
+    "id": 13759,
+    "topic": "Correspondence with Arnauld",
+    "premise": "moral|necessity|distinct|metaphysical",
+    "conclusion": "Moral necessity is distinct from metaphysical necessity"
+  },
+  {
+    "id": 13760,
+    "topic": "Correspondence with Arnauld",
+    "premise": "decree|create|adam|entails|future|human",
+    "conclusion": "The decree to create Adam entails all future human history"
+  },
+  {
+    "id": 13761,
+    "topic": "Correspondence with Arnauld",
+    "premise": "individual|concepts|infinite|detail",
+    "conclusion": "Individual concepts are infinite in detail"
+  },
+  {
+    "id": 13762,
+    "topic": "Correspondence with Arnauld",
+    "premise": "created|substances|involve|infinitely|many|relations",
+    "conclusion": "Created substances involve infinitely many relations"
+  },
+  {
+    "id": 13763,
+    "topic": "Correspondence with Arnauld",
+    "premise": "event|included|concept|subject",
+    "conclusion": "Every event is included in the concept of its subject"
+  },
+  {
+    "id": 13764,
+    "topic": "Correspondence with Arnauld",
+    "premise": "contingency|derives|divine|choice|indeterminacy",
+    "conclusion": "Contingency derives from divine choice, not from indeterminacy"
+  },
+  {
+    "id": 13765,
+    "topic": "Correspondence with Arnauld",
+    "premise": "conserves|substances|continually",
+    "conclusion": "God conserves substances continually"
+  },
+  {
+    "id": 13766,
+    "topic": "Correspondence with Arnauld",
+    "premise": "natural|laws|express|divine|wisdom",
+    "conclusion": "Natural laws express divine wisdom"
+  },
+  {
+    "id": 13767,
+    "topic": "Correspondence with Arnauld",
+    "premise": "miracles|exceptions|ordinary|concourse|violations|logic",
+    "conclusion": "Miracles are exceptions to ordinary concourse, not violations of logic"
+  },
+  {
+    "id": 13768,
+    "topic": "Correspondence with Arnauld",
+    "premise": "soul|physically|influence|body",
+    "conclusion": "The soul does not physically influence the body"
+  },
+  {
+    "id": 13769,
+    "topic": "Correspondence with Arnauld",
+    "premise": "body|physically|influence|soul",
+    "conclusion": "Body does not physically influence the soul"
+  },
+  {
+    "id": 13770,
+    "topic": "Correspondence with Arnauld",
+    "premise": "correspondence|soul|body|ordained",
+    "conclusion": "Correspondence between soul and body is pre-ordained"
+  },
+  {
+    "id": 13771,
+    "topic": "Correspondence with Arnauld",
+    "premise": "sensory|perceptions|confused|expressions|world",
+    "conclusion": "Sensory perceptions are confused expressions of the world"
+  },
+  {
+    "id": 13772,
+    "topic": "Correspondence with Arnauld",
+    "premise": "distinct|perceptions|require|intellectual|analysis",
+    "conclusion": "Distinct perceptions require intellectual analysis"
+  },
+  {
+    "id": 13773,
+    "topic": "Correspondence with Arnauld",
+    "premise": "substances|express|universe|perspective",
+    "conclusion": "All substances express the universe from their perspective"
+  },
+  {
+    "id": 13774,
+    "topic": "Correspondence with Arnauld",
+    "premise": "created|substances|exactly|alike",
+    "conclusion": "No two created substances are exactly alike"
+  },
+  {
+    "id": 13775,
+    "topic": "Correspondence with Arnauld",
+    "premise": "distinctions|degree|exist|among|perceptions",
+    "conclusion": "Distinctions of degree exist among perceptions"
+  },
+  {
+    "id": 13776,
+    "topic": "Correspondence with Arnauld",
+    "premise": "substances|primitive|active|forces",
+    "conclusion": "Substances have primitive active forces"
+  },
+  {
+    "id": 13777,
+    "topic": "Correspondence with Arnauld",
+    "premise": "substances|passive|limitations",
+    "conclusion": "Substances have passive limitations"
+  },
+  {
+    "id": 13778,
+    "topic": "Correspondence with Arnauld",
+    "premise": "matter|constituted|forces|extension|alone",
+    "conclusion": "Matter is constituted by forces, not extension alone"
+  },
+  {
+    "id": 13779,
+    "topic": "Correspondence with Arnauld",
+    "premise": "motion|grounded|force",
+    "conclusion": "Motion is grounded in force"
+  },
+  {
+    "id": 13780,
+    "topic": "Correspondence with Arnauld",
+    "premise": "identity|grounded|continuity|substance",
+    "conclusion": "Identity is grounded in continuity of substance"
+  },
+  {
+    "id": 13781,
+    "topic": "Correspondence with Arnauld",
+    "premise": "personal|identity|depends|soul",
+    "conclusion": "Personal identity depends on the soul"
+  },
+  {
+    "id": 13782,
+    "topic": "Correspondence with Arnauld",
+    "premise": "necessarily|chooses|perceived|good",
+    "conclusion": "The will necessarily chooses the perceived good"
+  },
+  {
+    "id": 13783,
+    "topic": "Correspondence with Arnauld",
+    "premise": "apparent|freedom|arises|deliberation",
+    "conclusion": "Apparent freedom arises from deliberation"
+  },
+  {
+    "id": 13784,
+    "topic": "Correspondence with Arnauld",
+    "premise": "actual|freedom|lies|internal|determination",
+    "conclusion": "Actual freedom lies in internal determination"
+  },
+  {
+    "id": 13785,
+    "topic": "Correspondence with Arnauld",
+    "premise": "permitted|sake|greater|harmony",
+    "conclusion": "Sin is permitted for the sake of greater harmony"
+  },
+  {
+    "id": 13786,
+    "topic": "Correspondence with Arnauld",
+    "premise": "divine|concurrence|universal",
+    "conclusion": "Divine concurrence is universal"
+  },
+  {
+    "id": 13787,
+    "topic": "Correspondence with Arnauld",
+    "premise": "decrees|consistent|human|responsibility",
+    "conclusion": "God's decrees are consistent with human responsibility"
+  },
+  {
+    "id": 13788,
+    "topic": "Correspondence with Arnauld",
+    "premise": "predestination|compatible|accountability",
+    "conclusion": "Predestination is compatible with accountability"
+  },
+  {
+    "id": 13789,
+    "topic": "Correspondence with Arnauld",
+    "premise": "distinct|knowledge|rare|finite|minds",
+    "conclusion": "Distinct knowledge is rare in finite minds"
+  },
+  {
+    "id": 13790,
+    "topic": "Correspondence with Arnauld",
+    "premise": "human|knowledge|limited|confused|perception",
+    "conclusion": "Human knowledge is limited by confused perception"
+  },
+  {
+    "id": 13791,
+    "topic": "Correspondence with Arnauld",
+    "premise": "truth|consists|inclusion|predicate|subject",
+    "conclusion": "Truth consists in the inclusion of the predicate in the subject"
+  },
+  {
+    "id": 13792,
+    "topic": "Correspondence with Arnauld",
+    "premise": "substance|accident|distinction|maps|onto|conceptual",
+    "conclusion": "Substance\u2013accident distinction maps onto conceptual inclusion"
+  },
+  {
+    "id": 13793,
+    "topic": "Correspondence with Arnauld",
+    "premise": "relations|grounded|intrinsic|properties|substances",
+    "conclusion": "Relations are grounded in intrinsic properties of substances"
+  },
+  {
+    "id": 13794,
+    "topic": "Correspondence with Arnauld",
+    "premise": "temporal|succession|unfolding|internal|states",
+    "conclusion": "Temporal succession is an unfolding of internal states"
+  },
+  {
+    "id": 13795,
+    "topic": "Correspondence with Arnauld",
+    "premise": "spatio|temporal|phenomena|appearances|grounded|substances",
+    "conclusion": "Spatio-temporal phenomena are appearances grounded in substances"
+  },
+  {
+    "id": 13796,
+    "topic": "Correspondence with Arnauld",
+    "premise": "qualities|bodies|arise|perceptions|substances",
+    "conclusion": "Qualities of bodies arise from perceptions in substances"
+  },
+  {
+    "id": 13797,
+    "topic": "Correspondence with Arnauld",
+    "premise": "humans|perceive|fragment|internal|states",
+    "conclusion": "Humans perceive only a fragment of their internal states"
+  },
+  {
+    "id": 13798,
+    "topic": "Correspondence with Arnauld",
+    "premise": "created|substances|indivisible",
+    "conclusion": "Created substances are indivisible"
+  },
+  {
+    "id": 13799,
+    "topic": "Correspondence with Arnauld",
+    "premise": "created|substance|begins|ends|without|sufficient",
+    "conclusion": "No created substance begins or ends without sufficient reason"
+  },
+  {
+    "id": 13800,
+    "topic": "Correspondence with Arnauld",
+    "premise": "conservation|continual|creation",
+    "conclusion": "Conservation is continual creation"
+  },
+  {
+    "id": 13801,
+    "topic": "Correspondence with Arnauld",
+    "premise": "knowledge|includes|counterfactuals",
+    "conclusion": "God's knowledge includes all counterfactuals"
+  },
+  {
+    "id": 13802,
+    "topic": "Correspondence with Arnauld",
+    "premise": "possible|adams|differ|complete|concept",
+    "conclusion": "Possible Adams differ by complete concept"
+  },
+  {
+    "id": 13803,
+    "topic": "Correspondence with Arnauld",
+    "premise": "selects|adam|actualize",
+    "conclusion": "God selects which Adam to actualize"
+  },
+  {
+    "id": 13804,
+    "topic": "Correspondence with Arnauld",
+    "premise": "necessity|inference|imply|existence",
+    "conclusion": "Necessity of inference does not imply necessity of existence"
+  },
+  {
+    "id": 13805,
+    "topic": "Correspondence with Arnauld",
+    "premise": "contingent|truths|infinitely|analyzable",
+    "conclusion": "Contingent truths are infinitely analyzable"
+  },
+  {
+    "id": 13806,
+    "topic": "Correspondence with Arnauld",
+    "premise": "human|beings|cannot|complete|analysis",
+    "conclusion": "Human beings cannot complete such analysis"
+  },
+  {
+    "id": 13807,
+    "topic": "Correspondence with Arnauld",
+    "premise": "distinct|ideas|depend|attention|reflection",
+    "conclusion": "Distinct ideas depend on attention and reflection"
+  },
+  {
+    "id": 13808,
+    "topic": "Correspondence with Arnauld",
+    "premise": "sensation|grade|confused|perception",
+    "conclusion": "Sensation is a low-grade confused perception"
+  },
+  {
+    "id": 13809,
+    "topic": "Correspondence with Arnauld",
+    "premise": "rational|inference|clarifies|confused|perceptions",
+    "conclusion": "Rational inference clarifies confused perceptions"
+  },
+  {
+    "id": 13810,
+    "topic": "Correspondence with Arnauld",
+    "premise": "moral|order|part|divine|wisdom",
+    "conclusion": "Moral order is part of divine wisdom"
+  },
+  {
+    "id": 13811,
+    "topic": "Correspondence with Arnauld",
+    "premise": "divine|justice|compatible|permission",
+    "conclusion": "Divine justice is compatible with divine permission"
+  },
+  {
+    "id": 13812,
+    "topic": "Correspondence with Arnauld",
+    "premise": "natural|evil|results|necessary|limitations|creatures",
+    "conclusion": "Natural evil results from necessary limitations of creatures"
+  },
+  {
+    "id": 13813,
+    "topic": "Correspondence with Arnauld",
+    "premise": "physical|laws|follow|metaphysical|principles",
+    "conclusion": "Physical laws follow from metaphysical principles"
+  },
+  {
+    "id": 13814,
+    "topic": "Correspondence with Arnauld",
+    "premise": "created|beings|retain|individuality|changes",
+    "conclusion": "Created beings retain individuality through all changes"
+  },
+  {
+    "id": 13815,
+    "topic": "Correspondence with Arnauld",
+    "premise": "harmony|among|substances|extends|events",
+    "conclusion": "Harmony among substances extends to all events"
+  },
+  {
+    "id": 13816,
+    "topic": "Correspondence with Arnauld",
+    "premise": "universe|perfection|arises|coordinated|substance|concepts",
+    "conclusion": "The universe's perfection arises from coordinated substance-concepts"
+  },
+  {
+    "id": 13817,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|innate|dispositions",
+    "conclusion": "The mind has innate dispositions"
+  },
+  {
+    "id": 13818,
+    "topic": "New Essays on Human Understanding",
+    "premise": "innate|ideas|tendencies|fully|formed|concepts",
+    "conclusion": "Innate ideas are tendencies, not fully formed concepts"
+  },
+  {
+    "id": 13819,
+    "topic": "New Essays on Human Understanding",
+    "premise": "experience|occasions|development|innate|principles",
+    "conclusion": "Experience occasions the development of innate principles"
+  },
+  {
+    "id": 13820,
+    "topic": "New Essays on Human Understanding",
+    "premise": "nothing|intellect|first|sense|except",
+    "conclusion": "Nothing is in the intellect that was not first in sense\u2014except the intellect itself"
+  },
+  {
+    "id": 13821,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sense|perception|confused|cognition",
+    "conclusion": "Sense perception is confused cognition"
+  },
+  {
+    "id": 13822,
+    "topic": "New Essays on Human Understanding",
+    "premise": "pure|understanding|provides|distinct|cognition",
+    "conclusion": "Pure understanding provides distinct cognition"
+  },
+  {
+    "id": 13823,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|truths|cannot|come|experience|alone",
+    "conclusion": "Necessary truths cannot come from experience alone"
+  },
+  {
+    "id": 13824,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mathematics|demonstrates|existence|innate|principles",
+    "conclusion": "Mathematics demonstrates the existence of innate principles"
+  },
+  {
+    "id": 13825,
+    "topic": "New Essays on Human Understanding",
+    "premise": "universal|propositions|presuppose|innate|structures",
+    "conclusion": "Universal propositions presuppose innate structures"
+  },
+  {
+    "id": 13826,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|contains|principles|identity|contradiction",
+    "conclusion": "The mind contains principles of identity and contradiction"
+  },
+  {
+    "id": 13827,
+    "topic": "New Essays on Human Understanding",
+    "premise": "principle|sufficient|reason|innate",
+    "conclusion": "The principle of sufficient reason is innate"
+  },
+  {
+    "id": 13828,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|innate",
+    "conclusion": "The idea of being is innate"
+  },
+  {
+    "id": 13829,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|substance|derived|internal|activity",
+    "conclusion": "The idea of substance is derived from internal activity"
+  },
+  {
+    "id": 13830,
+    "topic": "New Essays on Human Understanding",
+    "premise": "reflection|source|ideas|distinct|sensation",
+    "conclusion": "Reflection is a source of ideas distinct from sensation"
+  },
+  {
+    "id": 13831,
+    "topic": "New Essays on Human Understanding",
+    "premise": "personal|identity|grounded|continuity|perception",
+    "conclusion": "Personal identity is grounded in continuity of perception"
+  },
+  {
+    "id": 13832,
+    "topic": "New Essays on Human Understanding",
+    "premise": "soul|perceives|unaware",
+    "conclusion": "The soul always perceives, even when unaware"
+  },
+  {
+    "id": 13833,
+    "topic": "New Essays on Human Understanding",
+    "premise": "apperception|requires|attention",
+    "conclusion": "Apperception requires attention"
+  },
+  {
+    "id": 13834,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensations|resemble|internal|states|external|objects",
+    "conclusion": "Sensations resemble only internal states, not external objects"
+  },
+  {
+    "id": 13835,
+    "topic": "New Essays on Human Understanding",
+    "premise": "qualities|perceived|bodies",
+    "conclusion": "Qualities perceived are not in bodies as such"
+  },
+  {
+    "id": 13836,
+    "topic": "New Essays on Human Understanding",
+    "premise": "external|world|known|well|founded|phenomena",
+    "conclusion": "The external world is known through well-founded phenomena"
+  },
+  {
+    "id": 13837,
+    "topic": "New Essays on Human Understanding",
+    "premise": "truth|consists|inclusion|predicate|subject",
+    "conclusion": "Truth consists in the inclusion of the predicate in the subject"
+  },
+  {
+    "id": 13838,
+    "topic": "New Essays on Human Understanding",
+    "premise": "distinct|ideas|arise|analytic|clarity",
+    "conclusion": "Distinct ideas arise from analytic clarity"
+  },
+  {
+    "id": 13839,
+    "topic": "New Essays on Human Understanding",
+    "premise": "confused|ideas|holistic|impressions",
+    "conclusion": "Confused ideas are holistic impressions"
+  },
+  {
+    "id": 13840,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|improves|ideas|analysis",
+    "conclusion": "The mind improves ideas through analysis"
+  },
+  {
+    "id": 13841,
+    "topic": "New Essays on Human Understanding",
+    "premise": "knowledge|ranges|obscure|distinct",
+    "conclusion": "Knowledge ranges from obscure to distinct"
+  },
+  {
+    "id": 13842,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|truths|knowable|reason|alone",
+    "conclusion": "Necessary truths are knowable by reason alone"
+  },
+  {
+    "id": 13843,
+    "topic": "New Essays on Human Understanding",
+    "premise": "contingent|truths|depend|free|decrees",
+    "conclusion": "Contingent truths depend on God's free decrees"
+  },
+  {
+    "id": 13844,
+    "topic": "New Essays on Human Understanding",
+    "premise": "free|compatible|determinism",
+    "conclusion": "Free will is compatible with determinism"
+  },
+  {
+    "id": 13845,
+    "topic": "New Essays on Human Understanding",
+    "premise": "freedom|consists|acting|according|reasons",
+    "conclusion": "Freedom consists in acting according to reasons"
+  },
+  {
+    "id": 13846,
+    "topic": "New Essays on Human Understanding",
+    "premise": "volition|follows|greatest|apparent|good",
+    "conclusion": "Volition follows the greatest apparent good"
+  },
+  {
+    "id": 13847,
+    "topic": "New Essays on Human Understanding",
+    "premise": "appetite|links|perception|action",
+    "conclusion": "Appetite links perception and action"
+  },
+  {
+    "id": 13848,
+    "topic": "New Essays on Human Understanding",
+    "premise": "pleasure|perception|perfection",
+    "conclusion": "Pleasure is the perception of perfection"
+  },
+  {
+    "id": 13849,
+    "topic": "New Essays on Human Understanding",
+    "premise": "pain|perception|imperfection",
+    "conclusion": "Pain is the perception of imperfection"
+  },
+  {
+    "id": 13850,
+    "topic": "New Essays on Human Understanding",
+    "premise": "moral|truths|rational|basis",
+    "conclusion": "Moral truths have a rational basis"
+  },
+  {
+    "id": 13851,
+    "topic": "New Essays on Human Understanding",
+    "premise": "goodness|rooted|perfection",
+    "conclusion": "Goodness is rooted in perfection"
+  },
+  {
+    "id": 13852,
+    "topic": "New Essays on Human Understanding",
+    "premise": "evil|privation",
+    "conclusion": "Evil is privation"
+  },
+  {
+    "id": 13853,
+    "topic": "New Essays on Human Understanding",
+    "premise": "innate|moral|principles|require|cultivation|become",
+    "conclusion": "Innate moral principles require cultivation to become explicit"
+  },
+  {
+    "id": 13854,
+    "topic": "New Essays on Human Understanding",
+    "premise": "language|develops|innate|structures|interacting|experience",
+    "conclusion": "Language develops from innate structures interacting with experience"
+  },
+  {
+    "id": 13855,
+    "topic": "New Essays on Human Understanding",
+    "premise": "words|often|mislead|masking|conceptual|distinctions",
+    "conclusion": "Words often mislead by masking conceptual distinctions"
+  },
+  {
+    "id": 13856,
+    "topic": "New Essays on Human Understanding",
+    "premise": "definitions|clarify|confused|ideas",
+    "conclusion": "Definitions clarify confused ideas"
+  },
+  {
+    "id": 13857,
+    "topic": "New Essays on Human Understanding",
+    "premise": "empirical|knowledge|particular",
+    "conclusion": "Empirical knowledge is always particular"
+  },
+  {
+    "id": 13858,
+    "topic": "New Essays on Human Understanding",
+    "premise": "universal|knowledge|requires|rational|insight",
+    "conclusion": "Universal knowledge requires rational insight"
+  },
+  {
+    "id": 13859,
+    "topic": "New Essays on Human Understanding",
+    "premise": "ideas|space|time|relational",
+    "conclusion": "Ideas of space and time are relational"
+  },
+  {
+    "id": 13860,
+    "topic": "New Essays on Human Understanding",
+    "premise": "space|arises|relations|among|coexisting|things",
+    "conclusion": "Space arises from relations among coexisting things"
+  },
+  {
+    "id": 13861,
+    "topic": "New Essays on Human Understanding",
+    "premise": "time|arises|relations|among|successive|things",
+    "conclusion": "Time arises from relations among successive things"
+  },
+  {
+    "id": 13862,
+    "topic": "Mathematical Papers",
+    "premise": "continuity|fundamental|natural|processes",
+    "conclusion": "Continuity is fundamental to all natural processes"
+  },
+  {
+    "id": 13863,
+    "topic": "Mathematical Papers",
+    "premise": "nature|makes|jumps|mathematical|representation|reflect",
+    "conclusion": "Nature makes no jumps; mathematical representation must reflect this"
+  },
+  {
+    "id": 13864,
+    "topic": "Mathematical Papers",
+    "premise": "curves|analyzed|infinitesimals",
+    "conclusion": "Curves can be analyzed through infinitesimals"
+  },
+  {
+    "id": 13865,
+    "topic": "Mathematical Papers",
+    "premise": "infinitesimals|useful|fictions|encode|continuous|variation",
+    "conclusion": "Infinitesimals are useful fictions that encode continuous variation"
+  },
+  {
+    "id": 13866,
+    "topic": "Mathematical Papers",
+    "premise": "differential|represents|infinitely|small|change|quantity",
+    "conclusion": "A differential represents an infinitely small change in a quantity"
+  },
+  {
+    "id": 13867,
+    "topic": "Mathematical Papers",
+    "premise": "derivative|expresses|ratio|infinitesimal|changes",
+    "conclusion": "The derivative expresses the ratio of two infinitesimal changes"
+  },
+  {
+    "id": 13868,
+    "topic": "Mathematical Papers",
+    "premise": "derivative|gives|instantaneous|rate|change",
+    "conclusion": "The derivative gives the instantaneous rate of change"
+  },
+  {
+    "id": 13869,
+    "topic": "Mathematical Papers",
+    "premise": "integration|inverts|differentiation",
+    "conclusion": "Integration inverts differentiation"
+  },
+  {
+    "id": 13870,
+    "topic": "Mathematical Papers",
+    "premise": "integral|represents|summation|infinitesimal|parts",
+    "conclusion": "An integral represents the summation of infinitesimal parts"
+  },
+  {
+    "id": 13871,
+    "topic": "Mathematical Papers",
+    "premise": "area|curve|found|integration",
+    "conclusion": "The area under a curve is found by integration"
+  },
+  {
+    "id": 13872,
+    "topic": "Mathematical Papers",
+    "premise": "fundamental|theorem|calculus|links|differentiation|integration",
+    "conclusion": "The fundamental theorem of calculus links differentiation and integration"
+  },
+  {
+    "id": 13873,
+    "topic": "Mathematical Papers",
+    "premise": "differentials|obey|algebraic|rules",
+    "conclusion": "Differentials obey algebraic rules"
+  },
+  {
+    "id": 13874,
+    "topic": "Mathematical Papers",
+    "premise": "manipulated|symbolically",
+    "conclusion": "dx and dy can be manipulated symbolically"
+  },
+  {
+    "id": 13875,
+    "topic": "Mathematical Papers",
+    "premise": "higher|order|differentials|capture|curvature|complex",
+    "conclusion": "Higher-order differentials capture curvature and more complex change"
+  },
+  {
+    "id": 13876,
+    "topic": "Mathematical Papers",
+    "premise": "tangents|curves|found|differentiation",
+    "conclusion": "Tangents to curves are found by differentiation"
+  },
+  {
+    "id": 13877,
+    "topic": "Mathematical Papers",
+    "premise": "maxima|minima|detected|setting|derivatives|zero",
+    "conclusion": "Maxima and minima are detected by setting derivatives to zero"
+  },
+  {
+    "id": 13878,
+    "topic": "Mathematical Papers",
+    "premise": "inflection|points|correspond|vanishing|second|derivatives",
+    "conclusion": "Inflection points correspond to vanishing second derivatives"
+  },
+  {
+    "id": 13879,
+    "topic": "Mathematical Papers",
+    "premise": "series|expansions|approximate|functions|locally",
+    "conclusion": "Series expansions approximate functions locally"
+  },
+  {
+    "id": 13880,
+    "topic": "Mathematical Papers",
+    "premise": "infinite|series|represent|continuous|curves",
+    "conclusion": "Infinite series can represent continuous curves"
+  },
+  {
+    "id": 13881,
+    "topic": "Mathematical Papers",
+    "premise": "convergence|criteria|ensure|valid|expansions",
+    "conclusion": "Convergence criteria ensure valid expansions"
+  },
+  {
+    "id": 13882,
+    "topic": "Mathematical Papers",
+    "premise": "transcendental|curves|require|differential|equations|analysis",
+    "conclusion": "Transcendental curves require differential equations for analysis"
+  },
+  {
+    "id": 13883,
+    "topic": "Mathematical Papers",
+    "premise": "many|curves|defined|implicitly|equations|change",
+    "conclusion": "Many curves are defined implicitly through equations of change"
+  },
+  {
+    "id": 13884,
+    "topic": "Mathematical Papers",
+    "premise": "differential|equations|describe|laws|nature",
+    "conclusion": "Differential equations describe laws of nature"
+  },
+  {
+    "id": 13885,
+    "topic": "Mathematical Papers",
+    "premise": "solutions|arise|integrating|differential|relations",
+    "conclusion": "Solutions arise from integrating differential relations"
+  },
+  {
+    "id": 13886,
+    "topic": "Mathematical Papers",
+    "premise": "separation|variables|simplifies|integration",
+    "conclusion": "Separation of variables simplifies integration"
+  },
+  {
+    "id": 13887,
+    "topic": "Mathematical Papers",
+    "premise": "integrating|factors|resolve|certain|differential|forms",
+    "conclusion": "Integrating factors resolve certain differential forms"
+  },
+  {
+    "id": 13888,
+    "topic": "Mathematical Papers",
+    "premise": "logarithms|convert|multiplicative|relations|additive",
+    "conclusion": "Logarithms convert multiplicative relations into additive ones"
+  },
+  {
+    "id": 13889,
+    "topic": "Mathematical Papers",
+    "premise": "exponential|functions|arise|naturally|constant|rate",
+    "conclusion": "Exponential functions arise naturally from constant-rate growth"
+  },
+  {
+    "id": 13890,
+    "topic": "Mathematical Papers",
+    "premise": "lengths|computed|integrating|infinitesimals",
+    "conclusion": "Arc lengths are computed by integrating infinitesimals"
+  },
+  {
+    "id": 13891,
+    "topic": "Mathematical Papers",
+    "premise": "surface|areas|require|double|integration",
+    "conclusion": "Surface areas require double integration"
+  },
+  {
+    "id": 13892,
+    "topic": "Mathematical Papers",
+    "premise": "volumes|solids|revolution|require|rotational|integration",
+    "conclusion": "Volumes of solids of revolution require rotational integration"
+  },
+  {
+    "id": 13893,
+    "topic": "Mathematical Papers",
+    "premise": "velocity|first|derivative|position",
+    "conclusion": "Velocity is the first derivative of position"
+  },
+  {
+    "id": 13894,
+    "topic": "Mathematical Papers",
+    "premise": "acceleration|second|derivative|position",
+    "conclusion": "Acceleration is the second derivative of position"
+  },
+  {
+    "id": 13895,
+    "topic": "Mathematical Papers",
+    "premise": "force|equals|mass|times|acceleration",
+    "conclusion": "Force equals mass times acceleration"
+  },
+  {
+    "id": 13896,
+    "topic": "Mathematical Papers",
+    "premise": "work|equals|force|times|distance|computable",
+    "conclusion": "Work equals force times distance, computable by integration"
+  },
+  {
+    "id": 13897,
+    "topic": "Mathematical Papers",
+    "premise": "energy|relations|involve|viva",
+    "conclusion": "Energy relations involve vis viva (mv\u00b2)"
+  },
+  {
+    "id": 13898,
+    "topic": "Mathematical Papers",
+    "premise": "conservation|laws|written|differential|identities",
+    "conclusion": "Conservation laws can be written as differential identities"
+  },
+  {
+    "id": 13899,
+    "topic": "Mathematical Papers",
+    "premise": "mechanical|systems|obey|differential|constraints",
+    "conclusion": "Mechanical systems obey differential constraints"
+  },
+  {
+    "id": 13900,
+    "topic": "Mathematical Papers",
+    "premise": "curvature|curves|expressed|derivatives",
+    "conclusion": "Curvature of curves can be expressed through derivatives"
+  },
+  {
+    "id": 13901,
+    "topic": "Mathematical Papers",
+    "premise": "oscillatory|motion|requires|second|order|differential",
+    "conclusion": "Oscillatory motion requires second-order differential equations"
+  },
+  {
+    "id": 13902,
+    "topic": "Mathematical Papers",
+    "premise": "harmonic|motion|described|sinusoidal|solutions",
+    "conclusion": "Harmonic motion is described by sinusoidal solutions"
+  },
+  {
+    "id": 13903,
+    "topic": "Mathematical Papers",
+    "premise": "planetary|motion|follows|geometric|differential|rules",
+    "conclusion": "Planetary motion follows geometric-differential rules"
+  },
+  {
+    "id": 13904,
+    "topic": "Mathematical Papers",
+    "premise": "calculus|underlies|celestial|mechanics",
+    "conclusion": "Calculus underlies celestial mechanics"
+  },
+  {
+    "id": 13905,
+    "topic": "Mathematical Papers",
+    "premise": "best|laws|nature|expressible|simple|differential",
+    "conclusion": "The best laws of nature are those expressible by simple differential forms"
+  },
+  {
+    "id": 13906,
+    "topic": "Mathematical Papers",
+    "premise": "calculus|provides|universal|mathematical|method",
+    "conclusion": "Calculus provides a universal mathematical method"
+  },
+  {
+    "id": 13907,
+    "topic": "Mathematical Papers",
+    "premise": "infinitesimals|smaller|assignable|magnitude",
+    "conclusion": "Infinitesimals are smaller than any assignable magnitude"
+  },
+  {
+    "id": 13908,
+    "topic": "Mathematical Papers",
+    "premise": "ratios|infinitesimals|remain|finite|meaningful",
+    "conclusion": "Ratios of infinitesimals remain finite and meaningful"
+  },
+  {
+    "id": 13909,
+    "topic": "Mathematical Papers",
+    "premise": "coordinate|transformations|preserve|differential|relations",
+    "conclusion": "Coordinate transformations preserve differential relations"
+  },
+  {
+    "id": 13910,
+    "topic": "Mathematical Papers",
+    "premise": "symmetry|simplifies|differential|equations",
+    "conclusion": "Symmetry simplifies differential equations"
+  },
+  {
+    "id": 13911,
+    "topic": "Mathematical Papers",
+    "premise": "partial|derivatives|generalize|single|variable|calculus",
+    "conclusion": "Partial derivatives generalize single-variable calculus"
+  },
+  {
+    "id": 13912,
+    "topic": "Mathematical Papers",
+    "premise": "systems|differential|equations|describe|complex|interactions",
+    "conclusion": "Systems of differential equations describe complex interactions"
+  },
+  {
+    "id": 13913,
+    "topic": "Mathematical Papers",
+    "premise": "implicit|differentiation|handles|solvable|explicit|forms",
+    "conclusion": "Implicit differentiation handles non-solvable explicit forms"
+  },
+  {
+    "id": 13914,
+    "topic": "Mathematical Papers",
+    "premise": "jacobians|express|multidimensional|rates|change",
+    "conclusion": "Jacobians express multidimensional rates of change"
+  },
+  {
+    "id": 13915,
+    "topic": "Mathematical Papers",
+    "premise": "variational|methods|reveal|underlying|physical|laws",
+    "conclusion": "Variational methods reveal underlying physical laws"
+  },
+  {
+    "id": 13916,
+    "topic": "Mathematical Papers",
+    "premise": "extremal|principles|reduce|physics|optimization",
+    "conclusion": "Extremal principles reduce physics to optimization"
+  },
+  {
+    "id": 13917,
+    "topic": "Mathematical Papers",
+    "premise": "calculus|enables|approximating|irrational|magnitudes",
+    "conclusion": "Calculus enables approximating irrational magnitudes"
+  },
+  {
+    "id": 13918,
+    "topic": "Mathematical Papers",
+    "premise": "infinite|processes|controlled|finite|rules",
+    "conclusion": "Infinite processes can be controlled by finite rules"
+  },
+  {
+    "id": 13919,
+    "topic": "Mathematical Papers",
+    "premise": "divergent|series|require|cautious|interpretation",
+    "conclusion": "Divergent series require cautious interpretation"
+  },
+  {
+    "id": 13920,
+    "topic": "Mathematical Papers",
+    "premise": "convergent|series|extend|domain|functions",
+    "conclusion": "Convergent series extend the domain of functions"
+  },
+  {
+    "id": 13921,
+    "topic": "Mathematical Papers",
+    "premise": "analytic|continuation|extends|functions|beyond|original",
+    "conclusion": "Analytic continuation extends functions beyond original ranges"
+  },
+  {
+    "id": 13922,
+    "topic": "Mathematical Papers",
+    "premise": "differential|geometry|grows|naturally|calculus",
+    "conclusion": "Differential geometry grows naturally from calculus"
+  },
+  {
+    "id": 13923,
+    "topic": "Mathematical Papers",
+    "premise": "curved|spaces|require|generalization|differential|notions",
+    "conclusion": "Curved spaces require generalization of differential notions"
+  },
+  {
+    "id": 13924,
+    "topic": "Mathematical Papers",
+    "premise": "mechanics|emerges|geometric|differential|analysis",
+    "conclusion": "Mechanics emerges from geometric-differential analysis"
+  },
+  {
+    "id": 13925,
+    "topic": "Mathematical Papers",
+    "premise": "continuous|distributions|require|integral|calculus",
+    "conclusion": "Continuous distributions require integral calculus"
+  },
+  {
+    "id": 13926,
+    "topic": "Mathematical Papers",
+    "premise": "expected|values|arise|weighted|integrals",
+    "conclusion": "Expected values arise from weighted integrals"
+  },
+  {
+    "id": 13927,
+    "topic": "Mathematical Papers",
+    "premise": "optimization|problems|reduce|derivative|tests",
+    "conclusion": "Optimization problems reduce to derivative tests"
+  },
+  {
+    "id": 13928,
+    "topic": "Mathematical Papers",
+    "premise": "errors|computation|bounded|differential|estimates",
+    "conclusion": "Errors in computation can be bounded by differential estimates"
+  },
+  {
+    "id": 13929,
+    "topic": "Mathematical Papers",
+    "premise": "approximations|become|exact|infinitesimal|limit",
+    "conclusion": "Approximations become exact in the infinitesimal limit"
+  },
+  {
+    "id": 13930,
+    "topic": "Mathematical Papers",
+    "premise": "calculus|variations|links|geometry|physics",
+    "conclusion": "The calculus of variations links geometry and physics"
+  },
+  {
+    "id": 13931,
+    "topic": "Mathematical Papers",
+    "premise": "nature|optimizes|according|differential|constraints",
+    "conclusion": "Nature optimizes according to differential constraints"
+  },
+  {
+    "id": 13932,
+    "topic": "Specimen Dynamicum",
+    "premise": "force|fundamental|reality|bodies",
+    "conclusion": "Force is the fundamental reality in bodies"
+  },
+  {
+    "id": 13933,
+    "topic": "Specimen Dynamicum",
+    "premise": "active|force|primitive|substances",
+    "conclusion": "Active force is primitive in substances"
+  },
+  {
+    "id": 13934,
+    "topic": "Specimen Dynamicum",
+    "premise": "passive|force|limitation|activity",
+    "conclusion": "Passive force is limitation of activity"
+  },
+  {
+    "id": 13935,
+    "topic": "Specimen Dynamicum",
+    "premise": "motion|expression|force|essence",
+    "conclusion": "Motion is an expression of force, not its essence"
+  },
+  {
+    "id": 13936,
+    "topic": "Specimen Dynamicum",
+    "premise": "dynamics|prior|kinematics",
+    "conclusion": "Dynamics is prior to kinematics"
+  },
+  {
+    "id": 13937,
+    "topic": "Specimen Dynamicum",
+    "premise": "quantity|motion|insufficient|explain|phenomena",
+    "conclusion": "Quantity of motion is insufficient to explain phenomena"
+  },
+  {
+    "id": 13938,
+    "topic": "Specimen Dynamicum",
+    "premise": "living|force|viva|measures|true|physical",
+    "conclusion": "Living force (vis viva) measures true physical activity"
+  },
+  {
+    "id": 13939,
+    "topic": "Specimen Dynamicum",
+    "premise": "viva|proportional",
+    "conclusion": "Vis viva is proportional to mv\u00b2"
+  },
+  {
+    "id": 13940,
+    "topic": "Specimen Dynamicum",
+    "premise": "conservation|viva|natural",
+    "conclusion": "Conservation of vis viva is a natural law"
+  },
+  {
+    "id": 13941,
+    "topic": "Specimen Dynamicum",
+    "premise": "mechanical|effects|depend|square|velocity",
+    "conclusion": "Mechanical effects depend on the square of velocity"
+  },
+  {
+    "id": 13942,
+    "topic": "Specimen Dynamicum",
+    "premise": "collisions|reveal|role|active|forces",
+    "conclusion": "Collisions reveal the role of active forces"
+  },
+  {
+    "id": 13943,
+    "topic": "Specimen Dynamicum",
+    "premise": "elasticity|depends|internal|forces|bodies",
+    "conclusion": "Elasticity depends on internal forces of bodies"
+  },
+  {
+    "id": 13944,
+    "topic": "Specimen Dynamicum",
+    "premise": "rest|limiting|case|motion",
+    "conclusion": "Rest is a limiting case of motion"
+  },
+  {
+    "id": 13945,
+    "topic": "Specimen Dynamicum",
+    "premise": "bodies|contain|internal|striving|conatus",
+    "conclusion": "Bodies contain internal striving (conatus)"
+  },
+  {
+    "id": 13946,
+    "topic": "Specimen Dynamicum",
+    "premise": "conatus|infinitesimal|element|motion",
+    "conclusion": "Conatus is the infinitesimal element of motion"
+  },
+  {
+    "id": 13947,
+    "topic": "Specimen Dynamicum",
+    "premise": "forces|combine|according|metaphysical|principles",
+    "conclusion": "Forces combine according to metaphysical principles"
+  },
+  {
+    "id": 13948,
+    "topic": "Specimen Dynamicum",
+    "premise": "inertia|reflects|passive|resistance|change",
+    "conclusion": "Inertia reflects passive resistance to change"
+  },
+  {
+    "id": 13949,
+    "topic": "Specimen Dynamicum",
+    "premise": "resistance|arises|internal|force|limitations",
+    "conclusion": "Resistance arises from internal force limitations"
+  },
+  {
+    "id": 13950,
+    "topic": "Specimen Dynamicum",
+    "premise": "active|force|grounds|physical|changes",
+    "conclusion": "Active force grounds all physical changes"
+  },
+  {
+    "id": 13951,
+    "topic": "Specimen Dynamicum",
+    "premise": "passive|force|explains|retardation|motion",
+    "conclusion": "Passive force explains retardation of motion"
+  },
+  {
+    "id": 13952,
+    "topic": "Specimen Dynamicum",
+    "premise": "impenetrability|arises|force|based|resistance",
+    "conclusion": "Impenetrability arises from force-based resistance"
+  },
+  {
+    "id": 13953,
+    "topic": "Specimen Dynamicum",
+    "premise": "cohesion|bodies|internal|forces",
+    "conclusion": "Cohesion in bodies is due to internal forces"
+  },
+  {
+    "id": 13954,
+    "topic": "Specimen Dynamicum",
+    "premise": "elastic|bodies|store|restore|viva",
+    "conclusion": "Elastic bodies store and restore vis viva"
+  },
+  {
+    "id": 13955,
+    "topic": "Specimen Dynamicum",
+    "premise": "perfectly|hard|bodies|impossible",
+    "conclusion": "Perfectly hard bodies are impossible"
+  },
+  {
+    "id": 13956,
+    "topic": "Specimen Dynamicum",
+    "premise": "force|explains|continuity|motion",
+    "conclusion": "Force explains continuity of motion"
+  },
+  {
+    "id": 13957,
+    "topic": "Specimen Dynamicum",
+    "premise": "spatial|configuration|reflects|distribution|forces",
+    "conclusion": "Spatial configuration reflects distribution of forces"
+  },
+  {
+    "id": 13958,
+    "topic": "Specimen Dynamicum",
+    "premise": "bodies|persist|conservation|active|force",
+    "conclusion": "Bodies persist through conservation of active force"
+  },
+  {
+    "id": 13959,
+    "topic": "Specimen Dynamicum",
+    "premise": "resistance|varies|internal|structure",
+    "conclusion": "Resistance varies with internal structure"
+  },
+  {
+    "id": 13960,
+    "topic": "Specimen Dynamicum",
+    "premise": "phenomenal|mass|corresponds|force|bearing|capacity",
+    "conclusion": "Phenomenal mass corresponds to force-bearing capacity"
+  },
+  {
+    "id": 13961,
+    "topic": "Specimen Dynamicum",
+    "premise": "nature|hierarchy|force|centers",
+    "conclusion": "Nature is a hierarchy of force-centers"
+  },
+  {
+    "id": 13962,
+    "topic": "Essay on Dynamics",
+    "premise": "motion|explained|force|mere|geometry",
+    "conclusion": "Motion must be explained through force, not mere geometry"
+  },
+  {
+    "id": 13963,
+    "topic": "Essay on Dynamics",
+    "premise": "cartesian|conservation|quantity|motion|incorrect",
+    "conclusion": "Cartesian conservation of quantity of motion is incorrect"
+  },
+  {
+    "id": 13964,
+    "topic": "Essay on Dynamics",
+    "premise": "true|conserved|quantity|viva",
+    "conclusion": "The true conserved quantity is vis viva (mv\u00b2)"
+  },
+  {
+    "id": 13965,
+    "topic": "Essay on Dynamics",
+    "premise": "force|fundamental|principle|dynamics",
+    "conclusion": "Force is the fundamental principle of dynamics"
+  },
+  {
+    "id": 13966,
+    "topic": "Essay on Dynamics",
+    "premise": "motion|expression|underlying|force",
+    "conclusion": "Motion is the expression of underlying force"
+  },
+  {
+    "id": 13967,
+    "topic": "Essay on Dynamics",
+    "premise": "collision|phenomena|reveal|conservation|viva",
+    "conclusion": "Collision phenomena reveal conservation of vis viva"
+  },
+  {
+    "id": 13968,
+    "topic": "Essay on Dynamics",
+    "premise": "elastic|collisions|cannot|explained|cartesian|mechanics",
+    "conclusion": "Elastic collisions cannot be explained by Cartesian mechanics"
+  },
+  {
+    "id": 13969,
+    "topic": "Essay on Dynamics",
+    "premise": "bodies|contain|internal|springs|elastic|forces",
+    "conclusion": "Bodies contain internal springs or elastic forces"
+  },
+  {
+    "id": 13970,
+    "topic": "Essay on Dynamics",
+    "premise": "elasticity|indicates|internal|principles|action",
+    "conclusion": "Elasticity indicates internal principles of action"
+  },
+  {
+    "id": 13971,
+    "topic": "Essay on Dynamics",
+    "premise": "passive|force|accounts|resistance|bodies",
+    "conclusion": "Passive force accounts for resistance in bodies"
+  },
+  {
+    "id": 13972,
+    "topic": "Essay on Dynamics",
+    "premise": "active|force|accounts|spontaneous|tendency|toward",
+    "conclusion": "Active force accounts for spontaneous tendency toward motion"
+  },
+  {
+    "id": 13973,
+    "topic": "Essay on Dynamics",
+    "premise": "corporeal|change|arises|modifications|force",
+    "conclusion": "All corporeal change arises from modifications of force"
+  },
+  {
+    "id": 13974,
+    "topic": "Essay on Dynamics",
+    "premise": "force|precedes|extension|conceptually",
+    "conclusion": "Force precedes extension conceptually"
+  },
+  {
+    "id": 13975,
+    "topic": "Essay on Dynamics",
+    "premise": "conservation|principles|derive|divine|wisdom",
+    "conclusion": "Conservation principles derive from divine wisdom"
+  },
+  {
+    "id": 13976,
+    "topic": "Essay on Dynamics",
+    "premise": "nature|exhibits|maximal|simplicity|laws|richness",
+    "conclusion": "Nature exhibits maximal simplicity in laws and maximal richness in effects"
+  },
+  {
+    "id": 13977,
+    "topic": "Essay on Dynamics",
+    "premise": "infinitely|many|small|organic|structures|underlie",
+    "conclusion": "Infinitely many small organic structures underlie physical bodies"
+  },
+  {
+    "id": 13978,
+    "topic": "Essay on Dynamics",
+    "premise": "motion|continuous|nature|makes|jumps",
+    "conclusion": "Motion is continuous; nature makes no jumps"
+  },
+  {
+    "id": 13979,
+    "topic": "Essay on Dynamics",
+    "premise": "force|distributed|continuously|throughout|matter",
+    "conclusion": "Force is distributed continuously throughout matter"
+  },
+  {
+    "id": 13980,
+    "topic": "Essay on Dynamics",
+    "premise": "matter|infinitely|divisible",
+    "conclusion": "Matter is infinitely divisible"
+  },
+  {
+    "id": 13981,
+    "topic": "Essay on Dynamics",
+    "premise": "inertia|effect|passive|force",
+    "conclusion": "Inertia is an effect of passive force"
+  },
+  {
+    "id": 13982,
+    "topic": "Essay on Dynamics",
+    "premise": "acceleration|reflects|application|active|force",
+    "conclusion": "Acceleration reflects the application of active force"
+  },
+  {
+    "id": 13983,
+    "topic": "Essay on Dynamics",
+    "premise": "true|measure|action|rooted|force|times",
+    "conclusion": "The true measure of action is rooted in force times time"
+  },
+  {
+    "id": 13984,
+    "topic": "Essay on Dynamics",
+    "premise": "calculus|provides|correct|mathematics|dynamics",
+    "conclusion": "The calculus provides the correct mathematics for dynamics"
+  },
+  {
+    "id": 13985,
+    "topic": "Essay on Dynamics",
+    "premise": "instantaneous|force|corresponds|derivative|quantities",
+    "conclusion": "Instantaneous force corresponds to derivative quantities"
+  },
+  {
+    "id": 13986,
+    "topic": "Essay on Dynamics",
+    "premise": "work|energy|concepts|embody|viva|principles",
+    "conclusion": "Work and energy concepts embody vis viva principles"
+  },
+  {
+    "id": 13987,
+    "topic": "Essay on Dynamics",
+    "premise": "momentum|alone|cannot|explain|dynamic|phenomena",
+    "conclusion": "Momentum alone cannot explain dynamic phenomena"
+  },
+  {
+    "id": 13988,
+    "topic": "Essay on Dynamics",
+    "premise": "viva|accounts|stored|energy|elastic|deformation",
+    "conclusion": "Vis viva accounts for stored energy in elastic deformation"
+  },
+  {
+    "id": 13989,
+    "topic": "Essay on Dynamics",
+    "premise": "impacts|redistribute|viva|without|destroying",
+    "conclusion": "Impacts redistribute vis viva without destroying it"
+  },
+  {
+    "id": 13990,
+    "topic": "Essay on Dynamics",
+    "premise": "dissipation|phenomena|still|conserve|total|force",
+    "conclusion": "Dissipation phenomena still conserve total force at the metaphysical level"
+  },
+  {
+    "id": 13991,
+    "topic": "Essay on Dynamics",
+    "premise": "motion|relative|absolute|space|meaningless",
+    "conclusion": "Motion relative to absolute space is meaningless"
+  },
+  {
+    "id": 13992,
+    "topic": "Essay on Dynamics",
+    "premise": "dynamics|relational|grounded|mutual|situations",
+    "conclusion": "Dynamics must be relational, grounded in mutual situations"
+  },
+  {
+    "id": 13993,
+    "topic": "Essay on Dynamics",
+    "premise": "true|motion|internal|change|substance|perceptual",
+    "conclusion": "True motion is internal change in a substance's perceptual state"
+  },
+  {
+    "id": 13994,
+    "topic": "Essay on Dynamics",
+    "premise": "apparent|motion|depends|relations|among|bodies",
+    "conclusion": "Apparent motion depends on relations among bodies"
+  },
+  {
+    "id": 13995,
+    "topic": "Essay on Dynamics",
+    "premise": "stability|systems|reflects|optimization|design",
+    "conclusion": "The stability of systems reflects optimization in God's design"
+  },
+  {
+    "id": 13996,
+    "topic": "Mathematical Corpus",
+    "premise": "binary|arithmetic|expresses|numbers|solely",
+    "conclusion": "Binary arithmetic expresses numbers solely with 0 and 1"
+  },
+  {
+    "id": 13997,
+    "topic": "Mathematical Corpus",
+    "premise": "binary|representation|simplifies|computation|mechanical|operations",
+    "conclusion": "Binary representation simplifies computation to mechanical operations"
+  },
+  {
+    "id": 13998,
+    "topic": "Mathematical Corpus",
+    "premise": "carrying|rules|binary|reduce|computational|complexity",
+    "conclusion": "Carrying rules in binary reduce computational complexity"
+  },
+  {
+    "id": 13999,
+    "topic": "Mathematical Corpus",
+    "premise": "determinants|encode|relations|among|sets|linear",
+    "conclusion": "Determinants encode relations among sets of linear equations"
+  },
+  {
+    "id": 14000,
+    "topic": "Mathematical Corpus",
+    "premise": "solutions|linear|systems|follow|determinant|ratios",
+    "conclusion": "Solutions to linear systems follow from determinant ratios"
+  },
+  {
+    "id": 14001,
+    "topic": "Mathematical Corpus",
+    "premise": "linear|dependence|corresponds|vanishing|determinants",
+    "conclusion": "Linear dependence corresponds to vanishing determinants"
+  },
+  {
+    "id": 14002,
+    "topic": "Mathematical Corpus",
+    "premise": "combinatorial|coefficients|appear|naturally|expansions",
+    "conclusion": "Combinatorial coefficients appear naturally in expansions"
+  },
+  {
+    "id": 14003,
+    "topic": "Mathematical Corpus",
+    "premise": "binomial|expansion|generalizes|fractional|powers",
+    "conclusion": "Binomial expansion generalizes to fractional powers"
+  },
+  {
+    "id": 14004,
+    "topic": "Mathematical Corpus",
+    "premise": "probabilities|arise|counting|equipossible|cases",
+    "conclusion": "Probabilities arise from counting equipossible cases"
+  },
+  {
+    "id": 14005,
+    "topic": "Mathematical Corpus",
+    "premise": "expected|value|weights|outcomes|probabilities",
+    "conclusion": "Expected value weights outcomes by their probabilities"
+  },
+  {
+    "id": 14006,
+    "topic": "Mathematical Papers",
+    "premise": "curve|locally|approximated|tangent|line",
+    "conclusion": "Any curve can be locally approximated by its tangent line"
+  },
+  {
+    "id": 14007,
+    "topic": "Mathematical Papers",
+    "premise": "curve|locally|approximated|second|order|osculating",
+    "conclusion": "Any curve can be locally approximated to second order by its osculating circle"
+  },
+  {
+    "id": 14008,
+    "topic": "Mathematical Papers",
+    "premise": "higher|order|taylor|expansions|yield|progressively",
+    "conclusion": "Higher-order Taylor expansions yield progressively better local approximations"
+  },
+  {
+    "id": 14009,
+    "topic": "Mathematical Papers",
+    "premise": "taylor|series|encode|infinite|analytic|structure",
+    "conclusion": "Taylor series encode infinite analytic structure in finite symbolic form"
+  },
+  {
+    "id": 14010,
+    "topic": "Mathematical Papers",
+    "premise": "error|terms|expansions|controlled|differential|bounds",
+    "conclusion": "Error terms in expansions can be controlled by differential bounds"
+  },
+  {
+    "id": 14011,
+    "topic": "Mathematical Papers",
+    "premise": "convergence|rates|depend|derivative|magnitudes",
+    "conclusion": "Convergence rates depend on derivative magnitudes"
+  },
+  {
+    "id": 14012,
+    "topic": "Mathematical Papers",
+    "premise": "analytic|functions|uniquely|determined|derivatives|point",
+    "conclusion": "Analytic functions are uniquely determined by their derivatives at a point"
+  },
+  {
+    "id": 14013,
+    "topic": "Mathematical Papers",
+    "premise": "power|series|provide|universal|function|representations",
+    "conclusion": "Power series provide universal function representations where they converge"
+  },
+  {
+    "id": 14014,
+    "topic": "Mathematical Papers",
+    "premise": "differential|equations|specify|families|curves|slope",
+    "conclusion": "Differential equations specify families of curves through slope constraints"
+  },
+  {
+    "id": 14015,
+    "topic": "Mathematical Papers",
+    "premise": "integral|curves|traced|following|infinitesimal|slopes",
+    "conclusion": "Integral curves are traced by following infinitesimal slopes"
+  },
+  {
+    "id": 14016,
+    "topic": "Mathematical Papers",
+    "premise": "uniqueness|solutions|depends|smoothness|conditions",
+    "conclusion": "Uniqueness of solutions depends on smoothness conditions"
+  },
+  {
+    "id": 14017,
+    "topic": "Mathematical Papers",
+    "premise": "existence|solutions|requires|bounding|differential|growth",
+    "conclusion": "Existence of solutions requires bounding differential growth"
+  },
+  {
+    "id": 14018,
+    "topic": "Mathematical Papers",
+    "premise": "separation|variables|yields|solvable|first|order",
+    "conclusion": "Separation of variables yields solvable first-order equations"
+  },
+  {
+    "id": 14019,
+    "topic": "Mathematical Papers",
+    "premise": "bernoulli|equations|reduce|linear|differentials",
+    "conclusion": "Bernoulli equations reduce to linear differentials"
+  },
+  {
+    "id": 14020,
+    "topic": "Mathematical Papers",
+    "premise": "linear|equations|admit|superposition|solutions",
+    "conclusion": "Linear equations admit superposition of solutions"
+  },
+  {
+    "id": 14021,
+    "topic": "Mathematical Papers",
+    "premise": "homogeneous|equations|scale|multiplicative|factors",
+    "conclusion": "Homogeneous equations scale under multiplicative factors"
+  },
+  {
+    "id": 14022,
+    "topic": "Mathematical Papers",
+    "premise": "homogeneous|forms|require|particular|solutions",
+    "conclusion": "Non-homogeneous forms require particular solutions"
+  },
+  {
+    "id": 14023,
+    "topic": "Mathematical Papers",
+    "premise": "integration|factors|turn|exact|differentials",
+    "conclusion": "Integration factors turn non-exact differentials into exact ones"
+  },
+  {
+    "id": 14024,
+    "topic": "Mathematical Papers",
+    "premise": "exact|differentials|correspond|gradients|scalar|functions",
+    "conclusion": "Exact differentials correspond to gradients of scalar functions"
+  },
+  {
+    "id": 14025,
+    "topic": "Mathematical Papers",
+    "premise": "level|curves|arise|integrating|exact|relations",
+    "conclusion": "Level curves arise from integrating exact relations"
+  },
+  {
+    "id": 14026,
+    "topic": "Mathematical Papers",
+    "premise": "mixed|partial|derivatives|commute|smoothness|conditions",
+    "conclusion": "Mixed partial derivatives commute under smoothness conditions"
+  },
+  {
+    "id": 14027,
+    "topic": "Mathematical Papers",
+    "premise": "hessians|capture|second|order|structure|multivariable",
+    "conclusion": "Hessians capture second-order structure of multivariable functions"
+  },
+  {
+    "id": 14028,
+    "topic": "Mathematical Papers",
+    "premise": "critical|points|require|vanishing|gradient",
+    "conclusion": "Critical points require vanishing gradient"
+  },
+  {
+    "id": 14029,
+    "topic": "Mathematical Papers",
+    "premise": "classification|critical|points|depends|hessian|signature",
+    "conclusion": "Classification of critical points depends on Hessian signature"
+  },
+  {
+    "id": 14030,
+    "topic": "Mathematical Papers",
+    "premise": "lagrange|multipliers|impose|constraints|optimization",
+    "conclusion": "Lagrange multipliers impose constraints on optimization"
+  },
+  {
+    "id": 14031,
+    "topic": "Mathematical Papers",
+    "premise": "constrained|extrema|solve|generalized|differential|systems",
+    "conclusion": "Constrained extrema solve generalized differential systems"
+  },
+  {
+    "id": 14032,
+    "topic": "Mathematical Papers",
+    "premise": "differential|inequalities|bound|solution|behavior",
+    "conclusion": "Differential inequalities bound solution behavior"
+  },
+  {
+    "id": 14033,
+    "topic": "Mathematical Papers",
+    "premise": "comparison|theorems|estimate|trajectories|differential|systems",
+    "conclusion": "Comparison theorems estimate trajectories of differential systems"
+  },
+  {
+    "id": 14034,
+    "topic": "Mathematical Papers",
+    "premise": "linearization|approximates|nonlinear|behavior|near|equilibrium",
+    "conclusion": "Linearization approximates nonlinear behavior near equilibrium"
+  },
+  {
+    "id": 14035,
+    "topic": "Mathematical Papers",
+    "premise": "stability|analysis|hinges|eigenvalues|linearization",
+    "conclusion": "Stability analysis hinges on eigenvalues of linearization"
+  },
+  {
+    "id": 14036,
+    "topic": "Mathematical Papers",
+    "premise": "growth|rates|solutions|follow|exponential|patterns",
+    "conclusion": "Growth rates of solutions follow exponential patterns under linear laws"
+  },
+  {
+    "id": 14037,
+    "topic": "Mathematical Papers",
+    "premise": "oscillations|arise|complex|eigenvalues",
+    "conclusion": "Oscillations arise from complex eigenvalues"
+  },
+  {
+    "id": 14038,
+    "topic": "Mathematical Papers",
+    "premise": "resonance|occurs|forcing|frequency|matches|natural",
+    "conclusion": "Resonance occurs when forcing frequency matches natural frequency"
+  },
+  {
+    "id": 14039,
+    "topic": "Mathematical Papers",
+    "premise": "phase|portraits|visualize|solution|families",
+    "conclusion": "Phase portraits visualize solution families"
+  },
+  {
+    "id": 14040,
+    "topic": "Mathematical Papers",
+    "premise": "limit|cycles|represent|periodic|differential|behavior",
+    "conclusion": "Limit cycles represent periodic differential behavior"
+  },
+  {
+    "id": 14041,
+    "topic": "Mathematical Papers",
+    "premise": "singular|points|classify|behaviors|differential|flows",
+    "conclusion": "Singular points classify behaviors of differential flows"
+  },
+  {
+    "id": 14042,
+    "topic": "Mathematical Papers",
+    "premise": "trajectories|cannot|cross|uniqueness|solutions",
+    "conclusion": "Trajectories cannot cross due to uniqueness of solutions"
+  },
+  {
+    "id": 14043,
+    "topic": "Mathematical Papers",
+    "premise": "flows|partition|space|invariant|curves",
+    "conclusion": "Flows partition space into invariant curves"
+  },
+  {
+    "id": 14044,
+    "topic": "Mathematical Papers",
+    "premise": "conservative|systems|preserve|area|phase|space",
+    "conclusion": "Conservative systems preserve area in phase space"
+  },
+  {
+    "id": 14045,
+    "topic": "Mathematical Papers",
+    "premise": "dissipative|systems|shrink|area|phase|space",
+    "conclusion": "Dissipative systems shrink area in phase space"
+  },
+  {
+    "id": 14046,
+    "topic": "Mathematical Papers",
+    "premise": "higher|order|systems|reduce|first|vector",
+    "conclusion": "Higher-order systems reduce to first-order vector fields"
+  },
+  {
+    "id": 14047,
+    "topic": "Mathematical Papers",
+    "premise": "vector|fields|generalize|single|equation|systems",
+    "conclusion": "Vector fields generalize single-equation systems"
+  },
+  {
+    "id": 14048,
+    "topic": "Mathematical Papers",
+    "premise": "gradient|fields|descend|along|steepest|decreases",
+    "conclusion": "Gradient fields descend along steepest decreases"
+  },
+  {
+    "id": 14049,
+    "topic": "Mathematical Papers",
+    "premise": "divergence|free|fields|conserve|volume",
+    "conclusion": "Divergence-free fields conserve volume"
+  },
+  {
+    "id": 14050,
+    "topic": "Mathematical Papers",
+    "premise": "curl|free|fields|satisfy|path|independence",
+    "conclusion": "Curl-free fields satisfy path-independence of integrals"
+  },
+  {
+    "id": 14051,
+    "topic": "Mathematical Papers",
+    "premise": "work|done|along|closed|loops|vanishes",
+    "conclusion": "Work done along closed loops vanishes in conservative fields"
+  },
+  {
+    "id": 14052,
+    "topic": "Mathematical Papers",
+    "premise": "circulation|measures|rotational|content|fields",
+    "conclusion": "Circulation measures rotational content of fields"
+  },
+  {
+    "id": 14053,
+    "topic": "Mathematical Papers",
+    "premise": "green|theorem|connects|circulation|area|integrals",
+    "conclusion": "Green's theorem connects circulation with area integrals"
+  },
+  {
+    "id": 14054,
+    "topic": "Mathematical Papers",
+    "premise": "stokes|theorem|generalizes|green|surfaces",
+    "conclusion": "Stokes' theorem generalizes Green's theorem to surfaces"
+  },
+  {
+    "id": 14055,
+    "topic": "Mathematical Papers",
+    "premise": "gauss|theorem|links|flux|surfaces|divergence",
+    "conclusion": "Gauss's theorem links flux through surfaces to divergence in volumes"
+  },
+  {
+    "id": 14056,
+    "topic": "Mathematical Papers",
+    "premise": "boundary|integrals|encode|global|information|local",
+    "conclusion": "Boundary integrals encode global information from local differentials"
+  },
+  {
+    "id": 14057,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|absolute|container",
+    "conclusion": "Space is not an absolute container"
+  },
+  {
+    "id": 14058,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|order|relations|among|bodies",
+    "conclusion": "Space is an order of relations among bodies"
+  },
+  {
+    "id": 14059,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "time|absolute|flowing|entity",
+    "conclusion": "Time is not an absolute flowing entity"
+  },
+  {
+    "id": 14060,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "time|order|successive|states",
+    "conclusion": "Time is the order of successive states"
+  },
+  {
+    "id": 14061,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "absolute|space|violate|principle|sufficient|reason",
+    "conclusion": "Absolute space would violate the Principle of Sufficient Reason"
+  },
+  {
+    "id": 14062,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "absolute|time|violate|principle|sufficient|reason",
+    "conclusion": "Absolute time would also violate the Principle of Sufficient Reason"
+  },
+  {
+    "id": 14063,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "place|world|arbitrarily|space",
+    "conclusion": "God does not place the world arbitrarily in space"
+  },
+  {
+    "id": 14064,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "restart|world|arbitrarily|time",
+    "conclusion": "God does not restart the world arbitrarily in time"
+  },
+  {
+    "id": 14065,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "indiscernible|worlds|identical|distinct",
+    "conclusion": "Two indiscernible worlds would be identical, not distinct"
+  },
+  {
+    "id": 14066,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "identity|indiscernibles|forbids|absolute|placement|space",
+    "conclusion": "Identity of indiscernibles forbids absolute placement in space"
+  },
+  {
+    "id": 14067,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "miracles|invoked|physical|laws",
+    "conclusion": "Miracles should not be invoked to fix physical laws"
+  },
+  {
+    "id": 14068,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "acts|general|laws|nature",
+    "conclusion": "God acts only through general laws in nature"
+  },
+  {
+    "id": 14069,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "divine|wisdom|forbids|constant|intervention",
+    "conclusion": "Divine wisdom forbids constant intervention"
+  },
+  {
+    "id": 14070,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "nature|exhibits|maximal|order|simplicity",
+    "conclusion": "Nature exhibits maximal order and simplicity"
+  },
+  {
+    "id": 14071,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "natural|laws|express|divine|rationality",
+    "conclusion": "Natural laws must express divine rationality"
+  },
+  {
+    "id": 14072,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "gravity|intelligible|consequence|laws|occult|quality",
+    "conclusion": "Gravity is an intelligible consequence of laws, not an occult quality"
+  },
+  {
+    "id": 14073,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "matter|alone|cannot|produce|action|force",
+    "conclusion": "Matter alone cannot produce action; force is required"
+  },
+  {
+    "id": 14074,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "true|substance|lies|simple|beings|mere",
+    "conclusion": "True substance lies in simple beings, not in mere extension"
+  },
+  {
+    "id": 14075,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "bodies|phenomena|grounded|monads",
+    "conclusion": "Bodies are phenomena grounded in monads"
+  },
+  {
+    "id": 14076,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "motion|relative|absolute",
+    "conclusion": "Motion is relative, not absolute"
+  },
+  {
+    "id": 14077,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "motion|depends|relations|among|bodies",
+    "conclusion": "Motion depends on relations among bodies"
+  },
+  {
+    "id": 14078,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "thing|absolute|rest",
+    "conclusion": "There is no such thing as absolute rest"
+  },
+  {
+    "id": 14079,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "experiment|reveal|absolute|motion",
+    "conclusion": "No experiment can reveal absolute motion"
+  },
+  {
+    "id": 14080,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|contains|empty|regions",
+    "conclusion": "Space contains no empty regions"
+  },
+  {
+    "id": 14081,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "vacuum|impossible|extension|requires|substance",
+    "conclusion": "Vacuum is impossible because extension requires substance"
+  },
+  {
+    "id": 14082,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "conserves|force|cartesian|quantity|motion",
+    "conclusion": "God conserves force, not Cartesian quantity of motion"
+  },
+  {
+    "id": 14083,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "laws|motion|reflect|metaphysical|principles",
+    "conclusion": "The laws of motion reflect metaphysical principles"
+  },
+  {
+    "id": 14084,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "conservation|principles|derive|divine|wisdom",
+    "conclusion": "Conservation principles derive from divine wisdom"
+  },
+  {
+    "id": 14085,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "universe|absolute|space|imply|arbitrary|divine",
+    "conclusion": "A universe with absolute space would imply arbitrary divine choices"
+  },
+  {
+    "id": 14086,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "nothing|without|sufficient|reason",
+    "conclusion": "God does nothing without a sufficient reason"
+  },
+  {
+    "id": 14087,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "occasionalism|mistaken|substances|genuine|activity",
+    "conclusion": "Occasionalism is mistaken; substances have genuine activity"
+  },
+  {
+    "id": 14088,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "repair|world",
+    "conclusion": "God does not need to repair the world"
+  },
+  {
+    "id": 14089,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "perfect|clockmaker|makes|clock|runs|without",
+    "conclusion": "A perfect clockmaker makes a clock that runs without correction"
+  },
+  {
+    "id": 14090,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "world|maintained|established|harmony",
+    "conclusion": "The world is maintained by pre-established harmony"
+  },
+  {
+    "id": 14091,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "mind|body|correspond|without|interaction",
+    "conclusion": "Mind and body correspond without interaction"
+  },
+  {
+    "id": 14092,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "divine|foreknowledge|coexists|creaturely|spontaneity",
+    "conclusion": "Divine foreknowledge coexists with creaturely spontaneity"
+  },
+  {
+    "id": 14093,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "human|freedom|compatible|providence",
+    "conclusion": "Human freedom is compatible with God's providence"
+  },
+  {
+    "id": 14094,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "miracles|suspend|contradict|natural",
+    "conclusion": "Miracles suspend but do not contradict natural law"
+  },
+  {
+    "id": 14095,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "actions|wise|arbitrary",
+    "conclusion": "God's actions are always wise and never arbitrary"
+  },
+  {
+    "id": 14096,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "universe|best|possible|world",
+    "conclusion": "The universe is the best possible world"
+  },
+  {
+    "id": 14097,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "apparent|irregularities|serve|greater|order",
+    "conclusion": "Apparent irregularities serve greater order"
+  },
+  {
+    "id": 14098,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "immaterial|soul|simple|substance",
+    "conclusion": "The immaterial soul is a simple substance"
+  },
+  {
+    "id": 14099,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "perception|belongs|substances",
+    "conclusion": "Perception belongs to all substances"
+  },
+  {
+    "id": 14100,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "ultimate|reason|truths",
+    "conclusion": "God is the ultimate reason for all truths"
+  },
+  {
+    "id": 14101,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "necessary|truths|depend|intellect",
+    "conclusion": "Necessary truths depend on God's intellect"
+  },
+  {
+    "id": 14102,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "contingent|truths|depend",
+    "conclusion": "Contingent truths depend on God's will"
+  },
+  {
+    "id": 14103,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "absolute|space|diminishes|role|making|unnecessary",
+    "conclusion": "Absolute space diminishes God's role by making Him unnecessary to order"
+  },
+  {
+    "id": 14104,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "newtonian|absolute|time|threatens|divine|wisdom",
+    "conclusion": "Newtonian absolute time threatens divine wisdom by implying arbitrary decisions"
+  },
+  {
+    "id": 14105,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "true|physics|align|metaphysics",
+    "conclusion": "True physics must align with metaphysics"
+  },
+  {
+    "id": 14106,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "coherent|universe|requires|relational|space|rational",
+    "conclusion": "A coherent universe requires relational space, rational laws, and divine sufficiency"
+  },
+  {
+    "id": 14107,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "universe|shifted|absolute|space|observable|difference",
+    "conclusion": "If the universe were shifted in absolute space, no observable difference would result"
+  },
+  {
+    "id": 14108,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "indiscernible|states|metaphysically|identical",
+    "conclusion": "Indiscernible states are metaphysically identical"
+  },
+  {
+    "id": 14109,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "absolute|space|makes|choice|location|arbitrary",
+    "conclusion": "Absolute space makes God's choice of location arbitrary and therefore irrational"
+  },
+  {
+    "id": 14110,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "sensorium|unworthy|conception|divine|nature",
+    "conclusion": "The sensorium of God is an unworthy conception of the divine nature"
+  },
+  {
+    "id": 14111,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "organs|perceive|world",
+    "conclusion": "God does not need organs to perceive the world"
+  },
+  {
+    "id": 14112,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|property|attribute|divine",
+    "conclusion": "Space is not a property of God nor an attribute of divine being"
+  },
+  {
+    "id": 14113,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "make|space|absolute|idol",
+    "conclusion": "To make space absolute is to make it an idol"
+  },
+  {
+    "id": 14114,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "attraction|distance|without|medium|unintelligible",
+    "conclusion": "Attraction at a distance without medium is unintelligible"
+  },
+  {
+    "id": 14115,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "gravity|acting|across|empty|space|perpetual",
+    "conclusion": "Gravity acting across empty space would be a perpetual miracle"
+  },
+  {
+    "id": 14116,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "natural|action|requires|contact|mediation",
+    "conclusion": "All natural action requires contact or mediation"
+  },
+  {
+    "id": 14117,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "action|distance|violates|intelligibility|nature",
+    "conclusion": "Action at a distance violates the intelligibility of nature"
+  },
+  {
+    "id": 14118,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "newton|gravity|occult|quality|dressed|mathematical",
+    "conclusion": "Newton's gravity is an occult quality dressed in mathematical form"
+  },
+  {
+    "id": 14119,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "mathematical|description|provide|physical|explanation",
+    "conclusion": "Mathematical description does not provide physical explanation"
+  },
+  {
+    "id": 14120,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "cause|proportionate|effect",
+    "conclusion": "A cause must be proportionate to its effect"
+  },
+  {
+    "id": 14121,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "empty|space|bodies|sever|causal|connection",
+    "conclusion": "Empty space between bodies would sever causal connection"
+  },
+  {
+    "id": 14122,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "plenum|necessary|transmission|forces",
+    "conclusion": "The plenum is necessary for the transmission of forces"
+  },
+  {
+    "id": 14123,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "atoms|impossible|perfectly|hard|bodies",
+    "conclusion": "Atoms are impossible because they would be perfectly hard bodies"
+  },
+  {
+    "id": 14124,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "perfectly|hard|bodies|violate|continuity|collision",
+    "conclusion": "Perfectly hard bodies would violate continuity in collision"
+  },
+  {
+    "id": 14125,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "nature|admits|absolute|hardness|bodies|elasticity",
+    "conclusion": "Nature admits no absolute hardness; all bodies have elasticity"
+  },
+  {
+    "id": 14126,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "world|down|require|divine|winding",
+    "conclusion": "The world does not run down and require divine winding"
+  },
+  {
+    "id": 14127,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "conservation|force|means|universe|self|sustaining",
+    "conclusion": "Conservation of force means the universe is self-sustaining under divine concurrence"
+  },
+  {
+    "id": 14128,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "ordinary|concurrence|differs|miraculous|intervention",
+    "conclusion": "God's ordinary concurrence differs from miraculous intervention"
+  },
+  {
+    "id": 14129,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "require|mend|nature|impugn|divine|workmanship",
+    "conclusion": "To require God to mend nature is to impugn divine workmanship"
+  },
+  {
+    "id": 14130,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "newtonian|like|imperfect|watchmaker",
+    "conclusion": "The Newtonian God is like an imperfect watchmaker"
+  },
+  {
+    "id": 14131,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "divine|perfection|requires|creation|according|established",
+    "conclusion": "Divine perfection requires that creation run according to established laws"
+  },
+  {
+    "id": 14132,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "miracles|rare|serve|extraordinary|purposes|routine",
+    "conclusion": "Miracles are rare and serve extraordinary purposes, not routine maintenance"
+  },
+  {
+    "id": 14133,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "sufficient|reason|governs|existence",
+    "conclusion": "Sufficient reason governs both existence and non-existence"
+  },
+  {
+    "id": 14134,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "nothing|exists|without|reason|rather",
+    "conclusion": "Nothing exists without a reason why it exists rather than not"
+  },
+  {
+    "id": 14135,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "nothing|exists|state|rather|another|without",
+    "conclusion": "Nothing exists in one state rather than another without sufficient reason"
+  },
+  {
+    "id": 14136,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "principle|sufficient|reason|foundation|contingent|truth",
+    "conclusion": "The principle of sufficient reason is the foundation of all contingent truth"
+  },
+  {
+    "id": 14137,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "absolute|space|provides|reason|placement|over",
+    "conclusion": "Absolute space provides no reason for one placement over another"
+  },
+  {
+    "id": 14138,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "absolute|time|provides|reason|moment|creation",
+    "conclusion": "Absolute time provides no reason for one moment of creation over another"
+  },
+  {
+    "id": 14139,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "reversal|east|west|absolute|space|indiscernible",
+    "conclusion": "Reversal of east and west in absolute space would be indiscernible and therefore meaningless"
+  },
+  {
+    "id": 14140,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "spatial|orientation|relational|absolute",
+    "conclusion": "Spatial orientation is relational, not absolute"
+  },
+  {
+    "id": 14141,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "place|defined|relation|bodies|position|absolute",
+    "conclusion": "Place is defined by relation to other bodies, not by position in absolute space"
+  },
+  {
+    "id": 14142,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "place|different|times|identified|relation|persisting",
+    "conclusion": "The same place at different times is identified by relation to persisting bodies"
+  },
+  {
+    "id": 14143,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "duration|measured|succession|states|absolute|time",
+    "conclusion": "Duration is measured by succession of states, not by absolute time"
+  },
+  {
+    "id": 14144,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "simultaneity|relation|among|events|position|absolute",
+    "conclusion": "Simultaneity is a relation among events, not a position in absolute time"
+  },
+  {
+    "id": 14145,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|time|ideal|real|entities",
+    "conclusion": "Space and time are ideal, not real entities"
+  },
+  {
+    "id": 14146,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|time|well|founded|phenomena|arising",
+    "conclusion": "Space and time are well-founded phenomena arising from relations"
+  },
+  {
+    "id": 14147,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "soul|extended|occupy|space",
+    "conclusion": "The soul is not extended and does not occupy space"
+  },
+  {
+    "id": 14148,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "soul|present|body|established|harmony|spatial",
+    "conclusion": "The soul is present to the body through pre-established harmony, not spatial location"
+  },
+  {
+    "id": 14149,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "souls|cannot|divided|parts",
+    "conclusion": "Souls cannot be divided because they have no parts"
+  },
+  {
+    "id": 14150,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "immateriality|soul|follows|simplicity",
+    "conclusion": "Immateriality of the soul follows from its simplicity"
+  },
+  {
+    "id": 14151,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "space|ground|spatial|relations",
+    "conclusion": "God is not in space but is the ground of spatial relations"
+  },
+  {
+    "id": 14152,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "omnipresence|means|knows|acts|everywhere|occupies",
+    "conclusion": "God's omnipresence means God knows and acts everywhere, not that God occupies space"
+  },
+  {
+    "id": 14153,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "divine|immensity|spatial|extension",
+    "conclusion": "Divine immensity is not spatial extension"
+  },
+  {
+    "id": 14154,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "divine|eternity|temporal|duration",
+    "conclusion": "Divine eternity is not temporal duration"
+  },
+  {
+    "id": 14155,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "transcends|space|time|grounding",
+    "conclusion": "God transcends space and time while grounding both"
+  },
+  {
+    "id": 14156,
+    "topic": "Leibniz-Clarke Correspondence",
+    "premise": "order|nature|reflects|divine|reason",
+    "conclusion": "The order of nature reflects the order of divine reason"
+  },
+  {
+    "id": 14157,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|innate|dispositions",
+    "conclusion": "The mind has innate dispositions"
+  },
+  {
+    "id": 14158,
+    "topic": "New Essays on Human Understanding",
+    "premise": "innate|ideas|tendencies|fully|formed|concepts",
+    "conclusion": "Innate ideas are tendencies, not fully formed concepts"
+  },
+  {
+    "id": 14159,
+    "topic": "New Essays on Human Understanding",
+    "premise": "experience|occasions|development|innate|principles",
+    "conclusion": "Experience occasions the development of innate principles"
+  },
+  {
+    "id": 14160,
+    "topic": "New Essays on Human Understanding",
+    "premise": "nothing|intellect|first|sense|except",
+    "conclusion": "Nothing is in the intellect that was not first in sense\u2014except the intellect itself"
+  },
+  {
+    "id": 14161,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sense|perception|confused|cognition",
+    "conclusion": "Sense perception is confused cognition"
+  },
+  {
+    "id": 14162,
+    "topic": "New Essays on Human Understanding",
+    "premise": "pure|understanding|provides|distinct|cognition",
+    "conclusion": "Pure understanding provides distinct cognition"
+  },
+  {
+    "id": 14163,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|truths|cannot|come|experience|alone",
+    "conclusion": "Necessary truths cannot come from experience alone"
+  },
+  {
+    "id": 14164,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mathematics|demonstrates|existence|innate|principles",
+    "conclusion": "Mathematics demonstrates the existence of innate principles"
+  },
+  {
+    "id": 14165,
+    "topic": "New Essays on Human Understanding",
+    "premise": "universal|propositions|presuppose|innate|structures",
+    "conclusion": "Universal propositions presuppose innate structures"
+  },
+  {
+    "id": 14166,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|contains|principles|identity|contradiction",
+    "conclusion": "The mind contains principles of identity and contradiction"
+  },
+  {
+    "id": 14167,
+    "topic": "New Essays on Human Understanding",
+    "premise": "principle|sufficient|reason|innate",
+    "conclusion": "The principle of sufficient reason is innate"
+  },
+  {
+    "id": 14168,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|innate",
+    "conclusion": "The idea of being is innate"
+  },
+  {
+    "id": 14169,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|substance|derived|internal|activity",
+    "conclusion": "The idea of substance is derived from internal activity"
+  },
+  {
+    "id": 14170,
+    "topic": "New Essays on Human Understanding",
+    "premise": "reflection|source|ideas|distinct|sensation",
+    "conclusion": "Reflection is a source of ideas distinct from sensation"
+  },
+  {
+    "id": 14171,
+    "topic": "New Essays on Human Understanding",
+    "premise": "soul|perceives|unaware",
+    "conclusion": "The soul always perceives, even when unaware"
+  },
+  {
+    "id": 14172,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensations|resemble|internal|states|external|objects",
+    "conclusion": "Sensations resemble only internal states, not external objects"
+  },
+  {
+    "id": 14173,
+    "topic": "New Essays on Human Understanding",
+    "premise": "qualities|perceived|bodies",
+    "conclusion": "Qualities perceived are not in bodies as such"
+  },
+  {
+    "id": 14174,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|contains|virtual|ideas|become|explicit",
+    "conclusion": "The mind contains virtual ideas that become explicit through reflection"
+  },
+  {
+    "id": 14175,
+    "topic": "New Essays on Human Understanding",
+    "premise": "experience|cannot|account|idea|unity",
+    "conclusion": "Experience cannot account for the idea of unity"
+  },
+  {
+    "id": 14176,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|number|presupposes|innate|intellectual|structure",
+    "conclusion": "The idea of number presupposes innate intellectual structure"
+  },
+  {
+    "id": 14177,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|connections|exceed|sensation|provide",
+    "conclusion": "Necessary connections exceed what sensation can provide"
+  },
+  {
+    "id": 14178,
+    "topic": "New Essays on Human Understanding",
+    "premise": "locke|simple|ideas|truly|mind",
+    "conclusion": "Locke's simple ideas are not truly simple in the mind"
+  },
+  {
+    "id": 14179,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|form|ideas|given|sensation",
+    "conclusion": "The mind can form ideas never given in sensation"
+  },
+  {
+    "id": 14180,
+    "topic": "New Essays on Human Understanding",
+    "premise": "abstract|concepts|arise|comparing|separating|features",
+    "conclusion": "Abstract concepts arise from comparing and separating features"
+  },
+  {
+    "id": 14181,
+    "topic": "New Essays on Human Understanding",
+    "premise": "certainty|arises|rational|principles",
+    "conclusion": "Certainty arises only from rational principles"
+  },
+  {
+    "id": 14182,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|causation|grounded|internal|activity",
+    "conclusion": "The idea of causation is grounded in internal activity"
+  },
+  {
+    "id": 14183,
+    "topic": "New Essays on Human Understanding",
+    "premise": "perceive|change|internal|succession",
+    "conclusion": "We perceive change through internal succession"
+  },
+  {
+    "id": 14184,
+    "topic": "New Essays on Human Understanding",
+    "premise": "thought|continuous|sleep",
+    "conclusion": "Thought is continuous, even in sleep"
+  },
+  {
+    "id": 14185,
+    "topic": "New Essays on Human Understanding",
+    "premise": "awareness|intermittent|perception|constant",
+    "conclusion": "Awareness is intermittent, but perception is constant"
+  },
+  {
+    "id": 14186,
+    "topic": "New Essays on Human Understanding",
+    "premise": "consciousness|higher|order|perception",
+    "conclusion": "Consciousness is a higher-order perception"
+  },
+  {
+    "id": 14187,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensation|depends|bodily|conditions|caused|bodies",
+    "conclusion": "Sensation depends on bodily conditions but is not caused by bodies"
+  },
+  {
+    "id": 14188,
+    "topic": "New Essays on Human Understanding",
+    "premise": "soul|expresses|state|body|without|interaction",
+    "conclusion": "The soul expresses the state of its body without interaction"
+  },
+  {
+    "id": 14189,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensory|images|represent|relations|intrinsic|properties",
+    "conclusion": "Sensory images represent relations, not intrinsic properties"
+  },
+  {
+    "id": 14190,
+    "topic": "New Essays on Human Understanding",
+    "premise": "distinction|primary|secondary|qualities|inadequate",
+    "conclusion": "The distinction between primary and secondary qualities is inadequate"
+  },
+  {
+    "id": 14191,
+    "topic": "New Essays on Human Understanding",
+    "premise": "relation|concepts|cannot|come|sensation|alone",
+    "conclusion": "Relation-concepts cannot come from sensation alone"
+  },
+  {
+    "id": 14192,
+    "topic": "New Essays on Human Understanding",
+    "premise": "memory|links|perceptions|constitute|substantial|identity",
+    "conclusion": "Memory links perceptions but does not constitute substantial identity"
+  },
+  {
+    "id": 14193,
+    "topic": "New Essays on Human Understanding",
+    "premise": "principles|mathematics|innate|laws|intellect",
+    "conclusion": "Principles of mathematics are innate laws of the intellect"
+  },
+  {
+    "id": 14194,
+    "topic": "New Essays on Human Understanding",
+    "premise": "assent|necessary|truths|follow|principles|within",
+    "conclusion": "We assent to necessary truths because they follow from principles within us"
+  },
+  {
+    "id": 14195,
+    "topic": "New Essays on Human Understanding",
+    "premise": "conceptual|analysis|yields|deeper|understanding|ideas",
+    "conclusion": "Conceptual analysis yields deeper understanding of ideas"
+  },
+  {
+    "id": 14196,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|infinity|exists|virtually|intellect",
+    "conclusion": "The idea of infinity exists virtually in the intellect"
+  },
+  {
+    "id": 14197,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|arises|innate|notions|perfection",
+    "conclusion": "The idea of God arises from innate notions of perfection"
+  },
+  {
+    "id": 14198,
+    "topic": "New Essays on Human Understanding",
+    "premise": "modal|distinctions|possible|necessary|intellectual|empirical",
+    "conclusion": "Modal distinctions (possible, necessary) are intellectual, not empirical"
+  },
+  {
+    "id": 14199,
+    "topic": "New Essays on Human Understanding",
+    "premise": "language|acquisition|presupposes|logical|structure",
+    "conclusion": "Language acquisition presupposes logical structure"
+  },
+  {
+    "id": 14200,
+    "topic": "New Essays on Human Understanding",
+    "premise": "complex|ideas|cannot|built|sensation|alone",
+    "conclusion": "Complex ideas cannot be built from sensation alone"
+  },
+  {
+    "id": 14201,
+    "topic": "New Essays on Human Understanding",
+    "premise": "perception|varies|degree|distinctness",
+    "conclusion": "Perception varies by degree of distinctness"
+  },
+  {
+    "id": 14202,
+    "topic": "New Essays on Human Understanding",
+    "premise": "reflection|reveals|internal|operations|soul",
+    "conclusion": "Reflection reveals internal operations of the soul"
+  },
+  {
+    "id": 14203,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|contains|internal|continuity",
+    "conclusion": "The mind contains an internal law of continuity"
+  },
+  {
+    "id": 14204,
+    "topic": "New Essays on Human Understanding",
+    "premise": "ideas|mathematics|distinct|empirical",
+    "conclusion": "Ideas of mathematics are more distinct than empirical ones"
+  },
+  {
+    "id": 14205,
+    "topic": "New Essays on Human Understanding",
+    "premise": "senses|cannot|give|clear|ideas|substance",
+    "conclusion": "The senses cannot give clear ideas of substance"
+  },
+  {
+    "id": 14206,
+    "topic": "New Essays on Human Understanding",
+    "premise": "know|substances|activities",
+    "conclusion": "We know substances through their activities"
+  },
+  {
+    "id": 14207,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|identity|innate",
+    "conclusion": "The idea of identity is innate"
+  },
+  {
+    "id": 14208,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensation|alone|cannot|yield|idea|possibility",
+    "conclusion": "Sensation alone cannot yield the idea of possibility"
+  },
+  {
+    "id": 14209,
+    "topic": "New Essays on Human Understanding",
+    "premise": "possibility|grounded|logical|principles",
+    "conclusion": "Possibility is grounded in logical principles"
+  },
+  {
+    "id": 14210,
+    "topic": "New Essays on Human Understanding",
+    "premise": "knowledge|bodies|mediate|immediate",
+    "conclusion": "Our knowledge of bodies is mediate, not immediate"
+  },
+  {
+    "id": 14211,
+    "topic": "New Essays on Human Understanding",
+    "premise": "perception|mirrors|universe|soul|perspective",
+    "conclusion": "Perception mirrors the universe from the soul's perspective"
+  },
+  {
+    "id": 14212,
+    "topic": "New Essays on Human Understanding",
+    "premise": "empirical|generalizations|lack|necessity",
+    "conclusion": "Empirical generalizations lack necessity"
+  },
+  {
+    "id": 14213,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|propositions|belong|domain|reason",
+    "conclusion": "Necessary propositions belong to the domain of reason"
+  },
+  {
+    "id": 14214,
+    "topic": "New Essays on Human Understanding",
+    "premise": "relations|among|ideas|discoverable|intellect",
+    "conclusion": "Relations among ideas are discoverable only by the intellect"
+  },
+  {
+    "id": 14215,
+    "topic": "New Essays on Human Understanding",
+    "premise": "arithmetic|truths|grounded|innate|conceptual|structures",
+    "conclusion": "Arithmetic truths are grounded in innate conceptual structures"
+  },
+  {
+    "id": 14216,
+    "topic": "New Essays on Human Understanding",
+    "premise": "geometry|reveals|necessary|relations|among|ideal",
+    "conclusion": "Geometry reveals necessary relations among ideal entities"
+  },
+  {
+    "id": 14217,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensory|perception|provides|occasions|awakening|innate",
+    "conclusion": "Sensory perception provides occasions for awakening innate ideas"
+  },
+  {
+    "id": 14218,
+    "topic": "New Essays on Human Understanding",
+    "premise": "intellect|contributes|structure|beyond|sensation|offers",
+    "conclusion": "The intellect contributes structure beyond what sensation offers"
+  },
+  {
+    "id": 14219,
+    "topic": "New Essays on Human Understanding",
+    "premise": "ideas|relations|originate|understanding|senses",
+    "conclusion": "Ideas of relations originate from the understanding, not the senses"
+  },
+  {
+    "id": 14220,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|cause|presupposes|internal|power",
+    "conclusion": "The idea of cause presupposes internal power"
+  },
+  {
+    "id": 14221,
+    "topic": "New Essays on Human Understanding",
+    "premise": "idea|substance|derives|notion|persisting|subject",
+    "conclusion": "The idea of substance derives from the notion of a persisting subject"
+  },
+  {
+    "id": 14222,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensory|qualities|cannot|resemble|external|things",
+    "conclusion": "Sensory qualities cannot resemble external things"
+  },
+  {
+    "id": 14223,
+    "topic": "New Essays on Human Understanding",
+    "premise": "resemblance|occurs|structural|relations",
+    "conclusion": "Resemblance occurs only in structural relations"
+  },
+  {
+    "id": 14224,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensation|lowest|grade|perception",
+    "conclusion": "Sensation is only the lowest grade of perception"
+  },
+  {
+    "id": 14225,
+    "topic": "New Essays on Human Understanding",
+    "premise": "attention|intensifies|clarity|perceptions",
+    "conclusion": "Attention intensifies the clarity of perceptions"
+  },
+  {
+    "id": 14226,
+    "topic": "New Essays on Human Understanding",
+    "premise": "apperception|makes|ideas|explicit",
+    "conclusion": "Apperception makes ideas explicit"
+  },
+  {
+    "id": 14227,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|contains|implicit|knowledge|prior|experience",
+    "conclusion": "The mind contains implicit knowledge prior to experience"
+  },
+  {
+    "id": 14228,
+    "topic": "New Essays on Human Understanding",
+    "premise": "experience|mislead|confused|perceptions",
+    "conclusion": "Experience can mislead due to confused perceptions"
+  },
+  {
+    "id": 14229,
+    "topic": "New Essays on Human Understanding",
+    "premise": "distinctness|requires|analysis|ideas|components",
+    "conclusion": "Distinctness requires analysis of ideas into components"
+  },
+  {
+    "id": 14230,
+    "topic": "New Essays on Human Understanding",
+    "premise": "complex|ideas|formed|assembling|simpler|intellectual",
+    "conclusion": "Complex ideas are formed by assembling simpler intellectual components"
+  },
+  {
+    "id": 14231,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mathematical|demonstration|shows|necessity|rational|principles",
+    "conclusion": "Mathematical demonstration shows the necessity of rational principles"
+  },
+  {
+    "id": 14232,
+    "topic": "New Essays on Human Understanding",
+    "premise": "intellect|grasps|abstract|structures|independent|images",
+    "conclusion": "The intellect grasps abstract structures independent of images"
+  },
+  {
+    "id": 14233,
+    "topic": "New Essays on Human Understanding",
+    "premise": "pure|intellectual|ideas|exact|sensory|images",
+    "conclusion": "Pure intellectual ideas are more exact than sensory images"
+  },
+  {
+    "id": 14234,
+    "topic": "New Essays on Human Understanding",
+    "premise": "principle|uniformity|rational|empirical",
+    "conclusion": "The principle of uniformity is rational, not empirical"
+  },
+  {
+    "id": 14235,
+    "topic": "New Essays on Human Understanding",
+    "premise": "reason|discovers|truths|inaccessible|sensation",
+    "conclusion": "Reason discovers truths inaccessible to sensation"
+  },
+  {
+    "id": 14236,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensory|evidence|interpreted|rational|principles",
+    "conclusion": "Sensory evidence must be interpreted through rational principles"
+  },
+  {
+    "id": 14237,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|correct|sensory|illusions",
+    "conclusion": "The mind can correct sensory illusions"
+  },
+  {
+    "id": 14238,
+    "topic": "New Essays on Human Understanding",
+    "premise": "consciousness|episodic|substance|continuous",
+    "conclusion": "Consciousness is episodic; substance is continuous"
+  },
+  {
+    "id": 14239,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mental|life|includes|countless|unnoticed|perceptions",
+    "conclusion": "Mental life includes countless unnoticed perceptions"
+  },
+  {
+    "id": 14240,
+    "topic": "New Essays on Human Understanding",
+    "premise": "knowledge|requires|sensation|reflection",
+    "conclusion": "Knowledge requires both sensation and reflection"
+  },
+  {
+    "id": 14241,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|truths|hold|possible|worlds",
+    "conclusion": "Necessary truths hold in all possible worlds"
+  },
+  {
+    "id": 14242,
+    "topic": "New Essays on Human Understanding",
+    "premise": "contingent|truths|hold|actual|world",
+    "conclusion": "Contingent truths hold only in the actual world"
+  },
+  {
+    "id": 14243,
+    "topic": "New Essays on Human Understanding",
+    "premise": "ideas|possibility|stem|combinations|permitted|reason",
+    "conclusion": "Ideas of possibility stem from combinations permitted by reason"
+  },
+  {
+    "id": 14244,
+    "topic": "New Essays on Human Understanding",
+    "premise": "ideas|impossibility|stem|contradictions",
+    "conclusion": "Ideas of impossibility stem from contradictions"
+  },
+  {
+    "id": 14245,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|perceives|unity|behind|multiplicity",
+    "conclusion": "The mind perceives unity behind multiplicity"
+  },
+  {
+    "id": 14246,
+    "topic": "New Essays on Human Understanding",
+    "premise": "concept|infinity|grounded|intellectual|continuity",
+    "conclusion": "The concept of infinity is grounded in intellectual continuity"
+  },
+  {
+    "id": 14247,
+    "topic": "New Essays on Human Understanding",
+    "premise": "imagination|cannot|grasp|infinite|totalities",
+    "conclusion": "Imagination cannot grasp infinite totalities"
+  },
+  {
+    "id": 14248,
+    "topic": "New Essays on Human Understanding",
+    "premise": "reason|grasp|structural|infinity",
+    "conclusion": "Reason can grasp structural infinity"
+  },
+  {
+    "id": 14249,
+    "topic": "New Essays on Human Understanding",
+    "premise": "sensory|experience|yields|finite|data",
+    "conclusion": "Sensory experience yields only finite data"
+  },
+  {
+    "id": 14250,
+    "topic": "New Essays on Human Understanding",
+    "premise": "understanding|organizes|experience|coherent|systems",
+    "conclusion": "The understanding organizes experience into coherent systems"
+  },
+  {
+    "id": 14251,
+    "topic": "New Essays on Human Understanding",
+    "premise": "true|knowledge|structured|episodic",
+    "conclusion": "True knowledge is structured, not episodic"
+  },
+  {
+    "id": 14252,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|strives|systematization|ideas",
+    "conclusion": "The mind strives for systematization of ideas"
+  },
+  {
+    "id": 14253,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|distinguishes|types|truths|sources",
+    "conclusion": "The mind distinguishes types of truths by their sources"
+  },
+  {
+    "id": 14254,
+    "topic": "New Essays on Human Understanding",
+    "premise": "necessary|truths|originate|intellect",
+    "conclusion": "Necessary truths originate in the intellect"
+  },
+  {
+    "id": 14255,
+    "topic": "New Essays on Human Understanding",
+    "premise": "empirical|truths|originate|sensation",
+    "conclusion": "Empirical truths originate in sensation"
+  },
+  {
+    "id": 14256,
+    "topic": "New Essays on Human Understanding",
+    "premise": "logical|relations|discovered|invented",
+    "conclusion": "Logical relations are discovered, not invented"
+  },
+  {
+    "id": 14257,
+    "topic": "New Essays on Human Understanding",
+    "premise": "mind|cannot|blank|slate",
+    "conclusion": "The mind cannot be a blank slate"
+  }
+]

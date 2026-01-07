@@ -1,0 +1,16 @@
+=== EMBEDDING LOG FOR PLATO ===
+Figure ID: plato
+Source Folder: /home/runner/workspace/server/data/plato
+Started: 2025-12-13T04:04:40.670Z
+============================================================
+
+[2025-12-13T04:04:40.673Z] FLAGGED | Plato Complete Works_1762340255674.txt | 0 chunks | Contains 20 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:41.111Z] FLAGGED | Plato Complete Works_1762340489231.txt | 0 chunks | Contains 20 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:41.254Z] FLAGGED | Plato Complete Works_1762347539334.txt | 0 chunks | Contains 20 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:41.377Z] SUCCESS | Plato_Positions.txt | 108 chunks | 
+[2025-12-13T04:05:04.895Z] SUCCESS | The Complete Works of Plato [Annotated]_Part1.txt | 270 chunks | 
+[2025-12-13T04:06:04.497Z] SUCCESS | The Complete Works of Plato [Annotated]_Part10.txt | 217 chunks | 
+[2025-12-13T04:06:53.096Z] SUCCESS | The Complete Works of Plato [Annotated]_Part11.txt | 264 chunks | 
+[2025-12-13T04:07:52.641Z] FLAGGED | The Complete Works of Plato [Annotated]_Part12.txt | 0 chunks | Contains 7 mentions of "Mill" - possible misattribution
+[2025-12-13T04:07:52.692Z] SUCCESS | The Complete Works of Plato [Annotated]_Part13.txt | 254 chunks | 
+[2025-12-13T04:08:49.947Z] FLAGGED | The Complete Works of Plato [Annotated]_Part14.txt | 0 chunks | Contains "by Plutarch" - likely wrong author

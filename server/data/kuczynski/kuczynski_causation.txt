@@ -1,0 +1,494 @@
+Chapter 3 Causation
+
+
+
+Causation a relation between events, not objects
+
+If x causes y, then x and y are events. They are not are not rocks, trees, or snowmen. They are not things, in other words, at least not in the sense in which we will use that word.
+
+Though not themselves causes or effects, things have causal properties. The rock weighs three lbs.; and it is in virtue of this fact about the rock that certain events involving the rock have certain effects. But the rock per se is not a cause.
+
+Nor is the rock an effect. Obviously the rock’s existence is the end-result of a series of events.
+
+But it is these events, not the rock per se, that are appropriately described as ‘effects.’
+
+Notice that, while we would hesitate to describe the rock as an effect of the various events that led to its existence, we would not hesitate to describe the rock as the product of these events.
+
+
+
+Conditions identical with event-patterns
+
+Conditions, e.g. Smith’s having high blood pressure, can be causes and effects. This is because conditions are event-pluralities and therefore events in their own right.
+
+But not all event-pluralities are conditions: a condition is a stable pattern of events.
+
+For your metabolic condition to remain unchanged is for the various events constitutive of it to continue to occur within certain limits; it is for your heart to continue to beat at a certain rate; it is for the cells composing your body to be duly oxygenated at regular intervals; etc. Unless you are cryogenically frozen, for your metabolic condition to remain unchanged is not for you to undergo no metabolic changes.
+
+For the room’s temperature to remain constant is not for the various particles involved to undergo no change. It is for the changes that they are constantly undergoing to remain within certain limits; it is for those changes to remain such that their mean kinetic energy doesn’t change. Unless their mean kinetic energy is zero---and even then---this means that those air molecules are constantly whizzing about.
+
+For there to be a change in the room’s temperature is for there to be a change in the pattern of change constitutive of its having a given temperature. Supposing that the room's temperature at a given time is 78⁰, for the room’s temperature to increase is for there to an increase in the frequency of the various particle-collisions constitutive of the room’s being 78⁰; and for the room’s temperature to drop is for there to be a decrease in the frequency of such collisions. The same thing mutatis mutandis holds with respect to changes in your physiological condition.
+
+
+
+So-called changes typically identical with meta-changes
+
+An event is a change. Therefore, all causes and all effects are changes. But we take for granted, and thus cease to be aware of, the occurrence of the changes constitutive of stable conditions; and we thus tend to reserve the use of the word ‘change’ for changes in patterns of change.
+
+If the patient’s heart-rate, blood-oxygen level, etc. are stable, the attending physician will tell his supervisor that ‘there are no changes to report', his meaning that, whatever the patient’s condition was, the changes constitutive of his being in that condition have remained within certain limits.
+
+An economist says that ‘there has been no change’ in the economy if the patterns of buying and selling constitutive of a nation’s economy haven't changed.
+
+An accurate thermometer registers no change in the room’s temperature if there has been no temperature-relevant change in the pattern of particle collisions involved in the room’s having that temperature.
+
+
+
+Explanation, prediction, and control
+
+Scientific knowledge enables us to explain past events and to predict future ones, and it thereby enables us, within limits, to control the course of events. Supposing that X is some miracle-cure for some ailment that you have, you know how to improve your health-condition (you should take X); you can explain why your condition improved (you took X); and you can explain why your condition deteriorated (you stopped taking X).
+
+
+
+Stable-event patterns a prerequisite for explanation-identification
+
+In contexts in which there are stable patterns of events, it tends to be possible to explain, predict, and control what happens; and it tends to be impossible to do so in contexts in which there are no such patterns and which therefore consist of rogue events. It is impossible to predict what will happen to a 10 MG tablet of X that is being blown about by heavy winds; it is relatively easy to predict what will happen such a tablet is consumed by someone with the aforementioned ailment.
+
+It is for this reason that explanation and prediction almost always consist in the identification of program-causes. Given some event En, En’s program-cause is a structure or stable condition that, although not by itself determinative of En, predetermines the occurrence of some structure- internal specific event En-1 that is thus determinative.
+
+The immediate cause of Smith’s getting mugged is Brown’s desire for money. The program-
+
+cause is the disastrous financial condition of Smith’s country: since that country is poor, it is inevitable that somebody will violate somebody’s property-rights in some way or other. The economist is right to blame the mugging on the evils of capitalism. The psychologist is right to blame the mugging on Brown’s lack of scruples. The economist has correctly identified the program-cause of Smith’s mugging; the psychologist has correctly identified the immediate cause.
+
+
+
+Freud on causation in relation to the development of mental illness
+
+Freud correctly says that, if a given person X succumbs to a given psychology malady M, four different kinds of causes are likely to be operative:
+
+
+
+X’s precondition (how X was before he was afflicted with M);
+
+M’s specific cause (the trauma that, though it did not itself suffice for X’s succumbing to M, made it inevitable that the slightest disturbance in X’s condition would thus suffice);
+
+M’s concurrent cause (some trauma experienced by X, e.g. a recent break-up, that is operative independently of (2) and isn’t constitutive of X’s precondition);
+
+The immediate or precipitating cause of M (some specific event, e.g. the sound of a car backfiring, that pushes X, who has thus far been on the threshold that separates those who suffer from X from those who don’t, just past that threshold).
+
+
+
+Psychological overdetermination
+
+Freud says that mental events are often ‘overdetermined.’ What does Freud mean?
+
+The obvious answer is: A given event, e.g. x’s falling in love with y, is overdetermined iff that event has multiple independently operative sufficient causes.
+
+An event’s immediate cause is not independent of its program-cause; nor is it independent of any one of its non-immediate causes.
+
+An example of this form of overdetermination: x falls in love with y because of y’s intelligence as well as y’s looks; and each of these factors was so powerful that, had the other one been altogether absent, it would by itself have sufficed for x’s falling in love with y.
+
+But even though this is a form of causal overdetermination, it isn't the kind Freud has in mind.
+
+Suppose, as before, that x falls in love with y, both because of y’s looks and because of y’s intelligence, but that, were x intelligent but not good-looking or vice versa, x would not have fallen in love with y. Under those circumstances, Freud would still say that x’s falling in love with y was overdetermined.
+
+When Freud says that a given psychological event e is ‘overdetermined,’ he means that it was brought about by the confluence of two or more psychological events each of which justified e’s occurrence. Relative to any one such event, e's occurrence made sense, even though not a single one of those events was necessarily capable on its own of bringing about e.
+
+Thus, if Freud was right, as he surely was, causation in the psychological sphere often involves the exceeding of thresholds: it isn’t enough that x have just one reason for falling in love with y; unless he has several reasons, nothing happens; but once enough such reasons accumulate, the damn bursts and x falls in love with y.
+
+
+
+Threshold effects and the analog-digital distinction
+
+Discontinuous changes tend to involve threshold effects. A circuit breaker doesn’t do anything until there is electricity-overload, at which point it shuts off the electrical pathway in question. A firm doesn’t declare bankruptcy until it’s in the red by a certain amount, at which point it files the paper work. Continuous changes don't involve threshold effects.
+
+To the extent that the world changes discontinuously, it has a digital structure, and to the extent that it changes continuously, it has an analogue structure. An analogue clock is one that changes continuously with the passage of time; a digital clock is one that abruptly changes states at predetermined intervals.
+
+
+
+Causes as INUS-conditions (“INUS”=insufficient, non-redundant, unnecessary, sufficient)
+
+
+
+Suppose that
+
+
+
+e (Smith’s flipping the switch)
+
+
+
+is the cause of
+
+
+
+e* (the light’s turning on),
+
+
+
+but that e* was not overdetermined e*, i.e. that e* wouldn’t have happened unless e had happened.
+
+By itself, e obviously isn’t sufficient for e*. If the bulbs are broken or the circuitry is damaged, e will not bring about e*.
+
+But given that e* did happen, it follows that there was some confluence of events/conditions that sufficed for e*; and given that under the operative circumstances e* would not have happened unless e had happened, it follows that e is a non-redundant part of that confluence of events.
+
+That confluence of events, though sufficient for e*, wasn’t necessary for e*: after all, an entirely different confluence of events---one not involving my flipping the switch or any of the events intervening between my doing so and the light’s turning on	could have caused the light
+
+to turn on.
+
+It follows that e was an insufficient but non-redundant part of a condition that unnecessary but sufficient for e*’s occurrence	that, in other words, that e was an INUS condition for e*. In
+
+[3]most context
+
+s	,
+
+
+
+Such and such was the cause of thus and such
+
+means
+
+Such and such was an INUS condition for thus and such.
+
+
+
+Counterfactual conditionals
+
+Statements of the form if P had been the case, then Q would have been the case are
+
+counterfactual conditionals (or counterfactuals). Thus, the meaning of
+
+
+
+If Kennedy hadn’t been assassinated, the US would have pulled out of Viet Nam before 1965
+
+
+
+is
+
+
+
+(1*) Kennedy’s assassination prevented a pre-1965 troop-withdrawal.
+
+
+
+Similarly, the meaning of
+
+
+
+If Smith hadn’t fall out of the tree, he wouldn’t have broken his leg
+
+
+
+is
+
+
+
+(2*) Smith’s fall caused him to break his leg.
+
+
+
+Thus, many counterfactuals are to the effect that one thing caused another to happen and many counterfactuals therefore hold in virtue of dependence-relations of the causal variety.
+
+But some counterfactuals hold in virtue of dependence-relations, not of the causal, but of the logical variety. For example, the meaning of
+
+
+
+If, at time t, Smith had had over $10, then, at time t, he would have had over $5,
+
+
+
+is
+
+
+
+(3*) Smith had over $10 at t' entails 'Smith had over $5 at t.
+
+
+
+
+
+Thus, all counterfactuals affirm the existence of instances of necessitation of some kind or other, and all therefore counterfactuals therefore hold in virtue of dependence-relations of one kind or other.
+
+In this section, we will focus exclusively on counterfactuals of the causal variety.
+
+
+
+David Lewis’s analysis of counterfactuals
+
+According to David Lewis (1972, 1984), the meaning of (1) is
+
+
+
+(1#) If w is a world in which Kennedy was not assassinated but is otherwise as much like our world as that fact allows it to be, then in w the US pulled out of Viet Nam before 1965.
+
+
+
+Lewis’s analysis is unacceptable. Any given event has deep causal roots. Kennedy’s assassination was the consequence of a confluence of political, psychological, and physical events, and each of those events is in its turn a consequence of some other confluence of events, and so on. This means that if Kennedy’s assassination doesn’t take place in a given world, then either
+
+
+
+That world differs so much from our world that it is no guarantee that Kennedy even exists in it, let alone effectuates an early troop-withdrawal
+
+
+
+or
+
+
+
+That world differs from ours in respect of the deterministic mechanisms involved in it,
+
+
+
+Given either (a) or (b), there is little or no chance that, in the world in question, Kennedy effectuates an early troop-withdrawal. So Lewis’ analysis is false.
+
+Also, it is by examining the causal and logical structure of our world, not other worlds, that we know whether or not a given counterfactual is true. This means that counterfactuals hold in virtue of the logical and causal structure of our world, as opposed to other worlds.
+
+Since there is no reason, apart from Lewis’s analysis, to believe that there are other worlds, it follows that there is no reason at all to posit their existence or therefore to accept Lewis’s analysis.
+
+
+
+Program-causality
+
+
+
+Because the water in the vessel is boiling, water-molecules strike the interior walls of the vessel with so much force that the vessel cracks. Let c1…cn be those high-speed collisions. The water’s boiling did nothing in the way of cracking the vessel except in so far as it was responsible for c1…cn.
+
+Nonetheless, for reasons having nothing to do with our not knowing about those specific particle-collisions, the appropriate answer in some contexts to the question “why did the walls of the vessel crack?” is “because the water inside the vessel was boiling,” and not “because c1… cn occurred.” Ceteris paribus the vessel would have cracked even if c1…cn hadn’t occurred, since the conditions in question guaranteed the occurrence of some such particle-collisions.
+
+Given that the cause of an event is what guarantees its occurrence, the boiling of the water is, insofar as it guaranteed the occurrence of the likes of c1…cn, appropriately described as “the cause” of the cracking of the vessel.
+
+
+
+Causal redundancy in relation to counterfactuals
+
+(i) c1…cn caused the vessel to crack
+
+is true. But
+
+
+
+(i*) if c1…cn had not occurred, then the vessel would not have cracked
+
+is false. If c1…cn had not occurred, other particle-collisions would have occurred that would have cracked the vessel.
+
+In general, where there is causal redundancy, causal truths cannot be converted into counterfactual truths. Suppose it a truth that
+
+
+
+(A) The bird died because Smith shot it.
+
+If the bird was otherwise unthreatened, then a consequence of (A) is
+
+(A*) If Smith hadn’t shot it, the bird would not have died.
+
+But if Smith was part of a pack of hunters, each of whom would have shot the bird had Smith not done so, then (A*) is not a consequence of (A).
+
+
+
+The Counterfactual Analysis of Causality (CAC)
+
+According to CAC, the meaning of
+
+
+
+(#) e is the cause of e*
+
+
+
+is
+
+
+
+(#*) If e hadn’t happened, then e* wouldn’t have happened.
+
+
+
+The motivation for CAC
+
+Ordinarily the meaning of (#) is taken to be
+
+
+
+(#^) e compelled e* to occur, i.e. e’s occurrence necessitated e*’s occurrence.
+
+
+
+Some philosophers and some physicists have argued that there is no empirical (observational) evidence of the existence of forces. This being their position, they have two options.
+
+
+
+Option #1: Take the deeply revisionist position that there is no observational support for any causal claim.
+
+
+
+Option #2: Hold onto the presumption that causal claims are often observationally well- supported but reinterpret those claims in such a way that their veridicality isn’t predicated on the existence of (supposedly) undiscovered forces.
+
+
+
+CAC is meant to provide one such way of reinterpreting causal claims.
+
+
+
+CAC evaluated
+
+
+
+Two questions must be asked in connection with CAC? First, is it extensionally correct?
+
+Second, is it intensionally correct?
+
+A theory is extensionally correct if there are no counterexamples to it.
+
+A theory is intensionally correct if, first, there are no counterexamples to it and, second, the reason there are no counterexamples to it is that it is a correct description of what it's supposed to describe.
+
+Intensional correctness entails extensional correctness, but not vice versa.
+
+Suppose I put forth the following theory: There will be at least 10 articles of furniture in Olin 310 on Thursday, and the reason for this is that the invisible and otherwise undetectable Martian who lives in my closet will telekinetically transport at least 10 desks into Olin 310.
+
+Given that, as it happens, there did turn out to be more than 10 articles of furniture in that place at that time, this theory is extensionally correct, meaning that there are no counterexamples to it; but it is intensionally incorrect, meaning that, even though the facts are consistent with it, they are consistent with it for the wrong reason.
+
+CAC is extensionally false. For
+
+
+
+(#*) If e hadn’t happened, then e* wouldn’t have happened
+
+
+
+is not always consequence of
+
+
+
+(#) e is the cause of e*.
+
+
+
+(#*) fails to be such a consequence whenever e is but one of many would-be causes of e*, and it therefore fails whenever circumstances program for e*’s occurrence.
+
+CAC is also intensionally false. Suppose it true both that
+
+
+
+(A) The otherwise unthreatened bird died because Smith shot it
+
+
+
+and also consequently that
+
+
+
+(A*) if Smith hadn’t shot it, the bird would not have died.
+
+
+
+If it weren’t for (A) or for some other causal claim, there would be no justification for (A*). Another example:
+
+
+
+(I) Because the pancake batter was poured onto the hot griddle, the batter turned into a pancake.
+
+Supposing that no other person or force would have poured the batter onto the griddle, a consequence of (I) is
+
+(I*) If the pancake batter hadn’t been poured onto the griddle, it wouldn’t have turned into a pancake.
+
+
+
+But whereas one can reasonably accept (I*) on the basis of (I), one cannot possibly accept (I) on the basis of (I*): knowledge of (I*) is necessarily derivative of knowledge of (I), suggesting that the truth affirmed by (I) is more fundamental than the truth affirmed by (I*).
+
+This suggestion is consistent with the fact that, whereas (I*) is a consequence of (I), (I) is not a consequence of (I*). Explanation: Given only that the batter would not have turned into a pancake had it not been poured onto the griddle, it follows that its being poured on the griddle was in some way or other causative of its turning into a pancake. But given only that the batter turned into a pancake because it was poured on the griddle, it does not follow that the batter wouldn’t have turned into a pancake had it not been poured on the griddle. If the batter was in a pancake shaped vessel which suddenly heated up, then it would have turned into a pancake without being poured onto a griddle.
+
+
+
+CAC Defended (CACD)
+
+
+
+Here is the one and only way in which advocates of CAC can defend their position against the just-made points: Once again suppose that
+
+
+
+the bird died because Smith shot it.
+
+
+
+If Smith missed and Smith’s hunting partner Brown took the opportunity to shoot the bird dead, the effect of Brown’s shooting the bird would have been different from the effect of Smith’s doing so. Depending on whether it is Smith or Brown who shoots the bird, the bird dies at this as opposed to that time; the bullet strikes the bird at this as opposed to that angle; the slain bird describes this as opposed to that trajectory as it falls to the earth, where it lands in this as opposed to that location, at this opposed to that exact moment in time.
+
+In general, supposing that e is the cause of e*, it is only if e is insufficiently described that (#*) if e hadn’t happened, then e* wouldn’t have happened
+
+fails to be a consequence of (#) e is the cause of e*.
+
+
+
+Problems with CACD
+
+There are three problems with CACD. These have to do with
+
+
+
+Events whose causes involve the exceeding of thresholds,
+
+Events whose causes are mechanisms that can be implemented in different ways, and
+
+Events whose causes program for their occurrence.
+
+
+
+Explained
+
+
+
+At time t, I push the button and the elevator comes as a result. Had I not done so, someone else might have pushed the button at t and the elevator would still have come, and the result would have been the same: the elevator would have come at the same time, in the same way.
+
+Of course, there is little chance that this other person would have pushed the button in the exact way that I did: he would have used either more or less force than I did, and his finger wouldn’t have come into contact with the exact same parts of the button as my finger.
+
+But this is irrelevant. The button is a binary-mechanism. When the elevator comes isn’t a function of the way in which the button is pushed, and neither is the manner in which the elevator comes. Thus, had some other person pushed the button, the result would have been the very same event that resulted from my pushing the button.
+
+Therefore CACD is false, given that, according to it, the (hypothetical) event resulting from the other person’s pushing the button would not have been numerically identical with the (actual) event resulting from my pushing it. In general, the identity of a given threshold effect is not contingent on the specific composition of its antecedents. Thus, where threshold effects are concerned, there is genuine causal redundancy, and CACD is therefore false.
+
+
+
+explained
+
+
+
+I type “1+2=” into a calculator; then I hit ENTER. My hitting ENTER caused a “3” to appear on the LCD. But if I hadn’t hit ENTER, the “3” still would have appeared, since my friend Gus would have hit ENTER had I not done so.
+
+Had Gus hit ENTER, he would almost certainly not have hit it with the same degree of force or in the same manner, a likely result being that the electrical activity precipitated by his hitting ENTER would have differed in some respects from the electrical activity precipitated by my hitting ENTER. But so long as Gus didn’t strike the ENTER key with excessive force or otherwise cause the calculator to malfunction, those differences wouldn’t have caused a different operation to be carried out (they wouldn’t have caused 50 to be divided by 5); nor would they have caused the same operation to be carried out in a different way (they wouldn’t have caused the computer to add them in base 3, as opposed to base 10 or base 2).
+
+Thus, the differences between the Gus-caused electrical activity and its JM-caused counterpart led to no differences between the Gus-caused software activity and its JM- counterpart. Since the Gus-caused software activity did not otherwise differ from its JM-caused counterpart, the former is numerically identical with the latter. Since the Gus-caused electrical activity did differ from its JM-caused counterpart. And since the JM-caused software activity was identical with its Gus-caused counterpart, that software-activity was in each case distinct from the electrical activity that mediated it.
+
+In general, software-level activity---meaning, ultimately, any causal-series that can be implemented in different ways---is to be distinguished from the event-series by which it is implemented, notwithstanding that the two series are spatiotemporally coincident. In general, the identity an event that can be implemented in different ways isn’t contingent on its exact composition or, therefore, on the exact composition of its cause. Thus, where such events are concerned, there is genuine causal redundancy, and CACD is therefore false.
+
+
+
+Explained
+
+
+
+A hot griddle converts liquid pancake-batter into a solid pancake. Let m1…mn be the confluence of micro-events that is immediately responsible for this conversion process.
+
+Given that the batter was on a hot griddle, it was inevitable that some such micro-events occur, even though it obviously wasn’t inevitable that those specific micro-events occur.
+
+Therefore, if m1…mn hadn’t occurred, the conversion-process still would have occurred, thanks to some entirely distinct confluence of micro-events m*1…m*m.
+
+The conversion process precipitated by m1…mn has a different internal composition from the
+
+hypothetical conversion process precipitated by m*1…m*m.
+
+But just as the identity of a military operation isn’t contingent on the exact identities of the
+
+infantrymen who are carrying out the general’s orders, so the identity of the conversion-process in question isn’t contingent on the identities of the exact micro-particles that happened to be immediately responsible for it, a consequence being that the hypothetical conversion-process is numerically identical with the actual conversion-process.
+
+Therefore CACD is false, given that, according to it, the (hypothetical) conversion-process would not have been numerically identical with the (actual) conversion-process. In general, the identity of an event whose cause programs for it is not contingent on its specific composition or on the precise identity of its immediate antecedents. Thus, where such events are concerned, there is genuine causal redundancy, and CACD is therefore false.
+
+
+
+Summary of our discussion of The Counterfactual Analysis of Causality (CAC)
+
+According to CAC, e is the cause of e* iff e* wouldn’t have happened had e not happened.
+
+Frankfurt’s proves that CAC is false. His argument: My pushing the button is the cause of the elevator’s coming, but the elevator might have come even if I hadn’t pushed the button— somebody else might have pushed it. Therefore, CAC is false.
+
+Attempts to falsify Frankfurt’s critique are false. Therefore CAC is demonstrably false, and not merely prima facie so.
+
+
+

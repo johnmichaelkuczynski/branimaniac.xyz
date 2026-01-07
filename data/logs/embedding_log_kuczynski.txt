@@ -1,0 +1,44 @@
+=== EMBEDDING LOG FOR J.-M. KUCZYNSKI ===
+Figure ID: jmk
+Source Folder: /home/runner/workspace/server/data/kuczynski
+Started: 2025-12-13T03:33:51.061Z
+============================================================
+
+[2025-12-13T03:33:51.065Z] ERROR | 00_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:51.514Z] ERROR | 01_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:51.972Z] ERROR | 01_revised Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:52.359Z] ERROR | 02_Kuczynski WORD.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:52.743Z] ERROR | 02_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:53.093Z] ERROR | 02_revised Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:53.432Z] ERROR | 03_Kuczynski AP.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:53.745Z] ERROR | 03_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:54.170Z] ERROR | 03_revised Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:54.538Z] ERROR | 04_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:54.884Z] ERROR | 04_revised Kuczynski WORD.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:55.277Z] ERROR | 04_revised Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:55.659Z] ERROR | 05_Kuczynski WORD.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:56.053Z] ERROR | 05_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:56.374Z] ERROR | 06_Kuczynski WORD.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:56.732Z] ERROR | 06_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:57.103Z] ERROR | 07_Kuczynski WORD.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:57.484Z] ERROR | 07_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:57.868Z] FLAGGED | 08_Kuczynski WORD.txt | 0 chunks | Contains 12 mentions of "Mill" - possible misattribution
+[2025-12-13T03:33:57.872Z] FLAGGED | 08_Kuczynski.txt | 0 chunks | Contains 12 mentions of "Mill" - possible misattribution
+[2025-12-13T03:33:57.875Z] ERROR | 09_Kuczynski WORD.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:58.327Z] ERROR | 09_Kuczynski.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:58.785Z] ERROR | 1 EMPIRICISM AND FOUNDATIONS OF PSYCHOLOGY.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:59.167Z] ERROR | 1 Final Free Will for Randal Johnson.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:59.502Z] ERROR | 10 EMPIRICISM AND THE FOUNDATIONS OF PSYCHOLOGY.txt | 0 chunks | duplicate key value violates unique constraint "paper_chunks_unique_idx"
+[2025-12-13T03:33:59.825Z] FLAGGED | 10_Kuczynski WORD.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T03:33:59.831Z] FLAGGED | 10_Kuczynski.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T03:33:59.837Z] SUCCESS | 11_Kuczynski WORD.txt | 66 chunks | 
+[2025-12-13T03:34:14.460Z] SUCCESS | 11_Kuczynski.txt | 66 chunks | 
+[2025-12-13T03:34:29.186Z] FLAGGED | 12_Kuczynski WORD.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T03:34:29.191Z] FLAGGED | 12_Kuczynski.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T03:34:29.195Z] SUCCESS | 13_Kuczynski WORD.txt | 86 chunks | 
+[2025-12-13T03:34:48.262Z] SUCCESS | 13_Kuczynski.txt | 86 chunks | 
+[2025-12-13T03:35:07.815Z] SUCCESS | 14_Kuczynski WORD.txt | 28 chunks | 
+[2025-12-13T03:35:13.343Z] SUCCESS | 14_Kuczynski.txt | 28 chunks | 
+[2025-12-13T03:35:19.463Z] SUCCESS | 15_Kuczynski.txt | 51 chunks | 
+[2025-12-13T03:35:29.897Z] FLAGGED | 16_Kuczynski.txt | 0 chunks | Contains 7 mentions of "Mill" - possible misattribution
+[2025-12-13T03:35:29.903Z] SUCCESS | 17_Kuczynski.txt | 136 chunks | 

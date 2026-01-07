@@ -1,0 +1,432 @@
+﻿        HISTORY AND PHILOSOPHY OF LOGIC, 27 (FEBRUARY 2006), 1 – 8
+
+
+
+
+          Implicit Comparatives and the Sorites
+
+                    JOHN-MICHAEL KUCZYNSKI
+
+                            Maryland, USA
+
+                    Received 9 September 2004 Revised 3 October 2004
+
+        A person with one dollar is poor. If a person with n dollars is poor, then so is a person
+        with n1 dollars. Therefore, a person with a billion dollars is poor. True premises,
+        valid reasoning, a false a conclusion: a paradox. This is an instance of the Sorites-
+        paradox. Most attempts to solve this paradox reject some law of classical logic,
+        usually the law of bivalence. I show that this paradox can be solved while holding on
+          to all the laws of classical logic. Given any predicate that generates a Sorites-paradox,
+        signiﬁcant use of that predicate is actually elliptical for a relational statement: a
+        signiﬁcant token of ob is poor means Bob is poor compared to x, for some value of
+        x. Once a value of x is supplied, a deﬁnite cutoﬀ line between having and not having
+    the paradox-generating predicate is supplied. This neutralizes the inductive step in the
+    associated Sorites argument, and the would-be paradox is avoided.
+
+
+
+      I. A person with an IQ of 70 is not smart. For any number n, if a person with an
+      IQ of n is not smart, then a person with an IQ of n1 is not smart. Thus, a person
+      with an IQ of 455 is not smart. But this conclusion is false. So, we have a false
+  conclusion following from true premises.
+      A person with one dollar is not wealthy. For any number n, if a person with n
+        dollars is not wealthy, then a person with n1 dollars is not wealthy. Thus, a person
+      with 777 million dollars is not wealthy. True premises, valid reasoning, false
+conclusion: a paradox.
+        These are examples of the Sorites paradox. This essay will set forth a solution to
+        this paradox. This solution is not in the literature and is not derivative of anything in
+        1
+the literature.
+        A disclaimer is appropriate. There are many diﬀerent Sorites-type paradoxes—we
+        have already considered two diﬀerent ones. I do not know whether what we will say
+        constitutes a solution to every paradox belonging to this class. But I am fairly certain
+that it constitutes a solution to some of them.
+        The Sorites paradox is an ancient one. It was ﬁrst put forth by a contemporary of
+        Aristotle, one Eubilides of Miletus. But no serious attempts at a solution were made
+                    2
+        until the last 30 years or so.Almost all of the solutions that have been oﬀered involve
+
+1
+            See, for example, Dummett (1978), Williamson (1994, 1999a, 1999b), Williamson and Sainsbury (1998), Sorensen (1998),
+          Cargile (1999), Fine (1999), Sainsbury (1999), Tye (1999), Wright (1999), and Parsons (2000). The view put forth in the
+          present paper is not even mentioned, let alone considered, in any of these works, or for that matter in any of the works
+  known to me on vagueness or the Sorites paradox.
+        For a review of all the dominant solutions to the Sorites, see Williamson and Sainsbury (1998). The solution I will
+    present is not among those considered by Williamson and Sainsbury.
+2
+          See Williamson and Sainsbury (1998, p. 458). I am relying on Williamson and Sainsbury for this historical information.
+
+                History and Philosophy of Logic ISSN 0144-5340 print/ISSN 1464-5149 online ª 2006 Taylor & Francis
+                      http://www.tandf.co.uk/journals DOI: 10.1080/014453405002324012John-Michael Kuczynski
+
+          the abandonment of some accepted law of logic. According to one of these solutions,
+          the existence of Sorites-paradoxes show that some propositions are neither true nor
+    false. According to another solution, such paradoxes show that propositions admit of
+                                                                  3
+        degrees of truth: some propositions are 70% true, others are 98% true, and so on.
+        Both of these solutions involve the abandonment of the law of excluded middle:
+        any proposition is either 100% true or 100% false. Of course, this principle is one of
+the cornerstones of classical logic.
+        Presumably, the laws of classical logic should not be rejected if there is any way to
+    hold on to them. My solution to the Sorites doesnotinvolve any abandonment of those
+        laws and is therefore preferable (ceteris paribus) to a solution that abandons them.
+        Sorites arguments have the following structure. They consist of (i) a base clause
+        (omeone with an IQ of 70 is not smart, (ii) an nductive clause (f a person with an IQ
+        of n is not smart, then a person with an IQ of n1 is not smart, and a conclusion that
+        follows from the premises but is plainly false ( person with an IQ of 455 is not smart).
+      The argument set forth in this paper is basically this. The base clause of any
+        Sorites argument is implicitly a comparison of some kind: it involves comparison to
+        some standard or to some other entity. Once it is made explicit what the standard or
+        object of comparison is, the inductive clause is immediately seen to be false: for once,
+        that standard is identiﬁed, a deﬁnite cutoﬀ line between having and not having the
+  oﬀending property is thereby established.
+        Consider the base-clause in the argument set forth in the ﬁrst paragraph of this
+      paper. It is meaningful to ask: person with an IQ of 70 is not smart compared to
+      what? And it would be meaningless to respond by saying: ot compared to
+        anything; such a person is not smart simpliciter No—a person with an IQ of 70 is
+        very stupid compared to the average person but astronomically and incalculably
+        intelligent compared to the average potato bug. So, any signiﬁcant utterance of
+       person with an IQ of 70 is not smart involves reference to some standard; it is
+    elliptical for some proposition like person with an IQ of 70 is not smart
+      compared to the average person Of course, once that italicized qualiﬁcation is
+        added to the base-clause, corresponding qualiﬁcations must be added to the other
+        two clauses, lest the argument involve an equivocation. So, the inductive clause
+      and the conclusion become: (ii) f a person with an IQ of n is not smart compared
+      to the average person, then a person with an IQ of n1 is not smart compared to
+      the average person and (iii) person with an IQ of 455 is not smart compared to
+the average person
+        But notice that (ii) is simply false. Suppose that the average IQ of human beings is
+        102. In that case, there is some n such that a person with an IQ is not smart compared
+        to the average person, and such that a person with an IQ of n1 is smart compared
+      to the average person. It is true for n101.5, n101.6, and so on. So, the inductive
+                                                4
+clause is simply false. And the paradox is thereby avoided.
+
+3
+          See Williamson and Sainsbury (1998, p. 466–481). I say that almost all of the solutions involve an abandonment of some
+          law of classical logic; for there is the so-called epistemicist view, according to which there is a sharp cutoﬀ between
+          being bald and not-bald, rich and not rich. So, somebody with $10,000 is not rich, while somebody with $10,001 is rich.
+        But such a view seems deeply arbitrary; and here is no evidence that [predicates like ich and ald induce sharp cut-
+          oﬀs (Williamson and Sainsbury, 1998, p. 479). Also, it is hard to believe that rich has such a precise meaning, given that
+        absolutely no one knows what that meaning is: but surely, since it is people who give meaning to terms like ich and
+        ald through their use of such terms, it makes no sense to suppose that people should be so radically ignorant of the
+        conditions of their application. (Williamson and Sainsbury (1998, p. 480) make essentially this point.) So, the
+      epistemicist view is, understandably, not taken seriously.                        Comparatives and the Sorites3
+
+        I submit that a corresponding treatment of many other Sorites arguments will
+          show each of those arguments to contain a false premise (the inductive clause). Thus,
+      the associated paradox vanishes; for it is in no way paradoxical that a false
+        conclusion should follow from false premises. The purpose of this essay is to give a
+      rigorous and comparatively general statement of the argument just given.
+
+
+        II. Some preliminary remarks are in order. Not all properties generate Sorites-
+        type arguments. Only properties that can be had to varying degrees generate them.
+        The property of weighing 323 lbs is binary: one either has it or one does not. One
+        cannot weigh 323 lbs to a greater extent than another person. inary properties—
+          those that do not admit of comparatives—do not generate Sorites arguments. But, as
+        far as I can tell, all properties that do admit of comparatives generate them: fatness,
+slowness, dirtiness, smartness.
+      Given any statement of the form x is P where P is a property of the kind that
+      generates a Sorites paradox, let us describe that sentence as a orites sentence
+      Examples of such sentences are hat woman is smart hat man is tall hat object is
+        moving quickly Further, we will describe properties like P as orites-properties and
+        we will describe predicates like (the expression denoting P) as orites-predicates
+        Given a Sorites-sentence, the sentence formed by negating the predicate is itself a
+      Sorites-sentence. ob is wealthy is a Sorites sentence; so, therefore, is ob is not
+    5
+        wealthy.And preﬁxing a ot onto any Sorites-type predicate results in a Sorites
+      predicate. mart is a sorites-type predicate; so, therefore, is ot smart (Thus, the
+  property of being not smart is a Sorites-property.)
+
+
+        III. Let us now proceed to the argument proper. Sorites-sentences are context-
+        sensitive. The sentence ob is fast makes a false statement if Bob is a cheetah whose
+        top running speed is 30 mph. That same sentence makes a true statement if Bob is a
+        turtle whose top crawling speed is 2 mph. In a very poor country, the sentence ob is
+      not wealthy may be false if Bob has $100 to his name. In a very rich country, the
+    sentence ob is not wealthy may be true if Bob has $90,000 to his name.
+      This context sensitivity is easily explained when it is realized Bob cannot be
+        wealthy simpliciter. He must be wealthy compared to most Albanians, or wealthy
+      compared to most Americans, or wealthy enough to take adequate care of his
+        children (who have medical conditions requiring expensive treatment). It would be
+
+4
+          It is true that we are unlikely to characterize someone who is only marginally more intelligent than average as mart
+          compared to the average person But that has to do with pragmatics, not with semantics. The margin of diﬀerence
+          would be negligible and would thus be of no pragmatic signiﬁcance (except in rare contexts, like the present one, where
+        delicate points about meaning are just what is at issue). A comparison might help. For something to be assive is,
+          technically, just for it to have mass. But no one would ever describe a mouse as assive (except in comparison to, say,
+          a proton); for it would be very misleading to do so, even though such a characterization would technically be correct.
+          Similarly, it would be misleading—though technically correct—to say that George was smart ompared to the average
+        person so long as George IQ is so much as one point higher than average. In this paper, we are concerned with the
+          ﬁner aspects of meaning, not with the course-grained analogues of them constituting the bulk of everyday discourse.
+          So, we will use the expression ompared to in its strict and literal meaning; we will say that George is mart compared
+          to the average person iﬀ George is smarter than the average person, no matter by how little. I further discuss this point
+  at the end of the present paper.
+5
+        In an earlier draft of this paper, I confused sentence-negation with predicate-negation. I would like to thank an
+    anonymous reviewer at this journal for setting me straight on this.4John-Michael Kuczynski
+
+        meaningless to say that Bob was just wealthy. Pick any amount of money. For any
+        amount of money M (other than no money at all), there will be some context such
+      that a person with M can be truly characterized as ealthy and a diﬀerent one
+  where a person with M can be truly characterized as ot wealthy.
+      What this tells us is that ealthy (and therefore ot wealthy) is not really a one-
+      place, but a two-place, predicate: x is wealthy relative to some standard x is
+wealthy compared to y
+      This applies mutatis mutandis to any Sorites sentence. Suppose you say ob is
+        smart I can legitimately ask: mart compared to what? Smart compared to most
+        Ph.D. in physics? Smart compared to most people? Given any sentence of the form
+        x is smart there are some contexts where that would constitute a true statement and
+        some where it would not. (This is the case unless x has absolutely no intelligence at
+        all. We will deal with this problem below.) This tells us, that sentences of the form x
+        is smart really express propositions that relativize x intelligence to some standard:
+        x intelligence is being compared to that of other Ph.D. in physics, to other people
+  in the remedial reading class, to other dogs, or other iguanas.
+        So, diﬀerent tokens of x of smart involve comparison to diﬀerent standards, and
+        thus express what are, strictly speaking, diﬀerent propositions. If Bob is a dog, and
+      you say ob is smart you are probably saying ob is smartfor a dog If you say
+      ob is smart and Bob is a Nobel laureate, you are probably saying ob is smart for
+        a person. In any case, if Bob is a Nobel Laureate, and you say ob is smart you are
+      probably not saying that Bob is smart compared to a dog. That is why the truth-
+      conditions for ob [a dog] is smart are not the same as ob [the Nobel Laureate] is
+      smart They have diﬀerent truth-conditions because they express diﬀerent
+        propositions: Bob is smart compared to the average dog and Bob is smart compared
+        to the average human. This point applies to many, if not all, sentences of the form x
+has phi where hi is a Sorites-predicate.
+          Let us apply these considerations to some speciﬁc Sorites-argument:
+
+      (i) An object moving at 1 mph is not moving quickly. (ii) If an object moving n
+      mph is not moving quickly, then an object moving n1 mph is not moving
+      quickly. (iii) So, an object moving 400 million mph is not moving quickly.
+
+    Let us refer to this argument as S.
+        The ﬁrst sentence of S, if used signiﬁcantly, must (elliptically) express a proposition
+        that relativizes the speed of an object moving one mph to some standard—that
+      compares the speed of such an object with that of some other object (or class of
+        objects). For it is legitimate to ask: Relative to what is an object moving at 1 mph not
+      moving quickly? Compared to a glacier? No. Compared to a light-ray? Yes.
+        So, someone who was putting forth S would have to say relative to what an object
+        moving 1 mph was not moving quickly. So, in eﬀect, the base clause of S would be
+some comparative statement like:
+
+      (i0) An object moving 1 mph is moving slowly compared to the average horse.
+
+        The validity of an argument depends on the terms in it being used with a uniform
+      meaning. If uickly in (i) is elliptical for quickly compared to the average horse,
+        while uickly in (ii) is elliptical for quickly compared to the average meteor, then S
+      cannot possibly have any validity. So, uickly in each of (i), (ii), and (iii) must be                        Comparatives and the Sorites5
+
+      used with the same meaning—it must be elliptical for the same thing in each
+          case. Consequently, we must make the appropriate substitutions. So, S then becomes
+(say):
+
+      (i0) An object moving at 1 mph is not moving quickly compared to the average
+      horse (ii0) If an object moving n mph is not moving quickly compared to the
+        average horse, then an object moving n1 mph is not moving quickly compared
+      to the average horse. (iii0) So, an object moving 400 million mph is not moving
+    quickly compared to the average horse.
+
+        But once these substitutions are made, it becomes clear that (ii0)—the inductive
+        clause—is simply false. For there is some number n such that, if an object x is moving
+      at n mph, then x is not moving faster than the average horse, and such that if x is
+        moving n1 mph, then xismoving faster than the average horse. Suppose that the
+        average horse has a maximum speed of 45 mph. In that case, if x is moving 44.5 mph,
+        then x is not moving faster than the average horse, and if x is moving 45.5 mph, then
+  xismoving faster than the average horse.
+        It is pretty clear that these considerations apply mutatis mutandis to any Sorites
+        predicate. Given any use of a predicate that admits of comparative—and all Sorites
+        predicates are of this kind—it is legitimate to ask for a standard of comparison. If
+      you say hat rock is heavy I can legitimately ask: eavy compared to what? In
+      other words, I can ask for a standard of comparison. And once a standard is
+        supplied, then the associated Sorites-generating inductive clause is blocked. or all
+        n, if an object weighing n lbs is not heavy compared to the average human, then an
+      object weighing n1 lbs is not wealthy compared to the average human But that
+        statement is false. If the average American weighs 145 lbs, then an object weighing
+          144.5 lbs will not be heavy compared to the average human, while an object weighing
+  145.5 will be heavy compared to the average human
+        IV. Let us now consider some objections to our argument. The major resistance
+to it will, I think, be this:
+
+          Despite what youe said, I think that sentences like ob is tall hat rock is
+        heavy and red is wealthy—Sorites-type sentences—have a non-comparative
+      meaning. It is meaningful to say ob is wealthy simpliciter The same applies to
+    all other sentences involving Sorites-type predicates.
+
+      Ie already given one argument against this. Here is another. Consider the
+following two sentences:
+
+  (A) Bob is tall.
+  (B) Bob is taller than Fred.
+
+  (B) is synonymous with
+
+    (B0) Bob is more tall than Fred.
+
+    And (B) is also synonymous with:
+
+    (B00) Bob is tall compared to Fred.6John-Michael Kuczynski
+
+      In (B00), all is really a two-place predicate. In other words, in (B00), the word
+        all must be thought of as a predicate with two argument places. Now, surely the
+      word all has the same meaning in (A) that it has in (B00). There is obviously no
+      ambiguity at work here. (It is not like the word ank which has two diﬀerent
+        meanings.) Now, if all were a two-place predicate in (B00), and a one-place predicate
+    in (A), then it could not have the same meaning in both (A) and (B00).
+        Let me clarify this. Obviously, all is functioning in a completely orthodox way
+        in (B00). And obviously all is a two-place predicate in (B00). Finally, all clearly has
+        the same meaning in both (A) and (B00). Given these facts, it is hard to see how all
+      could not be functioning as a two-place predicate in (A). This shows that all is
+really elliptical for all compared to__
+    As against this, one might reason as follows:
+
+      It is true that all has the same meaning in both (A) and (B00). It is also true that
+      all is part of a two-place predicate in (B00). Nonetheless, all in (A), is a one-
+        place predicate and is not part of a two-place predicate. What is going on is that
+        the aforementioned two-place predicate in (B00) is being constructed out of the
+  one-place predicate in (A).
+
+    The problem with this proposal is not hard to see. The meaning of a predicate is intimately
+                                          6
+        bound up with the number of argument places it has.If P1 and P2 are predicates of
+    diﬀerent degrees (i.e. if they have a diﬀerent number of argument places), thenipso facto
+    they have diﬀerent meanings. And I do not see how the obviously two-place predicate _
+      is tall compared to__ could be constructed out of a one-place predicate.
+        The natural resolution of this is the one we considered a moment ago. The term
+        all has the same meaning in both (A) and (B00). And this predicate does not somehow
+          retain the same meaning while shifting the number of argument places it has, or while
+    somehow being assimilated into a predicate of a diﬀerent degree than it originally had.
+        What we say is that all is always comparative: x is tall compared to some standard.
+          Sometimes, the comparison is explicit. Sometimes, it is implicit. Presumably, it is left
+      implicit when the standard can be taken for granted, which is often the case.
+        Admittedly, there are apparent problems with the line of reasoning just set forth.
+      Consider the predicate cidic Some things can be more acidic than others. So,
+        statements of the form x is more acidic than y are signiﬁcant. But it is obviously
+        meaningful to say x is acidic simpliciter. At the same time, cidic obviously has the
+    same meaning in x is acidicwhere cidic is functioning as a one-place
+    predicate—that it has x is more acidic than ywhere cidic is part of a two-
+        place predicate. So, there must be some error in our reasoning. Exactly similar
+      remarks apply to lectriﬁed alleable uctile, and various other physical terms.
+      Also, it seems to apply to the term ntelligent We speak of a life-form as being
+      ntelligent simpliciter, meaning that it has some intelligence. But we can also
+      meaningfully speak of one thing as being more intelligent than another.
+      When you say x is acidic what is really meant is x is acidic to some positive
+      degree or or some positive number n, x is acidic to degree n Degree-statements
+        (even highly generic ones, like x has P to some positive degree or other are really
+        statements about the measure of something. And relativization to a standard is the
+        essence of measurement: to measure is to compare—to compare with something
+
+6
+        Donald Davidson makes this point, and uses it to good advantage, in he Logical Form of Action Sentences.                        Comparatives and the Sorites7
+
+    taken as a standard. So, statements about measurements are comparative statements.
+        Given this, it follows that degree-statements—even highly generic ones like x is
+        acidic to some positive degree or otheralways presuppose some benchmark (in a
+      quite literal sense of enchmark in some cases). So, to say x is acidic is in fact to
+  make a kind of comparative statement.
+      I would like to consider another prima facie problem with our analysis. If
+        somebody has no money, then it certainly seems reasonable to say that they are non-
+        wealthy in an absolute sense. The same is true mutatis mutandis of all other Sorites-
+        type predicates. And this seems to controvert my point that ealthy on-wealthy
+    all mart and so on, have only acomparative meaning.
+    This point does not go through. We have seen reason to believe that on-
+        wealthy is typically used to make a comparative statement. So, if we say that on-
+          wealthy has a truly absolute and non-comparative meaning, then we are really saying
+      that it has two meanings: we are saying that on-wealthy is sometimes a non-
+      comparative predicate and is sometimes a comparative predicate, and is thus
+    ambiguous between two very diﬀerent signiﬁcances.
+    But it seems extremely arbitrary to say that on-wealthy is sometimes an
+          absolute (one-place) predicate and sometimes a comparative (two-place) predicate.
+      Obviously, on-wealthy has the same meaning in ob isabsolutely non-wealthy
+      (meaning: he has no money) that it has in ob is comparatively non-wealthy
+        (meaning: he has less money than others in a certain reference class). And there is no
+        reason to believe that the term on-wealthy corresponds to predicates with diﬀerent
+      numbers of argument places in these two sentences; it is simply not natural to
+      suppose that such a dramatic shift in its semantics occurs.
+      The natural way to go is this. It is in some sense true to say that a person who has
+        no money is non-wealthy in an bsolute sense But to say that Bob is non-wealthy in
+      an absolute sense is not to say that he is non-wealthy in some way that involves
+        reference to no standard. On the contrary, it is to say that he is non-wealthy relative
+      to every standard. So, being bsolutely non-wealthy involves just as much a
+        reference to some standard of comparison as being comparatively non-wealthy.
+        I would like to end this essay by discharging an assumption that I have relied on
+      7
+throughout.I have said that
+
+  (i) x is smarter than y
+
+is equivalent to
+
+  (ii) x is smart compared to y
+
+and also to
+
+  (iii) x is smart relative to y
+
+        This assumption is obviously crucial to my argument. Obviously, marter is a two-
+        place predicate. (It would be meaningless to say am is smarter, unless that were
+      elliptical for am is smarter than Bob or some other relational sentence.) It is
+        essential to my argument that mart is really elliptical for some two-place predicate
+
+7
+        What follows is a response to a point made by an anonymous reviewer at History and Philosophy of Logic.8John-Michael Kuczynski
+
+    that has the same logical form as marter My judgement is that _is smart
+        compared to__ and _is smart relative to__ are such two-place predicates. But this
+  judgement might be questioned, for one might say:
+
+      Oﬀhand, it does not seem to me that the statement x is smarter than y has quite
+        the same meaning as x is smart compared to yr x is smart relative to y
+
+                    8
+        My response is this. Perhapsit may legitimately be questioned whether x is smarter
+      than y has the same meaning as x is smart compared to yr x is smart relative to y
+        But that is not ultimately relevant. The important point is that one obviously could
+                                                                    9
+        construct a two-place predicate out of mart that had the same meaning as marter
+        Once it is granted that mart is elliptical for some such two-place predicate, then my
+        argument in its entirety goes through. Now, it may be that _is smart compared to__ is
+        not that predicate. But as long as some two-place predicate can be constructed out of
+      mart that has the same meaning as marter then my argument goes through.
+          (Whether the English language already contains such a predicate is irrelevant.) Now,
+        clearly there is no barrier to creating some predicate out of mart that has the same
+      logical form as marter let _is smartkompared to__ be that predicate. (So, x is
+      smart kompared to y has the same logical form as x is smarter than y) Given the
+        absence of such a barrier, it is plain that mart iselliptical for a two-place comparative
+          predicate. (For as we, in eﬀect, saw earlier, it would not be possible to construct a two-
+        place predicate out of mart unless mart werealreadysuch a predicate.) And, as we
+      have seen, once this is granted, then our analysis goes through in its entirety.
+
+
+                            References
+
+      Cargile, J. 1999. he Sorites paradox in R. Keefe and P. Smith, eds,Vagueness: A Reader, Cambridge,
+    MA: The MIT Press.
+        Dummett, M. 1978. Wang paradox in Truth and Other Enigmas, Cambridge, MA: Harvard University Press.
+    Fine, K. 1999. agueness, truth and logic in R. Keefe and P. Smith, eds,Vagueness: A Reader,
+    Cambridge, MA: The MIT Press.
+        Parsons, T. 2000. Indeterminate Identity: Metaphysics and Semantics, Cambridge, MA: The MIT Press.
+    Sainsbury, R.M. 1999. oncepts without boundaries in R. Keefe and P. Smith, eds,Vagueness:
+        A Reader, Cambridge, MA: The MIT Press.
+Sorensen, R. 1998. Blindspots, Oxford: Clarendon Press.
+    Tye, M. 1999. orites paradoxes and the semantics of vagueness in R. Keefe and P. Smith, eds,
+          Vagueness: A Reader, Cambridge, MA: The MIT Press.
+    Williamson, T. 1994. Vagueness, London: Routledge.
+      Williamson, T. 1999a. agueness and ignorance in R. Keefe and P. Smith, eds,Vagueness: A Reader,
+    Cambridge, MA: The MIT Press.
+      Williamson, T. 1999b. agueness, truth and logic in R. Keefe and P. Smith, eds,Vagueness: A Reader,
+    Cambridge, MA: The MIT Press.
+      Williamson, T. and Sainsbury, R.M. 1998. orites in B. Hale and C. Wright, eds,A Companion to the
+            Philosophy of Language A Companion to the Philosophy of Language, Oxford: Basil Blackwell.
+      Wright, C. 1999. urther reﬂections on the Sorites paradox in R. Keefe and P. Smith, eds,Vagueness:
+        A Reader, Cambridge, MA: The MIT Press.
+
+
+
+8
+        Though I doubt it. x is smart compared to y is quite obviously, in my view, merely a pedantic way of saying x is
+smarter than y
+9
+        Actually, marter is itself such a predicate. Surely, it is not a phonemic accident that the sound mart occurs at the
+beginning of marter

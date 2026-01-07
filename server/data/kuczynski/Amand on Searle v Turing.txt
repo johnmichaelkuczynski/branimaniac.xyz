@@ -1,0 +1,21 @@
+﻿Searle vs. Turing on the Imitation Game 
+
+Turing’s Position: 
+
+How do know what another person is thinking? Through their deeds—their statements and their behaviors. How do know we know whether another person is thinking at all? In the same way. If a given person’s body is producing speech or otherwise behaving in ways suggestive of mental activity, then we assume that there is indeed mental activity in that body—that it is not a mere body, but an embodied person. 
+	So our test for determining the presence of mental activity is always behavior: If X behaves (speaks, moves, writes, sings..) like a thinker, then X is a thinker; otherwise, it isn’t. 
+	The question therefore arises: What if X is a machine? What if X is a machine that, when asked a question, givens a reasonable answer? More generally, what if X, in terms of its overt (detectable to others) movements and behaviors (including the production of noises, ink-deposits, images on a monitor, and the like) acts like a thinker? 
+	In that case, says Alan Turing, we have no reason to deny that X is a thinker. 
+
+Searle’s Position 
+
+	John Searle disagrees with Turing. According to Searle, a non-thinker could act  like a thinker without being a thinker. To this end, Searle puts forth his Chinese Room Argument. Imagine a machine that cannot think but inside of which there is a person that so directs the machine as to make it seem that it thinks. So if someone says to the ‘machine’, ‘indicate by clapping your hands what the square of two is’, then the person inside the machine directs the machine to clap its hands four times. 
+	Searle says that, since the machine does not think but acts as though it does, it follows that, indeed, X’s behaving like a thinker is not definitive proof that X is a thinker. 
+
+Analysis 
+
+First of all, ultimately, Searle is right. Anything can in principle behave in any way at all. A lifeless corpse could be electrically stimulated to produce any sounds all. A coffee machine could accidentally produce noises that sounded just like a poem—even though that machine, being inanimate, is not really producing poetry. 
+Turing is failing to distinguish thought per se from mere evidence of thought. It is one thing to think; it is quite anther to produce behavioral evidence of thought. And while it is true that our basis for imputing thoughts to others consists in their overt behaviors, it obviously doesn’t follow, and is not the case, that their behaviors are their thoughts. 
+But Searle’s argument for this position is pathetically weak. True—the machine per se doesn’t think. But the machine by itself isn’t behaving intelligently. What is behaving intelligently is the ensemble consisting of the machine and the man inside it. And that ensemble, consisting as it does of a machine plus a thinking person, is a thinker. 
+WE can turn Searle’s argument against itself. We ask machine X to answer questions. X always answered those questions intelligently. Then, we later find out that there was a little person inside X that was making it produce intelligent responses. We would not conclude that the behavior on X’s part that we previously regarded as intelligence-driven was not intelligence-driven. That is that exact opposite of what we would conclude. We would conclude that it was intelligence-driven—but that we were wrong about the nature of the mechanisms mediating that intelligence.  
+So Searle is right that behavioral evidence of intelligence is not always definitive proof of intelligence. But his argument for that position does little to support that position, and it actually tends to support’s Turing’s position more than it supports his own. 

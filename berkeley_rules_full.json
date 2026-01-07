@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 5696,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "distance|immediately|perceived|sight",
+    "conclusion": "Distance is not immediately perceived by sight"
+  },
+  {
+    "id": 5697,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "distance|perceived|mediately|means|intervening|ideas",
+    "conclusion": "Distance is perceived mediately, by means of intervening ideas"
+  },
+  {
+    "id": 5698,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "ideas|sight|touch|entirely|heterogeneous",
+    "conclusion": "The ideas of sight and touch are entirely heterogeneous"
+  },
+  {
+    "id": 5699,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "call|seeing|distance|actually|judging|visual",
+    "conclusion": "What we call \"seeing distance\" is actually judging distance from visual signs"
+  },
+  {
+    "id": 5700,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "connection|visual|ideas|distance|learned|experience",
+    "conclusion": "The connection between visual ideas and distance is learned through experience"
+  },
+  {
+    "id": 5701,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "lines|angles|drawn|objects|perceived",
+    "conclusion": "Lines and angles drawn from objects to the eye are not themselves perceived"
+  },
+  {
+    "id": 5702,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "geometrical|optics|cannot|explain|perceive|distance",
+    "conclusion": "Geometrical optics cannot explain how we perceive distance"
+  },
+  {
+    "id": 5703,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "mind|calculate|distances|using|optic|angles",
+    "conclusion": "The mind does not calculate distances using optic angles"
+  },
+  {
+    "id": 5704,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "convergence|eyes|provides|sensation|suggests|distance",
+    "conclusion": "Convergence of the eyes provides a sensation that suggests distance"
+  },
+  {
+    "id": 5705,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "strain|accommodation|contributes|near|distance|judgments",
+    "conclusion": "The strain of accommodation in the eye contributes to near-distance judgments"
+  },
+  {
+    "id": 5706,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "confusion|blurriness|image|serves|sign|nearness",
+    "conclusion": "Confusion or blurriness of an image serves as a sign of nearness"
+  },
+  {
+    "id": 5707,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "distinctness|clarity|image|serves|sign|distance",
+    "conclusion": "Distinctness or clarity of an image serves as a sign of distance"
+  },
+  {
+    "id": 5708,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "faintness|appearance|suggests|greater|distance",
+    "conclusion": "Faintness of appearance suggests greater distance"
+  },
+  {
+    "id": 5709,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "vigor|intensity|appearance|suggests|nearness",
+    "conclusion": "Vigor or intensity of appearance suggests nearness"
+  },
+  {
+    "id": 5710,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "number|intermediate|objects|affects|distance|judgments",
+    "conclusion": "The number of intermediate objects affects distance judgments"
+  },
+  {
+    "id": 5711,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "various|signs|combined|distance|perception",
+    "conclusion": "These various signs are combined in distance perception"
+  },
+  {
+    "id": 5712,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "connection|signs|distance|arbitrary|necessary",
+    "conclusion": "The connection between these signs and distance is arbitrary, not necessary"
+  },
+  {
+    "id": 5713,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "experience|alone|teaches|interpret|visual|signs",
+    "conclusion": "Experience alone teaches us to interpret visual signs as indicating distance"
+  },
+  {
+    "id": 5714,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "person|born|blind|made|immediately|perceive",
+    "conclusion": "A person born blind and made to see would not immediately perceive distance"
+  },
+  {
+    "id": 5715,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "person|initially|objects",
+    "conclusion": "Such a person would initially see all objects as in the eye itself"
+  },
+  {
+    "id": 5716,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "molyneux|problem|answered|negatively|newly|sighted",
+    "conclusion": "The Molyneux problem is answered negatively: a newly sighted person could not recognize shapes"
+  },
+  {
+    "id": 5717,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|ideas|tangible|specifically|distinct",
+    "conclusion": "Visible ideas and tangible ideas are specifically distinct"
+  },
+  {
+    "id": 5718,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|square|tangible|different|ideas|entirely",
+    "conclusion": "A visible square and a tangible square are different ideas entirely"
+  },
+  {
+    "id": 5719,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "called|name|custom|association",
+    "conclusion": "They are called by the same name only through custom and association"
+  },
+  {
+    "id": 5720,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "connection|visual|tangible|ideas|resembles|words",
+    "conclusion": "The connection between visual and tangible ideas resembles that between words and meanings"
+  },
+  {
+    "id": 5721,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visual|ideas|function|natural|language|signifying",
+    "conclusion": "Visual ideas function as a natural language signifying tangible ideas"
+  },
+  {
+    "id": 5722,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "language|universal|sighted|creatures",
+    "conclusion": "This language is universal to all sighted creatures"
+  },
+  {
+    "id": 5723,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "author|nature|established|correlation|benefit",
+    "conclusion": "The Author of Nature established this correlation for our benefit"
+  },
+  {
+    "id": 5724,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "light|colors|immediate|proper|objects|sight",
+    "conclusion": "Light and colors are the immediate and proper objects of sight"
+  },
+  {
+    "id": 5725,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "extension|figures|perceived|sight|mediately",
+    "conclusion": "Extension and figures are perceived by sight only mediately"
+  },
+  {
+    "id": 5726,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|extension|differs|kind|tangible",
+    "conclusion": "Visible extension differs in kind from tangible extension"
+  },
+  {
+    "id": 5727,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "abstract|general|idea|extension|common|sight",
+    "conclusion": "There is no abstract general idea of extension common to sight and touch"
+  },
+  {
+    "id": 5728,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "abstract|general|ideas|impossible",
+    "conclusion": "Abstract general ideas are impossible"
+  },
+  {
+    "id": 5729,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "ideas|particular|determinate",
+    "conclusion": "All ideas are particular and determinate"
+  },
+  {
+    "id": 5730,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "minimum|visibles|exist|smallest|perceivable|visual",
+    "conclusion": "Minimum visibles exist: the smallest perceivable visual points"
+  },
+  {
+    "id": 5731,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|extension|composed|finite|collections|minima",
+    "conclusion": "Visible extension is composed of finite collections of minima visibilia"
+  },
+  {
+    "id": 5732,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "minimum|tangibles|exist|smallest|perceivable|tactile",
+    "conclusion": "Minimum tangibles exist: the smallest perceivable tactile points"
+  },
+  {
+    "id": 5733,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "tangible|extension|composed|finite|collections|minima",
+    "conclusion": "Tangible extension is composed of finite collections of minima tangibilia"
+  },
+  {
+    "id": 5734,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "minimum|visible|thing|tangible",
+    "conclusion": "A minimum visible is not the same thing as a minimum tangible"
+  },
+  {
+    "id": 5735,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "minima|heterogeneous|nature",
+    "conclusion": "The two minima are heterogeneous in nature"
+  },
+  {
+    "id": 5736,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "minimum|visible|correspond|varying|tangible|magnitudes",
+    "conclusion": "One minimum visible may correspond to varying tangible magnitudes"
+  },
+  {
+    "id": 5737,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "magnitude|immediately|perceived|sight",
+    "conclusion": "Magnitude is not immediately perceived by sight"
+  },
+  {
+    "id": 5738,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|magnitude|tangible|entirely|distinct",
+    "conclusion": "Visible magnitude and tangible magnitude are entirely distinct"
+  },
+  {
+    "id": 5739,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "call|real|magnitude|object|tangible",
+    "conclusion": "What we call the \"real\" magnitude of an object is its tangible magnitude"
+  },
+  {
+    "id": 5740,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|magnitude|merely|sign|suggesting|tangible",
+    "conclusion": "Visible magnitude is merely a sign suggesting tangible magnitude"
+  },
+  {
+    "id": 5741,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|magnitude|signify|different|tangible|magnitudes",
+    "conclusion": "The same visible magnitude may signify different tangible magnitudes"
+  },
+  {
+    "id": 5742,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "different|visible|magnitudes|signify|tangible|magnitude",
+    "conclusion": "Different visible magnitudes may signify the same tangible magnitude"
+  },
+  {
+    "id": 5743,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "judgments|tangible|magnitude|visible|signs|learned",
+    "conclusion": "Judgments of tangible magnitude from visible signs are learned"
+  },
+  {
+    "id": 5744,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "near|object|producing|visible|magnitude|appear",
+    "conclusion": "A near object and a far object producing the same visible magnitude appear differently"
+  },
+  {
+    "id": 5745,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "difference|associated|ideas|immediate|perception",
+    "conclusion": "The difference is due to associated ideas, not immediate perception"
+  },
+  {
+    "id": 5746,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "situation|spatial|position|immediately|perceived|sight",
+    "conclusion": "Situation or spatial position is not immediately perceived by sight"
+  },
+  {
+    "id": 5747,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "upper|lower|right|left|tangible|determinations",
+    "conclusion": "Upper and lower, right and left, are tangible determinations"
+  },
+  {
+    "id": 5748,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visible|ideas|suggest|tangible|situations|learned",
+    "conclusion": "Visible ideas suggest tangible situations through learned association"
+  },
+  {
+    "id": 5749,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "retinal|image|inverted|relative|object",
+    "conclusion": "The retinal image is inverted relative to the object"
+  },
+  {
+    "id": 5750,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "inversion|creates|problem|berkeley|theory",
+    "conclusion": "This inversion creates no problem for Berkeley's theory"
+  },
+  {
+    "id": 5751,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "perceive|retinal|image",
+    "conclusion": "We do not perceive the retinal image at all"
+  },
+  {
+    "id": 5752,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "proper|visible|image|either|erect|inverted",
+    "conclusion": "There is no proper visible image that is either erect or inverted"
+  },
+  {
+    "id": 5753,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "erect|inverted|tangible|visual|notions",
+    "conclusion": "\"Erect\" and \"inverted\" are tangible, not visual, notions"
+  },
+  {
+    "id": 5754,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "question|things|upright|therefore|dissolved",
+    "conclusion": "The question of why we see things upright is therefore dissolved"
+  },
+  {
+    "id": 5755,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "traditional|geometrical|explanations|erect|vision|confused",
+    "conclusion": "The traditional geometrical explanations of erect vision are confused"
+  },
+  {
+    "id": 5756,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "external|outward|distance|immediately|seen",
+    "conclusion": "External or outward distance is not immediately seen"
+  },
+  {
+    "id": 5757,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "objects|perceived|sight|alone",
+    "conclusion": "Objects are not perceived as being \"out there\" through sight alone"
+  },
+  {
+    "id": 5758,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "outness|tangible|idea|suggested|visual|signs",
+    "conclusion": "Outness is a tangible idea suggested by visual signs"
+  },
+  {
+    "id": 5759,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "moon|illusion|cannot|explained|optic|angles",
+    "conclusion": "The moon illusion cannot be explained by optic angles alone"
+  },
+  {
+    "id": 5760,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "horizontal|moon|appears|larger|associated|ideas",
+    "conclusion": "The horizontal moon appears larger due to associated ideas"
+  },
+  {
+    "id": 5761,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "intervening|terrain|suggests|greater|distance|horizon",
+    "conclusion": "Intervening terrain suggests greater distance for the horizon moon"
+  },
+  {
+    "id": 5762,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "greater|suggested|distance|makes|judge|moon",
+    "conclusion": "Greater suggested distance makes us judge the moon larger"
+  },
+  {
+    "id": 5763,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "zenith|moon|lacks|intervening|distance|cues",
+    "conclusion": "The zenith moon lacks these intervening distance cues"
+  },
+  {
+    "id": 5764,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "psychological|explanation|supersedes|geometrical",
+    "conclusion": "The psychological explanation supersedes the geometrical one"
+  },
+  {
+    "id": 5765,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visual|ideas|mind|external",
+    "conclusion": "Visual ideas are in the mind, not external to it"
+  },
+  {
+    "id": 5766,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "proper|objects|sight|mental|ideas",
+    "conclusion": "The proper objects of sight are mental ideas"
+  },
+  {
+    "id": 5767,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "touch|alone|gives|idea|externality",
+    "conclusion": "Touch alone gives us the idea of externality"
+  },
+  {
+    "id": 5768,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "tangible|world|consider|real|spatial",
+    "conclusion": "The tangible world is what we consider the real spatial world"
+  },
+  {
+    "id": 5769,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visual|ideas|signs|navigating|tangible|world",
+    "conclusion": "Visual ideas are signs for navigating the tangible world"
+  },
+  {
+    "id": 5770,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "experience|connects|constant|conjunction",
+    "conclusion": "Experience connects the two through constant conjunction"
+  },
+  {
+    "id": 5771,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "custom|habit|explain|swiftness|perceptual|judgments",
+    "conclusion": "Custom and habit explain the swiftness of perceptual judgments"
+  },
+  {
+    "id": 5772,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "judgments|become|automatic|seem|immediate",
+    "conclusion": "These judgments become so automatic as to seem immediate"
+  },
+  {
+    "id": 5773,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "reflection|reveals|truly|immediate",
+    "conclusion": "Reflection reveals they are not truly immediate"
+  },
+  {
+    "id": 5774,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "infant|perceive|distance|magnitude|adults",
+    "conclusion": "An infant does not perceive distance or magnitude as adults do"
+  },
+  {
+    "id": 5775,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "perceptual|learning|occurs|rapidly|early|life",
+    "conclusion": "Perceptual learning occurs rapidly in early life"
+  },
+  {
+    "id": 5776,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "person|blind|birth|ideas|light|color",
+    "conclusion": "A person blind from birth has no ideas of light or color"
+  },
+  {
+    "id": 5777,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "person|spatial|ideas|entirely|tangible",
+    "conclusion": "Such a person's spatial ideas are entirely tangible"
+  },
+  {
+    "id": 5778,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "made|everything|learned|anew",
+    "conclusion": "If made to see, everything would need to be learned anew"
+  },
+  {
+    "id": 5779,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visual|field|initially|meaningless",
+    "conclusion": "Their visual field would initially be meaningless"
+  },
+  {
+    "id": 5780,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "connect|visible|shapes|familiar|tangible|objects",
+    "conclusion": "They would not connect visible shapes to familiar tangible objects"
+  },
+  {
+    "id": 5781,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "newly|sighted|learn|visual|language|scratch",
+    "conclusion": "The newly sighted would need to learn the visual language from scratch"
+  },
+  {
+    "id": 5782,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "common|sensible|perceived|sight|touch",
+    "conclusion": "There is no common sensible perceived by both sight and touch"
+  },
+  {
+    "id": 5783,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "number|common|sensible|bridging|senses",
+    "conclusion": "Number is not a common sensible bridging the senses"
+  },
+  {
+    "id": 5784,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "unity|number|creatures|mind|sensed|qualities",
+    "conclusion": "Unity and number are creatures of the mind, not sensed qualities"
+  },
+  {
+    "id": 5785,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "perceive|operations",
+    "conclusion": "The eye does not perceive its own operations"
+  },
+  {
+    "id": 5786,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "direct|awareness|optical|physiological|processes",
+    "conclusion": "We have no direct awareness of optical or physiological processes"
+  },
+  {
+    "id": 5787,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "ideas|immediately|present|vision|contain|necessary",
+    "conclusion": "The ideas immediately present in vision contain no necessary reference to distance"
+  },
+  {
+    "id": 5788,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "established|different|correlations|visual|tangible|ideas",
+    "conclusion": "God could have established different correlations between visual and tangible ideas"
+  },
+  {
+    "id": 5789,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "existing|correlations|serve|human|preservation|convenience",
+    "conclusion": "The existing correlations serve human preservation and convenience"
+  },
+  {
+    "id": 5790,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visual|language|divinely|instituted|practical|benefit",
+    "conclusion": "The visual language is divinely instituted for practical benefit"
+  },
+  {
+    "id": 5791,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "visual|signs|reliably|indicate|tangible|consequences",
+    "conclusion": "Visual signs reliably indicate tangible consequences"
+  },
+  {
+    "id": 5792,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "learn|read|signs|respond|appropriately",
+    "conclusion": "We learn to read these signs and respond appropriately"
+  },
+  {
+    "id": 5793,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "misinterpretations|occur|normal|correlations|disrupted",
+    "conclusion": "Misinterpretations occur when normal correlations are disrupted"
+  },
+  {
+    "id": 5794,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "optical|illusions|reveal|learned|inferential|nature",
+    "conclusion": "Optical illusions reveal the learned and inferential nature of perception"
+  },
+  {
+    "id": 5795,
+    "topic": "An Essay towards a New Theory of Vision",
+    "premise": "berkeley|theory|explains|perception|without|appeal",
+    "conclusion": "Berkeley's theory explains perception without appeal to material substance"
+  },
+  {
+    "id": 5796,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sensible|things|perceived|immediately|senses",
+    "conclusion": "Sensible things are those perceived immediately by the senses"
+  },
+  {
+    "id": 5797,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "heat|cold|sensations|qualities|external|objects",
+    "conclusion": "Heat and cold are sensations, not qualities in external objects"
+  },
+  {
+    "id": 5798,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "intense|heat|indistinguishable|pain",
+    "conclusion": "Intense heat is indistinguishable from pain"
+  },
+  {
+    "id": 5799,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "pain|exists|perceiving|mind",
+    "conclusion": "Pain exists only in a perceiving mind"
+  },
+  {
+    "id": 5800,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "therefore|intense|heat|exists|perceiving|mind",
+    "conclusion": "Therefore intense heat exists only in a perceiving mind"
+  },
+  {
+    "id": 5801,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "argument|applies|intense|cold",
+    "conclusion": "The same argument applies to intense cold"
+  },
+  {
+    "id": 5802,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "moderate|degrees|heat|cold|sensations",
+    "conclusion": "Moderate degrees of heat and cold are also sensations"
+  },
+  {
+    "id": 5803,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "degrees|heat|exist|mind",
+    "conclusion": "All degrees of heat exist only in the mind"
+  },
+  {
+    "id": 5804,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "tastes|sensations|perceived|mind",
+    "conclusion": "Tastes are sensations perceived by the mind"
+  },
+  {
+    "id": 5805,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sweetness|bitterness|exist|perceiver",
+    "conclusion": "Sweetness and bitterness exist only in the perceiver"
+  },
+  {
+    "id": 5806,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "item|tastes|differently|different|perceivers",
+    "conclusion": "The same item tastes differently to different perceivers"
+  },
+  {
+    "id": 5807,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "odors|sensations|existing|mind",
+    "conclusion": "Odors are sensations existing only in the mind"
+  },
+  {
+    "id": 5808,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sounds|sensations|vibrations|external",
+    "conclusion": "Sounds are sensations, not vibrations in external air"
+  },
+  {
+    "id": 5809,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sound|heard|identical|motions|medium",
+    "conclusion": "The sound heard is not identical with motions in the medium"
+  },
+  {
+    "id": 5810,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "colors|sensations|perceived|sight",
+    "conclusion": "Colors are sensations perceived by sight"
+  },
+  {
+    "id": 5811,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "colors|vary|light|distance|perceiver|condition",
+    "conclusion": "Colors vary with light, distance, and the perceiver's condition"
+  },
+  {
+    "id": 5812,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "color|inherent|objects|independently|perception",
+    "conclusion": "No color is inherent in objects independently of perception"
+  },
+  {
+    "id": 5813,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "distinction|primary|secondary|qualities|fails",
+    "conclusion": "The distinction between primary and secondary qualities fails"
+  },
+  {
+    "id": 5814,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "extension|cannot|conceived|apart|sensible|quality",
+    "conclusion": "Extension cannot be conceived apart from some sensible quality"
+  },
+  {
+    "id": 5815,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "extension|perceived|colored|tangible",
+    "conclusion": "Extension is always perceived as colored or tangible"
+  },
+  {
+    "id": 5816,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "figure|inseparable|extension",
+    "conclusion": "Figure is inseparable from extension"
+  },
+  {
+    "id": 5817,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "motion|inseparable|extension",
+    "conclusion": "Motion is inseparable from extension"
+  },
+  {
+    "id": 5818,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "solidity|sensation|resistance|perceived|touch",
+    "conclusion": "Solidity is a sensation of resistance perceived by touch"
+  },
+  {
+    "id": 5819,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "primary|qualities|mind|dependent|secondary",
+    "conclusion": "Primary qualities are as mind-dependent as secondary qualities"
+  },
+  {
+    "id": 5820,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "size|relative|perceiver",
+    "conclusion": "Size is relative to the perceiver"
+  },
+  {
+    "id": 5821,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "object|appears|different|sizes|creatures",
+    "conclusion": "The same object appears different sizes to different creatures"
+  },
+  {
+    "id": 5822,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "absolute|size|existing|independently|perception",
+    "conclusion": "There is no absolute size existing independently of perception"
+  },
+  {
+    "id": 5823,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "speed|motion|relative|perceiver|experience",
+    "conclusion": "Speed of motion is relative to the perceiver's experience"
+  },
+  {
+    "id": 5824,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sensible|qualities|exist|mind",
+    "conclusion": "All sensible qualities exist only in the mind"
+  },
+  {
+    "id": 5825,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sensible|things|collections|qualities",
+    "conclusion": "Sensible things are collections of sensible qualities"
+  },
+  {
+    "id": 5826,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "therefore|sensible|things|exist|mind",
+    "conclusion": "Therefore sensible things exist only in the mind"
+  },
+  {
+    "id": 5827,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "perceived|esse|percipi",
+    "conclusion": "To be is to be perceived (esse est percipi)"
+  },
+  {
+    "id": 5828,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "material|substance|unintelligible|abstraction",
+    "conclusion": "Material substance is an unintelligible abstraction"
+  },
+  {
+    "id": 5829,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "matter|defined|unperceived|unthinking|substrate",
+    "conclusion": "Matter is defined as an unperceived, unthinking substrate"
+  },
+  {
+    "id": 5830,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "substrate|cannot|conceived|coherently",
+    "conclusion": "Such a substrate cannot be conceived coherently"
+  },
+  {
+    "id": 5831,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "idea|corresponding|term|material|substance",
+    "conclusion": "We have no idea corresponding to the term \"material substance\""
+  },
+  {
+    "id": 5832,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "notion|matter|either|contradictory|meaningless",
+    "conclusion": "The notion of matter is either contradictory or meaningless"
+  },
+  {
+    "id": 5833,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "material|substance|cannot|known|exist",
+    "conclusion": "Material substance cannot be known to exist"
+  },
+  {
+    "id": 5834,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "arguments|matter|existence|fallacious",
+    "conclusion": "Arguments for matter's existence are fallacious"
+  },
+  {
+    "id": 5835,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "supposition|matter|explains|nothing",
+    "conclusion": "The supposition of matter explains nothing"
+  },
+  {
+    "id": 5836,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "perception|require|material|causes",
+    "conclusion": "Perception does not require material causes"
+  },
+  {
+    "id": 5837,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "ideas|cannot|resemble|anything",
+    "conclusion": "Ideas cannot resemble anything but other ideas"
+  },
+  {
+    "id": 5838,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "idea|cannot|resemble|unperceived|material|thing",
+    "conclusion": "An idea cannot resemble an unperceived material thing"
+  },
+  {
+    "id": 5839,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "representative|theory|perception|fails",
+    "conclusion": "The representative theory of perception fails"
+  },
+  {
+    "id": 5840,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "perceive|ideas|immediately|external|objects|mediately",
+    "conclusion": "We perceive ideas immediately, not external objects mediately"
+  },
+  {
+    "id": 5841,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "ideas|passive|inert",
+    "conclusion": "Ideas are passive and inert"
+  },
+  {
+    "id": 5842,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "ideas|causal|power",
+    "conclusion": "Ideas have no causal power"
+  },
+  {
+    "id": 5843,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "idea|cannot|cause|another",
+    "conclusion": "An idea cannot be the cause of another idea"
+  },
+  {
+    "id": 5844,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "minds|spirits|causal|efficacy",
+    "conclusion": "Only minds or spirits have causal efficacy"
+  },
+  {
+    "id": 5845,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "cause|sensory|ideas|mind",
+    "conclusion": "The cause of our sensory ideas must be a mind"
+  },
+  {
+    "id": 5846,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sensory|ideas|caused|wills",
+    "conclusion": "Our sensory ideas are not caused by our own wills"
+  },
+  {
+    "id": 5847,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "caused|another|powerful|mind",
+    "conclusion": "They are caused by another, more powerful mind"
+  },
+  {
+    "id": 5848,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "mind",
+    "conclusion": "This mind is God"
+  },
+  {
+    "id": 5849,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immediately|produces|ideas|minds",
+    "conclusion": "God immediately produces ideas in our minds"
+  },
+  {
+    "id": 5850,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "regularity|nature|consistent|mode|operation",
+    "conclusion": "The regularity of nature is God's consistent mode of operation"
+  },
+  {
+    "id": 5851,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "laws|nature|rules|produces|ideas",
+    "conclusion": "Laws of nature are rules by which God produces ideas"
+  },
+  {
+    "id": 5852,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "natural|philosophy|studies|grammar|visual|language",
+    "conclusion": "Natural philosophy studies the grammar of God's visual language"
+  },
+  {
+    "id": 5853,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "order|ideas|allows|prediction|practical|action",
+    "conclusion": "The order of ideas allows prediction and practical action"
+  },
+  {
+    "id": 5854,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "existence|evident|matter|supposed",
+    "conclusion": "God's existence is more evident than matter's supposed existence"
+  },
+  {
+    "id": 5855,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immaterialism|provides|direct|proof|existence",
+    "conclusion": "Immaterialism provides a direct proof of God's existence"
+  },
+  {
+    "id": 5856,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "materialist|hypothesis|makes|remote|unnecessary",
+    "conclusion": "The materialist hypothesis makes God remote or unnecessary"
+  },
+  {
+    "id": 5857,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immaterialism|makes|intimately|present|perception",
+    "conclusion": "Immaterialism makes God intimately present in all perception"
+  },
+  {
+    "id": 5858,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "spirit|mind|substance",
+    "conclusion": "Spirit or mind is the only substance"
+  },
+  {
+    "id": 5859,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "spirit|active|thinking|perceiving",
+    "conclusion": "Spirit is active, thinking, and perceiving"
+  },
+  {
+    "id": 5860,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "know|minds|reflection",
+    "conclusion": "We know our own minds by reflection"
+  },
+  {
+    "id": 5861,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "notion|spirit|though|idea",
+    "conclusion": "We have a notion of spirit, though not an idea of it"
+  },
+  {
+    "id": 5862,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "ideas|objects|perceived|spirits|perceivers",
+    "conclusion": "Ideas are objects perceived; spirits are perceivers"
+  },
+  {
+    "id": 5863,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "nothing|like|idea|except|another",
+    "conclusion": "Nothing can be like an idea except another idea"
+  },
+  {
+    "id": 5864,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "external|world|consists|ideas|mind",
+    "conclusion": "The external world consists of ideas in God's mind"
+  },
+  {
+    "id": 5865,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "sensible|objects|continue|exist|unperceived|finite",
+    "conclusion": "Sensible objects continue to exist when unperceived by finite minds"
+  },
+  {
+    "id": 5866,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "perpetually|perceives|things",
+    "conclusion": "God perpetually perceives all things"
+  },
+  {
+    "id": 5867,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "tree|quad|exists|perception",
+    "conclusion": "The tree in the quad exists in God's perception"
+  },
+  {
+    "id": 5868,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "objects|continuous|existence|divine|perception",
+    "conclusion": "Objects have continuous existence through divine perception"
+  },
+  {
+    "id": 5869,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immaterialism|deny|reality|external|world",
+    "conclusion": "Immaterialism does not deny the reality of the external world"
+  },
+  {
+    "id": 5870,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "denies|materialist|interpretation|world",
+    "conclusion": "It denies only the materialist interpretation of that world"
+  },
+  {
+    "id": 5871,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "common|sense|vindicated|contradicted|immaterialism",
+    "conclusion": "Common sense is vindicated, not contradicted, by immaterialism"
+  },
+  {
+    "id": 5872,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "ordinary|people|believed|material|substance",
+    "conclusion": "Ordinary people never believed in material substance"
+  },
+  {
+    "id": 5873,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "material|substance|philosopher|fiction",
+    "conclusion": "Material substance is a philosopher's fiction"
+  },
+  {
+    "id": 5874,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "skepticism|arises|belief|matter",
+    "conclusion": "Skepticism arises from belief in matter"
+  },
+  {
+    "id": 5875,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "matter|existed|know",
+    "conclusion": "If matter existed, we could never know it"
+  },
+  {
+    "id": 5876,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immaterialism|eliminates|skeptical|mind|world",
+    "conclusion": "Immaterialism eliminates the skeptical gap between mind and world"
+  },
+  {
+    "id": 5877,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "know|sensible|things|directly|immediately",
+    "conclusion": "We know sensible things directly and immediately"
+  },
+  {
+    "id": 5878,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "veil|perception|separating|reality",
+    "conclusion": "There is no veil of perception separating us from reality"
+  },
+  {
+    "id": 5879,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "real|things|vivid|orderly|coherent|ideas",
+    "conclusion": "Real things are vivid, orderly, and coherent ideas"
+  },
+  {
+    "id": 5880,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "imaginary|things|faint|irregular|dependent",
+    "conclusion": "Imaginary things are faint, irregular, and dependent on our will"
+  },
+  {
+    "id": 5881,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "distinction|real|imaginary|preserved",
+    "conclusion": "The distinction between real and imaginary is preserved"
+  },
+  {
+    "id": 5882,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "natural|science|remains|valid|immaterialism",
+    "conclusion": "Natural science remains valid under immaterialism"
+  },
+  {
+    "id": 5883,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "science|studies|connections|regularities|among|ideas",
+    "conclusion": "Science studies the connections and regularities among ideas"
+  },
+  {
+    "id": 5884,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "causal|explanations|descriptions|regular|successions",
+    "conclusion": "Causal explanations are descriptions of regular successions"
+  },
+  {
+    "id": 5885,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "mechanistic|explanations|reveal|true|efficient|causes",
+    "conclusion": "Mechanistic explanations do not reveal true efficient causes"
+  },
+  {
+    "id": 5886,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "spirit|true|cause",
+    "conclusion": "Only spirit is a true cause"
+  },
+  {
+    "id": 5887,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "physical|explanations|describe|occasions|real|causes",
+    "conclusion": "Physical explanations describe occasions, not real causes"
+  },
+  {
+    "id": 5888,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "atheist|cannot|account|order|nature",
+    "conclusion": "The atheist cannot account for the order of nature"
+  },
+  {
+    "id": 5889,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "nature|order|requires|intelligent|author",
+    "conclusion": "Nature's order requires an intelligent author"
+  },
+  {
+    "id": 5890,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "matter|produce|thought|perception",
+    "conclusion": "Matter could not produce thought or perception"
+  },
+  {
+    "id": 5891,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "materialism|tends|toward|atheism",
+    "conclusion": "Materialism tends toward atheism"
+  },
+  {
+    "id": 5892,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immaterialism|supports|theism|directly",
+    "conclusion": "Immaterialism supports theism directly"
+  },
+  {
+    "id": 5893,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "soul|immortality|secure|without|matter",
+    "conclusion": "The soul's immortality is more secure without matter"
+  },
+  {
+    "id": 5894,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "immaterialism|dissolves|many|philosophical|puzzles",
+    "conclusion": "Immaterialism dissolves many philosophical puzzles"
+  },
+  {
+    "id": 5895,
+    "topic": "Three Dialogues between Hylas and Philonous",
+    "premise": "philosophy|achieves|clarity|abandoning|material|substance",
+    "conclusion": "Philosophy achieves clarity by abandoning material substance"
+  }
+]

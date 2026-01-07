@@ -1,0 +1,50 @@
+modules = ["nodejs-20", "web", "python-3.11", "postgresql-16"]
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Start application"
+
+[[workflows.workflow]]
+name = "Start application"
+author = "agent"
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+waitForPort = 5000
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[[ports]]
+localPort = 5001
+externalPort = 3000
+
+[agent]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+packages = ["psmisc"]
+
+[userenv]
+
+[userenv.shared]
+SESSION_SECRET = "b87131dc6fda8da65b2fcea237a2f56c91c2522d2d30a9331b2a6a6f270ed0e4"
+
+[deployment]
+deploymentTarget = "autoscale"
+build = ["npm", "run", "build"]
+run = ["node", "./dist/index.cjs"]

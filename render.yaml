@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: whatwouldjesusdo
+    runtime: node
+    buildCommand: npm install && npm run build && npm run db:push
+    startCommand: npm run start
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: SESSION_SECRET
+        sync: false
+      - key: DATABASE_URL
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false

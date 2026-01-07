@@ -1,0 +1,16 @@
+=== EMBEDDING LOG FOR EMMA GOLDMAN ===
+Figure ID: goldman
+Source Folder: /home/runner/workspace/server/data/goldman
+Started: 2025-12-13T04:11:15.757Z
+============================================================
+
+[2025-12-13T04:11:15.760Z] SUCCESS | Goldman_Complete_Positions.txt | 38 chunks | 
+[2025-12-13T04:11:24.383Z] FLAGGED | anarchism_and_other_essays.txt | 0 chunks | Contains 47 mentions of "Mill" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 1
+Chunks created: 38
+Files flagged: 1
+Errors: 0
+Completed: 2025-12-13T04:11:24.443Z

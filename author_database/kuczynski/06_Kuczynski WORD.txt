@@ -1,0 +1,298 @@
+﻿Chapter 6
+Russell’s Improvements on Frege’s Work
+1.0 Why definite descriptions aren’t singular terms
+In Chapter 1, we saw how Frege’s groundbreaking insights into language and logic made it possible for him to solve otherwise unsolvable philosophical puzzles.
+Bertrand Russell (1872–1970) extended Frege’s work. Russell also showed that some important aspects of Frege’s semantics are deeply incoherent, and Russell figured out how to eliminate those incoherencies without in the process sacrificing Frege’s groundbreaking insights.
+Russell’s famous Theory of Descriptions was one of his earliest and most important extensions of, and improvements on, Frege’s work. The theory of descriptions concerns definite descriptions. A definite description expression of the form ‹the phi›, where phi is in the singular. So “the inventor of Velcro” is a definite description, as is “the inventor of bifocals.” But “the people over there” is not a definite description, since “people” is a plural noun.
+Definite descriptions are in the same grammatical category as “Mary” and “Bob” and other proper names. (Note: in this book, very generic proper names—e.g., “Smith,” “Mary,” “Bob”—will often be used. Always assume, for argument’s sake, that they are unambiguous.) Thus, in respect of its grammatical form:
+(V): “The inventor of Velcro is intelligent”
+is just like
+(B) “Bob is intelligent.”
+But we’ve seen that grammatical form and logical form sometimes pull apart. To determine whether this is going on here, let’s take a careful look at what V says.
+V clearly isn’t true if nobody invented Velcro. V isn’t true if several people invented it. (If nine people invented Velcro, one could be an inventor of Velcro, but the inventor of it.) Finally, any inventor of Velcro must be intelligent. So if somebody did single-handedly invent Velcro, V is false if that person is unintelligent and true if that person is intelligent.
+So here’s what V says: at least one person invented Velcro; at most one person did so; and any such person is intelligent. Thus, V says that:
+(V*) somebody uniquely invented Velcro, and any such person is intelligent.
+In general:
+(DD) ‹ the phi has psi›
+says that
+(DD*) something uniquely has phi, and any such thing is psi.
+Even if Bob invented Velcro, (B) and (V) say different things. V would be false in a situation where Bob was intelligent and where some unintelligent person had invented Velcro. But B would be true in such a situation. B and V thus have different truth-conditions. In other words, the conditions that must hold if the one is to be true don’t coincide with those that must hold if the other is to be true. They aren’t true under the same conditions. Therefore, they don’t mean the same thing; they have different semantics.
+An expression’s semantics is its meaning. A semantic rule is one that assigns a meaning to an expression.
+1.1 The differences between proper names and definite descriptions
+There is some individual x, namely Bob, such that to know how to use “Bob” in a sentence—such that, in other words, to know the semantic rule for “Bob”—one must know that “Bob” refers to x. Thus, there is some individual x such that ‹Bob has psi,› for any property psi, is true iff x has psi.
+But there is no individual x such that ‹the inventor of Velcro has psi› is true iff x has psi. It doesn’t matter what property psi is. But to fix our ideas, let psi be the property of being 7-feet tall, and suppose that Bob is the actual inventor of Velcro (that he’s the person who, in our world, invented Velcro); and suppose that Bob is 7-feet tall. In that case, ‹the inventor of Velcro has psi› is true.
+In light of this, let W be a world that is semantically just like ours—a world where people use the same expressions that we use and use them in accordance with the same rules. Suppose that, in W, Bob is the inventor of Velcro, and Bob is under 7-feet tall. In that case, ‹the inventor of Velcro has psi› is false, even though that sentence has the very same semantics that it has in our world. Thus, there is no individual x such that, to know the semantics of “the inventor of Velcro” is to know that it refers to x. Obvious generalizations of this argument show that, for any property phi, there is no individual x such that the semantic rule for ‹the phi› is to the effect that it refers to x.
+1.2 Definite descriptions not referring terms
+Definite descriptions aren’t referring terms. No definite description refers to anything. The meaning of “the inventor of Velcro” isn’t given by saying who it refers to, but by saying what whole sentences it mean. What whole sentences containing it mean is given in at least some cases by the rule: “the inventor of Velcro has psi” says that something uniquely invented Velcro, and any such person has psi.” (Why “in at least some cases” as opposed to “always’’? Because, when it occurs in some contexts, which we’ll consider shortly, the relevant contextual definition isn’t the one just given.)
+In general, for any property phi, ‹the phi› is defined, not denotatively, but contextually—that is, by saying what whole sentences containing it mean. And what whole sentences containing it mean is (in general, though not, as we’ll see, in all cases) given by the rule: ‹the phi has psi› is true if there exists something uniquely having phi, and any such thing has psi.
+1.3 Contextual definition and the semantics of definite descriptions
+Where definite descriptions are concerned, grammatical and logical form pull apart. “Jane is tall” (JT) has the same grammar as “the captain of the volleyball team is tall” (CT). But the propositions they express are structurally very different. JT is, whereas CT is not, such that, for some person x, it is true just in case x is tall.
+Like the semantic rule for “someone,” the meaning of “the inventor of Velcro” is given by saying what whole sentences containing it mean; and in at least some cases ‹the inventor of Velcro has psi› is true if the property of being a Velcro-inventor is uniquely instantiated and, moreover, that property has one instance in common with the property of being a psi.
+1.4 The Theory of Descriptions defined
+This theory of Russell’s is known as the “Theory of Descriptions” (TD). The essence of TD is given by two assertions: (i) definite descriptions don’t refer to anything; and (ii) in virtue of containing a definite description, a sentence attributes properties to other properties, not to individuals.
+“The inventor of Velcro” doesn’t refer to anyone or anything. “The inventor of Velcro is seven-feet tall” doesn’t attribute the property of being 7-feet tall to anyone. That sentence says that the property of being a unique inventor of Velcro is instantiated and, in addition, that the property of being a 7-feet tall Velcro-inventor is also instantiated. So “the inventor of Velcro is seven-feet tall” is about properties, not individuals. It attributes the property of being instantiated to each of the two properties just mentioned.
+2.0 Some arguments for the theory of descriptions: belief reports
+Given only what we’ve said about TD, it might not seem like a very important theory. But it opens up new vistas, not just in semantics, but in metaphysics, epistemology, and the philosophy of mind.
+Consider the sentence:
+
+(PFY) “Ponce de Leon believes that the fountain of youth exists.”
+
+PFY is true. (To avoid irrelevant subleties relating to the use of past-tense markers, we’ll assume, falsely but innocuously, that Ponce de Leon is still with us.) It’s a simple historical fact. But does “the fountain of youth” refer to anything? No. There is no fountain of youth. For argument’s sake, suppose that “the fountain of youth” refers to something. It follows trivially that there exists some object such that “the fountain of youth” refers to that object. Given what is meant by “fountain,” “youth,” etc., that object must be a fountain of youth—that is, it must be something whose waters, when inbibed, give one eternal youth. But there is no such thing. So “the fountain of youth” isn’t a referring term.
+But now we have a problem. PFY is true. And it’s therefore meaningful. (Nothing can be true or false without being meaningful.) Before Russell, most philosophers didn’t want to give up on the idea that “the fountain of youth” does refer to something. They saw that it was meaningful, and they assumed, given its grammatical role, that it had to refer to something. This left them with the question: What does “the fountain of youth” refer to? As you might expect, a lot of them said that it exists “as an idea.”
+This doesn’t work. Fountains are not ideas. When people disagree about whether there is a fountain of youth, they aren’t disagreeing about whether some idea exists. I believe that Ponce de Leon was wrong. I believe it because I think that there is no actual fountain having the needed characteristics. For all I know, Ponce de Leon and I might see eye to eye when it comes to what ideas exist.
+Maybe when people say that the fountain of youth exists as an idea, they only mean that we have an idea of such a thing. To have an idea of such a thing is to know what such a thing would be like, were it to exist. Thus interpreted, “the fountain of youth exists as an idea” is just another way of saying: “there is no fountain of youth (but people know what something would have to be like in order to be one)” which leaves us no further along than before.
+Alexius Meinong (1853–1920) proposed a different solution. He said that, although it doesn’t exist, the fountain of youth “subsists.” For a thing to subsist is for it to have some status intermediate between existence and non-existence.
+This doesn’t work. First of all, something either exists or it doesn’t; there is no intermediate condition. Second, even if there is, it doesn’t help, since subsistence is, by Meinong’s own hypothesis, a way of failing to exist, which leaves us no further along than before.
+Russell straightened this whole mess out. Here’s what he said. (What follows will involve a repetion of some points made in Section 1.0.) “The fountain of youth” is a definite description. Definite descriptions don’t refer to anything and neither, therefore, does “fountain of youth.” Definite descriptions are to be defined contextually, and sentences containing them must be reparsed if their meaning is to be made clear.
+If it’s grammatical form were to be trusted,
+
+(E1) “the fountain of youth exists”
+
+would attribute existence to some fountain. But, since it must be reparsed if its meaning is to be made clear, its grammatical form is not to be trusted. Appropriately reparsed, that sentence becomes:
+
+(E2) “the property of being a fountain of youth is uniquely instantiated.”
+
+The meaning of PFY is therefore:
+
+(E3) “Ponce de Leon believes that the property of being a fountain of youth is uniquely instantiated.”
+2.1 Some arguments for the theory of descriptions: negative existentials
+Consider the statement:
+
+(N1) “the monster under little Timmy’s bed doesn’t exist.”
+
+N1 is true. But if “the monster under little Timmy’s bed” referred to something, it wouldn’t be true, since there would then exist some monster under little Timmy’s bed to which that definite description referred, in which case, of course, there would exist a monster under Timmy’s bed.
+What’s going on? For now familiar reasons, N1 must be reparsed if its meaning is to be exposed. The needed reparsing yields:
+
+(N2) “the property of being a monster under little Timmy’s bed isn’t instantiated.”
+
+That property exists. (All this means is that there is a way something would have to be in order to be such a monster.) But nothing has that property. N2 doesn’t refer to anything that doesn’t exist. Problem solved.
+This makes it clear how to deal with statements like “the monster under Timmy’s bed doesn’t exist.” The going line before Russell was to say that it says of some object that it doesn’t exist. But that makes no sense at all, since it’s the same as saying “there exists an object (viz. a certain monster) that doesn’t exist.” What it really says, Russell showed, is that a certain existent property (viz. that of being a certain sort of monster, etc.) has a very existent property (viz. that of being un-instantiated).
+2.2 Some arguments for the theory of descriptions (continued): identity-statements
+Let’s start with a few platitudes about reference. To say that expression R refers to object O is to say that, for any property phi, ‹R has phi› attributes phi to O. If you want to say of Benjamin Franklin (BF) that he’s bald, you can do so by saying “Benjamin Franklin is bald.” (Of course, BF is no longer with us. But to set aside some extremely intricate and, in this context, irrelevant issues relating to tense, let us pretend that Franklin is alive and that we can speak of him in the present tense.) And if you couldn’t attribute baldness to BF by uttering that sentence, then “Benjamin Franklin” wouldn’t refer to BF. If, in saying “Benjamin Franklin is bald,” one was attributing baldness to Aristotle, then, in that context at least, “Benjamin Franklin” would refer to Aristotle.
+Let’s generalize these points. For any property phi, “Benjamin Franklin” refers to BF (and not to Aristotle, for example) because ‹Benjamin Franklin has phi› attributes phi to Benjamin Franklin; and if one couldn’t attribute phi to Benjamin Franklin by saying ‹Benjamin Franklin has phi› then “Benjamin Franklin” would not refer to BF. Further, if, in uttering that sentence, one was attributing baldness to Aristotle (but not BF), then “Benjamin Franklin” would refer to Aristotle (but not Benjamin Franklin).Thus, for “Benjamin Franklin” to refer to BF it is both necessary and sufficient that ‹Benjamin  has phi› attribute phi to BF. The fact that “Benjamin Franklin” refers to BF is identical with the fact that ‹Benjamin  has phi› attributes phi to Benjamin Franklin, for any property phi.
+In general, expression E refers to O if and only if for any property phi ‹E has phi› attributes phi to O. E’s referring to O may be identified with E’s being such that, in virtue of containing it, a sentence ipso facto attributes a property to O.
+In light of these points, let us look at an age-old puzzle that Russell neatly solved. Benjamin Franklin (BF)
+
+invented bifocals and he was also the first postmaster general. Therefore:
+
+(CB) the inventor of bifocals is identical with the first postmaster general.
+
+It’s also true, of course, that:
+
+(TB) the inventor of bifocals is identical with the inventor of bifocals.
+
+But, whereas TB is trivial, CB is non-trivial.
+The non-triviality of CB is hard to explain if definite descriptions are supposed to be referring terms. As we just saw, “the inventors of bifocals” refers to BF exactly if “Benjamin Franklin has phi” attributes phi to BF. Given that “the inventors of bifocals” does in fact refer to BF, it follows that CB attributes the property of being identical with the first postmaster general to BF. And given that “the first postmaster general” refers to BF, it follows that CB attributes the property of being identical with the inventor of bifocals to BF. And given both of these facts (viz. the facts stated in the last two sentences), it follows that CB says of BF that it has the property of being identical with BF. Which is trivial.
+Frege proposed a famous solution to this. But we’re going to consider Russell’s solution first, since it’s easier to understand Frege’s solution in terms of Russell’s than vice versa.
+According to the theory of descriptions (TD) ‹the inventor of bifocals has phi› says that something uniquely invented bifocals, and any such thing has phi. And, according to TD, ‹the first postmaster general has phi› says that something was a unique first postmaster general, and any such thing has phi. It follows that, if TD is right, CB says the same thing as:
+
+(CB3) “something uniquely invented bifocals, and any such thing is a unique first postmaster general; and something was a unique first postmaster general, and any such thing is a unique inventor of bifocals.”
+
+It is readily seen that CB3 is more succinctly expressed as follows:
+
+(CBR) “there is some one thing that uniquely invented bifocals and was also a unique first postmaster general.”
+
+To sum up, if TD is right, then CB means the same thing as CBR. It is easily verified that, indeed, CB is true exactly if CBR is true. TD gets the right result. Given that CBR is non-trivial—given that historical knowledge is needed to know it—TD readily explains why CB is non-trivial.
+2.3 Some arguments for the theory of descriptions: positive existentials
+For argument’s sake, suppose there to be some non-existent object O such that
+
+(E1) “the fountain of youth exists”
+
+says that O exists. In that case, there ipso facto exists nothing to which E1 attributes existence. Thus, if it is to say anything at all, E1 must attribute existence to some existing object. Thus, supposing that E1 says of some object that it exists, a precondition for E1’s saying anything is that the object in question exist. But in that case, we could conclude from the mere fact that utterances of E1 are meaningful that E1 is true. Thus, a consequence of supposing that E1 says of some object that exists is that E1 is not only true, but trivially so.
+But, in actuality, E1 is both false and non-trivial. It’s false since there’s no fountain of youth. It’s nontrivial since, to know whether it’s true, is isn’t enough to know what it means—let alone to know that it has a meaning.
+The right analysis is the one proposed by Russell. It says that the property of being a fountain of youth is instantiated. Though nothing has it, the property of being a fountain of youth exists. In general, ‹the phi exists› doesn’t make the absurd claim that some non-entity exists; nor does it make the trivial claim that some entity exists: it makes the non-absurd, non-trivial claim that the property of being a phi is instantiated.
+3.0 The incoherencies in Frege’s semantic system
+Let us now consider how Frege deals with just-described puzzle concerning identity. This will expose some profound problems with Frege’s semantics, which we will discuss.
+Benjamin Franklin (BF) invented bifocals and he was also the first postmaster general. Therefore:
+
+(CB) the inventors of bifocals is identical with the first postmaster general.
+
+It’s also true, of course, that:
+
+(TB) the inventor of bifocals is identical with the inventor of bifocals.
+
+But, whereas TB is trivial, CB is non-trivial.
+A moment ago, we considered Russell’s solution to this problem. Now we’re going to consider Frege’s solution. Frege’s solution is much more congenial to commonsense. But, when scrutinized, it turns out either to coincide with Russell’s solution or to be totally incoherent.
+3.1 Sense vs. reference
+Here is Frege’s solution:
+(FR) “The inventor of bifocals” is a referring term; it picks something out. That expression refers to a given thing if and only if that thing has the property of being a unique bifocal-inventor. If a given thing didn’t invent bifocals then “the inventors of bifocals” doesn’t refer to it. If lots of different individuals invented bifocals, then “the inventors of bifocals” doesn’t refer to anything. (If ten people collectively wrote War and Peace, it would be wrong to speak of the author of that book.) And if a given thing did uniquely invent bifocals, then “the inventors of bifocals” does refer to it.
+So there are two dimensions to the semantics of “the inventors of bifocals.” There is what it refers to: this is the referent of “the inventors of bifocals.” (Sometimes “reference” is used instead of “referent.”) And there’s the property that a thing must have to be its referent; this property is the sense of that expression. The referent is BF, and the sense is the property of being a unique bifocal inventor.
+Analogues of these points hold with respect to “the first postmaster general.” There is its referent (which is BF); and there is its sense (which is the property of being a unique first postmaster general).
+The reason that TB is non-trivial is that, although the definite descriptions in it have the same referent, they have different senses. A comparison may help. Imagine that you’re looking at a certain person in the distance. That person is in fact Ralph, but you don’t know it, because he’s so far away and also, let us suppose, because he is (for reasons that aren’t important) wearing a suit of armor. You see that he is doing jumping jacks. Later Ralph is standing right in front of you and, of course, you see him. He’s wearing a plaid shirt. Once again, he’s doing jumping jacks.
+The first visual perception has the same object as the second. And each of those perceptions says of that object he or she is doing jumping jacks. But those two perceptions pick out that object in different ways. In the first case, that object is presented to you as something that has one set of properties (it’s far away, wearing a suit of armor, etc.); in the other case it’s presented as having a different set of properties (it’s nearby, is wearing a plaid shirt, etc.). And that’s why, even though those perceptions have the same object, and even though both attribute the property of doing jumping jacks to that object, those perceptions tell you different things.
+The relationship between “the inventors of bifocals” and “the first postmaster general” is to be understood along similar lines. They have the same object (referent); but they pick that thing out through different bodies of information. That’s why ‹the inventors of bifocals has phi› and ‹the first postmaster general has phi› tell you different things, even though they attribute the same property (phi) to the same object (BF).
+3.2 The partial collapse of Fregeanism into Russellianism
+This all seems not only plausible, but practically self-evident.
+But it’s false and, indeed, incoherent. Let’s consider the two sense-perceptions discussed in FR. The one perception tells you that there is something in the distance, wearing a suit of armor, etc., and that thing is doing jumping jacks. So the sense in which Ralph is the object of that perception is that your perception describes Ralph. Your perception says: “something or other is over there, in the distance, wearing a suit of armor, [etc.].” Who (or what) fits that description? In other words, who has the relevant properties? Ralph. So Ralph is the object of that perception in the sense it describes him.
+The information borne by that perception has the form “something has such and such properties [it’s wearing a suit of armor, etc.], and any such thing is doing jumping jacks.” Thus, the content of that perception is given by an existence-claim (a claim of the form “something has phi”). Ralph uniquely satisfies that existence-claim. (In other words, he and he alone has the relevant property.) And it is in virtue of his doing so that he is the object of the perception in question.
+The same thing mutatis mutandis is true of your second perception. The information borne by that perception is along the lines of “something has thus and such properties [it’s standing nearby, is wearing a plaid shirt ,etc.], and any such thing is doing jumping jacks.” Ralph is the object of that perception by virtue of the fact that he and he alone has the relevant properties—that he and he alone is a thing standing in the relevant place while wearing a plaid shirt, etc.
+In general, when a given thing x is picked out by way of descriptive information, what’s really going on is that some statement of the form “something has such and such properties” is being affirmed (not necessarily verbally), and x is what fits the description.
+If we bear this point in mind, we find that, so far as it isn’t totally incoherent, Frege’s analysis collapses into Russell’s. Consider the sentence:
+
+(IB) “the inventor of bifocals is tall.”
+
+By Frege’s own admission, “the inventors of bifocals” picks something out if and only if something fits the relevant description (i.e., if and only if something is a unique inventor of bifocals). And if there is a unique inventor of bifocals, that thing, whatever it is, is the thing to which “the inventors of bifocals” refers. Supposing
+that there is such a thing and that x is it, IB describes x as being tall. It goes without saying that, if there is no unique inventor of bifocals, then there is no way that IB can be true. (Frege himself emphasizes this last point. And he’s right. There’s no way that “the elephant in the corner is eating peanuts” can be true if there’s no elephant in the corner.)
+The upshot is that IB is true if and only if:
+
+(IB*) something uniquely invented befocals, and any such thing is tall.
+
+But what does the Theory of Discriptions (TD) say about IB? According to TD, the meaning of IB is: IB*. So Frege’s theory collapses into Russell’s.
+By obvious extensions of this, it follows that, if Frege’s theory is right, then CB’s meaning is identical with that of CBR. So Frege’s theory accounts for the non-triviality of CB in the same way as Russell’s theory (as TD).
+3.3 Why Fregeanism doesn’t completely collapse into Russellianism
+As we know, Russell’s theory is pretty good. The same is therefore true of Frege’s, at least to the extent that it coincides with Russell’s. The problem is that Frege’s theory doesn’t entirely coincide with Russell’s. Unlike Russell, Frege took it for granted that definite descriptions are just what, given their grammar, they appear to be: referring terms. We’ve just seen that, if Frege’s own theory of why CB is non-trivial is to be correct, then TD must be the right account of how definite descriptions work. But the essence of TD is that definite descriptions are not referring terms. It would obviously be incoherent to accept TD while also believing that definite descriptions are referring terms. We’ve just seen that it is precisely this incoherence that Frege is accepting, however unwittingly, in holding that definite descriptions are sense-bearing referring terms.
+3.4 The incoherencies in Frege’s semantics
+Frege’s view that definite descriptions are referring terms that have both sense and reference is one that has a lot of intuitive appeal, and people will hold onto it unless given very strong arguments to the contrary. Since the arguments just given may not be enough for some, here is another.
+Consider the following four sentences:
+
+(1) “Smith believes that the inventor of bifocals is 6-feet tall.”
+(2) “Smith believes that the inventor of bifocals is not 6-feet tall.”
+(3) “Smith believes that the first postmaster general is 6-feet tall.”
+(4) “Smith believes that the first postmaster general is not 6-feet tall.”
+
+Were Smith to believe both 1 and 4, he would not, at least not for that reason alone, be irrational. Of course, given the empirical fact that some one person uniquely invented bifocals and was a unique first postmaster general, one of those beliefs must be wrong. But taken by themselves, the italized parts of 1 and 4 are consistent with each other. At the same time, neither entails the other. In other words, each is compatible with the negation of the other. So supposing that Smith is rational and that 1 is true, it doesn’t follow that 3 is true or that 3 is false.
+For the time being, let’s suppose with Frege that definite descriptions are referring terms. In that case, the definite description in 1 co-refers with the definite description in 4. They both refer to BF. 1 says of BF that he has the property of being believed by Smith to be 6-feet tall; and 4 says of BF that he has the property of being believed by Smith to not be 6-feet tall. So Frege’s view that definite descriptions are referring terms has the false consequence that 1 and 4 cannot both be true if Smith is rational.
+Here’s another way of stating the problem. According to Leibniz’s Law, if x is identical with y, then x has a given property if and only if y too has that property. Leibniz’s Law isn’t directly concerned with language.
+But it has a semantic corollary, namely, that if two expressions co-refer, they can be inter-substituted salva veritate. This means that, if E and E* co-refer, and S is a sentence containing E, then replacing E with E* will result in a sentence that is true if S is true and false if S is false. (It’s assumed that the expressions being inter-substituted belong to the same language, are inflected in the same way, etc.) “ was a Roman orator” is true; and so, therefore, is “Tully was a Roman orator,” given that “Tully” co-refers with “.” “ was a 19th-century logician” is false; and so, therefore, is “Tully was a 19th-century logician.” Another way of stating this principle is that “inter-substituting co-referring terms preserves truth-value.” The original sentence (“there is water in my glass”) is true (false) iff the new sentence (“there is H2O in my glass”) is true (false).Cicero
+Supposing, as Frege does, that “the inventor of bifocals” and “the first postmaster general” are referring terms, then, given that those expressions co-refer, replacing the one with the other should preserve truth-value. But it doesn’t. 1 may be false if 3 is true and vice versa.
+TD solves this problem. According to TD, the meanings of 1–4 are, respectively:
+
+(1R) “Smith believes that something uniquely invented bifocals, and any such thing is 6 ft tall.”
+(2R) “Smith believes that something uniquely invented bifocals, and any such thing is not 6 ft tall.”
+(3R) “Smith believes that something was a unique first postmaster general and any such thing is 6 ft tall.”
+(4R) “Smith believes that something was a unique first postmaster general and any such thing is not 6 ft tall.”
+
+1 doesn’t entail 3, and 1 is compatible with 4. 2 doesn’t entail 4 and 2 is compatible with 3. (This is the hard data.) 1R doesn’t entail 3R, and 1R is compatible with 4R. 2R doesn’t entail 4R and 2R is compatible with 3R. So TD is compatible with the hard-data, whereas Frege’s theory is not. Frege was aware of the problem just described, and he added an epicycle to his theory that he hoped would save it. It did not, as we’ll now see.
+3.4.1 Frege’s cover-up: the creation of intensional contexts
+Frege made profound contributions to logic and the philosophy of language. None of these disciplines even existed in anything like their modern form before he invented them, and most of the principles that he laid down in doing so hold up.
+But Frege, like everyone else, had his less than stellar moments. Unfortunately, his blunders are treated with the same reverence as his discoveries. For this reason some very wrong and incoherent ideas of his are alive and well and continue to retard intellectual progress.
+One of the worst of these is Frege’s distinction between “extensional” and “intensional” contexts. An extensional context is an expression that is “substitution tolerant.” An expression E is substitution-tolerant if replacing any one of the referring terms occurring in it with a co-referring term yields a true sentence iff the sentence that hosted E was true and a false sentence iff the sentence hosted E was false. So “Smith is tall” is such a context, since replacing “Smith” a co-referring term will result in a sentence that has the same truth-value as the first. An intensional context is one which is substitution-intolerant.
+A story will help us move forward. The prettiest woman on the planet is also the most evil person on the planet. Smith wants to marry the prettiest woman on the planet, whoever that might be, but wants nothing to do with anyone who is evil. In that case:
+(1) “Smith wants to marry the prettiest woman on the planet”
+is true, but
+(2) “Smith wants to marry the most evil person on the planet”
+is false. And, of course,
+(3) “it is necessarily the case that the prettiest woman on the planet is identical with the prettiest person on the planet”
+is true, whereas
+(4) “it is necessarily the case that the prettiest woman on the planet is identical with the most evil person on the planet”
+is false.
+According to Frege, 2 is what results when a referring term in 1 is replaced with a co-referring term, and 4 is what results when a referring term in 3 is replaced with a co-referring term.
+But this isn’t what is going on. What (1) really says is that:
+(1*) Smith wants it to be the case that Smith is married to a woman who is prettier than any other.
+And what (2) really says is that
+(2*) Smith wants it to be the case that Smith is married to somebody who is more evil than anyone else.
+(1*) and (2*) thus make it clear what (1) and (2), respectively, are actually saying. In other words, (1*) and (2*) expose the logical forms of (1) and (2). Notice that, in (1), the grammatical object is an expression referring to a person (“the prettiest woman on Earth”), whereas in (1*) the grammatical object (the italicized part) is an expression referring to a proposition. And in (2), the grammatical object is an expression referring to a person (“the most evil person on the planet”), whereas in (2*) the grammatical object (the italicized part) is an expression referring to a proposition.
+Thus, (1*) makes it clear that, if (1) is true, the object of Smith’s desire is not a person, but rather a proposition. In other words, Smith wants a certain proposition to hold, namely, that Smith is married to a woman who is prettier than anyone else. Similarly, (2*) makes it clear that, if (2) is true, the object of Smith’s desire is not a person, but a proposition, namely, that Smith is married to somebody who is more evil than anyone else. Since those two propositions are different, the fact that one of them has the property of being desired to be true by Smith, whereas the other does not lack that property, does not constitute a violation of Leibniz’s Law.
+Similar points hold in connection with 3 and 4. The real meanings of those sentences are, respectively:
+(3*) it is necessarily the case that any woman who is prettier than every other woman is prettier than every other woman.
+and
+(4*) it is necessarily the case that any woman who is prettier than every other woman is also more evil than every other person.
+(3*) attributes the property of being necessarily true to one proposition (the one meant by the italicized part), and (4*) expresses that same property to some other proposition. Since those propositions are distinct, the fact that the one proposition is necessarily true doesn’t entail that the same is true of the other; and there is thus violation of Leibniz’s Law.
+Thus, there are no intensional contexts. (In other words, all contexts are substitution-tolerant.) Whenever two expressions that appear to refer to the same individual cannot be inter-substituted, they actually refer to different propositions. Nonetheless, the term “intensional” is useful as a way of abbreviating otherwise hard-to- state truths. Thus used, an “intensional context” in which expressions that otherwise refer to individuals (e.g., “Benjamin Franklin”) refer to propositions. An expression occurring in an intensional context does so intensionally. A context that isn’t intensional is extensional, and expressions occurring in it do so extensionally.
+A brief review will help us identify one last problem with Frege’s system. Frege’s distinction between sense and reference embodies a failure to distinguish between reference and quantification.  What Frege believes to
+be sense-bearing referring terms (e.g., “the person who invented Velcro”) are quantifiers. (That is why “the man who invented Velcro is wealthy” is, by Frege’s own admission, equivalent with “somebody or other uniquely invented Velcro, and any such person is wealthy”). Frege’s distinction between intensional and extensional contexts embodies a failure to see that expressions that, given their grammatical properties, appear to refer to some one individual in fact refer to distinct propositions. Even though the inventor of bifocals is identical with the first post-master general,
+(A) “Fred believes that the inventor of bifocals is smart”
+may be true, even if
+(B) “Fred believes that the first post-master general is smart,”
+is false.
+The italicized expression in A refers to one proposition; its counterpart in B refers to a different proposition. (We’ll refer to the italicized expressions in A and B, respectively, as A* and B*). But B* is what results when a referring term is replaced with a co-referring term. According to the principle of special compositionality (PSC), A* and B* should co-refer.
+PSC says that what an expression refers to depends on what its parts refer to. “Mary’s favorite person” refers to Smith, whereas “Billy’s favorite person” refers to Jones. Why the difference in reference? Because “Mary” and “Billy” don’t co-refer, and what a given expression refers to affects what expressions containing it refer to. For the same reason mutatis mutandis, if “Crusher” is Mary’s nickname, and thus co-refers with “Mary,” “Crusher’s favorite person” co-refers with “Mary’s favorite person.” PSC is the obviously correct semantic corollary of the obviously correct principle that replacing equals with equals results in equals.
+But Frege’s semantics violates PSC. According to it, B* is what results when a referring term in A* is replaced with a co-referring term, and yet A* and B* don’t co-refer. Russell’s system doesn’t have this problem. Russell said, correctly, that A* and B* are contractions of, respectively:
+(A#) “some smart person single-handedly invented bifocals”
+and
+(B#) “some smart person post-master general before anyone else.”
+It didn’t even occur to Frege to take anything at all like Russell’s position. To compatibilize his system with PSC, Frege said that, when expressions occur in intensional contexts, they undergo reference-shifts. According to Frege, “the inventor of bifocals” ordinarily refers to Benjamin Franklin (BF); in other words, its so refers when it occurs in extensional contexts. But when it falls within the scope of one intensionality-inducing operator, it refers to the sense of “the inventor of bifocals.” (An intensionality-inducing is what most other authos refer to as a “non-extensional connective.” It is an operator having the property that any sentences or open-sentences falling within its scope are substitution-intolerant.) “Fred believes” is such an operator. Given that he insists on seeing definite descriptions as sense-bearing referring terms, Frege has no choice but to take this desperate measure: if he doesn’t, his system violates PSC, in which case it’s false, since PSC is true.
+Thus, if Frege’s system is right, then the occurrence of “the inventor of bifocals” in
+(C) “Fred believes that Larry believes that the inventor of bifocals is smart”
+refers, not to BF, nor yet to the sense of “the inventor of bifocals,” but to the sense of an expression that denotes the sense of that expression.
+For the same reason mutatis mutandis, a consequence of Frege’s system is that no two of the occurrences of “snow” in
+(D) “snow is white, but Brad thinks that snow is green, even though Brad is convinced that Mary thinks that snow is purple”
+co-refer, and only one of those occurrences (the first one) refers to snow. In addition to being radically counterintuitive, Frege’s position is logically and methodologically indefensible (or so I argue in Kuczynski (2007) and other places).
+4.0 The theory of descriptions revisited: the wide-scope/narrow-scope distinction10
+Let us refer to sentences containing definite descriptions as “D-sentences.” So a D-sentence is any sentence of the form ‹...the phi...› There is a certain sub-class of D-sentences that are systematically ambiguous. One of the virtues of the theory of descriptions is that it, unlike its Fregean competitor, accounts for the fact that these sentences are ambiguous and it also accounts for the exact way in which they are ambiguous.
+In this context, it will be helpful to remember that an open sentence is an expression that contains a free variable, and is therefore neither true nor false, but is otherwise just like a sentence. So ‹x is a human being› is an open-sentence; so is ‹x is even. › These open sentences are “true for” some values of their free variables. (The first is true for “Socrates,” “Plato,” etc. The second is true for “2,” “4,” etc.) But it must be emphasized that an open sentence is not itself true or false. (In this context, the word “sentence” will be short for “sentences or open sentences.”)
+An expression (or class of expressions11) is said to satisfy an open sentence if a true sentence results when that expression replaces the free variables in that sentence. Thus, “two” satisfies the open sentence “x is an even number,” whereas “Mr. T” does not satisfy it, and neither does “three.”
+4.1 Scope, operators, and syntactic ambiguity
+The semantics of these sentences is to be understood in terms of the concept of scope.
+Scope is a property of operators—that is, of expressions that, given sentences or open-sentences, form new sentences. So “John believes that” is an operator, since, when joined with “grass is green,” it yields the sentence “John believes that grass is green.”
+All quantifiers are operators. Examples of quantifiers are “all humans,” “some triangles,” “most dolphins.” So are their counterparts in formalized extensions of English (e.g., “given any human being x,” “for some triangle y,” etc.). Why is “all humans” a quantifier? First of all, given a predicate (e.g., “are tall”), “all humans” yields a sentence (“all humans are tall”). And predicates are all open sentences (e.g., “are tall” can be thought of as synonymous with “x is tall”). Given that “all humans” can be thought of as synonymous with “given any human x,” it’s clear why “all humans” is an operator. When coupled with the predicate (= open sentence) “are tall” (= “x is tall”), “all humans” (= “given any human x”), yields the sentence “all humans are tall” (= “given any human x, x is tall”).
+All conjunctions (e.g., “and,” “because,” “or,” “not”) are operators. And, “because,” and “or” are two-place operators, meaning that, given a pair of sentences as input, each yields a new sentence as output. Thus, given the pair of sentences (“grass is green,” “snow is white”), “and” yields the sentence “grass is green and snow is white.” Where “because” is concerned the pair must be ordered, since “grass is green because snow is white” doesn’t have the same meaning as “snow is white because grass is green.” It’s a matter of debate whether “are” and “or” operate on ordered, or unordered, sentence-pairs. “Not” is a one-place operator. Given the sentence “snow is white,” “not” yields a new sentence (“snow is not white”).
+In light of these points, consider the sentence:
+(1) “In , someone gets mugged every five minutes.”
+This is ambiguous.12 It could mean either:
+(2) In , given any given five-minute interval x, there is some individual y, such that y gets mugged during x.
+or
+(3) In , there is some individual y such that, given any given five-minute interval x, y gets mugged during x.
+(2) says that, in , no five-minute interval is free of muggings. It doesn’t say that there is some one unfortunate individual who gets mugged every five minutes. But that is what (3) says.
+The difference results from the fact that the relevant operators—the boldfaced and underlined expressions—are ordered differently. In (2), the operator “given any five-minute interval x” has wide-scope with respect to the operator “there is some individual y” (or, equivalently, the latter operator has narrow scope with respect to the former), whereas in (3) it’s the other way around.
+(1) isn’t ambiguous for the same reason as “Jim is dumb” or “Sally is going to bank.” Those sentences are ambiguous because the words “dumb” and “bank” are ambiguous. By contrast, none of the expressions occurring in (1) is ambiguous. (1) is syntactically ambiguous. It has multiple meanings because it stands for two distinct syntactic arrangements of expressions that are themselves unambiguous.
+The stock example of syntactic ambiguity is:
+(4) “everyone loves someone,”
+which could mean either
+(5) given any person x, there is some person y, such that x loves y,
+or
+(6) there is some person y, such that given any person x, x loves y.
+(5) says that no person is without love for some person or other. It doesn’t say that some one person is the object of every person’s love. But that is what (6) says.
+Grammatical surface structure makes it unclear how much scope operators actually have. For example, the scope of “because” in “snow is white because grass is green” includes both “snow is white” and “grass is green,” even though grammatical surface structure would suggest otherwise. And the scope of “not” in “snow is not white” includes “snow is white.” (“Not” = “it is not the case that.” “Snow is not white” = “it is not the case that snow is white.”) There would be no syntactically ambiguous sentences if grammatical surface-structure didn’t fall short in this respect.
+The fact that D-sentences are syntactically ambiguous can be understood in terms of these facts. The sentence:
+(i) “Smith believes that the guy who is trying to kill him, after torturing him for several days, is well-disposed towards him.”
+This sentence is ambiguous. It could mean either:
+(ii) Somebody x wants to kill Smith, after torturing him for several hours, and Smith believes that x is well disposed towards him
+or
+(iii) Smith believes that somebody x wants to kill him, after torturing him for several hours, and also that x is well disposed towards him.
+(iii) has little chance of being true. People don’t believe that people who are trying to torture and kill them are well disposed towards them. But it’s easy to think of a situation where (ii) is true. Jerry is Smith’s best friend. Jerry is actually very evil. But, like many evil people, he has mastered the art of appearing well-intentioned; and unbeknownst to Smith, Jerry wants to torture and kill him.
+Whenever a definite description falls within the scope of a modal or epistemic operator, the result is a syntactically ambiguous sentence. Before Russell came along, such syntactic ambiguities, not being seen for what they were, led people to accept the most rank absurdities. Consider the sentence:
+(iv) Jerry is looking for the fountain of youth.
+Obviously there doesn’t have to exist a fountain of youth for (iv) to be true. People look for things that don’t exist. Russell saw this, and saw that, for this reason, (iv)’s meaning is:
+(v) Jerry wants it to be the case that there exist a (unique) fountain of youth x, and, moreover, that he (uniquely) discover any such fountain.13
+Pre-Russellian philosophers and contemporary non-Russellianism philosophers take (iv) to say that there exists a fountain of youth that Jerry is looking for. This is Nathan Salmon’s (2005) position. Salmon qualifies his position by saying that the fountain of youth, though existent, is a “mythical” object. But, since mythical objects don’t gush water, let alone immortality-giving water, Jerry won’t consider his search to have to an end when he discoveries the non-entity that Salmon describes. Given Russell’s insight, there’s no need to accept Salmon’s rather doubtful position.
+Because of his failure to grasp the implications of the wide-scope/narrow-scope distinction, another well known 20th century philosopher, W.V.O Quine (1908–2000), advocated the highly implausible view that “necessary,” “possible,” and modal terms in general, have no coherent meanings and that statements such as “it’s possible that there will be rain” and “it’s a necessary truth that triangles have three sides” are either false or meaningless.14
+Here is his argument.15 For argument’s sake, suppose that the concepts expressed by “necessary” and “possible” are meaningful. In that case:
+(FB) “it’s a necessary truth that the inventor of bifocals was the inventor of bifocals”
+expresses a truth, even though
+(BF) “it’s a necessary truth that the inventor of bifocals was the first postmaster general”
+expresses a falsehood. Given the truth of FB, says Quine, it follows that the inventor of bifocals necessarily has the property of being identical with the inventor of bifocals. It follows by Leibniz’s Law16 that the first postmaster general also has the property. But if he did, then BF would be true, which it is not.
+With one exception, all of our assumptions were clearly correct. Leibniz’s Law holds, and FB is a necessary truth if ever there was one. Since the only remaining assumption is that “necessary” and “possible” express coherent concepts, that assumption is wrong. It follows that all statements to the effect that something is possible or necessary or impossible (etc.) are either meaningless or false.
+Arthur Smullyan (1948) saw that, given Russell’s points about definite descriptions, there is no problem. BF is ambiguous between wide-scope and narrow-scope readings, these being:
+(BFWS) it’s a necessary truth that some one individual uniquely invented bifocals and, in addition, was the first postmaster general
+and
+(BFNW) some one individual x uniquely invented bifocals; and some individual y was uniquely a first postmaster general
+and it’s a necessary truth that x = y.
+BFWS is straightforwardly false. BFNW is true. As a whole, it is not necessarily true. (It didn’t have to be the case that some one person was a bifocal inventor and postmaster general.) But the underlined part is necessarily true: given any individual x, and given any individual y such that x is identical with y, it is a fact that x must be identical with y.17
+
+ENDNOTES
+
+Name: __________________________________ Date: _____________________________
+Exercises
+1.	For each of the following open sentences, identify three expressions that satisfy it.
+a.	x is tall.
+b.	x is identical with either Danny Devito or Rhea Perlman.
+c.	x is not identical with Danny Devito.
+d.	x is a former democratic presidential candidate.
+e.	x is a former democratic president who unsuccessfully ran for re-election.
+f.	x is an odd number that is greater than 20 but less than 30.
+g.	The  was at war with x during World War II.
+Bonus: x is somebody who was once on Saturday Night Live, and then tried unsuccessfully to have a film career.
+2.	Identify an example of an open sentence that is satisfied by every (grammatically appropriate) expression. x is not identical with a square circle.
+3.	Identify an example of an open sentence that is satisfied by no (grammatically appropriate) expression. x is identical with a square circle.
+4.	For each of the sentences, tell me whether the underlined part occurs intensionally or extensionally. In other words, tell me whether the underlined expression occurs in an intensional context or an extensional context.
+a.	Tom is tall.
+b.	It is possible that Tom is tall.
+c.	Tom is not tall.
+d.	It is false that Tom is tall.
+e.	Bill is certain that Tom is tall.
+f.	Bill is certain that Tom is tall.
+g.	It is false that it is true that Tom is not tall.
+h.	Bill knows that it is false that it is true that Tom is not tall.
+5.	Produce three sentences in which “the greatest comedian since Rodney Dangerfield” occurs intensionally. All of those sentences must contain the word “tomato.”
+6.	Produce three sentences in which “the greatest comedian since Rodney Dangerfield” occurs extensionally.
+7.	Identify the statement that, according to the Theory of Descriptions, is made by each of the following sentences. In other words, give the logical forms of the following sentences. In yet other words, state as clearly as possible what those sentences are really saying (supposing that the Theory of Descriptions is correct).
+a.	The inventor of bifocals is not identical with the first postmaster general.
+b.	The inventor of bifocals is identical with the first postmaster general.
+c.	Harold wants to buy the Fountain of Youth, and he wants to put the world’s largest diamond next to it.
+d.	The fountain of youth exists.
+e.	The fountain of youth could exist, even though it doesn’t.
+f.	The even prime is greater than the unique whole-number success or zero.
+g.	The number that is identical with zero exists.
+8.	Identify five different syntactically ambiguous sentences, and say how each is ambiguous.
+9.	Explain why Frege distinguishes between the “sense” of an expression and its “referent.” Illustrate Frege’s theory with your own examples, not his.

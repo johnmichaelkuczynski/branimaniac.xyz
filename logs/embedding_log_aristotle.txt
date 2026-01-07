@@ -1,0 +1,39 @@
+=== EMBEDDING LOG FOR ARISTOTLE ===
+Figure ID: aristotle
+Source Folder: /home/runner/workspace/server/data/aristotle
+Started: 2025-12-13T03:43:19.283Z
+============================================================
+
+[2025-12-13T03:43:19.284Z] FLAGGED | Aristotle Logic and Demonstration Part 1.txt | 0 chunks | Contains 291 mentions of "Mises" - possible misattribution
+[2025-12-13T03:43:19.342Z] FLAGGED | Aristotle_Major_Works.txt | 0 chunks | Contains 12 mentions of "Mises" - possible misattribution
+[2025-12-13T03:43:19.385Z] SUCCESS | Categories_Positions.txt | 5 chunks | 
+[2025-12-13T03:43:21.268Z] SUCCESS | De_Anima_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:22.117Z] SUCCESS | Eudemian_Ethics_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:23.040Z] SUCCESS | Generation_of_Animals_Positions.txt | 3 chunks | 
+[2025-12-13T03:43:23.863Z] SUCCESS | History_of_Animals_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:24.767Z] SUCCESS | Magna_Moralia_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:25.747Z] FLAGGED | Metaphysics Ethics Politics Part 2.txt | 0 chunks | Contains 124 mentions of "Mises" - possible misattribution
+[2025-12-13T03:43:25.813Z] FLAGGED | Metaphysics and Substance Part 3.txt | 0 chunks | Contains 8 mentions of "Mises" - possible misattribution
+[2025-12-13T03:43:25.856Z] SUCCESS | Metaphysics_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:26.950Z] SUCCESS | Meteorology_Positions.txt | 3 chunks | 
+[2025-12-13T03:43:27.537Z] SUCCESS | Nicomachean_Ethics_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:28.370Z] SUCCESS | On_Interpretation_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:29.329Z] SUCCESS | On_the_Heavens_Positions.txt | 3 chunks | 
+[2025-12-13T03:43:29.963Z] SUCCESS | Parts_of_Animals_Positions.txt | 3 chunks | 
+[2025-12-13T03:43:30.764Z] SUCCESS | Parva_Naturalia_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:31.820Z] SUCCESS | Physics_Book_I_Positions.txt | 5 chunks | 
+[2025-12-13T03:43:33.095Z] SUCCESS | Physics_Full_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:34.134Z] SUCCESS | Poetics_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:34.955Z] SUCCESS | Politics_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:35.833Z] SUCCESS | Posterior_Analytics_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:36.801Z] FLAGGED | Prior_Analytics_Positions.txt | 0 chunks | Contains 7 mentions of "Mises" - possible misattribution
+[2025-12-13T03:43:36.840Z] SUCCESS | Rhetoric_Positions.txt | 4 chunks | 
+[2025-12-13T03:43:37.790Z] SUCCESS | Sophistical_Refutations_Positions.txt | 3 chunks | 
+[2025-12-13T03:43:38.734Z] SUCCESS | The Complete Aristotle_Part1.txt | 309 chunks | 
+[2025-12-13T03:44:45.662Z] SUCCESS | The Complete Aristotle_Part10.txt | 320 chunks | 
+[2025-12-13T03:45:55.220Z] SUCCESS | The Complete Aristotle_Part11.txt | 317 chunks | 
+[2025-12-13T03:47:04.030Z] SUCCESS | The Complete Aristotle_Part12.txt | 308 chunks | 
+[2025-12-13T03:48:14.707Z] SUCCESS | The Complete Aristotle_Part13.txt | 308 chunks | 
+[2025-12-13T03:49:22.557Z] SUCCESS | The Complete Aristotle_Part14.txt | 307 chunks | 
+[2025-12-13T03:50:29.233Z] SUCCESS | The Complete Aristotle_Part15.txt | 319 chunks | 
+[2025-12-13T03:51:38.193Z] SUCCESS | The Complete Aristotle_Part16.txt | 309 chunks | 

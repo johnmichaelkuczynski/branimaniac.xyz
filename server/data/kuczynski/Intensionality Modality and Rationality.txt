@@ -1,0 +1,2121 @@
+﻿                                Journal of Pragmatics 42 (2010) 2314–2346
+
+                            Contents lists available at ScienceDirect
+
+
+                            Journal of Pragmatics
+
+                      journal homepage: www.elsevier.com/locate/pragma
+
+
+
+Intensionality, modality, and rationality: Some presemantic
+          §
+considerations
+
+John-Michael Kuczynski
+
+      Virginia Commonwealth University, 915 West Franklin, St. Richmond, VA 23284, United States
+
+
+ARTICLE INFOABSTRACT
+
+Article history:On the basis of arguments put forth by Kripke (1977a, 1980), it is widely held that one can
+Received 26 October 2009
+                                  sometimes rationally accept propositions of the form P and not-P and also that there are
+Received in revised form 10 January 2010
+                                    necessary a posteriori truths. We will  nd that Kripke’s arguments for these views appear
+Accepted 22 January 2010
+                                    probative only so long as one fails to distinguish between semantics and presemantics—
+                                  between the literal meanings of sentences, on the one hand, and the information on the
+Keywords:
+Intensionalitybasis of which one identi es those literal meanings, on the other. This same failure, it will
+      Rationalitybe argued, underlies the popular thesis that intersubstituting co-referring terms
+      Modalitysometimes turns true sentences into false ones and vice versa. Though seemingly
+  Extensionalityplausible, this thesis has a number of counterintuitive consequences, among them that the
+      Presemanticsoccurrence of ‘‘snow’’ in ‘‘it is true that snow is white’’ doesn’t refer to snow. An
+                                    understanding of the distinction between semantics and presemantics suggests a way to
+                                  develop a semantic system that doesn’t have these consequences and that, moreover,
+                                  reconciles our intuitions concerning cognitive content with some powerfully argued
+                                    theses of contemporary philosophy of language. Some of this paper’s main contentions are
+                                    anticipated by Andrzej Boguslawski in his 1994 paper ‘‘Sentential Complementation and
+                        Truth.’’
+                                                                2010 Elsevier B.V. All rights reserved.
+
+
+1. Introduction
+
+        In at least some contexts, replacing a referring term with a co-referring term preserves truth-value.
+
+(1) ‘‘Hesperus is closer to the Sun than the Earth’’
+
+is true. ‘‘Phosphorous’’ and ‘‘Hesperus’’ refer to the same thing. So
+
+(2) ‘‘Phosphorous is closer to the Sun than the Earth.’’
+
+is also true.
+              If a context tolerates intersubstitutions of co-referring terms—in other words, if intersubstituting co-referring terms in
+    that context cannot change the truth-value of the host-sentence—that context is ‘‘extensional.’’ If an expression occurs in an
+
+§
+        Were it not for the guidance of three  ne minds—Joseph Fulda, Andrzej Boguslawski, and Jacob Mey—this paper would have been much less than what it
+        is. Of these already distinguished three, I owe a special debt of gratitude to Dr. Fulda, both for his many sparkling insights and also for the judiciousness and
+        sense of proportion embodied in the manner in which he articulated them. I would also like to thank an anonymous reviewer, whose sharp comments
+      helped me whip this paper into shape. In the next footnote, I address that reviewer’s important points concerning John Searle’s work.
+E-mail address: jsbach@jps.net.
+
+  0378-2166/$ – see front matter   2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.pragma.2010.01.017                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462315
+
+    extensional context, let us say that it occurs ‘‘extensionally.’’ ‘‘Hesperus’’ and ‘‘Phosphorous’’ occur extensionally in (1) and
+(2), respectively.
+  There seem to be cases where replacing a referring term with a co-referring term leads from truth to falsehood or vice
+versa. Given only that
+
+(3) ‘‘John believes that Hesperus is closer to the sun than the Earth’’
+
+is true, it does not appear to follow that
+
+(4) ‘‘John believes that Phosphorous is closer to the sun than the Earth’’
+
+  is also true. It thus appears, at least at  rst, that not all contexts are extensional. If a context is not extensional, we will say
+    that it is ‘‘intensional’’ and that the expressions occurring in it do so ‘‘intensionally.’’ ‘‘Hesperus’’ and ‘‘Phosphorous’’ appear
+to occur intensionally in (3) and (4), respectively.
+    Some striking apparent violations of extensionality involve intersubstitutions of de nite descriptions. Given only that
+
+(5) ‘‘Little Timmy believes that the whole number that comes immediately after one is less than three.’’
+
+is true, it very much seems not to follow that
+
+(6) ‘‘Little Timmy believes that the number n such that n is a unique even prime if arithmetic is incomplete
+      and is otherwise a unique positive square root of 81 is less than three.’’
+
+is also true.
+    Nonetheless, I will argue in this paper thatallcontexts are extensional and that, given a certain distinction, the reasons for
+    thinking otherwise prove to be insubstantial. The distinction in question is that between, on the one hand, what is literally
+  meant by an expression and, on the other hand, the information that one must work through to assign the right literal
+meaning to an expression that one encounters.
+            If P is the literal meaning of a sentence (or sentence-token) S, let us say that S ‘‘semantically encodes’’ P. Of course,
+    what a sentence communicates may or may not coincide with what it semantically encodes. (An utterance of ‘‘sometimes
+  one and one don’t make two’’ may communicate a truth, even though what it literally means is false.) And, in this
+  context, it is of the utmost importance that we bear that fact in mind. (In this paper, I will use ‘‘convey’’ as a synonym for
+‘‘communicate.’’)1
+
+1
+      In this paper, we will take for granted the truth of the controversial assumption that sentence-tokens typically have truth-valuable entities
+(propositions) for their literal meanings.
+        A preliminary point concerning the semantics of sentence-types will help make it clear what precisely the just-mentioned assumption is and why it is
+        controversial. According to the view defended in this paper, the meanings of sentence-types are typically rules or, as contemporary semanticists put it,
+        ‘‘functions’’ that assign propositions to their tokens on the basis of facts about the contexts in which those tokens occur. (Here is an example. The sentence-
+        type ‘‘I am tired’’ doesn’t have a proposition for its meaning. But it does have a meaning, and that meaning is a function that assigns propositions to
+        particular tokens of that type—a function that, if T is an utterance of ‘‘I am tired’’ made by Smith at time t, assigns to T a proposition that is true just in case
+        Smith is tired at t. What is true of ‘‘I am tired’’ is true of all sentence-types that contain indexical or otherwise context-sensitive components. This includes
+          most, if not all, sentence-types of natural language. This is because all such sentence-types contain tense-markers and, if a sentence-type contains a tense-
+        marker, the identity of the proposition meant by a given one of its tokens will typically depend on the time at which that token was produced. See Kaplan
+        (1989a) and Soames (2002) for an elaboration and defense of this view.) Of course, in some cases, the function meant by a sentence-type will fail to assign a
+        proposition to a particular token of that sentence. For example, if there is no pink elephant present, and somebody who is having a hallucination of a pink
+        elephant points to an empty space and says ‘‘that pink elephant is a threat to our way of life’’, that utterance fails to encode a proposition, since given the rule
+          (from contexts to propositions) meant by the corresponding type, a precondition for that utterance’s encoding a complete proposition is that there be some
+          contextually salient pink elephant. In any case, this is what Strawson (1950), Kaplan (1989a), Salmon (1986), Soames (2002) and others would say (and it is
+          my own position). But these same authors would hold that, leaving aside patently defective cases such as the one just described, sentence-tokens typically
+have propositions, and thus entities that by themselves are truth-evaluable, for their literal meanings.
+        But a number of philosophers deny this very contention, holding that, with at most a few exceptions, sentence-tokens typically don’t have truth-
+        evaluable entities for their literal meanings. So even after we set aside cases of presupposition-failure, such as the one earlier described, sentence-tokens
+          don’t have truth-evaluable entities for their meanings. Such authors don’t deny that sentence-tokens (or, more accurately, the speech-acts of which those
+        tokens are constituents) do typically communicate propositions; but they hold that, as a rule, facts about the context are needed to  ll in gaps in what is
+        semantically encoded in the sentence-tokens themselves. Among such authors are Recanati (1989, 1993, 2004) and Travis (1975), and their viewpoint is
+sometimes known as ‘‘contextualism’’ or ‘‘radical pragmatics.’’
+        Here is a bare outline of the basic conceit behind contextualism. Suppose I say ‘‘Charles is ready.’’ Unless we know what Charles is ready for, we don’t
+        know what has been said. Similarly, if I say, indicating some de nite object, ‘‘that is red’’, the literal meaning of my sentence-token leaves it open precisely
+          what has been af rmed. (Am I saying that the object has a completely red-surface, a surface that is partially red and partially not red, that it is completely red
+        on the inside, partially red on the inside, or some combination of the aforementioned? And what standard of redness is intended? If I am in the house of
+        somebody who abhors red objects and has thus made sure that nothing very red (e.g. a  re-engine red balloon) is in her house, then my utterance of ‘‘that is
+        red’’ may be true if the object in question is just slightly pinkish, whereas if I am in the house of somebody who loves red objects and has decorated her house
+        with scarlet drapes, burgundy carpets, and so on, then my describing that same object as ‘‘red’’ will be false.) According to contextualism, these points
+        (mutatis mutandis) hold of all sentence-tokens (with a few possible exceptions, e.g. tokens of ‘‘1 + 1=2’’). For a thorough and powerful discussion of
+  contextualism see Cappelen and Lepore (2005). For a brief but effective discussion of it, see Pinker (2007:107–124).                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462316
+
+            Russell’s Theory of Descriptions is relevant to much of what we will say in this paper, and we should therefore make it
+    clear at the outset what it is. The essence of that theory is given by the contention that:
+
+  (TD) In virtue of having the form ‘‘. . .the phi. . .’’,2a sentence has for its meaning the proposition something
+x uniquely has phi and. . .x. . .or, if not that exact proposition, then some other, logically equivalent,
+quanti ed generalization.3
+
+              Thus, according to Theory of Descriptions, ‘‘the king of France is bald’’ has for its meaning a quanti ed generalization that
+    is either identical or equivalent with:something x is uniquely a king of France; moreover,x is bald.Thus, if that theory is correct,
+  then ‘‘the king of France’’ is not a referring term and is instead a quanti er (or, in any case, a quanti er-like expression).
+
+2. Names
+
+              According toFrege (1892)and Russell (1905, 1918), ‘‘Socrates was wise’’ has for its meaning a proposition either identical
+  or logically equivalent with one along the lines of: something x was a unique philosopher of antiquity to die of hemlock
+    poisoning; moreover,x was wise. In their view, ‘‘Socrates’’describesSocrates, and thus doesn’t merely label him, the same thing
+mutatis mutandis being true of any other proper name.4
+              In light of arguments put forth by Kripke (1980),5there is overwhelming reason to believe that the Frege-Russell view is
+    false. Supposing that the Frege-Russell view is in fact false, it is natural to suppose that proper names are mere labels, i.e. that
+    names don’t describe their referents and merely pick them out. If that view is correct, then there is some x such that a token
+  of ‘‘Socrates was wise’’ has for its literal meaning the proposition x was wise and, more generally, such that the literal
+    meaning of any sentence of the form ‘‘Socrates has phi’’ is simply x has phi. Thus, for some x, an utterance of ‘‘Socrates was
+
+        In this paper, as stated earlier, I will operate on the classical assumption that, by themselves, sentence-tokens typically do have propositions for their
+        meanings (granting that there are some cases where they don’t, because of, for example, reference-failure). Obviously this is a substantive and debatable
+        assumption. But it is deeply embedded in the semantic tradition (or plurality of traditions) initiated by Frege (1892) and Russell (1905), and it is advocated
+          by, among others, Quine (1953, 1960), Davidson (1967), Dummett (1973),Chomsky (1980, 1988),Kaplan (1989a), and Soames (2002). (It should be pointed
+        out these authors are otherwise often in sharp disagreement with one another concerning foundational semantic matters and that this conception of
+        meaning is therefore not con ned to some one tradition.) Also, as previously indicated, Cappelen and Lepore (2005) have made an extremely strong case
+          against contextualism, as has Pinker (2007:107–124); and therefore one can, without being guilty of sheer dogmatism, hold that sentence-tokens as a rule
+do have truth-evaluable entities for their literal meanings.
+        Searle (1970:117–136) doesn’t deny that many sentence-tokens typically have complete propositions for their literal meanings, but he does deny ‘‘the
+        view that for every sentence the literal meaning of the sentence can be construed as the meaning it has independently of any context whatever’’ (Searle,
+        1970:117), holding that ‘‘in general, the notion of literal meaning only has application relative to a set of contextual or background assumptions’’ (Searle,
+        1970:117). So, in Searle’s view, even after cases of presupposition- and reference-failure are set aside, some tokens of ‘‘the cat is on the mat’’ do, whereas
+        others do not, have truth-evaluable entities for their literal meanings. An utterance, made in somebody’s living room, in the presence of a certain cat and a
+        certain mat, will probably have for its meaning a (determinately) true or false proposition, whereas (to use one of Searle’s own examples) the same could
+        well fail to hold of such an utterance made in outer space, in a rapidly rotating spaceship, in connection with a cat outside the spaceship that is barely
+contiguous with the edge of some mat.
+        Searle’s point is not that sentence-tokens don’t ever have truth-evaluable literal meanings, but rather they have such meanings only relative to certain
+        background assumptions, i.e. only in cases where certain background assumptions are satis ed: ‘‘I am not saying that sentences do not have literal
+        meanings. To show that a phenomenon X can be identi ed relative to another phenomenon Y does not show that X does not exist. To take an obvious
+        analogy, when one says that the movement of a body has application only relative to a coordinate system, one is not denying the existence of motion.
+        Similarly, when I say that the literal meaning of a sentence only has application relative to the coordinate system of our background assumptions, I am not
+    denying that sentences have literal meanings. Literal meaning, though relative, is still literal meaning (Searle, 1970:132).’’
+        The argument put forth in this paper is consistent with Searle’s thesis, the reason being that the former is concerned only with sentence-tokens that are
+          uttered in contexts consistent with the background-assumptions described by Searle. The question of whether or to what extent Searle’s thesis is correct lies
+outside the scope of the present paper.
+        Cappelen and Lepore point out that the viewpoints of bona  de contextualists (e.g. Travis, 1975) and authors with contextualist leanings (e.g. Searle,
+        1970) have roots in the work of Wittgenstein (1958) (which was completed and disseminated, though not published, in 1949) and Austin (1953).
+2
+    Quotation-marks are to be treated as quasi-quotation marks whenever appropriate.
+3
+See Russell (1905, 1918) and Neale (1990).
+4
+        Russell held that a certain class of expressions—so-called ‘‘logically proper names’’—are mere labels. But he denied that what are conventionally referred
+        to as ‘‘proper names’’—e.g. ‘‘Socrates’’, ‘‘Venus’’, ‘‘Abraham Lincoln’’—are mere labels. When I use the term ‘‘proper name’’, I am using it in its conventional
+sense.
+5
+  Here is a thumbnail sketch of Kripke’s (1980) refutation of Russell’s theory.
+        According to Russell, ‘‘Clark Kent’’ and ‘‘Superman’’ are synonymous with non-synonymous de nite descriptions. ‘‘Clark Kent’’ is (we may suppose)
+        synonymous with ‘‘the bungling reporter at the Daily Bugle’’, and ‘‘Superman’’ is (we may suppose) synonymous with ‘‘the crime- ghter who  ies at the
+speed of light.’’
+      Kripke (1980) made it clear why this view cannot be accepted. Though false, the sentence
+(!) ‘‘Clark Kent isn’t a reporter’’,
+could be true; in any case, it isn’t analytically false. By contrast,
+(!*) ‘‘the bungling reporter at the Daily Bugle isn’t a reporter’’,
+is analytically false. And, though true,
+(#) ‘‘Clark Kent is a reporter’’
+isn’t analytically true, whereas
+(#*) ‘‘the bungling reporter at the Daily Bugle is a reporter’’,
+is analytically true.
+      This argument, appropriately generalized, shows that, contrary to what Russell held, names aren’t synonymous with de nite descriptions.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462317
+
+    wise’’ is true just in case x was wise, it being entirely irrelevant what other properties x, or anything else, happens to have or
+  lack—it being entirely irrelevant, for example, whether x, or anything else, was a philosopher or a citizen of Athens or a
+    drinker of hemlock. To put it in the most general possible terms: if proper names are mere labels, then given any proper name
+    N whose referent is object O, the literal meaning of ‘‘N has phi’’ is simply O has phi. Thus, such an utterance is true exactly if O
+  has phi, it being irrelevant what other properties O, or anything else, happens to have or lack. Many contemporary
+semanticists6hold the view just described.
+    There are some apparently very compelling reasons to reject that view. ‘‘Hesperus’’ and ‘‘Phosphorous’’ are co-referring
+    proper names. Supposing that those expressions are mere labels, there is some x such that both ‘‘Hesperus’’ and ‘‘Phosphorous’’
+    refer to x. In that case, ‘‘Hesperus has phi’’ has the same literal meaning as ‘‘Phosphorous has phi.’’ A corollary is that ‘‘Hesperus is
+    identical with Phosphorous’’ has the same literal meaning as ‘‘Hesperus is identical with Hesperus.’’ But, asFrege (1892)pointed
+    out, the one sentence communicates a signi cant astronomical discovery, while the other is an empty truism, and it is therefore
+    very hard to see how ‘‘Hesperus’’ and ‘‘Phosphorous’’ could be mere labels. But, as previously noted, given the formidable
+  arguments put forth by Kripke (1980), Soames (2002), and others, it is hard to see how they could not be mere labels.
+  Here is what we will see in this section. Supposing, if only for the sake of argument, that proper names are mere labels,
+  there is no dif culty at all accounting for the dramatic communicative differences between, for example, ‘‘Hesperus is
+    identical with Phosphorous’’ and ‘‘Hesperus is identical with Hesperus.’’ But those differences are to be explained not by
+    supposing that those sentences differ in respect of literal meaning. Rather, those differences are to be explained in terms of
+facts about how people ascertain the literal meanings of the sentences that they encounter.
+    And we will  nd the following generalizations of this point to hold. First, for any predicate phi, supposing that ‘‘Hesperus’’
+    and ‘‘Phosphorous’’ are mere labels, there is no dif culty accounting for the fact that what is communicated by ‘‘Hesperus has
+  phi’’ may differ dramatically from what is communicated by ‘‘Phosphorous has phi.’’ Second, what was just said about
+    ‘‘Hesperus’’ and ‘‘Phosphorous’’ is true mutatis mutandis of any two co-referring proper names. We will also see why, given
+    the truth of these contentions, many (but not all) apparent threats to extensionality prove to be illusory. (The remaining
+threats will be dealt with in subsequent sections.)
+  Let us begin. I see a man in the distance. I see that he has such and such properties (e.g. he is leaping about in a decidedly
+athletic way, he is wearing a bright-red shirt. . .). I am told that his last name is ‘‘Smith.’’ I am also told:
+
+(7) ‘‘Smith is a great racquetball player.’’
+
+    Given our supposition that proper names are mere labels, it follows that, for some object O, the proposition literally meant by
+(7) is:
+
+(8) O is a great racquetball player.7
+
+    The next day I meet somebody. He has thus and such perceptible properties (e.g. he is pudgy and unathletic looking). As I
+    shake hands with him, I am told that his  rst name is ‘‘Bob.’’ Although I don’t know it, I am shaking hands with the man whom
+    I saw earlier in the distance. In fact, let us suppose that, given the information at my disposal, I have no way of knowing that
+    the man I saw yesterday is identical with the man with whom I am now shaking hands—that the laws of optics being what
+  they are, my visual system being what it is, and so on, the information thus far given to me simply does not warrant my
+believing that I am now shaking hands with the man I saw yesterday.
+        With these points in place, let us continue our story. A moment after shaking hands with Bob, I am told
+
+(9) ‘‘Bob is a great racquetball player.’’
+
+  Given that ‘‘Bob’’ is a mere label, and that it labels the same thing as ‘‘Smith’’, the proposition literally meant by (9) is (8).
+  At the same time, under the circumstances, (7) and (9) tell me different things. Indeed, what I learn in consequence of
+being told (7) does not entail, and isn’t entailed by, what I learn in consequence of being told (9).
+  ‘‘But,’’ it will be said, ‘‘this isn’t possible. (7) and (9) have the same literal meaning. Therefore what I learn from the one
+    must coincide with what I learn from the other. So we are stuck with the paradoxical consequence that (7) and (9) do, and
+also do not, coincide in respect of what they tell me about the world.’’
+    The fallacy that underlies this supposed paradox is easily exposed. What an occurrence of a sentence communicates to
+  somebody isn’t always con ned to its literal meaning (and, we will see, isn’t necessarily even inclusive of its literal
+    meaning).8To hear a sentence is not to hear a proposition. One must make one’s way from the physical noise that one hears
+
+6
+Examples are Salmon (1986) and Soames (2002).
+7
+        The reason that (7) is, whereas (8) is not,  anked by quotation marks is that, whereas the former refers to a sentence, the latter refers to a proposition.
+          Since the distinction between sentences and propositions is important in this context, it is important that the reader note, when reading any given one of the
+        numbered paradigms, whether or not the verbiage in question is  anked by quotation marks. If it is, that verbiage refers to a sentence, and if it isn’t, that
+verbiage refers to a proposition.
+8
+        Strictly speaking, we should say that what a sentence-token tells someone isn’t con ned to its literal meaning. For it is sentence-tokens—not sentence-
+        types—that are heard and seen and that, consequently, transmit information. This point is important, as we will see when we systematize our results. But,
+          for now, let us speak of ‘‘sentences’’, since the distinction between sentence-tokens and sentence-types might, at this state of discussion, be morea source of
+confusion than of illumination.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462318
+
+  to the proposition that it bears. When I hear (7), I have to make my way from the noise that I hear to the proposition that is
+    that noise’s literal meaning. This involves, among other things, my assigning the right referent to ‘‘Smith.’’ To do this, I have to
+    exploit background knowledge. In this context, the relevant background knowledge is given by some proposition at least
+approximately like the following:
+
+  (10) There is a person x such that x uniquely has such and such properties (viz. yesterday, from a considerable
+        distance, I saw x leaping about in a decidedly athletic manner, and x was wearing a bright-red shirt. . .);
+    moreover, ‘‘Smith’’ is x’s name.
+
+    At the level of semantics, ‘‘Smith’’ doesn’t describe Smith—it merely labels him. Nonetheless, in order for me to af x that label
+    to the right person, I must work through the just described background knowledge. That knowledge is existential in nature,
+    its content being given by (10). A consequence is that the information through which I assign the right meaning to (7) is given
+by an existence-claim at least approximately like:
+
+  (11) There is a certain person x such that x uniquely has such and such properties (viz. yesterday, from a considerable
+          distance, I saw x leaping about in a decidedly athletic manner, and x was wearing a bright-red shirt. . .), and such
+      that ‘‘Smith’’ is x’s name; moreover, x is a great racquetball player.
+
+    So even though (8) is what is literally meant by (7), the content of the knowledge that I must exploit to assign the right meaning
+  to (7) is given by (11). It is thus no wonder that (7) communicates (11) to me, even though it has (8) for its literal meaning.
+            What we just said about (7) is true mutatis mutandis of any sentence of the form‘‘Smith has phi.’’ So if, on the day in
+  question, I hear a token of ‘‘Smith is also a  ne chess-player’’, what is communicated to me is some proposition at least
+approximately like:
+
+  (12) There is a certain person x such that x uniquely has such and such properties (viz. x is such that, yesterday, from
+          a considerable distance, I saw x leaping about in a decidedly athletic manner and I saw that x was wearing a
+            bright-red shirt. . .), and such that ‘‘Smith’’ is x’s name; moreover, x is a  ne chess-player.
+
+    Of course, as time passes, the existence-claim through which I access the meaning of (7) necessarily changes.9Suppose that, two
+    days after  rst seeing Smith, I am told: ‘‘Smith has decided to become a professional chess-player.’’ Given obvious extensions of
+  the points already made, the existence-claim through which I assign the right literal meaning to that utterance is not:
+
+  (13) There is a certain person x such that x uniquely has such and such properties (viz. x is such that,yesterday,
+          from a considerable distance, I saw x leaping about in a decidedly athletic manner and I saw that x was wearing
+          a bright-red shirt. . .), and such that ‘‘Smith’’ is x’s name; moreover, x has decided to become a professional
+  chess-player.
+
+Rather, it is:
+
+  (14) There is a certain person x such that x uniquely has such and such properties (viz. x is such that,two days ago,
+          from a considerable distance, I saw x leaping about in a decidedly athletic manner and I saw that x was wearing
+          a bright-red shirt. . .), and such that ‘‘Smith’’ is x’s name; moreover, x has decided to become a professional
+  chess-player.10
+
+    As we will discuss later, there are other reasons why, with the passage of time, there must be changes in the identity of the
+information through which I must access the literal meaning of (7).
+              What we just said about (7) is true mutatis mutandisof (9). Hearing the noise ‘‘Bob’’ is one thing. Knowing what it refers to
+    is another. To af x ‘‘Bob’’ to the right person, I must exploit background knowledge. Given the circumstances under which I
+  am  rst told to whom ‘‘Bob’’ refers (see p. 4), the relevant background knowledge is given by a proposition at least
+approximately like the following:
+
+  (15) There is a person x such that x uniquely has thus and such characteristics (viz. x is a pudgy and unathletic
+          looking person with whom I shook hands a moment ago. . .) and ‘‘Bob’’ is x’s name.
+
+  Thus, even though there is some individual x such that, at the level of semantics, ‘‘Bob’’ merely labels x, and thus doesn’t
+    describe it, the information through which I learn that ‘‘Bob’’ labels x does describe it.
+
+
+9
+        Cf. Frege (1918): ‘‘If someone wants to say the same today as he expressed yesterday using the word ‘today’, he must replace this word with ‘yesterday.’
+        Although the thought is the same, its verbal expression must be different so that the sense, which would otherwise be affected by the differing times of
+utterance, is readjusted.’’ Quoted in Kaplan (1989a:501). Kaplan (1989a:501) makes a similar point.
+10
+See footnote 9.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462319
+
+Once again, suppose that, just after shaking hands with Bob, I am told:
+
+(9) ‘‘Bob is a great racquetball player.’’
+
+  In that case, for reasons analogous to those given in connection with (7), what is communicated to me will be some
+proposition along the lines of:
+
+  (16) There is a person x such that x uniquely has thus and such characteristics (viz. x is a pudgy and unathletic
+        looking person with whom I shook hands a moment ago. . .) and ‘‘Bob’’ is x’s name; moreover, x is a great
+  racquetball player.
+
+    By obvious extensions of this reasoning, what would be communicated to me, under the circumstances just described, by any
+sentence of the form ‘‘Bob has phi’’ would be:
+
+  (17) There is a person x such that x uniquely has thus and such characteristics (viz. x is a pudgy and unathletic
+        looking person with whom I shook hands a moment ago. . .) and ‘‘Bob’’ is x’s name; moreover, x has phi.
+
+  Thus it is no mystery why, under these circumstances, (7) and (9) should have entirely different cognitive values.
+    (7)communicates(11), whereas (9)communicates(16). (11) and (16) are completely different propositions. Indeed, neither so
+    much as entails the other. Thus, I can, without necessarily being irrational, assent to the one without assenting to the other.
+    Of course, what is semantically encoded in (7) does entail what is semantically encoded in (9), and vice versa. After all, they
+    have the same literal meaning. But whether somebody is rational is to be understood in terms of what that person does with the
+    information at his or her disposal. And, under the circumstances, the information that I have at my disposal in consequence of
+    my being told (7) neither entails, nor is entailed by, the information that I have at my disposal in consequence of being told (9).
+    These points have an important bearing on the question of whether all contexts are extensional. A preliminary point is in
+    order. Consider the sentence ‘‘snow is white.’’ The expression ‘‘that snow is white’’ refers to the proposition semantically
+    encoded in ‘‘snow is white.’’ But, unlike ‘‘snow is white’’, ‘‘that snow is white’’ is neither true nor false. The latter expression
+    merely refers to a certain proposition, without taking a stand, so to speak, as to its truth or falsity. Just as ‘‘that snow is white’’
+refers to the proposition semantically encoded in ‘‘snow is white’’, so
+
+(18) ‘‘that Smith is a great racquetball player’’
+
+refers to the proposition semantically encoded in:
+
+(7) ‘‘Smith is a great racquetball player.’’
+
+And the expression
+
+(19) ‘‘that Bob is a great racquetball player’’
+
+refers to the proposition semantically encoded in
+
+(9) ‘‘Bob is a great racquetball player’’
+
+    Supposing, as we have been, that proper names are mere labels, there is some object O such that the proposition referred to
+by both (18) and (19) is:
+
+(20) That O is a great racquetball player.
+
+In light of these points, consider the following pair of sentences:
+
+(21) ‘‘Fred believes that Bob is a great racquetball player’’,
+(22) ‘‘Fred believes that Smith is a great racquetball player.’’
+
+    (21) attributes a certain property to a certain proposition. The property is: being believed by Fred and the proposition is (20).
+  (22) attributes a certain property to a certain proposition. As before, the property is: being believed by Fred and the
+proposition is (20).
+    Thus, (21) and (22) semantically encode the very same proposition. But it is obvious that, under the circumstances earlier
+    described, what (21) communicates may differ in truth-value from what (22) communicates. Here two questions arise. First,
+    exactly why (under those circumstances) do (21) and (22) differ in respect of what they communicate, given that they coincide
+    in respect of literal meaning? Second, exactly what (under those circumstances) do those two sentences communicate?
+  Given what we’ve said so far, we can easily answer those questions, and we will now do so. We know that semantically
+  ‘‘Bob’’ is a name. But we’ve already seen why, under the circumstances in question, sentences of the form ‘‘. . .Bob. . .’’                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462320
+
+    communicate propositions of the form: there is a person x such that x uniquely has thus and such characteristics(viz. x is a pudgy
+and unathletic looking person with whom I shook hands a moment ago...)and ‘‘Bob’’ is x’s name; moreover,...x...
+            Under those circumstances, then, ‘‘Bob’’ is acting as a certain kind of existential quanti er. In other words, if we focus on
+    what ‘‘. . .Bob. . .’’ is communicating to me, and not on what it literally means, ‘‘Bob’’ is acting as a certain kind of quanti er—
+    the kind that, according to Russell’s Theory of Descriptions, de nite descriptions are. Let us refer to quanti ers of that kind as
+‘‘Russellian quanti ers.’’11
+Consider the sentence:
+
+(21) ‘‘Fred believes that Bob is a great racquetball player’’
+
+    We’ve seen that, although semantically it is just a label, ‘‘Bob’’ is functioning (in respect of what it communicates, under the
+circumstances earlier described) as a quanti er.
+              That quanti er can be given either ‘‘wide-scope’’ or ‘‘narrow-scope’’ with respect to ‘‘Fred believes.’’ So, speaking in terms
+      of what (21) communicates (as opposed to what it literally mans), (21) is ambiguous between:
+
+  (23) Fred believes that: there is a person x such that x uniquely has thus and such characteristics (viz. x is a pudgy
+        and unathletic looking person with whom I shook hands a moment ago. . .) and ‘‘Bob’’ is x’s name and,
+    moreover, x is a great racquetball player.
+
+and
+
+  (24) There is a person x such that x uniquely has thus and such characteristics (viz. x is a pudgy and unathletic
+          looking person with whom I shook hands a moment ago. . .) and ‘‘Bob’’ is x’s name and, moreover, Fred believes
+    that: x is a great racquetball player.
+
+By exactly similar reasoning,
+
+(22) ‘‘Fred believes that Smith is a great racquetball player.’’
+
+    is (in terms of what it communicates, not what it literally means) ambiguous between:
+
+  (25) Fred believes that: there is a certain person x such that x uniquely has such and such properties (viz. yesterday,
+          from a considerable distance, I saw x leaping about in a decidedly athletic manner, and x was wearing a bright-
+              red shirt. . .), and such that ‘‘Smith’’ is x’s name and, moreover, that x is a great racquetball player.
+
+and
+
+  (26) There is a certain person x such that x uniquely has such and such properties (viz. yesterday, from a considerable
+          distance, I saw x leaping about in a decidedly athletic manner, and x was wearing a bright-red shirt. . .), and such
+            that ‘‘Smith’’ is x’s name and, moreover, Fred believes that: x is a great racquetball player.
+
+            Given that, under the circumstances in question, (21) and (22) are ambiguous in the way just described, it is no wonder
+    that they may communicate propositions having different truth-values. Obviously (23) could be true even if (24) was false.
+    Obviously (25) could be true even if (26) was false. This much is obvious from basic logic; no recherche´results in semantics
+need be considered.
+              Given any context—modal, moral, causal, etc.—an argument exactly similar to the one just given shows that replacing a
+    name occurring in that context with a co-referring name cannot possibly lead from truth to falsity, at least not at the level of
+semantics.
+
+3. De nite descriptions
+
+              Extensionality says that replacing referring terms with co-referring terms never changes truth-value. Extensionality
+    doesn’t say anything about what happens when terms that don’t co-refer are intersubstituted. So if, as Russell held, de nite
+
+11
+        It might be denied that, if Russell is right, de nite descriptions are appropriately described as ‘‘quanti ers.’’ There are two points to make in response to
+        this. First, even if, given the truth of Russell’s theory, de nite descriptions are not quanti ers, there is no denying that (if Russell’s theory is right), de nite
+        descriptions are quanti er-like. Supposing that Russell’s theory is right, ‘‘the king of France is bald’’ means, or is at least equivalent with:for some king of
+        France x, x is a king of France and such that,for any king of France y, y=x; moreover,for any object king of France z, z is bald. Each of the underlined expressions is,
+uncontroversially, a quanti er.
+        In this context, then, I will (when operating on the assumption that Russell’s theory is correct), describe de nite descriptions as ‘‘quanti ers.’’ It is to be
+        understood that, in so doing, I am speaking elliptically, i.e. that I am saying of them that they are either quanti ers or quanti er-like (in a way that singular
+terms are not).
+        That said, there is much to be said for the view that, if Russell’s theory is right, de nite descriptions arequanti ers. We will see why this is so when, in Part
+III, we discuss the concept of indirect-reference.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462321
+
+  descriptions are not referring terms, then the apparent difference in truth-value between, for example, (5) and (6) is
+  irrelevant to the question whether extensionality is true. But, of course, it cannot be taken for granted that de nite
+  descriptions are not referring terms. So, in order to establish extensionality, one of two contentions would have to be
+established, namely:
+
+(A) De nite descriptions are not referring terms.
+  (B) Even if de nite descriptions are in fact referring terms, intersubstituting co-referring de nite descriptions
+    does not, contrary to initial appearances, change truth-value.
+
+    If (B) is the case, then (5) and (6) cannot differ in truth-value—even though, of course, they very much seem to. Of course, if
+    (B) is correct, then the question whether (A) is correct becomes irrelevant to the question whether extensionality is correct.
+    We will thus argue for (B). And we will see that, even if (5) and (6) have the very same literal meaning, there is no dif culty
+    accounting for the fact that they may obviously communicate propositions that have (or might have) different truth-values.
+  Here we come to a delicate issue. It is widely held that there are two kinds of referring terms—those that refer ‘‘directly’’
+    and those that refer ‘‘indirectly.’’12Let me de ne these terms. Suppose that, addressing Fred, I say ‘‘you are tall.’’ According to
+    Kaplan (1989a), there is some object x such that x is identical with Fred and such that what is literally meant by my utterance
+  is the singular proposition: x is tall. Appropriately generalized, Kaplan’s position amounts to this. Let D be a token of an
+  indexical expression that refers to O. (An indexical is an expression whose referent is a function of the circumstances
+  in which it is uttered. Examples of indexicals are ‘‘I’’, ‘‘you’’, ‘‘that car’’, and ‘‘this bird.’’) In that case, in virtue of having
+  the form ‘‘. . .D. . .’’, a sentence-token S has for its literal meaning a proposition that has as a constituent O itself—not some
+    Fregean sense, not some concept under which O falls, and not some description that O satis es.13So if, while speaking to you,
+  I produce a sentence-token of the form ‘‘. . .you. . .’’, then in virtue of that fact my utterance encodes a proposition that has
+    you—not a concept that you satisfy, but youper se—as a constituent. More exactly, there is some x such that x is identical with
+    you and such that, if I say ‘‘you are tall’’, the proposition literally meant by my words is simply: x is tall. The concept person to
+  whom I am speaking does not make it into that proposition; nor does any other concept under which you happen to fall.
+    My utterance of ‘‘you’’ is thus ‘‘directly referential.’’ Of course, the concept person to whom I am speaking plays an important
+  semantic role in this context. But, if Kaplan is right, that role is only to pick out the entity that makes it into the relevant
+proposition—that concept does not itself do so.
+          To take another example, suppose that I point to some car x and say ‘‘that must have cost a fortune.’’ In that case,
+    supposing that Kaplan’s position is correct, the literal meaning of my utterance is: x must have cost a fortune. The concept
+    ostended object is no part of the literal meaning of my utterance. Obviously that concept is playing an important semantic
+    role. But, if Kaplan is right, that role is to pick out a certain object. And it is that object—not the concept ostended object—that
+makes it into the proposition meant by my words.
+    If an expression E refers in the manner just described to some object O—in other words, if E ‘‘directly’’ refers to O—then E’s
+    semantic value is O itself, and not some concept that O satis es. (By E’s ‘‘semantic value’’ I mean what E contributes to the
+    meaning of the sentence-tokens in which it occurs.) Under this circumstance, E refers ‘‘directly’’ to O in the sense that E’s
+    semantic value is O itself, and not a concept or sense that mediates between E and O.
+            E refers ‘‘indirectly’’ to O if, in virtue of having the form ‘‘. . .E. . .’’,a sentence (or sentence-token) S has for its meaning a
+  proposition that has as a constituent not O itself, but rather some concept that O satis es. So if ‘‘the inventor of bifocals’’
+    refers indirectly to Benjamin Franklin, then in virtue of having the form ‘‘. . .the inventor of bifocals. . .’’,a sentence encodes a
+    proposition that contains the conceptbifocal inventor(orunique bifocal inventor) as a constituent. Many, including Frege, hold
+that de nite descriptions are, in fact, devices of indirect reference.
+          In this section we will see reasons to accept following claims. The supposition that de nite descriptions are
+    directly referential is not only consistent with, but actually accounts for, the apparent differences in meaning between,
+  for example, (5) and (6). That supposition also accounts for the fact that (5) and (6) communicate propositions that
+can have different truth-values. We will also see that, if de nite descriptions are directly referential, then
+    intersubstituting them never changes the truth-value of what is literally meant by sentences. We will wait until the next
+  section to see what the consequences for extensionality are of supposing that de nite descriptions are devices of
+indirect reference.
+    Let us use the term ‘‘direct referentialism’’ to refer to the position that de nite descriptions are devices of direct reference.
+  And let us use the term ‘‘Russellianism’’ to refer to the position that de nite descriptions are not referring terms and are
+    instead quanti ers (or quanti er-like expressions) of the kind that Russell described.
+        We must begin by noting how much direct referentialists agree with Russellians. Russell says that:
+
+(27) ‘‘the king of France is bald’’
+
+
+12
+See Soames (2002).
+13
+      Any references to ‘‘concepts’’ being ‘‘satis ed’’ can be replaced with references to ‘‘properties’’ being ‘‘instantiated’’ or, even more plainly, to
+        ‘‘characteristics’’ being ‘‘had.’’ So far as this paper makes any contentious metaphysical assumptions, they arise from my assumption that there are
+characteristics that things have.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462322
+
+  means (or, at least, encodes a proposition logically equivalent with14):
+
+(28) exactly one thing x is a king of France; moreover, x is bald.
+
+            Russell thus thinks that, if (27) is to be true, then there must be exactly one king of France and any such person be bald.
+              Direct referentialists agree almost entirely with Russell. A direct referentialist will agree that if (27) is to be true, then it is
+    necessary and suf cient that there be exactly one king of France x and that x be bald.15In general, Russellians and direct
+      referentialists both agree that ‘‘. . .the phi. . .’’ is true iff: something x uniquely has phi and. . .x. . .
+              But Russellians and direct referentialists obviouslydodisagree about the semantics of ‘‘. . .the phi. . .’’ Their disagreement
+    can be understood as concerning where to put the ‘‘means that’’ operator in the semantic rule that gives the meaning of the
+  phi. For Russellians, the rule that assigns meaning to ‘‘. . .the phi. . .’’ is this:
+
+(29)‘‘. . .the phi. . .’’
+
+means
+
+(30) there is exactly one object O that has phi; moreover,. . .O. . .
+
+  For direct referentialists, the rule that assigns meaning to ‘‘. . .the phi. . .’’ is this:
+
+If there is exactly one object O that has phi, then
+
+(29) ‘‘. . .the phi. . .’’
+
+means
+
+(31)...O...
+
+    If nothing uniquely has phi, then (29) doesn’t bear any proposition at all and, therefore, is neither true nor false.16
+
+So according to the direct referentialist,
+
+(32) ‘‘the inventor of bifocals snored’’
+
+    doesn’t encode any proposition if nobody uniquely invented bifocals. But if exactly one person O invented bifocals, then (32)
+means:
+
+(33) O snored.
+
+    So given that, in actuality, Benjamin Franklin uniquely invented bifocals, the direct referentialist says that (32) encodes the
+proposition:
+
+(34) Benjamin Franklin snored.
+
+But according to the Russellian, the proposition encoded in (32) is identical (or at least equivalent) with:
+
+(35) exactly one object x invented bifocals; moreover, x snored.
+
+            Given that (34) doesn’t entail (35), and that (35) doesn’t entail (34), there thus turns out to be a signi cant difference
+between the direct-referentialist’s position and the Russellian’s.
+    A consequence of the direct-referentialist’s position is that, for some object O (such that, as it happens, O is identical with
+Benjamin Franklin),
+
+(36) ‘‘Fred believes that the inventor of bifocals snored’’
+
+encodes the proposition:
+
+(37) Fred believes that O snored.
+
+14
+        Russell wasn’t clear as to what he thought the literal meaning to be of sentences containing de nite descriptions. All we know, given his writings, is that
+        he thought that (27), for example, has for its meaning a proposition that is either identical or equivalent with (28). Anderson (1986) makes a similar point.
+15
+See Strawson (1950).
+16
+This is Strawson’s (1950) view.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462323
+
+It follows that, for the direct referentialist,
+
+(38) ‘‘Fred believes that the  rst postmaster general snored’’
+
+also has (37) for its meaning.
+  Another consequence of the direct-referentialist’s position is that, for some O (such that O is identical with the number
+two),
+
+(5) ‘‘Little Timmy believes that the whole number that comes immediately after one is less than three’’
+
+has for its literal meaning the proposition:
+
+(39) Little Timmy believes that O is one less than three.
+
+And it follows that, for the direct referentialist,
+
+  (6) ‘‘Little Timmy believes that the number n such that n is a unique even prime if arithmetic is incomplete and
+    is otherwise a unique positive square root of 71 is less than three.
+
+also has (39) for its meaning.
+    Thus, if direct referentialism is correct, then (5) and (6) coincide in respect of literal meaning and, therefore, in respect of
+truth-value, the same being true of (36) and (38).
+    But, of course, there is a glaring difference in cognitive value between (36) and (38) and also between (5) and (6). There is
+    no denying that the proposition that is communicated by (36) could differ in cognitive value and also truth-value from that
+  communicated by (38) or that the proposition communicated by (5) could differ in both those respects from that
+communicated by (6).
+  For this reason, it is often assumed that the direct referentialist cannot explain why, for example, (36) and (38) differ so
+    greatly in respect of cognitive value. This assumption is erroneous. If the direct referentialist is right, then the semantic rule
+for:
+
+(32) ‘‘the inventor of bifocals snored’’
+
+is this:
+
+  (RF) If somebody O uniquely invented bifocals, then a token of ‘‘the inventor of bifocals snored’’ means
+  (or is true iff): O snored. And if nobody uniquely invented bifocals, then ‘‘the inventor of bifocals snored’’ fails to
+encode a proposition and is thus neither true nor false.
+
+    So if the direct referentialist is right, (RF) is thus the rule through which people who understand (32) assign meaning to it.17
+    Thus, an immediate consequence of the direct-referentialist’s position is that anyone who understands (32) knows that it
+    isn’t either true or false, and that it therefore isn’t true, unless exactly one object x invented bifocals and, moreover, x snored.
+    Notice that the italicized proposition is identical with (35). Thus, an immediate consequence of the direct-referentialist’s
+position is that an utterance of (32) will communicate (35).
+  For the sake of argument, suppose that, if the direct referentialist were right, then the semantic rule for (32) would be:
+
+(NR) ‘‘The inventor of bifocals snored’’ means (or is true iff): Benjamin Franklin snored.
+
+    In that case, it would indeed be inexplicable why utterances of (32) communicated (35). But (NR) obviously isn’t the right
+  semantic rule. What ‘‘the inventor of bifocals’’ refers to is a function of who invented bifocals. If Smith did so, then ‘‘the
+    inventor of bifocals’’ refers to Smith. If Jones did so, then it refers to Jones. So if de nite descriptions are devices of reference,
+  then the semantic rule for ‘‘the inventor of bifocals’’ is: if somebody O uniquely invented bifocals, then ‘‘the inventor of
+    bifocals’’ refers to O. Thus, if de nite descriptions are devices of direct reference, then the semantic rule for ‘‘the inventor of
+    bifocals’’ is: if somebody O uniquely invented bifocals, then ‘‘the inventor of bifocals’’ refersdirectlyrefers to O. It follows that,
+    if de nite descriptions are devices of directreference, then the semantic rule for ‘‘the inventor of bifocals snored’’ will be (RF).
+    We’ve seen why, given this last fact, it follows that, if the direct referentialist is right, a token of (32) will communicate (35).
+
+17
+        This assumes that, when people understand sentences, they do so on the basis of a knowledge (of some kind or other) of the relevant semantic rules. But
+        this is not an unreasonable assumption. Consider the sentence: ‘‘if there’s an albatross in Greenland, then either coal is purple or owls speak Portuguese.’’
+        You know what that sentence means, even though (we may suppose) you have never heard it before. The most plausible way to explain this is to say that
+        you know the relevant semantic rules: you know the rules that assign meaning to ‘‘Greenland’’, ‘‘purple’’, and so on; and you also know the rules that assign
+          meanings to complex expressions containing these terms on the basis of the meanings of the latter. (See Chomsky (1980, 1988) for powerful arguments on
+behalf of this view.)                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462324
+
+              Supposing that the direct-referentialist’s position is correct, an argument exactly similar to that just given establishes that
+what is communicated (not literally meant) by:
+
+(40) ‘‘the  rst postmaster general snored’’
+
+will be identical or at least equivalent with:
+
+    (41) exactly one object x was a unique  rst postmaster general; moreover, x snored.
+
+So, while the direct referentialist does indeed hold that, for some object O, the bare singular proposition:
+
+(33) O snored
+
+  is the literal meaning of (40), nonetheless the direct-referentialist’s position is not only consistent with, but has as an
+  immediate consequence, the fact that what is communicated by (40) will not be that bare singular proposition and will
+instead be the descriptively richer (41).
+              It is not ex nihilo that people understand the sentences that they read and hear. People must compute sentence-meaning
+  on the basis of background information—on the basis of, in particular, a knowledge of the semantic rules that assign
+    meanings to those sentences. Given this fact, it is an immediate consequence of the direct-referentialist’s position that:
+
+(29) ‘‘. . .the phi. . .’’
+
+communicates a proposition identical, or at least equivalent, with:
+
+(30) there is exactly one object x that has phi; moreover,. . .x. . .
+
+    In other words, it is a consequence of the direct-referentialist’s position that, in terms of how it affects what is communicated
+    (not literally meant) by sentences containing it, ‘‘the phi’’ functions like a Russellian quanti er. (Let ‘‘CR’’ be our term for the
+    fact that the referentialist’s position has the consequence just described.) It is therefore clear why the direct-referentialist’s
+    position has no trouble accounting for the massive differences in cognitive value between (36) and (38), and also between (5)
+    and (6). Given CR, it follows that, if the direct-referentialist’s position is right, everything that Russell’s theory says about the
+    literal meanings of sentences containing de nite descriptions is true of what such sentences communicate.18Russell’s
+theory says that (36) is ambiguous between:
+
+      (36WS) Somebody x uniquely invented bifocals; moreover, Fred believes that x snored
+
+and
+
+        (36NS) Fred believes that somebody x uniquely invented bifocals and, moreover, that x snored.
+
+And Russell’s theory says that (38) is ambiguous between:
+
+(38WS) Somebody x was a unique  rst postmaster general; moreover, Fred believes that x snored
+
+and
+
+(38NS) Fred believes that somebody x was a unique  rst postmaster general and, moreover, that x snored.
+
+              Thus, a consequence of direct referentialism is that, in terms of what it communicates (not what it literally means), (36) is
+    ambiguous between (36NS) and (36WS). Another consequence of direct referentialism is that (38) is ambiguous, in respect of
+    what it communicates (not what it literally means), between (38NS) and (38WS). Neither one of (36NS) or (36WS) entails, or is
+    entailed by, either one of (38NS) and (38WS). Thus, direct referentialism is perfectly consistent with the fact that, in terms of
+  what they communicate, (36) and (38) may differ in truth-value. For exactly similar reasons, direct referentialism is
+consistent with the fact that, in terms of what they communicate, (5) and (6) may differ in truth-value.
+Given CR, a consequence of the direct-referentialist’s position is that:
+
+  (42) ‘‘the inventor of bifocals is identical with the  rst postmaster general’’
+
+  communicates a proposition identical with (or equivalent with or, at the very least, to much the same effect as) the
+proposition:
+
+18
+      So if direct referentialism is right, then the Theory of Descriptions is wrong if taken as a theory of literal meaning but right if taken as a theory of
+communicated meaning.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462325
+
+  (43) exactly one thing x uniquely invented bifocals, and exactly one thing y was a unique  rst postmaster general;
+moreover, x=y.
+
+    So direct referentialism has no trouble accounting for the fact that, in terms of what it communicates, (42) is non-trivial. Of course,
+    according to Russell’s theory, either (43) itself, or some proposition logically equivalent with (43), is what is meant by (42).
+  We are seeing that direct referentialism has many of the virtues that are ascribed to the Theory of Descriptions. Direct
+    referentialism readily explains why (5) and (6) differ in respect of cognitive value and also why (42) is non-trivial. Further, direct
+    referentialism readily accounts for the fact that, in terms of what utterances of it communicate, (5) is ambiguous between ‘‘wide-
+    scope’’ (de re) and ‘‘narrow-scope’’ (de dicto) readings. So if the Theory of Descriptions is to be preferred to referentialism,
+    it cannot, contrary to what is widely assumed,19be on the grounds that the latter is inconsistent with the facts concerning
+    what is communicated by sentences containing de nite descriptions—it cannot be on the grounds that the former does,
+    whereas the latter does not, accommodate the fact that ‘‘. . .the phi. . .’’ communicates there is exactly one object x that has phi;
+moreover,. . .x...
+  But what is important in this context is that direct referentialism, supposing it correct, is no threat to extensionality. As
+    we saw earlier, if direct referentialism is correct, (5) and (6) coincide in respect of literal meaning, and therefore in respect of
+  truth-value, as do (36) and (38). It might be thought that this victory is a hollow one since, given how much they differ in
+  respect of what they communicate, (5) and (6) must surely differ in respect of literal meaning and, consequently, that a
+    direct-referentialist analysis of de nite descriptions is a non-starter. But such a view, we have just seen, is quite misguided.
+
+    4. The Fregean alternative: de nite descriptions as devices of indirect reference
+
+    We’ve considered the direct-referentialist’s view, according to which the sense of a de nite description doesn’t make it
+    into the proposition meant by the sentence in which that de nite description occurs. We’ve also considered the view that
+  de nite descriptions are quanti ers. And we’ve seen that, if we focus only these two views, then substitution-failures
+    involving de nite descriptions don’t threaten extensionality. But there is a third possibility to consider, viz. that de nite
+    descriptions are devices of indirect reference. (This was Frege’s view.) Let us refer to this view as ‘‘indirect referentialism’’,
+and let us make it clear what exactly indirect referentialism comes to.
+Consider the sentence:
+
+(32) ‘‘the inventor of bifocals snored.’’
+
+    Here is what the indirect referentialist says about (32). First, ‘‘the inventor of bifocals’’ refers to Benjamin Franklin. (Thus, the
+    indirect referentialist rejects Russell’s Theory of Descriptions.) But the proposition literally meant by (32) does not have
+    Benjamin Franklin himself as a constituent. Rather that proposition has as a constituent some concept (or ‘‘sense’’, as Frege
+    put it) under which Benjamin Franklin uniquely falls. (That concept would beinventor of bifocalsor perhapsunique inventor of
+    bifocals.) More generally, according to the indirect referentialist, if a sentence S has the form ‘‘. . .the inventor of bifocals. . .’’,
+    then in virtue of that fact S encodes a proposition that has as a constituent a concept C such that the referent of ‘‘the inventor
+    of bifocals’’ satis es C. (C be would be the concept (unique) inventor of bifocals.) Even more generally, if a sentence S has the
+  form ‘‘. . .the phi. . .’’,then in virtue of that fact S encodes a proposition that has as a constituent a concept C such that the
+referent of ‘‘the phi’’ satis es C. (C would be the concept (unique) object having property phi.)
+    If the indirect referentialist is right, it strongly appears to follow that extensionality is false. But I would now like to show
+    that, so far as it is not an incoherent doctrine, indirect referentialism is not substantially different from the view that de nite
+    descriptions are quanti ers. So given that, as we have seen, Russell’s theory is consistent with extensionality, the same is true
+of indirect referentialism, so far as the latter is not an incoherent, and therefore false, doctrine.
+
+4.1. Reference versus quanti cation
+
+    As we just discussed, if the indirect referentialist is right, then (32) encodes a proposition P that has the conceptinventor of
+    bifocals as a constituent. Supposing that the indirect referentialist is right, what must be true of that concept if (32) is to be
+    true? That concept must be uniquely instantiated, and any instance of it must have snored. So, if the indirect referentialist is
+right, then the proposition meant by (32) is true just in case
+
+(35) exactly one object x invented bifocals; moreover, x snored.
+
+  But (35) is the proposition that, according to the Russellian, is meant by (32). Of course, the essence of the Russellian’s
+    position is de nite descriptions are not referring terms. So given only what we’ve seen thus far, it would appear that indirect
+  ‘‘referentialism’’ is really the view that de nite descriptions are quanti ers.
+
+19
+      Neale (1990) assumes this. So does Bach (1987) and Blackburn (1984). In fact, it is assumed, without question, by all advocates of the Theory of
+        Descriptions. See, for example, any one of the articles defending the Theory of Descriptions in Bezuidenhout (2004), and see also my review (Kuczynski,
+2006) of that anthology in Pragmatics and Cognition.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462326
+
+            There are additional reasons to believe that indirect referentialism (so-called) collapses into the view that de nite
+descriptions are not referring terms. Consider the sentence:
+
+(44) ‘‘Benjamin Franklin snored.’’
+
+    Let P be the proposition meant by (44). Given Kripke’s (1980) arguments, we know that there is some object O (such that O is
+    Benjamin Franklin) such that, given any possible world w, P is true in w just in case O snored; in other words, P is true just in
+  case (33) is true. (This, of course, is consistent with the supposition that P and (33) are identical.) More plainly, the
+  proposition meant by (44) is true in any possible world just in case Benjamin Franklin snored in that world. This point is
+    easily generalized. There is some object O (such that O is Benjamin Franklin) such that, given any sentence S having the form:
+
+(45) ‘‘. . .Benjamin Franklin. . .’’
+
+        the proposition meant by S is true in a world W just in case. . .O. . .(i.e. just in case O has property. . .x. . .).
+            Of course, we know that ‘‘Benjamin Franklin’’ is a paradigm-case of an expression that refers to Benjamin Franklin. (It is
+    also a paradigm-case of an expression that directly refers to Benjamin Franklin.)
+            Now let us consider the expression ‘‘the inventor of bifocals.’’ If the indirect referentialist is right, then the proposition
+meant by (32) is true in many worlds where (33) is false, and it is false in many worlds where (33) is true.
+These points are easily generalized. Let S be any sentence of the form:
+
+(29) ‘‘. . .the phi. . .’’,
+
+    Let PIRbe the proposition that, if the indirect referentialist is right, is literally meant by S. Let PTDbe the proposition that, if the
+  Theory of Descriptions is right, is meant by S. Finally, let PDDbe the proposition that, if the direct referentialist is right, is
+meant by S.
+              There are many worlds where PDDis true and where PIRis false, and many worlds where PDDis false and where PIRis true.
+  At the same time, PIRis true in exactly the same worlds as PTD. Of course, this last point does not by itself show that PIRis
+  identical with PTD. But it does strongly suggest, if it doesn’t outright entail, that PIRis identical with some quanti ed
+  generalization of the kind that, if Russell’s theory is correct, is meant by (32).
+            Thus, given what we’ve seen thus far, there are many semantic similarities between indirect reference (so-called) and
+    quanti cation and, in fact, there don’t seem to be any signi cant semantic differences between them. Further, there are clear
+    semantic differences between, on the one hand, expressions that are clearly devices of reference (e.g. ‘‘Benjamin Franklin’’)
+and, on the other hand, expressions that refer ‘‘indirectly.’’
+              Also, from a proof-theoretic standpoint, PIRis not signi cantly different from PTD: each entails, and is entailed by, exactly
+    the same propositions as the other. In fact, not only are PTDand PIRequivalent; they seem to coincide in respect of their more
+     ne-grained inferential properties. Permit me to say what I mean by this. Because they are true in exactly the same possible
+  worlds (namely, all of them), 1+1=2and triangles have three sides are equivalent. But the way in which 1+1=2entails for
+    some number n, 1+n=2is very different from the way in which triangles have three sides entails that same proposition. (If 1
+    +1 = 2is one’s starting point, a single application of the rule of existential generalization is enough to provefor some number n,
+    1+n=2. But this is not the case if triangles have three sides is one’s starting point.) So even though they coincide in respect of
+    what they entail,1+1=2and triangles have three sides do not coincide in respect of how they entail it, and they therefore do
+    not coincide in respect of what we might describe as their ‘‘ ne-grained’’ inferential properties. So, even though they are
+equivalent, they are not proof-theoretically interchangeable.
+              By contrast, PTDand PIRdo seem to be thus interchangeable. Let P be the proposition at least one person invented bifocals.
+  Not only do PTDand PIRboth entail P—they do so in similar, if not identical, ways. Suppose that you ask an indirect
+  referentialist what the semantic rule for (32) is. If he answers by saying:
+
+  (*) the proposition af rmed by the sentence ‘‘the inventor of bifocals snored’’ is true just in case the inventor of bifocals
+snored,
+
+his answer is ambiguous, as it could mean either:
+
+  (**) the proposition af rmed by the sentence ‘‘the inventor of bifocals snored’’ is true just in case the person who in fact
+            invented bifocals snored; in other words, if x is a person who uniquely invented bifocals, then the proposition af rmed
+    by ‘‘the inventor of bifocals snored’’ is true just in case x snored,
+
+or
+
+  (***) the proposition af rmed by the sentence ‘‘the inventor of bifocals snored’’ is true just in case somebody x uniquely
+  invented bifocals and, moreover, x snored.
+
+              Until the indirect referentialist identi es the intended disambiguation, he hasn’t told us what he believes the semantics of
+    (32) to be. Of course, (***) is the intended disambiguation—after all, (**) is what the direct referentialist believes the relevant                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462327
+
+    semantic rule to be. But supposing that (***) gives the semantics of (32), the proposition meant by that sentence coincides
+    precisely in respect of its proof-theoretic properties with the proposition that, according to the Theory of Descriptions, is
+    meant by that sentence. In fact, (***) is itself identical with the rule, that according to that theory, gives the semantics of (32).
+    So it is by no means easy to see any proof-theoretic differences between PTDand PIR; and, in light of that fact, it is not easy to
+see why, if the indirect referentialist is right, PIRis anything other than a quanti ed generalization.
+    McCawley writes (1971:23): ‘‘quanti ers [are] elements of logical structure that correspond to words like all, some, and
+    most, which say which or how many of some set of things have a given property.’’ So ‘‘no inventor of bifocals’’ is a quanti er
+    because the sentence ‘‘no inventor of bifocals is tall’’ answers the question ‘‘how many inventors of bifocals are tall?’’, and
+    ‘‘some inventor of bifocals’’ is a quanti er for the same reason (mutatis mutandis). In general, a quanti er is an expression
+    that, when embedded in a sentence, answers a question of the form ‘‘how many phi’s are psi’s?’’20If the indirect referentialist
+    is right, (32) is logically equivalent with the proposition: exactly one thing invented bifocals, and any such thing is tall. So, if
+    the indirect referentialist is right, then (32) answers two questions of the form ‘‘how many phi’s are psi’s?‘‘It answers the
+    question: ‘‘how many things are bifocal-inventors?’’ and it also answers the question ‘‘how many bifocal-inventors snored?’’
+    So if the indirect referentialist is right, ‘‘the inventor of bifocals’’ would seem, at the very least, to be quanti er-like in some
+  important respects, the same being true of every other de nite description.
+    What we are seeing is that, if the indirect referentialist is right, the semantics of ‘‘the inventor of bifocals’’ is, at the very least,
+    extremely similar to the semantics that the Russellian ascribes to it. We are also seeing that, if the indirect referentialist is right,
+    ‘‘the inventor of bifocals’’ is semantically very different from any instance of an expression that clearly refers to Benjamin
+    Franklin (e.g. ‘‘Benjamin Franklin’’ or a token of ‘‘that guy over there’’ that is accompanied by an ostension of Benjamin Franklin).
+    Of course, it would be an overstatement to say that clear-cut cases of reference have no signi cant similarities with cases
+    of indirect reference. But to the extent that there are such similarities, those same similarities are also found between clear-
+    cut cases of reference, on the one hand, and clear-cut cases of quanti cation, on the other. For that reason, those similarities
+    give no more weight to the position that de nite descriptions are devices of reference than they do to the position that they
+    are quanti ers. Given the open sentence ‘‘x snored’’,a complete sentence can be formed by replacing the variable with either
+    ‘‘Benjamin Franklin’’ or ‘‘the inventor of bifocals.’’ This fact is indeed consistent with the idea that ‘‘Benjamin Franklin’’ and
+    ‘‘the inventor of bifocals’’ are semantically similar. (If the variable were replaced with the word ‘‘and’’, the result would be
+    nonsense. This fact is obviously to be understood, at least up to a point, in terms of the semantics of the word ‘‘and.’’ By parity
+  of reasoning, the fact that a well-formed sentence results when ‘‘Benjamin Franklin’’ replaces the variable is to be
+    understood, at least up to a point, in terms of the semantics of ‘‘Benjamin Franklin.’’ More precisely, it is to be understood, up
+    to a point, in terms of the fact that the semantic job of ‘‘Benjamin Franklin’’ is to pick out some entity or other. Of course, it is
+  relevant in this context is that ‘‘Benjamin Franklin’’ pick out some entity or other; the exact identity of that entity is
+  irrelevant.) But this is not enough to show that (so-called) indirect reference really is reference. After all, a meaningful
+  sentence results if the variable is replaced with a quanti er (e.g. ‘‘some person’’). Taken as a complete utterance, the
+    expression ‘‘and snores’’ is meaningless. The reason is that ‘‘and’’ doesn’t combine with ‘‘snores’’ in the right way: it has the
+    wrong combinatorial properties—the wrong syntax, in other words. It doesn’t have the combinatorial-syntactic properties
+    had by, for example, ‘‘Benjamin Franklin.’’ And the reason that both ‘‘the inventor of bifocals snored’’ and ‘‘Benjamin Franklin
+    snored’’ are meaningful is that ‘‘the inventor of bifocals’’ and ‘‘Benjamin Franklin’’ do have similar combinatorial-syntactic
+    properties—the reason is not that they have the similar semantic properties. After all, ‘‘some man’’, no less than ‘‘Benjamin
+    Franklin’’, has the right syntactic properties (‘‘some man snored’’ is no less meaningful than ‘‘Benjamin Franklin snored’’).
+    And if Russell and Frege have taught us anything, it is that ‘‘some man’’ is semantically very different from any singular term.
+    Of course, ‘‘some man’’ is, in respect of itssyntacticproperties, similar to ‘‘Benjamin Franklin.’’ But reference is a semantic, not
+    a syntactic, relation: when you say that, for some x, ‘‘Benjamin Franklin’’ refers to x, you are making a statement about the
+    semantics of ‘‘Benjamin Franklin’’, and not (at least not primarily) about its syntax.
+    For the sake of argument, let us suppose in this paragraph that the indirect referentialist is right. Given what we said in the
+    preceding paragraph, it is clear that, while there are indeed similarities between ‘‘Benjamin Franklin’’ and ‘‘the inventor of
+    bifocals’’, comparable similarities are found to hold between ‘‘Benjamin Franklin’’ and various quanti ers (e.g. ‘‘some man’’,
+    ‘‘no person’’). For that reason, the existence of those similarities no more supports the claim that ‘‘the inventor of bifocals’’ is a
+    referring term than it supports the claim that it is a quanti er. Moreover, the similarities between ‘‘Benjamin Franklin’’ and
+
+20
+        Though basically right-headed, McCawley’s de nition of ‘‘quanti er’’ is both technically and substantively defective. First of all, quanti ers don’t say
+          anything and neither do their meanings (these being ‘‘elements of logical structure’’ to which quanti ers ‘‘correspond.’’) ‘‘Some man’’ doesn’t say anything;
+        and this is obviously due, at least in part, to the fact that its meaning, whatever that might be, is inherently incapable of being af rmed or denied. Rephrased
+        so as to be free of this defect, McCawley’s de nition of ‘‘quanti er’’ comes to this: A quanti er is an expression E such that, in virtue of having the form ‘‘. . .
+        E. . .", a sentence S answers a question of the form "how many phi’s are psi’s?" But this de nition, though close to the truth, falls just short of it. The sentence
+        ‘‘if no person is alive, then no person is happy’’ doesn’t say how many people are alive or how many people are happy and, more generally, it doesn’t answer
+        any question of the form ‘‘how many phi’s are psi’s? ‘‘? But it contains two sentences that answer that question, since it contains each of ‘‘no person is alive’’
+        and ‘‘no person is happy.’’ This suggests that a quanti er is an expression E such that, if E occurs in S, then S ipso facto contains a sentence that answers a
+      question of the form ‘‘how many phi’s are psi’s?’’. (The contained sentence could be S itself, identity being a limiting case of containment.)
+        This de nition, though an improvement on McCawley’s, still falls short, the reason being that it deals only with sentences in the indicative mood. The
+        sentence ‘‘are some people are happy?’’ doesn’t answer any question of the form ‘‘how many phi’s are psi’s?’’, since it doesn’t answer any question, given
+        that it is itself a question. But the proposition encoded in (though not af rmed by) that sentence does answer such a question, that proposition being: that
+        some people are happy. Thus, a quanti er is an expression E such that, if a sentence S contains E, S ipso facto encodes (though it doesn’t necessarily af rm) a
+  proposition that answers a question of the form ‘‘how many phi’s are psi’s?’’                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462328
+
+    ‘‘the inventor of bifocals’’ seem to be syntactic, not semantic, in nature. But given that reference is a semantic function, those
+    similarities don’t support the contention that ‘‘the inventor of bifocals’’ (supposing, as we momentarily are, that it is a device
+of indirect reference) is anything other than a quanti er.
+
+    5. Why indirect referentialism is committed to an incoherent semantic view
+
+              There is yet another reason to think that indirect reference (so-called) is identical with Russellian quanti cation—that,
+    more precisely, indirect referentialism is merely a confused version of Russellianism.
+              Remember that the essence of the indirect-referentialist’s position is as follows (it is to be supposed that O is the one and
+only object having property phi):
+          In virtue of having the form ‘‘. . .the phi. . .’’, a sentence S has for its meaning a proposition that has as one of its
+  constituents, not O itself, but rather some concept that O uniquely satis es, that concept being: unique instance of phi.
+              We know from Frege that, taken in conjunction with an extremely plausible semantic principle, indirect referentialism has
+    some extremely counterintuitive consequences. The principle in question is this: the meaning of a complex expression is a
+    function of the meanings of its constituents. This is known as the ‘‘principle of compositionality’’ (or simply ‘‘compositionality’’).
+    A related principle is that the referent of a complex referring term is a function of the referents of its constituents. We will refer to
+    this as ‘‘special compositionality.’’ Obviously compositionality and special compositionality are extremely plausible principles.
+              The indirect referentialist (unlike the Russellian) holds that ‘‘the inventor of bifocals’’ and ‘‘the  rst postmaster general’’
+  are referring terms and that, given certain facts about history, they therefore co-refer. As we’ve noted, if indirect
+referentialism is right, then:
+
+(36) ‘‘Fred believesthat the inventor of bifocals snored’’
+
+and
+
+(38) ‘‘Fred believes that the  rst postmaster general snored’’
+
+    differ in meaning and also (potentially) in truth-value. And supposing that the indirect referentialist is right about this, the
+reason is that the underlined part of (36) refers to a different proposition from the underlined part of (38).
+            Given only these points, the indirect-referentialist’s position seems plausible. But, as Frege noted, an implausible
+    consequence soon follows. (Because Frege was himself an indirect referentialist, he accepted this consequence.) For the sake of
+    argument, suppose that, as the indirect referentialist holds, the underlined part of (36) does not refer to the same proposition as
+    the underlined part of (38). Given special compositionality, it follows that the occurrence in (36) of ‘‘the inventor of bifocals’’
+  doesn’t co-refer with the occurrence in (38) of ‘‘the  rst postmaster general.’’
+              The reason that, if the indirect referentialist is right, the underlined parts of (36) and (38) do not co-refer is obviously that the
+    concept associated ‘‘the inventor of bifocals’’ is different from the concept associated with ‘‘the  rst postmaster general.’’ Given
+    special compositionality, it follows that the occurrence in (36) of ‘‘the inventor of bifocals’’ refers to theconceptwith which it is
+    associated (viz. the concept (unique)inventor of bifocals). For exactly similar reasons it follows that, if the indirect referentialist is
+  right, the occurrence in (38) of ‘‘the  rst postmaster general’’ refers to the concept (unique)  rst postmaster general.
+            Thus, if the indirect referentialist is right, the occurrence in (36) of ‘‘the inventor of bifocals’’ doesn’t co-refer with the
+  occurrence of that same expression in (32): the latter occurrence refers to Benjamin Franklin; the former refers to the
+    concept (unique) bifocal inventor. Given obvious extensions of this reasoning, it follows that, if the indirect referentialist is
+right, the occurrence of ‘‘the inventor of bifocals’’ in:
+
+(46) ‘‘it is true that the inventor of bifocals snored’’
+
+    does not refer to Benjamin Franklin and that it does refer to the concept (unique) bifocal inventor. It also follows that, if the
+  indirect referentialist is right, the occurrence of that same expression in:
+
+(47) ‘‘it is true that it is true that the inventor of bifocals snored’’
+
+  refers not to Benjamin Franklin, nor to the concept (unique) bifocal inventor, but rather to a concept of that concept.
+              Of course, it is intuitively very hard to believe that, in (36), the inventor of bifocals doesn’t refer to the inventor of bifocals.
+    And it is very hard to believe that, in (47), ‘‘the inventor of bifocals’’ doesn’t co-refer with its homonym ineither(36) or (32).21
+            But I believe that, in addition to being implausible, it is incoherent to suppose that de nite descriptions undergo
+    reference-shifts of the kind just described. The reason for this is can be understood in terms of the Theory of Descriptions. As
+we’ve discussed, the heart of that theory is that:
+
+21
+        Cf. Davidson (1968:360): ‘‘Since Frege, philosophers have become hardened to the idea that content sentences in talk about propositional attitudes may
+        strangely refer to such entities as intensions, [and] propositions. . .. . .If we could but recover our pre-Fregean semantic innocence, I think it wouldbe
+        plainly incredible that the words ‘the earth moves,’ uttered after the words ‘Galileo said that,’ mean anything other than is their wont when they come in
+        other environments.’’ Quoted in Barwise and Perry (1983:392). Elsewhere (Davidson, 1980:Chapter 2), Davidson argues (cogently, in my opinion) that
+Frege’s view is inconsistent with the fact that languages are learnable.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462329
+
+          (TD) In virtue of having the form ‘‘. . .the phi. . .’’,a sentence has for its meaning the proposition something O
+  uniquely has phi and. . .O. . .or, if that not exact proposition, then some other, logically equivalent, quanti ed
+generalization.
+
+            One virtue of the Theory of Descriptions is that there is some one rule (namely TD) such that, given any occurrence of a
+    given de nite description, the semantics of that occurrence is given by that rule. So, for example, Russell’s theory has the
+    virtue that there is some one rule such that the semantics of the occurrence of ‘‘the inventor of bifocals’’ in each of (32), (36),
+(46), and (47) is given by that rule.
+  Before we proceed, there is a nuance that we must address. Let S be a sentence that contains an occurrence of ‘‘the phi’’
+    and suppose that, in S, ‘‘the phi’’ occurs within the scope an operator that forms molecular sentences out of atomic ones. In
+    that case, (TD) assigns (at least) two different meanings to S and Russell’s theory thus says that S is ambiguous between those
+    two meanings. For example, as we’ve discussed, if Russell’s theory is right, then (36) is ambiguous between (36WS) and
+    (36NS). But this doesn’t mean that, if Russell’s theory is right, there is not some one rule in terms of which the semantics of
+    occurrences of de nite descriptions can be understood. On the contrary, it means that there is such a rule—albeit one that
+sometimes assigns multiple meanings to a given sentence.
+  In light of these points, let us turn our attention back to indirect referentialism. We’ve seen that, if that doctrine is right,
+  then ‘‘the inventor of bifocals’’ refers to one thing in (32), a second thing in (36), a third thing in (47), and so on.
+    Let us now take the next, and  nal, step in our argument. If indirect referentialism is right, then given any occurrence O of
+    ‘‘the inventor of bifocals’’ in any sentence S, there is somesinglerule saying how S’s truth-conditions are affected by virtue of its
+    containing O. Permit me to clarify this. As we’ve noted, if indirect referentialism is right, then in virtue of having the form ‘‘. . .the
+    phi. . .’’ a sentence S has the conceptphias a constituent and, further, S is true just in case something O uniquely instantiatesphi
+    and. . .O. . . So, for example, if indirect referentialism is right, then (32) is true just in case something O uniquely instantiates the
+  concept bifocal inventor and O snores. Thus, the heart of the indirect-referentialist’s position is given by the rule:
+
+  (IR) In virtue of having the form ‘‘. . .the phi. . .’’,a sentence has for its literal meaning a proposition that is true just in
+case something O uniquely has phi and, moreover,. . .O. . .
+
+  Of course, if (IR) is a correct characterization of the semantics of de nite descriptions, then some sentences containing
+  de nite descriptions are, in virtue of that fact, ambiguous. For example, (36) would be ambiguous between two
+    propositions—one of them logically equivalent with (36WS), the other logically equivalent with (36NS).22But (to echo what
+  we said a moment ago) this doesn’t mean that, if indirect referentialism is correct, there is not some one rule in terms of
+    which the semantics of any occurrence of a de nite descriptions is to be understood. On the contrary, it means that there is
+such a rule (namely, IR)—albeit one that sometimes assigns multiple meanings to a given sentence.
+    So if indirect referentialism is right, there is some one rule that correctly characterizes the semantics of the occurrence of
+    ‘‘the inventor of bifocals’’ in (32), and that also correctly characterizes the semantics of the corresponding occurrences in
+    (36), (46), and (47). A consequence is that ‘‘the inventor of bifocals’’ is, from a semantic viewpoint, doing the same thing in all
+    of those sentences. In general, supposing that indirect referentialism is correct, then given any occurrence O of any de nite
+    description in any sentence S, O’s effect on the truth-conditions of S are to be understood in terms of IR: no matter where ‘‘the
+    phi’’ occurs in a sentence—no matter how great the number of operators within whose scope that occurrence falls—IR tells
+    you how that sentence’s truth-conditions are affected by its containing that occurrence. A consequence is that (supposing
+    that indirect referentialism is correct) any two occurrences of a given de nite description are, from a semantic point of view,
+    doing precisely the same thing, even if one of them falls within the scope of a greater number of operators than the other.
+  Now we can close the argument. We have seen (and Frege himself made it clear) that, if indirect referentialism is right,
+    de nite descriptions are ambiguous—that, for example, ‘‘the inventor of bifocals’’ refers to one thing in (32), a different thing
+  in (36), a third thing in (47), and so on. But we have just seen that, if indirect referentialism is right, then ‘‘the inventor of
+    bifocals’’ is, semantically speaking, doing the same thing in every one of those sentences. That expression has the same effect
+  on the truth-conditions of (32) that it has on (36) and on (47) and also on:
+
+(48) ‘‘it is true that Fred believes that Mary doubts whether the inventor of bifocals snored.’’23
+
+    Thus, if indirect referentialism is right, then a given expression can, from a semantic viewpoint, do the exact same thing in two
+    different contexts while referring to different objects in those contexts. This has the consequence that the semantic facts don’t  x
+
+22
+        The indirect referentialist obviously cannot say that the propositions that, in his view, are meant by (36) are identical with either (36WS) or with (36NS),
+        or indeed with any other quanti ed generalization. For the essence of his position is that de nite descriptions are referring terms, not quanti ers. But, as
+        we’ve observed, the indirect referentialist holds that, nonetheless, the propositions meant, in his view, by (36) are logically equivalent with quanti ed
+generalizations of the kind just described.
+23
+        Of course, no two of those sentences have the same meaning. But that isn’t because, semantically, ‘‘the inventor of bifocals’’ is doing different things in
+        those sentences. It is, on the contrary, because it is doing the same semantic work in all of those sentences despite the shifts in the verbiage  anking it. Here
+        is an illustration of the principle at work here. The word ‘‘Tom’’ has the same meaning in both ‘‘Tom is tall’’ and ‘‘Tom is lonely.’’ Of course, those two
+        sentences have different meanings. But it would be absurd to conclude on that account that the semantics of ‘‘Tom’’ in the one sentence wasn’t identical
+        with its semantics in the other. The right conclusion is obviously that ‘‘Tom’’ is doing the same semantic job in both cases but that, because it is doingthat job
+          in two different environments, the resulting sentence-meanings also differ. What we just said about ‘‘Tom’’ vis-a`-vis those two sentences holds with respect
+  to ‘‘the inventor of bifocals’’ vis-a`-vis sentences (32), (36), (47) and (48).                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462330
+
+    the referential facts: two expression-occurrences can be semantically identical but referentially distinct. But, given that
+    reference is a semantic function par excellence, that amounts to the absurd view that the semantics of an expression can
+change without changing.
+
+6. Reference versus quanti cation (revisited)
+
+              There is some object O (such that O is identical with Benjamin Franklin) such that ‘‘Benjamin Franklin’’ refers to O. What
+    does this mean? Part of what it means is that (given what the remaining semantic rules of English are) if you wish to attribute
+  property phi to O, one viable way of doing so is to say: ‘‘Benjamin Franklin has phi.’’ Surely it would be absurd to say that
+    ‘‘Benjamin Franklin’’ referred to O but that ‘‘Benjamin Franklin has phi’’ didn’t attribute phi to O. So for ‘‘Benjamin Franklin’’
+  to refer to O, it is surely necessary that sentences of the form ‘‘Benjamin Franklin has phi’’ attribute phi to O. It is also
+    suf cient. Suppose (what is in fact true) that, in virtue of having the form, ‘‘Benjamin Franklin has phi’’ a sentence attributed
+    phi to O. It is hard to see how, under that circumstance, it could be denied that, at least in the context of a sentence having the
+form just described, ‘‘Benjamin Franklin’’ referred to O.
+              Of course, these points don’t constitute an exhaustive analysis of the concept of reference. But they give some weight to
+    the idea (implicit in the work of Frege (1956, 1974) and Tarski (1983), and explicitly stated by Dummett (1973), Tughendat
+  (1970), and others) that for E to refer to O is for it to be the case that occurrences of E have certain effects on the truth-
+    conditions (or meanings) of sentences comprising those occurrences. (More precisely, for E to refer to O is for it to be the case
+  that, in virtue of having the form ‘‘. . .E. . .’’,a sentence says that:. . .O. . .In other words, it is for it to be the case that, in virtue
+  of having that form, a sentence attributes to O the property of being a thing x such that. . .x...) If this plausible idea is at all
+    correct, then whether an occurrence of an expression refers to some object is  xed, at least in part, by how that occurrence
+    affects the truth-conditions (or meanings) of the sentences which comprise it. We’ve seen that, if indirect referentialism is
+    correct, then two expression-occurrences can have the very same effect on the truth-conditions of their host-sentences and
+    yet refer to completely different things. Thus, if indirect referentialism is correct, what an expression refers to is independent of
+  what it is doing semantically, and reference therefore isn’t  xed by semantics. But, to echo what we said earlier, such a
+        position borders on absurdity, given that nothing is more distinctively semantic than reference.
+              Notice how similar (IR) is to (TD). This is consistent with our point that indirect referentialism is really just a form of Russell’s
+    Theory of Descriptions. But Russell’s theory has a distinct advantage over indirect referentialism. Russell’s theory denies that
+    ‘‘the inventor of bifocals’’ is a referring term. So Russell’s theory is not required by special compositionality to hold that ‘‘the
+    inventor of bifocals’’ refers to one thing in (32), a second thing in (36), and so on. (After all, special compositionality concerns
+    referring terms, not non-referring terms such as quanti ers.) And because it denies that de nite descriptions refer, Russell’s
+    theory doesn’t have the implausible consequence that two expressions that are semantically doing the same thing can
+    nonetheless have different referents. By contrast, indirect referentialism implausibly says that each de nite description is
+    ambiguous (in nitely ambiguous, in fact, given that there is no limit to the number of operators in whose scope an occurrence of
+    a de nite description can fall). And indirect referentialism also demands (incoherently, we have argued) that two expression-
+occurrences can be identical in their semantic properties while differing in their referential properties.
+            We’ve seen that, if Russell’s theory is correct, de nite descriptions are not referring terms and, consequently, the
+    (putative) difference in truth-value between (e.g.) (5) and (6) is consistent with extensionality. We’ve also seen that indirect
+    referentialism is not substantially different from Russell’s Theory of Descriptions and that, to the limited extent that those
+    doctrines are different, indirect referentialism is an implausible and arguably incoherent one. Thus, even though it is true
+    that, if indirect referentialism were correct, intersubstitutions of co-referring terms would change meaning and truth-value,
+that fact does not threaten extensionality.
+
+6.1. Indirect referentialism a con ation of several distinct notions
+
+            The idea that de nite descriptions are devices of indirect reference is an incoherent synthesis of a number of otherwise
+    estimable views. The semantics of ‘‘the king of France is bald’’ is obviously such that an utterance of that sentence is true just
+  in case, at the time of utterance, there is exactly one king of France x and, moreover, x be bald. So anyone who knows the
+    semantics of that sentence, i.e. anyone who understands it, knows that an utterance of it is true just in case the same holds of
+  the italicized proposition, a consequence being that such an utterance communicates that proposition. In general, an
+  utterance of ‘‘. . .the phi. . .’’ communicates a proposition that is true just in case the concept (or property) phi is uniquely
+  instantiated by some object O and...O. . .And this fact about what such utterances communicate obviously has a semantic
+    basis. Given only these facts, it seems reasonable, if not positively de rigueur, to take the view that what is literally meant by
+    such an utterance is equivalent with an existence-claim of the kind just described. And given that view, it readily follows
+  that, in virtue of having the form of ‘‘. . .the phi. . .’’,a sentence has for its literal meaning a proposition having as a
+  constituent the property phi. It follows, for example, that (32) has for its literal meaning a proposition having as a
+  constituent, not Benjamin Franklin himself, but rather some property (or concept) that he uniquely instantiates.
+            Then there is the fact that de nite descriptions seem very much to be devices of reference. It is hard to believe that ‘‘the
+        number that is identical with two’’ (or simply ‘‘the number two’’) doesn’t refer to the number two.
+          The facts described in the second to last paragraph seem to rule out direct referentialism. The fact described in
+    the paragraph just before this one rules out Russell’s Theory of Descriptions. Out of the three possibilities as to what de nite                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462331
+
+    descriptions could be—devices of direct reference, devices of indirect reference, and quanti ers—only the second seems to
+  be on the right side of the points made in the last two paragraphs. Indirect referentialism thus seems to be a highly
+reasonable semantic position.
+            But we saw that, so far as it isn’t incoherent, indirect referentialism collapses into Russell’s theory. This shows that
+    there must be a non-sequitur in the argument just presented. Given what we said earlier, that non-sequitur is not to hard
+  to identify. Let S be an arbitrary sentence of the form ‘‘. . .the phi. . ..’’ While it is true that S communicates a proposition
+  of the kind earlier described, and while it is true that this fact has a basis in the semantics of that sentence, it doesn’t
+    follow such a proposition is what is literally meant by S. For argument’s sake, suppose that (as Strawson (1950) held), the
+  semantic rule for S is this: If something O uniquely has phi, then what is literally meant by S is:...O. . .In that case, as we
+  saw, S will communicate a proposition equivalent with the one that the indirect referentialist believes to be S’s literal
+    meaning, even though what is actually meant by S will not be that proposition or even one equivalent therewith. Once it
+    is taken into account that, in order to understand a given sentence, one must work through the semantic rules that assign
+    it meaning, it becomes possible to accommodate the pretheoretic intuition that de nite descriptions are referring terms
+  (that, for example, ‘‘the number two’’ refers to two), while also accommodating the relevant facts about what is
+  communicated by sentences of the form ‘‘. . .the phi. . .’’ Once pre-semantics is given its due, indirect referentialism
+  proves to be both unnecessary and indefensible. Unnecessary—because the relevant data can be modeled without it.
+  Indefensible—because it has consequences that violate basic principles of logic (e.g. ‘‘expressions that have the very
+    same semantic properties (and that must therefore co-refer) may fail to co-refer’’)24
+
+7. Quantifying in
+
+The following sentence certainly seems to be meaningful:
+
+(49) ‘‘John believes that Hesperus is lovely.
+
+This sentence seems to entail:
+
+(50) ‘‘There is some x such that John believes that x is lovely.’’
+
+    But Quine (1953) says that, even if (49) is true, (50) is not true and, indeed, that (50) is meaningless and is thus neither true
+    nor false. Quine says that, in general, sentences which involve ‘‘quantifying into’’ epistemic contexts are meaningless. Why
+does he think this?
+    Suppose for argument’s sake that (50) is meaningful. In that case, the open sentence ‘‘John believes that x is lovely’’ is true
+  for some values of x and false for others. We can produce a closed sentence of that form by replacing the variable with a
+  referring term. Presumably, such a closed sentence is true just in case the expression that we substitute for the variable
+    denotes an object having the attribute expressed by ‘‘John believes that x is lovely.’’ Obviously ‘‘Hesperus’’ denotes such an
+    object. Since ‘‘Hesperus’’ denotes such an object, so does ‘‘Phosphorous’’, given that those expressions co-refer.25Therefore, if
+(49) is true, then the following must also be true:
+
+(51) ‘‘John believes that Phosphorous is lovely.’’
+
+    So if (50) is meaningful, then (49) entails (51). But, says Quine, (49) does not entail (51). After all, Quine plausibly says, (49)
+    and (51) might differ in truth-value. Thus, if we grant that (50) is meaningful, then a true sentence, namely (49), entails a
+  false one, namely (51). We must therefore conclude that (50) is not meaningful and that, in general, quantifying into
+epistemic contexts results in meaninglessness.
+  But, contrary to what Quine says, (50) very much does seem to be meaningful, and it is not hard to identify the fallacy in
+    Quine’s argument. We have seen that, contrary to what Quine assumes, (49) does entail (51). After all, there is some x (such
+    that x is identical with Venus and is therefore identical with each of Hesperus and Phosphorous) such that both sentences
+  encode the proposition: x is lovely. We have also seen why, that fact notwithstanding, (49) and (51) may communicate
+propositions that differ in truth-value.26
+
+
+
+24
+    I believe that Kaplan (1989b:560) had in mind points similar to these when he wrote:
+        Fregean sinn con ates elements of two quite different notions of meaning. One, which I called character, is close to the idea of linguistic meaning (and
+        perhaps of cognitive content). Another, which I call content, is what is said by an expression in a particular context of use. The content of an utterance of a
+        complete [sentence-token] is a truth-bearing proposition. Where indexicals are involved, the difference between character and content is quite clear.
+25
+        Quine does not, at least not in this context, adopt the Fregean view that ‘‘Hesperus’’ and ‘‘Phosphorous’’ refer to their respective senses, and thus don’t
+co-refer, in epistemic and modal contexts.
+26
+        Kaplan’s (1968) alterative to Quine’s analysis depends on the assumption, shown by Kripke (1980) to be false, that names are synonymous with de nite
+          descriptions.Kaplan’s (1986)attempt to produce a Kripke-friendly alternative to Quine’s analysis is not only false but also incoherent, since an essential part
+of it is the tautologically false contention that extensional contexts are substitution-intolerant.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462332
+
+7.1. The Smullyan–Quine debate
+
+              Quine believes that modal concepts (e.g. the concept of necessity) are incoherent and that the use of modal connectives (e.
+    g. ‘‘necessarily’’) therefore has no place in coherent discourse. Consider the sentence:
+
+(52) ‘‘necessarily, 9 is larger than 7.’’
+
+    There is little doubt that, if it is meaningful, (52) is true. Supposing that (52) is in fact true, that is because 9 has the property
+expressed by the open sentence:
+
+(53) ‘‘necessarily, x is larger than 7.’’
+
+    Presumably, a true sentence results if we replace the variable with any expression (of English) that co-refers with ‘‘9.’’ But
+this is not the case, given that
+
+(54) ‘‘necessarily, the number of planets is greater than 7’’
+
+is a false sentence that results from just such a substitution.
+            This argument, it is clear, coincides with, and therefore involves the same fallacy as, Quine’s argument concerning
+quanti cation into opaque contexts.
+              Like us, Raymond Smullyan (1953) holds that Quine’s argument is fallacious and that modal statements are meaningful.
+    But Smullyan’s argument does not coincide with ours. A believer in Russell’s Theory of Descriptions, Smullyan holds that
+    de nite descriptions are quanti ers and that (54) is therefore not what results when a referring term in (52) is replaced with
+    a co-referring term. Given his acceptance of Russell’s position, Smullyan is bound to say, and does say, that (54) is ambiguous
+  between wide-scope and narrow-scope readings, these being, respectively:
+
+      (54WS) There is some number x such that there are x planets, and necessarily x is greater than 7,
+
+and
+
+      (54NS) Necessarily, there is some number x such that there are x planets and x is greater than 7.
+
+  Of course, (54WS) is true and (54NS) is false, and it thus ceases to be a mystery why (on at least one reading) (54) differs in
+truth-value from (52).
+            Wreen (1974) rejects Quine’s counterintuitive view that modal expressions are categorically meaningless. Because
+    Wreen also rejects the Theory of Descriptions, he rejects Smullyan’s analysis, and he proposes the following alternative to the
+    latter. We must distinguish between two kinds of reference, direct and indirect. (Wreen uses the term ‘‘attributive’’, instead
+      of ‘‘indirect.’’) If the de nite description in (54) is read referentially, then (54) means simply:
+
+(54DR) necessarily, 9 is greater than 7.
+
+  If the de nite description in (54) is read attributively, then (54) means (or, in any case, is logically equivalent with):
+
+        (54AR) necessarily, whatever the number of planets happens to be, that number is greater than 7.
+
+  (54DR) is true and (54AR) is false, showing why, on at least one of its readings, (54) differs in truth-value from (52).
+              Can Wreen’s analysis be accepted? We have seen that indirect (so-called) reference is really quanti cation, so far as the
+    concept of indirect reference is a coherent one. Since, according to Wreen’s analysis, de nite descriptions are not quanti ers
+  and are devices of indirect bona  de reference, it follows that Wreen’s analysis is incoherent. It also follows that, so far as
+  Wreen’s analysis is coherent, it isn’t meaningfully different from Smullyan’s, contrary to what Wreen himself says.
+            There is another problem with Wreen’s analysis. If Wreen is right, de nite descriptions are semantically ambiguous
+    between (direct) referential and attributive meanings. But in light of a persuasive argument given by Kripke (1977b), this is
+    probably not the case. The word ‘‘dumb’’ is clearly ambiguous. For this reason, says Kripke, we’d expect there to be languages
+    L such that the L-translation of ‘‘dumb’’ (incapable of speaking) differed from the L-translation of ‘‘dumb’’ (unintelligent).
+    Kripke is right—there are many such languages. In general, translations do not, at least not categorically, preserve semantic
+    ambiguities: translations tend to disambiguate semantically ambiguous expressions.27So if an expression of one language is
+    semantically ambiguous, it is probably not the case that, in each other language, that expression is translated by some one,
+    comparably ambiguous expression. Thus, if (54) were semantically ambiguous in the way required by Wreen’s analysis, we
+    would expect there to be a language L such that the L-translation of (54), read de re, was different from the L-translation of
+
+27
+        Of course, semantic ambiguities are sometimes preserved by translations. The Spanish translation of ‘‘bank’’ is ambiguous in the same way as that
+    English expression. But there are many languages in which there is no one word meaning both river’s edge and  nancial institution.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462333
+
+    (54), read de dicto. But, Kripke concludes, he seriously doubts whether there is such a language. Again, Kripke is right: as a
+    matter of empirical fact, there is no language satisfying the condition in question.28Given any language L, the L-translation of
+(54) is ambiguous in exactly the same way as (54), suggesting that (54) is not semantically ambiguous.
+    Most importantly, given the points made in section5, there is noneedto suppose that de nite descriptions are ambiguous
+  in the way that Wreen proposes—no need to suppose that (54) is semantically ambiguous between de re and de dicto
+    readings. We may suppose that ‘‘the number two’’ refers to the number two and that, in general, de nite descriptions are
+  exactly what they appear to be: singular terms. Given this, the facts about cognitive signi cance—about what is
+    communicated by (54) and by other sentences containing de nite descriptions—can be explained entirely in terms of the
+processes in which we must engage to compute literal meaning.
+
+8. Kripke’s Pierre-paradox
+
+    Kripke (1970) identi ed an important puzzle through the following clever thought-experiment. Pierre grows up in Paris. He
+    speaks only French and not a word of any other language. He’s seen French movies, and read French books, about London. On the
+    basis of this information, plus his knowledge of the French language, he rationally comes to assent to the French sentence:
+
+(55) ‘‘Londres est jolie.’’
+
+  Of course, Pierre understands (i); he knows what it means. And given the information at his disposal, he is quite right to
+assent to it.
+The English translation of (55) is
+
+(56) ‘‘London is pretty.’’
+
+Of course, both sentences encode the proposition:
+
+(57) London is pretty.
+
+    One day, Pierre is kidnapped. His kidnappers keep him hostage in a rundown, ugly part of London. Pierre learns English. But he
+    learns it not by having English sentences translated into his native French, and instead learns it as one learns a  rst language.
+    On the basis of the information available to him, plus his newly acquired knowledge of English, Pierre comes to assent to
+the English sentence:
+
+(58) ‘‘it is not the case London is pretty.’’
+
+Pierre understands (58). And given the information at his disposal, he rationally assents to it.
+    Here is the problem. Pierre rationally assents to (55). He also rationally assents to (58). But the proposition semantically
+    encoded in (55) is the negation of the proposition encoded in (58). So Pierre assentsbothto a propositionandits negationand
+he is not in the slightest bit irrational.
+    But how is this possible? After all, to be irrational just isto countenance some inconsistent set of propositions. In any case,
+this is the age-old presumption.
+    Further, we cannot use the sense/reference distinction to solve the problem. Being translations of each other, ‘‘London’’
+  and ‘‘Londres’’ cannot differ in sense. So even if Frege’s semantics is correct, it won’t solve the problem. And being
+    translations of each other, ‘‘London’’ and ‘‘Londres’’ cannot differ in quanti cational content. So even if Russell’s semantics is
+    correct, this won’t solve the problem. Kripke has thus shown that, even if Frege’s views and Russell’s views concerning the
+semantics of proper names are correct, this does not settle the problems those views are meant to settle.
+            More importantly in the present context, Kripke has also identi ed an important puzzle: Pierre rationally assents to
+  sentences that he correctly understands and that negate each other. I would now like to show that some of our earlier
+remarks might give us some insight into how to solve this puzzle.
+  The semantic value of each of ‘‘London’’ and ‘‘Londres’’ is London. In other words, each expression refers to directly to
+    London, and neither therefore has any semantic content not had by the other. But, for reasons that we’ve already considered
+    in connection with (7) and (9), the meaning of ‘‘London’’ must begivento Pierre through some proposition that is descriptive.
+    Under the circumstances described, that proposition is along the lines of: there is some awful place x, such that I currently
+  imprisoned in x and such that, in x, there is rotting garbage in the streets; moreover, ‘‘London’’ is the English label for x.
+  So even though, at the level of semantics, ‘‘London’’ means only London, and has no descriptive content (or, any rate, no
+    descriptive content not equally had by ‘‘Londres’’29), nonetheless what ‘‘London is pretty’’ communicates to Pierre is along
+the lines of:
+
+28
+        In any case, this is what I was told by three distinguished linguists Tim Stowell (University of California, Los Angeles), Susanne Cummins (Universityof
+    California, Santa Barbara), and John Du Bois (University of California, Santa Barbara).
+29
+        I insert this parenthetical quali cation because some case could be made that each of ‘‘London’’ and ‘‘Londres’’ has for part of its semantic content a
+        sortal concept, this being the concept city or spatiotemporal object or some such. But – and this is the point of the parenthetical remark—both expressions
+encode precisely the same sortal information.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462334
+
+  (59) there is an awful place x such that I am currently imprisoned in x, and such that there is rotting garbage in x’s
+      streets, and such that the occupants of x are surly; moreover, x is pretty.
+
+    By exactly similar reasoning, what ‘‘Londres est jolie’’ communicates to Pierre (not what it semantically encodes) is along the
+lines of:
+
+  (60) there is a wonderful place x such that that I’ve read about x on thus and such occasions, and such that, in x, there
+      are Beefeater guards as well as a big clock-tower; moreover, x is pretty.
+
+  To close the argument, we must deal once again with a subtlety relating to scope. Suppose Pierre hears somebody say
+  ‘‘London is pretty.’’ Pierre violently recoils: ‘‘No! It is not the case that London is pretty!’’ We’ve agreed that, under the
+    circumstances described, (59) is the proposition that ‘‘London is pretty’’ communicates to Pierre. But this leaves it open what
+    ‘‘it is not the case that London is pretty’’ communicates to him. For we can give the negation-operator either wide or narrow-
+scope. The wide-scope reading is:
+
+  (61) it is not the case that: there is an awful place x such that I am currently imprisoned in x, and such that there is
+              rotting garbage in x’s streets, and such that the occupants of x are surly; moreover, x is pretty.
+
+The narrow-scope reading is:
+
+  (62) there is an awful place x such that I am currently imprisoned in x, and such that there is rotting garbage in x’s
+              streets, and such that the occupants of x are surly; moreover, it is not the case that x is pretty.
+
+    It is clear that, under the circumstances, (62) is more likely than (61) to be the proposition that Pierre associates with ‘‘it is not
+    the case that London is pretty.’’ After all, Pierre doesn’t deny that there is an awful place x such that the people in x are surly
+(and so on)—what Pierre denies is that x is pretty.
+            But here is the main point. The conjunction of (60) and (62) is not a self-contradiction, and neither, for that matter, is the
+    conjunction of (60) and (61). The proposition that Pierre associates with ‘‘Londres est Jolie’’ is (60), and the proposition that
+    he associates with ‘‘it is not the case that London is pretty’’ is either (61) or (62). Given what the propositions are that, under
+    the circumstances in question, Pierre associates with ‘‘Londres est jolie’’ and ‘‘London is not pretty’’, he is obviously in no way
+  guilty of self-contradiction in virtue of accepting both of them. We don’t need to posit ‘‘propositional guises’’ or other
+    dubious entities to understand what is going on.30We don’t deny that ‘‘London is pretty’’ and ‘‘Londres est jolie’’ have the
+  same literal meaning. And we don’t reject the age-old view that assenting to inconsistent propositions constitutes
+  irrationality. After all, (62) is not inconsistent with (60), and neither is (61).
+              At  rst, Kripke’s story seems to make it de rigueur to jettison, or at least qualify, the deeply entrenched presumption that,
+    given an arbitrary object x and an arbitrary property phi, the proposition x has phi and x does not have phi, is analytically false
+    and therefore such that it cannot be rationally accepted.31Fortunately, it isn’t necessary to qualify that presumption, let
+  alone jettison it. All that is necessary, we have seen, is to give due weight to the fact that the information through which
+    Pierre assigns meaning to the sentence ‘‘London is pretty’’ differs from the information through which he assigns meaning to
+the sentence ‘‘Londres est Jolie.’’
+            According to Nathan Salmon, however, Kripke’s parable does show that, under at least some circumstances, it is
+  rational to accept the proposition xhasphiandxdoesnothavephi.32Given that phi may be the property of not being
+    identical with x, a consequence of Salmon’s view is that the information at a given person’s disposal may give that person
+  as much reason to accept the proposition that x6¼x as it does to accept the proposition that x=x. Salmon duly accepts this
+    consequence. Given the presumption that x=x has an epistemic probability of 100%, a consequence of this consequence is
+  that there do exist objects that are not self-identical. True to his own premises, Salmon duly holds that, indeed, there do
+  exist objects that aren’t self-identical. Supposing Salmon to be right about this, and supposing the principles of logic to
+    be correspondingly revised, it’s hard to see on what grounds one could deny the existence of square circles, even primes
+    greater than two, or of anything else that (relative to pre-Salmonian logic) quali es as a ‘‘surd’’, to use the medieval term.
+
+30
+        Of course, the term ‘‘propositional guise’’ is not dubious if it refers to the existential information through which, according to my theory, one grasps
+singular propositions.
+31
+        Priest (2006) holds that there is (at least) one object (namely, the set of all sets that aren’t members of themselves) that both has and doesn’t have
+        (at least) one property (namely, the property of being a member of itself). He believes this position to be a consequence of Russell’s paradox. And many, e.g.
+        Parsons (2000), hold that some propositions are neither true nor false, being instead ‘‘indeterminate.’’ But it is generally presumed that setting aside issues
+        relating to vagueness and to Russell’s paradox (and other, similar antinomies), the proposition x has phi and x does not have phi is, for all objects x and all
+properties phi, analytically false.
+32
+        See Salmon (2007), especially the paper titled ‘‘Irrational Belief’’, which was originally published in 1989. Also see Salmon (2005), especially the papers
+          titled ‘‘Existence’’ and ‘‘Non-existence.’’ Even though his own parable might seem to demand acceptance of it, Kripke shies away from this position.Kripke’s
+        own response to his own parable is to suggest, very tentatively, that it reveals a ‘‘breakdown’’ in the ‘‘apparatus of propositions.’’ He makes this point in a
+          brief, heavily disclaimed footnote in Kripke (1977a). Nowhere in that work, or any of his other published works, does Kripke clarify or otherwise engage this
+interesting but obscure statement of his.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462335
+
+  Once again, Salmon is true to his own premises, and duly holds that there do exist square circles, even primes, greater
+than two, etc.33
+    Overlooking the existence of the pre-semantic implicatures that we have been examining, Salmon assumes that, setting
+    aside the post-semantic implicatures studied by Grice, what sentence-tokens literally mean is in lockstep with what they
+    convey. (‘‘Presemantic implicature’’=DFa deviation between literal and communicated meaning that results from the
+    in uence of the information on the basis of which one  gures out what is literally encoded in the expression-tokens that one
+    encounters. ‘‘Post-semantic implicature’’=DFa deviation between literal and communicated meaning that results from the
+    interaction of an already ascertained literal meaning with facts about the context.) These being his starting assumptions,
+    Salmon is indeed left with no choice but to take the deeply revisionist view that x6¼x is no less coherent a proposition than
+    x=x, and he is therefore left with no choice but to accept the consequences of this view. Fortunately, such revisions of deeply
+    entrenched principles of logic—principles that, it may reasonably be conjectured, underlie all inquiry (including, ironically,
+    the very inquiries that led Salmon to repudiate them)—prove to be quite unnecessary, given the hum-drum fact that, to know
+  what is semantically encoded in the words they use, people must sometimes exploit information that is, in and of itself,
+semantic.
+
+9. Modality
+
+        In these post-Kripke (1980) days, arguments like the following (in boldface) are widely seen as cogent:
+
+  (EP) Given only that the proposition Hesperus is lovely is true, it is nonetheless epistemically possible that the
+proposition Phosphorous is not lovely is true.
+
+A closely related claim is that:
+
+(NE) The proposition Hesperus is lovely doesn’t entail the proposition Phosphorous is lovely
+
+    At the same time, given that Hesperus is Phosphorous, it is impossible that one could be lovely if the other were not.
+    So while it is epistemically possible that Hesperus is lovely should differ in truth-value from Phosphorus is lovely—in
+  other words, while it is possible given only what we know—it is not actually or, as it is usually put, metaphysically
+possible. Thus:
+
+  (MI) given the truth of Hesperus is lovely, it isn’t metaphysically possible that Phosphorous is lovely should be
+false (even though it is epistemically possible).
+
+    Thus, there is a distinction between epistemic and metaphysical possibility and, therefore, between epistemic and
+metaphysical necessity.
+
+  I wish to show that, in light of some remarks earlier made, we have reason to question the cogency of this argument and,
+  more speci cally, to question at least some (though not necessarily all) of the reasons adduced in favor of the view that
+  metaphysical and epistemic necessity do not coincide. Consider the sentences (as opposed to the propositions):
+
+(63) ‘‘Hesperus is lovely.’’
+(64) ‘‘Phosphorous is lovely.’’
+
+    There is some object O (such that O is identical with the planet Venus) such that ‘‘Hesperus’’ and ‘‘Phosphorous’’ both label O
+    and such that those expression do nothing but label O. (So, at the level of semantics, those expressions do not bear Fregean
+    senses and they aren’t Russellian quanti ers.) In terms of their semantics, (63) and (64) must therefore be synonymous, as
+each must have for its literal meaning the proposition:
+
+(65) O is lovely.
+
+Thus (EP) amounts to the following claim:
+
+    (EP*) given only that O is lovely is true, it is epistemically possible that O is not lovely is true.
+
+But (EP*) is obviously false.
+          We’ve seen that, in virtue of having the form ‘‘. . .Hesperus. . .’’,sentences typically communicate (as opposed to
+    semantically encode) existence claims, the same being true of sentences having the form ‘‘. . .Phosphorous. . .’’ And we’ve
+
+33
+        Salmon argues for this in his paper ‘‘Mythical Objects’’, which was originally presented at a series of talks that Salmon gave in 2001 and is included in
+Salmon (2005).                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462336
+
+  also seen that what those existence-claims are is a function, not only of what these terms refer to, but also of what the
+    circumstances are in which one is told what they refer to.34It follows, as we have seen, that ‘‘Phosphorous is lovely’’ might
+communicate some proposition along the lines of:
+
+(66) there is some object x such that x is uniquely a last celestial body to disappear from the morning sky;
+moreover, x is lovely,
+
+      and that ‘‘Hesperus is not lovely’’ might communicate some proposition along the lines of:
+
+  (67) there is some object y such that y is uniquely a  rst celestial body to appear in the evening sky; moreover, y is not
+lovely.
+
+    Obviously it is epistemically—and also, for that matter, metaphysically—possible that (66) and (67) should both be true.
+  (66) and (67) are compatible with each other. (Moreover, each is compatible with the negation of the other.)
+Let us now conjoin (66) and (67):
+
+  (68 there is some object x such that x is uniquely a last celestial body to disappear from the morning sky; moreover, x
+          is lovely; and there is some object y such that y is uniquely a  rst celestial body to appear in the evening sky;
+  moreover, y is not lovely.
+
+The following is obviously true:
+
+(69) it is possible thatthere is some object x such that x is uniquely a last celestial body to disappear from the
+          morning sky; moreover, x is lovely; and there is some object y such that y is uniquely a  rst celestial body to
+    appear in the evening sky; moreover, y is not lovely.
+
+    (Of course, (68) is identical with the underlined part of (69).) Bearing all of this in mind, consider the following proposition:
+
+  (70) there is some object x such that x is uniquely a last celestial body to disappear from the morning sky; moreover, x
+          is lovely; and there is some object y such that y is uniquely a  rst celestial body to appear in the evening sky;
+          moreover, y is not lovely; moreover,it is impossible for the proposition x is lovely to differ in respect of its truth-
+    value from the proposition y is not lovely.
+
+    Before proceeding, let us clearly state some of our background assumptions. First, we’re supposing that some one entity
+  is uniquely a last celestial body to disappear from the morning sky and is also uniquely a  rst celestial body to appear in
+    the evening sky. Second, we’re supposing that nothing can simultaneously have and fail to have a given property. Third,
+  we’re setting aside subtleties relating to the fact that a given thing can be lovely at one time and non-lovely at some
+other time: we’re assuming, for simplicity’s sake, that a thing is always lovely if it’s ever lovely. Given these
+  assumptions, it follows that (70), taken as a whole, is false. (Why does it follow? Because, given those assumptions, a
+  given thing would have to have and simultaneously fail to have a given property—that of being lovely—in order for (70)
+to be true.)
+            But what’s important here is not that, as a whole, (70) is false. What’s important here is that the underlined part of (70) is
+    true. But—and this is equally important—notice that there is no longer any proposition that is both necessary and epistemically
+  contingent (or a posteriori). The underlined part of (69) is possible in both the epistemic and the metaphysical senses.
+    (Obviously there is nothing metaphysically impossible about a world where something x is uniquely a celestial body to
+    appear in the evening sky, and where something y, distinct from x, is a last celestial body to disappear from the morning sky,
+    and where x is lovely and y is not.) And the underlined part of (70), though necessary,is also analytic.There is some one object
+    z (such that z is identical with Venus) such that the underlined part of (70) is true just in case the propositionz is lovelycannot
+    possibly differ in truth-value from the proposition z is lovely. And, of course, it is analytic, for any object z, that z is lovely has
+the same truth-value as z is lovely.
+              What we are seeing is that, in at least some cases, there appears to be a distinction between epistemic and metaphysical
+    necessity only if one fails to distinguish between literal meaning, on the one hand, and the information through which it is
+    identi ed, on the other. For some O, what is literally meant by ‘‘Hesperus is lovely’’ coincides with what is literally meant by
+
+34
+        This is subject to a quali cation that, though important, in no way undermines my point that, while proper names refer directly, one’s knowledge of
+          what they refer to is descriptive. One can presumably forget the circumstances under which, and therefore the descriptive information through which, one
+         rst learned what a given referring term refers to. (I can’t remember the circumstances under which I  rst learned to whom the name ‘‘Donald Rumsfeld’’
+        refers.) So (supposing that E is a singular term) it isn’t strictly correct to say that what, in virtue of having the form ‘‘. . .E. . .’’, a sentence communicates to
+          one categorically depends primarily (or even at all) on the circumstances under which one rstlearned what E refers to. See section2of the present paper for
+          further discussion of this point. In that section, we saw some reason to believe that, under such circumstances, one’s knowledge of what the term in question
+        refers to does not cease to be descriptive and that what is in fact going on is that one body of descriptive information (viz. that associated with one’s initial
+        assimilation of that term into one’s lexicon) is replaced with another such body, where the second body ‘interlocks’ (in a way outlined in section 2) with the
+     rst. Chapter 3 of Kuczynski, 2007), as well Chapters 4, 8, and 9 of Kuczynski (2009).                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462337
+
+    ‘‘Phosphorous is lovely.’’ For some O, both sentences mean:O is lovely. But it is obviouslyanalyticthat, ifO is lovelyis true, so is
+    O is lovely. So while it is indeed necessary that the proposition meant by ‘‘Hesperus is lovely’’ is true, given the truth of the
+    proposition meant by ‘‘Phosphorous is lovely’’, that necessity is analytic: we aren’t dealing with some kind of non-epistemic,
+a posteriori necessity.
+            At the same time, it is indeed true that a person could rationally assent to ‘‘Hesperus is lovely’’ while not assenting to
+    ‘‘Phosphorous is lovely.’’ But this has nothing to do with a posteriori necessary truth, and has to do instead with a posteriori
+  non-necessary truth. (66) is the proposition through which one assigns meaning to ‘‘Hesperus is lovely’’, and (67) is the
+    propositionthrough which one assigns meaning to ‘‘Phosphorous is lovely.’’ The relationship between (66) and (67) is indeed
+  a posteriori: given only that the one is true, it is an open empirical question whether the other is true. But not only is that
+relationship a posteriori: it is also contingent, as we discussed.
+            We therefore don’t have anything that is both necessary and a posteriori. Given the truth of the proposition meant by
+    ‘‘Hesperus is lovely’’, it is necessary that the proposition meant by ‘‘Phosphorous is lovely’’ is also true. But that necessity is
+    analytic, the reason being that both sentences encode the same proposition. At the same time, given only an acceptance of
+    ‘‘Hesperus is lovely’’, a person may need additional empirical information to determine whether ‘‘Phosphorous is lovely’’ is
+    true. The reason is that, given that the proposition through which one identi es the literal meaning of the one is true, it is not
+    analytic (or otherwise epistemically necessary) that the proposition through which one identi es the literal meaning of the
+  other is also true. But not only is not analytic: it is not necessary at all. Given the truth of the one proposition, it is
+    metaphysically (and not just epistemically) possible that the other is false. The truth of (66) is metaphysically (as well as
+    epistemically) compatible with the falsity of (67). Thus, we have analytic necessities and a posteriori contingencies—but no a
+posteriori necessities.
+  Another example may help clarify this argument. Consider the sentence:
+
+(71) ‘‘Hesperus is identical with Phosphorous.’’
+
+    For reasons that we’ve discussed, the existence-claim through which one accesses the proposition encoded in (71) is along
+the lines of:
+
+  (72) there is some object x such that x is uniquely a  rst celestial body to appear in the evening sky; and there is some
+          object y such that y is uniquely a last celestial body to disappear from the morning sky; and, moreover,x=y.
+
+Now consider the sentence:
+
+  (73) ‘‘it is necessarily the case thatHesperus is identical with Phosphorous.’’
+
+  (Of course, (71) is identical with the underlined part of (73).) Given that (72) is the proposition that (71) conveys, it
+  follows that (73) is ambiguous in respect of what it conveys, the reason being that the necessity-operator can be given
+  different degrees of scope. The result of giving it narrow-scope (or, more exactly, of giving it the narrowest possible
+scope) is:
+
+  (74) there is some object x such that x is uniquely a  rst celestial body to appear in the evening sky; and there is some
+          object y such that y is uniquely a last celestial body to disappear from the morning sky; and, moreover, it is
+  necessarily the case thatx=y.
+
+This is a true claim, and it captures the sense in which (71) is necessary while being non-trivial.
+  The result of giving the necessity-operator wide-scope (or, more exactly, of giving it the widest possible scope) is:
+
+  (75) It is necessarily the case that:there is some object x such that x is uniquely a  rst celestial body to appear in the
+            evening sky; and there is some object y such that y is uniquely a last celestial body to disappear from the morning
+  sky; and, moreover, x=y.
+
+    (75) is a false claim, since the underlined part is not necessary (either epistemically or metaphysically). What about the
+  underlined part of (72)? There is no denying that it is necessary. After all, nothing could have not been itself. But is the
+underlined part of (72) epistemically contingent?
+  No. We must take care not to let facts about typography in uence our views as to the constituencies of propositions. In
+    particular, we mustn’t be led astray by the fact that the expressions  anking the identity-sign in (72) are different. And we
+    mustn’t be led astray by the information to the left of the underlined part—we mustn’t telescope that information into the
+    proposition corresponding to the underlined part. Let P be the proposition corresponding to the underlined part. There is
+  some one object z such that P is true just in case z=z and such that, to make a stronger claim, P is to the effect that z=z. Of
+    course, for any object z, the proposition z=z is metaphysically necessary (nothing could fail to be itself), but it is also analytic
+and therefore epistemically necessary.
+  There is some object x such that the literal meaning of (71) is the necessary—but also the analytic and, indeed, trivial—
+  proposition x=x. When we say that (71) is a posteriori (i.e. epistemically contingent), we are talking, not about the                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462338
+
+    proposition semantically encoded in that sentence, but rather about the proposition through which one ascertains the
+    proposition semantically encoded in it. So the proposition that is necessary is quite distinct from the proposition that is
+    epistemically contingent: we thus haven’t found anything that is both necessary and a posteriori. And in saying that (71)
+  is both necessary and a posteriori, one is guilty of failing to distinguish literal meaning from the information through
+which it is identi ed.
+
+10. Saul on substitution-failures in extensional contexts
+
+              Saul (1997)identi ed a problem on which the analysis defended in this paper may be capable of shedding some light. Like
+    most semanticists, Saul assumes that intersubstituting co-referring terms can lead from true sentences to false ones and vice
+    versa. (Even though I have argued against that assumption, I will assume its truth when summarizing Saul’s article.) But,
+  unlike most semanticists, Saul denies that substitution-failures occur only when an expression occurring in a non-
+    extensional context is replaced with a co-referring expressions. Saul provides excellent prima facie reasons for holding this.
+    Here is Saul’s argument. Consider the following sentences35:
+
+(76) ‘‘Clark Kent went into a phone booth and Superman came out.’’
+(77) ‘‘Clark Kent went into a phone booth and Clark Kent came out.’’
+
+    (76) and (77) are—or, in any case, very much seem to be—capable of differing in truth-value, even though neither ‘‘Clark
+    Kent’’ nor ‘‘Superman’’ occurs non-extensionally in either of them. This suggests that extensional contexts are sometimes
+substitution-intolerant.
+              This is a serious problem. Saul considers four attempts to solve this problem. She rejects each of them, and her reasons for
+    doing so are cogent. (In section 10, we’ll consider the solutions that Saul rejects along with her reasons for rejecting them.)
+    But Saul doesn’t put forth a solution of her own. Fortunately, since the analysis defended in this paper practically is just a
+solution, we are in a position to step into this breach.
+            A story will help make this clear. While sitting on a park bench, you and I see a person in the distance. We don’t know who
+  that person is. And although we obviously have some idea of what that person looks like, our knowledge of his or her
+    appearance is extremely vague (For the sake of brevity, we’ll use ‘‘he’’ as an abbreviation for ‘‘he or she’’, and will do the same
+    thing mutatis mutandis with ‘‘him.’’). Being so far away, he is little more than a vague blur. There is only one non-generic fact
+  about him of which our blurry perceptions do apprise us: he is wearing brightly colored, loose- tting clothes.
+            For whatever reason, we wish to talk about this person. To make it easier to talk about him we decide to give him a name.
+We decide to refer to him as ‘‘Argo.’’
+              Because we’re both semanticists, we don’t want to put our neologism to use until we’ve precisely identi ed the semantic
+    rule that is to govern its use (i.e. that states how a sentence’s containing that expression affects that sentence’s meaning/
+truth-conditions). After a few minutes of quibbling, we write down the following and agree to abide by it:
+
+  (AR) There is a unique thing O such that O is a contextually salient person in the distance such that (i) O is wearing
+    brightly colored, loose- tting clothes and such that (ii) we are hereby agreeing that (at least as far as conversations
+between the two of us are concerned) ‘‘Argo’’ is to refer directly to O.
+
+            In agreeing that ‘‘Argo’’ is to refer directly to the aforementioned person, we are agreeing that, in virtue of having
+      the form ‘‘. . .Argo. . .’’, a statement S encodes a proposition P such that P is true exactly if . . .O. . .
+Thus, the remaining semantic rules of English being what they are,
+
+‘‘Argo is an economist’’
+
+encodes a proposition P that is true exactly if:
+
+  O is an economist. Thus, for ‘‘Argo is an economist’’ to be true, it is necessary and suf cient that O be an economist,
+  it being irrelevant what other properties O has. Given any statement S^ of the form ‘‘. . .Argo. . .’’, the same thing
+  mutatis mutandis holds of S^; in other words, S^ encodes a proposition P that is true exactly if O is a thing x such
+that. . .x. . .
+
+            Having agreed that AR states the semantic rule for ‘‘Argo’’, you and I then continue to watch Argo. Argo starts doing
+extraordinarily dif cult acrobatics. He continues to do them for hours; he’s clearly a master-gymnast.
+            We spend several hours watching him perform these stunning feats. During that time, Argo is, or at least seems to be,
+    unaware of our presence. But eventually Argo clearly notices us. Argo doesn’t approach us; nor we do approach him. So our
+    knowledge of what he looks like doesn’t improve, and neither does our knowledge of who he is. After locking eyes with us,
+Argo resumes his gymnastics.
+
+35
+These are Saul’s own examples.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462339
+
+    Twenty minutes pass. Argo suddenly stops his gymnastics. Looking right at us, Argo shouts: ‘‘Hi! Nice to meet you. I am an
+investment banker, but I like to do acrobatics in my spare time.’’
+            Argo’s voice is clearly that of a man. And it’s distinctive in a number of other respects. It’s the voice of somebody who
+    is healthy—of somebody who doesn’t have emphysema or any other ailments that might affect the timbre or resonance of
+  a person’s voice. Also, Argo’s voice seems to be that of somebody who is trained at public speaking; and, partly for that
+  reason, though (it seems) not entirely, it exudes both con dence and good will. Having said these few words, Argo
+suddenly leaves.
+    The next day, you and I are sitting on the same park bench. Once again, we see a person in the distance (We will once again
+  use ‘‘he’’ as an abbreviation for ‘‘he or she’’, and will do the same thing mutatis mutandis with ‘‘him.’’). We know nothing
+  about him. And, being as far from us as Argo was, our knowledge of his appearance is as vague as our knowledge of Argo’s
+    appearance. There is only one non-generic fact about this person of which our blurry perceptionsdoapprise us: he is wearing
+drab, tight- tting clothes.
+            Wishing to speak about this person, but not knowing his we decide to refer to him ‘‘Ogra.’’ Being semanticists, we
+  decide, before using our neologism, to identify the semantic rule that is to govern its usage. We agree that the semantic
+  rule for ‘‘Ogra’’ is given by a statement, which we’ll call ‘‘OG’’, that is exactly like AR except (a) that OG contains an
+  occurrence of ‘‘Ogra’’ in the place where AR contains an occurrence of ‘‘Argo’’ and (b) that OG contains an occurrence of
+    ‘‘O is wearing drab, tight- tting clothes’’ in the place where AR contains an occurrence of ‘‘O is wearing brightly colored,
+loose- tting clothes.’’
+            Having agreed that OG states the semantic rule for ‘‘Ogra’’, we continue to watch Ogra. Ogra is very clumsy, or at least
+    seems to be. Ogra tries to do a summersault but fails. He then tries to do a cartwheel, but once again fails. Moreover, when
+    Ogra isn’t doing gymnastics, his gait is clumsy. Also, Ogra’s posture is poor. He always slouches, his overall shape being that of
+a question-mark. By contrast, Argo’s posture was exemplary.
+  Ogra continues his oa sh attempts at gymnastics for several hours. During this time, he doesn’t notice us. But then he
+    stares right at us, clearly aware that we’ve been watching her. Ogra shouts out: ‘‘I wish you’d let me known that you were
+  here. I feel terribly embarrassed. By the way, I am investment banker.’’ Though clearly that of a man, Ogra’s voice is very
+    different from Argo’s. Ogra’s voice is weak and raspy. He wheezes heavily, and his statement, though short, is interrupted by
+    hacking coughs. Moreover, the tone of Ogra’s voice was that of a resentful, weak, sour person. After his plaintiff valediction to
+us, Ogra leaves.
+            Day after day, we return to the same park bench. On each day, either Ogra or Argo appears. On some days they both
+appear; and sometimes each appears on several occasions. But they never appear at the same time.
+          Every time either appears, each behaves just as he did the  rst time we saw him. (For example, whereas Agro
+  always performs brilliant acrobatic feats, Ogra always tries, without success, to perform rudimentary acrobatic
+  feats. And, whereas Argo’s valedictions exude vigor and self-con dence, Ogra’s exude weakness and insecurity. And
+  so on.) During the month-long interval following the day when we  rst saw Argo and Ogra, neither of us learns
+  anything new about either of them. During that time-period, we don’t question them or otherwise try to learn about
+  them, and neither Argo nor Ogra either intentionally or unintentionally provides us with any new information about
+himself.
+            Our story about Argo and Ogra isn’t over yet; but, before we can complete it, we must a few points clear. There is some
+object O such that the proposition literally meant by the statement:
+
+(78) ‘‘Argo is an investment banker’’
+
+is true exactly if:
+
+(79) O is an investment banker,
+
+  it being entirely irrelevant, as far as semantics (literal meaning) is concerned, what other properties O might have.
+            But, the circumstances being what they are, if I utter (78) to you, the message (or, in any case, part of the message)
+  that will thereby be conveyed, and that (so we may plausibly suppose) it is my intention to convey, is along the
+lines of:
+
+  (80) There is somebody x such that we’ve been in the habit of watching x skillfully perform dif cult acrobatics and
+          such that x’s voice has a healthy resonance; moreover, x is an investment banker.
+
+And, when speaking to you, were I to produce an utterance of:
+
+(81) ‘‘Ogra is an investment banker’’,
+
+    the same points mutatis mutandis would hold of that utterance, so that, for some object O*, the proposition literally meant by
+that utterance would be:                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462340
+
+(82) O* is an investment banker,
+
+even though the proposition conveyed by such an utterance would coincide mutatis mutandis with (80).
+              Let us continue our story. For some reason, there is a phone booth in the park in question. During each of our now habitual
+    Argo-watches, we notice that Argo goes into the phone booth and spends around  ve minutes in there. (Presumably he’s
+    talking on the phone. But it doesn’t matter whether that presumption is correct.) Given AR (the semantic rule governing
+  ‘‘Argo’’), it follows that, there is some object O (namely, Argo) such that the (true) proposition P literally meant by an
+utterance of:
+
+(83) ‘‘Argo went into that phone booth around  ve minutes ago, and Argo exited it around ten seconds ago’’
+
+is equivalent (if not identical) with:
+
+        (84) O went into that phone booth around  ve minutes ago, and O exited it around ten seconds ago.
+
+    But obvious applications of now familiar reasoning show that, the circumstances being what they are, were I, during one of
+    our Argo-afternoons, to utter (83) to you, the message (or, in any case, part of the message) that would thereby be conveyed,
+and that (so we may plausibly suppose) it would my intention to convey, would be along the lines of:
+
+  (85) There is somebody x such that we’ve been in the habit of watching x skillfully perform dif cult acrobatics and
+          such that x’s voice has a healthy resonance; moreover, x went into that phone booth around  ve minutes ago,
+    and he exited it around ten seconds ago.
+
+Exactly similar points hold of utterances of:
+
+  (86) ‘‘Ogra went into that phone booth around  ve minutes ago, and Ogra exited it around ten seconds ago.’’
+
+    Given this, suppose that, while addressing you under the circumstances in question, I were to utter (86). It follows from what
+      we’ve said that (a part of) what was thereby conveyed to you would be along the lines of:
+
+  (87) There is somebody y such that we’ve been in the habit of watching y oa shly try to perform rudimentary
+          acrobatics and such that y’s voice has a unhealthy, plaintiff resonance; moreover, y went into that phone
+      booth around  ve minutes ago, and he exited it around ten seconds ago.
+
+    (85) and (87) are distinct propositions, and neither entails the other. In fact, given the circumstances, it would be stretch to
+say that either so much as con rms the other.
+    Bearing all of this in mind, consider the following sentence:
+
+(88) ‘‘Argo went into that phone booth around  ve minutes ago, and Ogra exited it around ten seconds ago.’’
+
+    There is some object O (namely, Argo), and some object O* (namely, Ogra), such that the proposition literally meant by an
+utterance of (88) is:
+
+(89) O went into that phone booth around  ve minutes ago, and O* exited it around ten seconds ago.
+
+    But, the circumstances being what they are, were I to utter (88) to you, the proposition thereby communicated would be
+along the lines of:
+
+  (90) There is somebody x such that we’ve been in the habit of watching x skillfully perform dif cult acrobatics and
+          such that x’s voice has a healthy resonance; moreover, x went into that phone booth around  ve minutes ago;
+          and there is somebody y such that we’ve been in the habit of watching y oa shly try to perform rudimentary
+          acrobatics and such that y’s voice has a unhealthy, plaintiff resonance; moreover, y exited that phone booth
+  around ten seconds ago.
+
+      Note that each of (85), (87), and (89), fails to entail, or to be entailed by, either of the other two.
+              Let us continue our soon to be completed story. Each of Argo and Ogra has claimed to be an investment banker. But that, in
+    our opinion, is where the similarities between them end. True—they’ve never both appeared at the same time. But, given the
+      remaining data, that fact provides little or no weight for the hypothesis that Argo is Ogra.
+            Now for the conclusion of our story. One day Argo walks up to us and says to us ‘‘it’s good to meet you, at long last.’’ His
+  voice is exactly what we’d expect it to be. Argo then says ‘‘I’m sure you have many questions about me.’’ But, in uttering
+  this sentence, his voice is clearly Ogra’s. What we are hearing isn’t merely a good impersonation of Ogra’s voice: it is
+  Ogra’s voice. (Let’s suppose that, for some reason, you and I are voice-experts who can distinguish excellent                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462341
+
+    impersonations of any given voice from that voice itself.) Argo then strips off his loose- tting, brightly colored vestments.
+  Underneath them are the drab, tight- tting clothes that Ogra wears. Argo then does various summersaults and
+  cartwheels and he does them in exactly the way in which Ogra does them. It’s clear that Argo isn’t impersonating Ogra.
+Argo is Ogra.
+  Given the semantic rules governing ‘‘Argo’’ and ‘‘Ogra’’—AR and OG, in other words—it follows that there is some one
+object O such that an utterance of:
+
+(91) ‘‘Argo is Ogra’’
+
+has for its literal meaning a proposition:
+
+(92) O is O.
+
+    But it’s also clear that, given the circumstances, an utterance of (91) would convey (inter alia) a proposition that, unlike (92),
+  is non-trivial and, indeed, is extremely rich in empirical information, that proposition being along the lines of:
+
+  (93) There is somebody x such that we’ve been in the habit of watching x skillfully perform dif cult acrobatics and such
+          that x’s voice has a healthy resonance; and there is somebody y such that we’ve been in the habit of watching y
+          oa shly try to perform rudimentary acrobatics and such that y’s voice has a unhealthy, plaintiff resonance;
+  moreover, x is identical with y.
+
+    It also follows that (83), (86), and (88) all have the same literal meaning. We’ve already made it clear explained how it is that,
+despite that fact, they convey such different propositions.
+    Everything we said about the sentence-pair consisting of (83) and (86), and about the sentence-pair consisting of (86) and
+    (88), holdsmutatis mutandisof the sentence-pair consisting of (76) and (77).36Also, (79) and (82) are, it turns out, one and the
+    same proposition, notwithstanding that, for now familiar reasons, the proposition conveyed by an utterance of (78) could be
+    very different ceteris paribus from the proposition conveyed by an utterance of (81).
+
+  11. Saul on substitution-failures in extensional contexts (continued)
+
+    Even though Saul doesn’t put forth a positive analysis of such sentence-pairs, what she does say is consistent with, and indeed
+    favorable to, the analysis we have defended in this paper. Saul rejects analyses that are incompatible with ours; and, without
+    going so far as to endorse it, she says of an analysis that is consistent with ours, and embodies the conceit lying at the center of it,
+    that it isn’t as unworthy of consideration as semanticists are wont to believe. Let’s now consider what Saul says in some detail.
+According to Frege,
+
+(94) ‘‘Smith thinks that Clark Kent went into a phone booth and that Clark Kent came out’’
+
+may differ in truth-value from
+
+(95) ‘‘Smith thinks that Clark Kent went into a phone booth and that Superman came out.’’
+
+    For argument’s sake, let’s suppose that Frege is right about this. Frege’s way of dealing with this substitution-failure is to say
+  that, in (94), the occurrences of ‘‘Clark Kent’’ refer to the sense that ‘‘Clark Kent’’ ordinarily (i.e. in substitution-tolerant
+  contexts) bears, the same thing mutatis mutandis being true of the occurrence in (95) of ‘‘Superman.’’ Frege held that all
+substitution-failures are to be explained along similar lines.
+
+
+36
+        Everything just said about the sentence-pair consisting of (76) and (77) holds mutatis mutandis of each of the following sentence-pairs, each of which is
+          taken from Saul’s article and, given that Saul’s objective in that article isnotto defend the analysis that we are defending, each of which providesindependent
+support for our analysis:
+    (i) ‘‘Clark Kent always arrived at the scene just after one of Superman’s daring rescues.’’
+    (i*) ‘‘Clark Kent always arrived at the scene just after one of Clark Kent’s daring rescues.’’
+(ii) ‘‘Dan Dresses like Clark Kent.’’
+(ii*) ‘‘Dan Dresses like Superman.’’
+      (iii) ‘‘She made a date with Superman, but found herself having dinner with Clark Kent.’’
+(iii*) ‘‘She made a date with Superman, but found herself having dinner with Superman.’’
+(iv) ‘‘Clark Kent was in despair because Lois had fallen for Superman.’’
+(iv*) ‘‘Superman was in despair because Lois had fallen for Superman.’’
+(v) ‘‘Superman was more successful with women than Clark Kent.’’
+(v*) ‘‘Superman was more successful with women than Superman.’’
+        Nothing more than a few minor adaptations of our own story, along with some repetitions (mutatis mutandis) of now familiar (and, I hope, reasonably
+          well-established) points, make it clear what must be said about these sentence-pairs, to wit: Given any one of these sentence-pairs, each sentencedoeshave
+          the same literal meaning as the other member of that pair; and the vast differences in respect of what utterances of those two sentences communicate areto
+be understood along the lines just discussed.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462342
+
+              But, Saul rightly says, the occurrences in (76) and (77) of ‘‘Clark Kent’’ and ‘‘Superman’’ don’t refer to senses. They refer to
+      people (or, rather, to a person). So Frege’s solution is a non-starter, at least in this context.37
+            Like Frege, Cider (1996) takes it for granted that, at the level of literal meaning, (76) and (77) differ in truth-value. But
+    Cider’s way of dealing with this is non-Fregean. According to Cider, the reason that (76) and (77) differ in truth-value is that
+    ‘‘Superman’’ and ‘‘Clark Kent’’ refer to different time-slices of some one person. So the occurrences in (77) of ‘‘Clark Kent’’ and
+‘‘Superman’’ do not co-refer, according to Ted Cider; they refer to distinct phases of some one entity.
+            Saul makes it clear that Cider’s analysis cannot be accepted. A consequence of Cider’s view that ‘‘Clark Kent’’ and
+    ‘‘Superman’’ don’t co-refer is that ‘‘Superman is identical with Clark Kent’’ is false. But since that sentence is true, Cider’s
+analysis is false.
+              Cider, as Saul points out, might respond by saying either that ‘‘is’’ is ambiguous—that it sometimes denotes the relation of
+    identity and sometimes denotes some other relation—or, as Saul also points out, Cider might respond by saying that ‘‘Clark
+    Kent’’ and ‘‘Superman’’ don’t have  xed references and that, for that reason, they co-refer in some contexts (e.g. ‘‘Superman
+    and Clark Kent are one and the same’’) but don’t co-refer in others (e.g. (77)). But, as Saul says, such positions, in addition to
+    being ad hoc, are demonstrably unacceptable, the reason being that they fail to deal with sentences such as (to use a variant
+of Saul’s own example) the following:
+
+(96) ‘‘Clark Kent often  ies to work, though he conceals this fact.’’
+
+  If Cider is right, the thing denoted by ‘‘Clark Kent’’ is a time-slice that doesn’t  y. Moreover, as Saul says, since neither the
+    word ‘‘is’’, nor any variant thereof (e.g. ‘‘is identical with’’), appears in (96), no amount of tinkering with the semantics of such
+expressions is of any use.
+              Saul doesn’t consider what Russell would say about the (apparent) fact that (76) differs in truth-value from (77). But this
+      doesn’t much matter, since Russell’s view is false, as Kripke (1977a, 1980) made clear.38
+            We’ve consider all of the analyses that Saul rejects. There is one analysis that she considers that she doesn’t reject, even
+    though, as previously stated, she doesn’t go so far as to accept it. According to Salmon (1986) and Soames (2002), (76) and
+    (77)dohave the same truth-value and, indeed, the same literal meaning. They grant that (76) and (77)seemto differ in truth-
+      value. But this, they say, is because pragmatics is, in some way or other, obscuring semantics.
+              Why doesn’t Saul embrace this solution? Because in the form in which Salmon and Soames present it, Saul rightly says, it
+    leaves too many crucial questions unanswered. Salmon and Soames say that in some way or other pragmatics is warping our
+    views concerning literal meaning. But they don’t say how it is doing so, even though, given their position, it is incumbent on
+    them to provide this information. And—to develop this point—Salmon and Soames don’t answer either of the following
+questions, even though it is incumbent on them to answer both:
+
+37
+        According to some philosophers, it is because (76) and (77) are synonymous with, respectively,
+(76^) The man called ‘‘Clark Kent’’ went into a phone booth and the man called ‘‘Clark Kent’’ came out
+and
+      (77^) The man called ‘‘Clark Kent’’ went into a phone booth and the man (or super-human, or whatever) called ‘‘Superman’’ came out,
+that (76) and (77) differ in cognitive value.
+        Saul rejects this view and all other (as she calls them) ‘‘quotational’’ solutions to substitution-related problem. Saul doesn’t identify any speci c
+          semanticists who advocate such solutions. But Davidson (1968) is one such semanticist. And Saul Kripke, in his unpublished but widely disseminated and
+frequently cited (1972) Locke lectures seems to advocate such a view.
+        Although I do not myself fully understand Saul’s reasons for rejecting quotational solutions to the problem under investigation, and must refer readers
+  who wish to understand her reasons to her article, the following two stories show that Saul is right to reject this view.
+        Story #1: My neighbor—who is not the Clark Kent who works as a reporter—walks into a phone both, which he then exits; and suppose that this same
+        neighbor of mine, who is in no way superhuman, also goes by the name of ‘‘Superman.’’ In that case, each of (76^) and (77^) will be true, even if the relevant
+    Clark Kent (i.e. the one who writes for the Daily Bugle), and therefore the relevant Superman (the one who can  y, etc.), don’t exist.
+        Story #2: Shep is a hungry, homeless dog, who lives in a certain junkyard. Joe is the junkyard’s caretaker. Joe does nothing for Shep. Fortunately, every
+        Monday, Wednesday, and Friday, a certain masked man comes to the junkyard and feeds Shep and also provides him with much TLC (tender loving care).
+        The junkyard’s caretaker, who has no idea who the masked man is, refers to him as ‘‘Alf.’’ But Shep doesn’t associate that name, or any other, name with the
+        masked man. Unfortunately, every Tuesday, Thursday, and Saturday, and Sunday a non-masked man comes to the junkyard treats Shep cruelly.
+      (The junkyard caretaker refers to that non-masked man as ‘‘Bob.’’ But Shep doesn’t associate that name, or any other, with that man.)
+        This continues for years. During that entire period, no one visits Shep other than the aforementioned individuals. One Monday, the kind masked man
+        pulls off his mask. It turns out that he is identical with the evil man who has been mistreating Shep. The ugly truth of which Shep thus becomes aware is one
+        that the caretaker would express by saying ‘‘Alf is identical with Bob.’’ But what Shep learns has nothing to do with how symbols are used; Shep isn’t
+          learning that somebody named ‘‘Alf’’ is also named ‘‘Bob.’’ And, although that ispartof what Joe, the caretaker, has learned, it isn’t the important part—it isn’t
+  the part that shocks him. The relevant proposition is better represented by some sentence along the lines of:
+        (&%) ‘‘Every week, somebody wearing a mask visited Shep and fed him and treated him well; and every week somebody not wearing mask visited Shep
+  and treated him poorly; and, it turns out, only one person was visiting Shep.’’
+        And (&%) is identical with, or similar to, the truth that shocks Shep. (&%) isn’t about symbols; it isn’t a metalinguistic proposition. Unless we take the
+        view that dogs cannot learn truths of the form x is identical with y—a view that, in addition to being absurd on the face of it, is discon rmed by centuries’
+        worth of daily observations, along with decades’ worth of experiments—we must reject attempts to show that the non-triviality of identity-claims is
+        categorically to be explained along metalinguistic lines, and we must reject similar attempts to account for the non-intersubstitutability of co-referring
+terms.
+38
+        In section 8, Kripke’s (1977a) refutation of Russell’s theory was put forth. But Kripke’s (1980) refutation of Russell’s theory is no less cogent and, being
+        much better known, has done a lot more than to persuade people that Russell’s theory is incorrect. (It should be pointed out that Kripke (1980) predates
+        Kripke (1977a). The former was  rst presented as a series of lectures in 1969. Kripke (1977a), on the other hand, was  rst published in 1977.) See endnote 6
+for a compressed version of Kripke’s celebrated (1980) argument.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462343
+
+  (i)39What are the messages that are (pragmatically, non-semantically) communicated by (tokens of) (76) and (77)?
+        (To generalize this question: given a sentence having either the form ‘‘. . .Clark Kent. . .’’ or the form ‘‘. . .
+            Superman. . .’’, what is the proposition that, in virtue of having that form, utterances of that sentence convey? To
+          generalize this question even further: given two distinct, co-referring proper N and N*, and given a sentence
+          having either the form ‘‘. . .T. . .’’ or the form ‘‘. . .T*. . .’’, what is the proposition that, in virtue of having that form,
+  utterances of that sentence convey?)
+  (ii) Supposing for argument’s sake that t and t* are tokens of (76) and (77), respectively, and that T and T* (non-
+          semantically) impart propositions P and P*, why do those tokens convey those propositions? What is the
+            principle at work? (To generalize this question: given a sentence-token having either the form ‘‘. . .Clark Kent. . .’’
+          or the form ‘‘. . .Superman. . .’’, what is the proposition that, in virtue of having that form, that token conveys? To
+          generalize this question even further: given two distinct, co-referring proper N and N*, and given sentence-
+          tokens T and T* that, in virtue of having the forms ‘‘. . .N. . .’’ ‘‘. . .N*. . .’’, respectively, convey propositions P and
+        P*, why is it that, in virtue of having those forms, T and T* communicate P and P* speci cally? Why those
+  propositions, as opposed to others?)
+
+            As Saul points out, many recoil from the position advocated by Salmon and Soames. Suppose that Clark Kent (i.e.
+    somebody x such that x is Clark Kent/Superman and such that x looks and acts like a bungling, bespectacled reporter, etc.)
+    goes into a phone booth and that Superman (i.e. somebody y such that y is identical with Superman/Clark Kent and such that
+    y looks and acts like a caped crime- ghter who has superhuman abilities, etc.). Under these circumstances, (76) would,
+whereas (77) would not, be seen as a correct (or, in any case, non-misleading) statement. But given that
+
+(97) ‘‘Clark Kent went into a phone booth and Clark Kent came out, but nobody recognized him’’
+
+    is not a misleading characterization of what happened, it follows that the message borne by (76), so far as it’s a misleading
+    one, can be cancelled. Since it can be cancelled, it is no part of what (77) literally means.
+  This insight of Saul’s provides additional corroboration for our contention that, once the phenomenon of presemantic
+    implicature is taken into account, the relevant linguistic intuitions are consistent with the view that (76)’s literal meaning
+    coincides with (77)’s literal meaning and, more generally, with the contention that proper names are directly referential.
+
+12. Boguslawski’s analysis
+
+  Like us, Boguslawski (1994) holds that intersubstituting co-referring expressions preserves truth-value. Moreover,
+    Boguslawski’s argument for this contention is similar to our argument for it.40Boguslawski’s argument can be stated in
+terms of the following piece of  ction.
+    Jones lives next door to Smith. Smith knows this, and Smith also knows that Jones is a talented pianist. But unbeknownst
+to Smith, Jones is also the tallest American spy. In light of this, consider the following three sentences:
+
+(98) Smith knows ofthe person who is in fact the tallest American spy that he is a talented pianist.
+(99) Smith knows thathis neighbor is a talented pianist.41
+(100) Smith knows thatthe tallest American spy is a talented pianist.
+
+    Of course, supposing that de nite descriptions are referring terms, the underlined expressions all co-refer. (In this section, it
+will be assumed, for argument’s sake, that de nite descriptions are indeed referring terms.)
+  It is uncontroversial that (98) and (99) are correct. But it appears, at least at  rst, that (100) is false. If (100) is false, then it
+    obviously follows that not all contexts are extensional. But the following extension of our story suggests that, despite  rst
+appearances, (100) is in fact correct.
+    In Smith’s absence and without his knowledge, I am now talking to Jones. I say to Jones:
+
+(101) Smith knows thatyou are a talented pianist.
+
+    Under the circumstances, (101) strongly appears to be correct. At the same time, Smith has no idea that I am now talking to
+    Jones, and he therefore has no idea that I am referring to Jones with the word ‘‘you.’’ For somebody to be correctly referred to
+  with the term ‘‘you’’ in context C, that person must satisfy some description along the lines of: person x such that x is being
+
+39
+      What I’m about to say is an elaboration, not a summary, of points that Saul herself makes.
+40
+        To ensure continuity with the points already made, my exposition of Boguslawski’s arguments will not entirely coincide with his own and will be partly
+          reconstructive. Though of the highest importance, Dr. Boguslawski’s insights have not been adequately internalized by philosophers of language. Ihope that
+        the present paper will help to remedy this situation and that, for that reason, the publication of the present paper is justi ed, notwithstanding that much of
+it says was already said by Dr. Boguslawski.
+41
+        In this context, for the sake of expository simplicity, let us suppose that ‘‘his neighbor’’ is synonymous with the de nite description\ ‘‘the one person
+          who is his neighbor.’’ Mentally substitute the latter for each occurrence of the former if you (reasonably, and perhaps correctly) don’t believe that those two
+expressions are in fact synonymous.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462344
+
+  addressed in C. So even though (101) is plainly correct, Smith nonetheless has no idea that Jones satis es the descriptive
+    information associated with the expression that, in (101), is used to pick Jones out. Thus, there is some person x (namely,
+Jones) such that the following three conditions are met:
+
+(a) the occurrence of ‘‘you’’ in (101) refers to x;
+(b) in the situation in question, x uniquely satis es the description person to whom I am speaking; and
+(c) Smith does not know that x satis es that description.
+
+    Thus, the truth of (101) seems to depend only on whether, for the relevant value of x, Jones knows that x is a talented pianist,
+  it being irrelevant what kind of descriptive information is used to refer to x. This line of thought is consistent with (even
+  though, on its own, it admittedly falls far short of establishing) extensionality.
+            A continuation of our story provides additional corroboration for this principle. I am now talking with Green. Jones is
+  standing near us, and is wearing a blue shirt. Nobody besides Jones is wearing a blue shirt. I point to Jones and say:
+
+  (102) Smith knows thatthe guy wearing a blue shirt is a talented pianist.
+
+    Under the circumstances, (102) seems to be correct. At the same time, Smith may have absolutely no idea that Jones is now
+  wearing a blue shirt. Thus, there is some person x (namely Jones) such that the following three conditions are met:
+
+(a*) the occurrence of ‘‘the guy wearing a blue shirt’’ in (102) refers to x;
+(b*), in the situation in question, x uniquely satis es the description person wearing a blue shirt and
+(c*) Smith does not know that x satis es that description.
+
+    Thus, the truth of (102) seems to depend only on whether, for the relevant value of x, Jones knows that x is a talented pianist,
+  it being irrelevant what kind of descriptive information is used to refer to x.
+              The following variation of the story just told provides yet further support for extensionality. I am talking with Green. Jones
+    is visible to both of us, and he has just kicked a soccer ball. Green doesn’t know Jones’ name, but Green does know Smith’s
+name. I say to Green:
+
+    (103) Smith knows thatthe guy who just kicked a soccer ball is a talented pianist.
+
+    Under the circumstances, (103) seems to be correct. It seems irrelevant whether Smith knows that Jones has just kicked a
+soccer ball. All that matters is that, for the relevant value of x, Smith knows that x is a talented pianist.
+            The story just told can easily be developed so as to show that, given the truth of (98) and (99), the truth of (100) follows.
+    Green and I are both spies. We are both acquainted with Jones, and we both know that he is the tallest American spy. But, for
+  some reason, we both keep on forgetting his name. Under these circumstances, if, addressing Green, I utter (100), the
+    resulting token of (100)doesvery much seem to have the same truth-value as (99). A closely related point is that, under these
+  circumstances, there is some object O such that O is identical with Jones, and such that each of (99) and (100) af rms the
+singular proposition:
+
+(104) Smith knows that O is a talented pianist.
+
+    There is no denying that, on at least some occasions, (99) and (100) communicate propositions that differ in truth-value. But
+  this is easily explained without supposing that what is literally meant by a token of the one differs from what is literally
+    meant by a token of the other. For reasons that we’ve already discussed at length, a consequence of the direct-referentialist’s
+position is that:
+
+  (DDI) In virtue of having the form, ‘‘. . .the phi. . .’’, a sentence S will implicate the proposition: exactly one thing x
+has phi and. . .x. . .
+
+        Given (DDI), there are two possibilities as to what (99) will implicate.42It could implicate either:
+
+(99NS) Smith knows that exactly one thing x is his neighbor and, moreover, that x is a talented pianist,
+
+or
+
+(99WS) exactly one thing x is Smith’s neighbor; moreover, Smith knows that x is a talented pianist.
+
+42
+        More precisely: given (DDI), there are two possibilities as to what, in virtue of having the form, ‘‘. . .his neighbor. . .’’, (99) will implicate. Obviously, (99)
+          could implicate any proposition at all, given the right circumstances. But there are only two propositions that, given (DDI), (99) implicates in virtue of having
+the form just described.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462345
+
+    The implicature can be given either wide-scope or narrow-scope; and what degree of scope it is given is to be understood
+  in terms of standard principles of pragmatics, as a bit of  ction shows. Both Brown and Jones know that, for some x, x is
+  Smith’s neighbor and is also a talented pianist, and each knows the other to know this. Further, each of Brown and Jones
+knows the other to be a highly rational person. Brown says to Jones:
+
+  (105) ‘‘Smith knows that his neighbor is a talented pianist; and Smith knows that the tallest American spy is a
+  talented pianist.’’
+
+    Notice that (105) contains an occurrence of (99) and also of (100). If the corresponding implicatures are given wide-scope,
+    then Brown is inexplicably repeating himself; for, thus interpreted, there is some x such that Brown is saying: Smith knows
+    that x is a talented pianist and Smith knows that x is a talented pianist. But Brown’s utterance becomes perfectly intelligible if it
+    is supposed that at least one of those implicatures is to be given narrow-scope; for, thus interpreted, Brown’s utterance does
+not consist of a sterile repetition of some one assertion.
+    To sum up: given (DDI) along with some plausible views concerning pragmatics, it needn’t be supposed that truth-value
+    can be changed by replacing a de nite description with a co-referring description.
+    But supposing, if only for the sake of argument, that such intersubstitutions can change truth-value, extensionality is still
+    not threatened in any way. Given that Smith’s one neighbor is the tallest American spy, (99) and (100) can diverge in truth-
+    value only if they are equivalent with (99NS) and (99WS), respectively. But in that case, for the reasons discussed earlier, ‘‘his
+    neighbor’’ and ‘‘tallest American spy’’ are quanti ers, not referring terms and therefore not co-referring terms, a corollary
+  being that any difference in truth-value between (99) and (100) has nothing to do with any substitution-failure.
+
+13. Conclusion
+
+  In their efforts to explain relatively innocuous facts relating to language (e.g. the fact, discovered by Kripke (1980), that
+    proper names are not synonymous with de nite descriptions), philosophers have advocated wholesale revisions of logic and
+    logic (e.g. the contention, urged by Nathan Salmon (2007), that for some values of x, the information at a person’s disposal
+    may con rm the proposition that x6¼x as much as it does the proposition that x=x). Fortunately, given the pedestrian fact that
+    people must sometimes exploit non-linguistic information to make linguistic judgments, these revisions prove to be as
+unnecessary as they are grotesque.
+
+References
+
+  Anderson, C. Anthony, 1986. Some dif culties concerning Russellian intensional logic. Nouˆs 20 (1), 35–43.
+  Austin, J.L., 1953. How to do Things with Words. Clarendon Press, Oxford.
+Bach, Kent, 1987. Thought and Reference. Clarendon Press, Oxford.
+        Barwise, Jon, Perry, John, 1983. Semantic innocence and uncompromising situations. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford
+University Press, New York, pp. 392–404.
+    Blackburn, Simon, 1984. Spreading the Word. Oxford University Press, New York.
+Bezuidenhout, A., et al. (Eds.), 2004. Descriptions and Beyond. Oxford University Press, New York.
+        Boguslawski, Andrzej, 1994. Sentential complementation and truth. In: C mejrkova´, S., et al. (Eds.), The Syntax of Sentence and Text. John Benjamins,
+Philadelphia, PA, pp. 317–332.
+        Cappelen, Herman, Lepore, Ernie, 2005. Insensitive Semantics: A Defense of Speech Act Pluralism and Semantic Minimalism. Blackwell, Oxford.
+Chomsky, Noam, 1980. Rules and Representations. Columbia University Press, New York.
+          Chomsky, Noam, 1988. Language and the problems of knowledge. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York,
+pp. 509–527.
+Cider, Ted., 1996. All the world’s a stage. Australasian Journal of Philosophy 74, 433–457.
+Davidson, Donald, 1967. Truth and meaning. Synthese 17, 304–323.
+        Davidson, Donald, 1968. On saying that. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York, pp. 352–361.
+Davidson, Donald, 1980. Inquiries into Truth and Interpretation. Oxford University Press, New York.
+Dummett, Michael, 1973. Frege: Philosophy of Language. Harvard University Press, Cambridge, MA.
+        Frege, Gottlob, 1892. On sense and nominatum. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York, pp. 190–202.
+  Frege, Gottlob, 1956. The Thought: a Logical Inquiry. Mind 65, 289–311.
+  Frege, Gottlob, 1974. The Foundations of Arithmetic. Blackwell, Oxford.
+      Kaplan, David, 1968. Quantifying in. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York, pp. 362–391.
+    Kaplan, David, 1986. Opacity. In: Hahn, L., et al. (Eds.), The Philosophy of W.V.O. Quine. Open Court Press, LaSalle, IL, pp. 229–289.
+      Kaplan, David, 1989a. Demonstratives. In: Almog, J., et al. (Eds.), Themes from Kaplan. Oxford University Press, New York, pp. 471–555.
+      Kaplan, David, 1989b. Afterthoughts. In: Almog, J., et al. (Eds.), Themes from Kaplan. Oxford University Press, New York, pp. 534–557.
+Kripke, Saul, 1977a. A puzzle about belief. In: Margalit, A. (Ed.), Meaning and Use. D. Reidel, Dordrecht.
+        Kripke, Saul, 1977b. Speaker’s reference and semantic reference. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York,
+pp. 248–258.
+    Kripke, Saul, 1980. Naming and Necessity. Harvard University Press, Cambridge, MA.
+    Kuczynski, John-Michael, 2006. On Marga Reimer’s descriptions and beyond. Pragmatics and Cognition 14 (1), 196–204.
+          Kuczynski, John-Michael, 2007. Conceptual Atomism and the Computational Theory of Mind: A Defense of Content-internalism and Semantic externalism.
+John Benjamins, Amsterdam.
+    Kuczynski, John-Michael, 2009. Analytic Philosophy. Kendall Hunt, Dubuque, IN.
+      McCawley, James D., 1971. Everything that Linguists Have Always Wanted to Know about Logic. University of Chicago Press, Chicago, IL.
+Neale, Stephen, 1990. Descriptions. The M.I.T. Press, Cambridge, MA.
+Parsons, Terence, 2000. Indeterminate Identity. Oxford, New York.
+  Pinker, Steven, 2007. The Stuff of Thought: Language as a Window Into Human Nature. Viking Books, New York.
+Priest, Graham, 2006. Doubt Truth to be a Liar. Oxford, New York.                          J.-M. Kuczynski / Journal of Pragmatics 42 (2010) 2314–23462346
+
+        Quine, Willard van Orman, 1953. Reference and modality. In: Quine, W.V.O. (Ed.), From a Logical Point of View. Harvard University Press, Cambridge, MA,
+pp. 139–151.
+    Quine, Willard van Orman, 1960. Word and Object. The M.I.T. Press, Cambridge, MA.
+      Recanati, Francois, 1989. The pragmatics of what is said. Mind and Language 4, 295–329.
+      Recanati, Francois, 1993. Direct Reference: From Language to Thought. Blackwell, Oxford.
+    Recanati, Francois, 2004. Literal Meaning. Cambridge University Press, Cambridge.
+      Russell, Bertrand, 1905. On denoting. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York, pp. 203–211.
+      Russell, Bertrand, 1918. The philosophy of logical atomism. In: Marsh, R.C. (Ed.), Logic and Knowledge. Routledge, London, pp. 167–272.
+  Salmon, Nathan, 1986. Frege’s Puzzle. The M.I.T. Press, Cambridge, MA.
+    Salmon, Nathan, 2005. Metaphysics, Mathematics, and Meaning: Philosophical Papers I. Oxford University Press, New York.
+    Salmon, Nathan, 2007. Content, Cognition, and Communication: Philosophical Papers II. Oxford University Press, New York.
+    Saul, Jennifer, 1997. Substitution and simple sentences. Analysis 57 (2), 102–108.
+    Searle, John, 1970. Expression and Meaning. Cambridge University Press, Cambridge.
+      Soames, Scott, 2002. Beyond Rigidity: The Un nished Semantic Agenda of Naming and Necessity. Oxford University Press, New York.
+        Smullyan, Raymond, 1953. Modality and description. In: Linsky, L. (Ed.), Reference and Modality. Oxford University Press, New York, pp. 35–43.
+      Strawson, Peter, 1950. On referring. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford University Press, New York, pp. 219–234.
+          Tarski, Alfred, 1983. The concept of truth in formalized languages. In: Corcoran, J. (Ed.), Logic, Semantics, and Metamathematics. Hackett, Indianapolis, IN,
+pp. 152–169.
+Travis, Charles, 1975. On what is strictly speaking true. Canadian Journal of Philosophy 15 (2), 187–229.
+    Tughendat, Ernst, 1970. The meaning of ‘‘Bedeutung’’ in Frege. Analysis 30, 168–189.
+  Wittgenstein, Ludwig, 1958. Philosophical Investigations. Blackwell, Oxford.
+  Wreen, Michael, 1974. Belief, modality, opacity, and the referential/attributive distinction. Linguistics 22, 313–340.
+
+          John-Michael Kuczynskian assistant professor of Philosophy at Virginia Commonwealth University. He received a PhD in Philosophy in 2006 from the University
+of California, Santa Barbara.

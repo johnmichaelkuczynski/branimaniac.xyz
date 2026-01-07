@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 6372,
+    "topic": "Experience",
+    "premise": "experience|fundamentally|transactional|internal",
+    "conclusion": "Experience is fundamentally transactional, not internal"
+  },
+  {
+    "id": 6373,
+    "topic": "Experience",
+    "premise": "experience|includes|doing|undergoing|continuous|circuit",
+    "conclusion": "Experience includes doing and undergoing in a continuous circuit"
+  },
+  {
+    "id": 6374,
+    "topic": "Experience",
+    "premise": "meaning|arises|experience|transformed|reflection",
+    "conclusion": "Meaning arises only when experience is transformed by reflection"
+  },
+  {
+    "id": 6375,
+    "topic": "Experience",
+    "premise": "experience|situated|environment",
+    "conclusion": "Experience is always situated in an environment"
+  },
+  {
+    "id": 6376,
+    "topic": "Experience",
+    "premise": "growth|sole|ultimate|test|value|experience",
+    "conclusion": "Growth is the sole ultimate test of the value of experience"
+  },
+  {
+    "id": 6377,
+    "topic": "Habit",
+    "premise": "habit|primary|structure|conduct",
+    "conclusion": "Habit is the primary structure of conduct"
+  },
+  {
+    "id": 6378,
+    "topic": "Habit",
+    "premise": "intelligence|operates|modifying|habits",
+    "conclusion": "Intelligence operates by modifying habits"
+  },
+  {
+    "id": 6379,
+    "topic": "Habit",
+    "premise": "habits|socially|shaped|merely|private",
+    "conclusion": "Habits are socially shaped, not merely private"
+  },
+  {
+    "id": 6380,
+    "topic": "Habit",
+    "premise": "freedom|intelligent|habit|reconstruction",
+    "conclusion": "Freedom is intelligent habit-reconstruction"
+  },
+  {
+    "id": 6381,
+    "topic": "Habit",
+    "premise": "moral|failures|result|rigid|unintelligent|habits",
+    "conclusion": "Moral failures result from rigid or unintelligent habits"
+  },
+  {
+    "id": 6382,
+    "topic": "Inquiry",
+    "premise": "inquiry|begins|genuine|doubt|arising|disrupted",
+    "conclusion": "Inquiry begins in genuine doubt arising from disrupted habit"
+  },
+  {
+    "id": 6383,
+    "topic": "Inquiry",
+    "premise": "inquiry|general|form|thought|science",
+    "conclusion": "Inquiry is the general form of all thought, not just science"
+  },
+  {
+    "id": 6384,
+    "topic": "Inquiry",
+    "premise": "inquiry|tool|transforming|problematic|situations",
+    "conclusion": "Inquiry is a tool for transforming problematic situations"
+  },
+  {
+    "id": 6385,
+    "topic": "Inquiry",
+    "premise": "truth|resolves|problem|initiated|inquiry",
+    "conclusion": "Truth is what resolves the problem that initiated inquiry"
+  },
+  {
+    "id": 6386,
+    "topic": "Inquiry",
+    "premise": "inquiry|continuous|biological|adaptation",
+    "conclusion": "Inquiry is continuous with biological adaptation"
+  },
+  {
+    "id": 6387,
+    "topic": "Pragmatism",
+    "premise": "meaning|lies|practical|consequences",
+    "conclusion": "Meaning lies in practical consequences"
+  },
+  {
+    "id": 6388,
+    "topic": "Pragmatism",
+    "premise": "ideas|instruments|action|mirrors|reality",
+    "conclusion": "Ideas are instruments for action, not mirrors of reality"
+  },
+  {
+    "id": 6389,
+    "topic": "Pragmatism",
+    "premise": "truth|emerges|successful|operations|correspondence",
+    "conclusion": "Truth emerges from successful operations, not correspondence"
+  },
+  {
+    "id": 6390,
+    "topic": "Pragmatism",
+    "premise": "philosophy|take|problems|lived|experience",
+    "conclusion": "Philosophy must take its problems from lived experience"
+  },
+  {
+    "id": 6391,
+    "topic": "Pragmatism",
+    "premise": "pragmatism|dissolves|false|dualisms|returning|practice",
+    "conclusion": "Pragmatism dissolves false dualisms by returning to practice"
+  },
+  {
+    "id": 6392,
+    "topic": "Democracy",
+    "premise": "democracy|primarily|moral|ideal|political|system",
+    "conclusion": "Democracy is primarily a moral ideal, not just a political system"
+  },
+  {
+    "id": 6393,
+    "topic": "Democracy",
+    "premise": "democracy|associated|living|based|communication",
+    "conclusion": "Democracy is a way of associated living based on communication"
+  },
+  {
+    "id": 6394,
+    "topic": "Democracy",
+    "premise": "democratic|society|depends|free|full|participation",
+    "conclusion": "A democratic society depends on free and full participation"
+  },
+  {
+    "id": 6395,
+    "topic": "Democracy",
+    "premise": "democracy|develops|individuality|social|interaction",
+    "conclusion": "Democracy develops individuality through social interaction"
+  },
+  {
+    "id": 6396,
+    "topic": "Democracy",
+    "premise": "education|engine|democracy",
+    "conclusion": "Education is the engine of democracy"
+  },
+  {
+    "id": 6397,
+    "topic": "Education",
+    "premise": "education|reconstruction|experience",
+    "conclusion": "Education is the reconstruction of experience"
+  },
+  {
+    "id": 6398,
+    "topic": "Education",
+    "premise": "schools|connect|learning|real|activities",
+    "conclusion": "Schools must connect learning to real activities"
+  },
+  {
+    "id": 6399,
+    "topic": "Education",
+    "premise": "growth|legitimate|educational",
+    "conclusion": "Growth is the only legitimate educational aim"
+  },
+  {
+    "id": 6400,
+    "topic": "Education",
+    "premise": "learning|requires|active|participation|passive|reception",
+    "conclusion": "Learning requires active participation, not passive reception"
+  },
+  {
+    "id": 6401,
+    "topic": "Education",
+    "premise": "curriculum|adapt|developmental|needs|child",
+    "conclusion": "Curriculum must adapt to the developmental needs of the child"
+  },
+  {
+    "id": 6402,
+    "topic": "Growth",
+    "premise": "growth",
+    "conclusion": "Growth is an end in itself"
+  },
+  {
+    "id": 6403,
+    "topic": "Growth",
+    "premise": "growth|fixed|telos|beyond",
+    "conclusion": "Growth has no fixed telos beyond further growth"
+  },
+  {
+    "id": 6404,
+    "topic": "Growth",
+    "premise": "environments|designed|continuous|growth",
+    "conclusion": "Environments should be designed for continuous growth"
+  },
+  {
+    "id": 6405,
+    "topic": "Growth",
+    "premise": "education|halts|distorts|growth",
+    "conclusion": "Bad education halts or distorts growth"
+  },
+  {
+    "id": 6406,
+    "topic": "Growth",
+    "premise": "growth|requires|open|ended|inquiry",
+    "conclusion": "Growth requires open-ended inquiry"
+  },
+  {
+    "id": 6407,
+    "topic": "Instrumentalism",
+    "premise": "ideas|tools|coping|situations",
+    "conclusion": "Ideas are tools for coping with situations"
+  },
+  {
+    "id": 6408,
+    "topic": "Instrumentalism",
+    "premise": "concepts|evolve",
+    "conclusion": "Concepts evolve through use"
+  },
+  {
+    "id": 6409,
+    "topic": "Instrumentalism",
+    "premise": "logical|forms|arise|recurrent|patterns|inquiry",
+    "conclusion": "Logical forms arise from recurrent patterns of inquiry"
+  },
+  {
+    "id": 6410,
+    "topic": "Instrumentalism",
+    "premise": "knowledge|mode|problem|solving",
+    "conclusion": "Knowledge is a mode of problem-solving"
+  },
+  {
+    "id": 6411,
+    "topic": "Instrumentalism",
+    "premise": "philosophy|concern|operations|essences",
+    "conclusion": "Philosophy must concern itself with operations, not essences"
+  },
+  {
+    "id": 6412,
+    "topic": "Intelligence",
+    "premise": "intelligence|capacity|foresee|regulate|consequences",
+    "conclusion": "Intelligence is the capacity to foresee and regulate consequences"
+  },
+  {
+    "id": 6413,
+    "topic": "Intelligence",
+    "premise": "intelligence|grows|problematic|situations",
+    "conclusion": "Intelligence grows through use in problematic situations"
+  },
+  {
+    "id": 6414,
+    "topic": "Intelligence",
+    "premise": "intelligence|social|private",
+    "conclusion": "Intelligence is social, not private"
+  },
+  {
+    "id": 6415,
+    "topic": "Intelligence",
+    "premise": "intelligence|reconstructs|habits",
+    "conclusion": "Intelligence reconstructs habits"
+  },
+  {
+    "id": 6416,
+    "topic": "Intelligence",
+    "premise": "intelligence|core|moral|deliberation",
+    "conclusion": "Intelligence is the core of moral deliberation"
+  },
+  {
+    "id": 6417,
+    "topic": "Freedom",
+    "premise": "freedom|absence|constraint|mastery|conditions",
+    "conclusion": "Freedom is not absence of constraint but mastery of conditions"
+  },
+  {
+    "id": 6418,
+    "topic": "Freedom",
+    "premise": "freedom|achieved|intelligent|action",
+    "conclusion": "Freedom is achieved through intelligent action"
+  },
+  {
+    "id": 6419,
+    "topic": "Freedom",
+    "premise": "social|environments|enhance|suppress|freedom",
+    "conclusion": "Social environments can enhance or suppress freedom"
+  },
+  {
+    "id": 6420,
+    "topic": "Freedom",
+    "premise": "free|action|harmony|reconstructed|habits",
+    "conclusion": "Free action is action in harmony with reconstructed habits"
+  },
+  {
+    "id": 6421,
+    "topic": "Freedom",
+    "premise": "freedom|inseparable|education",
+    "conclusion": "Freedom is inseparable from education"
+  },
+  {
+    "id": 6422,
+    "topic": "Moral Deliberation",
+    "premise": "moral|problems|arise|conflicting|habits|ends",
+    "conclusion": "Moral problems arise from conflicting habits and ends"
+  },
+  {
+    "id": 6423,
+    "topic": "Moral Deliberation",
+    "premise": "deliberation|inquiry|applied|conduct",
+    "conclusion": "Deliberation is inquiry applied to conduct"
+  },
+  {
+    "id": 6424,
+    "topic": "Moral Deliberation",
+    "premise": "moral|ends|hypotheses|tested",
+    "conclusion": "Moral ends are hypotheses to be tested"
+  },
+  {
+    "id": 6425,
+    "topic": "Moral Deliberation",
+    "premise": "goodness|lies|consequences|action|growth",
+    "conclusion": "Goodness lies in the consequences of action for growth"
+  },
+  {
+    "id": 6426,
+    "topic": "Moral Deliberation",
+    "premise": "moral|principles|tools|absolutes",
+    "conclusion": "Moral principles are tools, not absolutes"
+  },
+  {
+    "id": 6427,
+    "topic": "Ethics as Experimental",
+    "premise": "ethical|principles|tested|experience",
+    "conclusion": "Ethical principles must be tested in experience"
+  },
+  {
+    "id": 6428,
+    "topic": "Ethics as Experimental",
+    "premise": "fixed|moral|code|fits|situations",
+    "conclusion": "No fixed moral code fits all situations"
+  },
+  {
+    "id": 6429,
+    "topic": "Ethics as Experimental",
+    "premise": "ethical|knowledge|grows|like|scientific",
+    "conclusion": "Ethical knowledge grows like scientific knowledge"
+  },
+  {
+    "id": 6430,
+    "topic": "Ethics as Experimental",
+    "premise": "consequences|reveal|moral|meaning",
+    "conclusion": "Consequences reveal moral meaning"
+  },
+  {
+    "id": 6431,
+    "topic": "Ethics as Experimental",
+    "premise": "ethics|psychology|continuous",
+    "conclusion": "Ethics and psychology are continuous"
+  },
+  {
+    "id": 6432,
+    "topic": "Scientific Method",
+    "premise": "scientific|method|generalizes|everyday|inquiry",
+    "conclusion": "Scientific method generalizes everyday inquiry"
+  },
+  {
+    "id": 6433,
+    "topic": "Scientific Method",
+    "premise": "scientific|thinking|socially|organized|intelligence",
+    "conclusion": "Scientific thinking is socially organized intelligence"
+  },
+  {
+    "id": 6434,
+    "topic": "Scientific Method",
+    "premise": "science|emancipates|thought|prejudice",
+    "conclusion": "Science emancipates thought from prejudice"
+  },
+  {
+    "id": 6435,
+    "topic": "Scientific Method",
+    "premise": "science|provides|best|model|philosophy",
+    "conclusion": "Science provides the best model for philosophy"
+  },
+  {
+    "id": 6436,
+    "topic": "Scientific Method",
+    "premise": "science|improves|democracy|informing|decision|making",
+    "conclusion": "Science improves democracy by informing decision-making"
+  },
+  {
+    "id": 6437,
+    "topic": "Logic as Inquiry",
+    "premise": "logical|forms|emerge|operations|metaphysics",
+    "conclusion": "Logical forms emerge from operations, not metaphysics"
+  },
+  {
+    "id": 6438,
+    "topic": "Logic as Inquiry",
+    "premise": "logic|describes|pattern|successful|inquiry",
+    "conclusion": "Logic describes the pattern of successful inquiry"
+  },
+  {
+    "id": 6439,
+    "topic": "Logic as Inquiry",
+    "premise": "logic|normative|thinking",
+    "conclusion": "Logic is normative for thinking"
+  },
+  {
+    "id": 6440,
+    "topic": "Logic as Inquiry",
+    "premise": "logical|forms|evolve|practice",
+    "conclusion": "Logical forms evolve with practice"
+  },
+  {
+    "id": 6441,
+    "topic": "Logic as Inquiry",
+    "premise": "logic|continuous|empirical|method",
+    "conclusion": "Logic is continuous with empirical method"
+  },
+  {
+    "id": 6442,
+    "topic": "Nature and Naturalism",
+    "premise": "experience|part|nature|outside",
+    "conclusion": "Experience is part of nature, not outside it"
+  },
+  {
+    "id": 6443,
+    "topic": "Nature and Naturalism",
+    "premise": "mind|natural|function|organism|environment|interaction",
+    "conclusion": "Mind is a natural function of organism-environment interaction"
+  },
+  {
+    "id": 6444,
+    "topic": "Nature and Naturalism",
+    "premise": "values|arise|within|natural|processes",
+    "conclusion": "Values arise within natural processes"
+  },
+  {
+    "id": 6445,
+    "topic": "Nature and Naturalism",
+    "premise": "nature|fixed|eventful|changing",
+    "conclusion": "Nature is not fixed; it is eventful and changing"
+  },
+  {
+    "id": 6446,
+    "topic": "Nature and Naturalism",
+    "premise": "philosophy|naturalize|dualisms",
+    "conclusion": "Philosophy must naturalize dualisms"
+  },
+  {
+    "id": 6447,
+    "topic": "Mind as Functional",
+    "premise": "mind|substance|activity",
+    "conclusion": "Mind is not a substance but an activity"
+  },
+  {
+    "id": 6448,
+    "topic": "Mind as Functional",
+    "premise": "mind|appears|problematic|situations",
+    "conclusion": "Mind appears only in problematic situations"
+  },
+  {
+    "id": 6449,
+    "topic": "Mind as Functional",
+    "premise": "mind|relational|internal",
+    "conclusion": "Mind is relational, not internal"
+  },
+  {
+    "id": 6450,
+    "topic": "Mind as Functional",
+    "premise": "mind|develops|communication",
+    "conclusion": "Mind develops through communication"
+  },
+  {
+    "id": 6451,
+    "topic": "Mind as Functional",
+    "premise": "mind|continuous|behavior",
+    "conclusion": "Mind is continuous with behavior"
+  },
+  {
+    "id": 6452,
+    "topic": "Community",
+    "premise": "individuals|grow|community",
+    "conclusion": "Individuals grow only in community"
+  },
+  {
+    "id": 6453,
+    "topic": "Community",
+    "premise": "community|transmits|culture|habits",
+    "conclusion": "Community transmits culture and habits"
+  },
+  {
+    "id": 6454,
+    "topic": "Community",
+    "premise": "community|depends|communication",
+    "conclusion": "Community depends on communication"
+  },
+  {
+    "id": 6455,
+    "topic": "Community",
+    "premise": "community|basis|democracy",
+    "conclusion": "Community is the basis of democracy"
+  },
+  {
+    "id": 6456,
+    "topic": "Community",
+    "premise": "fragmented|communities|produce|social|pathologies",
+    "conclusion": "Fragmented communities produce social pathologies"
+  },
+  {
+    "id": 6457,
+    "topic": "Communication",
+    "premise": "communication|creates|shared|meaning",
+    "conclusion": "Communication creates shared meaning"
+  },
+  {
+    "id": 6458,
+    "topic": "Communication",
+    "premise": "communication|foundation|society",
+    "conclusion": "Communication is the foundation of society"
+  },
+  {
+    "id": 6459,
+    "topic": "Communication",
+    "premise": "education|communicative|reconstruction",
+    "conclusion": "Education is communicative reconstruction"
+  },
+  {
+    "id": 6460,
+    "topic": "Communication",
+    "premise": "language|tool|directed|behavior",
+    "conclusion": "Language is a tool for directed behavior"
+  },
+  {
+    "id": 6461,
+    "topic": "Communication",
+    "premise": "democracy|lives|dies|communication|quality",
+    "conclusion": "Democracy lives or dies through communication quality"
+  },
+  {
+    "id": 6462,
+    "topic": "Art and Aesthetic Experience",
+    "premise": "unifies|doing|undergoing",
+    "conclusion": "Art unifies doing and undergoing"
+  },
+  {
+    "id": 6463,
+    "topic": "Art and Aesthetic Experience",
+    "premise": "culmination|everyday|experience",
+    "conclusion": "Art is the culmination of everyday experience"
+  },
+  {
+    "id": 6464,
+    "topic": "Art and Aesthetic Experience",
+    "premise": "aesthetic|experience|requires|heightened|perception",
+    "conclusion": "Aesthetic experience requires heightened perception"
+  },
+  {
+    "id": 6465,
+    "topic": "Art and Aesthetic Experience",
+    "premise": "expresses|rhythms|experience",
+    "conclusion": "Art expresses the rhythms of experience"
+  },
+  {
+    "id": 6466,
+    "topic": "Art and Aesthetic Experience",
+    "premise": "central|fully|human|life",
+    "conclusion": "Art is central to a fully human life"
+  },
+  {
+    "id": 6467,
+    "topic": "Creativity",
+    "premise": "creativity|emerges|reorganized|habits",
+    "conclusion": "Creativity emerges from reorganized habits"
+  },
+  {
+    "id": 6468,
+    "topic": "Creativity",
+    "premise": "environments|foster|creative|action",
+    "conclusion": "Environments must foster creative action"
+  },
+  {
+    "id": 6469,
+    "topic": "Creativity",
+    "premise": "creativity|social|solitary",
+    "conclusion": "Creativity is social, not solitary"
+  },
+  {
+    "id": 6470,
+    "topic": "Creativity",
+    "premise": "creativity|continuous|inquiry",
+    "conclusion": "Creativity is continuous with inquiry"
+  },
+  {
+    "id": 6471,
+    "topic": "Creativity",
+    "premise": "creativity|essential|democracy",
+    "conclusion": "Creativity is essential to democracy"
+  },
+  {
+    "id": 6472,
+    "topic": "Emotion",
+    "premise": "emotion|quality|situations|internal|states",
+    "conclusion": "Emotion is a quality of situations, not internal states"
+  },
+  {
+    "id": 6473,
+    "topic": "Emotion",
+    "premise": "emotion|guides|organizes|action",
+    "conclusion": "Emotion guides and organizes action"
+  },
+  {
+    "id": 6474,
+    "topic": "Emotion",
+    "premise": "emotion|cognition|inseparable",
+    "conclusion": "Emotion and cognition are inseparable"
+  },
+  {
+    "id": 6475,
+    "topic": "Emotion",
+    "premise": "emotion|reveals|value|dimension|experience",
+    "conclusion": "Emotion reveals the value-dimension of experience"
+  },
+  {
+    "id": 6476,
+    "topic": "Emotion",
+    "premise": "emotion|becomes|intelligent|reflection",
+    "conclusion": "Emotion becomes intelligent through reflection"
+  },
+  {
+    "id": 6477,
+    "topic": "Imagination",
+    "premise": "imagination|extends|possibilities|action",
+    "conclusion": "Imagination extends possibilities for action"
+  },
+  {
+    "id": 6478,
+    "topic": "Imagination",
+    "premise": "imagination|essential|moral|reasoning",
+    "conclusion": "Imagination is essential to moral reasoning"
+  },
+  {
+    "id": 6479,
+    "topic": "Imagination",
+    "premise": "imagination|tool|inquiry",
+    "conclusion": "Imagination is a key tool of inquiry"
+  },
+  {
+    "id": 6480,
+    "topic": "Imagination",
+    "premise": "imagination|reconfigures|habit",
+    "conclusion": "Imagination reconfigures habit"
+  },
+  {
+    "id": 6481,
+    "topic": "Imagination",
+    "premise": "imagination|fuels|democracy",
+    "conclusion": "Imagination fuels democracy and art"
+  },
+  {
+    "id": 6482,
+    "topic": "Perception",
+    "premise": "perception|active|passive",
+    "conclusion": "Perception is active, not passive"
+  },
+  {
+    "id": 6483,
+    "topic": "Perception",
+    "premise": "perception|selects|relevant|action",
+    "conclusion": "Perception selects what is relevant to action"
+  },
+  {
+    "id": 6484,
+    "topic": "Perception",
+    "premise": "training|improves|perception",
+    "conclusion": "Training improves perception"
+  },
+  {
+    "id": 6485,
+    "topic": "Perception",
+    "premise": "aesthetic|perception|intensifies|experience",
+    "conclusion": "Aesthetic perception intensifies experience"
+  },
+  {
+    "id": 6486,
+    "topic": "Perception",
+    "premise": "perception|culturally|shaped",
+    "conclusion": "Perception is culturally shaped"
+  },
+  {
+    "id": 6487,
+    "topic": "Values and Valuation",
+    "premise": "values|arise|course|solving|problems",
+    "conclusion": "Values arise in the course of solving problems"
+  },
+  {
+    "id": 6488,
+    "topic": "Values and Valuation",
+    "premise": "values|intrinsic|functions|experience",
+    "conclusion": "Values are not intrinsic but functions of experience"
+  },
+  {
+    "id": 6489,
+    "topic": "Values and Valuation",
+    "premise": "valuation|experimental",
+    "conclusion": "Valuation is experimental"
+  },
+  {
+    "id": 6490,
+    "topic": "Values and Valuation",
+    "premise": "value|judgments|hypotheses",
+    "conclusion": "Value-judgments are hypotheses"
+  },
+  {
+    "id": 6491,
+    "topic": "Values and Valuation",
+    "premise": "value|conflicts|require|inquiry|dogma",
+    "conclusion": "Value conflicts require inquiry, not dogma"
+  },
+  {
+    "id": 6492,
+    "topic": "Social Reform",
+    "premise": "education|central|social|reform",
+    "conclusion": "Education is central to social reform"
+  },
+  {
+    "id": 6493,
+    "topic": "Social Reform",
+    "premise": "social|problems|stem|maladjusted|institutions",
+    "conclusion": "Social problems stem from maladjusted institutions"
+  },
+  {
+    "id": 6494,
+    "topic": "Social Reform",
+    "premise": "reform|experimental",
+    "conclusion": "Reform must be experimental"
+  },
+  {
+    "id": 6495,
+    "topic": "Social Reform",
+    "premise": "democracy|reconstruct|outdated|social|habits",
+    "conclusion": "Democracy must reconstruct outdated social habits"
+  },
+  {
+    "id": 6496,
+    "topic": "Social Reform",
+    "premise": "social|science|informs|intelligent|reform",
+    "conclusion": "Social science informs intelligent reform"
+  },
+  {
+    "id": 6497,
+    "topic": "Industrialization",
+    "premise": "industrial|change|demands|educational|reconstruction",
+    "conclusion": "Industrial change demands educational reconstruction"
+  },
+  {
+    "id": 6498,
+    "topic": "Industrialization",
+    "premise": "habits|fail|technological|contexts",
+    "conclusion": "Old habits fail in new technological contexts"
+  },
+  {
+    "id": 6499,
+    "topic": "Industrialization",
+    "premise": "mechanized|labor|threatens|individuality|unless|reformed",
+    "conclusion": "Mechanized labor threatens individuality unless reformed"
+  },
+  {
+    "id": 6500,
+    "topic": "Industrialization",
+    "premise": "industrial|society|needs|intelligent|cooperation",
+    "conclusion": "Industrial society needs intelligent cooperation"
+  },
+  {
+    "id": 6501,
+    "topic": "Industrialization",
+    "premise": "democracy|adapt|industrial|realities",
+    "conclusion": "Democracy must adapt to industrial realities"
+  },
+  {
+    "id": 6502,
+    "topic": "Technology",
+    "premise": "technology|extension|human|action",
+    "conclusion": "Technology is an extension of human action"
+  },
+  {
+    "id": 6503,
+    "topic": "Technology",
+    "premise": "technology|amplifies|intelligence",
+    "conclusion": "Technology amplifies intelligence"
+  },
+  {
+    "id": 6504,
+    "topic": "Technology",
+    "premise": "technology|socially|supervised",
+    "conclusion": "Technology must be socially supervised"
+  },
+  {
+    "id": 6505,
+    "topic": "Technology",
+    "premise": "technology|changes|patterns|association",
+    "conclusion": "Technology changes patterns of association"
+  },
+  {
+    "id": 6506,
+    "topic": "Technology",
+    "premise": "technology|requires|ethical|reconstruction",
+    "conclusion": "Technology requires ethical reconstruction"
+  },
+  {
+    "id": 6507,
+    "topic": "Democracy as Associated Living",
+    "premise": "democracy|lived|communication",
+    "conclusion": "Democracy is lived through communication"
+  },
+  {
+    "id": 6508,
+    "topic": "Democracy as Associated Living",
+    "premise": "shared|activities|create|democratic|consciousness",
+    "conclusion": "Shared activities create democratic consciousness"
+  },
+  {
+    "id": 6509,
+    "topic": "Democracy as Associated Living",
+    "premise": "democracy|ongoing|experiment",
+    "conclusion": "Democracy is an ongoing experiment"
+  },
+  {
+    "id": 6510,
+    "topic": "Democracy as Associated Living",
+    "premise": "democratic|life|requires|educational|equality",
+    "conclusion": "Democratic life requires educational equality"
+  },
+  {
+    "id": 6511,
+    "topic": "Democracy as Associated Living",
+    "premise": "democracy|depends|flexible|institutions",
+    "conclusion": "Democracy depends on flexible institutions"
+  },
+  {
+    "id": 6512,
+    "topic": "Public vs Private",
+    "premise": "modern|society|blurs|public|private|roles",
+    "conclusion": "Modern society blurs public and private roles"
+  },
+  {
+    "id": 6513,
+    "topic": "Public vs Private",
+    "premise": "public|forms|around|indirect|consequences|actions",
+    "conclusion": "A public forms around the indirect consequences of actions"
+  },
+  {
+    "id": 6514,
+    "topic": "Public vs Private",
+    "premise": "public|needs|expert|inquiry|function",
+    "conclusion": "The public needs expert inquiry to function"
+  },
+  {
+    "id": 6515,
+    "topic": "Public vs Private",
+    "premise": "democracy|fails|public|cannot|identify",
+    "conclusion": "Democracy fails when the public cannot identify itself"
+  },
+  {
+    "id": 6516,
+    "topic": "Public vs Private",
+    "premise": "education|forms|intelligent|public",
+    "conclusion": "Education forms the intelligent public"
+  },
+  {
+    "id": 6517,
+    "topic": "Liberalism",
+    "premise": "liberalism|evolve|social|conditions",
+    "conclusion": "Liberalism must evolve with social conditions"
+  },
+  {
+    "id": 6518,
+    "topic": "Liberalism",
+    "premise": "freedom|requires|social|intelligence",
+    "conclusion": "Freedom requires social intelligence"
+  },
+  {
+    "id": 6519,
+    "topic": "Liberalism",
+    "premise": "liberalism|crisis|stems|rigid|individualism",
+    "conclusion": "Liberalism's crisis stems from rigid individualism"
+  },
+  {
+    "id": 6520,
+    "topic": "Liberalism",
+    "premise": "liberalism|integrate|cooperation|individuality",
+    "conclusion": "Liberalism must integrate cooperation and individuality"
+  },
+  {
+    "id": 6521,
+    "topic": "Liberalism",
+    "premise": "liberalism|justified|growth|metaphysics",
+    "conclusion": "Liberalism is justified through growth, not metaphysics"
+  },
+  {
+    "id": 6522,
+    "topic": "Experience and Meaning",
+    "premise": "meaning|arises|reflective|transformation|experience",
+    "conclusion": "Meaning arises from reflective transformation of experience"
+  },
+  {
+    "id": 6523,
+    "topic": "Experience and Meaning",
+    "premise": "immediate|experience|unarticulated|meaningful",
+    "conclusion": "Immediate experience is unarticulated but meaningful"
+  },
+  {
+    "id": 6524,
+    "topic": "Experience and Meaning",
+    "premise": "meaning|guides|future|action",
+    "conclusion": "Meaning guides future action"
+  },
+  {
+    "id": 6525,
+    "topic": "Experience and Meaning",
+    "premise": "meaning|social",
+    "conclusion": "Meaning is social"
+  },
+  {
+    "id": 6526,
+    "topic": "Experience and Meaning",
+    "premise": "meaning|grows|communication",
+    "conclusion": "Meaning grows through communication"
+  },
+  {
+    "id": 6527,
+    "topic": "Language",
+    "premise": "language|tool|coordinated|action",
+    "conclusion": "Language is a tool for coordinated action"
+  },
+  {
+    "id": 6528,
+    "topic": "Language",
+    "premise": "meaning|context",
+    "conclusion": "Meaning is use in context"
+  },
+  {
+    "id": 6529,
+    "topic": "Language",
+    "premise": "language|shapes|inquiry",
+    "conclusion": "Language shapes inquiry"
+  },
+  {
+    "id": 6530,
+    "topic": "Language",
+    "premise": "language|expresses|value|laden|situations",
+    "conclusion": "Language expresses value-laden situations"
+  },
+  {
+    "id": 6531,
+    "topic": "Language",
+    "premise": "language|evolves|social|needs",
+    "conclusion": "Language evolves with social needs"
+  },
+  {
+    "id": 6532,
+    "topic": "Education as Reconstruction",
+    "premise": "education|reorganizes|experience",
+    "conclusion": "Education reorganizes experience"
+  },
+  {
+    "id": 6533,
+    "topic": "Education as Reconstruction",
+    "premise": "reconstruction|requires|active|participation",
+    "conclusion": "Reconstruction requires active participation"
+  },
+  {
+    "id": 6534,
+    "topic": "Education as Reconstruction",
+    "premise": "teachers|guide|reconstruction|dictate",
+    "conclusion": "Teachers guide reconstruction, not dictate it"
+  },
+  {
+    "id": 6535,
+    "topic": "Education as Reconstruction",
+    "premise": "reconstruction|continues|lifelong",
+    "conclusion": "Reconstruction continues lifelong"
+  },
+  {
+    "id": 6536,
+    "topic": "Education as Reconstruction",
+    "premise": "reconstruction|links|school|society",
+    "conclusion": "Reconstruction links school and society"
+  },
+  {
+    "id": 6537,
+    "topic": "Child-Centered Learning",
+    "premise": "children|learn|doing",
+    "conclusion": "Children learn by doing"
+  },
+  {
+    "id": 6538,
+    "topic": "Child-Centered Learning",
+    "premise": "interests|guide|effective|learning",
+    "conclusion": "Interests guide effective learning"
+  },
+  {
+    "id": 6539,
+    "topic": "Child-Centered Learning",
+    "premise": "developmental|stages|matter",
+    "conclusion": "Developmental stages matter"
+  },
+  {
+    "id": 6540,
+    "topic": "Child-Centered Learning",
+    "premise": "forced|abstract|learning|ineffective",
+    "conclusion": "Forced, abstract learning is ineffective"
+  },
+  {
+    "id": 6541,
+    "topic": "Child-Centered Learning",
+    "premise": "schools|adapt|children|natural|impulses",
+    "conclusion": "Schools must adapt to children's natural impulses"
+  },
+  {
+    "id": 6542,
+    "topic": "Critique of Traditional Schooling",
+    "premise": "traditional|schooling|isolates|knowledge|action",
+    "conclusion": "Traditional schooling isolates knowledge from action"
+  },
+  {
+    "id": 6543,
+    "topic": "Critique of Traditional Schooling",
+    "premise": "traditional|schooling|relies|passive|absorption",
+    "conclusion": "Traditional schooling relies on passive absorption"
+  },
+  {
+    "id": 6544,
+    "topic": "Critique of Traditional Schooling",
+    "premise": "traditional|schooling|treats|discipline|external|compulsion",
+    "conclusion": "Traditional schooling treats discipline as external compulsion"
+  },
+  {
+    "id": 6545,
+    "topic": "Critique of Traditional Schooling",
+    "premise": "traditional|schooling|prioritizes|rote|over|inquiry",
+    "conclusion": "Traditional schooling prioritizes rote over inquiry"
+  },
+  {
+    "id": 6546,
+    "topic": "Critique of Traditional Schooling",
+    "premise": "traditional|schooling|produces|maladjusted|adults",
+    "conclusion": "Traditional schooling produces maladjusted adults"
+  },
+  {
+    "id": 6547,
+    "topic": "Nature of Thought",
+    "premise": "thought|arises|problematic|situations",
+    "conclusion": "Thought arises only in problematic situations"
+  },
+  {
+    "id": 6548,
+    "topic": "Nature of Thought",
+    "premise": "thought|instrumental",
+    "conclusion": "Thought is instrumental"
+  },
+  {
+    "id": 6549,
+    "topic": "Nature of Thought",
+    "premise": "thought|part|action|separate",
+    "conclusion": "Thought is part of action, not separate"
+  },
+  {
+    "id": 6550,
+    "topic": "Nature of Thought",
+    "premise": "thought|tests|possible|lines|behavior",
+    "conclusion": "Thought tests possible lines of behavior"
+  },
+  {
+    "id": 6551,
+    "topic": "Nature of Thought",
+    "premise": "thought|governed|pattern|inquiry",
+    "conclusion": "Thought is governed by the pattern of inquiry"
+  },
+  {
+    "id": 6552,
+    "topic": "Problem-Solving",
+    "premise": "problems|define|thinking",
+    "conclusion": "Problems define thinking"
+  },
+  {
+    "id": 6553,
+    "topic": "Problem-Solving",
+    "premise": "problems|arise|environmental|conflict",
+    "conclusion": "Problems arise from environmental conflict"
+  },
+  {
+    "id": 6554,
+    "topic": "Problem-Solving",
+    "premise": "solutions|hypotheses|tested|experimentally",
+    "conclusion": "Solutions are hypotheses tested experimentally"
+  },
+  {
+    "id": 6555,
+    "topic": "Problem-Solving",
+    "premise": "good|problems|stimulate|growth",
+    "conclusion": "Good problems stimulate growth"
+  },
+  {
+    "id": 6556,
+    "topic": "Problem-Solving",
+    "premise": "problems|educational|opportunities",
+    "conclusion": "Problems are educational opportunities"
+  },
+  {
+    "id": 6557,
+    "topic": "Self",
+    "premise": "self|socially|formed",
+    "conclusion": "The self is socially formed"
+  },
+  {
+    "id": 6558,
+    "topic": "Self",
+    "premise": "self|pattern|habits",
+    "conclusion": "The self is a pattern of habits"
+  },
+  {
+    "id": 6559,
+    "topic": "Self",
+    "premise": "self|grows|communication",
+    "conclusion": "The self grows through communication"
+  },
+  {
+    "id": 6560,
+    "topic": "Self",
+    "premise": "self|reconstructs|reflection",
+    "conclusion": "The self reconstructs itself through reflection"
+  },
+  {
+    "id": 6561,
+    "topic": "Self",
+    "premise": "self|fixed|essence",
+    "conclusion": "The self has no fixed essence"
+  },
+  {
+    "id": 6562,
+    "topic": "Moral Education",
+    "premise": "moral|education|habit|formation",
+    "conclusion": "Moral education is habit-formation"
+  },
+  {
+    "id": 6563,
+    "topic": "Moral Education",
+    "premise": "children|learn|morality|participation",
+    "conclusion": "Children learn morality through participation"
+  },
+  {
+    "id": 6564,
+    "topic": "Moral Education",
+    "premise": "rules|tools|cooperative|conduct",
+    "conclusion": "Rules are tools for cooperative conduct"
+  },
+  {
+    "id": 6565,
+    "topic": "Moral Education",
+    "premise": "moral|insight|grows|consequences",
+    "conclusion": "Moral insight grows from consequences"
+  },
+  {
+    "id": 6566,
+    "topic": "Moral Education",
+    "premise": "schools|moral|communities",
+    "conclusion": "Schools are moral communities"
+  },
+  {
+    "id": 6567,
+    "topic": "Habit Formation",
+    "premise": "habit|structures|choice",
+    "conclusion": "Habit structures choice"
+  },
+  {
+    "id": 6568,
+    "topic": "Habit Formation",
+    "premise": "habit|intelligent|blind",
+    "conclusion": "Habit can be intelligent or blind"
+  },
+  {
+    "id": 6569,
+    "topic": "Habit Formation",
+    "premise": "habit|shaped|environment",
+    "conclusion": "Habit is shaped by environment"
+  },
+  {
+    "id": 6570,
+    "topic": "Habit Formation",
+    "premise": "habit|changes|reflective|action",
+    "conclusion": "Habit changes through reflective action"
+  },
+  {
+    "id": 6571,
+    "topic": "Habit Formation",
+    "premise": "habit|central|character",
+    "conclusion": "Habit is central to character"
+  },
+  {
+    "id": 6572,
+    "topic": "Social Psychology",
+    "premise": "personality|socially|distributed",
+    "conclusion": "Personality is socially distributed"
+  },
+  {
+    "id": 6573,
+    "topic": "Social Psychology",
+    "premise": "conduct|reflects|environment|much|individual",
+    "conclusion": "Conduct reflects environment as much as individual"
+  },
+  {
+    "id": 6574,
+    "topic": "Social Psychology",
+    "premise": "social|stimuli|organize|behavior",
+    "conclusion": "Social stimuli organize behavior"
+  },
+  {
+    "id": 6575,
+    "topic": "Social Psychology",
+    "premise": "mind|arises|social|interaction",
+    "conclusion": "Mind arises through social interaction"
+  },
+  {
+    "id": 6576,
+    "topic": "Social Psychology",
+    "premise": "social|psychology|ethics|continuous",
+    "conclusion": "Social psychology and ethics are continuous"
+  },
+  {
+    "id": 6577,
+    "topic": "Cooperation",
+    "premise": "cooperation|natural|social|function",
+    "conclusion": "Cooperation is a natural social function"
+  },
+  {
+    "id": 6578,
+    "topic": "Cooperation",
+    "premise": "cooperation|enables|intelligence",
+    "conclusion": "Cooperation enables intelligence"
+  },
+  {
+    "id": 6579,
+    "topic": "Cooperation",
+    "premise": "cooperation|required|democracy",
+    "conclusion": "Cooperation is required for democracy"
+  },
+  {
+    "id": 6580,
+    "topic": "Cooperation",
+    "premise": "competitive|individualism|socially|harmful",
+    "conclusion": "Competitive individualism is socially harmful"
+  },
+  {
+    "id": 6581,
+    "topic": "Cooperation",
+    "premise": "schools|teach|cooperative|habits",
+    "conclusion": "Schools must teach cooperative habits"
+  },
+  {
+    "id": 6582,
+    "topic": "Individuality",
+    "premise": "individuality|develops|social|interaction",
+    "conclusion": "Individuality develops through social interaction"
+  },
+  {
+    "id": 6583,
+    "topic": "Individuality",
+    "premise": "individuality|achievement|given",
+    "conclusion": "Individuality is an achievement, not a given"
+  },
+  {
+    "id": 6584,
+    "topic": "Individuality",
+    "premise": "true|individuality|requires|social|conditions|support",
+    "conclusion": "True individuality requires social conditions that support growth"
+  },
+  {
+    "id": 6585,
+    "topic": "Individuality",
+    "premise": "self|expression|social|function",
+    "conclusion": "Self-expression is a social function"
+  },
+  {
+    "id": 6586,
+    "topic": "Individuality",
+    "premise": "individuality|community|mutually|dependent",
+    "conclusion": "Individuality and community are mutually dependent"
+  },
+  {
+    "id": 6587,
+    "topic": "Creative Action",
+    "premise": "creativity|reorganizes|habits|ways",
+    "conclusion": "Creativity reorganizes habits in new ways"
+  },
+  {
+    "id": 6588,
+    "topic": "Creative Action",
+    "premise": "creative|action|emerges|active|engagement",
+    "conclusion": "Creative action emerges from active engagement"
+  },
+  {
+    "id": 6589,
+    "topic": "Creative Action",
+    "premise": "society|nourish|creativity",
+    "conclusion": "Society must nourish creativity"
+  },
+  {
+    "id": 6590,
+    "topic": "Creative Action",
+    "premise": "creativity|central|democracy",
+    "conclusion": "Creativity is central to democracy"
+  },
+  {
+    "id": 6591,
+    "topic": "Creative Action",
+    "premise": "creative|action|inquiry|highest|expression",
+    "conclusion": "Creative action is inquiry's highest expression"
+  },
+  {
+    "id": 6592,
+    "topic": "Role of the Teacher",
+    "premise": "teachers|design|environments|growth",
+    "conclusion": "Teachers design environments for growth"
+  },
+  {
+    "id": 6593,
+    "topic": "Role of the Teacher",
+    "premise": "teachers|guide|dominate",
+    "conclusion": "Teachers guide, not dominate"
+  },
+  {
+    "id": 6594,
+    "topic": "Role of the Teacher",
+    "premise": "teachers|connect|school|society",
+    "conclusion": "Teachers connect school and society"
+  },
+  {
+    "id": 6595,
+    "topic": "Role of the Teacher",
+    "premise": "teachers|model|intelligent|inquiry",
+    "conclusion": "Teachers model intelligent inquiry"
+  },
+  {
+    "id": 6596,
+    "topic": "Role of the Teacher",
+    "premise": "teachers|foster|cooperative|habits",
+    "conclusion": "Teachers foster cooperative habits"
+  },
+  {
+    "id": 6597,
+    "topic": "Social Control",
+    "premise": "social|control|achieved|shared|aims",
+    "conclusion": "Social control is achieved through shared aims"
+  },
+  {
+    "id": 6598,
+    "topic": "Social Control",
+    "premise": "external|discipline|inferior|internalized|habits",
+    "conclusion": "External discipline is inferior to internalized habits"
+  },
+  {
+    "id": 6599,
+    "topic": "Social Control",
+    "premise": "schools|cultivate|self|control",
+    "conclusion": "Schools should cultivate self-control"
+  },
+  {
+    "id": 6600,
+    "topic": "Social Control",
+    "premise": "control|grows|participation",
+    "conclusion": "Control grows from participation"
+  },
+  {
+    "id": 6601,
+    "topic": "Social Control",
+    "premise": "control|effective|invisible",
+    "conclusion": "Control is most effective when invisible"
+  },
+  {
+    "id": 6602,
+    "topic": "Truth",
+    "premise": "truth|resolves|problematic|situations",
+    "conclusion": "Truth is what resolves problematic situations"
+  },
+  {
+    "id": 6603,
+    "topic": "Truth",
+    "premise": "truth|warranted|assertibility|correspondence",
+    "conclusion": "Truth is warranted assertibility, not correspondence"
+  },
+  {
+    "id": 6604,
+    "topic": "Truth",
+    "premise": "truth|evolves|inquiry",
+    "conclusion": "Truth evolves with inquiry"
+  },
+  {
+    "id": 6605,
+    "topic": "Truth",
+    "premise": "truth|operational|metaphysical",
+    "conclusion": "Truth is operational, not metaphysical"
+  },
+  {
+    "id": 6606,
+    "topic": "Truth",
+    "premise": "truth|function|consequences",
+    "conclusion": "Truth is a function of consequences"
+  },
+  {
+    "id": 6607,
+    "topic": "Experimental Philosophy",
+    "premise": "philosophy|adopt|experimental|method",
+    "conclusion": "Philosophy must adopt the experimental method"
+  },
+  {
+    "id": 6608,
+    "topic": "Experimental Philosophy",
+    "premise": "philosophical|claim|beyond|revision",
+    "conclusion": "No philosophical claim is beyond revision"
+  },
+  {
+    "id": 6609,
+    "topic": "Experimental Philosophy",
+    "premise": "philosophy|clarifies|problems|arising|practice",
+    "conclusion": "Philosophy clarifies problems arising in practice"
+  },
+  {
+    "id": 6610,
+    "topic": "Experimental Philosophy",
+    "premise": "philosophy|reorganizes|experience",
+    "conclusion": "Philosophy reorganizes experience"
+  },
+  {
+    "id": 6611,
+    "topic": "Experimental Philosophy",
+    "premise": "philosophy|continuous|science",
+    "conclusion": "Philosophy is continuous with science"
+  },
+  {
+    "id": 6612,
+    "topic": "Democracy and Ethics",
+    "premise": "democracy|depends|intelligent|moral|habits",
+    "conclusion": "Democracy depends on intelligent moral habits"
+  },
+  {
+    "id": 6613,
+    "topic": "Democracy and Ethics",
+    "premise": "ethical|inquiry|needed|democratic|life",
+    "conclusion": "Ethical inquiry is needed for democratic life"
+  },
+  {
+    "id": 6614,
+    "topic": "Democracy and Ethics",
+    "premise": "democracy|expresses|moral|equality",
+    "conclusion": "Democracy expresses moral equality"
+  },
+  {
+    "id": 6615,
+    "topic": "Democracy and Ethics",
+    "premise": "democracy|tests|ideals|practice",
+    "conclusion": "Democracy tests ideals in practice"
+  },
+  {
+    "id": 6616,
+    "topic": "Democracy and Ethics",
+    "premise": "ethical|progress|requires|democratic|institutions",
+    "conclusion": "Ethical progress requires democratic institutions"
+  },
+  {
+    "id": 6617,
+    "topic": "Education as Social Engineering",
+    "premise": "schools|shape|future|society|shaping|habits",
+    "conclusion": "Schools shape future society by shaping habits"
+  },
+  {
+    "id": 6618,
+    "topic": "Education as Social Engineering",
+    "premise": "social|engineering|inevitable|intelligent",
+    "conclusion": "Social engineering is inevitable; it must be intelligent"
+  },
+  {
+    "id": 6619,
+    "topic": "Education as Social Engineering",
+    "premise": "curriculum|tool|social|reconstruction",
+    "conclusion": "Curriculum is a tool for social reconstruction"
+  },
+  {
+    "id": 6620,
+    "topic": "Education as Social Engineering",
+    "premise": "education|adapt|society|changing|conditions",
+    "conclusion": "Education must adapt society to changing conditions"
+  },
+  {
+    "id": 6621,
+    "topic": "Education as Social Engineering",
+    "premise": "good|social|engineering|maximizes|growth",
+    "conclusion": "Good social engineering maximizes growth"
+  }
+]

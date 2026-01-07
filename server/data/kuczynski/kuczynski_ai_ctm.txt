@@ -1,0 +1,73 @@
+AI and the Inadequacy of the Computational Theory of Mind
+
+
+
+The advent of modern artificial intelligence, particularly large language models and neural networks, poses a significant challenge to the computational theory of mind (CTM). While CTM has dominated cognitive science for decades, suggesting that mental processes are fundamentally computational operations performed on discrete, digital representations, the success of contemporary AI systems suggests a radically different picture of how intelligence can emerge.
+
+
+
+ The Traditional Computational View
+
+
+
+CTM views the mind as essentially digital in nature, operating through discrete symbolic manipulations analogous to a classical computer's operations. Under this view, thinking consists of rule-based transformations of clearly defined symbolic representations, much like a computer processing binary code. This theory gained prominence partly because early AI efforts focused on explicitly programmed rules and symbol manipulation.
+
+
+
+ The Analog Foundation of Cognition
+
+
+
+However, closer examination of human cognition reveals that our most fundamental interactions with the world are inherently analog in nature. Consider visual perception: when we see a tree, we first experience a continuous, holistic sensory representation that cannot be neatly decomposed into discrete parts. Only subsequently do we form the digital, language-like thought "there is a tree." This suggests that digital representations in cognition are derivative of and grounded in more fundamental analog processes.
+
+
+
+Moreover, the very process of converting analog sensory experiences into digital representations (like turning visual perception into linguistic thought) cannot itself be purely digital. There must be some non-digital bridge between these domains, as no purely computational process could capture this translation from continuous to discrete representation.
+
+
+
+ Neural Networks and Connectionism
+
+
+
+Modern AI systems, based on neural networks, align much more closely with connectionist theories of mind than with CTM. These systems process information through patterns of activation across vast networks of weighted connections, operating in a fundamentally continuous rather than discrete manner. While they can handle discrete symbolic representations (like language), they do so through underlying analog processes rather than explicit symbol manipulation.
+
+
+
+This aligns with how human cognition appears to work: both artificial and biological neural networks can develop strong patterns or "attractors" that guide future processing, but these function more like deeply embedded constraints than explicit rules. The system learns to recognize and respond to patterns without necessarily decomposing them into discrete operations.
+
+
+
+ Implementation vs. Function
+
+
+
+One might object that neural networks, being implemented on digital computers, must ultimately be digital in nature. However, this conflates implementation level with functional architecture. Just as the Windows operating system can run on different physical substrates while remaining functionally identical, the analog-like processing of neural networks emerges at a functional level regardless of the discrete nature of their physical implementation.
+
+
+
+ Implications for Understanding Mind and Intelligence
+
+
+
+This analysis suggests that we need to fundamentally revise our understanding of both natural and artificial intelligence. Rather than viewing mind as a symbol-processing computer, we should understand it as a pattern-recognition system that operates primarily through analog processes while being capable of handling digital representations as a derivative function.
+
+
+
+This has significant implications for cognitive science and AI development:
+
+
+
+1. It suggests that trying to build AI systems through explicit rule-based programming may be fundamentally misguided
+
+2. It indicates that the distinction between analog and digital processing is more crucial than previously recognized
+
+3. It implies that understanding how systems bridge analog and digital domains may be key to understanding intelligence
+
+
+
+ Conclusion
+
+
+
+The success of neural network-based AI systems, combined with observations about human cognition, suggests that the computational theory of mind is fundamentally inadequate as a framework for understanding intelligence. Instead, we need theories that can account for the primarily analog nature of cognitive processing while explaining how digital representations emerge from and are grounded in these analog processes. Connectionist approaches, which emphasize pattern recognition and continuous processing over discrete symbol manipulation, appear better suited to this task.

@@ -1,0 +1,482 @@
+TEXT INTELLIGENCE REPORT
+Generated: 12/3/2025, 11:23:27 PM
+Source Length: 59901 words
+LLM Used: grok
+
+--- KEY QUOTATIONS ---
+1. Numbers of one kind never size-comparable with numbers of any other kind.
+2. Formal calculi inherently incomplete.
+3. The laws of logic not conventions.
+4. Why there are non-perspectival truths that an indexical-free language is ipso facto unable to express.
+5. Empirical theories as interpreted formal calculi.
+6. Statements are false that self-refute.
+7. Statements are true that self-verify.
+8. Nothing doesn't follow from a contradiction.
+9. Nothing doesn't entail a tautology.
+10. No contradiction follows from a truth.
+11. No falsehood follows from a tautology.
+12. A truth is necessary if it follows from any given statement-set.
+13. A truth is necessary if its negation entails a contradiction.
+14. A truth is possible if it does not entail a contradiction.
+15. A truth is possible if its negation is not necessary.
+16. k=ΣK↔DF ∀ k*(k* ∈ K→[k ⋂ k*]=1) k=ΣK↔DF ∀ k*(k* ∈ K→ ∃ x(x ∈ k* ⋀ x ∈ k ⋀∀ y((x≠y ⋀ y ∈ k*)→y ∉ k)))
+17. ϕ(x)=y→(ϕ(x)=z→y=x)
+18. k and k* are bijected by a function ϕ just in case ϕ is a one-one function from k to k*.
+19. [k]=[k*]↔ ∃ ϕ ∃ ψ ∀ x ∃ y (x ∈ k →(y ∈ k* ⋀ ϕ(x)=y ⋀ ψ(y)=x))
+20. R strictly orders k exactly if, whenever x,y,z ∈ k, ¬xRx (R is non-reflexive) xRy→¬yRx (R is asymmetric) (xRy ⋀ yRz)→xRz (R is transitive)
+21. ℕ =DF{x: x=0 ⋁∃ y(y ∈ℕ⋀ x=y+1)}
+22. ℤ =DF{x: ∃ y(y ∈ℕ⋀ (x=+y ⋁ x=−y))}
+23. ℚ =DF{x: ∃ p ∃ q(p ∈ℕ⋀ q ∈ℕ⋀ x=p/q)}
+24. ℝ =DF{x: ∃ k(SG(k) ⋀ x=L(k))}
+25. ℂ =DF{x: ∀ y(y ∈ℝ⋀ ((y<0→ ∃ z(z<0 ⋀ z2=y)) ⋀ (y>0→ ∃ w(w<0 ⋀ w2=y)))
+26. Statements about number are encrypted statements about order.
+27. Mathematics is the study of ordinal relations.
+28. Any given truth concerning ordinal relations is equivalent with a truth of set-theory.
+29. Set-theory is the smallest class of truths consisting solely of the following concepts: ∅ The empty set ∈ The relation between class-member and class ⊂ The relation of subset to set Not And Or If...then... Identity All Some Property Relation
+30. It will be shown that truths about seemingly exotic mathematical entities (e.g. complex numbers, formal languages, ndimensional manifolds) are identical with truths consisting solely of the justnamed concepts.
+31. ℕ may be identified with the posterity of ∅ with respect to Φ, where Φ is the relation that {n: nϵα} bears to {n: n ∈ α ∨ n=α}.
+32. n is a cardinal iff either n= ∅ or n=β, where, for some γ, Φ(γ)=β.
+33. α+1={n: n=α or n ∈ α}, and α=β+1 exactly if α ={n: n=β ⋁ n ∈ β}.
+34. α+0=α; and α+(β+1)= (α+β)+1, α×0=0; and α×(β+1)= (α×β)+ α, α0=1; αn+1= αn×α.
+35. exponentiation can be understood in terms of the concept of a selection and, for reasons that will emerge, ultimately must be so understood.
+36. For any n, [k]=n is equivalent with a proposition that contains no mention of n or of any other number.
+37. Given that (0)-(3) are equivalent with, respectively, (0*)-(3*), it follows that any given cardinal n may, without circularity, be identified with the class of all n-tuples.
+38. The meaning of (n+1#) is this: If K is the class of all classes equinumerous with a given class and k* is a member of K, then, if x is not a member of k*, k is equinumerous with k* ∪ x.
+39. A perspicuous statement is one whose semantics corresponds to its syntax. A formal statement is one that is perspicuous for the reason that it is stated in a notation or language that prohibits the formation of nonperspicuous statements.
+40. Cardinal arithmetic is ℕ -arithmetic. In this section, we will discuss the most generalizations of -arithmetic, these being: ℚ -arithmetic: the arithmetic of rational numbers ℤ -arithmetic: the arithmetic of signed integers ℝ -arithmetic: the arithmetic of real numbers ℂ -arithmetic: the arithmetic of complex numbers, and Ordinal arithmetic: the arithmetic of ordinal numbers.
+41. ℂ =DF{n: ∃ α (α ∈ℝ⋀ (α>0→ (n>0 ⋀ n2= α)) ⋀ (α<0→ ( n<0 ⋀ n2= α )))
+42. ℚℛ =DF{B: B ∈ℚ⋀ B< ℛ }
+43. PK=DF{k: k ⊆ K}
+44. ∀ K ∃ K* ∀ x(x ∈ K*↔ ∃ k(k ∈ K ⋀ x ∈ k ⋀∀ y((y ∈ k ⋀ x≠y)→y ∉ k)))
+45. (K, O1, O2...On) is an enlargement of (K*, O*1, O*2... O*m) if, for any statement in (K*, O*1, O*2...O*m), there is an analogous statement in (K*, O*1, O*2...O*m) but not vice versa.
+46. R strictly orders k just in case, with respect to the members of K, (i*) R is non-reflexive, (ii*) R is asymmetric, and (iii*) R is transitive.
+47. x's ordinal number with respect to S is 1 just in case, for all y in S, ¬xRy, and x's ordinal number with respect to S is n+1 just in case if y's ordinal number with respect S is n, then x is y's immediate R-successor, i.e. xRy and, for any z such that z bears R to y, either x=z or zRx.
+48. Where finite numbers are concerned, +O and ×O are exact analogues of + and ×. This is because, whenever m and n are finite, + and × commutative, meaning that m+n=n+m and m×n=n×m. For reasons that will be discussed later, + and × are not commutative when m and n are not finite.
+49. Complex numbers are positions in 2-dimensional series and they are therefore vectors. (Strictly speaking, complex numbers are complex numbers are pairs of signed reals, not reals per se. We will revisit this point later.)
+50. The existence of such a complex number is a consequence of the following stipulations, which, taken jointly, model the arithmetic of complex numbers: A complex number α corresponds to a real number if, for some real number m, α=(m,0). α corresponds to an imaginary number if, for some real number m, α=(0,m). β is an imaginary number if, for some positive real m, there is some even number n such that βn=−m.
+51. To say of a given person that his net worth is negative $5 is to say that his financial obligations exceed his assets by $5. It is to say that α+5=β, where α and β represent his assets and his obligations, respectively, and to say that his net worth is positive $5 is to say that α−5=β.
+52. Since n ∉ℤ , for any cardinal n, it follows that ℕ and ℤ do not have a single member in common and are therefore disjoint. It also follows that + ℤ and × ℤ are mere analogues of + and ×. Whereas + and × are relations holding among cardinals, + ℤ and × ℤ are relations holding among relations holding among cardinals.
+53. 4/1 is not identical with 4. 4/1 is the relation that α bears to β when α×1=β×4. Since 4/1 is a relation between cardinal numbers, it is not itself a cardinal number and therefore is not identical with 4.
+54. Given that + and × are relations among cardinals per se, as opposed to relations among relations among cardinals, it follows that + and × are mere analogues of + ℤ and × ℤ, respectively, and of + ℚ and × ℚ, respectively.
+55. There is nothing that either ℚ or ℤ enables us to say about the world that ℕ doesn't allow us to say. The discovery of ℚ -arithmetic and ℤ -arithmetic were ultimately more notational than mathematical.
+56. But the discovery of ℝ -arithmetic was a genuine intellectual advance. And even though ℝ , like each of ℚ and ℤ , can be constructed out of the elements of ℕ , the relation that ℝ bears to ℕ differs fundamentally from the relation that either ℚ or ℤ bears to ℕ .
+57. Even though ℝ is built out of the same ingredients as ℚ and ℤ and therefore ℕ itself, the way in which those ingredients are arranged in ℝ differs fundamentally from the way in which they are arranged in any given one of the other three classes.
+58. An algorithm is simply a useful recursion.
+59. Whenever somebody articulates a thought, he does by computing the identity of the appropriate expression; and whenever somebody understands the words of another, he does so by computing its meaning.
+60. Any two classes that can be recursively defined have the same cardinality.
+61. Given any top-down list of elements of ℝ, expressed as nonterminating decimals, there is a number, namely D(L) (read: the diagonal of L), that is not in L.
+62. Diagonal arguments are always used to prove incompleteness.
+63. If it can be proved that, for any given model M of a given axiom-set, there is a model M* of that same axiom-set that is non-isomorphic with M*, then that axiom-set is incomplete.
+64. Model-theory is the branch of mathematics that studies classes of sentence-schemata.
+65. Quite obviously, there are infinitely many viable models of (1)-(7). More importantly, taking M to be any one of the just-proposed models of K, there are models M* of K that are non-isomorphic with M.
+66. Therefore, if Δ is the class of functions ψ mapping elements of K into other such elements and Δ* is the class of functions ψ* mapping elements of K* into other such elements, there does not exist a one-one function from Δ to Δ*. In other words, M and M* are non-isomorphic and K is therefore non-monomorphic.
+67. Σ can be formalized exactly if the following three conditions can be satisfied: There exists a sentence-schemata-class Γ such that Σ is a model of Γ, Γ is recursive, and Γ is monomorphic.
+68. Contrariwise, let us suppose, for some statement-schemata-class Γ, that: Σ is a model of Γ, and Given any model M of Γ, there is some model N of Γ such that N is non-isomorphic with M. In that case, (i) Σ cannot formalized, and (ii) Σ is non-denumerable.
+69. There are many reasons why no scientific discipline can be formalized. Some of these reasons will be identified below.
+70. If a class k has at least one proper subset k* such that k≈k*, then k is reflexive. Otherwise, k is non-reflexive.
+71. ℕ is reflexive, and therefore infinite, since, for any n, ℕ ≈ ℕ n, where ℕ n contains only multiples of n.
+72. k is a finite class exactly if [k]=n, where n is an inductive cardinal, meaning that either n=0 or For some inductive cardinal m, n=m+1. k is infinite if [k] is non-inductive.
+73. According to many mathematicians, including G. Cantor, the inventor of set-theory, k is reflexive is equivalent with k's cardinality is non-inductive. The present author happens to believe that (1) and (2) are in fact equivalent. But (1) and (2) are not indisputably equivalent. They are equivalent only if the Axiom of Choice is true.
+74. ∀ K ∃ K* ∀ k ∃ x ∀ y((k ∈ K ∧ x ∈ k)→((y ∈ k ∧ y ∈ K*)↔x=y))
+75. Assume arguendo that K≈PK. That means that there is a function ϕ that bijects K and PK. Define a subset k of PK such that, whenever x ∈ K, x ∈ k just in case x ∉ ϕ(x). Suppose that ϕ(α)=k, where α ∈ K. If α ∈ k, then α ∉ ϕ(α); and if α ∉ k, then α ∈ ϕ(α), then α ∈ k. Thus, if ϕ(α)=k, then α ∈ k↔α ∉ k. Therefore, ϕ(α)≠k, for all α. Therefore, K ≉ PK.
+76. A class k is finite if, for any x such that x ∉ k, [k ∪ x]>k, in the sense that k can be bijected with a proper subset of k ∪ x but not vice versa.
+77. A class k is denumerably infinite if there is a recursive definition of k. k is non-denumerably infinite if it is infinite and there is no recursive definition of it.
+78. Therefore, unless n≥ ℵ 1, any length consisting of n-many points is vanishingly short. Therefore, unless n≥ ℵ 1, no occupant of a manifold consisting of n-many points can have a positive length.
+79. Given two classes k and k*, the statement (0) [k]=[k*], i.e. k has the same number of members as k*, is ambiguous between (C1) k≈k*, i.e. k and k* can be bijected; and (C2) There is no proper subset k# of k such that k*≈k#; and, finally, there is no proper subset k$ of k* such that k≈k$.
+80. C=C* exactly if [kC]=[k*C], where kC and k*C are any two classes having C-many and C*-many members, respectively.
+81. there are as many multiples of ten as there are multiples of five, even though, from some other viewpoint, a collection of multiples of 5 is ipso facto twice as well populated as an otherwise identical collection of multiples of 10.
+82. cardinals (so-called) are in fact classes of cardinals. ℵ 0 is not a single cardinal. It is an infinitely large class of cardinals any two of whose elements can be bijected.
+83. C1 represents a viable conception of cardinality-type, whereas C2 represents a viable conception of cardinality-proper.
+84. there are multiple instances of any given transfinite cardinality-type, and C1 and C2 are therefore output-distinct with respect to transfinites.
+85. Cantor's system is not really about number at all. It is an analysis of recursivity and its limits---that is to say, of completeness and incompleteness.
+86. An incompleteness proof is simply a proof that, for some class C, there is no recursive definition of C.
+87. the non-recursivity of ℝ is really a consequence of the fact that [PK]>[K]. To say that [PK]>[K] is to say that, if R is the recursion that generates K, then R does not generate PK.
+88. the non-recursivity of ℝ is a consequence of the fact that there is no recursive definition of the class of all logically true statements.
+89. Kurt Gödel's celebrated (1931) incompleteness proof is to the effect that the class of all arithmetical truths is incomplete.
+90. Gödel's theorem is really a special case of a more comprehensive principle, namely, that the class of recursive definitions is not itself recursively defined.
+91. Therefore, supposing that K is not recursively definable, it follows that S(K) is not recursively definable, i.e. it follows that the class of logics is not recursively definable, i.e. it follows that logic is incomplete.
+92. In other words, there is no formal procedure by which, when given an arbitrary statement S, to determine whether or not S is a truth of logic.
+93. P strictly entails Q if Q is a logical consequence of P. Q is a logical consequence of P if there is no possible world where P is true and Q is false.
+94. A language is a recursively defined class of sentences.
+95. A 'language' that contains only finitely many expressions is but a caricature of a bona fide language.
+96. That said, there is one intrinsic difference between formal (artificial) and natural languages, namely, that any given natural language is really hierarchy of languages.
+97. The concept of formal truth is a relative notion.
+98. Therefore, there is no recursive definition of the class of logical truths.
+99. Mathematics is the study of structure. Statements about order can always be expressed as statements about relations holding among numbers or sets thereof.
+100. But mathematics is interested in number only because truths about number are encrypted truths about structure.
+101. Laws of nature are invariances. Laws of nature are framework-invariant relations between objects, and such laws are given, not by statements that assign (context-dependent) properties to objects, but by statements that assign (context-independent) relations to multiplicities of objects.
+102. Geometry is not interested in this or that circle or square... geometry is interested in properties of shapes that are transformation-invariant, i.e. geometry is interested in properties of shapes such that, given some transformation T, if T maps one shape onto some other shape, the second shape inherits the structural properties of the first.
+103. Formal logic is really the geometry of strings of symbols. It has nothing to do with rules of inference.
+104. Syntax is symbol-geometry. Semantics is symbol-meaning. Formal logic is syntax, not semantics. Informal logic is semantics, not syntax.
+105. Meaning is a relation between statement and non-statement; truth is a property of meaning. Therefore, the concepts of meaning and truth have no place in the discipline of formal logic.
+106. Thus, to the extent that logic is concerned with meaning and truth, it is incapable of being formalized; and to the extent that logic is capable of being formalized, it doesn't concern meaning or truth.
+107. Mathematics is the discipline that identifies structural invariants; that is, it identifies ordered pairs <C,T> such that C is a class whose members are pluralities of some kind and such that any two such pluralities are isomorphic with each other with respect to T or, equivalently, are such that any one such plurality is a T-transformation of any other such plurality.
+108. According to the Platonist view, numbers and other mathematical entities are non-spatiotemporal; their existence is no more mind-dependent than that of a rock or a tree, but, unlike rocks and trees, those entities are not in space or time.
+109. The formalist holds that Mathematics holds among meaningless expressions of arbitrary symbolic calculi and For that reason mathematical realities have no existence outside of the calculi that we happen to create.
+110. It is therefore quite as misconceived to say that '35,247×254=8,952,738' is true by convention as it is to say that 'snow is white' is true by convention.
+111. Logical consequences of conventions are non-conventions that have a conventional basis.
+112. If formalism is correct, then mathematics is the study of uninterpreted formal calculi.
+113. Mathematics is the study of uninterpreted formal calculi. And given any one such calculus, the rules assigning meaning to its primitive expressions (the axioms of that calculus, in other words) are indeed conventions and, therefore, tautologously true. But there is nothing conventional about the relationship between the axioms of a formal calculus and the consequences of those axioms: those relations are of a non-conventional, strictly logical nature.
+114. A set of meaning-postulates models a given uninterpreted calculus just in case, if it is supposed that the expressions of that calculus have the meanings in question, the resulting interpreted calculus is consistent, i.e. it doesn't entail p and not-p, for any proposition p.
+115. When an interpretation adequately models a formal calculus, the result is a scientific discipline that describes the universe (or some sector thereof).
+116. Whenever it is assumed that logical/mathematical laws are creations of ours, the relations among those creations end up having all of the properties that numbers/mathematical entities per se are supposed to have. Consequently, attempts deflate mathematical truths, by turning them into fictions or artifices, end up collapsing into the very sort of mathematical realism that they are supposed to supplant.
+117. Unless our inborn psychological structure shadowed mind-independent facts, it wouldn't be able to organize the effects that such facts had on us. It's all very well to describe laws of nature and logic as laws of thought and to describe theories as means or organizing data or of obtaining desired results. But given that our minds are but grains of sand in a largely non-mental world, our theories and psychological mechanisms wouldn't do a very good job of organizing raw data unless they embodied a correct, if incomplete and approximate, description of reality.
+118. If arithmetical truths registered empirical facts, we'd have to adjust the laws of arithmetic with every such advance in our empirical knowledge. But we don't. The arithmetical norms remains.
+119. "Physical truths cannot be read off of strictly mathematical truths."
+120. "Mathematics turns out to be a kind of linguistics; and poets (and philosophers) turn out to be mathematicians, albeit ones whose data-sets, unlike those of physicists, are not best organized by calculi that are capable of numerical interpretations."
+121. "Mathematical truths are not given by theorems or even by metatheorems; for, as these examples show, theorems and metatheorems are calculus internal."
+122. "Substantive mathematical truths are given by metan-theorems, where a meta1-theorem is a meta-theorem and metan+1-theorem is a meta-metatheorem, a metan-theorem being a truth to the effect that: (MT) any calculus having formal properties φ1...φn is modeled by all, and only, those classes of truths having formal properties ψ1...ψm."
+123. "Mathematicians-and, I would contend, all thinkers of all kinds---are interested, ultimately, only those statement-sets that either have empirical interpretations or in terms of which those that do have such interpretations are to be understood."
+124. "Without raw data, it isn't possible to identify prediction- and explanation-generative formal calculi; without formal calculi, it is not possible to convert raw data into predictions and explanations. Without mathematics, it isn't possible to identify the functions, from statement-sets to statement-sets, that track physical laws."
+125. The spuriousness of the distinction between mathematical and non-mathematical laws... it isn't laws that are mathematical; it is descriptions of laws.
+126. The reason that physics can be mapped onto calculus is that calculus was invented to describe physical laws. The reason that banking can be mapped onto arithmetic is that arithmetic was invented to accommodate the needs of bankers.
+127. The truths of the differential calculus are non-empirical but empirically motivated, the same being true of the truths of arithmetic, analytic geometry, and every other branch of mathematics.
+128. A failure to understand the distinction between empirical and empirically motivated has led to disastrously wrong theories, e.g. Mill's empiricism and Hilbert's formalism, concerning the nature of mathematics.
+129. When a formalism is invented, so as to provide a systematic way of interpreting empirical data, that formalism is almost always capable of multiple interpretations.
+130. He would rather work with a formalism that has a great deal of scope, but always yields low-resolution truths, than one that has minimal scope, but always yields high resolution truths.
+131. Platonism is the doctrine that spatiotemporal entities are 'instances' of---meaning only that they are to be understood in terms of--- nonspatiotemporal entities. This doctrine is correct.
+132. The spatiotemporal world is to be understood in terms of relations holding among its constituents and, therefore, in terms of relations holding among the space-time regions occupied by its constituents. Thus, the spatiotemporal is to be understood in terms of---and, in that sense, instantiates-the non-spatiotemporal; and Platonism is therefore correct.
+133. Mathematical truths are not empirical. Non-empirical truths hold entirely in virtue of linguistic conventions. For, given that they don't hold in virtue of empirical facts, there are only two possibilities as to why they are true. (i) They hold in virtue of non-empirical (Platonic) facts. (ii) They hold in virtue of linguistic conventions. (i) is a non-starter. Therefore, (ii) is the right view. Thus, mathematical truths are definitional truths.
+134. Truths about structure cannot themselves always be structural truths.
+135. Mathematics aspires to identify, not this or that specific formal truth, but entire classes of formal truths. The propositions that identify such classes are not themselves formal truths.
+136. Given an arbitrary formal truth 1#, the proposition (E1) 1# is equivalent with 1*, cannot itself be formally true. By supposition, 1# is formally true, like Smith is tall or Smith is not tall. By supposition, 1* is informally true, like John can't know that snow is white unless he believes that snow is white. Therefore, the truth of the assertion that 1* and 1# are equivalent depends not on 1*'s form, but on its meaning.
+137. Given only that a statement is structurally true, it doesn't follow that it itself concerns structure. And the contention---surely accepted by Russell-Frege---that mathematics is in the business of identifying classes of structural truths doesn't entail that the statements that identify such classes are themselves structural truths.
+138. Truths about linguistic conventions are not themselves linguistic conventions.
+139. Given a set of linguistic conventions c1...cn, it is a matter of logic, not of convention, whether those conventions are consistent with one another; and, given some statement S, it isn't a matter of convention whether or not: (CS) P is a logical consequence of c1...cn. is true.
+140. Thus, truths about formal truths are not themselves formal truths, and truths about conventions are not themselves conventions.
+141. Necessary consequences of tautologies are not themselves tautologies.
+142. The real laws of logic are meta-laws: laws about laws; laws that transform law-sets into different but equally powerful law-sets.
+143. Whenever it is said that a proposition pn is 'almost true' or 'as false as it is true,' what is being said can be reinterpreted as a statement to the effect that (to name but a few possibilities), for some propositions p1...pn-1 such that pi (1≤i≤n) is either true or false: pn is a conjunction, most of whose conjuncts are true; pn is a conjunction most of whose conjuncts are false, but whose remaining conjuncts are both true and, in the context in question, of particular significance; pn is a conjunction each of whose conjuncts is false, but some of whose conjuncts deviate from the truth by a tolerably small margin; pn is false, but it wouldn't be affirmed by anyone who didn't know, and wasn't trying to convey, some proposition pm that, unlike pn, was simply true.
+144. By reducing primitives to two, as opposed to n>2, A-B gives itself maximal flexibility in respect of its ability to categorize propositions.
+145. No viable logic has but one primitive category: there must be at least two. And however many primitive categories there are, they must be mutually exclusive: otherwise they aren't primitive.
+146. The laws of logic---the real laws of logic, not the artifacts studied by so-called logicians---are not given by LEM or LNC or Double Negation (p↔¬¬p) but rather by statements to the effect that, given some data-set D=d1...dm, L1...Ln does a better job than some other law-set L*1...L*o of truth-preservingly mapping D-related statements onto Drelated statements.
+147. A bona fide logical law wouldn't mention L1...Ln or L*1...L*o or any other specific law-set. Nor would it mention d1...dm or indeed any specific statement-set of any kind. Such a law would be to the effect that, given any data-set δα...δν having any statement-set having formal properties φα...φζ, and given any law-sets λα...λμ and λ*α...λ*ο, having properties Φα...Φπ and Ωα...Ωτ, respectively, the one law-set is better than the other at mapping bearing-relations of some specified kind holding among δα...δν.
+148. For x to have a certain mass/length/temperature is for x to have certain causal properties. If C1...Cn are the causal properties that x has in virtue of having a certain length, it is no less absurd to distinguish x's having C1...Cn from its having that length than it is to distinguish an object from the various property-instances associated with it.
+149. Seemingly synchronic forms of measurement, e.g. the juxtaposition method of length-determination, collapse into their obviously diachronic counterparts.
+150. A static property, e.g. length, is a four-dimensional property. A dynamic property, e.g. velocity, is a change in a static property.
+151. The arbitrariness of the metrical unit What one regards as a unit of length (or time or mass) is obviously arbitrary. In fact, it is inherent in the nature of measurement that one's choice of metrical unit be arbitrary.
+152. never a priori the case that the reals yielded by measurement correspond to the cardinals yielded by enumeration.
+153. large distances are non-integrable. They cannot be determined by adding together small distances.
+154. Wherever complexity is involved, quantitative differences involve qualitative differences.
+155. No consistent language has the resources to adequately describe its own resources.
+156. The more systematic a language is, the more precise are the statements belonging to it.
+157. The more productive a language is, the greater scope it has.
+158. A language must therefore be able to 'turn over', like an engine, an indefinitely large number of times: if, with respect to one class of inferences, it hits a wall after a certain number of rotations, it inevitably hits similar walls with respect to indefinitely many other such classes.
+
+--- ANNOTATED CITATIONS ---
+
+
+--- COMPRESSED REWRITE ---
+[Chunk 1]
+
+
+[Chunk 2]
+
+
+[Chunk 3]
+
+
+[Chunk 4]
+
+
+[Chunk 5]
+
+
+[Chunk 6]
+
+
+[Chunk 7]
+
+
+[Chunk 8]
+
+
+[Chunk 9]
+
+
+[Chunk 10]
+
+
+[Chunk 11]
+
+
+[Chunk 12]
+
+
+[Chunk 13]
+
+
+[Chunk 14]
+
+
+[Chunk 15]
+
+
+[Chunk 16]
+
+
+[Chunk 17]
+
+
+[Chunk 18]
+
+
+[Chunk 19]
+
+
+[Chunk 20]
+
+
+[Chunk 21]
+
+
+[Chunk 22]
+
+
+[Chunk 23]
+
+
+[Chunk 24]
+
+
+[Chunk 25]
+
+
+--- DATABASE ---
+═══ CHUNK 1 ═══
+
+
+═══ CHUNK 2 ═══
+
+
+═══ CHUNK 3 ═══
+
+
+═══ CHUNK 4 ═══
+
+
+═══ CHUNK 5 ═══
+
+
+═══ CHUNK 6 ═══
+
+
+═══ CHUNK 7 ═══
+
+
+═══ CHUNK 8 ═══
+{
+  "quotes": [
+    "A real number is the least upper bound of a class Qi of rationals such that Qi is a non-empty proper subset of the class of rationals and Qi contains a given rational q only if it contains every rational p such that p<q.",
+    "Not all reals correspond to rationals, i.e. for some real numbers r, there is no rational q such that r is the limit of (Qq,<). An example of such a real is √2.",
+    "√2=DF the limit of (Q#2,<), where Q#2 is the class of rationals q such that q2<2.",
+    "Lest "√2" be an empty label, like "phlogiston" or "Zeus", it must be proved that an entity having the requisite properties exists.",
+    "Ordinal numbers are positions. In the series, 2, 4, 6, 8...n... 6's ordinal number is 3, but in the series 6, 7, 8, 9...m... 6's ordinal number is 1."
+  ],
+  "annotatedQuotes": [],
+  "summary": "",
+  "database": "",
+  "analyzer": ""
+}
+
+═══ CHUNK 9 ═══
+
+
+═══ CHUNK 10 ═══
+
+
+═══ CHUNK 11 ═══
+
+
+═══ CHUNK 12 ═══
+
+
+═══ CHUNK 13 ═══
+
+
+═══ CHUNK 14 ═══
+
+
+═══ CHUNK 15 ═══
+
+
+═══ CHUNK 16 ═══
+
+
+═══ CHUNK 17 ═══
+
+
+═══ CHUNK 18 ═══
+
+
+═══ CHUNK 19 ═══
+
+
+═══ CHUNK 20 ═══
+
+
+═══ CHUNK 21 ═══
+
+
+═══ CHUNK 22 ═══
+
+
+═══ CHUNK 23 ═══
+
+
+═══ CHUNK 24 ═══
+
+
+═══ CHUNK 25 ═══
+
+
+--- TEXT ANALYZER ---
+═══════════════════════════════════════
+           CHUNK 1 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 2 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 3 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 4 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 5 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 6 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 7 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 8 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 9 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 10 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 11 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 12 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 13 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 14 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 15 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 16 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 17 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 18 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 19 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 20 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 21 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 22 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 23 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 24 ANALYSIS
+═══════════════════════════════════════
+
+
+
+═══════════════════════════════════════
+           CHUNK 25 ANALYSIS
+═══════════════════════════════════════
+
+

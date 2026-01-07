@@ -1,0 +1,136 @@
+# Positions Extracted from "Ninety Paradoxes of Philosophy and Psychology"
+
+## Epistemology & Logic
+
+1. Rationality is inherently reflective; intelligence is not
+2. Intelligence answers "what is objectively possible"; rationality answers "what do my limited resources make incumbent on me"
+3. Recursively defined terms that contain undefined self-references are meaningless (contain free variables)
+4. There is no recursive definition of the class of recursive definitions
+5. There is no formal characterization of formal truth
+6. Everything can be automated except automation itself
+7. 'True of itself' is meaningful only when it abbreviates a non-reflexive construction
+8. The Liar Paradox is solved by distinguishing words from underlying propositions
+9. Canonical vs. non-canonical descriptions resolve Berry's Paradox
+10. Knowledge of the future is based on continuities, not regularities/repetitions
+11. Enumerative induction is either non-existent or illegitimate
+12. Causation is continuation, not mere constant conjunction
+13. Only principled (nomic/causal) generalizations can be confirmed, not accidental ones
+14. Logically equivalent statements are not necessarily confirmationally equivalent when one has causal content
+15. Goodman's "new riddle of induction" is a non-riddle because induction is based on continuities
+16. A belief can be justified without its owner knowing what that justification is
+17. Knowledge begins with beliefs that are not themselves knowledge
+18. Seeking knowledge involves knowing a description is instantiated without knowing the instance
+19. The ability to learn presupposes constitutive (non-acquired) knowledge
+20. Acceptance is pragmatic; belief is alethic—they are distinct
+21. Beliefs are not justified on strictly statistical grounds but by explanatory power
+22. Self-referential thoughts about external objects explain how thoughts with different referents can be subjectively identical and share content
+23. Self-ascriptive thoughts of the self-referential kind cannot possibly be false
+24. Content externalism leads to absurd consequences about psychological properties
+25. Omniscience is an incoherent concept (knowledge of one kind may exclude knowledge of another)
+26. The concept of an omniscient decider is incoherent (omniscient beings never decide anything)
+27. The Heavy Rock Paradox doesn't undermine omnipotence—incoherent conditions don't count as limitations
+
+## Philosophy of Language
+
+28. Names are non-descriptive mere labels but "pick up" descriptive information through acquisition
+29. Semantics vs. knowledge of semantics: same literal meaning can convey different information
+30. Frege's Puzzle is solved by recognizing that names carry associated property-sets for speakers
+31. Kripke is right about semantics of proper names, but semantic knowledge isn't acquired in a vacuum
+32. Bhartrhari's Paradox commits a fallacy—"some things cannot be described" doesn't predicate of any particular object
+
+## Philosophy of Mind & Psychology
+
+33. Obsessive-compulsive symptoms wither when fought, worsen when indulged
+34. Attempting not to have certain thoughts makes them more likely (ironic process theory)
+35. Self-awareness correlates with both well-being and distress
+36. Self-awareness is a precondition for adaptation
+37. Optimism is a form of denial rooted in insecurity; self-belief is confidence-driven realism
+38. Schizophrenic outcomes differ by country because self-esteem is easier to restore where standards are lower
+39. High sex drive in males may reduce sexual success by putting off women
+40. People who try to avoid work end up working harder than those who don't
+
+## Social & Institutional Dynamics
+
+41. Losers hyper-value the hierarchies that oppress them to use against climbers
+42. The more useless an employee, the more they toe the organization's line
+43. Independent writers face a vicious circle: no reviews without popularity, no popularity without reviews
+44. Communications technology connects logically while disconnecting emotionally
+45. Information can be described without being disclosed, resolving Arrow's Information Paradox
+46. US educational funding creates fake employment, not educational improvement
+47. Public school funding is soft communism—dead hand of bureaucracy replacing market
+48. Less money spent on public schools, the better
+49. Self-identified liberals have higher environmental footprints than conservatives
+50. Conservatives tend toward eco-friendly do-it-yourselfism; liberals toward group-dependence
+51. Progress for humanity often means rendering specific individuals obsolete
+52. "Rebels" in societies with few legitimate reasons to rebel are conformists
+53. Where rebellion is legitimate, it's dangerous; fake rebels emerge where it's safe
+54. Old-guard hippies are the establishment; those they trample are the real rebels
+55. Lawyers create the litigiousness that makes lawyers necessary
+56. Suicide only hurts those who care about the victim
+57. In democracies, people oppress themselves; in non-democracies, government oppresses people
+58. Computers eliminating work leads to more work being done
+59. Economic efficiency increases unemployment (excluding government-created jobs)
+60. Vindictive leaders are less likely to be overthrown than benevolent ones
+61. Tenure prevents intellectual freedom by removing incentives and enabling gatekeeping
+62. Institutions that exist to solve problems have incentives to prevent solutions
+63. Whether an institution solves or prevents problems depends on whether solving creates new business
+64. Philosophy departments are inhospitable to solutions because solving one problem doesn't create business for existing personnel
+65. Race/gender/gay studies departments exacerbate the tensions they claim to address
+66. Hospitals solve problems because there are always more patients
+67. Useless laws give states incentive to criminalize populations
+68. Possession of small amounts of drugs is punished more harshly than assault because drug laws need to seem necessary
+69. Defense lawyers' livelihoods depend on keeping drugs illegal
+70. Superabundance of scholarship creates institutional roadblocks to progress
+71. People deeply vested in existing scholarship have incentives to suppress genuine insights
+72. Bureaucrats requesting "more information" are determined not to help
+73. Knowing too much about someone leads to making excuses for them
+74. It's only when someone has no merit that it becomes politically obligatory to say they have merit
+75. People who should be most grateful are least grateful (they lack integrity)
+76. Medium-funny comedians succeed more than actually funny ones
+77. The more stringent therapist licensing, the less effective therapists are
+78. Psychiatric treatment often causes more harm than it cures
+79. Money spent on economic research produces increasingly useless results
+80. Lawyers are better at defending the guilty than the innocent
+81. Unions prevent job-getting, creating the need for unions to protect job-keeping
+82. People with modest responsibilities intentionally underperform to inflate importance
+83. Professors withhold information to make it seem more valuable
+84. School psychologists must blame students rather than schools to keep their jobs
+85. Grassroots movements cannot exist because leaders need pre-existing power
+86. Incompetence has survival value (meek inherit the earth)
+87. Hyper-competent people are under-promoted; incompetent people are over-promoted
+88. The lower someone is in a hierarchy, the more they enforce it against peers
+89. People on welfare use Primerica as fake employment to maintain benefits
+90. Slackers work harder because they're playing defensive, accepting whatever comes
+
+## Metaphysics & Philosophy of Mathematics
+
+91. Space-time regions don't have places—they are constituents, not occupants, of space-time
+92. If an infinitely large class contains one x, chances of choosing x are infinitesimal but not nil
+93. Sorites paradoxes are solved by replacing binary predicates with comparatives plus contextual benchmarks
+94. A single grain of millet does make a sound—scale-relativity resolves the paradox
+95. Motion exists; being "at rest" requires a non-null interval
+96. Irresistible forces and unmovable objects are mutually exclusive by definition
+97. The Hilbert-Bernays Paradox is resolved: self-referential definitions yield no referent
+98. Any finite number can be represented as sum of infinite series, so traversing infinitely many distances in finite time is unparadoxical
+
+## Ethics & Political Philosophy
+
+99. Anti-trust laws hurt consumers when applied to efficient competitors, help when applied to competition-restrictors
+100. The more legal right to secede, the less moral right (legitimate laws reduce secession justification)
+
+## Philosophy of Action
+
+101. Imperatival logic has world-to-word direction of fit; alethic logic has word-to-world
+102. In imperative logic, validity flows general to specific; in statement logic, specific to general
+103. Ross's Paradox is solved by direction-of-fit asymmetry
+
+## Miscellaneous
+
+104. Authors don't believe everything they write—they judge arguments relatively probative
+105. The Preface Paradox dissolves because authors write what they judge warranted, not what they believe true
+106. Wittgenstein's rule-following paradox collapses into the trivial point that erroneous hypotheses may fit restricted data
+107. Quine's indeterminacy thesis presupposes and exposes the brokenness of behaviorist psychology
+108. The Barber Paradox proves such a barber cannot exist; Russell's set paradox proves such a set cannot exist
+109. The Axiom of Comprehension is not refuted by Russell's paradox—"doesn't self-contain" requires non-reflexive interpretation
+110. Fitch's Paradox is not a paradox but a proof that not all truths can be known
+111. The Unexpected Hanging Paradox is solved by recognizing "surprise" is relative to information available at each time

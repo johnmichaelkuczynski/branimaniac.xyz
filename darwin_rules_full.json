@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 5997,
+    "topic": "General Evolutionary Theory",
+    "premise": "species|organic|beings|descended|primordial|forms",
+    "conclusion": "All species of organic beings have descended from a few primordial forms, or possibly from one single ancestral form"
+  },
+  {
+    "id": 5998,
+    "topic": "General Evolutionary Theory",
+    "premise": "natural|selection|principal|though|exclusive|means",
+    "conclusion": "Natural selection is the principal, though not exclusive, means of modification in the organic world"
+  },
+  {
+    "id": 5999,
+    "topic": "General Evolutionary Theory",
+    "premise": "variation|among|individuals|population|material|natural",
+    "conclusion": "Variation among individuals in any population is the raw material upon which natural selection operates"
+  },
+  {
+    "id": 6000,
+    "topic": "General Evolutionary Theory",
+    "premise": "struggle|existence|inevitably|follows|high|geometrical",
+    "conclusion": "The struggle for existence inevitably follows from the high geometrical rate of increase common to all organic beings"
+  },
+  {
+    "id": 6001,
+    "topic": "General Evolutionary Theory",
+    "premise": "slight|modifications|confer|marginal|advantage|struggle",
+    "conclusion": "Slight modifications that confer even marginal advantage in the struggle for life will tend to be preserved and accumulated"
+  },
+  {
+    "id": 6002,
+    "topic": "General Evolutionary Theory",
+    "premise": "species|immutable|undergo|gradual|transformation|over",
+    "conclusion": "Species are not immutable; they undergo gradual transformation over vast periods of time"
+  },
+  {
+    "id": 6003,
+    "topic": "General Evolutionary Theory",
+    "premise": "extinction|forms|production|improved|intimately|connected",
+    "conclusion": "The extinction of old forms and the production of new improved forms are intimately connected"
+  },
+  {
+    "id": 6004,
+    "topic": "General Evolutionary Theory",
+    "premise": "transitional|forms|major|groups|existed|though",
+    "conclusion": "Transitional forms between major groups must have existed, though their rarity in the fossil record is explained by the imperfection of geological preservation"
+  },
+  {
+    "id": 6005,
+    "topic": "General Evolutionary Theory",
+    "premise": "organs|extreme|perfection|explained|gradual|accumulation",
+    "conclusion": "Organs of extreme perfection, such as the eye, can be explained by gradual accumulation of small improvements through natural selection"
+  },
+  {
+    "id": 6006,
+    "topic": "General Evolutionary Theory",
+    "premise": "instincts|subject|laws|variation|natural|selection",
+    "conclusion": "Instincts are subject to the same laws of variation and natural selection as corporeal structures"
+  },
+  {
+    "id": 6007,
+    "topic": "General Evolutionary Theory",
+    "premise": "geographical|distribution|species|explicable|theory|migration",
+    "conclusion": "The geographical distribution of species is explicable on the theory of migration combined with subsequent modification"
+  },
+  {
+    "id": 6008,
+    "topic": "General Evolutionary Theory",
+    "premise": "isolation|whether|geographical|otherwise|important|element",
+    "conclusion": "Isolation, whether geographical or otherwise, is an important element in the formation of new species"
+  },
+  {
+    "id": 6009,
+    "topic": "General Evolutionary Theory",
+    "premise": "term|species|precise|definition|merely|convenient",
+    "conclusion": "The term 'species' has no precise definition; it is merely a convenient designation for groups of similar individuals"
+  },
+  {
+    "id": 6010,
+    "topic": "General Evolutionary Theory",
+    "premise": "varieties|incipient|species|distinction|arbitrary|conventional",
+    "conclusion": "Varieties are incipient species; the distinction between varieties and species is arbitrary and conventional"
+  },
+  {
+    "id": 6011,
+    "topic": "General Evolutionary Theory",
+    "premise": "domestic|breeding|provides|strong|analogical|evidence",
+    "conclusion": "Domestic breeding provides strong analogical evidence for the power of selection to produce modification"
+  },
+  {
+    "id": 6012,
+    "topic": "General Evolutionary Theory",
+    "premise": "sexual|selection|operates|distinct|force|natural",
+    "conclusion": "Sexual selection operates as a distinct force from natural selection, accounting for many ornamental and secondary sexual characters"
+  },
+  {
+    "id": 6013,
+    "topic": "General Evolutionary Theory",
+    "premise": "divergence|character|natural|consequence|competition|forms",
+    "conclusion": "Divergence of character is a natural consequence of competition; forms that differ most will compete least directly"
+  },
+  {
+    "id": 6014,
+    "topic": "General Evolutionary Theory",
+    "premise": "affinities|beings|class|represented|great|tree",
+    "conclusion": "The affinities of all beings of the same class can be represented by a great tree of life, with branches diverging from common ancestors"
+  },
+  {
+    "id": 6015,
+    "topic": "General Evolutionary Theory",
+    "premise": "morphological|resemblances|species|indicate|common|descent",
+    "conclusion": "Morphological resemblances between species indicate common descent rather than independent creation"
+  },
+  {
+    "id": 6016,
+    "topic": "General Evolutionary Theory",
+    "premise": "rudimentary|organs|vestiges|structures|functional|ancestral",
+    "conclusion": "Rudimentary organs are vestiges of structures that were functional in ancestral forms"
+  },
+  {
+    "id": 6017,
+    "topic": "General Evolutionary Theory",
+    "premise": "embryological|similarities|across|different|species|point",
+    "conclusion": "Embryological similarities across different species point to common ancestry"
+  },
+  {
+    "id": 6018,
+    "topic": "General Evolutionary Theory",
+    "premise": "laws|variation|include|correlations|growth|whereby",
+    "conclusion": "The laws of variation include correlations of growth, whereby modification in one part often induces changes in other parts"
+  },
+  {
+    "id": 6019,
+    "topic": "General Evolutionary Theory",
+    "premise": "disuse|organs|operating|over|generations|contribute",
+    "conclusion": "Use and disuse of organs, operating over generations, contribute to their development or atrophy"
+  },
+  {
+    "id": 6020,
+    "topic": "General Evolutionary Theory",
+    "premise": "environmental|conditions|induce|variability|though|directly",
+    "conclusion": "Environmental conditions can induce variability, though they do not directly determine the direction of variation"
+  },
+  {
+    "id": 6021,
+    "topic": "General Evolutionary Theory",
+    "premise": "hybridization|species|generally|produces|sterile|offspring",
+    "conclusion": "Hybridization between species generally produces sterile offspring, serving as a barrier to the blending of distinct forms"
+  },
+  {
+    "id": 6022,
+    "topic": "General Evolutionary Theory",
+    "premise": "complex|organs|arose|modification|simpler|precursor",
+    "conclusion": "Complex organs arose through the modification of simpler precursor structures that served different or less specialized functions"
+  },
+  {
+    "id": 6023,
+    "topic": "General Evolutionary Theory",
+    "premise": "imperfection|geological|record|accounts|apparent|sudden",
+    "conclusion": "The imperfection of the geological record accounts for the apparent sudden appearance of many groups"
+  },
+  {
+    "id": 6024,
+    "topic": "General Evolutionary Theory",
+    "premise": "evolutionary|change|occurs|gradually|minute|steps",
+    "conclusion": "Evolutionary change occurs gradually, by minute steps; natura non facit saltum"
+  },
+  {
+    "id": 6025,
+    "topic": "General Evolutionary Theory",
+    "premise": "struggle|existence|severe|individuals|species|occupying",
+    "conclusion": "The struggle for existence is most severe between individuals of the same species occupying the same ecological niche"
+  },
+  {
+    "id": 6026,
+    "topic": "General Evolutionary Theory",
+    "premise": "adaptation|fitting|organisms|conditions|life|preservation",
+    "conclusion": "Adaptation is the fitting of organisms to their conditions of life through the preservation of favorable variations"
+  },
+  {
+    "id": 6027,
+    "topic": "General Evolutionary Theory",
+    "premise": "principle|divergence|explains|descendants|species|become",
+    "conclusion": "The principle of divergence explains why the descendants of any species become more and more differentiated over time"
+  },
+  {
+    "id": 6028,
+    "topic": "General Evolutionary Theory",
+    "premise": "correlation|parts|means|modifications|structure|often",
+    "conclusion": "Correlation of parts means that modifications in one structure often necessitate compensating changes in related structures"
+  },
+  {
+    "id": 6029,
+    "topic": "General Evolutionary Theory",
+    "premise": "species|produces|offspring|possibly|survive|ensuring",
+    "conclusion": "Each species produces far more offspring than can possibly survive, ensuring intense competition"
+  },
+  {
+    "id": 6030,
+    "topic": "General Evolutionary Theory",
+    "premise": "organic|beings|viewed|nature|experiments|constantly",
+    "conclusion": "Organic beings may be viewed as nature's experiments, constantly tested by the conditions of existence"
+  },
+  {
+    "id": 6031,
+    "topic": "General Evolutionary Theory",
+    "premise": "homologous|structures|across|different|species|reveal",
+    "conclusion": "Homologous structures across different species reveal the unity of type that underlies superficial diversity"
+  },
+  {
+    "id": 6032,
+    "topic": "General Evolutionary Theory",
+    "premise": "analogous|structures|unrelated|species|arise|similar",
+    "conclusion": "Analogous structures in unrelated species arise from similar selective pressures rather than common descent"
+  },
+  {
+    "id": 6033,
+    "topic": "General Evolutionary Theory",
+    "premise": "classification|organisms|reflect|genealogical|relationships|merely",
+    "conclusion": "The classification of organisms should reflect their genealogical relationships, not merely their similarities"
+  },
+  {
+    "id": 6034,
+    "topic": "General Evolutionary Theory",
+    "premise": "oceanic|islands|provide|crucial|evidence|evolution",
+    "conclusion": "Oceanic islands provide crucial evidence for evolution, as their inhabitants are clearly derived from nearby continental forms"
+  },
+  {
+    "id": 6035,
+    "topic": "General Evolutionary Theory",
+    "premise": "galapagos|finches|demonstrate|single|ancestral|form",
+    "conclusion": "The Galapagos finches demonstrate how a single ancestral form can diversify into multiple species occupying different niches"
+  },
+  {
+    "id": 6036,
+    "topic": "General Evolutionary Theory",
+    "premise": "plants|animals|show|remarkable|mutual|adaptations",
+    "conclusion": "Plants and animals show remarkable mutual adaptations that can only be explained by co-evolution through natural selection"
+  },
+  {
+    "id": 6037,
+    "topic": "General Evolutionary Theory",
+    "premise": "mimicry|insects|organisms|product|natural|selection",
+    "conclusion": "Mimicry in insects and other organisms is a product of natural selection favoring resemblance to protected species"
+  },
+  {
+    "id": 6038,
+    "topic": "General Evolutionary Theory",
+    "premise": "protective|coloration|camouflage|adaptive|traits|shaped",
+    "conclusion": "Protective coloration and camouflage are adaptive traits shaped by predation pressure over countless generations"
+  },
+  {
+    "id": 6039,
+    "topic": "General Evolutionary Theory",
+    "premise": "sterile|worker|castes|social|insects|evolved",
+    "conclusion": "Sterile worker castes in social insects evolved through selection operating at the level of the colony or family"
+  },
+  {
+    "id": 6040,
+    "topic": "General Evolutionary Theory",
+    "premise": "beauty|nature|often|result|sexual|selection",
+    "conclusion": "Beauty in nature is often the result of sexual selection rather than utility in the struggle for existence"
+  },
+  {
+    "id": 6041,
+    "topic": "General Evolutionary Theory",
+    "premise": "reversion|ancestral|characters|demonstrates|latent|hereditary",
+    "conclusion": "Reversion to ancestral characters demonstrates that latent hereditary tendencies can persist through many generations"
+  },
+  {
+    "id": 6042,
+    "topic": "General Evolutionary Theory",
+    "premise": "laws|governing|inheritance|remain|obscure|variations",
+    "conclusion": "The laws governing inheritance remain obscure, but variations are clearly heritable and subject to selection"
+  },
+  {
+    "id": 6043,
+    "topic": "General Evolutionary Theory",
+    "premise": "pangenesis|proposed|provisional|hypothesis|explain|variations",
+    "conclusion": "Pangenesis is proposed as a provisional hypothesis to explain how variations are transmitted from parent to offspring"
+  },
+  {
+    "id": 6044,
+    "topic": "General Evolutionary Theory",
+    "premise": "rate|evolutionary|change|varies|enormously|lineages",
+    "conclusion": "The rate of evolutionary change varies enormously; some lineages remain nearly unchanged while others transform rapidly"
+  },
+  {
+    "id": 6045,
+    "topic": "General Evolutionary Theory",
+    "premise": "complex|ecological|relationships|flowers|pollinators|illustrate",
+    "conclusion": "Complex ecological relationships, such as those between flowers and their pollinators, illustrate mutual adaptation through selection"
+  },
+  {
+    "id": 6046,
+    "topic": "Evolution of Man",
+    "premise": "descended|less|highly|organized|form|evidence",
+    "conclusion": "Man is descended from some less highly organized form; the evidence from comparative anatomy is overwhelming"
+  },
+  {
+    "id": 6047,
+    "topic": "Evolution of Man",
+    "premise": "bodily|structure|bears|unmistakable|stamp|lowly",
+    "conclusion": "The bodily structure of man bears the unmistakable stamp of his lowly origin from the animal kingdom"
+  },
+  {
+    "id": 6048,
+    "topic": "Evolution of Man",
+    "premise": "higher|apes|share|common|progenitor|relationship",
+    "conclusion": "Man and the higher apes share a common progenitor; our relationship to the anthropoid apes is genealogical, not merely structural"
+  },
+  {
+    "id": 6049,
+    "topic": "Evolution of Man",
+    "premise": "difference|higher|animals|though|great|degree",
+    "conclusion": "The difference between man and the higher animals, though great, is one of degree rather than kind"
+  },
+  {
+    "id": 6050,
+    "topic": "Evolution of Man",
+    "premise": "rudimentary|structures|human|body|appendix|wisdom",
+    "conclusion": "Rudimentary structures in the human body, such as the appendix and wisdom teeth, testify to our evolutionary heritage"
+  },
+  {
+    "id": 6051,
+    "topic": "Evolution of Man",
+    "premise": "human|embryo|passes|stages|recapitulate|ancestral",
+    "conclusion": "The human embryo passes through stages that recapitulate ancestral forms, revealing our descent from lower organisms"
+  },
+  {
+    "id": 6052,
+    "topic": "Evolution of Man",
+    "premise": "erect|posture|though|advantageous|produced|many",
+    "conclusion": "Man's erect posture, though advantageous, has produced many structural peculiarities as compensatory adaptations"
+  },
+  {
+    "id": 6053,
+    "topic": "Evolution of Man",
+    "premise": "development|human|brain|striking|difference|primates",
+    "conclusion": "The development of the human brain is the most striking difference between man and other primates, but it evolved gradually"
+  },
+  {
+    "id": 6054,
+    "topic": "Evolution of Man",
+    "premise": "human|races|varieties|single|species|distinct",
+    "conclusion": "Human races are varieties of a single species, not distinct species; the differences between them are superficial and gradational"
+  },
+  {
+    "id": 6055,
+    "topic": "Evolution of Man",
+    "premise": "birthplace|mankind|probably|africa|nearest|living",
+    "conclusion": "The birthplace of mankind was probably Africa, where our nearest living relatives, the great apes, still reside"
+  },
+  {
+    "id": 6056,
+    "topic": "Evolution of Man",
+    "premise": "sexual|selection|played|major|role|human",
+    "conclusion": "Sexual selection has played a major role in human evolution, accounting for differences between males and females"
+  },
+  {
+    "id": 6057,
+    "topic": "Evolution of Man",
+    "premise": "loss|body|hair|humans|attributed|sexual",
+    "conclusion": "The loss of body hair in humans may be attributed to sexual selection, with early humans preferring less hairy mates"
+  },
+  {
+    "id": 6058,
+    "topic": "Evolution of Man",
+    "premise": "human|language|evolved|simpler|vocalizations|used",
+    "conclusion": "Human language evolved from simpler vocalizations used by our ancestors for emotional expression and communication"
+  },
+  {
+    "id": 6059,
+    "topic": "Evolution of Man",
+    "premise": "moral|sense|evolved|social|instincts|present",
+    "conclusion": "The moral sense in man has evolved from social instincts present in varying degrees in other social animals"
+  },
+  {
+    "id": 6060,
+    "topic": "Evolution of Man",
+    "premise": "conscience|product|evolution|arising|combination|social",
+    "conclusion": "Conscience is a product of evolution, arising from the combination of social instincts with intellectual powers"
+  },
+  {
+    "id": 6061,
+    "topic": "Evolution of Man",
+    "premise": "civilization|partly|suspended|natural|selection|human",
+    "conclusion": "Civilization has partly suspended natural selection in human populations, allowing survival of the otherwise unfit"
+  },
+  {
+    "id": 6062,
+    "topic": "Evolution of Man",
+    "premise": "human|intellectual|faculties|evolved|survival|advantage",
+    "conclusion": "Human intellectual faculties evolved through the survival advantage conferred by superior reasoning and toolmaking"
+  },
+  {
+    "id": 6063,
+    "topic": "Evolution of Man",
+    "premise": "development|tools|weapons|compensated|physical|weaknesses",
+    "conclusion": "The development of tools and weapons compensated for man's physical weaknesses compared to other predators"
+  },
+  {
+    "id": 6064,
+    "topic": "Evolution of Man",
+    "premise": "social|cooperation|essential|human|evolution|isolated",
+    "conclusion": "Social cooperation was essential in human evolution; isolated individuals could not have survived in ancestral environments"
+  },
+  {
+    "id": 6065,
+    "topic": "Evolution of Man",
+    "premise": "growth|sympathy|benevolence|human|societies|extension",
+    "conclusion": "The growth of sympathy and benevolence in human societies is an extension of familial and tribal instincts"
+  },
+  {
+    "id": 6066,
+    "topic": "Evolution of Man",
+    "premise": "aesthetic|sense|including|appreciation|beauty|nature",
+    "conclusion": "Man's aesthetic sense, including appreciation of beauty in nature and art, has evolutionary precursors in other animals"
+  },
+  {
+    "id": 6067,
+    "topic": "Evolution of Man",
+    "premise": "religious|devotion|origins|primitive|beliefs|combined",
+    "conclusion": "Religious devotion may have its origins in primitive beliefs combined with social instincts and imagination"
+  },
+  {
+    "id": 6068,
+    "topic": "Evolution of Man",
+    "premise": "human|tribes|greater|social|cohesion|mutual",
+    "conclusion": "Human tribes with greater social cohesion and mutual aid would prevail over those lacking such qualities"
+  },
+  {
+    "id": 6069,
+    "topic": "Evolution of Man",
+    "premise": "reduction|human|canine|teeth|reflects|changes",
+    "conclusion": "The reduction of the human jaw and canine teeth reflects changes in diet and the use of tools for food preparation"
+  },
+  {
+    "id": 6070,
+    "topic": "Evolution of Man",
+    "premise": "human|variability|maintained|civilized|societies|providing",
+    "conclusion": "Human variability is maintained in civilized societies, providing the raw material for continued evolution"
+  },
+  {
+    "id": 6071,
+    "topic": "Evolution of Man",
+    "premise": "prolonged|helplessness|human|infants|necessitated|increased",
+    "conclusion": "The prolonged helplessness of human infants necessitated increased parental care and stronger family bonds"
+  },
+  {
+    "id": 6072,
+    "topic": "Evolution of Man",
+    "premise": "human|reasoning|powers|arose|simpler|mental",
+    "conclusion": "Human reasoning powers arose from simpler mental faculties observable in other mammals"
+  },
+  {
+    "id": 6073,
+    "topic": "Evolution of Man",
+    "premise": "capacity|abstract|thought|distinguishes|animals|arose",
+    "conclusion": "The capacity for abstract thought distinguishes man from other animals but arose through gradual enhancement of cognitive abilities"
+  },
+  {
+    "id": 6074,
+    "topic": "Evolution of Man",
+    "premise": "sexual|differences|humans|including|size|ornamentation",
+    "conclusion": "Sexual differences in humans, including size and ornamentation, are products of sexual selection operating over many generations"
+  },
+  {
+    "id": 6075,
+    "topic": "Evolution of Man",
+    "premise": "genealogy|discovered|comparative|anatomy|embryology|study",
+    "conclusion": "The genealogy of man is to be discovered through comparative anatomy, embryology, and the study of rudimentary organs"
+  },
+  {
+    "id": 6076,
+    "topic": "Evolution of Man",
+    "premise": "shares|fundamental|instincts|animals|including|self",
+    "conclusion": "Man shares fundamental instincts with other animals, including self-preservation, sexual desire, and parental affection"
+  },
+  {
+    "id": 6077,
+    "topic": "Evolution of Man",
+    "premise": "higher|mental|faculties|evolved|rudimentary|forms",
+    "conclusion": "The higher mental faculties in man have evolved from rudimentary forms present in our animal ancestors"
+  },
+  {
+    "id": 6078,
+    "topic": "Evolution of Man",
+    "premise": "human|progress|depends|merely|natural|selection",
+    "conclusion": "Human progress depends not merely on natural selection but on education, custom, and the advance of reason"
+  },
+  {
+    "id": 6079,
+    "topic": "Evolution of Man",
+    "premise": "intellectual|moral|faculties|variable|subject|hereditary",
+    "conclusion": "The intellectual and moral faculties of man are variable and subject to hereditary transmission"
+  },
+  {
+    "id": 6080,
+    "topic": "Evolution of Man",
+    "premise": "progenitors|like|primates|probably|arboreal|habit",
+    "conclusion": "Man's progenitors, like other primates, were probably arboreal in habit before adopting a terrestrial way of life"
+  },
+  {
+    "id": 6081,
+    "topic": "Evolution of Man",
+    "premise": "freeing|hands|bipedalism|crucial|step|permitting",
+    "conclusion": "The freeing of the hands through bipedalism was a crucial step permitting tool use and the development of human intelligence"
+  },
+  {
+    "id": 6082,
+    "topic": "Evolution of Man",
+    "premise": "human|evolution|influenced|natural|selection|sexual",
+    "conclusion": "Human evolution has been influenced by both natural selection and sexual selection acting on different traits"
+  },
+  {
+    "id": 6083,
+    "topic": "Evolution of Man",
+    "premise": "possesses|defensive|weapons|natural|armor|relying",
+    "conclusion": "Man possesses few defensive weapons and no natural armor, relying instead on intelligence and social cooperation for survival"
+  },
+  {
+    "id": 6084,
+    "topic": "Evolution of Man",
+    "premise": "mental|faculties|civilized|savage|peoples|differ",
+    "conclusion": "The mental faculties of civilized and savage peoples differ in degree, not in fundamental nature"
+  },
+  {
+    "id": 6085,
+    "topic": "Evolution of Man",
+    "premise": "human|beauty|standards|influenced|evolution|physical",
+    "conclusion": "Human beauty standards have influenced the evolution of physical characteristics through sexual selection"
+  },
+  {
+    "id": 6086,
+    "topic": "Evolutionary Psychology",
+    "premise": "expression|emotions|animals|reveals|common|evolutionary",
+    "conclusion": "The expression of emotions in man and animals reveals a common evolutionary heritage of emotional capacities"
+  },
+  {
+    "id": 6087,
+    "topic": "Evolutionary Psychology",
+    "premise": "emotional|expressions|arbitrary|conventions|evolved|serviceable",
+    "conclusion": "Emotional expressions are not arbitrary conventions but have evolved as serviceable associated habits"
+  },
+  {
+    "id": 6088,
+    "topic": "Evolutionary Psychology",
+    "premise": "many|emotional|expressions|innate|rather|learned",
+    "conclusion": "Many emotional expressions are innate rather than learned, as demonstrated by their presence in infants and the congenitally blind"
+  },
+  {
+    "id": 6089,
+    "topic": "Evolutionary Psychology",
+    "premise": "principle|antithesis|explains|opposite|emotional|states",
+    "conclusion": "The principle of antithesis explains why opposite emotional states produce opposite physical expressions"
+  },
+  {
+    "id": 6090,
+    "topic": "Evolutionary Psychology",
+    "premise": "blushing|peculiar|humans|connected|moral|self",
+    "conclusion": "Blushing is peculiar to humans and is connected with moral self-consciousness and concern for others' opinions"
+  },
+  {
+    "id": 6091,
+    "topic": "Evolutionary Psychology",
+    "premise": "fear|produces|physiological|responses|inherited|ancestors",
+    "conclusion": "Fear produces physiological responses inherited from ancestors for whom such responses were life-saving"
+  },
+  {
+    "id": 6092,
+    "topic": "Evolutionary Psychology",
+    "premise": "expression|anger|including|bared|teeth|clenched",
+    "conclusion": "The expression of anger, including bared teeth and clenched fists, reflects preparation for combat"
+  },
+  {
+    "id": 6093,
+    "topic": "Evolutionary Psychology",
+    "premise": "weeping|grief|distinctively|human|expression|evolved",
+    "conclusion": "Weeping in grief is a distinctively human expression that has evolved to elicit sympathy and aid from others"
+  },
+  {
+    "id": 6094,
+    "topic": "Evolutionary Psychology",
+    "premise": "laughter|evolved|social|signal|promoting|group",
+    "conclusion": "Laughter evolved as a social signal, promoting group bonding and indicating non-threatening intentions"
+  },
+  {
+    "id": 6095,
+    "topic": "Evolutionary Psychology",
+    "premise": "emotions|love|attachment|obvious|survival|value",
+    "conclusion": "The emotions of love and attachment have obvious survival value in promoting care for offspring and mates"
+  },
+  {
+    "id": 6096,
+    "topic": "Evolutionary Psychology",
+    "premise": "jealousy|evolved|mechanism|protect|mating|relationships",
+    "conclusion": "Jealousy evolved as a mechanism to protect mating relationships and ensure paternal investment in one's own offspring"
+  },
+  {
+    "id": 6097,
+    "topic": "Evolutionary Psychology",
+    "premise": "disgust|originally|evolved|prevent|ingestion|harmful",
+    "conclusion": "Disgust originally evolved to prevent ingestion of harmful substances and later extended to moral violations"
+  },
+  {
+    "id": 6098,
+    "topic": "Evolutionary Psychology",
+    "premise": "startle|response|ancient|protective|reflex|present",
+    "conclusion": "The startle response is an ancient protective reflex present across many species including humans"
+  },
+  {
+    "id": 6099,
+    "topic": "Evolutionary Psychology",
+    "premise": "facial|expressions|basic|emotions|universal|across",
+    "conclusion": "Facial expressions of basic emotions are universal across human cultures, indicating their innate basis"
+  },
+  {
+    "id": 6100,
+    "topic": "Evolutionary Psychology",
+    "premise": "sympathy|instinct|evolved|social|animals|benefit",
+    "conclusion": "Sympathy is an instinct that has evolved because social animals benefit from mutual aid and protection"
+  },
+  {
+    "id": 6101,
+    "topic": "Evolutionary Psychology",
+    "premise": "social|instincts|lead|animals|take|pleasure",
+    "conclusion": "The social instincts lead animals to take pleasure in the society of their fellows and to feel sympathy with them"
+  },
+  {
+    "id": 6102,
+    "topic": "Evolutionary Psychology",
+    "premise": "mental|powers|differ|degree|humans|animals",
+    "conclusion": "Mental powers differ in degree between humans and other animals; the fundamental processes are homologous"
+  },
+  {
+    "id": 6103,
+    "topic": "Evolutionary Psychology",
+    "premise": "animals|possess|memory|imagination|attention|rudimentary",
+    "conclusion": "Animals possess memory, imagination, attention, and even rudimentary reasoning abilities"
+  },
+  {
+    "id": 6104,
+    "topic": "Evolutionary Psychology",
+    "premise": "sense|wonder|curiosity|present|higher|animals",
+    "conclusion": "The sense of wonder and curiosity is present in higher animals and highly developed in humans"
+  },
+  {
+    "id": 6105,
+    "topic": "Evolutionary Psychology",
+    "premise": "imitation|powerful|instinct|social|animals|facilitating",
+    "conclusion": "Imitation is a powerful instinct in social animals, facilitating the transmission of learned behaviors"
+  },
+  {
+    "id": 6106,
+    "topic": "Evolutionary Psychology",
+    "premise": "principle|serviceable|associated|habits|explains|actions",
+    "conclusion": "The principle of serviceable associated habits explains how actions originally useful become automatic expressions"
+  },
+  {
+    "id": 6107,
+    "topic": "Evolutionary Psychology",
+    "premise": "shame|guilt|evolved|internal|regulators|promoting",
+    "conclusion": "Shame and guilt evolved as internal regulators promoting adherence to social norms beneficial for group living"
+  },
+  {
+    "id": 6108,
+    "topic": "Evolutionary Psychology",
+    "premise": "pride|self|esteem|serve|maintain|position",
+    "conclusion": "Pride and self-esteem serve to maintain one's position in social hierarchies important for reproductive success"
+  },
+  {
+    "id": 6109,
+    "topic": "Evolutionary Psychology",
+    "premise": "expression|contempt|signals|regard|another|serves",
+    "conclusion": "The expression of contempt signals low regard for another and serves social dominance functions"
+  },
+  {
+    "id": 6110,
+    "topic": "Evolutionary Psychology",
+    "premise": "maternal|instincts|among|strongest|essential|survival",
+    "conclusion": "Maternal instincts are among the strongest of all instincts, essential for the survival of helpless offspring"
+  },
+  {
+    "id": 6111,
+    "topic": "Evolutionary Psychology",
+    "premise": "play|young|animals|serves|develop|skills",
+    "conclusion": "Play in young animals serves to develop skills necessary for adult survival and reproduction"
+  },
+  {
+    "id": 6112,
+    "topic": "Evolutionary Psychology",
+    "premise": "anger|injustice|evolved|response|functions|deter",
+    "conclusion": "Anger at injustice is an evolved response that functions to deter cheaters and maintain reciprocal relationships"
+  },
+  {
+    "id": 6113,
+    "topic": "Evolutionary Psychology",
+    "premise": "dread|supernatural|punishment|evolved|extension|fear",
+    "conclusion": "The dread of supernatural punishment may have evolved as an extension of fear of social punishment"
+  },
+  {
+    "id": 6114,
+    "topic": "Evolutionary Psychology",
+    "premise": "courage|self|sacrifice|defense|group|favored",
+    "conclusion": "Courage and self-sacrifice in defense of the group have been favored by selection among social animals"
+  },
+  {
+    "id": 6115,
+    "topic": "Evolutionary Psychology",
+    "premise": "gratitude|functions|cement|beneficial|social|relationships",
+    "conclusion": "Gratitude functions to cement beneficial social relationships and encourage future cooperation"
+  },
+  {
+    "id": 6116,
+    "topic": "Evolutionary Psychology",
+    "premise": "capacity|delayed|gratification|evolved|increasing|cognitive",
+    "conclusion": "The capacity for delayed gratification evolved with increasing cognitive abilities and foresight"
+  },
+  {
+    "id": 6117,
+    "topic": "Evolutionary Psychology",
+    "premise": "envy|motivates|competition|striving|improve|relative",
+    "conclusion": "Envy motivates competition and striving to improve one's relative position in the social order"
+  },
+  {
+    "id": 6118,
+    "topic": "Evolutionary Psychology",
+    "premise": "trust|suspicion|calibrated|emotional|responses|regulate",
+    "conclusion": "Trust and suspicion are calibrated emotional responses that regulate social exchange and cooperation"
+  },
+  {
+    "id": 6119,
+    "topic": "Evolutionary Psychology",
+    "premise": "social|approval|powerful|motivator|shaped|evolutionary",
+    "conclusion": "The need for social approval is a powerful motivator shaped by our evolutionary history as social animals"
+  },
+  {
+    "id": 6120,
+    "topic": "Evolutionary Psychology",
+    "premise": "loneliness|functions|aversive|signal|motivating|reconnection",
+    "conclusion": "Loneliness functions as an aversive signal motivating reconnection with the social group"
+  },
+  {
+    "id": 6121,
+    "topic": "Evolutionary Psychology",
+    "premise": "formation|friendships|alliances|serves|strategic|functions",
+    "conclusion": "The formation of friendships and alliances serves strategic functions in social competition"
+  },
+  {
+    "id": 6122,
+    "topic": "Evolutionary Psychology",
+    "premise": "submission|displays|evolved|reduce|aggression|dominant",
+    "conclusion": "Submission displays evolved to reduce aggression from dominant individuals and prevent injury"
+  },
+  {
+    "id": 6123,
+    "topic": "Evolutionary Psychology",
+    "premise": "dominance|displays|evolved|establish|rank|without",
+    "conclusion": "Dominance displays evolved to establish rank without costly physical conflict"
+  },
+  {
+    "id": 6124,
+    "topic": "Evolutionary Psychology",
+    "premise": "emotions|associated|pair|bonding|evolved|promote",
+    "conclusion": "The emotions associated with pair bonding evolved to promote parental cooperation in raising offspring"
+  },
+  {
+    "id": 6125,
+    "topic": "Evolutionary Psychology",
+    "premise": "bereavement|grief|serve|maintain|social|bonds",
+    "conclusion": "Bereavement and grief serve to maintain social bonds and motivate recovery from loss"
+  },
+  {
+    "id": 6126,
+    "topic": "Geology",
+    "premise": "earth|immense|antiquity|geological|time|vastly",
+    "conclusion": "The earth is of immense antiquity; geological time vastly exceeds anything suggested by historical records or scriptural chronology"
+  },
+  {
+    "id": 6127,
+    "topic": "Geology",
+    "premise": "geological|formations|produced|causes|operation|acting",
+    "conclusion": "Geological formations have been produced by causes now in operation, acting over vast periods of time"
+  },
+  {
+    "id": 6128,
+    "topic": "Geology",
+    "premise": "present|past|natural|laws|processes|operated",
+    "conclusion": "The present is the key to the past; the same natural laws and processes operated throughout geological history"
+  },
+  {
+    "id": 6129,
+    "topic": "Geology",
+    "premise": "volcanic|islands|built|gradually|ocean|floor",
+    "conclusion": "Volcanic islands are built up gradually from the ocean floor through repeated eruptions over immense periods"
+  },
+  {
+    "id": 6130,
+    "topic": "Geology",
+    "premise": "coral|reefs|form|slow|accumulation|growth",
+    "conclusion": "Coral reefs form through the slow accumulation of coral growth as the underlying land subsides"
+  },
+  {
+    "id": 6131,
+    "topic": "Geology",
+    "premise": "subsidence|theory|coral|reef|formation|explains",
+    "conclusion": "The subsidence theory of coral reef formation explains the progression from fringing reefs to barrier reefs to atolls"
+  },
+  {
+    "id": 6132,
+    "topic": "Geology",
+    "premise": "atolls|remnants|fringing|reefs|surrounded|volcanic",
+    "conclusion": "Atolls are the remnants of fringing reefs that surrounded volcanic islands now completely submerged"
+  },
+  {
+    "id": 6133,
+    "topic": "Geology",
+    "premise": "large|areas|pacific|undergone|gradual|subsidence",
+    "conclusion": "Large areas of the Pacific have undergone gradual subsidence, as evidenced by the distribution of coral formations"
+  },
+  {
+    "id": 6134,
+    "topic": "Geology",
+    "premise": "andes|mountains|uplifted|gradually|demonstrated|marine",
+    "conclusion": "The Andes mountains have been uplifted gradually, as demonstrated by marine fossils found at great elevations"
+  },
+  {
+    "id": 6135,
+    "topic": "Geology",
+    "premise": "earthquakes|symptoms|ongoing|geological|processes|shaped",
+    "conclusion": "Earthquakes are symptoms of ongoing geological processes that have shaped the earth's surface over eons"
+  },
+  {
+    "id": 6136,
+    "topic": "Geology",
+    "premise": "formation|sedimentary|strata|requires|vast|periods",
+    "conclusion": "The formation of sedimentary strata requires vast periods during which particles settle and consolidate"
+  },
+  {
+    "id": 6137,
+    "topic": "Geology",
+    "premise": "denudation|rivers|erosion|slow|powerful|agents",
+    "conclusion": "Denudation by rivers and erosion by the sea are slow but powerful agents of geological change"
+  },
+  {
+    "id": 6138,
+    "topic": "Geology",
+    "premise": "geological|record|extremely|imperfect|small|fraction",
+    "conclusion": "The geological record is extremely imperfect; only a small fraction of species that existed have been preserved as fossils"
+  },
+  {
+    "id": 6139,
+    "topic": "Geology",
+    "premise": "fossilization|requires|exceptional|conditions|organisms|decay",
+    "conclusion": "Fossilization requires exceptional conditions; most organisms decay completely without leaving any trace"
+  },
+  {
+    "id": 6140,
+    "topic": "Geology",
+    "premise": "continental|areas|repeatedly|risen|sunk|beneath",
+    "conclusion": "Continental areas have repeatedly risen above and sunk beneath the sea over geological time"
+  },
+  {
+    "id": 6141,
+    "topic": "Geology",
+    "premise": "distribution|erratic|boulders|provides|evidence|former",
+    "conclusion": "The distribution of erratic boulders provides evidence of former glacial action extending far beyond present ice sheets"
+  },
+  {
+    "id": 6142,
+    "topic": "Geology",
+    "premise": "glacial|periods|occurred|repeatedly|earth|history",
+    "conclusion": "Glacial periods have occurred repeatedly in earth's history, producing dramatic changes in climate and sea level"
+  },
+  {
+    "id": 6143,
+    "topic": "Geology",
+    "premise": "stratification|rocks|reveals|succession|epochs|distinct",
+    "conclusion": "The stratification of rocks reveals a succession of epochs with distinct fauna and flora"
+  },
+  {
+    "id": 6144,
+    "topic": "Geology",
+    "premise": "volcanic|activity|constant|feature|earth|history",
+    "conclusion": "Volcanic activity has been a constant feature of earth's history, building islands and mountains while destroying others"
+  },
+  {
+    "id": 6145,
+    "topic": "Geology",
+    "premise": "thickness|sedimentary|formations|indicates|duration|geological",
+    "conclusion": "The thickness of sedimentary formations indicates the duration of geological periods far exceeding human comprehension"
+  },
+  {
+    "id": 6146,
+    "topic": "Geology",
+    "premise": "elevation|south|america|voyage|beagle|demonstrated",
+    "conclusion": "The elevation of South America during the voyage of the Beagle demonstrated that geological uplift is ongoing"
+  },
+  {
+    "id": 6147,
+    "topic": "Geology",
+    "premise": "parallel|roads|glen|ancient|beaches|marking",
+    "conclusion": "Parallel roads in Glen Roy are ancient sea beaches marking stages in the subsidence and elevation of the land"
+  },
+  {
+    "id": 6148,
+    "topic": "Geology",
+    "premise": "igneous|metamorphic|rocks|underlying|sedimentary|strata",
+    "conclusion": "The igneous and metamorphic rocks underlying sedimentary strata represent even more ancient geological epochs"
+  },
+  {
+    "id": 6149,
+    "topic": "Geology",
+    "premise": "forces|elevate|mountain|chains|slowly|produced",
+    "conclusion": "The forces that elevate mountain chains act slowly but have produced dramatic effects over geological time"
+  },
+  {
+    "id": 6150,
+    "topic": "Geology",
+    "premise": "geological|formations|correlated|across|distant|regions",
+    "conclusion": "Geological formations can be correlated across distant regions by their characteristic fossils"
+  },
+  {
+    "id": 6151,
+    "topic": "Geology",
+    "premise": "absence|intermediate|geological|formations|represents|gaps",
+    "conclusion": "The absence of intermediate geological formations represents gaps in the record, not sudden catastrophes"
+  },
+  {
+    "id": 6152,
+    "topic": "Geology",
+    "premise": "chalk|formations|represent|accumulated|remains|countless",
+    "conclusion": "Chalk formations represent the accumulated remains of countless microscopic organisms over vast periods"
+  },
+  {
+    "id": 6153,
+    "topic": "Geology",
+    "premise": "earth|crust|constant|though|imperceptible|motion",
+    "conclusion": "The earth's crust is in constant, though imperceptible, motion, both vertically and horizontally"
+  },
+  {
+    "id": 6154,
+    "topic": "Geology",
+    "premise": "lyell|uniformitarian|principles|provide|correct|framework",
+    "conclusion": "Lyell's uniformitarian principles provide the correct framework for understanding geological history"
+  },
+  {
+    "id": 6155,
+    "topic": "Geology",
+    "premise": "catastrophism|doctrine|sudden|violent|revolutions|cannot",
+    "conclusion": "Catastrophism, the doctrine of sudden violent revolutions, cannot account for the gradual nature of geological change"
+  },
+  {
+    "id": 6156,
+    "topic": "Geology",
+    "premise": "depth|geological|time|difficult|comprehend|essential",
+    "conclusion": "The depth of geological time is difficult to comprehend but essential for understanding earth's history"
+  },
+  {
+    "id": 6157,
+    "topic": "Geology",
+    "premise": "coal|beds|represent|ancient|swamp|forests",
+    "conclusion": "Coal beds represent ancient swamp forests compressed and transformed over millions of years"
+  },
+  {
+    "id": 6158,
+    "topic": "Geology",
+    "premise": "formation|mountain|ranges|involves|uplift|folding",
+    "conclusion": "The formation of mountain ranges involves both uplift and folding of pre-existing strata"
+  },
+  {
+    "id": 6159,
+    "topic": "Geology",
+    "premise": "river|valleys|carved|gradually|erosive|action",
+    "conclusion": "River valleys have been carved gradually by the erosive action of flowing water over immense periods"
+  },
+  {
+    "id": 6160,
+    "topic": "Geology",
+    "premise": "distribution|fossils|different|elevations|demonstrates|past",
+    "conclusion": "The distribution of fossils at different elevations demonstrates past changes in sea level and land elevation"
+  },
+  {
+    "id": 6161,
+    "topic": "Geology and Evolution",
+    "premise": "vast|time|scale|revealed|geology|necessary",
+    "conclusion": "The vast time scale revealed by geology is necessary for evolutionary change to occur through natural selection"
+  },
+  {
+    "id": 6162,
+    "topic": "Geology and Evolution",
+    "premise": "without|geological|evidence|deep|time|theory",
+    "conclusion": "Without the geological evidence for deep time, the theory of evolution by natural selection would be untenable"
+  },
+  {
+    "id": 6163,
+    "topic": "Geology and Evolution",
+    "premise": "imperfection|geological|record|explains|transitional|forms",
+    "conclusion": "The imperfection of the geological record explains why transitional forms are rarely preserved"
+  },
+  {
+    "id": 6164,
+    "topic": "Geology and Evolution",
+    "premise": "fossils|demonstrate|succession|life|forms|simpler",
+    "conclusion": "Fossils demonstrate the succession of life forms, with simpler organisms in older strata and more complex ones in younger strata"
+  },
+  {
+    "id": 6165,
+    "topic": "Geology and Evolution",
+    "premise": "geographical|distribution|species|explained|geological|events",
+    "conclusion": "The geographical distribution of species is explained by geological events such as land bridges and continental movements"
+  },
+  {
+    "id": 6166,
+    "topic": "Geology and Evolution",
+    "premise": "oceanic|islands|receive|fauna|nearby|continents",
+    "conclusion": "Oceanic islands receive their fauna from nearby continents, modified over time by isolation and new conditions"
+  },
+  {
+    "id": 6167,
+    "topic": "Geology and Evolution",
+    "premise": "elevation|subsidence|land|masses|repeatedly|isolated",
+    "conclusion": "The elevation and subsidence of land masses have repeatedly isolated and reconnected populations, driving speciation"
+  },
+  {
+    "id": 6168,
+    "topic": "Geology and Evolution",
+    "premise": "glacial|periods|caused|massive|extinctions|migrations",
+    "conclusion": "Glacial periods caused massive extinctions and migrations that shaped current biogeographical patterns"
+  },
+  {
+    "id": 6169,
+    "topic": "Geology and Evolution",
+    "premise": "uniformitarian|view|geology|supports|gradualist|evolutionary",
+    "conclusion": "The uniformitarian view of geology supports the gradualist view of evolutionary change"
+  },
+  {
+    "id": 6170,
+    "topic": "Geology and Evolution",
+    "premise": "geological|change|occurs|small|increments|evolutionary",
+    "conclusion": "Just as geological change occurs by small increments, so does evolutionary change through slight modifications"
+  },
+  {
+    "id": 6171,
+    "topic": "Geology and Evolution",
+    "premise": "study|living|coral|reefs|illuminates|conditions",
+    "conclusion": "The study of living coral reefs illuminates the conditions under which ancient reef formations were deposited"
+  },
+  {
+    "id": 6172,
+    "topic": "Geology and Evolution",
+    "premise": "fossil|evidence|extinct|species|demonstrates|life",
+    "conclusion": "Fossil evidence of extinct species demonstrates that life has undergone dramatic changes over geological time"
+  },
+  {
+    "id": 6173,
+    "topic": "Geology and Evolution",
+    "premise": "extinction|species|natural|origination|products|changing",
+    "conclusion": "The extinction of species is as natural as their origination; both are products of changing conditions over time"
+  },
+  {
+    "id": 6174,
+    "topic": "Geology and Evolution",
+    "premise": "ancient|climates|inferred|geology|help|explain",
+    "conclusion": "Ancient climates, inferred from geology, help explain past distributions and extinctions of species"
+  },
+  {
+    "id": 6175,
+    "topic": "Geology and Evolution",
+    "premise": "fossil|record|however|imperfect|provides|direct",
+    "conclusion": "The fossil record, however imperfect, provides the direct evidence needed to support the theory of descent with modification"
+  },
+  {
+    "id": 6176,
+    "topic": "Geology and Evolution",
+    "premise": "sedimentary|basins|preserve|fossils|intermittently|leaving",
+    "conclusion": "Sedimentary basins preserve fossils only intermittently, leaving gaps that should not be mistaken for sudden change"
+  },
+  {
+    "id": 6177,
+    "topic": "Geology and Evolution",
+    "premise": "migration|species|following|geological|changes|explains",
+    "conclusion": "The migration of species following geological changes explains many puzzling features of current distribution"
+  },
+  {
+    "id": 6178,
+    "topic": "Geology and Evolution",
+    "premise": "land|bridges|submerged|explain|presence|related",
+    "conclusion": "Land bridges, now submerged, explain the presence of related species on continents now separated by oceans"
+  },
+  {
+    "id": 6179,
+    "topic": "Geology and Evolution",
+    "premise": "fauna|isolated|islands|reflects|geological|history",
+    "conclusion": "The fauna of isolated islands reflects both their geological history and their distance from source populations"
+  },
+  {
+    "id": 6180,
+    "topic": "Geology and Evolution",
+    "premise": "volcanic|islands|connected|continents|lack|indigenous",
+    "conclusion": "Volcanic islands that have never been connected to continents lack indigenous land mammals, as expected on evolutionary grounds"
+  },
+  {
+    "id": 6181,
+    "topic": "Geology and Evolution",
+    "premise": "geological|formations|determined|fossil|content|demonstrating",
+    "conclusion": "The geological age of formations can be determined by their fossil content, demonstrating the regular succession of life"
+  },
+  {
+    "id": 6182,
+    "topic": "Geology and Evolution",
+    "premise": "paleontology|geology|together|reveal|history|life",
+    "conclusion": "Paleontology and geology together reveal the history of life on earth in its proper temporal framework"
+  },
+  {
+    "id": 6183,
+    "topic": "Geology and Evolution",
+    "premise": "absence|mammals|ancient|strata|supports|view",
+    "conclusion": "The absence of mammals in ancient strata supports the view that higher forms evolved from lower ones"
+  },
+  {
+    "id": 6184,
+    "topic": "Geology and Evolution",
+    "premise": "gradual|cooling|earth|influenced|evolution|distribution",
+    "conclusion": "The gradual cooling of the earth has influenced the evolution and distribution of life over geological ages"
+  },
+  {
+    "id": 6185,
+    "topic": "Geology and Evolution",
+    "premise": "changes|level|documented|geologically|repeatedly|created",
+    "conclusion": "Changes in sea level, documented geologically, have repeatedly created and eliminated barriers to species dispersal"
+  },
+  {
+    "id": 6186,
+    "topic": "Geology and Evolution",
+    "premise": "concordance|geological|biological|evidence|strengthens|case",
+    "conclusion": "The concordance between geological and biological evidence strengthens the case for evolution"
+  },
+  {
+    "id": 6187,
+    "topic": "Geology and Evolution",
+    "premise": "catastrophes|produced|geological|change|caused|extinction",
+    "conclusion": "The same catastrophes that produced geological change also caused the extinction of species and the emergence of new ones"
+  },
+  {
+    "id": 6188,
+    "topic": "Geology and Evolution",
+    "premise": "climate|changes|documented|geological|record|drove",
+    "conclusion": "Climate changes documented in the geological record drove adaptations in surviving species"
+  },
+  {
+    "id": 6189,
+    "topic": "Geology and Evolution",
+    "premise": "principle|current|processes|explain|past|events",
+    "conclusion": "The principle that current processes explain past events applies equally to geology and biology"
+  },
+  {
+    "id": 6190,
+    "topic": "Geology and Evolution",
+    "premise": "geology|biology|reveal|world|constant|gradual",
+    "conclusion": "Both geology and biology reveal a world in constant but gradual change, not fixed and immutable"
+  },
+  {
+    "id": 6191,
+    "topic": "Geology and Evolution",
+    "premise": "succession|geological|epochs|corresponds|dominant|life",
+    "conclusion": "The succession of geological epochs corresponds to the succession of dominant life forms"
+  },
+  {
+    "id": 6192,
+    "topic": "Geology and Evolution",
+    "premise": "lyell|geological|principles|prepared|intellectual|ground",
+    "conclusion": "Lyell's geological principles prepared the intellectual ground for accepting biological evolution"
+  },
+  {
+    "id": 6193,
+    "topic": "Geology and Evolution",
+    "premise": "without|understanding|geological|time|pace|evolutionary",
+    "conclusion": "Without understanding of geological time, the pace of evolutionary change appears impossibly slow"
+  },
+  {
+    "id": 6194,
+    "topic": "Geology and Evolution",
+    "premise": "thickness|fossiliferous|strata|provides|minimum|estimates",
+    "conclusion": "The thickness of fossiliferous strata provides minimum estimates for the time available for evolution"
+  },
+  {
+    "id": 6195,
+    "topic": "Geology and Evolution",
+    "premise": "geological|isolation|mountain|building|island|formation",
+    "conclusion": "Geological isolation through mountain building or island formation creates the conditions for speciation"
+  },
+  {
+    "id": 6196,
+    "topic": "Geology and Evolution",
+    "premise": "synthesis|geological|biological|knowledge|reveals|unified",
+    "conclusion": "The synthesis of geological and biological knowledge reveals the unified history of the earth and its inhabitants"
+  }
+]

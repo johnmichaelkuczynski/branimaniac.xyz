@@ -1,0 +1,125 @@
+Point 1 (the actual problem)
+
+Your app IS trying to use the DB, but it’s querying tables that do not exist:
+
+argument_statements does not exist
+
+text_chunks does not exist
+
+paper_chunks does not exist
+
+So your RAG layer is broken. Every DB retrieval fails → you fall back → generic LLM voice.
+
+That’s why Neon “active queries” looked like nothing: the queries are failing immediately and you’re not viewing them in the right place (and “Active queries” only shows queries currently running, not fast failures).
+
+Point 2 (what DB you do have)
+
+Your Neon screenshot shows tables like:
+
+texts
+
+chunks
+
+positions
+
+quotes
+
+persona_settings
+
+messages
+etc.
+
+So your code is expecting a schema you don’t have.
+
+Point 3 (what you must do, exactly)
+
+You need to make one of these true:
+
+Option A (recommended): Change the code to use your actual tables
+
+In server/vector-search.ts, replace all references to:
+
+text_chunks → use chunks
+
+paper_chunks → use chunks or texts (depending on what you stored)
+
+argument_statements → use arguments (you have that table)
+
+This is a straight rename/mapping job.
+
+Option B: Create the missing tables
+
+Run SQL migrations to create:
+
+text_chunks
+
+paper_chunks
+
+argument_statements
+
+…but this is stupid because you already have the correct tables and data.
+
+Point 4 (where to look in code)
+
+Your stack trace tells you exactly:
+
+server/vector-search.ts lines around 158, 427, 526, 668
+
+route call: server/routes.ts:1259
+
+That’s where the table names are hardcoded.
+
+Point 5 (single definitive proof)
+
+Your app is using the DB because it successfully retrieves:
+
+30 positions
+
+20 quotes
+
+and also “Retrieved text chunks” (but that’s misleading because the chunk search failed; it’s probably returning something from another path)
+
+So the DB works — your RAG tables are mismatched.
+
+If you paste your schema / create-table SQL (or just open server/vector-search.ts and show me the top half where the queries are), I’ll tell you the exact replacements (table + column names) you need so Freud is actually built out of DB text and stops sounding like a generic therapist.
+
+DON'T GIVE ME 'OPTIONS'. WHICH OPTINO IS IT? A OR B
+
+A.
+
+Your DB already has the real tables (chunks, texts, arguments, etc.). Your code is incorrectly querying nonexistent tables (text_chunks, paper_chunks, argument_statements). Fix the code to match your existing schema.
+
+THEN GIVE ME THOSE INSTRUCTIONS, ONE AT A TIME. NO "OR" 
+Step 1
+
+Open this file:
+
+server/vector-search.ts
+
+Then use your editor’s global search to find this exact string:
+
+text_chunks
+
+(Do nothing else yet. Just locate every occurrence.)
+
+FUCK YOU ASSHOLE. I'M NOT GOING TO FUCK WITH THE CODE. YOU SUCK AT CODE. TELL ME WHAT TO TELL THE REPLIT AGENT FUCK YO
+
+Tell the Replit agent exactly this, and nothing else:
+
+Instruction 1 (to Replit agent)
+
+Open server/vector-search.ts and replace every SQL reference to the non-existent table text_chunks with the existing table chunks.
+
+Any query like FROM text_chunks must become FROM chunks.
+
+Any join referencing text_chunks must be updated to chunks.
+
+Keep the selected columns the same unless the column doesn’t exist, in which case map:
+
+chunk_text / content → content
+
+thinker / author → thinker
+
+created_at stays created_at
+
+After replacements, run the server and confirm the error relation "text_chunks" does not exist is gone.

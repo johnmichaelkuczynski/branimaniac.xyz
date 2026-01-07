@@ -1,0 +1,20 @@
+=== EMBEDDING LOG FOR WILHELM REICH ===
+Figure ID: reich
+Source Folder: /home/runner/workspace/server/data/reich
+Started: 2025-12-13T04:11:43.237Z
+============================================================
+
+[2025-12-13T04:11:43.241Z] FLAGGED | reich_cancer_biopathy.txt | 0 chunks | Contains 6 mentions of "Mill" - possible misattribution
+[2025-12-13T04:11:43.472Z] FLAGGED | reich_character_analysis.txt | 0 chunks | Contains 14 mentions of "Mill" - possible misattribution
+[2025-12-13T04:11:43.557Z] FLAGGED | reich_function_orgasm.txt | 0 chunks | Contains 20 mentions of "Mill" - possible misattribution
+[2025-12-13T04:11:43.609Z] SUCCESS | reich_invasion_sex_morality.txt | 341 chunks | 
+[2025-12-13T04:12:58.922Z] FLAGGED | reich_people_in_trouble.txt | 0 chunks | Contains 34 mentions of "Mill" - possible misattribution
+[2025-12-13T04:12:58.977Z] FLAGGED | reich_speaks_freud.txt | 0 chunks | Contains 14 mentions of "Mill" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 1
+Chunks created: 341
+Files flagged: 5
+Errors: 0
+Completed: 2025-12-13T04:12:59.034Z

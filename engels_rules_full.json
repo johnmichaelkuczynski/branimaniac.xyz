@@ -1,0 +1,842 @@
+[
+  {
+    "id": 6622,
+    "topic": "Historical Materialism",
+    "premise": "mode|production|material|life|conditions|social",
+    "conclusion": "The mode of production of material life conditions social, political, and intellectual processes generally\u2014consciousness does not determine being, but social being determines consciousness"
+  },
+  {
+    "id": 6623,
+    "topic": "Historical Materialism",
+    "premise": "history|proceeds|necessary|stages|development|primitive",
+    "conclusion": "History proceeds through necessary stages of development (primitive communism, slavery, feudalism, capitalism, socialism) driven by contradictions between productive forces and relations of production"
+  },
+  {
+    "id": 6624,
+    "topic": "Historical Materialism",
+    "premise": "ideas|religions|philosophies|legal|systems|superstructural",
+    "conclusion": "Ideas, religions, philosophies, and legal systems are superstructural phenomena ultimately traceable to the economic base of society"
+  },
+  {
+    "id": 6625,
+    "topic": "Historical Materialism",
+    "premise": "historical|change|occurs|class|struggle|motor",
+    "conclusion": "Historical change occurs through class struggle, which is the motor of history in all written records of human civilization"
+  },
+  {
+    "id": 6626,
+    "topic": "Historical Materialism",
+    "premise": "transition|modes|production|occurs|productive|forces",
+    "conclusion": "The transition between modes of production occurs when productive forces outgrow existing relations of production, creating revolutionary situations"
+  },
+  {
+    "id": 6627,
+    "topic": "The Condition of the Working Class",
+    "premise": "industrial|capitalism|systematically|degrades|workers|physically",
+    "conclusion": "Industrial capitalism systematically degrades workers physically, morally, and intellectually through exploitative conditions, long hours, and subsistence wages"
+  },
+  {
+    "id": 6628,
+    "topic": "The Condition of the Working Class",
+    "premise": "bourgeoisie|commits|social|murder|deliberate|neglect",
+    "conclusion": "The bourgeoisie commits \"social murder\" through deliberate neglect\u2014inadequate housing, sanitation, and nutrition that predictably kills workers"
+  },
+  {
+    "id": 6629,
+    "topic": "The Condition of the Working Class",
+    "premise": "reserve|army|labor|unemployed|workers|structurally",
+    "conclusion": "The reserve army of labor (unemployed workers) is structurally necessary to capitalism to depress wages and discipline employed workers"
+  },
+  {
+    "id": 6630,
+    "topic": "The Condition of the Working Class",
+    "premise": "working|class|neighborhoods|deliberately|segregated|bourgeois",
+    "conclusion": "Working-class neighborhoods are deliberately segregated from bourgeois areas, rendering poverty invisible to those who profit from it"
+  },
+  {
+    "id": 6631,
+    "topic": "The Condition of the Working Class",
+    "premise": "proletariat|misery|accidental|necessary|consequence|capitalism",
+    "conclusion": "The proletariat's misery is not accidental but a necessary consequence of capitalism's internal logic of accumulation"
+  },
+  {
+    "id": 6632,
+    "topic": "Origin of Family, Private Property, and State",
+    "premise": "monogamous|patriarchal|family|arose|natural|affection",
+    "conclusion": "The monogamous patriarchal family arose not from natural affection but from the need to transmit private property through verified male lineage"
+  },
+  {
+    "id": 6633,
+    "topic": "Origin of Family, Private Property, and State",
+    "premise": "state|neutral|arbiter|instrument|class|rule",
+    "conclusion": "The state is not a neutral arbiter but an instrument of class rule that arose to protect property relations and suppress exploited classes"
+  },
+  {
+    "id": 6634,
+    "topic": "Origin of Family, Private Property, and State",
+    "premise": "primitive|societies|practiced|group|marriage|matrilineal",
+    "conclusion": "Primitive societies practiced group marriage and matrilineal descent; the \"world-historic defeat of the female sex\" occurred with the rise of private property"
+  },
+  {
+    "id": 6635,
+    "topic": "Origin of Family, Private Property, and State",
+    "premise": "state|wither|away|communism|function|managing",
+    "conclusion": "The state will wither away under communism because its function\u2014managing class antagonisms\u2014will disappear when classes disappear"
+  },
+  {
+    "id": 6636,
+    "topic": "Origin of Family, Private Property, and State",
+    "premise": "civilization|inseparable|exploitation|advance|simultaneously|regression",
+    "conclusion": "Civilization itself is inseparable from exploitation; every advance has simultaneously been a regression for the subjected class"
+  },
+  {
+    "id": 6637,
+    "topic": "Dialectics and Dialectical Materialism",
+    "premise": "three|laws|dialectics|transformation|quantity|quality",
+    "conclusion": "The three laws of dialectics: transformation of quantity into quality, interpenetration of opposites, and negation of the negation"
+  },
+  {
+    "id": 6638,
+    "topic": "Dialectics and Dialectical Materialism",
+    "premise": "dialectics|imposed|nature|extracted|proceeds|dialectically",
+    "conclusion": "Dialectics is not imposed on nature but extracted from it\u2014nature itself proceeds dialectically through contradiction and development"
+  },
+  {
+    "id": 6639,
+    "topic": "Dialectics and Dialectical Materialism",
+    "premise": "formal|logic|valid|limited|captures|static",
+    "conclusion": "Formal logic is valid but limited; it captures static relations but cannot grasp motion, development, and qualitative transformation"
+  },
+  {
+    "id": 6640,
+    "topic": "Dialectics and Dialectical Materialism",
+    "premise": "things|contain|internal|contradictions|drive|development",
+    "conclusion": "All things contain internal contradictions that drive their development and eventual transformation into something qualitatively different"
+  },
+  {
+    "id": 6641,
+    "topic": "Dialectics and Dialectical Materialism",
+    "premise": "dialectical|thinking|overcomes|rigid|either|metaphysical",
+    "conclusion": "Dialectical thinking overcomes the rigid either/or of metaphysical thought, recognizing that opposites interpenetrate and things can be simultaneously themselves and not-themselves"
+  },
+  {
+    "id": 6642,
+    "topic": "Critique of Political Economy",
+    "premise": "classical|political|economy|smith|ricardo|correctly",
+    "conclusion": "Classical political economy (Smith, Ricardo) correctly identified labor as the source of value but failed to analyze the specifically capitalist form of exploitation"
+  },
+  {
+    "id": 6643,
+    "topic": "Critique of Political Economy",
+    "premise": "surplus|value|unpaid|labor|appropriated|capitalists",
+    "conclusion": "Surplus value\u2014unpaid labor appropriated by capitalists\u2014is the secret of capitalist profit, rent, and interest"
+  },
+  {
+    "id": 6644,
+    "topic": "Critique of Political Economy",
+    "premise": "capitalism|internal|contradictions|overproduction|falling|rate",
+    "conclusion": "Capitalism's internal contradictions (overproduction, falling rate of profit, concentration of capital) make it inherently crisis-prone and historically transient"
+  },
+  {
+    "id": 6645,
+    "topic": "Critique of Political Economy",
+    "premise": "categories|bourgeois|economics|wages|profit|rent",
+    "conclusion": "The categories of bourgeois economics (wages, profit, rent) are not natural but historically specific forms that mystify exploitation"
+  },
+  {
+    "id": 6646,
+    "topic": "Critique of Political Economy",
+    "premise": "economic|crises|accidents|necessary|expressions|capitalism",
+    "conclusion": "Economic crises are not accidents but necessary expressions of capitalism's fundamental contradiction between social production and private appropriation"
+  },
+  {
+    "id": 6647,
+    "topic": "Scientific vs. Utopian Socialism",
+    "premise": "utopian|socialists|fourier|owen|saint|simon",
+    "conclusion": "Utopian socialists (Fourier, Owen, Saint-Simon) correctly diagnosed capitalism's injustices but proposed solutions based on moral appeals rather than historical analysis"
+  },
+  {
+    "id": 6648,
+    "topic": "Scientific vs. Utopian Socialism",
+    "premise": "scientific|socialism|grounds|actual|laws|historical",
+    "conclusion": "Scientific socialism grounds itself in the actual laws of historical development, recognizing socialism as the necessary outcome of capitalism's contradictions"
+  },
+  {
+    "id": 6649,
+    "topic": "Scientific vs. Utopian Socialism",
+    "premise": "socialism|cannot|willed|existence|enlightened|reformers",
+    "conclusion": "Socialism cannot be willed into existence by enlightened reformers; it requires the development of productive forces and class consciousness of the proletariat"
+  },
+  {
+    "id": 6650,
+    "topic": "Scientific vs. Utopian Socialism",
+    "premise": "utopians|plans|ideal|communities|historically|premature",
+    "conclusion": "The utopians' plans for ideal communities were historically premature\u2014the material conditions and class forces for socialism had not yet matured"
+  },
+  {
+    "id": 6651,
+    "topic": "Scientific vs. Utopian Socialism",
+    "premise": "despite|limitations|utopians|contributed|genuine|insights",
+    "conclusion": "Despite their limitations, the utopians contributed genuine insights (critique of competition, vision of cooperative production) that scientific socialism incorporates"
+  },
+  {
+    "id": 6652,
+    "topic": "The Role of Labor in Human Evolution",
+    "premise": "labor|primary|condition|human|existence|much",
+    "conclusion": "Labor is the primary condition of human existence\u2014so much so that labor created humanity itself"
+  },
+  {
+    "id": 6653,
+    "topic": "The Role of Labor in Human Evolution",
+    "premise": "hand|organ|product|labor|development|tool",
+    "conclusion": "The hand is both the organ and product of labor; its development through tool use drove brain development and eventually language"
+  },
+  {
+    "id": 6654,
+    "topic": "The Role of Labor in Human Evolution",
+    "premise": "transition|human|occurred|adoption|upright|posture",
+    "conclusion": "The transition from ape to human occurred through the adoption of upright posture, which freed the hands for increasingly complex manipulation"
+  },
+  {
+    "id": 6655,
+    "topic": "The Role of Labor in Human Evolution",
+    "premise": "human|beings|distinguish|animals|producing|means",
+    "conclusion": "Human beings distinguish themselves from animals by producing their means of subsistence, thereby indirectly producing their material life"
+  },
+  {
+    "id": 6656,
+    "topic": "The Role of Labor in Human Evolution",
+    "premise": "social|character|labor|cooperative|production|requiring",
+    "conclusion": "The social character of labor\u2014cooperative production requiring communication\u2014drove the development of language and abstract thought"
+  },
+  {
+    "id": 6657,
+    "topic": "Military Science and Strategy",
+    "premise": "military|organization|reflects|economic|social|structure",
+    "conclusion": "Military organization reflects the economic and social structure of the society that produces it; armies are not autonomous from class relations"
+  },
+  {
+    "id": 6658,
+    "topic": "Military Science and Strategy",
+    "premise": "nation|arms|mass|conscription|historically|superior",
+    "conclusion": "The nation-in-arms (mass conscription) is historically superior to professional mercenary armies, as demonstrated by revolutionary France"
+  },
+  {
+    "id": 6659,
+    "topic": "Military Science and Strategy",
+    "premise": "industrial|development|transforms|warfare|railways|telegraphs",
+    "conclusion": "Industrial development transforms warfare\u2014railways, telegraphs, rifled artillery, and mass production fundamentally alter strategic possibilities"
+  },
+  {
+    "id": 6660,
+    "topic": "Military Science and Strategy",
+    "premise": "proletariat|study|military|science|revolution|requires",
+    "conclusion": "The proletariat must study military science because revolution requires armed force; the ruling class will not peacefully surrender power"
+  },
+  {
+    "id": 6661,
+    "topic": "Military Science and Strategy",
+    "premise": "technological|developments|weaponry|tend|toward|making",
+    "conclusion": "Technological developments in weaponry tend toward making wars more destructive and potentially unwinnable, creating contradictions for militaristic states"
+  },
+  {
+    "id": 6662,
+    "topic": "The Housing Question",
+    "premise": "housing|shortage|accident|necessary|product|capitalist",
+    "conclusion": "The housing shortage is not an accident but a necessary product of capitalist urbanization and the commodification of shelter"
+  },
+  {
+    "id": 6663,
+    "topic": "The Housing Question",
+    "premise": "proudhonist|solutions|making|workers|homeowners|solve",
+    "conclusion": "Proudhonist solutions (making workers homeowners) would not solve the housing crisis but would tie workers to particular locations, reducing labor mobility"
+  },
+  {
+    "id": 6664,
+    "topic": "The Housing Question",
+    "premise": "bourgeoisie|solves|housing|problems|displacing|slum",
+    "conclusion": "The bourgeoisie \"solves\" housing problems by displacing them\u2014slum clearance merely shifts poverty elsewhere while raising rents"
+  },
+  {
+    "id": 6665,
+    "topic": "The Housing Question",
+    "premise": "abolition|antithesis|town|country|socialist|reorganization",
+    "conclusion": "Only the abolition of the antithesis between town and country through socialist reorganization can solve the housing question"
+  },
+  {
+    "id": 6666,
+    "topic": "The Housing Question",
+    "premise": "housing|reform|capitalism|ameliorates|symptoms|cannot",
+    "conclusion": "Housing reform under capitalism ameliorates symptoms but cannot address the structural causes rooted in private property and urban land speculation"
+  },
+  {
+    "id": 6667,
+    "topic": "The Peasant Question",
+    "premise": "peasantry|homogeneous|class|divided|rich|peasants",
+    "conclusion": "The peasantry is not a homogeneous class but divided into rich peasants (rural bourgeoisie), middle peasants, and poor peasants/agricultural laborers"
+  },
+  {
+    "id": 6668,
+    "topic": "The Peasant Question",
+    "premise": "small|peasant|agriculture|economically|doomed|capitalist",
+    "conclusion": "Small peasant agriculture is economically doomed by capitalist competition; the socialist movement should not promise to preserve it artificially"
+  },
+  {
+    "id": 6669,
+    "topic": "The Peasant Question",
+    "premise": "proletariat|peasantry|allies|particularly|poor|peasants",
+    "conclusion": "The proletariat must win the peasantry as allies, particularly poor peasants whose interests align with workers against large landowners and capitalists"
+  },
+  {
+    "id": 6670,
+    "topic": "The Peasant Question",
+    "premise": "collectivization|agriculture|proceed|example|persuasion|compulsion",
+    "conclusion": "Collectivization of agriculture should proceed by example and persuasion, not compulsion\u2014peasants must see its advantages demonstrated"
+  },
+  {
+    "id": 6671,
+    "topic": "The Peasant Question",
+    "premise": "german|peasant|wars|century|failed|peasantry",
+    "conclusion": "The German peasant wars of the 16th century failed because the peasantry could not unite with urban plebeians under a coherent revolutionary program"
+  },
+  {
+    "id": 6672,
+    "topic": "Anti-D\u00fchring (Critique of D\u00fchring)",
+    "premise": "system|building|pseudo|scientific|dogmatism|masquerading",
+    "conclusion": "D\u00fchring's system-building is pseudo-scientific dogmatism masquerading as comprehensive truth\u2014genuine science proceeds through revision, not eternal axioms"
+  },
+  {
+    "id": 6673,
+    "topic": "Anti-D\u00fchring (Critique of D\u00fchring)",
+    "premise": "force|theory|history|inverts|causation|political",
+    "conclusion": "D\u00fchring's \"force theory\" of history inverts causation: political force is itself conditioned by economic development, not vice versa"
+  },
+  {
+    "id": 6674,
+    "topic": "Anti-D\u00fchring (Critique of D\u00fchring)",
+    "premise": "equality|eternal|moral|truth|historically|conditioned",
+    "conclusion": "Equality is not an eternal moral truth but a historically conditioned demand that takes different forms in different epochs"
+  },
+  {
+    "id": 6675,
+    "topic": "Anti-D\u00fchring (Critique of D\u00fchring)",
+    "premise": "eclecticism|combines|incompatible|elements|idealism|materialism",
+    "conclusion": "D\u00fchring's eclecticism combines incompatible elements (idealism, materialism, positivism) without recognizing their contradictions"
+  },
+  {
+    "id": 6676,
+    "topic": "Anti-D\u00fchring (Critique of D\u00fchring)",
+    "premise": "philosophy|separate|discipline|sciences|ends|recognition",
+    "conclusion": "Philosophy as a separate discipline above the sciences ends with the recognition that philosophy's only remaining task is logic and dialectics"
+  },
+  {
+    "id": 6677,
+    "topic": "Dialectics of Nature",
+    "premise": "nature|exhibits|dialectical|development|transformations|quantity",
+    "conclusion": "Nature exhibits dialectical development\u2014transformations of quantity into quality, interpenetration of opposites, and spiral development through negation"
+  },
+  {
+    "id": 6678,
+    "topic": "Dialectics of Nature",
+    "premise": "natural|sciences|confirm|materialism|matter|primary",
+    "conclusion": "The natural sciences confirm materialism: matter is primary, and mind/consciousness emerged from matter through natural processes"
+  },
+  {
+    "id": 6679,
+    "topic": "Dialectics of Nature",
+    "premise": "rigid|boundaries|sciences|physics|chemistry|biology",
+    "conclusion": "The rigid boundaries between sciences (physics, chemistry, biology) are breaking down as each discovers transformations and transitions"
+  },
+  {
+    "id": 6680,
+    "topic": "Dialectics of Nature",
+    "premise": "mechanistic|materialism|century|superseded|dialectical|grasps",
+    "conclusion": "The mechanistic materialism of the 18th century must be superseded by dialectical materialism that grasps development and qualitative change"
+  },
+  {
+    "id": 6681,
+    "topic": "Dialectics of Nature",
+    "premise": "conservation|transformation|energy|fundamental|natural|scientific",
+    "conclusion": "The conservation and transformation of energy is a fundamental natural-scientific confirmation of the dialectical principle of interconnection"
+  },
+  {
+    "id": 6682,
+    "topic": "The German Ideology",
+    "premise": "ideas|ruling|class|epoch|controlling|material",
+    "conclusion": "The ideas of the ruling class are in every epoch the ruling ideas\u2014the class controlling material production controls mental production"
+  },
+  {
+    "id": 6683,
+    "topic": "The German Ideology",
+    "premise": "german|idealist|philosophy|hegel|young|hegelians",
+    "conclusion": "German idealist philosophy (Hegel, Young Hegelians) mistakes the movement of ideas for the movement of history itself"
+  },
+  {
+    "id": 6684,
+    "topic": "The German Ideology",
+    "premise": "individuals|abstract|bearers|consciousness|concrete|beings",
+    "conclusion": "Individuals are not abstract bearers of consciousness but concrete beings whose consciousness is shaped by their material life activity"
+  },
+  {
+    "id": 6685,
+    "topic": "The German Ideology",
+    "premise": "division|labor|creates|illusion|intellectual|activity",
+    "conclusion": "The division of labor creates the illusion that intellectual activity is autonomous from material production"
+  },
+  {
+    "id": 6686,
+    "topic": "The German Ideology",
+    "premise": "communism|ideal|realized|real|movement|abolishing",
+    "conclusion": "Communism is not an ideal to be realized but the real movement abolishing the present state of things\u2014it arises from existing contradictions"
+  },
+  {
+    "id": 6687,
+    "topic": "The Communist Manifesto",
+    "premise": "history|hitherto|existing|society|class|struggles",
+    "conclusion": "The history of all hitherto existing society is the history of class struggles"
+  },
+  {
+    "id": 6688,
+    "topic": "The Communist Manifesto",
+    "premise": "bourgeoisie|played|revolutionary|role|history|destroying",
+    "conclusion": "The bourgeoisie has played a revolutionary role in history, destroying feudal relations and developing productive forces on an unprecedented scale"
+  },
+  {
+    "id": 6689,
+    "topic": "The Communist Manifesto",
+    "premise": "capitalism|produces|gravediggers|proletariat|whose|growth",
+    "conclusion": "Capitalism produces its own gravediggers\u2014the proletariat, whose growth, concentration, and organization are necessary products of capitalist development"
+  },
+  {
+    "id": 6690,
+    "topic": "The Communist Manifesto",
+    "premise": "communists|form|separate|party|opposed|working",
+    "conclusion": "Communists do not form a separate party opposed to other working-class parties; they represent the movement's general interests across national boundaries"
+  },
+  {
+    "id": 6691,
+    "topic": "The Communist Manifesto",
+    "premise": "proletarian|revolution|abolish|private|property|means",
+    "conclusion": "The proletarian revolution will abolish private property in the means of production, ending exploitation and class division"
+  },
+  {
+    "id": 6692,
+    "topic": "Ludwig Feuerbach and Classical German Philosophy",
+    "premise": "feuerbach|materialism|contemplative|practical|fails|grasp",
+    "conclusion": "Feuerbach's materialism is contemplative, not practical\u2014he fails to grasp that changing circumstances requires revolutionary activity"
+  },
+  {
+    "id": 6693,
+    "topic": "Ludwig Feuerbach and Classical German Philosophy",
+    "premise": "hegel|dialectic|rational|kernel|mystical|form",
+    "conclusion": "Hegel's dialectic is rational in kernel but mystical in form; it must be turned right-side up to yield historical materialism"
+  },
+  {
+    "id": 6694,
+    "topic": "Ludwig Feuerbach and Classical German Philosophy",
+    "premise": "fundamental|question|philosophy|relation|thinking|materialism",
+    "conclusion": "The fundamental question of philosophy is the relation of thinking to being; materialism and idealism are the two great camps"
+  },
+  {
+    "id": 6695,
+    "topic": "Ludwig Feuerbach and Classical German Philosophy",
+    "premise": "philosophy|reaches|recognition|give|positive|science",
+    "conclusion": "Philosophy reaches its end in the recognition that it must give way to positive science and the practical transformation of the world"
+  },
+  {
+    "id": 6696,
+    "topic": "Ludwig Feuerbach and Classical German Philosophy",
+    "premise": "feuerbach|dissolves|religion|human|essence|fails",
+    "conclusion": "Feuerbach dissolves religion into its human essence but fails to explain why humans produce religious alienation\u2014that requires analyzing material conditions"
+  },
+  {
+    "id": 6697,
+    "topic": "Origins of Christianity",
+    "premise": "early|christianity|movement|oppressed|slaves|freedmen",
+    "conclusion": "Early Christianity was a movement of the oppressed\u2014slaves, freedmen, and the poor\u2014expressing real suffering in religious form"
+  },
+  {
+    "id": 6698,
+    "topic": "Origins of Christianity",
+    "premise": "christianity|succeeded|offered|consolation|community|crushed",
+    "conclusion": "Christianity succeeded because it offered consolation and community to those crushed by the Roman Empire's exploitation"
+  },
+  {
+    "id": 6699,
+    "topic": "Origins of Christianity",
+    "premise": "transformation|christianity|revolutionary|movement|state|religion",
+    "conclusion": "The transformation of Christianity from a revolutionary movement into a state religion involved its capture by ruling-class interests"
+  },
+  {
+    "id": 6700,
+    "topic": "Origins of Christianity",
+    "premise": "religious|movements|distorted|expressions|real|social",
+    "conclusion": "Religious movements are distorted expressions of real social conflicts; their content must be translated into material terms"
+  },
+  {
+    "id": 6701,
+    "topic": "Origins of Christianity",
+    "premise": "parallels|exist|early|christian|communities|modern",
+    "conclusion": "Parallels exist between early Christian communities and modern socialist movements\u2014both emerge from conditions of oppression and promise liberation"
+  },
+  {
+    "id": 6702,
+    "topic": "The German Peasant War",
+    "premise": "peasant|radical|episode|german|reformation|going",
+    "conclusion": "The Peasant War of 1525 was the most radical episode of the German Reformation, going beyond religious reform to demand social transformation"
+  },
+  {
+    "id": 6703,
+    "topic": "The German Peasant War",
+    "premise": "thomas|represented|revolutionary|plebeian|peasant|wing",
+    "conclusion": "Thomas M\u00fcntzer represented the revolutionary plebeian-peasant wing, while Luther sided with the princes against popular uprising"
+  },
+  {
+    "id": 6704,
+    "topic": "The German Peasant War",
+    "premise": "peasantry|failure|stemmed|localism|inability|unite",
+    "conclusion": "The peasantry's failure stemmed from localism\u2014inability to unite nationally against the princely and ecclesiastical powers"
+  },
+  {
+    "id": 6705,
+    "topic": "The German Peasant War",
+    "premise": "german|bourgeoisie|weakness|compared|england|france",
+    "conclusion": "The German bourgeoisie's weakness (compared to England and France) dates from the defeat of the peasant revolution"
+  },
+  {
+    "id": 6706,
+    "topic": "The German Peasant War",
+    "premise": "revolutionary|movements|require|alignment|progressive|class",
+    "conclusion": "Revolutionary movements require alignment between progressive class forces and adequate material conditions; the 16th century lacked both"
+  },
+  {
+    "id": 6707,
+    "topic": "Revolution and Counter-Revolution in Germany",
+    "premise": "revolutions|failed|german|bourgeoisie|feared|proletariat",
+    "conclusion": "The revolutions of 1848 failed because the German bourgeoisie feared the proletariat more than it desired victory over feudal reaction"
+  },
+  {
+    "id": 6708,
+    "topic": "Revolution and Counter-Revolution in Germany",
+    "premise": "bourgeoisie|betrayal|democratic|revolution|demonstrates|proletariat",
+    "conclusion": "The bourgeoisie's betrayal of democratic revolution demonstrates that the proletariat cannot rely on bourgeois leadership for democratic tasks"
+  },
+  {
+    "id": 6709,
+    "topic": "Revolution and Counter-Revolution in Germany",
+    "premise": "counter|revolution|succeeds|revolutionary|forces|divided",
+    "conclusion": "Counter-revolution succeeds when revolutionary forces are divided, exhausted, or lack clear political leadership"
+  },
+  {
+    "id": 6710,
+    "topic": "Revolution and Counter-Revolution in Germany",
+    "premise": "small|german|states|particularism|weakened|revolutionary",
+    "conclusion": "Small German states and particularism weakened revolutionary coordination; national unification was historically progressive"
+  },
+  {
+    "id": 6711,
+    "topic": "Revolution and Counter-Revolution in Germany",
+    "premise": "lessons|include|necessity|independent|proletarian|organization",
+    "conclusion": "The lessons of 1848 include the necessity of independent proletarian organization and the inadequacy of purely parliamentary tactics"
+  },
+  {
+    "id": 6712,
+    "topic": "The Role of Force in History",
+    "premise": "force|midwife|society|pregnant|revolution|accelerates",
+    "conclusion": "Force is the midwife of every old society pregnant with a new one\u2014revolution accelerates historical transitions"
+  },
+  {
+    "id": 6713,
+    "topic": "The Role of Force in History",
+    "premise": "political|power|grows|economic|state|monopoly",
+    "conclusion": "Political power grows out of economic power; the state's monopoly of force ultimately serves economic class interests"
+  },
+  {
+    "id": 6714,
+    "topic": "The Role of Force in History",
+    "premise": "force|alone|cannot|create|social|relations",
+    "conclusion": "Force alone cannot create new social relations; it can only clear obstacles to developments already prepared by economic evolution"
+  },
+  {
+    "id": 6715,
+    "topic": "The Role of Force in History",
+    "premise": "bourgeoisie|came|power|revolutionary|force|against",
+    "conclusion": "The bourgeoisie itself came to power through revolutionary force against feudalism, despite its current preaching of peaceful reform"
+  },
+  {
+    "id": 6716,
+    "topic": "The Role of Force in History",
+    "premise": "military|state|apparatus|instruments|force|required",
+    "conclusion": "The military and state apparatus, as instruments of force, will be required by the proletariat to suppress bourgeois counter-revolution"
+  },
+  {
+    "id": 6717,
+    "topic": "The Withering Away of the State",
+    "premise": "state|product|irreconcilable|class|antagonisms|classes",
+    "conclusion": "The state is a product of irreconcilable class antagonisms; when classes disappear, the state loses its function and withers away"
+  },
+  {
+    "id": 6718,
+    "topic": "The Withering Away of the State",
+    "premise": "proletarian|state|dictatorship|proletariat|transitional|form",
+    "conclusion": "The proletarian state (dictatorship of the proletariat) is a transitional form that suppresses bourgeois resistance while preparing its own dissolution"
+  },
+  {
+    "id": 6719,
+    "topic": "The Withering Away of the State",
+    "premise": "government|over|persons|replaced|administration|things",
+    "conclusion": "Government over persons is replaced by administration of things\u2014coordination of production without class coercion"
+  },
+  {
+    "id": 6720,
+    "topic": "The Withering Away of the State",
+    "premise": "state|cannot|abolished|decree|withers|conditions",
+    "conclusion": "The state cannot be abolished by decree; it withers as the conditions necessitating it (class division, scarcity) are overcome"
+  },
+  {
+    "id": 6721,
+    "topic": "The Withering Away of the State",
+    "premise": "engels|distinguished|smashing|bourgeois|state|apparatus",
+    "conclusion": "Engels distinguished between smashing the bourgeois state apparatus and using a proletarian state for the transition period"
+  },
+  {
+    "id": 6722,
+    "topic": "Economics",
+    "premise": "labor|theory|value|commodities|derives|socially",
+    "conclusion": "The labor theory of value: all value in commodities derives from socially necessary labor time; profit represents unpaid labor (surplus value)"
+  },
+  {
+    "id": 6723,
+    "topic": "Economics",
+    "premise": "capitalism|fundamental|contradiction|socialized|production|workers",
+    "conclusion": "Capitalism's fundamental contradiction is between socialized production (workers cooperating in large enterprises) and private appropriation (capitalist ownership of products)"
+  },
+  {
+    "id": 6724,
+    "topic": "Economics",
+    "premise": "economic|crises|overproduction|endemic|capitalism|producing",
+    "conclusion": "Economic crises of overproduction are endemic to capitalism\u2014not from producing too much for human need but too much for profitable sale"
+  },
+  {
+    "id": 6725,
+    "topic": "Economics",
+    "premise": "tendency|rate|profit|fall|rising|organic",
+    "conclusion": "The tendency of the rate of profit to fall (due to rising organic composition of capital) drives capitalism toward crisis and monopolization"
+  },
+  {
+    "id": 6726,
+    "topic": "Economics",
+    "premise": "money|neutral|medium|social|relation|fetishized",
+    "conclusion": "Money is not a neutral medium but a social relation; its fetishized appearance conceals the exploitative relations underlying commodity exchange"
+  },
+  {
+    "id": 6727,
+    "topic": "The Hand and Human Psychology",
+    "premise": "hand|liberation|upright|posture|enabled|tool",
+    "conclusion": "The hand's liberation through upright posture enabled tool use, which in turn drove the development of the brain and intelligence"
+  },
+  {
+    "id": 6728,
+    "topic": "The Hand and Human Psychology",
+    "premise": "hand|simultaneously|organ|labor|product|refinement",
+    "conclusion": "The hand is simultaneously an organ of labor and a product of labor\u2014its refinement occurred through countless generations of increasingly skilled work"
+  },
+  {
+    "id": 6729,
+    "topic": "The Hand and Human Psychology",
+    "premise": "tool|required|planning|foresight|coordination|stimulating",
+    "conclusion": "Tool use required planning, foresight, and coordination, stimulating the development of higher cognitive functions"
+  },
+  {
+    "id": 6730,
+    "topic": "The Hand and Human Psychology",
+    "premise": "social|labor|necessitated|communication|hand|gestures",
+    "conclusion": "Social labor necessitated communication, and the hand's gestures likely contributed to the emergence of language alongside vocal development"
+  },
+  {
+    "id": 6731,
+    "topic": "The Hand and Human Psychology",
+    "premise": "human|psychology|fundamentally|shaped|labor|cognitive",
+    "conclusion": "Human psychology is fundamentally shaped by labor; our cognitive capacities evolved to serve practical transformation of nature, not abstract contemplation"
+  },
+  {
+    "id": 6732,
+    "topic": "Origins of the Family",
+    "premise": "monogamous|family|natural|eternal|arose|private",
+    "conclusion": "The monogamous family is not natural or eternal but arose with private property to ensure transmission of wealth through verified paternal lineage"
+  },
+  {
+    "id": 6733,
+    "topic": "Origins of the Family",
+    "premise": "prior|private|property|various|forms|group",
+    "conclusion": "Prior to private property, various forms of group marriage and matrilineal descent prevailed; paternity was uncertain and socially unimportant"
+  },
+  {
+    "id": 6734,
+    "topic": "Origins of the Family",
+    "premise": "women|subordination|world|historic|defeat|female",
+    "conclusion": "Women's subordination (\"the world-historic defeat of the female sex\") coincided with the rise of private property and men's need to control reproduction"
+  },
+  {
+    "id": 6735,
+    "topic": "Origins of the Family",
+    "premise": "monogamy|origin|woman|maintained|access|prostitution",
+    "conclusion": "Monogamy from its origin was monogamy for the woman only\u2014men maintained access to prostitution, concubinage, and adultery"
+  },
+  {
+    "id": 6736,
+    "topic": "Origins of the Family",
+    "premise": "true|individual|love|possible|communism|marriage",
+    "conclusion": "True individual sex-love will only be possible under communism, when marriage is freed from property considerations and economic dependence"
+  },
+  {
+    "id": 6737,
+    "topic": "Economic Invariants (Universal Economic Structures)",
+    "premise": "societies|produce|reproduce|material|conditions|life",
+    "conclusion": "All societies must produce and reproduce the material conditions of life\u2014the organization of production is universal even as its forms vary"
+  },
+  {
+    "id": 6738,
+    "topic": "Economic Invariants (Universal Economic Structures)",
+    "premise": "division|labor|exists|societies|though|character",
+    "conclusion": "Division of labor exists in all societies, though its character (natural/sexual vs. social/class-based) differs historically"
+  },
+  {
+    "id": 6739,
+    "topic": "Economic Invariants (Universal Economic Structures)",
+    "premise": "form|distribution|circulation|products|necessary|societies",
+    "conclusion": "Some form of distribution and circulation of products is necessary in all societies, whether through reciprocity, redistribution, or exchange"
+  },
+  {
+    "id": 6740,
+    "topic": "Economic Invariants (Universal Economic Structures)",
+    "premise": "cooperation|production|social|labor|universal|human",
+    "conclusion": "Cooperation in production\u2014social labor\u2014is a universal human characteristic distinguishing humanity from other animals"
+  },
+  {
+    "id": 6741,
+    "topic": "Economic Invariants (Universal Economic Structures)",
+    "premise": "metabolism|humanity|nature|transforming|natural|materials",
+    "conclusion": "The metabolism between humanity and nature (transforming natural materials through labor) is the invariant foundation of all economic life"
+  },
+  {
+    "id": 6742,
+    "topic": "Influence of Evolutionary Theory",
+    "premise": "darwin|theory|confirmed|materialist|conception|nature",
+    "conclusion": "Darwin's theory confirmed the materialist conception of nature\u2014species arise through natural processes without divine intervention or teleological design"
+  },
+  {
+    "id": 6743,
+    "topic": "Influence of Evolutionary Theory",
+    "premise": "evolution|demonstrates|rigid|categories|provisional|species",
+    "conclusion": "Evolution demonstrates that all rigid categories are provisional; species, like social forms, undergo continuous development and transformation"
+  },
+  {
+    "id": 6744,
+    "topic": "Influence of Evolutionary Theory",
+    "premise": "struggle|existence|nature|mechanically|applied|society",
+    "conclusion": "The struggle for existence in nature should not be mechanically applied to society; human cooperation can transcend Malthusian competition"
+  },
+  {
+    "id": 6745,
+    "topic": "Influence of Evolutionary Theory",
+    "premise": "engels|social|evolution|continuous|biological|operating",
+    "conclusion": "Engels saw social evolution as continuous with biological evolution but operating through different mechanisms (inheritance of acquired social organization through culture, not genes)"
+  },
+  {
+    "id": 6746,
+    "topic": "Influence of Evolutionary Theory",
+    "premise": "evolution|destruction|fixed|species|concepts|paralleled",
+    "conclusion": "Evolution's destruction of fixed species concepts paralleled dialectics' critique of rigid, unchanging categories in philosophy"
+  },
+  {
+    "id": 6747,
+    "topic": "Conventional Moral Views (Kantian, Millian)",
+    "premise": "morality|historically|conditioned|eternal|moral|valid",
+    "conclusion": "All morality is historically conditioned; there is no eternal moral law valid for all times and places"
+  },
+  {
+    "id": 6748,
+    "topic": "Conventional Moral Views (Kantian, Millian)",
+    "premise": "kantian|ethics|categorical|imperative|abstract|formalism",
+    "conclusion": "Kantian ethics' categorical imperative is an abstract formalism that cannot derive concrete duties without smuggling in historically specific content"
+  },
+  {
+    "id": 6749,
+    "topic": "Conventional Moral Views (Kantian, Millian)",
+    "premise": "utilitarian|calculation|assumes|universal|human|nature",
+    "conclusion": "Utilitarian calculation assumes a universal human nature and ignores that conceptions of happiness are class-conditioned and historically variable"
+  },
+  {
+    "id": 6750,
+    "topic": "Conventional Moral Views (Kantian, Millian)",
+    "premise": "bourgeois|morality|respect|property|contract|individual",
+    "conclusion": "Bourgeois morality (respect for property, contract, individual rights) reflects and legitimates capitalist social relations"
+  },
+  {
+    "id": 6751,
+    "topic": "Conventional Moral Views (Kantian, Millian)",
+    "premise": "truly|human|morality|beyond|class|emerge",
+    "conclusion": "Truly human morality\u2014beyond class morality\u2014will only emerge in classless society; until then, proletarian morality represents the most progressive tendency"
+  },
+  {
+    "id": 6752,
+    "topic": "Trade Unions",
+    "premise": "trade|unions|necessary|schools|class|struggle",
+    "conclusion": "Trade unions are necessary schools of class struggle, teaching workers the value of combination against capital"
+  },
+  {
+    "id": 6753,
+    "topic": "Trade Unions",
+    "premise": "unions|defensive|struggles|wages|conditions|legitimate",
+    "conclusion": "Unions' defensive struggles for wages and conditions are legitimate and important but insufficient\u2014they fight effects without abolishing causes"
+  },
+  {
+    "id": 6754,
+    "topic": "Trade Unions",
+    "premise": "unions|limit|narrow|economic|demands|engage",
+    "conclusion": "Unions must not limit themselves to narrow economic demands but engage in political struggle for working-class emancipation"
+  },
+  {
+    "id": 6755,
+    "topic": "Trade Unions",
+    "premise": "economic|struggle|alone|cannot|overcome|capitalism",
+    "conclusion": "The economic struggle alone cannot overcome capitalism; unions must ally with socialist parties pursuing political power"
+  },
+  {
+    "id": 6756,
+    "topic": "Trade Unions",
+    "premise": "union|consciousness|pure|trade|unionism|differs",
+    "conclusion": "Union consciousness (pure trade unionism) differs from socialist consciousness; the latter must be developed through political education and organization"
+  },
+  {
+    "id": 6757,
+    "topic": "Relations Between the Genders",
+    "premise": "women|oppression|originated|private|property|patriarchal",
+    "conclusion": "Women's oppression originated with private property and the patriarchal family's need to control female sexuality for inheritance purposes"
+  },
+  {
+    "id": 6758,
+    "topic": "Relations Between the Genders",
+    "premise": "women|domestic|labor|socially|necessary|unrecognized",
+    "conclusion": "Women's domestic labor is socially necessary but unrecognized and unpaid under capitalism\u2014a hidden form of exploitation"
+  },
+  {
+    "id": 6759,
+    "topic": "Relations Between the Genders",
+    "premise": "women|emancipation|requires|mass|entry|social",
+    "conclusion": "Women's emancipation requires their mass entry into social production and the socialization of domestic labor and childcare"
+  },
+  {
+    "id": 6760,
+    "topic": "Relations Between the Genders",
+    "premise": "bourgeois|marriage|legalized|prostitution|women|economic",
+    "conclusion": "Bourgeois marriage is legalized prostitution when women's economic dependence compels them to marry for security rather than love"
+  },
+  {
+    "id": 6761,
+    "topic": "Relations Between the Genders",
+    "premise": "true|equality|sexes|achieved|communism|economic",
+    "conclusion": "True equality between sexes will only be achieved under communism when economic compulsion is removed from personal relationships"
+  }
+]

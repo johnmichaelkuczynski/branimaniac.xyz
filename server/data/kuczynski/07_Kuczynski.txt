@@ -1,0 +1,421 @@
+﻿Chapter 7
+Some Remarks on Logicism and on Frege’s
+Formalization of Logic
+1.0	What did Frege do?
+Pre-Fregean formal logic wasn’t so much a discipline as it was a collection of rules of thumb. This was because Frege’s predecessors weren’t able to systematize the few results they were able to obtain, the reason being that they didn’t see the principles underlying those results. But Frege saw those principles, organized those results, and added new ones of his own. In so doing, Frege released logic from the holding pattern it had been in for the previous two thousand years.
+Unlike his predecessors, Frege saw that a sentence’s logical form may diverge from its grammatical form. (In other words, he saw that a sentence S1 may be such that what S1 actually means is different from what S1’s grammatical structure suggests that it means.) And in many cases he figured out how to realign logical and grammatical form. (In other words, given many a sentence S1 such that S1’s logical and grammatical forms diverge, Frege was able to produce a sentence S2 such that S2’s logical form coincides with S1’s and such that S2’s logical and grammatical forms coincide.) It was because of these insights of his that Frege, unlike all of his many predecessors, successfully formalized inferences involving quantified generalizations.
+But what does this mean exactly? What is it to “formalize” an inference, and what is a “quantified generalization”?
+1.1	What is it to formalize an inference?
+Any deductive inference can be thought of as being expressed by a single sentence. For example, the inference from:
+
+(a) “snow is white and grass is green”
+
+to
+
+(b) “grass is green”
+
+corresponds to:
+
+(c) “if snow is white and grass is green, then grass is green.”
+
+To formalize an inference is to show that the corresponding conditional is equivalent to a sentence that is an instance of an open-sentence all of whose instances are true. So in this particular case we need to find an open-sentence all of whose instances are true and of which (c) is an instance. Here is just such an open sentence:
+
+(d) ‹if P and Q, then Q.›
+
+(c) is equivalent with itself. (All sentences are self-equivalent.) (c) is an instance of (d). So we’re done.
+1.2	Frege on quantification
+The inference just formalized contained no sentences containing any quantifiers. Frege’s successors had some success formalizing such inferences. They knew, for example, how to do what we just did. But they had little success with inferences containing sentences involving so much as a single quantifier (e.g., “all people smoke cigars”); and they had no success in the way of formalizing inferences containing sentences containing multiple quantifiers (e.g., “one can fool all of the people some of the time, and some of the people all of the time, but not all of the people all of the time”). But Frege did succeed in formalizing such inferences.
+We will henceforth refer to any inference involving at least one quantified sentence as a quantified inference. (So a quantified inference is an inference that involves so much as a single sentence containing a single quantifier.)
+To move forward, we must note that Frege sees:
+
+(SS) “someone snores”
+
+as comprising the function ‹x snores› along with another function. This other function is a “second-order” function: it is a function that assigns objects to functions. Those objects are truth-values. (A sentence has the truth-value true if it’s true and the truth-value false if it’s false.) Frege sees ‹x snores› as expressing a function F that assigns truth or falsehood to a thing depending on whether that thing snores. And he sees “someone” as expressing a function G that assigns truth or falsehood to F depending on whether there is anything to which F, in its turn, assigns truth. If there is some x such that F assigns truth to x, then G assigns truth to F; otherwise G assigns falsehood to F.
+This is a way of saying that “someone snores” is true just in case the property of snoring is instantiated. Since this is in fact precisely what SS says, Frege’s analysis is correct.
+Frege analyzes other quantifiers along similar lines. “Everything” expresses a function G that assigns truth or falsehood to a function F depending on whether there is something to which F assigns falsehood. If there is no object x such that F assigns falsehood to x, then G assigns truth to F; otherwise it assigns falsehood to F.
+Consider the sentence:
+
+(SI) everything is self-identical.
+
+Frege sees SI as saying:
+
+(SI2) for any x, x is identical with x.
+
+The occurrences in SI2 of “for any x” and “x is identical with x” correspond, respectively, to the occurrences in SI of “everything,” and “is self-identical.”
+Frege sees the italicized part of SI2 as expressing a function F that assigns truth to an object if that object is self-identical, and he sees the boldfaced part as expressing a function that assigns falsity to F if there is some individual to which F assigns falsity and that otherwise assigns truth to F. This is a way of saying that “everything is self-identical” says that the property of being self-identical is universally instantiated. Since this is, demonstrably, what that sentence is saying, Frege’s analysis is correct.
+A few final preliminary points: Frege chose to break up sentences containing the words “or” and “and.” Thus, he saw “John is a tall mammal” as saying: John is tall and John is a mammal. And he saw: “John is male or female” as saying: either John is male or John is female. Finally, Frege chose to export the word sentence-internal occurrences of the word “not.” Thus “snow is not white” becomes “it is not the case that snow is white.” (In other words, he chose to rewrite such sentences as sentences in which (a) that word is replaced with “it is not the case that,” and (b) “it is not the case that” is placed before the sentence being negated.)
+By reparsing sentences along these lines, Frege was able to formalize an extensive class of quantified generalizations. Some symbolic notation, some of it already familiar, will help us see how he did this. Let “→” be
+defined as before. Let ‹P↔Q› be short for ‹P→Q and Q→P.› In other words, ‹P↔Q› means that P is a logical consequence of Q and vice versa. Let “~” mean “it is not the case that.” Let “(x)” mean “given any object x.” And, as before, we’ll use parentheses to indicate how sentences are to be grouped together. So “Smith is tall and (grass is green or birds fly)” says that it’s the case both that grass is green or birds fly and that Smith is tall. By contrast, “(Smith is tall and grass is green) or birds fly” makes the very different statement that either it’s the case that Smith is tall and grass is green or it’s the case that birds fly.
+Bearing these points in mind, consider the following argument:
+
+Argument #1
+Premise: No mammal is intelligent if it has pointy ears.
+Premise: Smith is a pointy-eared mammal.
+Conclusion: Smith isn’t intelligent.
+
+This argument is valid. But, thus expressed, it isn’t formally valid. This is because “no mammal is intelligent if it has pointy ears” has the same syntax as “Jones is intelligent if he has pointy ears,” a consequence being that Argument #1 has the same syntactical form as the following, clearly invalid argument:
+
+Argument #2
+Premise #1: Jones is intelligent if he has pointy ears.
+Premise #2: Smith is a pointy-eared mammal.
+Conclusion: Smith isn’t intelligent.
+
+But by reparsing the sentences occurring in these arguments, Frege showed why it is that, their surface-structures notwithstanding, Argument #1 is valid whereas Argument #2 is not.
+It will help if we make it clear at an intuitive level what the premises in Argument #1 are saying. The first premise is to the effect that anything that is an intelligent mammal does not have pointy ears. (In other words, given any object x, if x is an intelligent mammal, then x doesn’t have pointy ears. To put it yet another way, given anything x, if x is a mammal, then, if x is intelligent, it follows that x doesn’t have pointy ears.) The second premise is to the effect that Smith is a mammal and Smith has pointy ears. Finally, the conclusion is to the effect that it’s not the case that Smith is intelligent.
+Thus, duly reparsed, Argument #1 becomes:
+
+Argument #1RP:
+
+Premise #1: Given any object x, if x is a mammal, then, if x is intelligent, x doesn’t have pointy ears.
+Premise #2: Smith is a mammal and Smith has pointy ears.
+Conclusion: It is not the case that Smith is intelligent.
+
+Duly symbolized, Argument #1RP becomes:
+
+Argument #1S:
+
+Premise #1: (x)(x is a mammal→((x is intelligent)→~(x has pointy ears)).
+Premise #2: Smith is a mammal and Smith has pointy ears.
+Conclusion: ~(Smith is intelligent).
+
+Replace the constants in Argument #1S with variables. In other words, replace “mammal,” “intelligent,” and “has pointy ears” with (let us say) F, G, and H, respectively, and replace “Smith” with A. Make the needed grammatical adjustments. The result is:
+Argument #1G:
+
+Premise #1: (x)(x has F→((x has G)→~(x has H)).
+Premise #2: A has F and A has H.
+Conclusion: ~(A has G).
+
+Replace the variables in Argument #1G with any (grammatically appropriate) constants you wish. The result will always be a valid argument. (It’s assumed that the replacements are uniform—i.e., that you don’t, for example, assign “intelligent” to one occurrence of “F” and “tall” to some other occurrence of it.) For example, replace F, G, and H, respectively, with “prime,” “even,” and “greater than 3”; and replace A with “7.” The resulting argument is:
+
+Argument #1AA:
+
+Premise #1: (x)(x is prime→((x is even)→~(x is greater than three)).
+Premise #2: 7 is prime and 7 is greater than three.
+Conclusion: ~(7 is even).
+
+This argument is clearly valid. The only even prime is 2. So no even prime is greater than three. Given that 7 is prime and greater than three, it follows that 7 isn’t even.
+The result of uniformly replacing the variables in Argument #1G with constants always yields a valid argument. Thus, Argument #1G successfully formalizes Argument #1, the reason being that (so-called) Argument #1G isn’t really an argument at all, being instead an argument-form, all of whose instances are valid.
+Now let’s subject Argument #2 to the same treatment. Reparsed, it becomes:
+
+Argument #2RP
+Premise #1: Jones is intelligent and Jones has pointy ears.
+Premise #2: Smith is a mammal and Smith is pointy-eared.
+Conclusion: It is not the case that Smith is intelligent.
+
+To generalize argument #2RP, replace “mammal,” “intelligent,” and “has pointy ears” with F, G, and H, respectively, and replace “Smith” and “Jones” with A and B, respectively. Duly generalized, it becomes:
+
+Argument #2G:
+
+Premise #1: B has G and B has H.
+Premise #2: A has F and A has H.
+Conclusion: It is not the case that A has G.
+
+There are instances of 2G that are invalid. Let A and B be the numbers ten and twenty, respectively. Let F, G, and H be the properties of being greater than one, greater than two, and greater than three, respectively. The result is:
+
+Argument #2N:
+
+Premise #1: the number twenty is greater than two and the number twenty is greater than three.
+Premise #2: the number ten is greater than one and the number ten is greater than three.
+Conclusion: It is not the case that the number ten is greater than two.
+
+Since argument #2N is spurious and has the same form as argument #2, the latter isn’t formally (or otherwise) valid. Thus, Frege’s reparsing of intuitively valid arguments, such as #1, and of intuitively invalid arguments,
+such as #2, enabled him to formalize those inferences. Once an inference is formalized, it can be carried out algorithmically and, therefore, without relying to any degree on ad hoc methods.
+2.0 Logicism
+Frege’s primary objective wasn’t to formalize logic. It was to formalize arithmetical truth. Frege invented formal logic in order to do this. But what does it mean to say he wanted to “formalize arithmetic”?
+The sentences by which arithmetical truths are ordinarily expressed are not formally true. For example, “2 + 2 = 4” has the same form as “2 + 2 = 5” and “1 + 1 = 3.” Thus, “2 + 2 = 4” is not a formal truth. It’s an informal, analytic truth, like “any case of knowledge is a case of true belief.” Frege was keenly aware of this fact.
+But Frege believed that, when their grammatical forms are brought into alignment with their logical forms, arithmetical truths turn out to be formal truths. To establish this, he needed to identify a systematic way of translating informally true arithmetical sentences into formally true ones. So he needed to find a translation-rule R that, when given an informally true arithmetical sentence (e.g. “1 + 1 = 2”), paired it off with a formally true, but otherwise synonymous, arithmetical sentence.
+Thus, Frege believed that, as they are conventionally stated, arithmetical statements, when true, are both informal and analytic. But he also believed that such statements are formal truths in disguise.
+The position that arithmetical statements are formal truths (in disguise) is known as “logicism.” Frege spent the better part of his career trying to prove logicism to be true.
+In the process of trying to establish the truth of logicism, Frege made some important discoveries. One is of special importance. Statements that, given their surface-structures, appear to be about objects are really about properties. So “nobody snores” is about the property of snoring, and it attributes the property of being uninstantiated (of having a null-class extension) to that property.
+This discovery of Frege’s is closely related to, and almost coincident with, his discovery of the fact that grammar doesn’t always reflect underlying logical structure.
+2.1 Logicism (continued)
+Analysis is elimination. To analyze causality is to show how statements of the form ‹x caused y to happen› can be translated into statements that don’t contain the word “cause” or any other comparable expression (e.g., “force,” “coerce”). Hume tried to do this. He argued that
+
+(i) ‹x caused y to happen ›
+
+is synonymous with
+
+(ii) ‹x immediately precedes y and is adjacent with it, and the sequence consisting of those two events instantiates a general regularity. ›
+
+Notice that (ii) doesn’t contain “cause” or “force” or any other such term. (Unfortunately, this analysis is a complete failure. In Chapter 17, we will see why.)
+Similarly, to give an analysis of the number one is to say how statements about it can be purged of any expression referring to it. Frege did this, and he did the same thing mutatis mutandis for statements about all other whole numbers.
+On the basis of Frege’s work, Russell showed how the same thing can be done for fractions and irrationals. We won’t go into the specifics of how Frege and Russell do this, but we will discuss, in very general terms, some of the philosophically more important aspects of Frege’s impressive achievement.
+2.2 Frege’s initial analysis of number-statements
+The statement:
+
+(1) “there are two apples on the table”
+
+is equivalent with:
+
+(2) “something x is an apple on the table; something y is an apple on the table; and x ≠y; and for anything z that is an apple on the table, either z = x or z = y.”
+
+Let’s look at (2) for a second. The first (italicized) part, guarantees that there is at least one apple on the table. The second (boldfaced) part does not guarantee that there is a second apple on the table, since it has not been ruled out that the apple in question is identical with the one described in the first part. But taken in conjunction with the third (italicized) part, the second part does guarantee that there are at least two apples on the table. But the first three parts don’t guarantee that there are only two apples on the table; they guarantee only that there are at least two. But taken in conjunction with the fourth (capitalized) part, the first three parts do guarantee that there are exactly two apples on the table. Thus, (1) is equivalent with a sentence that contains no mention of the number two or, indeed, of any other number.
+By obvious extensions of this reasoning:
+
+(3) there are three apples on the table
+
+is equivalent with
+
+(4) “something x is an apple on the table, and so is something y, and so is something z; and y ≠ x and y ≠ z and z ≠ x; and given anything w that is an apple on the table, w = x or w = y or w = z.”
+
+In Frege’s (correct) view:
+
+(5) “there are zero apples on the table”
+
+is equivalent with
+
+(6) “the property of being an apple on the table is uninstantiated,”
+
+and
+
+(7) “there is one apple on the table”
+
+is equivalent with
+
+(8) “something x is an apple on the table and, given anything y that is such an apple, y = x.”
+
+The expressions “two,” “three,” “zero,” and “one” occur in sentences (1), (3), (5), and (7). Those sentences are equivalent with (2), (4), (6), and (8), respectively, even though no number-expression occurs in any of them. Thus, Frege has successfully eliminated any references to number occurring in (1), (3), etc., and therefore, has successfully analyzed them. But there’s a problem, as we’ll now see.
+2.3 “Number” defined 
+In (1), (3), etc. the expressions “one”, “two”, etc. are functioning as adjectives; and the method just described tells us how to eliminate those expressions from those sentences. In general, that method tells us how to eliminate number-expressions that are functioning as adjectives. But it doesn’t tell us how to eliminate number expressions that are functioning as nouns. It doesn’t tell us, for example, how to identify a sentence that is equivalent with “two is less than three” that doesn’t contain “two” or “three” or any other number-expression.
+Frege’s brilliant solution to this problem is to be understood in terms of the fact that two sets have the same number of objects if they can be put into a one-one correspondence with each other.
+Let’s suppose that Smith has five shirts and that Brown has five cars. Let S1 be the set of Smith’s shirts and let S2 be the set of Brown’s cars. S1 can be put into a one-one correspondence with S2. In other words:
+
+(1) there is a rule (or “function”) that pairs off each member of each set with at least one member of the other set and pairs off no member of either set with more than one member of the other.
+
+(1) says the same thing as:
+
+(2) there is some function F such that, given any member x of either set, F assigns some member y of the other set to x and such that F assigns z to x iff z = y.
+
+If two sets can be put into one-one correspondence, we’ll say that they are “similar.”
+Given any two sets, S1 and S2, the statement:
+
+(a) ‹S1 and S2 have the same number of members›
+
+is equivalent with:
+
+(b) ‹S1 and S2 are similar. ›
+
+Two sets are similar just in case they are both instances of the same number. A pair of shoes is an instance of the number two.
+Anything of which there are instances is ipso facto a property. We may thus identify the number two with the property of being a pair of objects (i.e., with the property had by all and only pairs of objects).
+A pair of objects is a set S such that, for some x and some y, x is a member of S and y is a member of S and x ≠ y and such that, for any z, if z is a member of S, then z = x or z = y.
+Thus, the number two is identical with the property of being a set S such that, for some x and some y, x ≠ y, and x is a member of S and y is a member of S, and for any z, if z is a member of S, then z = x or z = y.
+Notice that this analysis isn’t circular. “Two” is defined as “what all and only pairs of objects have in common,” and our definition of “pair of objects” uses no number expressions.
+Any given whole number is to be identified with a similar property. For example, the number three is the property of being a collection of three things (i.e., it is the property had by all and only such collections). Though this definition seems circular, it isn’t, since “collection of three things” can be defined without using the word “three” or any other number expression. To wit: S is a collection of three things iff there are objects x, y, and z such that x is a member of S and y is a member of S and z is a member of S; and such that x ≠ y and y ≠ z and x ≠ z; and such that, for any w, if z is a member of S, then w = x or w = y or w = z. The number three is thus the property of being a set of the sort just defined.
+The number one is the property of being a set S such that something x belongs to S and such that anything y that belongs to S is identical with x. The number zero is the property of being a set S such that nothing belongs to S.
+In general, a whole number N is the property of being an N-tuple.
+2.4 Numbers as properties of properties
+In
+
+(JG) “Jim has green apples,”
+
+the word “green” picks out a property that can be had by individual apples. But in
+
+(J0) “Jim has zero apples,”
+
+the word “zero” can’t possibly pick out such a property. Let’s suppose that J0 is correct. In that case, Jim has no apples. A fortiori he has no apples having this or that property.
+In J0, the word “zero” denotes a second-order property—that is, it denotes a property of a property. More specifically, it denotes the property of being an uninstantiated property. Thus, J0 says that:
+
+(J0*) The property of being an apple belonging to Jim has the property of being an uninstantiated property.
+
+A moment’s reflection makes it clear that J0* and J0 do indeed say the very same thing.
+
+Whenever number-expressions function as adjectives, they denote properties of properties. To take another example, in
+
+(J2) “Jim has two apples”
+
+the word “two” couldn’t possibly pick out a property that could be had by individual apples. Any one apple ipso facto isn’t two apples. In J2, the word “two” picks out a property of the property of being a property that has two instances. In other words, it picks out the property of being a pair. And J2 says that
+
+(J2*) the property of being an apple owned by Jim has the property of being a pair.
+
+Let’s sum up. J0 says that the property of being an apple owned by Jim is uninstantiated; J1 says that it’s uniquely instantiated; and J2 says that it’s instantiated exactly twice.
+2.4.1 Numbers as properties of properties (continued)
+The obvious thing to say about JG is that it attributes the property of being green to one or more apples belonging to Jim. But, as Frege pointed out, this isn’t what it’s doing. There is no specific apple x such that JG says that x is green. Given any apple x owned by Jim, JG could be true even if x was not green. This would happen if Jim had some other apple that was green. Thus, there is no apple x such that JG says that x is green. A fortiori JG doesn’t say of each of several apples that it is green. Since there is no one apple owned by Jim to which JG attributes any property, JG isn’t about apples owned by Jim. Rather, JG is about the property of being an apple owned by Jim; and JG says of this property that its extension overlaps with the extension of the property of being green. For this reason, JG’s logical form is no more in alignment with its logical form than J2’ s (or J0’s) logical form is in alignment with its logical form.
+2.5 Some logicist paraphrases of arithmetical statements
+Frege’s analysis of number (a whole number n is the property of being an n-tuple) makes it clear what is meant by statements such as:
+
+(TLT) “two is one less than three (i.e., three is the successor of two).”
+The number two is the property of being a pair. The number three is the property of being a triple. Thus, TLT says that:
+
+(TLT*) given any instance C of the number three (i.e., given any triple), and given any member x of that triple, any class C* that doesn’t contain x but is otherwise like C is an instance of the number two.
+
+Although number expressions occur in TLT*, these are all easily eliminated. A “triple” is any class K such that there are objects x, y, and z, all distinct, belonging to K and such that anything w belonging to K is identical with x or y or z. Since, as we know, “the number three” is the property of being a triple, the occurrence of “the number three” in TLT* is just shorthand for a much longer expression that contains no number-expressions at all, the same being true, for similar reasons, of the occurrence of “the number two.”
+2.5.1 Adding whole numbers
+Frege’s analysis of number (given any whole number n, n is the property of being an n-membered set) makes it possible to translate arithmetical statements into statements in which no number-expressions occur.
+“1 + 2 = 3” says that the union of a one-membered set and a non-overlapping two-membered set is a three-membered set. In general, ‹A + B = C› says that the union of an A-membered class and a non-overlapping B-membered class is a C-membered class.
+Here’s the idea. If Sally has one house, and Jerry has two yachts, then there are three things that are either houses belonging to Sally or yachts belonging to Jerry. If Larry has one pool and two cars, then there are three things that are either pools belonging to Larry or cars belonging to Larry. At the same time, if Larry has one expensive possession, and he also has two cars, one of which is expensive, there are only two things each of which is either a car belonging to Larry or an expensive thing belonging to Larry.
+This shows that, in general, if there’s one phi and there are two psi’s, then, provided that neither of the psi’s is a phi, there are three things that are either phi’s or psi’s. Another way of putting this is to say that: given any one-membered class and any non-overlapping two-membered class, the class of things belonging either to the one class or the other is a three-membered class. And “1 + 2 = 3” is a compressed way of saying exactly this. “3 – 2 = 1” says the same thing, given that it is a notational variant of “1 + 2 = 3.”
+In general, each of ‹A + B = C› and ‹C – B = A› is a compressed way of saying that, for any properties phi and psi, given A phi’s and B psi’s, none of them a phi, there are C phi’s or psi’s.
+The occurrences of “1,” “2,” and “3” in “1 + 2 = 3” are really adjectival. What is being said is that, given one phi along with two psi’s, neither of which is a phi, there are three phi’s or psi’s.
+Remember that, for any whole number N, it can be said what an N-membered set is without using any number expressions. Thus, despite first appearances, the just-stated analysis is not circular. The number two is the class of two-membered sets. A “two membered” set is one such that some member x of that set is not identical with some other member y and such that z belongs to that set just in case z is identical with x or y. No mention of the number two.
+In general, for any whole numbers A, B, and C, ‹A + B = C› can be translated into statements containing no number expressions.
+2.5.2 Multiplying whole numbers
+“2 × 3 = 6” says that the Cartesian product of a two-membered set and a three-membered set is a six-membered set. (For reasons that will become apparent, it doesn’t matter whether the sets overlap.) The Cartesian product of two sets S1 and S2 is the set of ordered pairs <a, b> such that a belongs to the one set and b belongs to the other.
+Explanation: “2 × 3 = 6” can be thought of as saying that double-counting the members of a three-membered group yields a total count of six. In other words, given a group of three objects, if you count that group once and then count it once more, the total count will be six.
+Let C1, C2, and C3 be Sally’s three cars, and let A1 and A2 be Larry’s two apples. If A1 is allowed to couple with each of Sally’s cars, the result is the set containing the pairs <A1,C1>, <A1,C2>, and <A1,C3>. In this context, A1 is applying a distinctive marker to each member of the smallest set containing each of Sally’s cars. A1 is marking C1, C2, and C3 with the ordered pairs <A1, C1>, <A1, C2>, and <A1,C3>, respectively. When you count your socks, you apply a distinctive marker to each sock. You mark the first sock with a “one,” the second with a “two,” etc. Thus, A1 is doing to each of Sally’s houses what you are doing when you count your socks.
+If Larry’s other apple is allowed to do the same thing mutatis mutandis, the result is the set containing the following pairs:<A2,C1>, <A2,C2>, and <A2,C3>. Notice that none of the markers used by A2 is identical with any of the markers used by A1. Thus, the two counts will be independent, in the sense that if Z is a set containing the one count, and Z* is a set containing the other, Z won’t overlap with Z*. Thus, union of Z and Z* can be thought of as the result of double counting Sally’s houses. The members of that union-set are: <A1,C1>, <A1,C2>, <A1,C3>, <A2,C1>, <A2,C2>, and <A2,C3>. That union-set, which is the Cartesian product of Z and Z*, is a six-membered set.
+It’s obvious that, given any two-membered set and any three-membered set, the union of the headcounts collectively done by both members of the two-membered set will be a six-membered set. In other words, the result of double counting the three membered set will be a six-membered set. And this is just what “2 × 3 = 6” says. “6 ÷ 2 = 3” says the same thing, given that it’s a notational variant of “2 × 3 = 6.”
+“32 = 9” says the same thing as “3 × 3 = 9.” Thus, “32 = 9” says that the Cartesian product of a three-membered set and a non-overlapping three-membered set is a nine-membered set.
+In general, for any whole numbers A, B, and C, ‹A × B = C› and ‹A2 = B› can be translated into statements containing no number expressions.
+It’s obvious that statements about rational numbers (fractions) are equivalent with statements about whole numbers. In fact, they are such statements. To say that 1/2 is less than 3/4 is less than is simply to say that one quotient is less than some other quotient. For any whole numbers A, B, and C, ‹A × B = C› is a notational variant of ‹A = C ÷ B›. Since, as we’ve seen, ‹A × B = C› can be translated into a statement containing no number-expressions, the same is true of ‹A = C ÷ B.›
+2.5.3 Adding and multiplying reals
+(2 is irrational. In other words, there are no whole numbers p and q such that (2 = p/q. But any given statement about (2, or any other irrational number, can be rewritten as a statement about rationals (and, therefore, can be rewritten as a statement about whole numbers and, therefore, can be rewritten as a statement not containing any number-expressions). Consider the statement:
+
+(i) a1/a2<(2.
+
+For (i) to be true, it is necessary and sufficient that a1 and a2 be such that (a1/a2)2<2. Thus, the meaning of (i) is:
+
+(ii) (a1/a2)2<2.
+
+By analogous reasoning, the meaning of
+
+(iii) a3/a4<(3
+
+is:
+
+(iv) (a3/a4)2<3.
+It follows, given that no two reals are adjacent, that for
+
+(v) (2<(3
+
+to be true is for it to be the case that
+
+(vi) there are whole numbers a5 and a6 such that 2<(a5/a6)2<3.
+
+Given any whole number n such that (n is irrational, and given any statement S of the form
+
+(vii) ‹...(n...›,
+
+there is an equivalent S* statement of the form:
+
+(viii) ‹...n...›
+
+Let us take stock. Statements about (2 can be represented as statements about the class all rational numbers whose squares are less than two. Thus, (2 may be identified with the class of all ratios R such that R2<2. Other irrationals are to be understood along similar lines. Thus, statements about irrational numbers can always be translated into statements about rational numbers.
+Statements about rationals can obviously be translated into statements about whole numbers. Statements about whole numbers can be translated into statements that don’t contain any number-expressions. (See Sections 2.5.1–2.5.2.) Thus, statements about irrational numbers can always be translated into statements that don’t contain any number-expressions.
+2.6 A problem with Frege’s analysis
+Though basically identical with the analysis given by Frege, the one given in Section 2.3 differs from Frege’s in one important respect. Frege identified numbers, not with properties of sets, with sets of sets. Frege identified the number two with the set containing all and only those sets S such that, for some x and some y, x is a member of S and y is a member of S and x ≠ y and such that, for any z, if z is a member of S, then z = x or z = y. So, for Frege, the number two is the set of all sets of the sort just described. The number one is the set containing all and only those sets S such that something x belongs to S and such that anything y that belongs to S is identical with x. The number zero is the set containing all and only those sets to which nothing belongs.
+The problem is that, if numbers are identified with sets rather than properties, it follows that the number two could have been something other than what it actually is. Consider some pair of objects (e.g., your two favorite socks) and let it be the set containing just those two things. Given a universe where those two socks don’t exist, if K2 is the class of all pairs in that universe, then K2 won’t be identical with the class of all pairs in our universe. Since two sets cannot be identical unless they have the same members, it follows that the number two could have something other than what it is, which is absurd. The same thing mutatis mutandis holds of any other whole number: if a whole number N is identified with a set of sets, that whole number will be different things in different universes.
+(The only exception to this is the number zero. If defined in the way that Frege proposes—that is, as the set of all sets S such that nothing belongs to S—it doesn’t change from universe to universe. This is because, in order for two sets to differ, one of them must have a member not had by the other. This is known as the axiom of extensionality. Since no empty set has any members not had any other empty set, there cannot be two distinct empty sets. Thus, there is only one empty set; and this is true in every universe, not just ours).
+But what it is to be a two-membered doesn’t vary from universe to universe. In any given universe, for S to be a two-membered set is for it to be such that, for some x and some y, x is a member of S and y is a member of S and x ≠ y and such that, for any z, if z is a member of S, then z = x or z = y. Thus, the property of 
+being a two-membered set doesn’t vary from universe to universe. To that extent, it’s better to identity the number two with the property of being a two-membered set than it is to identity with the set of all such sets.
+But numbers can still be identified with sets of similar sets. The number two can be identified with sets of all pairs, actual and possible. This variant of Frege’s analysis isn’t open to the objection just made.
+3.0 Incompleteness
+Logicism was a failure. There is nothing wrong with the (set-theoretic) analyses of number, and of number statements, put forth by Frege and Russell and other logicists. What turned out to be false was Frege’s claim that there is some one algorithm such that, given any statement of arithmetic, that algorithm can correctly say whether or not that statement is true or false.
+This must be understood aright. Given any finite set of arithmetical statements, there is an algorithm that, given any statement falling into that set, correctly says whether or not that statement is true. But there is no one algorithm that, given any arithmetical statement, correctly says whether or not that statement is true.
+One must master some exceedingly intricate mathematics to understand precisely why this claim is false. But some of the philosophical conceits underlying this mathematics are pretty straightforward.
+First of all, the word “logic” is ambiguous. Sometimes it refers to formal truths, e.g., “either Smith is tall or it is not the case that Smith is tall”; and sometimes the word “logic” refers to analytic truths, e.g., “any case of knowledge is a case of justified belief, but not vice versa”.
+When logicists proclaimed that arithmetical truths are “logical” truths, they meant that they are formal truths. Formal truth, it must be emphasized, is a property of sentences and, therefore, of expressions; it is not a property of sentence-meanings.
+For argument’s sake, let’s make the following three concessions to the logicist. First, “1 + 1 = 2” is a formal truth in disguise. Second, the logicist paraphrase of “1 + 1 = 2” is a formal truth. We’ll refer to that paraphrase as TPT.(For the reasons given in section 2.5.1, TPT is some statement along the lines of “two non-overlapping unit classes form a dual class.”) Third, what we just said about 
+“1 + 1 = 2” is true mutatis mutandis of any given arithmetical truth.
+Bearing these assumptions in mind, consider the statement that:
+
+(EQ) “The logicist translation of ‘1 + 1 = 2’ is TPT.”
+
+EQ is not a formal truth. After all, it has the same form as:
+
+(EQ2) “The Spanish translation of ‘there will be justice’ is TPT,”
+
+which is obviously false.
+It may be that EQ is analytically true. But that fact hurts logicism as much as it helps it. To describe a sentence as “analytically true” is to make an elliptical statement about a proposition. It isn’t analytic that “triangles have three sides” is true. That sentence could have meant anything; it’s an empirical fact that it means what it does and, therefore, that it’s true. What is analytic is the proposition that, the semantic rules of English being what they are, “triangles have three sides” must be true. The same thing mutatis mutandis is true of any other “analytic” sentence, including EQ.
+As previously stated, all formal truths are analytic truths (but not vice versa). Thus, to describe a sentence as “formally” true is to make a statement about the proposition describing the relationship between the semantic rules of the language to which that sentence belongs, on the one hand, and that sentence, on the other: it is to describe that proposition as analytic.
+There is thus no way to formalize every sentence describing such a proposition. If S1 is any one such sentence, formalizing S1 involves using some other sentence S2 that describes the relationship between the semantic rules of the language to which S1 belongs, on the one hand, and S1, on the other. S2 will invariably fail to be a formal truth. This is because S2 will have the form: ‹given such and such semantic rules, it follows
+that S1 is formally true›, which isn’t formally true. The reason it isn’t formally true is that it has the same form as the false sentence: ‹given such and such semantic rules, it follows that “grass is green” is formally true. ›
+Thus no matter how many truths one formalizes, the justifications for those formalizations will always be given by informal truths. This means that, given any viable method M of formalizing some body of informal analytic truths, there is no complete formalization of the truths that establish the viability of M.
+3.1 The concept of a formal procedure
+In the last section, we often used words like “formal” and “formalize.” And in what follows, we’ll often use the term “formal procedure.” We’ll also use the related term “decision-procedure.” So let us make it clear what these terms mean.
+Consider the statement: “2 + 2 = 4.” You know that it’s true. But how do you know this? You know what it means; and you know that, given what it means, it must be true. Your judgment was based, not on the form, but on the content, of that sentence. Your decision-procedure (your way of determining whether “2 + 2 = 4” is true or not) wasn’t formal.
+Your decision would have been a formal one if it had been based entirely on rules that had nothing to do with the meanings of symbols. A story will clarify this statement. Although you are intelligent and literate (in your native language), you don’t speak English and you don’t know what “1”, “2”, “+”, etc. mean. (You are a good mathematician; but in your native country, different symbolic conventions are used to express mathematical statements.) You are on a military mission. This mission involves your being able, within certain very narrow limits, to distinguish between false arithmetical statements and true ones. Your commanding officer tells you that an inscription whose initial segment is “2 + 2 =” is true if it ends with a “4” and flase if it ends with a “5.” You have no idea what “2 + 2 = 4” means. (You’re not supposed to know.) You come across inscriptions of 
+“2 + 2 = 4” and “2 + 2 = 5”; and, on the basis only of your commanding officer’s instructions, you judge that the first is true and the second is false. In this context, your decision-procedure was a formal one.
+This decision-procedure had minimal scope. Obviously mathematicians want to find decision-procedures that deal with large classes of statements. In order for there to be any decision-procedure for a sizeable class of arithmetical truths, those truths cannot be expressed in the customary way. Supposing the standard symbolic conventions to be in place, the truths of arithmetic cannot be expressed using symbols like “2”, “+”, etc. The reason is that, when arithmetical propositions are expressed in that way, there is no non-semantic method whereby true arithmetical sentences can be distinguished from false ones. Thus, in order for there to be a decision-procedure for arithmetic, sentences such as “2+2=4” must be rephrased (or “paraphrased,” as we’ll say). Logicists attempted to provide the requisite paraphrases. And, thanks to their paraphrases, it was possible to identify formal-decision procedures for huge classes of arithmetical truths.
+Kurt Gödel (1906–1978) showed that there is no way of paraphrasing or otherwise representing arithmetical truths that permits the construction of some one formal decision-procedure that decides the truth of any given arithmetical truth. He showed that logicism was doomed and also that any other attempt to formalize arithmetic was doomed. Let us now discuss his achievement in a little (operative word “little”) more detail.
+3.2 Incompleteness (continued)
+Gödel mathematically proved that there is no one formal decision-procedure such that, given any arithmetical statement, that procedure correctly says whether or not that statement is correct. His proof is extremely complex. But here is a way of stating the main idea that, although both inaccurate and incomplete, will at least initiate an interest on the part of the reader in the fascinating discipline of mathematical logic.
+First a definition: An “arithmetical” predicate is one that expresses a property of whole numbers, or a relation holding among whole numbers, that can be understood entirely in terms of (i) the concepts of addition and multiplication; (ii) the concepts expressed by the connectives “or”, “not”, “and”, “for any” (“all”), and “for some” (“there exists”); and (iii) the numbers zero, one, two, etc. (i.e., the members of the least inclusive set that contains zero and the successor of anything that it contains). Examples of arithmetical
+predicates are “is even”, “is less than five”, and “when added to seven yields twelve.” (To say that 3 is less than 5 is to say that there is some whole number n such that, when n is added to 3, the result is 5.)
+Given any arithmetical predicate P, there is a class of numbers C such that a whole number n belongs to C iff P(n) (read: “n has P”). Consider, for example, the predicate “is even.” There is obviously a class containing every number n such that ‹n is even› is true and containing no number m such that ‹m is even› is false.
+For argument’s sake, suppose there to be formal procedure FM such that, for any whole number n and any arithmetical predicate P, FM assigns a TRUE to the sentence P(n) if that sentence is true, and assigns a FALSE to if it’s false. (In this context, TRUE and FALSE may be thought of as physical stamps. When given an ink-deposit (or whatnot) that expresses an arithmetical proposition, FM stamps TRUE on that ink-deposit if it’s true and a FALSE on it if it’s false.) This is the same as assuming that:
+
+(1) There exists a formal procedure that correctly says of any given arithmetical statement whether it is true or false.
+
+Any given arithmetical predicate contains a finite number of letters. There are only finitely many different letters. This means that it’s possible to produce a list such that, given any finitely long combination of letters Z, there is some whole number n such that Z is the nth member of that list. A fortiori it’s possible to produce a list such that, given any arithmetical predicate P, there is some whole number n such that P is the nth member of that list. Let L be such a list; and assume that the items composing L are arranged alphabetically. Further, let L* be a list whose first entry is 1, whose second entry is 2, and so on.
+Given either list, the nth item on it can be thought of as being “coordinated” with the number n, i.e., as having n for its coordinate. Thus, the first item on L* (namely 1) has coordinate 1; the second (namely 2) has coordinate 2; and so on. To simplify exposition, let’s suppose that “is bigger than ten,” “is even,” and “is less than twenty” are, respectively, the tenth, twentieth, and thirtieth items on L.
+Let G be a graph whose x-axis consists of L* and whose y-axis consists of L. Thus, the coordinates on G of the statements “1 is bigger than 10,” “2 is even,” and “3 is less than 20” are, respectively, (1,10), (2,20), and (3,30).
+FM assigns FALSE to “1 is bigger than 10” and a TRUE to “2 is even” and to “3 is less than 20.” FM can thus be thought of as stamping a FALSE on (1,10), a TRUE on (2,20), and a TRUE on (3,30).
+Let K be a class such that, for any whole number n, n is a member of K iff FM assigns a FALSE to (n,n). And let Q be a predicate such that Q(n) is true iff n is a member of K. Supposing that Q is an arithmetical predicate, it follows that Q has some coordinate q on the y-axis. It also follows that the coordinates of Q(q) are (q, q) and, consequently, that Q(q) is true iff Q(q) is false.
+Q is an arithmetical predicate. Let’s take a moment to make it clear why this is so.
+First, for any numbers m and n, ‹m has position n on the x-axis› is equivalent with ‹m=n›, which is obviously an arithmetical statement.
+Much the same holds of ‹m has position n on the y-axis›. The predicates composing the y-axis are arranged alphabetically. Each letter of the alphabet can be coordinated with a number. (“A” can be coordinated with “1”; “B” can be coordinated with “2”; and so on.) So the order in which they occur is to be understood strictly in terms of such garden-variety arithmetical facts like “1 is less than 2” and “2 is less than 3.” A consequence is that, for any arithmetical predicate m and any number n, ‹m has position n on the y-axis› is equivalent with some arithmetical statement.
+Thus, given either axis, an item m’s having position n on that axis is a strictly arithmetical fact. It follows that, given any arithmetical statement S and any whole numbers m and n, the statement ‹S has coordinates (m,n)› is equivalent with some garden-variety arithmetical statement. A consequence is that, for any statement S and any whole numbers m and n, the statement ‹FM stamps S with a FALSE› is equivalent with some purely arithmetical statementstatement. Since, for any n, Q(n) is equivalent with ‹FM stamps the statement with coordinates (n,n) with a FALSE›, it follows that Q(n) is an arithmetical statement and, consequently, that Q is an arithmetical predicate. Thus, Q(q) is an arithmetical statement. Since, as we saw, Q(q) is true iff it’s false, it’s false. (No true statement entails its own negation.) But FM stamps a TRUE on it, even though, by supposition, FM stamps a TRUE only true statements.
+We started with the assumption that there exists a procedure that correctly says of any given arithmetical statement whether it is true or false. This was the only substantive (as opposed to purely procedural) assumption that we made. This assumption entails a false statement and is therefore itself false. There is thus no formal decision-procedure for arithmetic. There is no correct and complete formal characterization of arithmetical truth. Logicism, the doctrine that arithmetical truth is formal truth, is therefore false.
+4.0 Analysis by abstraction
+In the process of generating his insightful analysis of number, Frege used, for the first time in history, a powerful technique known as definition by abstraction.
+The term “definition by abstraction” refers to a way of analyzing properties. This term is thus a misnomer. Expressions are defined; properties aren’t expressions. I’ll therefore drop the term “definition by abstraction” and use the term “analysis by abstraction” in its stead.
+Analysis by abstraction is a technique for analyzing comparative properties. (A comparative property is one that can be had to varying degrees. Thus, weight and speed are comparative properties, whereas four-sidedness is not.) Given a comparative property phi, an analysis by abstraction of phi is given by a statement that explains what phi is in terms of what it is for one thing to have phi to a degree equal to, or exceeding, the degree to which some other thing has phi.
+It can be said what it is for two sets to have the same number of members, or for one set to have more members than another, without knowing how many members either set has. If the members of the one set can be paired off with the members of the other, they have the same number of members. If not, the set whose members don’t all have partners is the better populated one. Thus, for two sets to be similar (capable of being paired off in the way just described) is for them to be equally populated. We may therefore identify the degree to which a given set is populated with the class of (possible) sets that are similar to it, and we may also identify a set’s being populated to that degree with its being a member of that class.
+This technique can be used to analyze any comparative property. (In fact, there is no other way to analyze such a property.) To say that one event preceded some other is to say that the second exceeds the first in respect of the lateness of the time at which it occurred. One can know that one event preceded some other without knowing when either occurred. If there is some possible causal process (e.g., a light ray), beginning with the one and ending with the other, the event on the receiving end of that process is the later one; if there is no such process, the two events are simultaneous. Let us say that one event is “indifferent” to another if there is no possible causal process beginning with either and ending with the other. (If x is indifferent to y, y is indifferent to x.) Two events are simultaneous just in case they occur at the same time, and they are simultaneous if either is indifferent to the other. We may therefore identify the time at which an event occurs with the class of events that are indifferent to it.
+We defined ‹x precedes y› as ‹some causal process begins with x and ends with y.› Since the italicized terms are obviously temporal in nature, our analysis might be thought to be viciously circular.
+This isn’t so. Our analysis appears circular only to the extent that it is question-beggingly assumed to be false. If that analysis is right, the concept of causal-influence (i.e., of one’s event being the initiator of a causal process of which the other is the recipient) is more primitive than that of order in space-time. So the concept expressed by ‹x causally influences y› (in other words, ‹x is the initiator of a causal process of which y is the recipient›) is the primitive concept, and the concept expressed by ‹x precedes y› is the derivative one.
+It’s true that we defined ‹x influences y› as ‹some causal process begins with x and ends with y›. But that was merely a way of identifying the meaning of that expression. That act of identification, being one that preceded the analysis in question, had to be given in terms that would be meaningful to those who still held onto the idea that causal influence was to be understood in terms of order in time, and not vice versa.
+The concept of weight is to be understood along similar lines. One needn’t know how heavy two objects are to know that they have the same weight or that the one is heavier than the other. That means that, given any two objects, there is some relation such that their having the same mass can be non-circularly identified with the one’s bearing that relationship to the other. An object’s weight (the degree to which it has weight)
+may therefore be identified with the class of all things to which it bears that relationship. The same thing mutatis mutandis holds of speed, length, conductivity, and of any other given comparative property.
+A moment ago we said that one can know that x is heavier than y without knowing the weights of either. This must be qualified. When you say that you know only the comparative weights of x and y, but don’t know the actual weight of either, what you are really saying is that, although you know how x and y compare to each other in respect of weight, you don’t know how either compares in that respect to objects in general. And when you say that you know the weights of x and y, and not merely their relative weights, you are saying that you know how each compares in respect of weight, not only with the other, but with objects in general.
+Thus, all knowledge of weight is comparative knowledge. The difference between knowing how x’s weight compares with y’s, on the one hand, and knowing how many pounds x weighs, on the other, is simply one of degree. ‹x weighs 27 lbs› is a condensed way of reporting a great many relative judgments concerning x’s weight—of reporting a great many judgments concerning x’s weight relative to some other object’s weight. What we think of as non-comparative knowledge is a condensed mass of comparative knowledge. It follows—though I leave it to the reader as an exercise to say exactly how it follows—that no viable analysis of a weight, or indeed of any other comparative property, is ever not an analysis by abstraction.
+5.0 Putting Frege’s successes into perspective
+Even though logicism turned out to be a failure, Frege’s formalization of logic was a success. (This is subject to heavy qualifications that lie outside the scope of the present work.) Many have thought that, to the extent that he was able to formalize logic, Frege succeeded in “mechanizing” the making of inferences—in showing that no thought need be involved in the making of inferences and, therefore, that inferences could be made by beings (e.g., punch-card automata) that are otherwise incapable of thought. The idea is that, given a sentence like:
+
+(1) “for any object x, if x is a mammal, then, if x is intelligent, x doesn’t have pointy ears; and Smith is a mammal and Smith has pointy ears,”
+
+a purely morphology-driven entity—i.e., an entity, e.g., a scanning-device that had no understanding of what anything meant and whose activities are driven only by the shapes of the symbol-tokens involved—could infer that:
+
+(2) “it is not the case that Smith is intelligent.”
+
+It’s granted, of course, that Frege formalized only a miniscule class of inferences. But it’s held that to the extent, however limited that extent was, that he was able to formalize the making of inferences, he showed that suitably constructed machines could think. And those who hold this hold that others who, like Frege, have formalized some class of inferences have ipso facto shown that inferences could be made without thinking and could therefore be made by non-thinkers.
+This is deeply absurd. First of all, it’s tantamount to saying that thinking can be done without thinking. To make an inference is to think. So an unthinking being  ipso facto can’t make inferences.
+This argument is likely to be seen as nothing more than a joke. And it is a joke. But it’s a joke only because, like any good joke, it states the obvious.
+In any case, here’s a joke-free argument. Suppose that device M is given tokens of (i) and (ii) as inputs and that, in response, it outputs a token of (iii). It doesn’t follow M has inferred anything. If M’s outputting T3 is to embody an inference of any kind, it isn’t enough that T1 and T2 be what led M to do so. It is necessary that their being symbols be what led M to output T3.
+Imagine the following. You say to me: “The one copy of your manuscript has just been destroyed.” As a result of your saying this I faint. But I faint not because of what your utterance meant. Rather, I faint because you spoke so loudly that it traumatized me. My response wasn’t of a linguistic nature. It’s true that it was caused
+by a linguistic act on your part. But your act’s being a linguistic act was irrelevant; it could just as well have been an explosion or the ringing of a bell.
+Let’s change the story. Because of experiments that I underwent as a child, I say “four” whenever I hear very loud sounds. You ask me “what is 2 + 2?” and I say “four.” But I say it not because of what it was that you were asking, but because you said it so loudly that my conditioning kicked in and I reflexively barked out “four.” My saying “four” was caused by a linguistic act on your part. But it wasn’t caused by your act’s being linguistic in nature. For this reason, my response wasn’t linguistic in nature.
+For exactly similar reasons, given only that M is outputting T3 in response to its being fed inputs T1 and T2, it doesn’t follow that M’s outputting T3 embodies an inference. Since it wasn’t in virtue of their being symbol-tokens that T1 and T2 led to M’s outputting T3, M’s outputting T3 is no more expressive or constitutive of a linguistic or inferential or otherwise ratiocinative act on M’s part than is my inadvertently getting a nose-bleed as a result of my hearing an extremely loud (and therefore nose-bleed-inducing) noise that happens also to be a case of somebody’s saying “if you get a nose-bleed right now, I’ll give you a million dollars.”
+Thus, so far as it’s correct to say that Frege “mechanized” thought, what it means is not that, thanks to his efforts, no thought is needed to execute inferences that were previously thought-dependent. It means that inferences that, prior to his efforts, had to made ad hoc could now be made in a systematic manner. Adding two multi-digit numbers together is easy if you use the standard algorithm, and it’s hard if you don’t. But, even if you use it, thought is involved. Applying the algorithm takes thought; and knowing that it’s applicable takes thought. Only a thinking being can make the judgment that given certain ink-marks (e.g. “456 + 785”) it is to be used, whereas given others, it isn’t. So even though it’s a lot harder to add multidigit numbers without the algorithm than with it, adding them with it involves thought.
+6.1 Putting Frege’s successes into perspective (continued)
+The inferences one must make in order to algorithmize a given task are often harder to make than the inferences that the algorithm, once applicable, will enable one to make. The same is true of the inferences one must make in order to superintend the application of an already identified algorithm.
+Once again consider Arguments #1 and #2. They’re obviously valid and invalid, respectively. True—thanks to the algorithms bequeathed to us by Frege, Argument #1RP is easier to evaluate than Argument #1. But what it takes in the way of intelligence to convert Argument #1 into something to which those algorithms are applicable is comparable to, if it doesn’t exceed, what it takes to decide whether or not Argument #1 goes through.
+Also, it’s no easy matter to figure out whether a given statement is expressed in a form suitable for the application of one of those algorithms. There are, as we know, arguments superficially similar to #1 that aren’t valid, and it’s only through the use of judgment that we can distinguish such impostors from their legitimate brethren. There is no mechanical way to do so. In general, there’s no mechanical procedure for determining the validity or the scope of one’s mechanical procedures, a consequence being that thought is inherently incapable of being mechanized.
+Imagine the following. You run a company that makes cars. You recently hired a new worker, who goes by the name of “Bucky.” Unlike your current employees, Bucky isn’t intelligent or skilled. But he works hard and he works cheap; and he’s an extremely good worker once he’s mastered a given task. However, Bucky can only do rote, mechanical tasks; and the amount of training he must undergo before he can perform a given task is twice what your average employee would have to undergo to perform that same task. Also, Bucky requires an unusual amount of supervision. He’s unusually likely to break equipment; and, being psychologically fragile, if conditions in the factory are changed slightly (e.g., the walls are repainted), he becomes confused and has to be coddled for a while before he can again work effectively.
+The benefits of keeping Bucky on will exceed the costs if, and only if, there is a large amount of rote work for him to do and you can spare the man-power needed to train and supervise him and you know that conditions won’t change in the factory in such a way as to render him incapacitated—and so on.
+Algorithms are a lot like Bucky. A lot of time and effort is needed to put them to work; and once put to work, they can only do very specific things. If you need those specific things to be done often enough, it’s worth it to develop an algorithm for doing them and it’s worth it to check in from time to time to make sure that they’re being applied properly. But they’re useless unless heavily supervised, and they’re thus no substitute for real thought.
+ENDNOTES
+Name: ___________________________________ Date: _____________________________
+Exercises
+1.	For each of the following sentences, tell me whether it is a formal analytic truth, an informal analytic truth, or a sentence that is not analytic at all.
+a.	If a thing is experiencing pain, then it is sentient.
+b.	If a thing is experiencing pain, then it is not the case that it is not sentient.
+c.	If a thing is an aardvark, then it is not the case that it is not an aardvark.
+d.	If Billy is smart, then either Billy is smart or squares are round.
+e.	Either Billy is smart or he is not a sentient being.
+f.	If Billy is a theoretical physicist, then Billy is very smart.
+g.	g.	If Billy is a theoretical physicist, and “muons are less massive than quarks” is a theoretical statement, then Billy has something in common with the statement “muons are less massive than quarks.”
+h.	h.	If “On Denoting” is heavy reading, and Al Roker is heavy, then Al Roker is, in some respect, similar to an article written by Bertrand Russell.
+i.	If a thing is an aardvark, then it is an animal.
+j.	Either Tommy is alive or he is not conscious anymore.
+k.	Anything that has thoughts has mental activity of some kind.
+2.	Give me three examples of formal analytic truths, each of which contains three occurrences of the word “not.”
+3.	Give me three examples of informal analytic truths, at least one of which contains the word “green,” and at least one of which contains the word “knowledge.”
+4.	Give me an example of a molecular sentence that contains the word “possibly.”
+5.	Give me an example of a molecular sentence that contains the words “some” and “all.”
+6.	Give me an example of a true molecular sentence that contains the expressions “some” and “all” and “it is not the case that” and “because.”
+7.	Are there any atomic sentences of the form “Smith thinks that . . .”? If so, give an example.
+8.	Identify five open sentences that are satisfied by the expression “Donald Rumsfeld.”
+9.	Identify five open sentences that are not satisfied by the expression “Tom Cruise.”
+10.	10.	Identify a true sentence in which “the inventor of bifocals” occurs intensionally and in which “the first postmaster general” occurs extensionally.
+11.	For each of the following sentences, tell me whether it is atomic or molecular.
+a.	Bill wants to go to Sarasota.
+b.	It is true that Bill wants to go to Sarasota.
+c.	Emily loves apple pie.
+d.	It is false that Emily loves apple pie.
+e.	e.	Emily loves apple pie, but she can’t eat it, since she is allergic to apples.
+f.	Some people like apple pie.
+g.	Some people like apple pie but never eat it because they are afraid of being ostracized by their peers.
+h.	Is it not the case that William is ostracized by his peers.
+i.	Bill hopes to become a world-class sprinter.
+j.	Bill is a world-class sprinter.

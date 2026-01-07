@@ -1,0 +1,7 @@
+=== EMBEDDING LOG FOR GALILEO GALILEI ===
+Figure ID: galileo
+Source Folder: /home/runner/workspace/server/data/galileo
+Started: 2025-12-13T04:02:41.007Z
+============================================================
+
+[2025-12-13T04:02:41.010Z] SUCCESS | Delphi Collected Works of Galileo Galilei (Illustrated) (Delphi Series Seven Book 26)_Part1.txt | 252 chunks | 

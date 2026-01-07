@@ -1,0 +1,22 @@
+=== EMBEDDING LOG FOR FRIEDRICH NIETZSCHE ===
+Figure ID: nietzsche
+Source Folder: /home/runner/workspace/server/data/nietzsche
+Started: 2025-12-13T04:03:36.695Z
+============================================================
+
+[2025-12-13T04:03:36.698Z] SUCCESS | 1 NIETZSCHE COMPLETE WORKS_Part1.txt | 324 chunks | 
+[2025-12-13T04:04:48.127Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part10.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:48.176Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part11.txt | 0 chunks | Contains 6 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:48.227Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part12.txt | 0 chunks | Contains 8 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:48.278Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part13.txt | 0 chunks | Contains 10 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:48.326Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part14.txt | 0 chunks | Contains 17 mentions of "Mill" - possible misattribution
+[2025-12-13T04:04:48.389Z] SUCCESS | 1 NIETZSCHE COMPLETE WORKS_Part15.txt | 283 chunks | 
+[2025-12-13T04:05:51.631Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part16.txt | 0 chunks | Contains 6 mentions of "Mises" - possible misattribution
+[2025-12-13T04:05:51.683Z] SUCCESS | 1 NIETZSCHE COMPLETE WORKS_Part17.txt | 332 chunks | 
+[2025-12-13T04:07:05.119Z] SUCCESS | 1 NIETZSCHE COMPLETE WORKS_Part18.txt | 341 chunks | 
+[2025-12-13T04:08:19.923Z] SUCCESS | 1 NIETZSCHE COMPLETE WORKS_Part19.txt | 44 chunks | 
+[2025-12-13T04:08:29.942Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part2.txt | 0 chunks | Contains 14 mentions of "Voltaire" - possible misattribution
+[2025-12-13T04:08:30.004Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part3.txt | 0 chunks | Contains 5 mentions of "Mill" - possible misattribution
+[2025-12-13T04:08:30.053Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part4.txt | 0 chunks | Contains 6 mentions of "Mises" - possible misattribution
+[2025-12-13T04:08:30.101Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part5.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+[2025-12-13T04:08:30.150Z] FLAGGED | 1 NIETZSCHE COMPLETE WORKS_Part6.txt | 0 chunks | Contains 6 mentions of "Mill" - possible misattribution

@@ -1,0 +1,608 @@
+[
+  {
+    "id": 5896,
+    "topic": "The Gentleman vs The Petty Person",
+    "premise": "gentleman|junzi|distinguished|birth|moral|cultivation",
+    "conclusion": "The gentleman (junzi) is distinguished not by birth but by moral cultivation and virtuous conduct"
+  },
+  {
+    "id": 5897,
+    "topic": "The Gentleman vs The Petty Person",
+    "premise": "petty|person|xiaoren|concerned|profit|gentleman",
+    "conclusion": "The petty person (xiaoren) is concerned with profit; the gentleman is concerned with righteousness"
+  },
+  {
+    "id": 5898,
+    "topic": "The Gentleman vs The Petty Person",
+    "premise": "gentleman|seeks|perfect|petty|person|others",
+    "conclusion": "The gentleman seeks to perfect himself; the petty person seeks to perfect others through blame"
+  },
+  {
+    "id": 5899,
+    "topic": "The Gentleman vs The Petty Person",
+    "premise": "gentleman|ease|without|arrogant|petty|person",
+    "conclusion": "The gentleman is at ease without being arrogant; the petty person is arrogant without being at ease"
+  },
+  {
+    "id": 5900,
+    "topic": "The Gentleman vs The Petty Person",
+    "premise": "gentleman|makes|demands|petty|person|others",
+    "conclusion": "The gentleman makes demands on himself; the petty person makes demands on others"
+  },
+  {
+    "id": 5901,
+    "topic": "The Gentleman vs The Petty Person",
+    "premise": "gentleman|inclusive|partisan|petty|person",
+    "conclusion": "The gentleman is inclusive and not partisan; the petty person is partisan and not inclusive"
+  },
+  {
+    "id": 5902,
+    "topic": "The Nature of Ren",
+    "premise": "humaneness|benevolence|supreme|virtue|virtues|derive",
+    "conclusion": "Ren (humaneness/benevolence) is the supreme virtue from which all other virtues derive their meaning"
+  },
+  {
+    "id": 5903,
+    "topic": "The Nature of Ren",
+    "premise": "practice|love|others|treat|consideration|wish",
+    "conclusion": "To practice ren is to love others and to treat them with the consideration one would wish for oneself"
+  },
+  {
+    "id": 5904,
+    "topic": "The Nature of Ren",
+    "premise": "cannot|achieved|momentary|acts|requires|sustained",
+    "conclusion": "Ren cannot be achieved through momentary acts but requires sustained commitment throughout one's life"
+  },
+  {
+    "id": 5905,
+    "topic": "The Nature of Ren",
+    "premise": "person|wishing|establish|establishes|others|develop",
+    "conclusion": "The person of ren, wishing to establish himself, establishes others; wishing to develop himself, develops others"
+  },
+  {
+    "id": 5906,
+    "topic": "The Nature of Ren",
+    "premise": "away|desire|hand",
+    "conclusion": "Ren is never far away; if I desire ren, then ren is at hand"
+  },
+  {
+    "id": 5907,
+    "topic": "The Nature of Ren",
+    "premise": "overcome|self|return|ritual|propriety|constitutes",
+    "conclusion": "To overcome the self and return to ritual propriety constitutes ren"
+  },
+  {
+    "id": 5908,
+    "topic": "Ritual and Social Order",
+    "premise": "ritual|propriety|provides|external|forms|inner",
+    "conclusion": "Li (ritual propriety) provides the external forms through which inner virtue is expressed and cultivated"
+  },
+  {
+    "id": 5909,
+    "topic": "Ritual and Social Order",
+    "premise": "without|respectfulness|becomes|laborious|bustle|caution",
+    "conclusion": "Without li, respectfulness becomes laborious bustle; caution becomes timidity; courage becomes insubordination; straightforwardness becomes rudeness"
+  },
+  {
+    "id": 5910,
+    "topic": "Ritual and Social Order",
+    "premise": "originated|sage|kings|embodies|accumulated|wisdom",
+    "conclusion": "Li originated from the sage-kings and embodies accumulated wisdom about proper human conduct"
+  },
+  {
+    "id": 5911,
+    "topic": "Ritual and Social Order",
+    "premise": "spirit|matters|outward|observance|ritual|without",
+    "conclusion": "The spirit of li matters more than its outward observance; ritual without reverence is empty formalism"
+  },
+  {
+    "id": 5912,
+    "topic": "Ritual and Social Order",
+    "premise": "serves|regulate|emotions|channeling|appropriate|expressions",
+    "conclusion": "Li serves to regulate the emotions, channeling them into appropriate expressions rather than suppressing them"
+  },
+  {
+    "id": 5913,
+    "topic": "Ritual and Social Order",
+    "premise": "rites|mourning|exist|merely|dead|cultivate",
+    "conclusion": "The rites of mourning exist not merely for the dead but to cultivate and express filial devotion in the living"
+  },
+  {
+    "id": 5914,
+    "topic": "Filial Piety and Family",
+    "premise": "filial|piety|xiao|root|virtue|foundation",
+    "conclusion": "Filial piety (xiao) is the root of all virtue and the foundation of moral education"
+  },
+  {
+    "id": 5915,
+    "topic": "Filial Piety and Family",
+    "premise": "serving|parents|genuine|reverence|distinguishes|human",
+    "conclusion": "Serving one's parents with genuine reverence distinguishes human filial piety from the mere feeding that animals provide their young"
+  },
+  {
+    "id": 5916,
+    "topic": "Filial Piety and Family",
+    "premise": "filial|piety|requires|obedience|gentle|remonstrance",
+    "conclusion": "Filial piety requires not just obedience but gentle remonstrance when parents err"
+  },
+  {
+    "id": 5917,
+    "topic": "Filial Piety and Family",
+    "premise": "family|primary|school|virtue|proper|relations",
+    "conclusion": "The family is the primary school of virtue; proper relations within the family extend outward to proper relations in society"
+  },
+  {
+    "id": 5918,
+    "topic": "Filial Piety and Family",
+    "premise": "travel|parents|alive|definite|destination",
+    "conclusion": "A son should not travel far while his parents are alive; if he must travel, he must have a definite destination"
+  },
+  {
+    "id": 5919,
+    "topic": "Filial Piety and Family",
+    "premise": "three|years|mourning|deceased|parents|reflects",
+    "conclusion": "Three years of mourning for deceased parents reflects the three years of helpless infancy when parents carried the child"
+  },
+  {
+    "id": 5920,
+    "topic": "Rectification of Names",
+    "premise": "rectification|names|zhengming|first|task|governance",
+    "conclusion": "Rectification of names (zhengming) is the first task of governance; when names are not correct, language is not in accord with truth"
+  },
+  {
+    "id": 5921,
+    "topic": "Rectification of Names",
+    "premise": "language|accord|truth|affairs|cannot|accomplished",
+    "conclusion": "When language is not in accord with truth, affairs cannot be accomplished"
+  },
+  {
+    "id": 5922,
+    "topic": "Rectification of Names",
+    "premise": "ruler|true|minister|father",
+    "conclusion": "A ruler must be a true ruler, a minister a true minister, a father a true father, a son a true son"
+  },
+  {
+    "id": 5923,
+    "topic": "Rectification of Names",
+    "premise": "social|disorder|originates|corruption|language|failure",
+    "conclusion": "Social disorder originates in the corruption of language and the failure of names to correspond to realities"
+  },
+  {
+    "id": 5924,
+    "topic": "Rectification of Names",
+    "premise": "call|something|proper|name|already|begin",
+    "conclusion": "To call something by its proper name is already to begin the work of moral and political reform"
+  },
+  {
+    "id": 5925,
+    "topic": "Rectification of Names",
+    "premise": "gentleman|cautious|speech|precisely|words|carry",
+    "conclusion": "The gentleman is cautious in speech precisely because words carry moral weight and practical consequence"
+  },
+  {
+    "id": 5926,
+    "topic": "Moral Government",
+    "premise": "government|moral|virtue|like|north|star",
+    "conclusion": "Government by moral virtue is like the North Star, which remains in its place while all other stars revolve around it"
+  },
+  {
+    "id": 5927,
+    "topic": "Moral Government",
+    "premise": "lead|people|governmental|measures|regulate|punishments",
+    "conclusion": "Lead the people with governmental measures and regulate them with punishments, and they will avoid wrongdoing but have no sense of shame"
+  },
+  {
+    "id": 5928,
+    "topic": "Moral Government",
+    "premise": "lead|virtue|regulate|sense|shame|moreover",
+    "conclusion": "Lead them with virtue and regulate them with li, and they will have a sense of shame and moreover will become good"
+  },
+  {
+    "id": 5929,
+    "topic": "Moral Government",
+    "premise": "ruler|governs|virtue|like|wind|common",
+    "conclusion": "The ruler who governs by virtue is like the wind; the common people are like grass\u2014when the wind blows, the grass bends"
+  },
+  {
+    "id": 5930,
+    "topic": "Moral Government",
+    "premise": "ruler|upright|well|without|orders|obeyed",
+    "conclusion": "If a ruler himself is upright, all will go well without orders; if he is not upright, his orders will not be obeyed"
+  },
+  {
+    "id": 5931,
+    "topic": "Moral Government",
+    "premise": "good|government|consists|ruler|minister|father",
+    "conclusion": "Good government consists in the ruler being a ruler, the minister being a minister, the father being a father, and the son being a son"
+  },
+  {
+    "id": 5932,
+    "topic": "Moral Government",
+    "premise": "governance|attract|people|afar|virtue|make",
+    "conclusion": "The art of governance is to attract people from afar through virtue and to make those nearby content"
+  },
+  {
+    "id": 5933,
+    "topic": "Moral Government",
+    "premise": "state|survive|without|sufficient|arms|food",
+    "conclusion": "A state can survive without sufficient arms; a state can survive without sufficient food; but a state cannot survive without the trust of the people"
+  },
+  {
+    "id": 5934,
+    "topic": "Learning and Education",
+    "premise": "learning|without|thought|labor|lost|perilous",
+    "conclusion": "Learning without thought is labor lost; thought without learning is perilous"
+  },
+  {
+    "id": 5935,
+    "topic": "Learning and Education",
+    "premise": "nature|people|similar|practice|become|different",
+    "conclusion": "By nature, people are similar; by practice, they become different"
+  },
+  {
+    "id": 5936,
+    "topic": "Learning and Education",
+    "premise": "education|provided|without|distinction|class",
+    "conclusion": "Education should be provided to all, without distinction of class"
+  },
+  {
+    "id": 5937,
+    "topic": "Learning and Education",
+    "premise": "superior|teacher|adapts|instruction|capacity|disposition",
+    "conclusion": "The superior teacher adapts his instruction to the capacity and disposition of each student"
+  },
+  {
+    "id": 5938,
+    "topic": "Learning and Education",
+    "premise": "enlighten|eager|learn|instruct|anxious|express",
+    "conclusion": "I do not enlighten those who are not eager to learn, nor do I instruct those who are not anxious to express their ideas"
+  },
+  {
+    "id": 5939,
+    "topic": "Learning and Education",
+    "premise": "pointed|corner|square|someone|come|back",
+    "conclusion": "When I have pointed out one corner of a square to someone and he does not come back with the other three, I will not repeat myself"
+  },
+  {
+    "id": 5940,
+    "topic": "Learning and Education",
+    "premise": "hamlet|families|bound|loyal|trustworthy|none",
+    "conclusion": "In a hamlet of ten families, there are bound to be those as loyal and trustworthy as I, but none as fond of learning"
+  },
+  {
+    "id": 5941,
+    "topic": "Learning and Education",
+    "premise": "study|times|practice|learned|pleasure",
+    "conclusion": "To study and at due times to practice what one has learned\u2014is this not a pleasure?"
+  },
+  {
+    "id": 5942,
+    "topic": "Self-Cultivation",
+    "premise": "fifteen|heart|learning|thirty|took|stand",
+    "conclusion": "At fifteen I set my heart on learning; at thirty I took my stand; at forty I was no longer perplexed"
+  },
+  {
+    "id": 5943,
+    "topic": "Self-Cultivation",
+    "premise": "fifty|knew|heaven|sixty|attuned|seventy",
+    "conclusion": "At fifty I knew the will of Heaven; at sixty my ear was attuned; at seventy I could follow my heart's desire without overstepping the bounds"
+  },
+  {
+    "id": 5944,
+    "topic": "Self-Cultivation",
+    "premise": "self|cultivation|lifelong|process|proceeds|identifiable",
+    "conclusion": "Self-cultivation is a lifelong process that proceeds through identifiable stages of moral development"
+  },
+  {
+    "id": 5945,
+    "topic": "Self-Cultivation",
+    "premise": "gentleman|grieve|people|recognize|merits|grieves",
+    "conclusion": "The gentleman does not grieve that people do not recognize his merits; he grieves that he has no merits to be recognized"
+  },
+  {
+    "id": 5946,
+    "topic": "Self-Cultivation",
+    "premise": "right|cowardice",
+    "conclusion": "To see what is right and not do it is cowardice"
+  },
+  {
+    "id": 5947,
+    "topic": "Self-Cultivation",
+    "premise": "gentleman|distressed|lack|ability|failure|others",
+    "conclusion": "The gentleman is distressed by his own lack of ability, not by the failure of others to recognize him"
+  },
+  {
+    "id": 5948,
+    "topic": "Self-Cultivation",
+    "premise": "worthy|person|think|becoming|equal|unworthy",
+    "conclusion": "When you see a worthy person, think of becoming his equal; when you see an unworthy person, examine yourself inwardly"
+  },
+  {
+    "id": 5949,
+    "topic": "Self-Cultivation",
+    "premise": "gentleman|ashamed|words|outrun|deeds",
+    "conclusion": "The gentleman is ashamed to let his words outrun his deeds"
+  },
+  {
+    "id": 5950,
+    "topic": "The Golden Rule (Shu)",
+    "premise": "others",
+    "conclusion": "Do not do to others what you would not have them do to you"
+  },
+  {
+    "id": 5951,
+    "topic": "The Golden Rule (Shu)",
+    "premise": "reciprocity|word|serve|guide|conduct|throughout",
+    "conclusion": "Shu (reciprocity) is the one word that can serve as a guide to conduct throughout one's life"
+  },
+  {
+    "id": 5952,
+    "topic": "The Golden Rule (Shu)",
+    "premise": "reciprocity|mere|calculation|arises|genuine|fellow",
+    "conclusion": "Reciprocity is not mere calculation but arises from genuine fellow-feeling and imagination of others' conditions"
+  },
+  {
+    "id": 5953,
+    "topic": "The Golden Rule (Shu)",
+    "premise": "zhong|loyalty|best|self|reciprocity|together",
+    "conclusion": "Zhong (loyalty to one's best self) and shu (reciprocity) together constitute the Way"
+  },
+  {
+    "id": 5954,
+    "topic": "The Golden Rule (Shu)",
+    "premise": "practice|requires|first|understand|heart|hearts",
+    "conclusion": "To practice shu requires that one first understand one's own heart before one can understand the hearts of others"
+  },
+  {
+    "id": 5955,
+    "topic": "Heaven and the Transcendent",
+    "premise": "heaven|speak|four|seasons|proceed|hundred",
+    "conclusion": "Heaven does not speak, yet the four seasons proceed and the hundred things are born"
+  },
+  {
+    "id": 5956,
+    "topic": "Heaven and the Transcendent",
+    "premise": "gentleman|stands|three|things|heaven|great",
+    "conclusion": "The gentleman stands in awe of three things: the will of Heaven, great persons, and the words of the sages"
+  },
+  {
+    "id": 5957,
+    "topic": "Heaven and the Transcendent",
+    "premise": "petty|person|knowing|heaven|stand",
+    "conclusion": "The petty person, not knowing the will of Heaven, does not stand in awe of it"
+  },
+  {
+    "id": 5958,
+    "topic": "Heaven and the Transcendent",
+    "premise": "heaven|wished|perish|given|since|destroyed",
+    "conclusion": "If Heaven wished the Way to perish, it would not have given it to us; since Heaven has not yet destroyed the Way, what can the people of Kuang do to me?"
+  },
+  {
+    "id": 5959,
+    "topic": "Heaven and the Transcendent",
+    "premise": "respect|spirits|keep|distance|wisdom|lies",
+    "conclusion": "One should respect the spirits but keep them at a distance; wisdom lies in this"
+  },
+  {
+    "id": 5960,
+    "topic": "Heaven and the Transcendent",
+    "premise": "understand|life|death",
+    "conclusion": "When you do not yet understand life, how can you understand death?"
+  },
+  {
+    "id": 5961,
+    "topic": "Heaven and the Transcendent",
+    "premise": "sacrificial|rites|performed|spirits|present",
+    "conclusion": "The sacrificial rites should be performed as if the spirits were present"
+  },
+  {
+    "id": 5962,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "righteousness|standard|gentleman|measures|actions",
+    "conclusion": "Yi (righteousness) is the standard by which the gentleman measures all actions"
+  },
+  {
+    "id": 5963,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "gentleman|understands|petty|person|profit",
+    "conclusion": "The gentleman understands yi; the petty person understands profit"
+  },
+  {
+    "id": 5964,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "wealth|honor|obtained|unrighteous|means|like",
+    "conclusion": "Wealth and honor obtained through unrighteous means are to me like floating clouds"
+  },
+  {
+    "id": 5965,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "gentleman|utensil|worth|limited|single|function",
+    "conclusion": "The gentleman is not a utensil; his worth is not limited to a single function"
+  },
+  {
+    "id": 5966,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "possible|withdraw",
+    "conclusion": "When it is possible to act, act; when it is not possible to act, withdraw"
+  },
+  {
+    "id": 5967,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "gentleman|takes|rightness|substance|practices|according",
+    "conclusion": "The gentleman takes rightness as his substance, practices it according to li, brings it forth in modesty, and completes it with faithfulness"
+  },
+  {
+    "id": 5968,
+    "topic": "Righteousness and Moral Judgment",
+    "premise": "presence|worthy|person|think|equaling|unworthy",
+    "conclusion": "In the presence of a worthy person, one should think of equaling him; in the presence of an unworthy person, one should turn inward and examine oneself"
+  },
+  {
+    "id": 5969,
+    "topic": "Wisdom and Knowledge",
+    "premise": "wisdom|knowing|others|loving",
+    "conclusion": "Zhi (wisdom) is knowing others; ren is loving others"
+  },
+  {
+    "id": 5970,
+    "topic": "Wisdom and Knowledge",
+    "premise": "know|true|knowledge",
+    "conclusion": "To know what you know and what you do not know\u2014this is true knowledge"
+  },
+  {
+    "id": 5971,
+    "topic": "Wisdom and Knowledge",
+    "premise": "wise|find|pleasure|water|benevolent|mountains",
+    "conclusion": "The wise find pleasure in water; the benevolent find pleasure in mountains; the wise are active; the benevolent are tranquil"
+  },
+  {
+    "id": 5972,
+    "topic": "Wisdom and Knowledge",
+    "premise": "without|understanding",
+    "conclusion": "There are those who act without understanding; I am not one of them"
+  },
+  {
+    "id": 5973,
+    "topic": "Wisdom and Knowledge",
+    "premise": "hearing|much|setting|aside|doubtful|speaking",
+    "conclusion": "Hearing much, setting aside what is doubtful, and speaking cautiously of the rest reduces occasions for blame"
+  },
+  {
+    "id": 5974,
+    "topic": "Wisdom and Knowledge",
+    "premise": "wise|free|perplexity|benevolent|anxiety|courageous",
+    "conclusion": "The wise are free from perplexity; the benevolent are free from anxiety; the courageous are free from fear"
+  },
+  {
+    "id": 5975,
+    "topic": "Wisdom and Knowledge",
+    "premise": "born|knowledge|love|antiquity|earnestly|seek",
+    "conclusion": "I am not one who was born with knowledge; I love antiquity and earnestly seek knowledge therein"
+  },
+  {
+    "id": 5976,
+    "topic": "Music and Culture",
+    "premise": "music|intimately|connected|regulates|external|conduct",
+    "conclusion": "Music and li are intimately connected; li regulates external conduct while music harmonizes the inner self"
+  },
+  {
+    "id": 5977,
+    "topic": "Music and Culture",
+    "premise": "proper|music|elevates|spirit|refines|emotions",
+    "conclusion": "The proper music elevates the spirit and refines the emotions; improper music leads to moral dissolution"
+  },
+  {
+    "id": 5978,
+    "topic": "Music and Culture",
+    "premise": "poetry|used|stimulate|mind|train|self",
+    "conclusion": "Poetry can be used to stimulate the mind, to train in self-contemplation, to cultivate sociability, and to express grievances"
+  },
+  {
+    "id": 5979,
+    "topic": "Music and Culture",
+    "premise": "roused|odes|established|perfected|music",
+    "conclusion": "One is roused by the Odes, established by li, and perfected by music"
+  },
+  {
+    "id": 5980,
+    "topic": "Music and Culture",
+    "premise": "ancient|kings|established|music|glorify|achievements",
+    "conclusion": "The ancient kings established music to glorify their achievements and to elevate the moral character of the people"
+  },
+  {
+    "id": 5981,
+    "topic": "The Way (Dao)",
+    "premise": "prevails|world|common|people|discuss|politics",
+    "conclusion": "When the Way prevails in the world, the common people do not discuss politics"
+  },
+  {
+    "id": 5982,
+    "topic": "The Way (Dao)",
+    "premise": "hears|morning|content|evening",
+    "conclusion": "If one hears the Way in the morning, one may die content in the evening"
+  },
+  {
+    "id": 5983,
+    "topic": "The Way (Dao)",
+    "premise": "human|beings|cannot|true",
+    "conclusion": "The Way is not far from human beings; a way that is far from human beings cannot be the true Way"
+  },
+  {
+    "id": 5984,
+    "topic": "The Way (Dao)",
+    "premise": "like|lack|strength|follow|truly|collapse",
+    "conclusion": "It is not that I do not like the Way but that I lack the strength to follow it; those who truly lack the strength collapse along the way\u2014you draw the line beforehand"
+  },
+  {
+    "id": 5985,
+    "topic": "The Way (Dao)",
+    "premise": "gentleman|threefold|attained|benevolent|worries|wise",
+    "conclusion": "The Way of the gentleman is threefold, and I have not attained it: the benevolent have no worries, the wise have no perplexities, the courageous have no fears"
+  },
+  {
+    "id": 5986,
+    "topic": "Friendship and Relationships",
+    "premise": "friendship|upright|truthful|learned|beneficial|fawning",
+    "conclusion": "Friendship with the upright, the truthful, and the learned is beneficial; friendship with the fawning, the two-faced, and the glib-tongued is harmful"
+  },
+  {
+    "id": 5987,
+    "topic": "Friendship and Relationships",
+    "premise": "friends|your|equal",
+    "conclusion": "Have no friends who are not your equal"
+  },
+  {
+    "id": 5988,
+    "topic": "Friendship and Relationships",
+    "premise": "gentleman|associates|form|cliques|petty|person",
+    "conclusion": "The gentleman associates but does not form cliques; the petty person forms cliques but does not associate"
+  },
+  {
+    "id": 5989,
+    "topic": "Friendship and Relationships",
+    "premise": "friends|come|afar",
+    "conclusion": "To have friends come from afar\u2014is this not a joy?"
+  },
+  {
+    "id": 5990,
+    "topic": "Friendship and Relationships",
+    "premise": "worry|about|recognized|others|failing|recognize",
+    "conclusion": "Do not worry about not being recognized by others; worry about failing to recognize others"
+  },
+  {
+    "id": 5991,
+    "topic": "Friendship and Relationships",
+    "premise": "speak|loyally|your|friends|guide|skillfully",
+    "conclusion": "Speak loyally to your friends and guide them skillfully; if that fails, stop\u2014do not bring disgrace upon yourself"
+  },
+  {
+    "id": 5992,
+    "topic": "Simplicity and Contentment",
+    "premise": "coarse|rice|water|drink|bent|pillow",
+    "conclusion": "With coarse rice to eat, water to drink, and my bent arm for a pillow, I still find happiness"
+  },
+  {
+    "id": 5993,
+    "topic": "Simplicity and Contentment",
+    "premise": "riches|honors|obtained|unjustly|like|floating",
+    "conclusion": "Riches and honors that are obtained unjustly are like floating clouds to me"
+  },
+  {
+    "id": 5994,
+    "topic": "Simplicity and Contentment",
+    "premise": "admirable|handful|rice|gourd|water|living",
+    "conclusion": "How admirable Hui was! A handful of rice, a gourd of water, living in a mean street\u2014others would find it unbearable, but Hui did not let it affect his joy"
+  },
+  {
+    "id": 5995,
+    "topic": "Simplicity and Contentment",
+    "premise": "gentleman|calm|ease|petty|person|anxious",
+    "conclusion": "The gentleman is calm and at ease; the petty person is always anxious and worried"
+  },
+  {
+    "id": 5996,
+    "topic": "Simplicity and Contentment",
+    "premise": "refused|instruction|anyone|came|bundle|dried",
+    "conclusion": "I have never refused instruction to anyone who came to me with a bundle of dried meat"
+  }
+]

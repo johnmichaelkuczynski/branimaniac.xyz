@@ -1,0 +1,723 @@
+
+A Crash Course in Analytic Philosophy 
+J.-M. Kuczynski 
+1.0 Philosophy as the analysis of the categories in terms of which understand the world 
+1.1 Knowledge vs. meta-knowledge 
+1.2 The relationship of philosophy to other disciplines 
+1.3 
+How is analytic philosophy different from non-analytic philosophy? 
+
+2.0 
+Frege’s key insight: logical form distinct from grammatical form 
+
+
+2.1 The wrong way to react to grammatical surface-structure 
+2.2 
+The right way to react to grammatical surface-structure 
+
+3.0 
+Analysis vs. ontogenesis 
+
+
+3.1 When is it appropriate to ontologize? 
+3.2 
+Brentano and Meinong: the non-analytic method epitomized 
+
+4.0 
+Empirical puzzles vs. philosophical puzzles 
+
+
+4.1 Empirical puzzles vs. philosophical puzzles (continued) 
+4.2. Philosophical analysis is not linguistic analysis (JK) John’s being aware of the fact that 1 + 1 = 2 involves his being on the receiving end of some causal process initiated by that fact. (LM) “nothing can be a legal system without embodying a certain morality” 
+4.2.1 Not all philosophical analysis linguistic analysis (continued) 
+4.2.2 Not all philosophical analysis linguistic analysis (continued): the nature of sentence-meanings (as opposed to sentences) 
+4.2.3 Not all philosophical analysis linguistic analysis (continued): Frege’s accomplishments reassessed 
+4.2.4 Not all philosophical analysis linguistic analysis (continued): Wittgenstein—an introduction 4.2.5 Is meaning identical with use? 
+4.2.6 The Tractarian contention that philosophical statements syntactically ill-formed nonsense 
+4.3 The Tractarian roots of Logical Positivism 
+4.6 Logical Positivism Evaluated (continued) 
+4.7 LP self-defeating 
+4.7.2 The empiricism-unfriendliness of the concept of confirmation 
+4.8 The brokenness of the concept of tautological truth 
+4.9 
+An alternative to the logical positivist conception of meaningfulness 
+
+5.0 
+The picture theory of meaning 
+
+
+5.1 The picture theory of meaning (continued) 
+5.2 
+The picture theory of meaning (continued) 
+
+6.0 
+(ii) revisited: Formal truth . analytic truth 
+
+7.0 
+Why the concept of a logically perfect language is an incoherent one 
+
+8.0 
+The sub-disciplines composing philosophy 
+
+
+8.1 The philosophy of mind 
+8.2 The philosophy of language 
+8.3 Epistemology 
+8.4 Philosophical logic 
+8.5 Metaphysics 
+8.6 The philosophy of science 
+8.7 Ethics 
+8.8 Political philosophy 
+8.9 The philosophy of religion 
+8.10 Mathematical Logic 
+1.0 Philosophy as the analysis of the categories in terms of which understand the world 
+We understand the world in terms of certain categories (e.g., person, statement, fact, impossibility, existence). Philosophy studies these categories. It delineates their structures. This is its sole function. Thus, philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world. 
+A brief rundown of our most basic beliefs will identify some more examples of such categories: 
+The world isn’t homogeneous. It is articulated into events bearing various causal and, more generally, spatiotemporal relations to one another. Many of these events involve more or less persistent things (rocks, trees, etc.). Some of these things have minds. Most animate (mind-having) beings have sense-perceptions; i.e., they see things, hear things, etc. Most percipient (perception-having) creatures have beliefs. Some of these beliefs are true; others are false. Some of the true ones are cases of knowledge. Some percipient creatures communicate with one another through the use of language. Mastery of a language makes it easier for one to communicate one’s beliefs to others, and it also enhances one’s ability to reason. Rational (reason-capable) creatures tend to make value-judgments. They judge one another’s actions, and sometimes their own, to be good or bad. Creatures that make such judgments tend to regulate their behavior towards one another by means of systems of law, the supposed purpose of which is to ensure that such behavior satisfy the requirements of justice. 
+1.1 Knowledge vs. meta-knowledge 
+Event, space, time, cause, persistence, thing, mind, perception, belief, knowledge, language, truth, value-judgment, law, justice. Whatever we 
+know, we know it through these categories (and others like them—the list is not complete). But even though we cannot think without them, they are seldom the objects of thought. The result is that, although we’re adept at using them, we know little about them. 
+For example, we are excellent at distinguishing linguistic from non­linguistic behavior, which suggests that, at some level, we know what conditions a creature’s behavior must meet if it is to embody knowledge of a language. But when asked to make these conditions explicit, we find we can do so only with great difficulty and only with partial success. So even though we are good at knowing who knows a language and who does not, we don’t know what it is that we know by virtue of knowing this. 
+The same thing mutatis mutandis[1] is true of each one of these categories. We’re excellent at distinguishing between moral and immoral behavior. We know that rape is immoral and that donating money to charity (for selfless reasons) is moral. But when asked to identify the principles embodied in these pedestrian and uncontroversial judgments, we have trouble producing theories that don’t distort them. 
+In general, it’s hard to identify the principles that guide our thoughts. Self-understanding isn’t the mind’s primary function. Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent[2] one. Thus, any case of self-awareness, and therefore of self-understanding, is necessarily derivative of, and for that reason of lesser quality than, some other more fundamental sort of understanding. 
+Being the discipline whose purpose is to delineate the structures of these categories, philosophy has the very non-trivial job of identifying, in as clear and explicit a manner as possible, the conditions that a given thing must satisfy if it is to fall into a given one of these categories. So far as philosophy succeeds in this endeavor, it makes it clear what it is that we are doing when we are doing anything cognitive, be it making an observation or engaging in an extended piece of abstract reasoning. Philosophy is the analysis of the preconditions of all knowledge. It is the analysis of analysis, the logic of logic, the science of science. 
+1.2 The relationship of philosophy to other disciplines 
+The philosopher is interested in the laws governing the laws. He doesn’t want to know what in fact holds. He wants to know what it would even make sense to claim to hold. He wants to know the laws that the laws can’t break. 
+Philosophical knowledge is metaknowledge—knowledge about knowledge. The non-philosopher wants to know specifics. What happened? When did it happen? What did it cause? How did it cause it? The philosopher is interested in these questions only to the extent that knowing the answers to them helps him understand the categories (cause, place, time, etc.) underlying such knowledge. 
+The stranded motorist wants his car to work. He doesn’t care what will get it to do so. The engineer is interested in this. But the engineer is not entirely innocent of the motorist’s epistemic parochialism. The engineer has no interest in what the laws of physics are except in so far as he must know them to create the right mechanisms. But the physicist wants knowledge of the mechanisms only to the extent it will give him knowledge of the laws 
+embodied therein.[3] 
+The philosopher is to the physicist what the physicist is to the engineer and, therefore, what the engineer is to the stranded motorist. The philosopher wants to know what causes what and what mechanisms were involved only to the extent that knowing this helps him understand what it is for one thing to cause another— only, that is to say, in so far as it helps him know what it is that one knows in knowing that one thing made another happen. 
+1.3 How is analytic philosophy different from non-analytic philosophy? 
+John Stuart Mill (1806–1873), the great philosopher and economist, said that he was an expert in but one science, that being the science of science. What he meant was obviously similar to what we’ve been saying. And it was similar, therefore, to what Gottlob Frege (1848–1925), the great philosopher and mathematical logician, meant when he said that logic studies not the laws of nature but the “laws of the laws of nature.” Whether Frege was right depends on what exactly one means by “logic.” But if, by “logic,” he meant “philosophy,” then Frege’s dictum was spot-on. 
+Frege is often described as the first analytic philosopher. Michael 
+Dummett (1925–), an exceptionally capable contemporary philosopher of language, said that “analytic philosophy is post-Fregean philosophy.”[4] What does Dummett mean? 
+With some exceptions, pre-Fregean philosophers thought they were studying the most general features of the actual world. They thought that, like the botanist, they were in the business of saying how the world is, the only difference between their work and the botanist’s being that theirs is concerned with more general features of reality than the botanist’s. 
+Frege showed that this is wrong. Any interest that botanists have in plants that might exist, but don’t, is subordinate to their interest in what plants actually exist. Like all scientists, they are interested in what there could be only to the extent that it helps them figure out what there is. But with philosophers, it’s the other way around. Any interest they have in the actual is subordinate to their interest in the possible. 
+Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements. Statements that make sense are those that an be true, and statements that don’t are those that can’t. Therefore, statements that make sense describe possible realities and those that don’t, don’t.[5] 
+But what exactly did Frege do? 
+2.0 Frege’s key insight: logical form distinct from grammatical form 
+Frege’s legacy to philosophy can be summed up thus: 
+(FL)[6] When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief. But they frequently don’t. Instead they accept the absurdity and, in order to make this mistake of theirs work, they develop ad hoc hypotheses as to the nature of reality that undermine the integrity of their own belief system. 
+Consider the statement: 
+(SC) nothing is a square circle. 
+SC is true. Everybody knows this. But what does SC say? Judging by its grammatical similarity to “Smith is a very capable lawyer,” which attributes a certain property (that of being a capable lawyer) to a certain individual (Smith), SC would seem to say that a certain entity has the property of being a square circle. Presumably, the entity in question is some non-entity. If this presumption is correct, SC says that: 
+(SC*) some non-entity, some featureless un-thing, is a circle. 
+But SC* is doubly incoherent. If anything is a square circle, then SC is false—it being irrelevant how much of a cipher the entity in question is. Second, the very idea of a non-entity is an absurd one. But it’s hard to find a layperson or scholar who, when asked what SC means, comes up with anything substantively different from SC*. 
+Given what a rank absurdity SC* is, we can’t accept it, even though it seems to be an obvious consequence of SC. But we can’t reject SC, since it’s an obvious truth. 
+To get out of this jam, we need only reflect a bit on what our words mean. If you say that nobody likes Larry, you’re not saying that some un-person likes Larry. You’re saying that if you gathered together all the people who liked Larry and put them in an otherwise empty room, that room would remain empty. Which is the same as saying that, if you put all the people in existence in an otherwise empty room, there would be no things that liked Larry in that room. 
+Thus, what “nobody likes Larry” means is not that some un-person likes Larry, and is instead that the set of people who like Larry is empty or, alternatively, that the set of people doesn’t overlap with the set of things that like Larry. 
+SC is to be understood along similar lines. If you put all the square circles in existence in an otherwise empty room, that room would remain empty. This is another way of saying that, if you put all the square things in an otherwise empty room, there would be no circles in that room. So SC says, not some un­thing is a circle, but that 
+(i) The set of things that are both circular and square is an empty one or, alternatively, that 
+(ii) The set of circles doesn’t overlap with the set of squares. 
+(i) 
+is a way of saying that any given thing lacks the property of being both a circle and a square. Alternatively, it’s a way of saying this property doesn’t have any instances—that it’s uninstantiated. (ii) is a way of saying that anything having the property of being a square lacks the property of being a circle. Alternatively, it’s a way of saying that these two properties don’t have any instances in common—that they are not coinstantiated. 
+
+(i) 
+and (ii) thus attribute properties to properties. They say, respectively, that the property of being both a square and a circle is uninstantiated and that the properties of being a square and of being a circle are not coinstantiated. 
+
+
+Since (i) and (ii) are just different ways of saying what SC says, the latter doesn’t make the absurd statement that some non-entity is a circle, and it instead makes the innocuous statement that the set of squares doesn’t overlap with the set of circles or, alternatively, that the property of being a square circle is uninstantiated. 
+What this shows is that, in at least some cases, philosophical insight is acquired, not by doing parascience, but by analyzing meanings—not by positing entities, but by clarifying statements.[7] 
+Analytic philosophy is philosophy that is driven by acceptance of FL. Let us now expand on FL and make it clear why it’s true. 
+2.1 The wrong way to react to grammatical surface-structure 
+In respect of its grammatical form, 
+(JS) “John smokes” 
+is comparable to 
+(MS) “Mary smokes.” 
+JS attributes the property of being a smoker to John; MS attributes that property to Mary. 
+In respect of its grammatical form, each of JS and MS is comparable to: 
+(LJ) “Larry juggles” 
+and also to 
+(JJ) “Jane jogs.” 
+Each of these sentences says of some individual that he or she has a certain property. The obvious inference to make is that any sentence grammatically comparable to any one of those of four sentences says of some individual that he or she (or it) has some property. 
+In light of these points, consider the sentence: 
+(SS) Someone smokes. 
+Given what we just said, the obvious thing to say about it is that it attributes the property of smoking to some individual. But which individual 
+could that be? Which individual does “someone” pick out? 
+“It picks out an ambiguous person,” said one logician.[8] But this answer is no good. Words are ambiguous, not people. “Bank” is ambiguous, since it has two meanings. But I’m not ambiguous, and neither are you. And if per impossibile there did exist some ambiguous person—some blank, featureless shell of a 
+person who was picked out by “someone”—SS would unambiguously say of that person that he or she smoked. But there clearly isn’t any one person to whom SS attributes the property of smoking. This is easily shown.[9] If Smith 
+smokes, the sentence: “someone smokes but Smith does not” will be false. But it won’t be self-contradictory; it won’t be like “Smith smokes but Smith does not smoke.” (For a statement to be self-contradictory is for it to bear two mutually opposed meanings.) Of course, there isn’t anything special about the name “Smith,” what we just said could have been said in connection with Jones or Brown or any other expression that refers to some individual. Thus, there is no individual N such that it is self-contradictory to say that someone smokes but N does not. Therefore “someone” doesn’t refer to anyone. 
+“But you’ve misunderstood my thesis” it will be said. “The word “someone” doesn’t unambiguously pick out an ambiguous person. It is itself ambiguous. It refers to Fred and Ethel and Mary. It refers to all people indifferently.” 
+That’s false. “Someone” isn’t ambiguous; it isn’t like the word “dumb.” SS has one meaning, unlike “John is dumb,” which could mean either “John is unintelligent” or “John is mute.” Also, if “someone” were ambiguous between “John” and “Ethel” and so on, then, depending on the circumstances, it would be synonymous with “John smokes” or “Ethel smokes.” And in that case, “someone smokes, but John does not” would sometimes have the same meaning as “John smokes but John does not smoke,” in which case it would be self-contradictory. But, as we just saw, “someone smokes, but John does not” is not self-contradictory under any circumstances. If John does smoke, it will be false, but it won’t be self-contradictory. 
+Also, it isn’t clear what it means to say that “someone” picks out everyone “indifferently.” But if, as is surely the case, picking out everyone indifferently involves picking out everyone, then it’s just wrong to say that “someone” picks out everyone “indifferently” (or in any other way). For if it did, it would have the same meaning as “everyone,” which it doesn’t. 
+2.2 The right way to react to grammatical surface-structure 
+What all this shows is that “someone” isn’t in the same category as “John” and “Ethel.” It doesn’t function in the same way, even though, given its grammatical function, one would expect it to. SS is obviously true. The wrong way to react to that fact is to twist reality to make it conform to our assumption that “someone,” being grammatically comparable to “John,” must refer to something. If we take that path, we must say that it refers to an “ambiguous” or “non-specific” person, or some such, given that it obviously doesn’t refer to anyone specific. But then we’re then stuck with the absurd thesis that there is some non-specific entity in the world— that there exists something that isn’t identical with any particular thing and therefore isn’t identical with anything. 
+The right way to react to it is to think more deeply about what SS is really saying. Frege did this, and he solved the puzzle. SS’s logical form diverges from its grammatical form. In terms of what its grammar suggests that it is saying, SS is indistinguishable from sentences that attribute the property of smoking to specific objects. In terms of what it really is saying, it is evidently very different from such sentences. 
+What SS is saying, as Frege made clear, is that the characteristic—or as analytic philosophers put it, the property—of being a smoker is instantiated. SS is making a statement, not about some non-specific individual, but about a very specific property, and it’s saying of this property that it’s instantiated. (For a property to be instantiated is for there to be an instance of it. An instance of a property is something that has it. You are an instance of, and therefore instantiate, the property of being human since, being human, you have that property. ) 
+There are properties that nothing has. Nobody has run a three-minute mile. Given any individual, x, it is false to attribute the property of being a person who has run a three-minute mile. Thus, there are no instances of that property. It is uninstantiated. The grammatical form of (“TM” can be thought of as short for “three minutes”): 
+(TM) “nobody has run a three-minute mile” 
+is just like that of 
+(JTM) “John has run a three-minute mile.” 
+JTM clearly attributes that property to an individual. That isn’t what TM does. TM says of that property that it can’t be attributed to anyone. So TM says that (“UP” is short for “uninstantiated property”): 
+(UP) the property of being a person who has run a three-minute mile is uninstantiated. 
+Notice that UP’s grammatical form is the opposite of TM’s. The grammatical subject of TM is “nobody”; the grammatical predicate is “has 
+run a three-minute mile.” By contrast, the grammatical subject of UP is “the property of being a person who has run a three-minute mile,” which corresponds to “has run a three-minute mile,” and the grammatical predicate of UP is uninstantiated, which corresponds to “nobody.” 
+If one were to take TM at face value, and were thus to assume that its meaning paralleled that of JTM, one would have to say that it attributed the property of being a person who has run a three-minute mile to some un­person, or some such. But if this is what it said, then in order to be true, somebody—namely, this unperson— would have had to run a three-minute mile, in which case TM would be false. When we align TM’s real meaning with its grammar, we don’t have to swallow this rank absurdity. For UP says of some very much existent property (that of being a person who has run a three-minute mile) that it has a certain very much existent property (that of being uninstantiated). So we get the right result if we do linguistic analysis. We get the wrong result if we do para-science—if, that is, we posit new entities in order to account for the datum that TM is true. 
+The same thing is true of: 
+(NS) “nothing smokes.” 
+Pre-Fregeans said that NS says of some non-thing—some blank entity— that it smokes. So, supposing that in 500 years nobody smokes, and that NS is therefore true, it will be in virtue of the fact that some blank entity is around that is smoking. 
+But if there is such a thing, and it’s smoking, then NS is false. As long as one thing smokes, NS is false. It doesn’t matter how blank or otherwise deficient that thing is. 
+Frege straightened this all out. By obvious extensions of what we just said, NS’s real meaning is: 
+(NS2) the property of being a smoker is instantiated. 
+NS2‘s grammatical subject (the italicized expression) corresponds to NS’s 
+grammatical predicate; and NS2’s grammatical predicate (the bold-faced 
+expression) corresponds to NS’s grammatical subject. So when we align NS’s logical form (what it actually says) with its grammatical form (what, given its grammar, it appears to say), we no longer have to say, completely absurdly, that NS attributes to some non-specific individual. 
+Similar remarks hold with respect to SC. That statement says of two properties that they aren’t co-instantiated. It doesn’t say of some non-entity that it is both a square and a circle. 
+Philosophical puzzles are solved by making it clear what statements mean. This is the basic tenet of analytic philosophy. Philosophy explains by clarifying statements. Science explains by positing entities. Science posits entities that are not themselves directly encountered but that, if assumed to exist, would account for phenomena that are directly encountered. 
+It used to be thought that philosophical explanation was to be understood in the same way—that philosophical progress was to be made by positing entities that are not themselves directly known but that, if assumed to exist, explain what is directly known. This is not the case. Philosophy isn’t para­science. Philosophy is conceptual analysis. To make a philosophical discovery is not to discover a new entity; it is to make explicit a previously unrecognized implication of an existing belief. Philosophy is explication; it is the clarification of the statements that we accept but whose depths we haven’t 
+yet fully fathomed.[10] 
+3.0 Analysis vs. ontogenesis 
+In the works of analytic philosophers, one sometimes comes across the word “ontology,” which, etymologically, means “the study of being” (“ontos”= “being,” “logos”= “study”). These days the word “ontology” is usually used to refer to a given philosopher’s beliefs as to what exists. Some philosophers don’t believe in non-spatiotemporal entities. So such entities don’t belong to their “ontology.” Since I do believe in them, they do belong to my “ontology.” 
+Analytic philosophers are, almost by definition, ontologically very conservative. In other words, they don’t want to grant existence to anything whose existence hasn’t been demonstrated beyond a shadow of a doubt. 
+Pre-analytic, pre-Fregean philosophers were ontologically very liberal. Consider the statement: 
+(TP[11]) no person is over 20-feet tall. 
+Pre-Fregean philosophers took TP to say that there existed some non­person who was over 20-feet tall, and they engaged in a great deal of spurious “ontologizing” to validate this analysis. Frege showed that this ontologizing, in addition to being futile, is unnecessary. TP says that a certain property (that of being a person who is over 20-feet tall) has another property (that of not being instantiated). No 20-foot tall (un)person need be postulated. No ontologizing need be done. By contrast, non-analytic (pre-Fregean) philosophers often countenanced bizarre and even logically impossible entities to cover up deficits in their analyses. 
+3.1 When is it appropriate to ontologize? 
+As a general rule, analytic philosophers do not try to solve philosophical problems by “ontologizing”—that is, by positing an entity, or class of entities, not previously believed to exist. They try to solve them by clarifying statements. In some cases, the results of a successfully clarified statement do demand that we grant existence to something to which we’d otherwise deny existence. But, whenever this happens, the “entity” being posted is never a denizen of the spatiotemporal world; the thing that’s posited is never a person or a table or a mountain or a monster. It’s always an abstract object of some kind, and it’s posited only because, were it not to exist, it would be impossible to account for the truth of obviously true statements. 
+For example, given the premise that Bob and Sally are both humans who 
+are intelligent, it follows that there exist characteristics—or, to use the word preferred by analytic philosophers, properties[12]—that Bob and Sally have in common, and from this it follows that properties exist. 
+Given that properties exist, are they identical with spatiotemporal entities (i.e., with things that have locations in space and time)? Obviously, instances of properties at least sometimes exist in space-time. Bob and Sally, both instances of many properties, exist in space and time. But although you may encounter many instances of intelligence, you’ll never encounter intelligence per se and it would make no sense to assign any spatiotemporal location to it. Thus, to validate the rather rudimentary inference from “Bob and Sally are both intelligent and kind,” it is necessary to grant the existence of non­spatiotemporal entities and thus to do a bit of ontologizing. 
+So even though analytic philosophers do ontologize, they do it only when there is no other way of demonstrating the legitimacy of some indisputably correct form of inference, and they never posit anything nonspatiotemporal in the process. 
+3.2 Brentano and Meinong: the non-analytic method epitomized 
+According to Franz Brentano (1838–1917), the essence of the mental is intentionality. In this context, the word “intentionality” refers, not to the property of being done deliberately, but to the property of being representational. So, in Brentano’s view, for something to be a mental entity is for it to be representational, and for something to fail to be a mental entity is for it to be non-representational. 
+To be sure, there are non-mental things (e.g., deposits of ink or pain) that are representational. Utterances and ink deposits are representational, even though they aren’t mental. But this isn’t a threat to Brentano’s position. Utterances (etc.) are representational only in a derivative sense. It’s because we endow it with meaning that an utterance of “snow is white” is meaningful; in a world devoid of sentient beings, it would just be another noise. So Brentano’s thesis is that for something to be mental is for it to be non-derivatively representational. 
+There is an apparent problem with Brentano’s thesis. To be representational is presumably to represent something. Hallucinations are mental entities. But what does a hallucination of a pink elephant represent? A pink elephant? No—pink elephants don’t exist. More formally, there is nothing x such that x is a pink elephant. A fortiori there is nothing x such that x is a pink elephant that is represented by some hallucination. Still, there is clearly a sense in which hallucinations of pink elephants and other non­entities are representational. How is this to be explained? 
+The solution to this problem lies in the fact that perception is description. If you’re looking at an actual elephant, which we’ll call “Larry,” the information encoded in your visual perception isn’t the effect that: 
+(LP[13]) Larry is standing over there, next to that tree, looking ill [etc.]. 
+When you look at an elephant, or a person, or a rock, you don’t just see that object. Seeing Larry involves seeing a thing having various properties— having a certain color, shape, size, position (relative to you), etc. So seeing Larry involves seeing that various properties are instantiated—that there is an instance, in a certain place, of a certain morphology, color, etc. 
+Perceptions of things aren’t like sentences about them. In the sentence: 
+(LS[14]) “Larry is standing over there, next to that tree, looking ill [etc.]” 
+Larry is represented by a single, semantically simple symbol (namely, “Larry”).[15] But in no sense-perception of Larry is he represented by some simple, homogenous, non-composite cipher. So far as he is perceived, Larry is represented as having these or those properties. This means that seeing him involves seeing that these or those properties are instantiated. 
+It’s not as though in addition to seeing an instance of a certain morphology, color, etc., you also, separately from that, see Larry.[16] No, your seeing Larry consists in your seeing those property-instances—in your seeing that such and such properties are instantiated. Thus, the content of your perception of Larry is given by some existence-claim similar to the following: 
+(LC) There exists, over in that place at the present time, instances of such and such properties. 
+An existence-claim is any claim to the effect that some property is instantiated. Thus, “there are prime numbers” is an existence-claim, and sufficient since it says that the property of being a prime number has at least one instance. 
+Given any existence claim, anything having the requisite properties is said to satisfy it. So the number seven satisfies the just-mentioned existence-claim. The number two uniquely satisfies “there is an even prime,” since (a) it satisfies it and (b) nothing else does. 
+When you look at Larry, your eyes are giving you an existence-claim. Given that Larry, and Larry alone, satisfies that existence-claim, he is the object of your perception. So given that Larry uniquely instantiates the property of being a thing in such and such a place that has such and such a morphology (etc.), Larry is the object (or, more likely, one of the objects) of your current perception. So, yes, your perception does represent Larry. But it represents him by way of encoding an existence-claim that he satisfies. 
+Given this, suppose that, the next day, you have a hallucination that is experientially just like the veridical perception we’ve been talking about. (A “veridical” perception is an accurate one. “Veridical” is to perceptions what “true” is to sentences. For some reason, perceptions are described as “veridical,” not as “true.”) So even though neither Larry nor anything that looks like him is in front of you, your visual experience is telling you otherwise. That hallucination thus gives you a false message. The message encoded in it will be similar to LC. That message is to the effect that, in a certain place, there is a thing having such and such morphological, chromatic, kinematic (etc.) properties. On this occasion, the message—the existence­claim—in question is false, the reason being that nothing satisfies it. (Yesterday, the message represented by your visual experience was correct, the reason being that the existence-claim in question was satisfied.) The important point is that, although it was hallucinatory, your visual experience encoded an existence-claim and, in so doing, gave you a message and was therefore representational. It wasn’t representational in the sense that there was some thing that it picked out and, for that reason, represented. It was representational in the sense that it gave you a message, albeit a false one, and thus represented the world as being a certain way. 
+Your visual perception of yesterday, unlike your visual perception of today, encoded a true existence-claim. But your visual experience of today no more represents some non-existent entity than your sense-perception yesterday. Your visual experience today has for its content a false proposition to the effect that there is a thing having thus and such properties. But just as the sentence “there does not exist a ten-foot tall man” does not, in order to be true, require the existence of a ten-foot tall man, so your perception doesn’t require the existence of an elephant before you. 
+The same thing is true of thoughts about the non-existent. When you think about some non-existent number—for example, an even prime greater than two—there isn’t some mathematically impossible entity that you’re cognitively locking onto. What’s going on is that you’re thinking some false existence-claim along the lines of: there is some number n such that n is both even and prime [etc.]. 
+Mental entities have propositions for their contents. (A proposition is a truth or a falsehood.) When correct, those propositions describe existing things. When false, they don’t. But nothing non-existent or quasi-existent can be the object of a thought or perception. When we describe a thought or perception as having a “non-existent object,” what we mean, so far as what we mean is coherent, is that it has for its content an existence-claim that nothing satisfies. 
+But Brentano dropped the ball. He realized that hallucinations are, in some significant sense, representational. Wishing to reconcile this with the fact that there are no pink elephants (etc.), he said that a hallucination of a pink elephant has a non-existent pink elephant for its object.[17] 
+But that’s absurd, since it’s the same as saying: “there exists some elephant x such that x doesn’t exist and such that what you are hallucinating is x.” 
+In a failed to attempt to deal with this, Brentano distinguished different kinds of non-existence, and he used different terms to mark them (“inexistent,” “non-existent,” “un-existent,” etc.) His pupil, Alexius Meinong (1853–1920), added another bogus category to this list—the category of “subsistent” entities. An entity “subsists” if it doesn’t quite fail to exist, but doesn’t quite succeed in existing either. 
+This entire approach is misguided. Brentano and Meinong were ontologizing when they should have been analyzing. Properly analyzed, hallucinations no more require the existence of non-existent existents than veridical perceptions. The same is true of thoughts about Bart Simpson, the Fountain of Youth, etc. 
+4.0 Empirical puzzles vs. philosophical puzzles 
+Some puzzles result from ignorance of spatiotemporal facts. My valuables start disappearing. I’m puzzled. I learn the relevant facts: Larry has been sneaking into my house and stealing my valuables. I’m no longer puzzled. 
+The puzzles that science deals with typically involve a failure to know all the facts. The problem isn’t that anyone is making erroneous inferences. The problem is that not all the facts are in. It isn’t yet known that disease X results from an over-production of antibody Y. The reason it isn’t yet known is that, given the available data, there isn’t yet good reason to believe it. But once the data is in, it will be believed, and a cure will be forthcoming. 
+Of course, scientific puzzles seldom result entirely from a failure to have the relevant data. In most cases, scientific breakthroughs involve somebody’s figuring out a new and better way to model already available data. 
+The pre-history of relativity theory vividly illustrates this principle. If a train rushes past you at a rate of 100 mph, and I rush past you at a rate of 70 mph, the train is traveling at a rate of 30 mph with respect to me. But if a light beam rushes past you at a rate of 186,000 miles/second, and I rush past you at a rate of 180,000 miles/second, the light beam rushes past me at a rate of 186,000 miles/second. There is thus is no optical test for determining one’s 
+own state of motion.[18] In other words, no matter how quickly you travel, you will not be able to detect any change in your velocity relative to that of a light beam. People and instruments not traveling with you will be able to detect changes in your velocity relative to that of a light beam, and you will be able to detect changes in their velocities relative to that of a light beam. But nobody can detect any changes in his own velocity relative to that of a light beam. 
+This deeply puzzling fact was established in 1879. But nobody had any idea how to explain it until, in 1905, Einstein put forth the Special Theory of Relativity. Einstein didn’t cite any data that hadn’t been available to the physics community for decades. Einstein’s great innovation was of a conceptual nature. The facts were in, but he was the first to make sense of them. 
+Be all of this as it may, Relativity Theory is an empirical theory. It’s based on observational and experimental data, much of which would be impossible to acquire except through carefully executed experiments. This data wasn’t in until 1879. So even though nobody came up with Relativity Theory before 1879, that fact can’t be chalked up to the fact that nobody drew the right inferences. It is due, at least in part, to the fact that the necessary data simply wasn’t available. (What can be chalked up to a failure to draw the right inferences is the fact that, during the period from 1879 to 1905, nobody came up with Relativity Theory.) 
+In general, scientific breakthroughs have two components: (i) a strictly fact-based component (new raw data is acquired), and (ii) a purely conceptual component (already known data is modeled in a new and better way). 
+4.1 Empirical puzzles vs. philosophical puzzles (continued) 
+Unlike scientific puzzles, philosophical puzzles are not solved by generating new raw data. Philosophical puzzles are purely conceptual in nature and have no strictly factual component.[19] Philosophical puzzles result, not from a failure to know the facts, but from a failure to draw the right inferences. They result, not from ignorance, but from confusion. In figuring out that: 
+(NS2) the property of being a smoker is instantiated 
+is what is meant by 
+(NS) “nothing smokes,” 
+Frege solved a number of outstanding philosophical problems. But Frege didn’t make any new empirical discoveries. In fact, his work didn’t involve him having access to any empirical information that wasn’t available to 
+anyone who knows what (NS) (or its German equivalent) means.[20] Einstein’s work, by contrast, had a heavy empirical component: he was modeling facts that a layperson would know nothing about, and the same thing mutatis mutandis is true of any scientific discovery. 
+4.2. Philosophical analysis is not linguistic analysis 
+Impressed by Frege’s philosophical successes, many came to the conclusion that all philosophical puzzles are of a purely linguistic nature. The most famous, and also the most vehement, advocate of this view was Ludwig Wittgenstein (1889–1951). This thesis was the cornerstone of this work. He urged acceptance of it in practically everything he wrote during his long career. He said it before others said it, and he held onto it long after, for reasons to be described forthwith, most of its erstwhile supporters rejected it. “Philosophical confusion begins when language goes on holiday,” he said. 
+Elsewhere[21] he said that all philosophical confusion “lies in a failure to understand the workings of our own language.”[22] 
+But this position is incorrect. There are many philosophical puzzles that don’t have anything to do with language, and the solutions to these puzzles cannot be modeled on Frege’s solutions to the puzzles discussed a moment ago. 
+Here’s an example from epistemology.[23] You couldn’t see the book in front of you were it not for the disturbances of your eyes brought about by the light-rays bouncing off of it. In general, nothing can sense-perceive anything that doesn’t affect it. All knowledge of what is in space-time is rooted in sense-perception. (If it’s in space-time, it isn’t known unless it’s directly 
+perceived or evidence of it is perceived.) Taking it for granted that nothing that isn’t space-time can possibly be known, many contemporary epistemologists, e.g. Jerry Fodor[24], hold that one can’t know of anything without being affected by it. Thus, such philosophers hold that: 
+(JK) John’s being aware of the fact that 1 + 1 = 2 involves his being on the receiving end of some causal process initiated by that fact. 
+I personally regard JK as being absurd in the extreme.[25] The fact that 1 + 1 = 2 isn’t comparable to the fact that there is a book in front of you. Were mass-energy distributed differently, there wouldn’t be a book in front of you. But 1+1 would equal 2 no matter how mass-energy were distributed. Thus, “1 
++ 1 = 2” says nothing about how mass-energy is distributed, and it therefore says nothing about the spatiotemporal world. The fact it describes must therefore be non-spatiotemporal. Nothing outside of space-time can bear any 
+causal relation to anything. Therefore, JK is wrong.[26] 
+In any case, the dispute between those who accept JK and those who reject it has nothing to do with language. It’s agreed what JK means. What isn’t agreed is whether the thing that it’s agreed to mean is true. 
+But the controversies surrounding NS do concern language; they concern the semantics of the word “nothing.” Those who see “nothing” as being a referring term, like “Socrates,” see NS as saying that some featureless entity smokes. Those who deny that “nothing” and “Socrates” belong to the same semantic category don’t see NS as saying this. Therein lies the controversy. Nothing comparable to this holds in connection with JK. 
+Analytic philosophers do agree that the right way to figure out whether or not JK is correct is by carefully analyzing its meaning.[27] But they also hold (rightly) that it isn’t to be solved through linguistic analysis. It must be emphasized that, according to analytic epistemologists, this puzzle is of a logical, not an empirical, nature. It is to be resolved through statement-analysis alone, not through statement-analysis combined with 
+empirical research. They’re clearly right about this. JK says that John’s knowing that 1+1=2 is inconsistent with his not being on the receiving end of a causal process initiated by that fact. For P to be inconsistent with Q is for it to be impossible for both P and Q to be true. What is impossible or the otherwise non-existent cannot be observed. Thus, observation cannot tell you that anything is inconsistent with anything. So there is no way for it to tell 
+you whether JK is correct.[28] 
+The philosophy of law provides us with another example of a puzzle that is to be solved through statement-analysis but not through linguistic analysis. It’s agreed that legal systems can be morally good. But it’s fiercely debated whether they have to be. According to some, a legal system can fail to embody any morality at all. Law is about power, not morality. Advocates of this view are known as legal positivists (no relation to logical positivism). According to anti-positivists, anything that doesn’t meet certain minimal standards of morality ipso facto isn’t a legal system. To be sure, legal systems, like all institutions, presuppose the existence of relatively rigid distributions of power. But if an institution qualifies as a bona fide legal system, it is at least partly by virtue of its embodying a certain morality. 
+Positivists and anti-positivists disagree as to whether: 
+(LM) “nothing can be a legal system without embodying a certain morality” 
+is a true sentence. But this debate has nothing to do with semantics. Positivists and anti-positivists are in agreement as to what LM means. What they disagree about is whether the meaning that they agree that it has is a correct one. What analytic philosophers of law, such as positivist H.L.A. Hart (1907–1992) and anti-positivist Ronald Dworkin (1931–) , do agree about is that LM is to be resolved on the basis of logical analysis. 
+Echoing what we said a moment ago, analytic philosophers deny that LM makes an empirical statement. They’re right. LM says that x’s being a legal system is inconsistent with x’s failing to embody a certain morality. We’ve already seen why the merits of such a claim cannot possibly be determined on the basis of observation. 
+No philosophical assertions are empirical. Philosophy analyzes the categories in terms of which we think about the world. It does this by saying exactly what it is that is ruled out by a given thing’s falling into a given category—by, for example, a given thing’s being an instance of knowledge. Since observation can’t tell one whether one statement is inconsistent with another, philosophical assertions are non-empirical. 
+4.2.1 Not all philosophical analysis linguistic analysis (continued) 
+Thus, not all philosophical puzzles are linguistic puzzles; and Wittgenstein was wrong to say otherwise. But didn’t we ourselves say that philosophical analysis is the analysis of statements? Yes we did, and we were right to do so. To see why, Wittgenstein is nonetheless wrong, we must distinguish sentences from propositions. Propositions are the things meant by sentences. “Snow is white,” “schnee is weiss,” and “la neige est blanche” all mean the same thing. There is some one proposition that is the meaning of 
+each of them.[29] 
+A sentence is true or false depending on whether it has a true or false proposition for its meaning. Thus, when a sentence is described as “true,” the property being attributed to it isn’t the same as the property that is attributed to a proposition that is so described. For a sentence to be “true” is for it to encode a true proposition. But this isn’t what it is for a proposition to be true, since propositions don’t encode anything. What exactly it is for a proposition to be true? Though imprecise, the obvious answer to this question is the right one; namely, for a proposition to be true is for it to fit the facts. 
+The term “statement” is ambiguous; it has three distinct meanings. Sometimes it refers to propositions, sometimes it refers to the sentences used to affirm them, and sometimes it refers to the act of using a sentence to affirm a proposition. Wittgenstein didn’t countenance the existence of propositions, and this obviously had a hand in his erroneously believing that philosophy is the analysis of sentences, when the truth is that philosophy is the analysis of propositions. Even Frege’s analyses of sentences such as “someone snores” and “nothing is a square circle” fail to conform to Wittgenstein’s conception of what philosophy is supposed to do, since, as we’ll see in a moment, they’re analyses of propositions that involve analyses of sentences and, therefore, are not themselves analyses of sentences. 
+One must know at least some English to understand the sentence: 
+(1) “John knows that 1 + 1 = 2” 
+But the proposition meant by that sentence can be grasped without speaking English; and one needn’t know English, or any other given language, to be able to analyze that proposition correctly. 
+But analyzing (1)—the sentence, not the corresponding proposition—does involve such knowledge. A sentence is an expression; it consist of nouns, verbs, etc. Analyzing (1) involves knowing the various grammatical nuances involved in its structure. Analyzing the corresponding proposition has nothing to do with anything relating to grammar or any other aspect of language. No such knowledge is needed to analyze the corresponding proposition. 
+Even though Frege’s work inspired many to identify philosophy with sentence-analysis, Frege himself always made it very clear that propositions are not sentences and that, although sentences are human creations, their 
+meanings are not.[30] 
+The sentence “the moon is less massive than Earth” is a human artifact; it didn’t exist until a few centuries ago. But the truth it expresses is in a different category. That truth exists independently of us. After all, the moon was less massive than the Earth before we came along, and it’ll be that way after we sign out. For the same reason mutatis mutandis, the falsehood expressed by “the Earth is more massive than the moon” exists independently of our thoughts and deeds, even though that sentence itself is a human artifact. 
+
+4.2.2 Not all philosophical analysis linguistic analysis (continued): the nature of sentence-meanings (as opposed to sentences) 
+What are propositions? They are properties. For a proposition to be true is for the world to be a certain way. The proposition that Smith is in Richmond is true if the world is a certain way and it’s false if it isn’t. (If mass-energy is distributed one way, Smith is in Richmond; if it’s distributed some other way, he isn’t.) For a thing to be a certain way is for it to have a certain property. To be round is to be one way; to be square is to be some other way. To be round 
+is to have one property; to be square is to have some other property.[31] Thus, the world’s being a certain way is identical with its having a certain property. Since, therefore, the world’s being a certain way is identical with some proposition’s being true, propositions must be identified with properties and a proposition’s being true must be identified with its being instantiated. 
+Propositions are properties and truth is instantiatedness.[32] 
+It’s widely thought that propositions are human creations. This is false. The world was a certain way before we were around; it will be a certain way after we’re gone; and the way it is while we’re around is up to us only to a 
+limited extent.[33] It follows that, independently of our having any beliefs or, indeed, our doing or thinking anything, certain propositions are true; and it follows from this that propositions are not human creations. Sentences, on the other hand, are human creations. They wouldn’t be around if it weren’t for us. So sentential analysis is a very different thing from propositional analysis. 
+
+4.2.3 Not all philosophical analysis linguistic analysis (continued): Frege’s accomplishments reassessed 
+But didn’t we say that Frege’s great accomplishment lay in his insights concerning sentences—in his seeing that a sentence’s surface structure sometimes pulled part from its deep structure? And didn’t we say that, for this very reason, Frege was the first analytic philosopher—that, as Michael Dummett put it, analytic philosophy is post-Fregean philosophy, the reason being that analytic philosophy is statement-analysis? Yes, we did say all this. And yet we just spent a lot of time saying how analytic philosophy is “statement-analysis” only in the sense of being statement-meaning-analysis; that is, proposition-analysis, as opposed to sentence-analysis. How are we to reconcile those various statements with one another? 
+The term “analytic philosophy” can be construed narrowly or broadly. Construed narrowly, analytic philosophy is post-Fregean philosophy in the sense that it directly flows out of Frege’s work. Frege was interested in reference, quantification, the nature of logical truth, the extent to which it’s possible to formalize intuitively valid inferences, etc. (These terms will be defined soon enough, if they haven’t been already.) The term “analytic philosophy” sometimes refers to what is done by those people who write about those very questions and who, in so doing, are taking what Frege had to say about them into account. In other words, “analytic philosophy” sometimes refers to the philosophy of language, along with a related branch 
+of philosophy, known as philosophical logic.[34] 
+But Frege’s work had a profound influence on philosophers who were working in areas that have no direct connection to language or logic. Frege showed that, by thinking clearly, systematically, and self-critically, one could make real headway on philosophical problems in which others had yet to make so much as a dent, despite hundreds of years of trying. “The devil is in the details,” as they say. Pre-Fregean philosophers tended to disregard the details. Frege did not. He was a stickler for them. And it was partly, though obviously not entirely, for this reason that he was able to solve problems that his predecessors could not. The word “analytic philosopher” sometimes refers to the sort of philosophy done by people who aspire to approach philosophical problems in the same careful and clear-headed way as Frege. 
+Thus, there are analytic philosophers of law, analytic ethicists, analytic philosophers of religion, etc. What makes them analytic philosophers isn’t that they’re talking about language or logic or any of the things that Frege talked about. It’s that they believe the problems they’re concerned with to be solved in the same coolheaded, logical way that Frege solved problems 
+relating to language and logic.[35] 
+But even when taken in the narrow sense, “analytic philosophy” (i.e., philosophical logic/the philosophy of language) is only misleadingly described as the analysis of sentences. Philosophers of language are interested in the sentence: 
+(NS) “nothing is a square circle” 
+only to the extent that, by understanding it, they will deepen their insight into concepts of a general kind (e.g., meaning, analytic truth, modality). Linguists, on the other hand, are interested in those concepts only to the extent that an understanding of them will help them understand specific sentences, such as NS. Frege did indeed painstakingly analyze specific sentences. But he did so only because he knew that, by so doing, he could identify general logical principles. Thus, for Frege, his insight that logical and grammatical form pull apart was ultimately just a means to an end, the end being the identification of the actual nature of the bearing-relations that propositions have with respect to one another. So, yes, analytic philosophy is statement-analysis; and, yes, it was Frege’s brilliant analyses of sentences that availed philosophers of the principles needed to analyze statements properly. But analytic philosophy, even the narrow sense of the term, is not itself sentential analysis. 
+
+4.2.4 Not all philosophical analysis linguistic analysis (continued): Wittgenstein—an introduction 
+Wittgenstein’s two best-known works are the Tractatus Logico­philosophicus (TLP), which he completed in 1921, and the Philosophical Investigations, which he completed in 1949. In many ways, these works are antithetical to each other. But in both of them, Wittgenstein insists that that philosophical problems arise when, and only when, sentences are misused and are solved when, and only when, it is made clear how they are being misused. 
+In the TLP, Wittgenstein contends that all philosophical problems result from a failure to understand the syntactic rules of the languages we use. Sentences that would, if meaningful, express philosophical propositions are in all cases ungrammatical nonsense and thus fail to say anything. All such sentences violate the syntactic rules of the languages to which they belong. Because they violate these rules in subtle, easily overlooked ways, they aren’t always seen for the abject nonsense that they are. But we mustn’t let the appearances deceive us. All such sentences are syntactically ill-formed and therefore devoid of meaning, and there would be no philosophical problems if people fully understood the syntactic rules of the languages they spoke. So far as philosophy has any legitimate function, it is to identify these rules, thereby heading off the syntactic blunders that lead to philosophical puzzlement. 
+In the Philosophical Investigations, Wittgenstein says, just as he does in the TLP, that philosophical problems arise when language is misused. But in the Investigations, he denies that such misuses involve violations of hidden syntactic rules, and instead says that such misuses consist exclusively in one’s using words in ways in which they are not ordinarily used. Thus, Wittgenstein’s position in the Investigations is that all philosophical problems can be quickly and definitively solved by looking at how words are actually used and, on the basis of the knowledge thereby obtained, ceasing to use words in deviant ways. What we think of as philosophical puzzles concerning knowledge, logic, and morality are puzzles about the words “knowledge,” “logic”, and “morality.” Those puzzles are created by our using those words in non-standard ways, and they’re solved by our ceasing to do so. 
+
+4.2.5 Is meaning identical with use? 
+In a moment, we’ll evaluate Wittgenstein’s (1922) contention that all philosophical statements are ungrammatical nonsense. Right now, let us consider Wittgenstein’s (1958) contention that philosophical puzzles are dissolved by looking at how words are used. 
+This contention is incoherent on many levels. Given only the acoustical and morphological properties of its spoken and written occurrences, the word “knowledge” could mean anything.[36] So, supposing that it’s the concept of knowledge that we wish to learn about, we can’t possibly know that the word “knowledge” is the right word to study unless we know that it expresses the right concept. But we can’t possibly know that unless we have some way of grasping that concept that doesn’t involve that word. So we can’t even act on Wittgenstein’s exhortation that we study knowledge by studying how people use the word “knowledge” unless we have some way of grasping the concept of knowledge that doesn’t involve that word. But if we don’t need that word to grasp that concept, we don’t need it to it study it; and if we don’t need it to study it, then Wittgenstein is simply wrong to say that one must study how it is used to understand the concept it expresses. Given any expression E and any concept C, an obvious extension of this argument shows that one can’t learn about C by studying E unless one can grasp C, and can therefore examine it, without E’s help. Thus, Wittgenstein is simply wrong to contend that one learns about concepts by learning about how the corresponding words are used. 
+“But you’ve over-stated what Wittgenstein is claiming,” it will be said. “Contrary to what you allege, he wasn’t saying that concepts are to be learned about solely by looking at how the corresponding words are typically used. He was saying only that knowledge of expression-usage would be a useful adjunct to some other, more important way of knowing about concepts.” If that’s what Wittgenstein is saying, then he’s conceding 
+everything said the preceding paragraph.[37] To grant that there is any expression-independent way of grasping concepts is to grant that expression-usage is to be evaluated in light of the very conceptual knowledge that, according to Wittgenstein’s thesis, one is supposed to acquire through the study of expression-usage. 
+But there’s a problem with our argument. It assumes that, given a meaningful expression (e.g. “knowledge”), there is some object that is its meaning. Wittgenstein rejects this assumption. He holds that there is no entity that is the meaning of “knowledge.” Wittgenstein’s position is, I quote, that 
+“meaning is use.”[38] In other words, for an expression to have a given meaning is for it to be used in a certain way. An expression’s having a given meaning does not, in Wittgenstein’s view, involve there being some entity that is its meaning. 
+Before we evaluate this contention, we must make a few facts about it clear. Wittgenstein isn’t making the uncontroversial point that how expressions are used is a function, in part, of what they mean. Nor is he making the equally innocuous point that how an expression is used may have effects on what it means. (“Probable” used to mean “capable of being definitively established.” Enough people used it to mean “likely, but not certain”; and, for that reason, that’s what it now means.) He is saying that what it is for an expression to have a given meaning is for it to be used in a certain way. Here is his argument: 
+(WA[39]) According to some philosophers, there is some entity that is the 
+meaning of “snow is white” and some other entity that is the meaning of 
+“grass is green.” These entities are known as propositions. Propositions 
+(if existent) are non-spatiotemporal entities.[40] 
+The very idea of such an entity is of doubtful coherence. And even if 
+such entities do exist, they’re nothing to us. We can’t see them or touch 
+them or otherwise have anything to do with them. So, even if they do exist, 
+they have no role in human affairs. At the same time, “snow is white” and “grass is green” differ in meaning. So we must find a way of saying what it is for two expressions to ‘differ in meaning’ that doesn’t involve our positing meanings. 
+This can be done. “Snow is white” isn’t used in the same way as “grass is green.” There are situations that prompt utterances of the one that don’t prompt utterances of the other. By the same token, if they were used in the same way—i.e., if there were no situation that prompted utterances of the one that didn’t prompt utterances of the other—then they wouldn’t differ in meaning. If the sensory stimulations that induced people to say “grass is green” coincided with those that prompted people to say “snow is white,” 
+there would be no significant sense in which they “differed in meaning.”[41] Thus, two sentences S1 and S2 coincide in meaning exactly if they are used in 
+the same way. So instead of identifying the meaning of “grass is green” with some non-spatiotemporal entity—with some entity whose existence is in doubt and whose role in human affairs, supposing it to exist, is also in doubt—we can just say that two expressions “have the same meaning” if they’re used in the same way. An obvious corollary is that for an expression to have this as opposed to that “meaning” is for it to be used in this as opposed to that way. 
+Were WA cogent, Wittgenstein would be doing to meanings what Frege did to square circles. Frege got rid of square circles by showing that sentences appearing to require their existence (e.g. “square circles simultaneously have, and lack, uniform curvatures”) are equivalent to sentences that don’t (e.g. “the statement x is a circle entails x has a uniform curvature and the statement x is a square entails x does not have a uniform curvature”). Wittgenstein wishes to get rid of meanings by showing that statements appearing to require the existence of expression-meanings are equivalent to statements (about expression-usage) that don’t. 
+This wish of Wittgenstein’s embodies some very wrong views as to what linguistic expressions are. A burst of noise that doesn’t have a meaning is just a burst of noise. A burst of noise is an expression only if it has a meaning. But if it already has a meaning, then how it’s being used isn’t what gives it its meaning. 
+Our knowledge of what words mean is what guides our linguistic behavior. Expressions have meanings. We know this. And that’s why we use expressions in the way we do. I know what “hug” means; I also know what “discuss” means. That’s why, when talking to my students, I say “I want to discuss the exam,” and not “I want to hug the exam.” If meaning were use, meaning couldn’t guide use. But it obviously does. 
+To the extent that meaning doesn’t guide use, people are misspeaking. Wanting to tell you that you’re an absolute genius, I say “you’re an absolute moron,” since, despite my generally good command of the English language, I wrongly think that “moron” means genius. To the extent that my uttering those words embodied a failure to know the actual meaning of what I was saying—to the extent that meaning failed to guide use, in other words—I misspoke. And to the extent that my uttering those words embodied a knowledge of what they meant—to the extent that meaning did guide use, in other words—I spoke properly. This shows that, to the extent that utterances aren’t simply defective, meaning guides use and, consequently, that use is not constitutive of meaning. 
+Bearing these points in mind, let us revisit Wittgenstein’s (1958) contention that it’s a philosopher’s job, not to analyze concepts or meanings or other such alleged phantasms, but merely to take note of when words like “justice,” “knowledge,” and “truth” are used. What would it be to do this? The situations in which the word “justice” is used don’t necessarily have any observable characteristics in common with one another. It’s not as though people utter the word “justice” when, and only when, they’re just been bitten by a cat. This isn’t to say that uses of the word “justice” cannot be correlated in any way with facts about the situations in which those uses occur. Such correlations clearly can be made. People are likely to use that word when they’re in classes concerning ethics or the philosophy of law; they’re likely to use it when they believe that they’ve been wronged; they’re likely to be used by politicians who want people to believe them to be worthy of holding office. 
+The italicized terms express extremely abstract concepts; and utterances of those words are no more capable than utterances of the word “justice”‘ of being correlated with observable facts about the contexts in which they occur. So, while a person‘s decision to use the word ‘justice’ (or “knowledge” or “law,” etc.) may obviously have a situational basis, there is no way to identify that basis except in terms of the very concepts that, according to Wittgenstein, are to be studied by figuring when those terms are used. In other words, any correct generalization as to when words like “justice,” “logic,” “knowledge” and “morality” are used will itself employ the very concepts that, according to Wittgenstein, knowledge of such generalizations is supposed to yield. 
+These reflections bring us face to face with an incoherence inherent in all of the different variants of the contention that philosophy is sentence-analysis. To speak isn’t just to make noises; it’s to make noises for the reason that one believes those noises to have certain meanings. I’m with my friend Larry. All of a sudden he starts convulsing and foaming at the mouth. I call 9-1-1 and say (i) “my friend is foaming at the mouth and convulsing; please send help.” Why did I choose those words? Why didn’t I say (ii) “I like pizza” or (iii) ‘“giraffes are friendly creatures”? Because I know that (i) has the right meaning and that (ii) and (iii) don’t. In general, speaking consists in making noises for the reason that one believes that, given existing semantic rules, those noises have certain meanings. If somebody makes a noise that he does not believe to be assigned a meaning by any semantic rule, he isn’t speaking. If, not believing that the noises I’m about to make are assigned any meaning by any semantic rules, I say “blurga dunga blurbo,” I am not speaking. I’m just making noise. Maybe the semantic rules of some language do assign them a meaning. That doesn’t matter. My making that noise wasn’t guided by my knowledge of such rules. So I wasn’t 
+saying anything.[42] And as we saw earlier, I am misspeaking if I misidentify the meaning assigned by existing semantic rules to the noises I am making. So there is no bona fide speech where there isn’t awareness of semantic rules. 
+Thus, the analysis of sentences isn’t the analysis of noises. (In this context, take references to “noises” to be short for references to anything that can constitute the occurrence of an expression—e.g., hand-movements, patterns of light on a monitor, etc.) In and of themselves, noises aren’t speech, as we just saw. It is only when a noise embodies an attempt to follow a semantic rule that it constitutes speech. So the analysis of speech—that is, of spoken sentences—concerns noises only to the extent that they embody attempts to follow such rules; and for the same reason mutatis mutandis, the analysis of sentences per se, as opposed to their spoken (or written) occurrences, necessarily involves, if it doesn’t coincide with, the analysis of those rules. 
+Those rules are not themselves sentences. The semantic rule that assigns meaning to “snow is white” is not itself a sentence.[43] Given these points, what might it mean to say that philosophy is sentential analysis? It could mean that philosophy is the empirical study of different languages, i.e., that philosophy is linguistics. But that clearly isn’t what philosophy is. So it must mean that philosophy is the study of semantic rules qua semantic rules—that, in other words, it is the study of the concept of a semantic rule. 
+In that case, philosophy is also the study of those concepts that must be understood to understand the concept of a semantic rule. And there are many such concepts. Among them are narrowly semantic concepts such as compositionality, reference, quantification, force, and negation. 
+But many of these concepts aren’t only of relevance to semantics. As we’ve seen, no noise constitutes a sentence-utterance unless it embodies an intention of a certain kind; and there is no linguistic behavior of any kind where people aren’t intentionally following what they believe to be existing semantic rules. Some believe that semantic rules are conventions. Others believe that they are functions (in the mathematical sense)— assignments of meanings or truth-conditions to noises or to properties that are instantiated by noises (or ink marks, etc.). There is no way to figure out what semantic rules are without examining these concepts. 
+And even if these questions are side-stepped, and philosophers focus only on narrowly semantic concepts (e.g., reference, compositionality, etc.), philosophy ends up being the analysis, not of sentences, but of concepts. Thus, the thesis that philosophy is the study of sentences either collapses into the obviously false thesis that philosophy is the empirical study of language or into the thesis that philosophy is conceptual analysis (i.e., the analysis of the concepts in terms of which the world is understood). Thus, Wittgenstein’s contention that philosophy is the study of sentences collapses into the very view to which it is meant to be an alternative (viz. that philosophy is the analysis of concepts, as opposed to expressions), and is therefore false. 
+Let us now turn to Wittgenstein’s (1922) Tractarian contention that philosophical statements are ungrammatical nonsense. 
+
+4.2.6 The Tractarian contention that philosophical statements 
+syntactically ill-formed nonsense 
+The sentence 
+(a) “one can be aware of the fact that 1 + 1 = 2 without being causally affected by that fact” 
+appears meaningful. So does the sentence 
+(b) “there could in principle be a legal system that failed to embody any morality at all.” 
+But, in the TLP, Wittgenstein says that that this is an illusion. Here is the viewpoint underlying this bold contention: 
+(TA[44]) All philosophical statements are ungrammatical nonsense, and all philosophical problems would vanish if we spoke grammatically. “All philosophical problems belong to the same class as the question whether 
+the good is more or less identical than the beautiful.”[45] Thus, all 
+philosophical statements belong to the same class as: 
+(BG) The good is more or less identical than the beautiful. 
+BG is obviously meaningless. The reason for this is that it’s syntactically ill-formed. If we produced only syntactically well-formed sentences, we wouldn’t produce nonsense like BG. Since all philosophical statements are in the same class as BG, we’d never produce any sentences whose merits it was the job of philosophy to determine. 
+Were the logical forms of (a) and (b) brought into alignment with their logical forms—in other words, were their actual meanings reflected in their grammar—they’d be ungrammatical since they have no meanings. 
+Although TA is a paraphrase, not a quotation, the part in quotes is an exact quotation from the TLP.[46] 
+What Wittgenstein is saying isn’t confined to the defensible claim that philosophical problems are to be solved by clarifying statements. Wittgenstein is making two additional claims. First, no sentence that appears to make a philosophical statement means anything. Second, it’s only because they’re syntactically ill-formed that such sentences are meaningless—there is no other reason. 
+Let us evaluate these claims. Though ungrammatical, the sentence: 
+(MH) “Me and Herby play tennis every day, and me always win because Herby not in good shape” 
+is perfectly meaningful. Ungrammatical statements are often meaningful. Thus, BG’s failure to mean anything cannot be entirely blamed on its being ungrammatical. 
+What’s the real problem with BG? The expression “more identical than” is obviously supposed to function in the same way as relational expressions, like “more important than” or “identical with.” But there is no relation that it picks out. Though it consists of English expressions, the expression “more identical than” is itself no more a part of the English lexicon than “blurga derba gurb.” For that reason, the meaninglessness of BG is to be accounted for in the same way as the meaninglessness of: 
+(BG#) “The beautiful is blurga derba gurb the good.” 
+The problem with BG# is that “blurga derba gurb” doesn’t mean anything. It may be that its meaninglessness is reflected in its syntax. It may be that because “blurga derba gurb” doesn’t mean anything, BG#’s syntax is off. But, if so, its syntactic shortcomings are to be explained in terms of its lack of meaning, not vice versa. 
+The same holds of BG. The reason that BG doesn’t mean anything is that “more identical than” doesn’t mean anything. BG’s syntactic shortcomings are to be explained in terms of its lack of meaning, and not vice versa. 
+This is easily verified. Given any relation R, if “more identical than” denoted R, BG would be meaningful. If, for example, it denoted the relation that is in fact picked out by the expression ‘a better dancer than,” BG would say that the good is a better dancer than the beautiful; and it would thus have the same meaning as 
+(BG*) “The property of goodness is a better dancer than the property of being beautiful.” 
+BG* isn’t meaningless; it’s false. The property of goodness can’t dance; neither can any other property, including the property of being beautiful. Therefore, the former property isn’t a better dancer than the latter. Nothing false is meaningless, since to be false is to bear a false meaning. So BG* is meaningful. 
+Incidentally, according to Gilbert Ryle (1900–1976), a career-long 
+Wittgenstein-hardliner, it cannot meaningfully be said of properties that they can, or cannot, dance.[47] It can be said of a human being that he can, or cannot, dance. But nothing that can meaningfully be said of non-properties, such as human beings, can be meaningfully said of properties themselves. 
+Ryle’s position is false. There are many differences between people and properties. One of them is that people can dance, whereas properties cannot. Ryle’s position is also self-refuting. In saying that it cannot be said that properties cannot dance, Ryle is saying exactly what it is that, according to his theory, cannot be said. 
+Ryle is confusing absurdity with meaninglessness. The sentence “triangles have four sides” makes an absurd, but meaningful, statement. Given that triangles have three sides, not four, it’s false. Given that it’s false, it’s meaningful. “Properties can dance” is absurd and, therefore, false and, therefore meaningful. 
+There are two kinds of “nonsense.” A sentence can be nonsense by failing to have any meaning. (BG# is nonsense in this sense.) And a sentence can be nonsense by virtue of having of an absurd meaning. (“Properties can dance” is nonsense in this sense.) Ryle doesn’t distinguish between these two kinds of nonsense. Neither does Wittgenstein. And Wittgenstein’s position, like Ryle’s, is self-refuting—and for much the same reason. If Wittgenstein is right to say that all philosophical assertions are ungrammatical nonsense, that 
+very assertion is ungrammatical nonsense and therefore isn’t true.50 
+Given how implausible and illogical it is, why on Earth did Wittgenstein hold that philosophical statements are always ungrammatical nonsense? The answer, I believe, is that Wittgenstein thought this view to be the distillation of Frege’s groundbreaking philosophical successes. Frege showed that reparsing sentences sometimes solves philosophical problems. By reparsing 
+(NS) “nothing is a square circle,” 
+we show that it doesn’t attribute the property of being a square circle to some 
+non-entity, thereby dissolving an age-old riddle. Wittgenstein seems to have inferred from these successes of Frege’s that all philosophical problems are to be solved by reparsing sentences. 
+This inference is fallacious. Given only that some philosophical problems are to be solved by reparsing sentences, it doesn’t follow that they are all to be solved in that way. And we’ve seen that, indeed, many of them are not to be solved in that way. 
+Also, there were no cases where Frege’s reparsing of a problematic sentence showed it to be ill-formed. For example, in reparsing NS, Frege showed that its logical syntax differed from its apparent syntax. He didn’t show that there was anything wrong with its logical syntax. 
+To be sure, philosophers often produce deeply absurd statements. For example, according to pre-Fregean philosophers, NS entails that: 
+(NS1) there exists some non-entity that that is a square circle. 
+If NS1 is right, 
+(NS2) there exists some entity that does not exist that is a square a circle. 
+NS2 is self-contradictory and therefore absurd. But it’s obviously 
+meaningful.51 If it weren’t, it wouldn’t contradict itself. (For a sentence to 
+contradict itself is for it to bear two opposed meanings. “Smith is a lawyer and Smith is not a lawyer” because the one conjunct52 contradicts the other.) But whereas this sentence is explicitly self-contradictory, the self-contradictory sentences that people actually utter are usually only implicitly so.) 
+In any case, even if philosophical statements are meaningless, they’re not meaningless because they’re ungrammatical. Second, they’re not meaningless. The statement that they’re meaningless is itself a philosophical statement. That statement is therefore false if it’s true. Therefore it is false. 
+(Any statement that entails its own negation is false.53) 
+4.3 The Tractarian roots of Logical Positivism 
+Although one of the TLP’s contentions is that all philosophical statements are ungrammatical nonsense, this is not its main contention. The main contention of the TLP is that: 
+(CT54) a sentence is meaningful if, and only if, it is either a tautology or an observation report. 
+A “tautology” is a definitional truth (e.g., “fathers are male,” “there are three feet in a yard”). 
+An “observation report” is a statement that reports what one’s senses have told one (e.g., “I am now seeing a dog,” “there is chocolate syrup (or, in any case, a brown discoloration of some kind or other) on Smith’s ice-cream,” “I can see your house from here”). 
+CT can be broken down into two claims: 
+(1) All meaningful non-empirical statements are tautologies 
+and 
+(2) All meaningful non-tautologous statements are observation-reports. 
+(1) entails that non-empirical disciplines (e.g., philosophy, mathematics) consist of statements that say nothing about anything. (2) entails that anything non-tautologous that cannot be known strictly on the basis of what one’s senses tell is meaningless. 
+Wittgenstein’s claim that all philosophical statements are ungrammatical nonsense is a corollary55 of CT. If they’re meaningful, philosophical statements, unlike tautologies, are non-trivial. Consider the statement that: 
+(KC) “Knowing a truth doesn’t necessarily involve one’s being affected by the state affairs described by that truth.” 
+KC is a philosophical statement; and so its negation. Neither statement is a tautology, and neither statement is empirical. If CT is correct, it immediately follows that both KC and its negation are ungrammatical nonsense. Since philosophical assertions are never tautologous, CT entails, as Wittgenstein knew, that philosophical assertions are categorically meaningless. 
+The position that (1) and (2) are both correct is known as logical 
+positivism (LP). During the decade or so following the publication of the TLP, and largely because of it, LP was very popular.56 But (1) and (2) are false. Let us now say why. 
+4.4 Verificationism and falsificationism 
+(2) is identical with a doctrine known as verificationism. According to verificationism a non-tautologous statement is meaningful just in case it is 
+capable of being verified strictly on the basis of sensory observation.57 Verificationism is false. The statement “all metal expands when heated” is meaningful. But it cannot be conclusively verified (i.e., shown to be true) strictly on the basis of observation. No matter how many metal objects you find to expand when heated, it’s a possibility that some metal object that you 
+haven’t yet considered will fail to do so.58 
+Even though it cannot be verified “all metal expands when heated” can be falsified (i.e., shown to be false) strictly on the basis of observation. Advocates of LP saw this and, having for this reason rejected verificationism, accepted a doctrine known as falsificationism. According to falsificationism, a non-tautologous statement is meaningful if and only if it’s capable of being 
+falsified strictly on the basis of observation.59 
+Falsificationism is false. Though obviously meaningful, the statement “there exists a gold ball that weighs exactly 27.13654 lbs” cannot be conclusively falsified, since no matter how many gold balls you consider, it’s possible that some gold ball that you haven’t considered has that weight. 
+Falsificationism is really a version of verificationism. According to verificationism, S is meaningful if verifiable. According to falsificationism, S is meaningful if S’s negation is verifiable. So given that verificationism fails, it’s no surprise that falsificationism does as well. 
+In light of the failure of falsificationism, advocates of LP decided to soften their views about meaningfulness one more time. This time, they said that a non-tautologous statement is meaningful if possible observations can confirm it. (P confirms Q if, other things being equal, Q is more likely to be true if P is true than if not-P is true. Other things being equal, Smith is more likely to be wealthy if he wears fancy clothes than if he doesn’t wear fancy clothes. Thus, “Smith wears fancy clothes” confirms “Smith is wealthy.”) We’ll refer to this view as “confirmationalism.” 
+Confirmationalism is equivalent with the position that all meaningful non-tautologous statements are empirical. An empirical statement is one that, if true, expresses a truth that must be known through observation and that, if false, is the negation of a true empirical statement. “There are trees in Santa Barbara, CA” is a true empirical statement, and “there are no trees in Santa Barbara, CA” is a false one. The negation of an empirical statement is an empirical statement. This is becasue, if it’s an empirical question whether or not S is true, then it’s an empirical question whether or not S is false and, therefore, whether or not not-S is true. (There are, as we will see, very few truths, if any, that can be known strictly through observation. A statement is empirical if the truth or falsity of it is to be decided on grounds that are at least partly observational.) 
+Henceforth when we refer to “logical positivism” (LP), we will refer to the position that a statement S is meaningful if and only if (i) S is a tautology (e.g., “sisters are female siblings”) or (ii) S is an empirical statement (e.g., 
+“there are trees in Santa Barbara”).60 
+
+4.5 Logical Positivism Evaluated 
+Consider the statement: 
+(1) “triangles are three sided figures.” 
+(1) is plausibly seen as just being true by convention. The same is true of: 
+(2) “pentagons have five sides.” 
+For argument’s sake, we’ll grant that, indeed, (1) and (2) are true by convention—that they’re definitional truths.61 Given (1) and (2), it follows that: 
+(3) If x is the number of sides of an arbitrary triangle and y is the number of sides of an arbitrary pentagon, then w is an even prime iff w is one less than x and three less than y. 
+But (3) clearly isn’t a conventional truth. Though it follows from conventions, (3) is not itself a convention. (3) is thus a non-tautologous, non-empirical truth. It follows that LP is false. 
+It’s possible to have conventions that are inconsistent with one another. If I stipulate that “x” unambiguously refers to the number two, and I also stipulate that “x” refers to the number of sides of a triangle, my definitions are inconsistent with one another. The internal consistency of conventions is not itself a matter of convention. It isn’t an empirical fact that the conventions just described are inconsistent with each other. To say that P is inconsistent with Q is to say that P must be false if Q is true. Observation cannot tell you what must be the case; it can tell you, at most, what is the case. So it cannot tell you that two linguistic conventions are inconsistent with each other. 
+Since observation cannot tell you whether or not two statements are inconsistent with each other, it cannot tell you whether or not one statement is a necessary consequence of some other. This is because for Q to be a necessary consequence of P is to P to be inconsistent with the negation of Q. (The negation of "snow is white" is "snow is not white." In general, the negation of a Q is not-Q.) 
+When evaluating LP, one must be careful to distinguish sentences from their meanings. Two different sentences can have the same meaning (e.g., “snow is white” and “schnee ist weiss”). The meaning of a sentence is a proposition. Propositions are not sentences. The thing meant by “snow is white” is not itself a sentence. Some sentences express propositions that are logically true. A proposition is logically true if the laws of logic prohibit its negation from being true. The proposition meant by 
+(4) “If a given thing is round, then that thing is not a square” 
+is logically true, since the laws of logic don’t allow round things to be square. And some authors, for this reason, would describe (4) itself, the sentence, as logically true. But what they mean is that, given what it is that it means, (4) must be true. So what they are in fact describing as logically true is the proposition that (4) couldn’t be false, given what it is that it means. 
+Thus, it is always propositions, and never sentences, that are logically true. But no proposition is true by convention. It’s up to us what our symbols mean. But it’s not up to us whether those meanings are correct. It’s up to us what it is that “the moon is not made of cheese” means. But it isn’t up to us whether that meaning is correct. LP identifies logical truth with conventional truth: truths of logic are sentences that are true by convention. But that’s false. Logical truths are never sentences; they’re always propositions, and propositions are never conventionally true. 
+Incidentally, (ii) collapses into (i). Linguistic conventions are known empirically. It can be known only through observation that “triangles have three sides” is true. That sentence could mean anything.62 It could mean that penguins are smarter than humans; and it’s only because you’ve had the requisite sense-perceptions that you know it not to mean this. 
+It should be pointed out that logical positivists were unanimous in denying the existence of propositions and of meanings generally. Logical positivists didn’t accept the view that for a lecture to concern triangles is for the 
+meaning of that lecture to concern triangles. This is why Rudolph Carnap63 (1890–1970), an LP-hardliner for many years, said that for a lecture to concern triangles is for the word “triangl 
+Carnap’s view is false. Many a lectur “triangle” concerns triangles. (Think of a Japanese, Swedish, and Arabic. How oft them?) And a lecture that contains the w triangles. Somebody giving a lecture on ‘triangle’ to illustrate some point about p isn’t talking about triangles. They’re talk the word “triangle.” 
+The distinction between the word “tri meaning is one that Carnap couldn’t cou logical positivist. The very essence of lo meaning. For argument’s sake, suppose meanings of sentences. (Following conv “propositions.”) Given the existence of p sentence is meaningful is not to be expla tautologous or confirmable. Rather, a se confirmable is to be explained in terms o certain kind. A tautologous sentence wo proposition for its meaning, and a confir had a confirmable proposition for its me propositions, then some truths are ipso fa 
+We can use words in any way that we Smith has three boats, then Smith has m 1+1=3. But whatever meaning we end u to us whether that meaning is correct. An meaning is of a logical nature, there is ip immediate consequence being that LP is 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[1]. “Mutatis mutandis” means: provided that the needed changes are made. Consider the statement: 
+(i) 
+“if I make sure that I exercise and get plenty of rest, and everybody else does the same thing, the world will be a better place.” 
+
+(i) 
+is ambiguous. It could mean either: 
+
+(ii) 
+“if I do my best to make sure that I exercise and get plenty of rest, and everybody makes sure that I exercise and get plenty of rest, the world will be a better place,’ or 
+
+
+(iii) “if I do my best to make sure that I exercise and get plenty of rest, and each other person makes sure that he or she exercises and gets plenty of rest, the world will be a better place.” Unlike (i), the following sentence unambiguously has (iii) for its meaning: 
+(iv) “if I make sure that I exercise and get plenty of rest, and everybody else does the same thing mutatis mutandis, the world will be a better place.” Sentences that are ambiguous in much the same way as (i) often occur in analytic philosophy, and it’s often unclear how they are to be disambiguated. But the “mutatis mutandis” makes it easy to disambiguate them. 
+[2]. Expressions that are italicized and boldfaced are very important ones whose meanings must be known. In most cases, those terms are defined and explained in the analytic index, where they are alphabetically listed. When such an expression isn’t defined in the analytic index, it’s defined on the first page where it occurs. In cases where I judge the expression to be an especially important one, it is defined both on the first page of its occurrence and in the analytic index. 
+An idea is” “incoherent” if it is expressed by a statement that either explicitly or implicitly contradicts itself. [3]. Creating the right mechanisms may involve an enormous amount of 
+theoretical knowledge—a N.A.S.A. engineer may know a lot more about physical law than many a professor of theoretical physics. Whether one is an engineer as opposed to a physicist is a function, not of how much one knows about physics, but about one’s attitude towards that knowledge. The engineer is interested in physical law only to the extent that it helps build bridges and tanks. The physicist is interested in bridges and tanks only to the extent that it helps identify physical laws. That is why, even though Newton was one of the greatest physicists of all time, many a contemporary engineer knows more about physical law than he did. 
+[4]. Dummett (1978, Chapter 25). 
+[5]. This is now contested. Some philosophers hold that there are coherent statements—statements that don’t embody internal inconsistencies—that cannot possibly be true. See Putnam (1975) and Kripke (1980). 
+[6]. “FL” is short for “Frege’s legacy.” [7]. See Frege (1980). Russell (1905, 1914, 1917, 1918, 1927, 1948) did a 
+very good job of clarifying and developing this viewpoint. [8]. Russell (1903). [9]. The argument about to be given was put forth by Russell (1920). 
+[10]. See Pap (1949). Also see Carnap (1932) and Schlick (1934). 
+[11]. “TP” is short for” “tall person.” 
+[12]. Frege used the word “concept,” not” “property.” 
+[13]. “LP” is short for “Larry perception.” 
+[14]. “LS” is short for “Larry sentence.” 
+[15]. An expression is” “semantically simple” if it doesn’t consist of other expressions. So” “the person in the cockpit at the time of the call” is 
+semantically complex, but” “Socrates” and” “Larry” are not. 
+[16]. See Russell (1917, Chapter X), Barwise (1983), Kuczynski (2007). 
+[17]. See Brentano’s Psychology from an Empirical Standpoint. 
+[18]. This apt way of summing up special relativity is due to Howard 
+Gardner (1976). 
+[19]. Empirical discoveries in psychology and physics do play a part in the dissolution of philosophical problems. But usually when some empirical discovery sheds light on a philosophical issue, it is by prompting philosophers to produce the relevant analytic knowledge. Certainly a lot of good philosophy was prompted by what Einstein and Freud had to say. But the ensuing philosophical insights were ones that, theoretically, could 
+have been arrived at independently of what they said. 
+[20]. And Frege’s knowledge of the meanings of specific German sentences, while obviously empirical, wasn’t materially implicated in the points he was making. He could have made those points had he not known a word of German and had been writing in, for example, Hindi or Spanish. 
+[21]. Wittgenstein (1958). 
+[22]. Wittgenstein (1922). 
+[23]. Epistemology is the theory of knowledge. 
+[24]. See Fodor’s (1990) book A Theory of Content and his (1998) book Concepts. 
+[25]. See my (2007) book Conceptual Atomism and the Computational Theory of Mind. 
+[26]. Although this position is not as popular as Fodor’s, I am not alone in holding it. For example, Laurence Bonjour (1998) holds it. 
+[27]. Actually, Quine, in his paper “Epistemology Naturalized,” said that epistemological questions are not to be answered in this way, and are to be answered in the same way as scientific questions; e.g., “what is the Moon’s chemical composition?” There are two points to make here. First of all, even though Quine was an analytic philosopher by trade, it doesn’t follow that all of his views were those of an analytic philosopher; and in this context, I would suggest, he was not being an analytic philosopher. He was being an opponent of analytic philosophy. Second, Quine’s view is incoherent. Natural science is based on empirical observation. Empirical observation cannot tell you that it itself is a source of knowledge. Therefore, it cannot be known through natural science that observation is a source of knowledge, and it must there-fore be known in some non-empirical, and therefore non-scientific, manner. Jaegwon Kim (1993) makes a similar point. 
+[28]. Incidentally, the very fact that JK is to be adjudicated in a non-observational manner shows that JK is false. Supposing JK correct, the fact it describes is that one statement is inconsistent with another; and that fact is obviously causally inert, that being why it cannot be observed. 
+[29]. In this context, the word “sentence” will stand for both sentence-types and sentence-tokens; i.e., for sentences per se and also for people’s utterances and inscriptions of them. 
+[30]. See Frege (1918). 
+[31]. In the sentence, “x is a certain way,’ the word “is” doesn’t denote the relation of identity. The “is” is being used predicatively. It’s being used in the way it is in the sentence “Smith is happy,’ which obviously doesn’t say that Smith is identical with happiness, and not in the way it’s being used in the sentence “Smith is the guy who stole my car." 
+[32]. Actually, propositions are sets of properties. But this is a nuance. And it’s an irrelevant nuance, since sets are properties and, therefore, propositions are identical with sets. This must be understood aright. The property of being a bird is not identical with the set of all birds—contrary to what Quine (1960, 1970) and other anti-Platonist philosophers have held. 
+[33]. And so far as it is up to us how it is, it’s up to us in a causal sense. It is people’s actions, not their opinions, that make things true. Even though, on the basis of an opinion, one may perform acts that wrench the world into a certain form, one’s opinion per se is innocuous: the world is the way it is regardless of that opinion. 
+Also, it’s not a matter of opinion what opinions we have; it’s a matter of fact. We have the opinions that we have and, so far as we know ourselves, our opinions as to what those opinions are track those pre-existing facts. Our second-order opinions—i.e., our opinions about opinions—no more make our first opinions be the way they are than our first-order opinions about the stars make the stars be the way they are. Our second-order opinions may induce us to engage in acts that result in the modification of our first opinions, whereas, our opinions about the stars cannot possibly induce us to engage in acts that change the stars. But that’s irrelevant, since it doesn’t phase the fact that it is never in virtue of what one’s opinions are that the world is, or is not, in any respect, a given way. 
+[34]. This is the branch of philosophy that aspires to clarify the concepts that are used in formal logic but that themselves resist formal treatment; e.g. entailment, formal truth, informal analytic truth, possibility, logical form, etc. See Section 7.0 for further discussion. Most of what is said in Part 1 of the present book falls within the jurisdiction of philosophical logic. 
+[35]. At certain junctures, this belief of theirs is correct—but only to a certain degree. Logic and rigor only go so far. They’re no substitute for insight or creativity—especially not in fields such as ethics, politics, and religion. Logic and rigor have only a secondary function. They’re helpful in evaluating insights already generated. But they’re useless when it comes to generating them. Political philosophy has benefited enormously from post-Fregean love of rigor. For some reason, political philosophers didn’t take it too far: respect for rigor did not, in their case, turn into rigor-worship. The same cannot be said of every other branch of analytic philosophy. The philosophy of religion has become one of the most arcane and technical branches of philosophy, and it’s not always clear that what analytic philosophers of religion are doing has much to do with religion. 
+[36]. “Acoustical” means “noise-related,” and “morphological” means “shape-related.” 
+[37]. But, as a matter of exegetical fact, I have in no way exaggerated Wittgenstein’s claims. 
+[38]. He hedges by “roughly speaking, meaning is use.” He never explains the hedge. I’ve omitted the first two words, since they serve no identifiable purpose. 
+[39]. “WA” is short for “Wittgenstein’s argument.” This is not a quotation. There is no one passage where Wittgenstein argues on behalf of his thesis that meaning is use. His arguments are dispersed over many pages, in most cases being presented in the form of aphorisms and rhetorical questions. Quine (1960) advocates the position about to be presented, and he states it very crisply. Some of the locutions that occur in WA are found in Quine (op. cit.), and some, though not (so far as I know) used by Quine himself, are Quinean. 
+[40]. Wittgenstein is right to assume that propositions, if they exist, are non­spatiotemporal. (What follows is my own defense of this assumption.) First of all, propositions, if existent, aren’t facts. “JMK owns a hundred yachts” is meaningful; if its meaning were the fact that JMK owns a hundred yachts, it would have no meaning, since there is no such fact. Propositions obviously aren’t rocks or trees or explosions or anything that we’ll encounter in the external world. 
+Nor are they mental entities. The proposition that snow is white isn’t some event or structure in my mind or in yours or in anyone else’s. That proposition will exist after we and our ideas are gone. It doesn’t help to say that propositions are artifacts, like churches and lawn-mowers. Churches and lawnmowers are objects in the external world; propositions are not. 
+I’ve heard it said that propositions, though not constituents of this or that person’s mind, are constituents of some “collective mind.” But so far as it has any meaning, this proposal is useless. If, in saying that propositions are ideas in a “collective mind,” one is saying that they are ideas in the minds of various individuals, one is simply wrong as we just saw. If, in saying this, one is saying that they are ideas in some mind that, though composed of various individuals mind, isn’t identical with any one of them, one is making the doubtful, and very likely incoherent, assumption that there exists such a mind. We may conclude that no proposition is identical with anything you’ll find if you take an inventory of the spatiotemporal world. If they exist, propositions are non-spatiotemporal entities. 
+[41]. The argument being put forth is found in precisely this form in Quine (1960). It is also Wittgenstein’s position. But Wittgenstein doesn’t state it as crisply as Quine. 
+[42]. A person who did know that language would agree that I hadn’t said anything after that person had learned that I didn’t know what they meant. That’s why if those noises were offensive, that person would cease to be offended after he learned that I didn’t know what they meant. 
+[43]. There are different views as to what it is. But, as is universally conceded, they are not themselves sentences. 
+[44]. ‘TA’ is short for ‘Tractarian argument.’ TA is a paraphrase, not a quotation. But some parts (e.g., BG) are direct quotations. 
+[45]. Tractatus Logico-Philosophicus, Section 4.003. I am using the Pears/McGuinness translation. 
+[46]. Tractatus Logico-Philosophicus, Section 4.003. I am using the Pears/McGuinness translation. 
+[47]. Ryle (1949). 
+50. 
+Wittgentein acknowledges that his view has this consequence. At the very end of the TLP, he says that anyone who understands what he has said will see that it is meaningless. But this is incoherent: to understand a statement is to know what its meaning is; so Wittgenstein’s words can’t be understood unless they are meaningful. 
+
+51. 
+Russell (1905) holds (correctly, I will argue) that one cannot possibly say of some individual x either that x does exist or that x does not exist. When one says “the even prime greater than two doesn’t exist,” one isn’t saying 
+
+
+of some number x such that x is an even prime greater than two that x doesn’t exist. If that’s what one were saying, the existence of just such a number would be presupposed by that very statement. What one is actually saying is that the class of even numbers greater than two doesn’t overlap with the class of prime numbers. All meaningful negative existentials are to be similarly analyzed. (Incidentally, Nathan Salmon (2005, Chapters 1–3) disagrees with this. He says that one can both meaningfully and correctly say of some object x that x doesn’t exist. He says, in other words, that it’s possible for there to exist an object x such that one meaningfully and correctly says that x doesn’t exist. This is, quite obviously, false. 
+Supposing that Russell is right about this, it might follow that NS2 is meaningless, since NS2 seems to say of some individual x that x doesn’t exist. Because I believe that Russell’s analysis of negative existentials is correct, I agree that if NS2 is indeed meaningless if it says of some individual x that x doesn’t exist. But it’s pretty clear that those who say that NS entails NS1, and who therefore implicitly accept NS2, are saying something. The problem isn’t that their words lack meaning, but that they bear a very wrong meaning. Since NS2 is meaningful, and since it would be meaningless if it said of some individual x that x didn’t exist, it must be 
+taken to mean that: (NS3) “there exists a square circle, and there fails to exist anything that is 
+both square and a circle,” which, though absurd, is meaningful. 
+52. 
+A conjunct is one of the sentences composing a conjunction. A conjunction is a sentence that consists of two or more sentences that are joined by an “and” (or some other comparable expression, e.g. “but”). 
+
+53. 
+See Appendix 2 for a discussion of this principle. 
+
+54. 
+“CT” is short for “central thesis.” 
+
+55. 
+“Corollary” is a synonym of “consequence.” A corollary of nation X’s having all its troops in Nation Y is that it can’t station any troops in Nation Z. 
+
+56. 
+See Wittgenstein (1922), Carnap (1932, 1934), Schlick (1932, 1934), Hahn (1933), Stevenson (1937), Hempel (1950), Ayer (1952). 
+
+57. 
+“Iff” means “if and only if.” “S1 iff S2” means “if S1 is true, it follows that S2 is true; and if S2 is true, it follows that S1 is true.” Thus, “S1 iff S2” 
+
+means that the truth of S1 is both necessary and sufficient for the truth of S2. 
+
+58. 
+In addition to being false, the statement: (VE) “all meaningful non-tautologies are capable of being observationally verified” 
+
+isn’t a tautology, since it’s debatable (and false, as we saw). Given that VE isn’t a tautology, one who accepts VE must assume it verifiable if not meaningless, and must therefore assume it verifiable. But VE is unverifiable for the same reason as “all metal expands when heated.” Any attempt to show otherwise would be self-refuting. One can’t try to show that VE is verifiable without first assuming it meaningful. But in assuming this, one is assuming that unverifiable non-tautologies can be meaningful and, therefore, that VE is false. 
+
+59. 
+The term “falsificationism” is associated with Karl Popper (1902–1994). But, contrary to what is sometimes alleged, Popper didn’t advocate the doctrine to which that expression refers in this context. He did not hold that a statement had to be falsifiable to be meaningful. Popper accepted the doctrine that for a statement to be scientific is for it to be falsifiable. (Both doctrines are known as “falsificationism.” Hence the mix-up.) He makes this clear in his (1983) book Realism and the Aim of Science. 
+
+60. 
+Carl Hempel (1905–1997) made points similar to the ones just stated. (See Hempel 1965, Chapter 3.) Hempel starts out by identifying two principles. (i) The negation of a meaningful statement is itself meaningful. 
+
+
+(ii) A meaningful statement can neither entail nor confirm a meaningless one. The negation of “snow is white” is “it is not the case that snow is white” or, more simply, “snow is not white.” For one sentence to negate another is for the one to affirm the falsity of the statement made by the other. If a sentence has no meaning, and thus makes no statement, there is no statement whose falsity its negation affirms and, consequently, no statement that it makes. (Given that ‘arga bunga blurb’ makes no statement, there is no statement whose falsity is affirmed by “it is not the case arga bunga blurb.”) Hence (i). For one sentence to entail another is for the statement made by the second to be a consequence of the statement made by the first. Thus, “x is a triangle” entails “x has more than one side,” since the statement made by the second follows from the statement made by the first. Thus, no sentence that has a meaning (i.e. makes a statement) can entail one that does not. It follows that no sentence that has a meaning can confirm one that does not. Hence (ii). Some verifiable sentences (e.g., “some metal object doesn’t expand when heated”) have unverifiable negations (“all metal objects expand when heated”). Thus, verificationism is false. Some falsifiable sentences (e.g., “no metal objects expand when heated”) have unfalsifiable negations (‘some metal object expands when heated’). Thus, falsificationism is false. Some meaningless sentences (e.g., ‘either the universe is a perfect unity or snow is white’) follow from confirmable ones (e.g., ‘snow is white’). Thus, confirmationalism is false. According to some philosophers, Hempel points out, a sentence S is meaningful if it can be translated into a statement that concerns only one’s sensations. (George Berkeley60 (1685–1723) held this, as did Ernst Mach60 (1838–1916) and Rudolph Carnap60 (1890–1970).) This contention is false, Hempel rightly points out, given that it’s a very strong version of the view that only completely verifiable sentences are meaningful. The fact that this view is false shows that strict empiricism is false. Strict empiricism is the view that all non-trivial knowledge has a strictly sensory basis. To say that knowledge has a strictly sensory basis is to say that what is known is either (i) directly observed to be the case or (ii) is inferred from what is directly observed to be the case by means of an inference-rule of whose legitimacy one’s own observations made one aware. 
+In Section 7.1, we’ll consider another, subtler argument of Hempel’s for the position that not all knowledge is observation-based. 
+61. 
+In Section 4.8 we’ll question this assumption. 
+
+62. 
+Technically, ink marks, noises, etc. are sentence tokens, not sentences. 
+
+
+But we can set that aside here. 63. Carnap (1934). 
+64. 
+He didn’t put it this starkly. And he probably wouldn’t have accepted it —at least not for long—if it had been presented to him this starkly. But that doesn’t mean that it wasn’t his view. It was. 
+
+65. 
+This is the view of Wittgenstein (1958), W.V.O. Quine (1960), Hartry Field (1977), Robert Brandom (1994), and John McDowell (1998). 
+
+66. 
+“NT” is short for “Newton’s theory.” 
+
+67. 
+Note: the bracket-like expressions that occur in what follows—the “‹” and the “›”—are known as quasi-quotation marks. They occur frequently in words on the philosophy of language and they will occur frequently in this book. In this context, they may be treated as quotation marks. But there are subtle differences between them and quotation-marks, because of which they are not technically interchangeable with quotation-marks. These are identified in Appendix 2, where a definition of quasi-quotation is given. See the entry titled “quasi-quotation marks. 
+
+Quine (1940) invented quasi-quotation marks. In so doing, he did a great service to semantics and logic, for reasons that are given in Appendix 2. 
+
+68. 
+Strictly speaking, it doesn’t quite say this. S would say how a bodies x1 and x2, having masses m1 and m2, would behave to the extent that their behaviors would be functions of their having those masses and being that distance from one another. But other factors might obviously be involved; 
+
+e.g., x2 might be near some third body x3 whose gravitational pull was much stronger than x1s’ or it under the influence of some non-gravitational force. 
+
+69. 
+See Hempel (1965, Chapter 3), Sheffler (1981, Part II). 
+
+70. 
+Wittgenstein, himself LP’s founding father, did try to make a case that LP was fundamentally misguided, and not just technically faulty. He spent 20 years trying to make a case for this, and his efforts were embodied in a now famous book known as the Logical Investigations. But the doctrines put forth in the Investigations are quite as incoherent as LP itself. 
+
+71. 
+Here is a similar argument. LP is a theory—a theory concerning the conditions sentences must satisfy to be meaningful. Tautologies aren’t theories. Tautologies are conventions. Conventions aren’t theories. Therefore, LP isn’t a tautology. 
+
+72. 
+I’m quoting from the McGuiness/Pears translation. 73. Russell (1941, pp. 14–15). 
+
+
+74. 
+In her very good book Physics and the Philosophers, L. Susan Stebbing makes similar points. (Stebbing is discussing an argument given by Arthur Edington that is similar to Russell’s.) 
+
+75. 
+The argument about to be presented is further discussed in my book 
+
+
+Theory and Inference. 
+76. 
+“GA” stands for “Goodman’s argument.” This is not a quotation. 
+
+77. 
+What follows wasn’t said by Goodman; I’m developing his point. 
+
+78. 
+See Mates (1952) for some arguments that, in my judgment, embody a failure to take these points into account. 
+
+79. 
+Wittgenstein says that the alphabet is a picture ‘in the ordinary sense’ of the corresponding sounds—that “k” is a picture, “in the ordinary sense,” of the corresponding sound. That isn’t true. The relationship between “k” and the corresponding sound is conventional, not iconic. 
+
+80. 
+A semantic rule is what is expressed by any sentence saying what is meant by an expression of a language. 
+
+So if, while pointing to individual x—who, we will stipulate, is Mick Jagger—I say “that guy’s name is Mick Jagger,” I’m stating a semantic rule, since what I’m saying is that “Mick Jagger” refers to x. 
+
+81. 
+Frege, who held the same view, said that “propositions are true facts.” Frege’s view isn’t quite accurate. False propositions aren’t facts. It isn’t a fact that the moon is made of cheese. Bearing in mind that false propositions aren’t facts, let’s suppose, with Frege, that true propositions are facts. Facts are, in at least some cases, spatiotemporal entities. The fact of my typing right now consists of various displacements of mass-energy. 
+
+So if true propositions were facts, then some propositions would be spatiotemporal entities, whereas false ones would categorically fail to be such entities. But it would be theoretical arbitrariness of the worst kind to hold that some members of the class of propositions—which is obviously a unified, highly integrated class—were spatiotemporal, whereas other members of that same class were not. 
+
+82. 
+When putting forth the picture theory of meaning, Wittgenstein uses the German word “satz,” which means “sentence.” But Wittgenstein’s translators sometimes translate it as “proposition.” Supposing that they’re right to do so, the picture theory of meaning is the view that propositions, not the sentences that express them, are pictures of the facts they describe. Thus interpreted, Wittgenstein’s thesis is false. Like the states of affairs they depict, actual pictures (e.g., drawings, photographs) are spatiotemporal entities, and can thus bear a physical resemblance to those states of affairs. But propositions are not spatiotemporal entities; they’re abstract objects. Therefore, they cannot in any literal sense resemble the facts to which, when they’re true, they correspond. To be sure, propositions must resemble those facts in some way or other. But that’s 
+
+
+trivial, given that, for any two things, there is a respect in which they’re similar to each other. A terminological point before we continue: Given a proposition, we’ll refer to the fact that must hold for that proposition to be true as its “truth­maker.” So, supposing that John is North Carolina, the truth-maker of that proposition is the fact that John is North Carolina. For the theory that proposition are pictures of their truth-makers to be have any substance, it would have to be said how exactly they resemble those truth-makers; and in order to do that, it would have to be said what exactly propositions are. Usually, Wittgenstein spurns propositions. But every now and then he seems to concede their existence. So far as he does so, his view is that they are veritable models of their truth-makers—that, in other words, a given proposition actually consists of the very objects involved in the fact that, supposing it true, it describes and that, in that proposition, those objects are interrelated in the way they would be in the corresponding fact, were the latter to exist.82 But that theory is rank absurdity. For, if true, the proposition can’t even exist without being true. If the proposition that Smith punched Jones is a structure consisting of Smith and Jones in which the former punches the latter, then that proposition is it self a case of Smith’s punching Jones. And in that case, that proposition can’t even exist without being true. But that proposition can exist without being true. The proposition that JMK jumped over the Empire State building exists but isn’t true. There’s also the problem that, even though Socrates no longer exists, the proposition Socrates admired Pal to still does. Interestingly, Nathan Salmon (1986, 2005, 2007) holds that, for this very reason, that proposition doesn’t exist. Salmon’s position is that the sentence “Socrates admired Plato” is meaningful and that it’s meaning is the proposition that Socrates admired Plato. But, says Salmon, that meaning is non-existent, the reason being that Socrates, one of components, is non-existent. Thus, says Salmon, there exists a proposition that doesn’t exist that is the meaning of “Socrates admired Plato.” This is what Salmon himself says. It is not an unintended consequence of his view; it is his view. (See Salmon (2005), Chapters 2 and 3.) In any case, Salmon’s view is a quasi-Tractarian one. He says that (so far as it exists) the proposition that Socrates admired Plato consists of Socrates and Plato—those two individuals themselves, not concepts thereof—and that, in that proposition, the former stands in the relation of admiring with respect to the latter or stands in some analogous relationship to him. Apart from the fact that Socrates and Plato aren’t around to do the work that Salmon’s theory requires of them, that theory has the drawback that the mere existence of the proposition in question prejudges a number of open empirical issues. If, in that proposition, Socrates must actually admire Plato, then the mere existence of that proposition predetermines its own truth. If it’s some other relationship that Socrates bears with respect to Plato, some other issue will be prejudged. In addition, the question will arise why it is that the proposition in question consists of Socrates’ bearing that relation to Plato. What is so special about that relationship? And to answer this question, Salmon would actually have to identify the relationship in question. To Salmon’s credit, he has attempted to identify this relationship. He has said that the proposition that Socrates admired Plato is the following ordered pair: <the relationship of admiring <Socrates, Plato>>. Thus, he has said, in effect, that the relationship in question—the one that Socrates bears to Plato in the proposition in question—is one that a thing x bears to a thing y in virtue of its being the case that the following ordered pair exists: <the relationship of admiring, <x, y>>. 
+This is certainly very helpful. But we have a slight problem. Ordered pairs aren’t true or false. The ordered pair <the relationship of admiring< Socrates, Plato>> true or false. (John Perry points makes this exact point.) 
+83. 
+Goodman (1976) discusses the concept of a digital representation as well as the, soon to be mentioned, concept of an analogue representation. 
+
+84. 
+The differences between iconic and linguistic representation are discussed at length in Chapters 21–23 of my (2007) book Conceptual Atomism and the Computational Theory of Mind: A Defense of Content­internalism and Semantic externalism. 
+
+85. 
+“Grass is greed and snow is white” is the result of conjoining “snow is white” and “grass is green,” and “Grass is greed or snow is white” is the result of disjoining them. 
+
+86. 
+A statement is vacuously true if it’s trivially incapable being counter-exampled. An example is: “every human being who lives on Neptune plays the accordion” In order for that sentence to be false, there would have to be a human being on Neptune who didn’t play the accordion. Since there are no human beings on Neptune to begin with, there are none 
+
+who don’t play the accordion. 
+
+87. 
+Berkeley made this point very clearly in his (1734) work The Principles of Human Knowledge. 
+
+88. 
+Sometimes the word “‘iconic” is used to mean a picture-like linguistic representation that isn’t really a picture. Thus, hieroglyphs are “iconic,” since they look like the things they represent. But in this context, ‘iconic’ will be synonymous with ‘pictorial’, ‘imagistic,’ etc. 
+
+89. 
+Short for “image of a triangle.” 
+
+90. 
+This is an adaptation of the Pears/McGuinness translation. I’ve replaced each occurrence therein of “proposition” with “sentence,” for the reasons given earlier. The italics are in the original. 
+
+91. 
+I suspect that it was his awareness of this fact that led him to end his book by saying that everything in it is nonsense. 
+
+92. 
+Wittgenstein’s (personal and philosophical) mentor, Bertrand Russell, was at that point the world’s authority on paradoxes of this kind. Russell’s work on these puzzles is by no means obsolete. Wittgenstein was in daily contact with Russell during much of the five year period preceding his writing the TLP. 
+
+93. 
+And make them go away is what, in effect, Russell (1908) tried to do. Russell said that, even though they seem meaningful, statements that, like (i), self-refer are meaningless. They’re pseudo-statements. They have the surface structure of real statements, but not the logical form. Russell found that some intuitively reasonable logical principles entail self-contradictory statements and must therefore be false, and he found that those principles in fact referred to themselves, even though they didn’t seem to. The most famous example concerned the axiom of comprehension, viz: (AC) Given any property, there is some class of objects containing everything that has that property and nothing that lacks it. AC is obviously a very reasonable principle. Consider the property of being a bird. There is some class that contains every bird in existence, and doesn’t contain any non-birds.93 But Russell poked a major hole in AC. Let K be the class of all classes that don’t belong to themselves. K must belong to itself if it doesn’t, since it’s the class to which all classes that don’t belong to themselves belong. But, for the same reason, K cannot belong to itself if it does. But, for the very same reason, if K belongs to 
+
+
+itself, then it doesn’t belong to itself. So K belongs to itself if it doesn’t, and it doesn’t if it does. It follows that (K) the class of all classes that don’t belong to themselves is a member of itself 
+entails its own negation, and that the negation of K entails tis own negation. Since, according to the law of excluded middle (any given proposition is either true or false), either K or its negation is true, it follows that K and its negation are true. But, according to the law of non-contradiction (no proposition s i both true and false), this isn’t possible. 
+Russell dealt with this by saying that nothing can be true of itself. Properties cannot be their own instances; statements cannot describe themselves. Thus, AC is ruled out, and so is (i). 
+94. A historical point: In his (1734) book Principles of Human Knowledge, George Berkeley made virtually every point that Wittgenstein made in the Tractatus. Moreover, in the Principles and in other works (e.g., An Essay Towards a New Theory of Vision) Berkeley made a number of cogent, insightful, and strikingly modern points, all of which are absent from the TLP. 
+The one claim that is clearly present in the TLP that is clearly absent from the Principles is the thesis that for a sentence to be meaningless is to be syntactically ill-formed. Berkeley claimed that for a sentence to be meaningless is for it to be unverifiable, i.e., incapable of being definitively shown to be true on the basis only of what one’s senses tell one. In other words, Berkeley was a verificationist. 
+Of course, the TLP advocates verificationism. But verificationism is inconsistent with one of the other main claims of the TLP, namely, that meaninglessness is categorically the result of bad syntax. I leave it to the reader as an exercise to demonstrate this. 
+95. 
+Such references are found in the work of Russell (1918), Wittgenstein (1922), and Hempel (1950). 
+
+96. 
+A “logically perfect language” isn’t the same thing as a formal language. But, like many others in his time and ours, Hempel didn’t see this. The thesis that meaningful sentences are those that can be expressed in logically perfect languages is, I am certain, an expression of this confusion. 
+
+
+97. Hempel (1952, 1965). 
+98. 
+“HA” stands for “Hempel’s argument.” 
+
+99. 
+Hempel (1952) does an extremely good job of making it clear what conditions an object must fulfill if it is to serve as a metric standard. 
+
+100. 
+To say that Ö2 is an irrational number is to say that there are no whole numbers p and q such that p/q = Ö2. This entails that, given a length L1 of Ö2 units and also a length L2 of N units, where N is a rational number, there is no rational number M, such that each of L1 and L2 can be divided, 
+
+without remainder, into M units. Two lengths that are related to each other in this are “incommensurable.” It was, it is said, Pythagoras who discovered the existence of incommensurables. Richard Dedekind (1831– 1916) and Bertrand Russell (1872–1970) jointly provided the first clear analysis of incommensurability. 
+
+101. 
+As previously stated, a number N is irrational if there are no numbers p 
+
+
+and q such that N = p/q. 102. Hempel (1952, 1965). 
+103. 
+See Nagel (1962), especially the chapter titled “Indeterminism and causality in quantum-physics.” Nagel brilliantly argues that, although sub­atomic phenomena are indeterministic with respect to the categories used to described macro-scopic (and otherwise super-atomic) phenomena, it is possible to identify categories with respect to which sub-atomic phenomena are deterministic. Philipp Frank (1949) has a similar view. 
+
+104. 
+See van fraassen (1989). 
+
+105. 
+The plural of “sentence-schema” is “sentence-schemata.” 
+
+106. 
+In his (1734) work Principles of Human Knowledge, George Berkeley stated these very points, or at least came close to doing so. 
+
+
+
+
+
+
+

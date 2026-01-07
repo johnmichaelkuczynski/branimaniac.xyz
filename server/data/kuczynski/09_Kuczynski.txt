@@ -1,0 +1,386 @@
+﻿Chapter 9
+Putnam’s Insight and Burge’s Blunder: Semantic Externalism vs. Content-Externalism
+1.0 Is linguistic meaning a strictly psychological notion?
+In Naming and Necessity, Kripke decisively showed that proper names are not definite descriptions. In doing this, Kripke was making a specific point concerning the semantics of a specific class of expressions. It might therefore seem that what Kripke was doing in NN, though non-trivial, was too narrow to be of great philosophical importance.
+But implicit in what Kripke said about proper names are many deep and important principles concerning the very nature of meaning and the relationship between language and thought. In 1975, Hilary Putnam published an article titled The meaning of “meaning” (henceforth, “MM”) in which he explicitly stated one of these principles and cogently argued for it. What he showed is that what we think does not, by itself, establish what our words and sentences mean.
+It’s obvious that what we think largely determines what it is that our expressions mean. The word “snow” could refer to anything; it would be easy to create a language in which it referred, not to so snow, but to Julius Caesar. (Let’s create such a language right now. Let L be a language that is just like English except that, in L, “snow” refers to Julius Caesar and “Julius Caesar” refers to snow. L is a perfectly good language—it’s as expressively powerful a language as English.) It’s obviously at least partly because of what some people were thinking at certain times that “snow” refers to snow, and not to Julius Caesar.
+But Putnam made it clear that there is an important non-psychological dimension to linguistic meaning. Given only that, at any given moment, person X is psychologically and behaviorally indistinguishable from person Y, it does not follow that the words leaving X’s mouth have the same meanings as the words leaving Y’s mouth. So, supposing that at any given moment X is having a given thought if and only if Y is having an exactly similar thought, and that X is producing a given utterance if and only if Y is producing an exactly similar utterance, it does not follow that what is meant by X’s utterance coincides with what is meant by Y’s. Even though the psychological state that gave rise to the one utterance is just like the psychological state that gave rise to the other, the meaning of the one may diverge from that of the other.
+1.1 Putnam’s argument
+Let Twin-Earth be a planet in some distant galaxy that satisfies the following conditions. Given any person x on Earth, there is a person y on Twin-Earth who is an atom-for-atom duplicate of x. At any given moment, y has a given thought if and only if x has that thought; y has a given feeling if and only if x has that very feeling. y acts a certain way if and only if x acts in an exactly similar way; y makes a certain noise if and only if x makes an exactly similar noise. Thus, Earth people are psychologically and behaviorally exactly like Twin-Earth people. They think, feel, do, and say the very same things at the very same times.
+It is merely coincidence that Earth people are in lock-step with Twin-Earth people. There is no causal interaction between Earth people and Twin-Earth people. No messages are sent from one planet to the other; nobody on either planet in any way influences anyone on the other.
+Even though Earth and Twin-Earth are extremely similar, there is an important difference between them. On Twin-Earth, the liquid in bathtubs, drinking glasses, lakes, etc., isn’t H2O—it’s XYZ. (“XYZ” is an abbreviation for some long chemical formula.) With that qualification, Twin-Earth is, at any given moment, exactly like Earth.
+Let’s continue our story. Smith is a psychologically normal, English speaking, adult Earthling who lives in the 1600s. One day, after doing back-breaking work for several hours, Smith desperately wants to drink some cool water. Addressing his companion, Smith says:
+
+(SE) “When people are thirsty, they find it more refreshing to drink cool, glacial water than warm, swamp water; and if there were no clean water, people couldn’t survive.”
+
+This utterance takes place at time t.
+Important point: SE doesn’t refer to a sentence. It refers to a specific utterance of a sentence. It refers to the specific burst of noise produced by Smith at time t. (Different people can utter a given sentence; different people can utter the sentence uttered by Smith (viz. “when people are thirsty, they find it more refreshing to drink cool, glacial water than . . .”)
+Bear in mind here that, in Smith’s time, nothing was known about the chemical composition of water. People obviously had thoughts about water; they wanted to drink it; bathe in it, and so on. But they didn’t know that it was H2O; they didn’t even grasp the concepts needed to grasp the concept of an H2O molecule.
+On Twin-Earth, there is somebody who, at any given moment, is psychologically and behaviorally just like Smith. (This follows from what we said earlier.) Let Twin-Smith be that person. At any given time, Twin-Smith makes the very noises as Smith and, in so doing, expresses the very sentiments. (This too follows from our earlier points.) Thus, at time t, Twin-Smith says:
+
+(TS) “When people are thirsty, they find it more refreshing to drink cool, glacial water than warm, swamp water; and if there were no clean water, people couldn’t survive.”
+
+Important point: TS doesn’t refer to a sentence. It refers to a specific utterance of a sentence—to the specific burst of noise produced by Twin-Smith at time t.
+Question: Does SE have the same meaning as TS? I am not asking whether Smith and Twin-Smith coincide in respect of what they mean by their respective utterances, but whether SE and TS coincide in respect of what they mean. The question doesn’t concern what Smith and Twin-Smith are trying to convey through their respective utterances; it concerns what those utterances themselves mean.
+SE and TS don’t have the same meaning. They have different propositions for their respective meanings, and the one proposition is true in circumstances where the other is false, and false in circumstances where the other is true.
+“Water” refers to the substance whose chemical composition is H2O. That’s a simple fact. A thoroughly competent speaker of English can easily fail to know that “water” refers to that substance. Newton didn’t know it, even though he was an exceptionally intelligent person who spoke perfect English. But that doesn’t matter. Here on Earth, there is a certain liquid x such that x is found in bathtubs, drinking glasses, lakes, and oceans, and such that that is referred to as “water.” That substance was referred to as “water” for many hundreds of years before anything was known about chemistry or, in particular, about the chemical composition of that substance. When, finally, that substance was analyzed, it turned out to consist of H2O molecules. Thus,
+
+(WAT1) “there is some substance x such that x is found in bathtubs, drinking glasses, lakes, and oceans, and such that x consists of H2O molecules, and such that: ‘water’ refers to x.”
+
+Of course, we now know that the substance referred to as “water” is H2O. And if we were to discover some substance that consisted of XYZ, not H2O, but was otherwise just like water, at least as far as the conditions that are likely to obtain on the surface of the Earth are concerned, that other substance wouldn’t be H2O. The chemists who discovered XYZ would not come to the conclusion that water is sometimes H2O and is sometimes XYZ. No—they’d say that water is always H2O, but that a different substance, namely XYZ, is extremely water-like, at least within certain horizons.
+When they weren’t referring to XYZ by its chemical name, chemists would not refer to it as “water.” Maybe they’d refer to it as “pseudo-water” or as “fool’s water”—but not “water.” This practice of theirs wouldn’t be a
+case of hair-splitting pedantry. If chemists did refer to this other substance as “water,” their doing so would violate beliefs that are deeply embedded in common sense. Even the most philistine, intellectually narrow human being desperately wants real diamonds, not zirconium imitation diamonds, and thus knows that being diamond-like isn’t the same thing as being a diamond. Similarly, everybody knows that being water-like isn’t the same thing as being real water. And even if some people don’t know it, they’d quickly learn it, no matter how scientifically uninformed they were, if the distinction between water and XYZ became a financially significant one, like the distinction between diamonds and chunks of zirconium paste that resemble diamonds.
+For the same reasons mutatis mutandis, on Twin-Earth “water” would refer to XYZ, not H2O. And it would always have referred to XYZ—even before scientists on their planet discovered its chemical composition.
+Before proceeding, let’s deal with an objection that is likely to be heard:
+
+An English-speaking physical chemist obviously knows a lot about water that other English speakers don’t . But what the physical chemist knows that other English speakers don’t has nothing to do with the English language or, therefore, with semantics. Given only that somebody doesn’t have a PhD in physical chemistry, it doesn’t follow that they have any linguistic deficits—that they don’t really know the identities of the semantic rules governing expressions like “water,” “gold,” “lead,” etc. This is all quite uncontroversial.
+But it’s inconsistent with the view you (speaking on Putnam’s behalf) are advocating. You say that, for something to be water, it isn’t enough that it have certain macro-characteristics: it must have a specific chemical composition—it must be H2O. Given that, as a matter of semantics, “water” refers to water, what you’re saying entails that, as a matter of semantics, “water” refers to H2O. But if that were right, one couldn’t master the English language without knowing the chemical composition of water or, by obvious extensions of this argument, the chemical composition of gold or aluminum. But that’s preposterous.
+
+One doesn’t have to know anything about chemistry to have a complete mastery of English (or any other natural language), and it would be preposterous to deny that. But the view I’m describing doesn’t have that consequence. There is some individual x such that the semantic rule for the expression “Barack Obama” is to the effect that:
+
+(BO) “Barack Obama refers to x.”
+
+BO pairs off a name with an individual. If one doesn’t know which individual that is, then one doesn’t know the semantic rule for “Barack Obama” and, therefore, one doesn’t know all of the semantic rules constitutive of the English language in 2009.
+But there are infinitely many ways of singling out any given entity. This is a consequence of the fact that, as a matter of logic, any given object uniquely satisfies infinitely many different descriptions. Let P be the region of space you were occupying the instant you began reading this sentence, and let t be that instant. You uniquely satisfy each of the following predicates: “thing that occupied p one minute before time t + one minute,” “thing that occupied p two minutes before time t + two minutes,” and so on. We’ll henceforth abbreviate the first of these predicates as “P1,” the second as “P2,” etc.
+For argument’s sake, let’s suppose that your name is “Jack Jones.” There is some x such that x uniquely satisfies each of P1, P2, P3, etc., and such that, in order to the know semantic rule governing that expression, one must know that:
+
+(JJ) “Jack Jones refers to x.”
+
+If Smith knows that:
+
+(JJ75) there is some x such that x uniquely satisfies P75 and such that: “Jack Jones” refers to x
+and Jones knows that:
+
+(JJ143) there is some x such that x uniquely satisfies P143 and such that: “Jack Jones” refers to x
+
+Smith and Jones are, to that extent, in complete semantic accord. There is some one x such that x satisfies each of P75 and P143, and such that, given any property psi, when Smith says:
+
+(JJ1) ‹Jack Jones has psi›
+
+he is affirming that
+
+(JJ2) x has psi,
+
+and such that when Jones utters JJ1, he too is affirming that x has psi. Further, it is each individual’s intention in uttering JJ1 to affirm JJ2. What each wishes to do is to attribute psi to some person—nothing more. Neither wants to say anything about his way of thinking about that person. Neither wishes to say of P75 or P143 or any other property that it is uniquely instantiated or that all its instances are psis.
+Points exactly similar to those just made about “Jack Jones” hold with respect to “water.” At time t, bathtub B is filled with pure water, on which your rubber ducky is floating. Your mother points to that B and says:
+
+(*) The liquid in the tub is known as “water.”
+
+A few days later, at time t*, you burn your finger in scalding water. Given that water is H2O, it follows that each of the following statements is true:
+
+(1) there is some liquid x such that, at time t, x is what your rubber ducky is floating on; moreover, “water” refers to x.
+(2) there is some liquid x such that, at time t, x is what your bathtub is full of; moreover, “water” refers to x. (3) there is some liquid x such that x and x alone is H2O, and such that “water” refers to x.
+(4) there is some liquid x such that, at time t*, x and x alone is what scalded your finger; moreover, “water” refers to x.
+(5) there is some liquid x such that x and x alone is H2O and such that, at time t*, x and x alone is what scalded your finger; moreover, “water” refers to x.
+
+And so on.
+To know what “water” refers to, it is necessary only that you know some truth of the form:
+
+(n) there is some substance x such that x uniquely has property phi; “water” refers to x.
+
+Since water uniquely has each of infinitely many different properties, n is true for each of infinitely many values of phi. Where any given one of these truths is concerned, knowing it is sufficient, but not necessary, for knowing what “water” refers to and, therefore, for knowing the semantics of that expression.
+Since n is a sentence-schema, not a sentence proper, it does not itself express any one of these truths. But in what follows, take n to stand for an arbitrary one of them.
+Only the italicized part of n describes a semantic rule. The rest describes the information through which one grasps that rule. Anyone who knows the semantics of water knows this (though they might not recognize what it is that they know in the statements just made).
+Let’s tell another story about Smith and Jones. Both are competent speakers of English. Smith knows that:
+
+(7) there is some liquid x such that x is what is in bathtubs and drinking glasses; moreover, “water” refers to x.
+Jones, who is more scientifically minded than Smith, knows that:
+
+(8) there is some liquid x such that x is H2O and such that creatures with gills can breathe when immersed in x and creatures with lungs cannot; moreover, “water” refers to x.
+
+There is some liquid x such that individual’s sole intention in saying
+
+(w2) “water covers most of the Earth’s surface”
+
+is to say:
+
+(w3) x covers most of the Earth’s surface.
+
+Neither wishes to affirm either that:
+
+(w4) there is some liquid x such that x is what is in bathtubs and drinking glasses, and such that “water” refers to x; moreover, x covers most of the Earth’s surface,
+
+or that
+
+(w5) there is some liquid x such that x is H2O and such that creatures with gills can breathe when immersed in x and creatures with lungs cannot; moreover, x covers most of the Earth’s surface.
+
+Each individual’s intention in uttering w2 is to ascribe a certain property to a certain substance. They have the same substance in mind. They wish to attribute the same property to it. Neither wants to say anything about how he thinks about that substance. Neither wants to attribute any property to anything other than that substance. Thus, what Smith means when he says “water covers most of the Earth’s surface” is exactly what Jones means when he utters the same sentence. And so long as each knows that the other agrees with him about what it is that “water” that refers to, any difference between them in respect of how they think about its referent will in no way jeopardize the one person’s ability to understand the other. To put it more formally: provided that, for some x, each believes that “water” refers to x and that each knows that the other believes this, the differences between these two individuals in respect of how they think about that substance won’t jeopardize their ability to communicate with each other.
+1.2 Putnam’s semantic externalism (continued)
+These points make it clear why it is that Smith and Twin-Smith, though driven to make the very same noises by the very same internal conditions, are nonetheless affirming different propositions. Let’s suppose that when Smith was a child, his mother pointed to the liquid in the tub in which Smith regularly bathed, and which Smith recognized as the liquid that he had to drink in order to live, and said: “That is water.” The message that is communicated to Smith is along the lines of:
+
+(8) There is some liquid x such that x is what I (Smith) bathe in and must also drink in order to survive and “water” refers to x.
+
+Given that the liquid indicated by Smith’s mother is, of its very nature, H2O, it follows that when, at time t, Smith utters SE, his utterance is true exactly if:
+
+(SE*) “When people are thirsty, they find it more refreshing to drink cool, glacial H2O than warm, swamp H2O; and if there were no clean H2O, people couldn’t survive.
+Because he lives hundreds of years before the birth of modern chemistry known, Smith has no idea what it would even mean to identify water with H2O. Moreover, nobody who is alive at the time has any such idea. Nonetheless, the statement he is making does concern H2O. This shows that:
+
+(PTM) the meanings borne by our utterances are not determined solely by the thoughts we have; there is a strictly non-psychological, strictly environmental dimension to linguistic meaning.
+
+Given what we know about Twin-Smith and Twin-Earth, it follows that, when Twin-Smith utters TS, what he is saying is true exactly if:
+
+(TS*) “When people are thirsty, they find it more refreshing to drink cool, glacial XYZ than warm, swamp water; and if there were no clean XYZ, people couldn’t survive.”
+
+And this is obviously consistent with Putnam’s thesis (henceforth “PTM”).
+The doctrine that PTM is true is known as semantic externalism. It is so-called because, according to PTM, the determinants of the semantics of our expressions are (in some cases, in some respects) external to us.
+2.0 Burge’s blunder—the (mis)step from semantic to content externalism
+PTM is a deep, important, and original insight, and Putnam deserves sole credit for it. And unlike many of the philosophers who were influenced by his important article, Putnam’s views as to what PTM does and does not imply were correct. In MM, Putnam says that Smith’s words don’t have quite the same meanings as Twin-Smith’s words, even though Smith and Twin-Smith have the same thoughts.
+Under pressure from other philosophers, especially Tyler Burge, Putnam later rejected this correct and profound insight, and he came to accept Burge’s position, which is that, not only do Smith’s words have different meanings from Twin-Smith’s, Smith’s thoughts don’t have the same contents as Twin-Smith’s.
+Burge’s work has been enormously influential. It didn’t just influence Putnam, but analytic philosophy as a whole. Thanks largely to Burge’s work, it came to be widely held for 20 years or so that Smith and Twin-Smith have different thoughts. This must be understood aright. Nobody denies that Smith and Twin-Smith have numerically different thoughts. Burge is making the much less innocuous claim that what Smith is thinking is different from what Twin-Smith is thinking. In Burge’s view, just my thought that it’s hot during the summer has a different content from your thought that it’s cold during the winter, so, according to Burge, the thought that Smith expresses in saying, for property psi, “water has psi” is different from the thought that Twin-Smith expresses by means of that same utterance.
+This interesting chapter in the history of analytic philosophy began in 1979, four years after Putnam published MM, with the publication of Burge’s article “Individualism and the mental” (henceforth, “BI”). Here is what Burge argues. There is a planet, which we’ll call “Twin-Earth,” that is exactly like Earth, with one qualification to be stated in a moment. The events on Twin-Earth are in lockstep with those on Earth. So given that earthling Smith sneezes at a certain time, Twin-earthling Twin-Smith sneezes in the exact same way at the exact same time.
+Given what we’ve said, it follows that English is spoken by many people on Twin-Earth. Twin-Smith is one of these people. On our planet—on Earth, in other words—“arthritis” refers to a disease exclusively of the joints. On Twin-Earth, “arthritis” refers to a malady not only of the joints, but also of certain bones (as opposed to the cartilaginous joints linking bones to one another). So, on Twin-Earth, “arthritis” doesn’t refer to the same disease that it refers to on Earth. It refers to a similar, but distinct ailment. Let us refer to that ailment as “twin-arthritis.”
+On Earth, Smith regards the sentence:
+
+(AU) “arthritis is unpleasant”
+as expressing a truth. And because he personally suffers from arthritis, he often utters AU. (In this context, it is to be assumed that Smith is speaking sincerely, is cognitively competent, etc., and these same assumptions are to be made about Twin-Smith).
+Like Smith, Twin-Smith regards AU as expressing a truth. But, according to Burge, the thought underlying Twin-Smith’s utterance of AU is different from the thought underlying Smith’s utterance of it. Twin-Smith is thinking about twin-arthritis, not arthritis, and Smith is thinking about arthritis, not twin-arthritis. In a moment, we’ll evaluate this important claim.
+Burge concludes from this that two people who are atom-for-atom duplicates of each other, each a perfect physiological and psychological clone of the other, may have thoughts with different contents. Twin-Smith is thinking Descartes (or Twin-Descartes, rather) was a great philosopher, whereas Smith is thinking Ted Danson is a great philosopher, notwithstanding that Smith and Twin-Smith are, by Burge’s hypothesis, psychologically exactly the same.
+Is Burge right? First of all, he’s right that, on Twin-Earth, “arthritis” doesn’t refer to arthritis, and instead refers to twin-arthritis. This is precisely what Putnam showed. But is Burge right that Smith and Twin-Smith are cognitively different?
+No. How does Smith learn what “arthritis” refers to? Here’s a possible answer (and it’s representative, in the relevant respects, of all the other possible answers). Addressing Smith, so and so says:
+
+(A1) “the unpleasant inflammation in your knees is due to arthritis; arthritis can do terrible damage to one’s joints.”
+
+A1 is to the effect that:
+
+(A2) there is some x such that the swelling in your knees is due to x and such that x can do terrible damage to one’s joints; moreover, “arthritis” refers to x.
+
+For now familiar reasons, it follows that when Smith hears someone say:
+
+(A3) “arthritis has psi,”
+
+the message that is communicated (not literally meant) is:
+
+(A4) There is some x such that the swelling in your knees is due to x, such that x can do terrible damage to one’s joints, and such that “arthritis” refers to x; moreover, “arthritis” refers to x.
+
+Remember that Twin-Smith’s life precisely parallels Smith’s. It therefore follows that, when Twin-Smith hears someone utter (A3), is the message that is communicated (not literally meant) is (A4).
+Thus, contrary to what Burge says, Smith’s thoughts do have the same content as Twin-Smith’s. It’s true that, for the reasons given by Putnam, the sentences they use to express those thoughts don’t always have the same literal meanings. But unless one countenances the obviously false assumption that what we think coincides exactly with what our expressions mean, it doesn’t follow that Smith’s thoughts have the same contents as Twin-Smith’s .
+2.1 Literal meaning vs. cognitive content
+An utterance on Earth of “arthritis is painful” does have a different literal meaning from such an utterance on Twin-Earth. There is some malady x, namely arthritis, such that x only afflicts the joints and such that an utterance on Earth of:
+
+(A5) “arthritis is painful”
+is true just in case:
+
+(A6) x is painful,
+
+it being irrelevant whether some disease that afflicts things other than the joints is also painful. And there is some y, namely twin-arthritis, such that y does not afflict only the joints and such that an utterance on Twin-Earth of
+
+(A5) “arthritis is painful”
+
+is true just in case:
+
+(A6) y is painful,
+
+it being irrelevant whether some disease that afflicts only the joints is also painful. But Burge is wrong to conclude from these facts that Smith and Twin-Smith have different thoughts.
+2.2 A second Burge-style argument
+Let W1 be the actual world and let W2 be some other possible world. In each of W1 and W2, my friend Max has an identical twin Gary. Gary and Max are cosmetically, physiologically, and behaviorally completely and totally indistinguishable. To know that one is seeing Max as opposed to Gary, or vice versa, one has to rely on ulterior knowledge (e.g., that Gary is now in Finland and that he couldn’t possibly be the person with whom one is now lunching in New York).
+In W1, at time t, my friend Sally and I are 10 feet away from Max, and I’m looking right at him. In W2, at time t, Sally and I are 10 feet away from Max’s identical twin, Gary. Otherwise, W1 at t and W2 at t are indistinguishable (at time t). Given only the information available to me by virtue of having the perception involved in my seeing Max, it is not even a theoretical possibility that I might encounter some evidence or have some experience on the basis of which I could rationally conclude that I was in the one world as opposed to the other.
+Moreover, the experiences that I have had in W1 up until time t have been qualitatively identical with those that I’ve had in W2 up until time t. So neither my current experiences nor my memories nor the two combined could possibly enable me to determine whether I’m in the one world as opposed to the other.
+It is to be assumed in what follows that all my utterances are sincere—they express beliefs that I actually have.
+In W1, while pointing at Max, I tell Sally:
+
+(U1) “That entity is wearing a plaid shirt.”
+
+(In due course, it’ll be clear why I’m using the word “entity” as opposed to individual.) In W2, while pointing at Gary, I tell Sally:
+
+(U2) “That entity is wearing a plaid shirt.”
+
+U1 and U2 are specific utterances. So U1 is an utterance that occurs in Max’s presence in W1, and U2 is an utterance that occurs in Gary’s presence in W2. In each world, I know that I’m seeing either Gary or Max, but in neither world do I know which of the two I’m seeing.
+In W1, there is some individual x, namely x, such that such x ≠ Gary and such that U1 is true exactly if:
+
+(MP) x is wearing a plaid shirt.
+In W2, there is some other individual y, namely Gary, such that y ≠ Max and such that U2 is true exactly if:
+
+(GP) y is wearing a plaid shirt.
+
+MP is true just in case Max is wearing a plaid shirt, it being irrelevant whether Gary is wearing one. And GP is true just in case Gary is wearing a plaid shirt, it being irrelevant whether Max is wearing one. Neither entails the other; neither entails the negation of the other. MP and GP are different propositions.
+U1 expresses what I’m thinking in W1, and U2 expresses what I’m thinking U2. U2s ’ truth-conditions coincide with those of the thought I’m having in W1, and are therefore given by MP; and U2’s truth-conditions coincide with those of the thought I’m having in W2 and are therefore given by GP. Thus, the belief expressed by U1 has a different content from the belief expressed by U2.
+Of course, in W1, my visual experience results from light bouncing off Max, not Gary; and in W2, it results from light bouncing off of Gary, not Max. But apart from that fact, there is absolutely nothing that at that time distinguishes my situation in the one world at time t from my situation in the other world. My intracranial situation in W1 is just like my intracranial situation in W2.
+But we just saw that the content of what I’m thinking in W1 at t is different from the content of what I’m thinking in W2. This difference must derive from the fact that, in W1, my mental state has a certain external cause (light bouncing off of Max), whereas in W2 it has a different external cause (light bouncing off of Gary).
+2.3 Burge’s failure to distinguish what we know directly from perception from what we infer from perception
+The conclusion of this argument is false, and there is thus something wrong with the argument itself. The problem with it is that it assumes that the relationship between linguistic meaning and cognitive content is much tighter than it actually is.
+Let’s suppose the following. I’m in some world W3 (not identical with W1 or with W2). I’m with my friend Sally. I bet her $10 that within the next 24 hours we’d see somebody wearing a plaid shirt. She doesn’t know, or know of, either Max or Gary. W3 is exactly like each of W1 and W2 except that, in W3, the thing standing in front of me isn’t Max or Gary—it’s a robot that looks exactly like both of them. I don’t (yet) know that such a robots exists. I’m friends with Max and Gary. I happen to know that Gary is out of the country. I also know that Max is somewhere in the vicinity. So, given that I’m looking at something that looks exactly like Max, I believe that I am seeing Max. I’m with my friend Sally. I see that the thing I’m beholding is wearing a plaid shirt, and I say:
+
+(U3) “That entity is wearing a plaid shirt.”
+
+Let VR be the visual perception of which my seeing this thing consists. VR is utterly high resolution and veridical. I’m seeing the thing before me, whatever it is, as it is. Given that this thing looks exactly like Max and Gary, my seeing it as it is involves my having a perception exactly like the one that I’d have in that very situation if ceteris paribus, it was Max or Gary I was seeing.
+Thus, VR does not itself tell me who it is that I’m seeing. Given only what VR tells me, that thing could be Max or Gary or some third person (or thing). VR does tell me that I’m seeing somebody with such and such characteristics, among them that of wearing a plaid shirt.
+I’m wrong about who (and what) that entity is. But that doesn’t affect the belief I’m trying to get across. I don’t care who or what that entity is, and neither does Sally. All we care about is whether it’s wearing a plaid shirt. I correctly believe that it is wearing a plaid shirt, and that’s the belief I’m trying to get across by uttering U3. Therefore, the belief embodied in U3 is correct.
+This has two very important consequences, each of which is incompatible with Burge’s position. Consequence #1: There is no particular x such that VR tells me that it’s x I am seeing. This follows from the fact, just noted, that VR does not itself apprise me of the identity of the thing that I’m seeing.
+Consequence #2: There is no particular x such that the belief embodied in U3 is correct only if x is plaid shirt. This follows from the fact, earlier noted, that the belief embodied in U3 is correct as long as the thing we’re seeing is wearing a plaid shirt, it being irrelevant who or what that thing is.
+Suppose that Robo-Max is the entity that I’m seeing—that he’s the object of VR. Given only what VR is telling me, I could be seeing any number of different individuals. What VR tells me is that there is somebody having such and such characteristics—that there is somebody standing in a certain place and wearing a plaid shirt. So the content of VR is existential. It tells me that:
+
+(CVR) There is some entity x such that x has such and such characteristics, such that x is standing in a certain place and such that x is wearing a plaid shirt.
+
+Obviously, CVR is at least one of the things that, on the basis of VR, I believe to be true. And it’s the relevant belief in this context, since it’s the one embodied in U3.
+Supposing that VM is the perception I’m having in U1 of Max, and that VG is the perception I’m having in U2 of Gary, it follows that the belief embodied in U3 has the very same content as the belief embodied in U1 as well as the belief embodied in U2. Remember that, from an experiential standpoint, no two of these situations are distinguishable, even in principle.
+Let’s state as clearly and explicitly as possible how Burge goes wrong. Burge says that what VR is telling me is different from what VM is telling me and also from what VG is telling me. Burge thinks that there is some x, namely a certain robot, such that VR is correct just in case:
+
+(bx) x is wearing a plaid shirt.
+
+And Burge thinks that there is some y, namely Gary, such that VG is correct just in case:
+
+(by) y is wearing a plaid shirt.
+
+Finally, Burge thinks that there is some z, namely Max, such that VM is correct just in case:
+
+(bz) z is wearing a plaid shirt.
+
+Of course, none of these three propositions is equivalent with other; none so much as entails either of the others. So if Burge is right, then the proposition encoded in my visual perception in W3 is different from my visual perceptions in W1 and W2, and the propositions encoded in the latter two perceptions are different from each other.
+But Burge is not right. Given only what VR is telling me—in other words, given only what I know on the basis of VR without the help of pre-existing, background knowledge derived from some source other than VR—I can’t possibly know that I’m seeing robot x as opposed to person y as opposed to person z as opposed to Martian w. The content of my perception on W3 is, quite obviously, neutral with respect to the identity of the object of that perception, and its content is therefore, in that respect, general and, more specifically, is given by CVR.
+Russell (1927) makes this point very clearly:
+
+Prejudice tells you that you see the same table on two different occasions; you think that experience tells you this. If it really were experience, you could not be mistaken; yet a similar table may be substituted without altering the experience . . . there is nothing to show that one identical entity causes the two sensations.
+
+The message embodied in VR goes through regardless of who it is that I am seeing to be wearing a plaid shirt. That identity-independent message is embodied in the belief underlying my utterance of “that guy is wearing a plaid shirt,” and it’s embodied in that utterance. Therefore, Burge is simply wrong to identify the
+content of that belief with bx. For exactly similar reasons, Burge is just plain wrong to identify bx (by)with what VM (VG)tells me and with the belief embodied in U1 (U2).
+Of course, there are differences between those situations. In the first, it’s Max who’s standing in front of me; in the second, it’s Gary; in the third it’s a robot. But these differences don’t lead to any experiential differences, since those three things all look exactly the same. In none of these worlds can the content of my visual perception, taken by itself, register that it’s Max, Gary, or some third thing that’s in front of me. Given that
+CVR is the content of my visual perception in W3, it follows that CVR is also the content of my perception in U1 and also of my perception in U2. (The content of my visual perception in the one world coincides with the content of my visual perception in each of the other worlds.) Given that, in W3, it’s my belief that CVR is true that leads me to utter U3; it follows that it is that same belief that prompts me to utter U1 and also U2.
+2.4 Burge’s failure to distinguish literal meaning from cognitive content
+U3 does indeed have different truth-conditions from each of U1 and U2. But it doesn’t follow that the thought underlying U3 is different from the thought underlying U2/U3.
+Not only does it not follow: it isn’t true. What VR is telling me, and what I believe strictly on the basis of it, is CVR. It’s true that I have other beliefs. I believe (incorrectly) that it’s Max I’m seeing. But that belief is a derivative of my belief that CVR is true. And the belief that prompts me to utter U3—the belief I’m expressing—is true, it being irrelevant who or what the plaid-shirt wearer turns out to be.
+An extension of our story about W3 makes this clear. In plain view of Sally and myself, this entity takes its face-plate off, revealing a complex web of circuitry, as opposed to various organic tissues. I now know that it’s a robot, and, given my pre-existing knowledge that Max isn’t a robot, that it therefore isn’t Max. Now that I know that it was a robot that I was seeing, am I to conclude that the belief embodied in U3 is wrong? No. If I look at what is in fact a green car and say “that car is green,” what I’m saying is correct and the belief embodied in that utterance is correct, even though I also happen to have the false belief that the car belongs to Smith when, in fact, it belongs to Jones.
+Nor am I to conclude that VR wasn’t veridical. VR was high-resolution and veridical. The problem had to do with the fact that, in having VR, the thing I was accurately seeing, though not identical with Max, looked just like him, and with the consequent fact that, on the basis of my correct belief in CVR, I erroneously assumed that it was Max I was seeing.
+2.4.1 Burge’s failure to distinguish literal meaning from cognitive content (continued)
+To clarify and substantiate the points just made, let’s modify what we said about the events taking place in W2.
+You and I are both looking at Gary. (We both have good vision.) I happen to know that the thing we’re seeing really is Gary. I have pre-existing knowledge to the effect that nothing other than Gary looks quite like Gary.
+VG is my visual perception of Gary. From an experiential standpoint, VG is completely indistinguishable
+from the perception that, in W1, prompted me to utter U1 and also from the perception that, in W3, prompted me to utter U3. VG is the perception that prompts me to utter U2.
+It follows that from a purely experiential standpoint VG is completely indistinguishable from VM and also from VR. It also follows that the belief embodied in U2 is identical with the belief embodied in U1 and also in U3. U1–U3 all express the same belief. So CVR is the belief embodied in each of these three utterances.
+Although I know that it’s Gary I’m seeing, VG itself obviously doesn’t tell me this. Nor does it tell me that, apart from Max, nothing in the universe looks just like Gary. These things were learned independently of VG. My knowledge of them is background knowledge.
+Thus, there is no individual x such that x is identical with Larry and such that by itself VG tells me that it’s x specifically that I’m seeing. I do indeed know who I’m seeing. But it’s VG plus my background knowledge that gives this information, not VG by itself. Given only what VG is telling me, I could be seeing Gary or Max or some third thing, and the correctness of what I believe strictly on the basis of VG doesn’t depend on who (or what) it is that I’m seeing.
+3.0 The gappiness of Burge thoughts
+The erroneousness of Burge’s position becomes painfully clear when we register its most immediate consequences. Of those consequences, here’s the one I find most striking. Given two people who are psychologically identical, one of them may be having all sorts of thoughts while the other is a zombie—a mental blank who is no more having thoughts than a tomato.
+Remember that, in W1, there is some individual x such that x = Max and such that U1 (my utterance of “that guy is wearing a plaid shirt”) is true exactly if:
+
+(MP) x is wearing a plaid-shirt.
+
+This is true. Notice that it’s a claim about language, about literal meaning—about what is literally meant by an utterance. It isn’t, at least not directly, a claim about the content of my visual perceptions or my thoughts.
+But Burge holds that, indeed, positions exactly similar to the one just stated about that utterance hold with respect to my perceptions and thoughts. Burge’s holds that, in W1, there is some individual x such that x = Max and such that the content of VM (the visual perception I’m having) is true exactly if:
+
+(MP) x is wearing a plaid shirt.
+
+Burge also holds that, in W1, there is some individual x such that x = Max and such that the content of what I believe on the basis of my visual perception is true exactly if MP.
+This last claim has a very interesting corollary. Let W4 be a world that, with one qualification, is like each of W1–W3. The qualification is that, at the time in question, Sally and I are hallucinating. In other words, I’m not really seeing a man who is wearing a plaid shirt; there’s only empty space in the place where, so I believe, I “see” there to be such a person. But I am having a hallucination that is phenomenologically (experientially) just like VM (and, therefore, VR and VG). We’ll refer to that hallucination as “VH” (short for “visual hallucination”). Prompted by that hallucination, I say:
+
+(U	4) “That entity is wearing a plaid shirt.”
+
+If U4 were correct, it would be because, in the place in question (the one at which I’m pointing), there was some individual w such that w was wearing a plaid shirt; and the proposition that U4 would encode under that circumstance would be:
+
+(bw) w is wearing a plaid shirt.
+
+But U4 is not correct. It’s not true or false. It’s abortive. If I point to a non-existent gnome on my bed, and I say:
+
+(G1) “that gnome weights 8 lbs,”
+
+my utterance presupposes that there is such a gnome, and since that presupposition is false, my statement is neither true nor false. By contrast, if I pointed to the bed and said:
+(G2) “there is a gnome on my bed, and that gnome weights 8 lbs,”
+
+that statement would be false. (G1 and G2 are supposed to be utterances of sentences, not sentences per se—sentence-tokens, not sentence-types.) U4 is abortive for the same reason that G1 is abortive. It is neither true nor false. Since any expression that is true or false ipso facto encodes a proposition, and since any proposition is ipso facto true or false, it follows that U4 fails to encode a proposition.
+Burge rightly believes that U4 fails to encode a proposition. But he believes—partly on the basis, it seems—that VH has no content. In other words, he believes that VH isn’t giving me any message. What VH is giving me, Burge believes, is the following message-fragment:
+
+(BLNK) __is wearing a plaid shirt.
+
+The underlining (the ___) is meant to denote a gap or blank of some kind.
+Burge also thinks that the thought I’m having on the basis of VH has a blank in it—that it’s like BLNK. In Burge’s view that thought (or non-thought, as the case may be) is identical with BLNK.
+If Burge is right, what VH gives me has a hole in it, and therefore isn’t really a message; and to the extent that it’s based on VH, the mental activity that follows it doesn’t mediate any bona fide thoughts. Since the mental activity underlying U4 is obviously based on VH, Burge’s view entails that no thought underlies that utterance.
+Burge’s position is preposterous. It’s obvious that VH gives me a complete message. It tells me that there is an individual in a certain place who wearing a plaid shirt (etc.). More precisely, it tells me that:
+
+(CVR) There is some entity x such that x has such and such characteristics, such that x is standing is in a certain place and such that x is wearing a plaid shirt.
+
+CVR is a false message, of course. But that only proves our point, since false messages are complete messages. Burge’s analysis entails that the message given to me by my visual experience is BLNK, not CVR. Since BLNK, unlike the message that is in fact given to me, is neither true nor false, Burge’s analysis is false.
+4.0 A corollary of Burge’s externalism: the impossibility of knowing one’s conscious thoughts any better than one knows facts about the spatially and temporally remote past
+Let’s continue to think about my situation in W4. In that world, I think that I’m seeing somebody—and I’m wrong. But there’s something I’m not wrong about. In W4, if, at the time I was having VH, I were asked “are you having a thought and, if so, what is it?” I’d say without any hesitation: “yes, I’m having a thought; I’m thinking that the fellow standing over there is wearing a plaid shirt.” Surely my answer to the second question is right. I know what I’m thinking. What I’m thinking is wrong, since there’s no man there. But I’m right to think that I’m thinking it.
+But Burge’s position entails the opposite. In the context in question, I’m not thinking anything. There’s a blank where, had I been in W1–W3, I would have been having a thought. A consequence is that, when you ask me “are you having a thought and, if so, what is it?” I’d be wrong to say: “yes, I’m having a thought; I’m thinking that the fellow standing over there is wearing a plaid shirt.” Why would I be wrong? Two reasons. First, I wouldn’t be having a thought at all. I’d be having a would-be thought, a pseudo-thought, but not a thought. Second, since I wouldn’t be having any thought, my belief as to what specifically I was thinking would also be wrong.
+But that’s obviously false.
+4.1 The causal conception of conception
+To appreciate the depth and severity of this problem, we have to make a few facts about Burge’s views explicit. Here is Burge’s view (this is paraphrase, not a quotation):
+
+(BV) Let’s take another look at the situation described a moment ago—the one in which, in W1, you are thinking about Max. The reason you’re thinking about Max, opposed to Gary or some other entity, is that you’re on the receiving end of a certain causal process that began with Max. Your current thought about Max (i.e., your thinking that he’s wearing a plaid shirt, etc.) resulted from a perception that you had of him. That perception was the result of changes to your physiological condition that were brought about by light-rays that bounced off of him. That is why the sense-perceptions in which those disturbances eventuated were perceptions, not of Gary, but of Max; and that is also why the thoughts in which those sense-perceptions eventuated were thoughts, not of Gary, but of Max. So your current thought—the one embodied in U1—concerns Max, and no one else, because it “tracks back” to Max, meaning that it bears a causal relation of the just-described kind to Max.
+
+In Burge’s view, conception is to be understood in causal terms, not in descriptive terms. Why does he think this? Remember Putnam’s story about Smith and Twin-Smith. Smith’s mental contents are descriptively just like Twin-Smith’s. So far as Smith has a mentally encoded description that picks out H2O, it’s “liquid that we bathe in, drink, is found in lakes [etc.]”; and so far as Twin-Smith has as a mentally encoded description that picks out XYZ, it coincides with Smith’s . At the same time, when Smith says “water covers most of my planet’s surface,” he’s making a statement about H2O, not XYZ; and when Twin-Smith utters those same words he’s making a statement about XYZ, not H2O. Given that Smith’s thoughts encode the same descriptions as Twin-Smith’s thoughts, why do Smith’s words concern H2O whereas Twin-Smith’s concern XYZ? The answer: Smith is on the receiving end of a causal chain beginning with H2O, whereas Twin-Smith is on the receiving end of a causal chain beginning with XYZ.
+The essence of conception, in Burge’s view, isn’t description, and is instead the causal back-tracking relation just described. Smith is thinking about H2O because his thoughts track back to H2O, not XYZ.
+A story makes it clear how untenable this is. Right now it’s 5:38 P.M., April 11, 2009. Let t be our abbreviation for that time. Right now, at t, I’m thinking about Descartes. More specifically, I’m thinking:
+
+(D*) Descartes was a fine philosopher.
+
+I must emphasize that I’m doing a very a thorough job of reflecting on what’s going on in my head right now; and, on that basis, I can say with complete confidence that D* is among the things that I’m thinking. Next year, historical research makes it clear that Descartes never existed—that there was no Descartes. It was all a hoax, we find out; the documents—all forgeries. According to Burge, I’m thinking about Descartes only in so far as my thoughts track back to him in the relevant way. They can’t do that if he didn’t exist. So when it’s discovered that Descartes never did exist, it not only turns out that, at t, I wasn’t thinking D*: it also turns out that D* doesn’t even exist to be thought. Let us momentarily suppose that Descartes did exist. In that case, there is some x such that x = Descartes, and such that D* is correct iff x is a fine philosopher and—Burge concludes from this—such that, for that very reason, if x didn’t exist, D* wouldn’t exist either. Burge thinks that Descartes is an actual constituent of the proposition—of the truth—that he was a fine philosopher. (I myself don’t think this. I discuss this in Chapters 3, 6 and 8, where I identify the fallacies concerning the nature of propositions that underlie this view of Burge’s.)
+So, supposing that Descartes turns out never to have existed, despite years of thought to the contrary, it will turn out, in Burge’s view, that D* doesn’t even exist to be thought. So I can’t even think that I’m thinking it—it doesn’t exist, after all.
+But that seems very wrong. Right now, I’m thinking that I’m thinking that Descartes was a fine philosopher. If JMK* is an occupant of a world where Descartes never existed who is otherwise exactly like me, JMK*’s psychological condition at the current time is exactly like mine. But, whereas I am now thinking that I’m
+thinking that Descartes was a fine philosopher, JMK* is failing to have that thought. To the extent that what I am doing right now is thinking D*, JMK* is altogether failing to have a thought. He’s shooting a cognitive blank. That doesn’t mean that he isn’t thinking anything. But to the extent that what I’m thinking right now is D*, he isn’t thinking anything. That means that all of the psychological activity that, in my case, is mediating the thought that D* is, in JMK*’s case, failing to mediate anything. And supposing that, for a split second, D* were the one thought passing through my mind, it follows on Burge’s view that JMK* is, during that split second, not thinking anything at all. Thus, a consequence of Burge’s view is that, given two people who are psychologically identical, one of them may be having a thought whereas the other is thinking nothing at all. But not only is that clearly false: it’s incoherent. Thought is psychological activity. Burge’s view has the absurd result that thought isn’t a psychological process.
+4.1.2 Burge’s response
+Burge denies that his position is inconsistent with the presumption that people know what they are consciously thinking. To evaluate this claim of his, let’s start out by saying what he does admit. Burge admits three things, which we’ll refer to as “B1,” “B2,” and “B3”:
+
+(B1) No matter what mental states I have, it’s a possibility that Descartes didn’t exist. The documents on which my belief is based could have been forged (etc.).
+Thus, even though (so I think, and so let us assume) I do know that Descartes existed (at least insofar as I know anything about what happened in France centuries ago), I don’t know for sure that he did. Moreover, given only what my own mental states are, it’s a theoretical possibility that he never did exist.
+
+(B2) For argument’s sake, suppose that, in reality, Descartes really did exist. Let’s also suppose that I’m now thinking:
+
+(D*) Descartes was a fine philosopher.
+
+A consequence of my (Burge’s) position is that there existed some individual x, namely Descartes, such that D* is correct if and only if
+
+(D1*) x was a fine philosopher
+
+and such that the mental events and structures involved in my having that thought are correct if and only if D1* is correct.
+
+(B3) B2 entails that if I were to be in the very same mental state I was in when I was thinking D*, but it happened to be the case that Descartes had never existed, then I would not be thinking D*. In other words D2 entails that the very mental events and brain-events that in fact constituted my thinking D1* would fail to constitute any thought. By virtue of having those mental and neural events, I’d be shooting a blank, not having a thought—I’d no more be having a bona fide thought than a tomato.
+
+B1–B3 are all correct. B1 is correct, since I can’t know for sure that my mental states correctly represent the external world or a fortiori that the inferences involved in my believing in Descartes’ existence are correct—inferences that are made on the basis of possibly faulty perceptions of possibly faulty records concerning 17th century France. B2 is correct, since Burge’s position does indeed entail that Descartes must have existed if anyone is to think that he was a fine philosopher. And B3 is correct since Burge’s position does indeed entail that the very mental events involved in my thinking D1* would fail to constitute my having any thought at all if, supposing that everything else were the same, Descartes had never existed.
+
+B1–B3 entail that:
+
+(B4) If I’m now thinking that:
+
+(D*) Descartes was a fine philosopher,
+
+then I cannot be any more certain of the fact that I'm thinking D* than I can be of the fact that Descartes existed.
+
+B4 is wrong. I obviously know what I’m consciously thinking with greater certainty than I know about medieval France. I want to make it as clear as possible why B1–B3 entail B4. Given B2, I can think D* only to the extent that Descartes really did exist. Burge admits this. (He has to. B2 is Burge’s whole position.) Given B1, I can know that he existed only to the extent that various beliefs of mine concerning the external world to be accurate—beliefs that presuppose the accuracy of many perceptions of mine and also of many historical documents. Burge admits this as well.
+B3 entails that there is no experiential difference—no difference that is even theoretically detectable—between how I am when I’m actually thinking D*1 and how I am in a world where Descartes never existed but is otherwise like the world where I’m actually thinking D*1.
+B3 entails that, if I am to know that I’m thinking D*1, or anything else about Descartes, I’d jolly well better know that he existed; and I’d therefore jolly well better know that various Descartes-related perceptions of mine were accurate and, in addition, that various inferences of mine concerning various records of mine were also accurate. Which means that a precondition for my thinking about Descartes is my knowing that Descartes existed Which, in its turn, means that, supposing that I’m consciously thinking about Descartes right now, I can’t possibly know that fact with very much certainty at all. I can know it only with the certainty with which I know that Descartes existed.
+But that’s false.
+Since knowing that Descartes existed obviously involves knowing a lot of other things about the external world—since it involves my knowing that I was in fact reading certain books at certain terms, that certain records in fact exist and were made under certain circumstances, etc.—my knowing a huge amount about the external world is a prerequisite to knowing that I’m thinking this or that about Descartes.
+But that’s false.
+This reasoning is easily generalized to show that, if Burge’s position is right, my knowledge that I am consciously thinking about anything x in the external world is no more certain than my knowledge that x existed and, therefore, is no more certain than my knowledge of the various things on which that knowledge is based.
+To sum up, Burge’s position is false, since it has the false consequence that my knowledge of my own conscious mental states is as tentative as my knowledge of occurrences in remote regions of time and space.
+Around six years after he wrote “Individualism and the Mental,” Burge became aware of this problem. He and various followers of his have spent the last 23 years attempting to show that, even though B1–B3 are all correct, Burge’s position is completely compatible with the presumption that we know our conscious mental states better than we know about Descartes’ existence.
+To those who would join Burge in this heroic quest, I must say, quoting Sponge Bob Square Pants: “Good luck with that!”
+5.0 The consequences of Burge’s big blunder: the need to deny independently known truths about causation
+But there are problems with Burge’s position far worse than any thus far mentioned. To see what they are, let’s revisit the situation involving Smith and Twin-Smith—the one where, according to Burge, one of them, but not the other, believes that he has arthritis.
+By supposition, Smith and Twin-Smith are psychologically and physiologically exactly the same. Given this, it follows that the causal properties of Smith’s thoughts coincide with those of Twin-Smith’s thoughts. This means that the supposed difference in content doesn’t make a difference, and is completely and totally inert. Although Smith’s belief in the proposition expressed by A3 (or whatever) obviously has effects (on what Smith does, etc.), and although the same is obviously true of Twin-Smith’s corresponding belief, the alleged difference between these beliefs is absolutely without any consequences. It has no consequences for anybody’s overt behavior or for anybody’s internal, psychological condition.
+5.1 Fodor’s insight
+Jerry Fodor (1987) was one of the first people to note this consequence of Burge’s view. Fodor’s argument is a brisk and incisive one. What is it, Fodor asks, for two numerically distinct things, x and y, to be causally different (i.e., to differ in respect of their causal properties)? It is for them to be such that, were they to switch places with each other but all other factors were left unchanged, the one would behave in the way in which, in actuality, the other behaves.
+Here’s the idea. Suppose that x and y are two billiard balls that are atom-for-atom duplicates of each other. At time t, x collides with a green billiard ball and causes that billiard ball to move. At the same time, y collides with a red billiard ball and causes that billiard ball to move.
+It’s clear that the effects of the one collision are different from those of the other. In the one case, the effect is to make a green ball move; in the other, it is to make a red ball move. But this doesn’t mean that the two billiard balls differ in their causal properties. It means that a given causal property has different effects in different contexts. Suppose that I’m moderately strong. In some contexts, that will have the effect that I easily lift the barbell I’m trying to bench press. (Such contexts include those where the barbell weighs under 100 lbs.) In other contexts, that will have the effect that I can barely make the barbell budge. (Such contexts include those where the barbell weighs over 350 lbs.).
+But, assuming that my level of strength hasn’t changed in the intervening time period, the difference between a situation where I’m trying to lift 50 lbs and one where I’m trying to lift 350 lbs isn’t that my causal properties have changed; it’s that one and the same set of causal properties are sufficient for certain jobs but insufficient for others. You can’t make a rocket out of plywood. But you can make a birdhouse out of plywood. That doesn’t mean that the causal properties of plywood vary, depending on whether they’re composing a rocket or a birdhouse. It means that those causal properties, though sufficient for certain purposes (e.g., bird-house building) are insufficient for others (e.g., rocket building).
+In his landmark work, A system of Logic, John Stuart Mill made it clear that the just-described criterion of causal identity is presupposed by all experimentation and, setting aside the empirical fact that scientists rely on it, is correct as a matter of logic.
+This is not to detract from Fodor’s achievement. Fodor stated that criterion more sharply and clearly than any author that I know of who preceded him. Plus, Fodor deserves credit for seeing the bearing of this principle on Burge’s views. Fodor deserves a lot of credit for many positive developments in recent analytic philosophy, as we’ll see.
+5.1.2 Why thoughts must have causal powers
+Causality is indistinguishable from spatiotemporal existence. It makes no sense to say that x occupies a certain region of space-time but has no causal properties. This is because occupancy is itself a causal notion. My occupying the chair I’m in is indistinguishable from my altering the conditions that other things (e.g., you) must satisfy if they are to occupy the chair. If I weren’t in the chair, you wouldn’t have to displace me to occupy the chair; and given that I am occupying the chair, you do have to displace me to occupy it yourself. Which, though certainly possible, would require an otherwise unnecessary expenditure of energy on your part.
+Given that Smith and Twin-Smith are absolutely the same in respect of their causal properties, it follows that the alleged differences between the one person’s mental content and the other’s is causally impotent. A
+moment ago we saw that it makes no sense to posit the existence of anything spatiotemporal that has no causal powers at all. The just-cited alleged difference has no causal powers. Therefore, it makes no sense to suppose that it exists. Therefore, Burge is wrong.
+5.2 Burge’s response to Fodor
+Burge’s response to Fodor is rather curious. Burge denies that billiard balls x and y are causally identical. Burge says that the causal properties of an object are to be understood in terms of what it actually does and not at all, contrary to what Fodor says, in terms of what it would do in different circumstances.
+A story will help make it clear what Burge is saying. On Monday, I run a 6-minute mile without wearing a 20-pound backpack. On Tuesday, I run a 7-minute mile wearing such a backpack. On both days, I run on the same path. The weather is the same. I’m no worse and no better rested or nourished on the one day than on the other.
+According to Burge, my level of fitness has declined, the reason being that I ran the mile more slowly on Tuesday than on Monday. It’s irrelevant, says Burge, that, on Tuesday, I would have run the mile as quickly as I did on Monday if I hadn’t been wearing the backpack. Why is it irrelevant? Because, says Burge, the causal properties of physical objects are to be understood in terms of the peculiarities of the environments in which they happen to be embedded.
+Let’s look at the example that Burge himself uses. Let A and B be two very large celestial bodies that are atom-for-atom duplicates of each other. A is revolving around a star. (A is a planet.) B is not revolving around any star. (So B is not a planet.) Burge says (rightly) that the concept of a planet is an explanatorily important one. We explain at least some things in terms of the fact that some things are planets. Burge concludes from this that A and B have different causal properties. It is not, says Burge, that A and B merely differ in their behavior. It is that, by virtue of being a planet—albeit one that is exactly like B down to the last atom—A has causal virtues that B lacks.
+Is Burge’s argument a good one? No. Suppose that Smith and Jones are atom-for-atom duplicates of each other, but that Smith has a nephew whereas Jones does not. Obviously there are, or at least could be, behavioral differences between Smith and Jones that are to be explained in terms of the fact that the one, but not the other, is an uncle. Why did Smith spend an hour shopping for toys? Because he’s six-year old Timmy’s uncle, and Timmy loves toys, as Smith knows. Why didn’t Jones spend an hour shopping for toys? Is it because Jones is mean and stingy, whereas Smith is kind and generous? No. It’s because Jones, unlike Smith, isn’t an uncle and thus does not (at least not for that reason) have go toy shopping. Burge’s position concerning planets, if transposed to this other context, is that Jones is in fact a very different person from Smith. Smith is a nice guy. (Let’s assume for argument’s sake that his toy shopping is an expression of genuine love for his nephew.) But Jones, not having gone to the trouble of buying toys for his non-existent nephew, is not such a nice guy, even though Jones is just as likely as Smith to buy a present (or otherwise behave amicably towards) the people in his life who, unlike his nephew, actually exist.
+Because A is embedded in a certain way in a certain solar system, it’s going to do things that B won’t do. It’ll move in ways that B will not. It’ll draw the astronauts who land on A towards itself, whereas B will not do that, since (we may suppose) no astronauts bothered to go to B.
+Do any of these facts entail that A has different causal properties from B? No. In describing A as a “planet,” one is saying that it is embedded in a certain way in a certain environment. In describing B as a non-planet, one is saying that it is not embedded in that way in that sort of environment. Burge is quite right that what things do depends on the circumstances. If I’m underwater, I don’t breathe; if I’m not, I do. Since A is part of
+a solar system, it does certain things; since B isn’t, it doesn’t. But this doesn’t show that A and B differ in respect of their causal properties from each other. It shows that:
+
+(i) A’s being embedded in a certain environment in a certain way
+
+has different effects from
+
+(ii) B’s being embedded in a totally different way in a completely different sort of environment.
+
+(i) is not identical with A. (ii) is not identical with B. (I am sitting in a chair right now. But I’m not identical with the state of affairs consisting of JMK’s sitting in a certain chair at 1:22 P.M. on April 9, 2009.) A’s being a planet is identical with (i)’s being the case. Since A’s being a planet is no more identical with A than I am identical with the fact that, at this instant, I’m sitting in a certain chair, and since the same thing mutatis mutandis holds of B, it would be deeply illogical to accept Burge’s judgment that A and B differ in their causal properties. In order for that judgment to be correct, A would have to be identical with the fact that it was embedded in a certain way in a certain sort of environment, and by parallel reasoning you would be identical with the fact that, right now, you are holding a certain book in your hands. But so far as it isn’t obviously false, this position borders on meaninglessness.
+Despite all these problems with content-externalism, and despite some comparably gruesome ones that I haven’t even mentioned, content-externalism still has some loyal followers who are indefatigable in their attempts to make content-externalism work. To these tenacious individuals, I can only say, quoting the great Marion Barry: “Let it go!”
+ENDNOTES
+Name: ____________________________________ Date: _______________________
+Exercises
+1.	How does Putnam show that what our utterances literally mean is determined partly by environmental factors and, therefore, not entirely by what we are thinking?
+2.	2.	Burge extends Putnam’s argument in an effort to show that two people who are identical in every respect, setting aside facts about the remote causes of their current conditions, may be thinking different things. What is Burge’s argument? What is the doubtful assumption that it employs? (Hint: that assumption concern the degree to which what our utterances literally mean coincides with what they non-literally communicate.) Is there an alternative theory that models the data better? What is it?
+3.	What are some counterintuitive consequences of Burge’s theory? How does Burge deal with them? Does he do so successfully?
+4.	What is Fodor’s litmus test for determining whether two objects x and y are identical in respect of their causal properties? What are the merits of Fodor’s view? Does it make sense to deny Fodor’s view? On what grounds does Burge deny Fodor’s view? In your judgment, whose position is the more defensible one, Fodor’s or Burge’s?

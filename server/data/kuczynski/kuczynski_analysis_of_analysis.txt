@@ -1,0 +1,125 @@
+The Analysis of Analysis
+
+Chapter 1: Analytic Philosophy as Logical Analysis
+
+1.0 Philosophy as the analysis of the categories in terms of which we understand the world
+
+The world isn't homogeneous. It is articulated into events bearing various causal and, more generally, spatiotemporal relations to one another. Many of these events involve more or less persistent things (rocks, trees, etc.). Some of these things have minds. Most animate (mind-having) beings have sense-perceptions; i.e., they see things, hear things, etc. Most percipient (perception-having) creatures have beliefs. Some of these beliefs are true; others are false. Some of these beliefs are empirically grounded, and some are not.
+
+Event, space, time, cause, persistence, thing, mind, perception, belief, knowledge, language, truth, value-judgment, law, justice. Whatever we know, we know it through these categories (and others like them—the list is not complete). Philosophy studies these categories. It delineates their structures. This is its sole function. Thus, philosophy is the discipline that delineates the structures of the categories in terms of which we think about the world.
+
+1.1 Knowledge vs. meta-knowledge
+
+Although it is only though the aforementioned categories that we can think about the world, they are seldom the objects of thought. The result is that, although we're adept at using them, we know little about them. But for them, we are blind. And yet we are all blind to them. We know much, but have little idea what it is that we know. It is the philosopher's job to supply us with this missing knowledge.
+
+For example, we are excellent at distinguishing linguistic from non-linguistic behavior, which suggests that, at some level, we know what conditions a creature's behavior must meet if it is to embody knowledge of a language. But when asked to make these conditions explicit, we find we can do so only with great difficulty and only with partial success. So even though we are good at knowing who knows a language and who does not, we don't know what it is that we know by virtue of knowing this.
+
+The same thing mutatis mutandis is true of each one of these categories. We're excellent at distinguishing between moral and immoral behavior. We know that rape is immoral and that donating money to charity (for selfless reasons) is moral. But when asked to identify the principles embodied in these pedestrian and uncontroversial judgments, we have trouble producing theories that don't distort them.
+
+In general, it's hard to identify the principles that guide our thoughts. Self-understanding isn't the mind's primary function. Nor could it be. The idea of a mind that thinks about nothing other than itself is an incoherent one. Thus, any case of self-awareness, and therefore of self-understanding, is necessarily derivative of, and for that reason of lesser quality than, some other more fundamental sort of understanding.
+
+Being the discipline whose purpose is to delineate the structures of these categories, philosophy has the very non-trivial job of identifying, in as clear and explicit a manner as possible, the conditions that a given thing must satisfy if it is to fall into a given one of these categories. So far as philosophy succeeds in this endeavor, it makes it clear what it is that we are doing when we are doing anything cognitive, be it making an observation or engaging in an extended piece of reasoning.
+
+Just as the scientist's job is to make us aware of the structure of the physical universe, so the philosopher's job is to make us aware of our knowledge of our knowledge of the universe. Philosophy is thus the "science of science", as John Stuart Mill put it.
+
+1.2 The relationship of philosophy to other disciplines
+
+The philosopher is interested in the laws governing the laws. He doesn't want to know what in fact holds. He wants to know what it would even make sense to claim to hold. He wants to know the laws that the laws can't break.
+
+Philosophical knowledge is metaknowledge—knowledge about knowledge. The non-philosopher wants to know specifics. What happened? When did it happen? What did it cause? How did it cause it? The philosopher is interested in these questions only to the extent that knowing the answers to them helps him understand the categories (cause, place, time, etc.) underlying such knowledge.
+
+The stranded motorist wants his car to work. He doesn't care what will get it to do so. The engineer is interested in this. But the engineer is not entirely innocent of the motorist's epistemic parochialism. The engineer has no interest in what the laws of physics are except in so far as he must know them to create the right mechanisms. But the physicist wants knowledge of these mechanisms only to the extent it will give him knowledge of the laws embodied therein.
+
+The philosopher is to the physicist what the physicist is to the engineer and, therefore, what the engineer is to the stranded motorist. It isn't for its own sake that the philosopher wants to know what causes what and what mechanisms were involved. He is interested in this knowledge only to the extent that knowing this helps him understand what it is for one thing to cause another—only, that is to say, in so far as it helps him know what it is that one knows in knowing that one thing causes another.
+
+1.3 How is analytic philosophy different from non-analytic philosophy?
+
+John Stuart Mill (1806–1873), the great philosopher and economist, said that he was an expert in but one science, that being the science of science. What he meant was obviously similar to what we've been saying. And it was similar, therefore, to what Gottlob Frege (1848–1925), the great philosopher and mathematical logician, meant when he said that logic studies not the laws of nature but the "laws of the laws of nature."
+
+Frege is often described as the first analytic philosopher. Michael Dummett (1925–), an exceptionally capable contemporary philosopher of language, said that "analytic philosophy is post-Fregean philosophy." What does Dummett mean?
+
+With some exceptions, pre-Fregean philosophers thought they were studying the most general features of the actual world. They thought that, like the botanist, they were in the business of saying how the world is, the only difference between their work and the botanist's being that theirs is concerned with more general features of reality than the botanist's.
+
+Frege showed that this is wrong. Any interest that botanists have in plants that might exist, but don't, is subordinate to their interest in what plants actually exist. Like all scientists, they are interested in what there could be only to the extent that it helps them figure out what there is. But with philosophers, it's the other way around. Any interest they have in the actual is subordinate to their interest in the possible.
+
+Unlike non-analytic philosophers, analytic philosophers figure out what there could be by analyzing statements. Statements that make sense are those that can be true, and statements that don't are those that can't. Therefore, statements that make sense describe possible realities and those that don't don't.
+
+2.0 Frege's key insight: Logical form ≠ grammatical form
+
+Frege's legacy to philosophy can be summed up thus:
+
+(FL) When people have an obviously correct belief that seems to have an absurd consequence, they should ask themselves whether that absurdity really is a consequence of that belief. But they frequently don't. Instead they accept the absurdity and, in order to make this mistake of theirs work, they develop ad hoc hypotheses as to the nature of reality that undermine the integrity of their own belief system.
+
+Consider the statement:
+
+(SC) nothing is a square circle.
+
+SC is true. Everybody knows this. But what does SC say? Judging by its grammatical similarity to "Smith is a very capable lawyer," which attributes a certain property (that of being a capable lawyer) to a certain individual (Smith), SC would seem to say that a certain entity has the property of being a square circle. Presumably, the entity in question is some non-entity. If this presumption is correct, SC says that:
+
+(SC*) some non-entity, some featureless un-thing, is a square circle.
+
+But SC* is doubly incoherent. If anything is a square circle, then SC is false—it being irrelevant how much of a cipher the entity in question is. Second, the very idea of a non-entity is an absurd one. But it's hard to find a layperson or scholar who, when asked what SC means, comes up with anything substantively different from SC*.
+
+Given what a rank absurdity SC* is, we can't accept it, even though it seems to be an obvious consequence of SC. But we can't reject SC, since it's an obvious truth.
+
+To get out of this jam, we need only reflect a bit on what our words mean. If you say that nobody likes Larry, you're not saying that some un-person likes Larry. You're saying that if you gathered together all the people who liked Larry and put them in an otherwise empty room, that room would remain empty. Which is the same as saying that, if you put all the people in existence in an otherwise empty room, there would be no things that liked Larry in that room.
+
+Thus, what "nobody likes Larry" means is not that some un-person likes Larry, and is instead that the set of people who like Larry is empty or, alternatively, that the set of people doesn't overlap with the set of things that like Larry.
+
+SC is to be understood along similar lines. If you put all the square circles in existence in an otherwise empty room, that room would remain empty. This is another way of saying that, if you put all the square things in an otherwise empty room, there would be no circles in that room. So SC says, not some un-thing is a circle, but that:
+
+(i) the set of things that are both circular and square is an empty one
+
+or, alternatively, that
+
+(ii) the set of circles doesn't overlap with the set of squares.
+
+(i) is a way of saying that any given thing lacks the property of being both a circle and a square. Alternatively, it's a way of saying this property doesn't have any instances—that it's uninstantiated. (ii) is a way of saying that anything having the property of being a square lacks the property of being a circle. Alternatively, it's a way of saying that these two properties don't have any instances in common—that they are not coinstantiated.
+
+(i) and (ii) thus attribute properties to properties. They say, respectively, that the property of being both a square and a circle is uninstantiated and that the properties of being a square and of being a circle are not coinstantiated.
+
+Since (i) and (ii) are just different ways of saying what SC says, the latter doesn't make the absurd statement that some non-entity is a circle, and it instead makes the innocuous statement that the set of squares doesn't overlap with the set of circles or, alternatively, that the property of being a square circle is uninstantiated.
+
+What this shows is that, in at least some cases, philosophical insight is acquired, not by doing parascience, but by analyzing meanings—not by positing entities, but by clarifying statements.
+
+Analytic philosophy is philosophy that is driven by acceptance of FL. Let us now expand on FL and make it clear why it's true.
+
+2.1 The wrong way to react to grammatical surface-structure
+
+In respect of its grammatical form:
+
+(JS) "John smokes"
+
+is comparable to:
+
+(MS) "Mary smokes."
+
+JS attributes the property of being a smoker to John; MS attributes that property to Mary.
+
+In respect of its grammatical form, each of JS and MS is comparable to:
+
+(LJ) "Larry juggles"
+
+and also to:
+
+(JJ) "Jane jogs."
+
+Each of these sentences says of some individual that he or she has a certain property. The obvious inference to make is that any sentence grammatically comparable to any one of these four sentences says of some individual that he or she (or it) has some property.
+
+In light of these points, consider the sentence:
+
+(SS) Someone smokes.
+
+Given what we just said, the obvious thing to say about it is that it attributes the property of smoking to some individual. But which individual could that be? Which individual does "someone" pick out?
+
+The Analysis of Logical Form
+
+Frege's solution was to recognize that grammatical form does not always reveal logical form. The sentence "Someone smokes" does not refer to a mysterious individual called "Someone." Rather, it says that the property of being a smoker is instantiated - that there exists at least one thing that has this property.
+
+This insight - that logical form can diverge from grammatical form - is the foundation of analytic philosophy. By carefully analyzing the logical structure of statements, we can avoid being misled by their surface grammar and thereby dissolve many traditional philosophical puzzles.
+
+The method of logical analysis involves translating statements from natural language into a more perspicuous logical notation that makes their true logical structure explicit. This allows us to see what commitments we are really making when we assert various propositions.
+
+Through such analysis, Frege showed that many apparent philosophical problems arise from confusion about logical form. The proper response is not to construct elaborate metaphysical theories to explain problematic entities, but rather to clarify what our statements actually mean.
+
+This approach revolutionized philosophy by showing that philosophical progress often comes not from discovering new facts about the world, but from achieving greater clarity about the concepts and categories we already use to think about the world.

@@ -1,0 +1,15 @@
+=== EMBEDDING LOG FOR GUSTAVE LE BON ===
+Figure ID: lebon
+Source Folder: /home/runner/workspace/server/data/lebon
+Started: 2025-12-13T04:15:38.997Z
+============================================================
+
+[2025-12-13T04:15:39.000Z] FLAGGED | LeBon_Complete_Positions.txt | 0 chunks | Contains 5 mentions of "Mises" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 0
+Chunks created: 0
+Files flagged: 1
+Errors: 0
+Completed: 2025-12-13T04:15:39.352Z

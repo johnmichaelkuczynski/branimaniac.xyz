@@ -1,0 +1,4411 @@
+﻿ 
+
+ 
+
+ 
+
+                          Quantum Mechanics
+
+                A Comprehensible Introduction for Students
+ 
+
+ 
+
+                                      Shan Gao
+
+ 
+
+ © Shan Gao 2013
+
+All rights reserved
+
+ 
+
+Published 2013
+
+by Amazon Kindle Direct Publishing
+
+www.amazon.com
+
+ 
+
+This book is copyright. Subject to statutory exception and to provisions of
+
+relevant collective licensing agreements, no part of this publication may be
+
+reproduced, stored in a retrieval system, or transmitted in any form or by any
+
+means, without the prior written permission of the author.
+
+ 
+
+ 
+
+                     OTHER WORKS BY SHAN GAO
+
+ 
+
+  Quantum Motion and Superluminal Communication (2000, in Chinese)
+
+        Quantum: A Historical and Logical Journey (2003, in Chinese)
+
+    Quantum Motion: Unveiling the Mysterious Quantum World (2006)
+
+                  God Does Play Dice with the Universe (2008)
+
+Einstein’s Ghost: The Puzzle of Quantum Entanglement (coauthored with G.
+
+                            C. Guo, 2009, in Chinese)
+
+                    God Does Play Dice (2010, in Chinese)
+
+                Quantum Physics: From Illusion to Reality (2011)
+
+  Quantum, Relativity, Consciousness and Beyond: A Scientific Quest for
+
+                              Ultimate Reality (2011)
+
+  Understanding Quantum Physics: An Advanced Guide for the Perplexed
+
+                                          (2011)
+
+    Consciousness Encounters Quantum Physics: A Scientific Argument for
+
+                                  Panpsychism (2012)
+
+          Understanding Gravity: Newton, Einstein, Verlinde? (2012) 
+
+ 
+
+Those  who  are  not  shocked  when  they  first  come  across  quantum  theory
+
+cannot possibly have understood it. — Niels Bohr 
+
+ 
+
+I  think  I  can  safely  say  that  nobody  understands  quantum  mechanics.  —
+
+Richard Feynman
+
+ Contents
+
+ 
+
+  Preface
+
+    Acknowledgements
+
+ 
+
+  1. Quantum Mechanics in a Nutshell
+
+ 
+
+  2. Understanding the theory (I): The Schrödinger equation
+
+      How come the equation?
+
+      Time translation and its invariance
+
+      Space translation and its invariance
+
+      The equation derived
+
+        Further discussions
+
+ 
+
+  3. Understanding the theory (II): The wave function
+
+        Measuring the state of a quantum system
+
+        Electrons are particles
+
+        Particles move in a discontinuous and random way
+
+        Meaning of the wave function
+
+        Momentum, energy and spin
+
+ 
+
+  4.  Understanding  the  theory  (III):  Wavefunction  collapse  and  the
+
+  Born rule
+
+      The measurement problem
+
+        Wavefunction collapse is real
+
+      Who collapses the wave function?
+
+      Why the Born rule?
+
+      A toy model of wavefunction collapse
+
+ 
+
+  5. Examples and Applications
+
+      A particle in a box
+
+      The double-slit experiment
+
+        Schrödinger’s cat
+
+        Quantum entanglement and nonlocality
+
+        Unification of two worlds
+
+     Bibliography
+
+  NotesPreface
+
+    Quite different from classical mechanics, quantum mechanics is full of
+
+mysteries  and  paradoxes.  It  has  even  been  regarded  as  the  most  difficult
+
+subject to understand. This is partly because the realms the theory deals with
+
+are far removed from our everyday experience, and especially, its standard
+
+formulation  taught  in  textbooks  is  incomplete  and  plagued  by  serious
+
+problems such as the measurement problem. But the most important reason
+
+may  be  that,  unlike  classical  mechanics,  quantum  mechanics  provides  no
+
+visualizable spatial-temporal images for the physical processes it describes. It
+
+is well understood that classical mechanics describes the continuous motion
+
+of particles in space and time. In quantum mechanics, however, it is still
+
+unclear how microscopic particles such as electrons move in space and time,
+
+and in fact, it is even unknown whether these microscopic particles are really
+
+particles or waves or something else.
+
+    Based on a penetrating analysis of the wave function and its evolution,
+
+this book presents a new, comprehensible formulation of quantum mechanics.
+
+It turns out that, like classical mechanics, quantum mechanics also deals with
+
+the motion of particles in space and time. The difference only lies in that the
+
+former  describes  continuous  motion  of  particles,  while  the  later  describes
+
+random  discontinuous  motion  of  particles.  Microscopic  particles  such  as
+
+electrons are indeed particles, but they move in a discontinuous and random
+
+way. For example, a single electron passes through two slits at the same time
+
+in a discontinuous way in the double-slit experiment with electrons.
+
+    The  new  formulation  of  quantum  mechanics  gives a  clear  and
+
+visualizable  picture  of  the  quantum  world.  This  makes  the  theory  as
+
+comprehensible as classical mechanics. However, the quantum phenomena
+
+are still strange for us who live in a classical world. The strangeness results
+
+from  the  new  motion  of  particles  and  the  new  laws  of  motion,  e.g.  the
+
+discontinuity  and  randomness  of  motion,  the  superposition  principle,  the
+
+collapse  of  the  wave  function  etc.  To  help  readers  understand  quantum
+
+mechanics  more  deeply,  this  book  also  gives  some  typical  examples  to
+
+illustrate and explain the fundamental theory.
+
+    With very few exceptions, most quantum mechanics textbooks do not
+
+mention the conceptual issues of quantum mechanics at all or only discuss
+
+them very briefly (these discussions are usually postponed to the last part ofthe  book  such  as  Afterword).  The  purpose  of  this  book  is  to  provide  a
+
+complementary material for students. It focuses mainly on the understanding
+
+of quantum mechanics, and especially, its contents are also accessible for
+
+readers  with  only  a  background  in  high  school  physics  and  calculus.
+
+Quantum mechanics is no longer mysterious. If you can understand classical
+
+mechanics, you will be able to understand quantum mechanics too.
+
+ 
+
+Shan Gao
+
+Beijing
+
+August 2013
+
+ 
+
+ 
+ Acknowledgements
+
+    During the past twenty years, I have benefited from discussions with
+
+many physicists and philosophers of physics who care about the way the
+
+world  really  is.  They  are:  Stephen  Adler,  Bernard  d’Espagnat,  Shelly
+
+Goldstein, Basil Hiley, Gerard ’t Hooft, Frederick M. Kronz, David Miller,
+
+Philip Pearle, Roger Penrose, Huw Price, Alastair Rae, Dean Rickles, Abner
+
+Shimony,  Henry  P.  Stapp,  Antoine  Suarez,  Antony  Valentini,  and  Heinz-
+
+Dieter Zeh, among others. I thank them all deeply.
+
+    My  deepest  gratitude  goes  to  my  parents,  QingFeng  Gao  and  LiHua
+
+Zhao, who spared no effort to provide the best possible environment for me
+
+to grow up in and their constant support during my extended studies. They
+
+have always allowed me to have the freedom of choice, and for that I am
+
+truly grateful. Finally, I am deeply indebted to my wife, HuiXia, and my
+
+lovely daughter, RuiQi, for their unflagging love and support throughout my
+
+study  and  writing;  this  book  would  have  been  impossible  without  them.
+
+Moreover, they have never let me forget the true values of life.
+ 1. Quantum Mechanics in a Nutshell
+
+    Mechanics is the science dealing with the motions of material objects. It
+
+consists essentially of two parts: the first part specifies the state of motion of
+
+a mechanical system at a given instant, and the second part specifies how the
+
+state of motion evolves with time, namely the equations of motion. There are
+
+two types of mechanics: classical mechanics and quantum mechanics. For
+
+simplicity  we  mainly  consider  the  motion  of  point  particles  in  one  space
+
+dimension.
+
+  In classical mechanics, particles move on continuous trajectories, and the
+
+state of motion of a particle at any given instant is represented by its position
+
+and velocity at the instant, x(t) and v(t), where v(t)≡dx(t)/dt. The state of
+
+motion of the particle evolves according to Newton’s second law of motion:
+                                    22
+                                  mdx(t)/dt=-dV/dx,
+
+where m is the mass of the particle, and V(x) is an external potential.
+
+ 
+
+
+
+
+
+
+
+
+
+
+                        Figure 1.1 Continuous motion of a particle
+
+ 
+
+    The  state  of  a  classical  system  of  N  particles  is  represented  by  the
+
+positions  and  velocities  of  these  particles.  Equivalently,  the  state  of  the
+
+system can also be represented by a point moving with a definite velocity in
+
+an N-dimensional configuration space, denoted by (x, x…, x), where the
+                                                                12N
+
+value of the first coordinate represents the position of particle 1, and so on for
+
+the other particles. The motion of the representative point is given by
+                                    22
+                                  mdx(t)/dt=-dV/dx,
+                                  iii
+
+where m stands for the mass of the particle whose coordinate is x. This
+        ii
+
+means that each of the N coordinates evolves according to Newton’s second
+
+law of motion.
+
+  In classical mechanics, we have a clear physical picture of the motion ofparticles  in  space  and  time.  This  makes  the  theory comprehensible.  How
+
+about quantum mechanics then?
+
+  In quantum mechanics, the state of a quantum particle is described by a
+
+wave function, ψ(x, t). Although the value of the wave function is complex in
+
+general, it is composed of two real functions R(x, t) and S(x, t):
+                                                    iS(x,t)/ħ
+                                ψ(x, t)=R(x,t)e,
+
+where ħ, the reduced Planck constant (i.e. Planck’s constant divided by 2π),
+
+is  introduced  for  convenience.  As  we  will  demonstrate  later,  the  wave
+
+function represents the state of random discontinuous motion of the particle.
+
+At any given instant, the quantum particle is still in one position in space. But
+
+unlike the classical situation, its motion is not continuous but discontinuous
+
+and random.
+
+    For a quantum particle, there is no continuous trajectory, and there exist
+
+no  equations  of  motion  in  terms  of  x(t)  either.  Rather,  the  random
+
+discontinuous  motion  of  the  particle  forms  a  particle  “cloud”  extending
+
+throughout space (in an infinitesimal time interval), and the state of motion of
+
+the  particle  is  represented  by  the  density  and  flux  density  of  the  cloud,
+
+denoted by ρ(x, t) and j(x, t), respectively. This is similar to the description of
+
+a classical fluid in hydrodynamics. But their physical meanings are different.
+
+The particle cloud is formed by the random discontinuous motion of a single
+
+particle,  and  the  density  of  the  cloud,  ρ(x,  t),  represents  the  objective
+
+probability density of the particle appearing in position x at instant t.
+
+ 
+
+
+
+
+
+
+
+
+
+
+                    Figure 1.2 Random discontinuous motion of a particle
+
+ 
+
+    It turns out that the wave function ψ(x, t) is a mathematical complex
+
+composed of ρ(x, t) and j(x, t):namely
+
+
+
+
+    The above description of the motion of a single particle can be naturally
+
+extended to the motion of many particles. At each instant the quantum system
+
+of  N  particles  can  be  represented  by  a  point  in  an  N-dimensional
+
+configuration space, and the motion of these particles forms a cloud in the
+
+configuration space. Then, similar to the single particle case, the state of the
+
+system  is  represented  by  the  density  and  flux  density  of  the  cloud  in
+
+configuration space, ρ(x, x…, x) and j(x, x…, x). The density ρ(x, x…, x)
+                            12N12N12N
+
+represents the probability density of particle 1 appearing in position x and
+                                                                                    1
+
+particle 2 appearing in position x, …, and particle N appearing in position x.
+                                      2N
+
+Moreover,  the  state  of  the  quantum  system  of  N  particles  can  also  be
+
+represented by a wave function in the N-dimensional configuration space,
+
+ψ(x, x…, x), which is composed of ρ(x, x…, x) and j(x, x…, x) in the way
+  12N12N12N
+
+similar to the single particle case.
+
+  In classical mechanics, the evolution of the state of motion of a classical
+
+particle, x(t), is governed by Newton’s second law of motion. In quantum
+
+mechanics, as we will demonstrate later, the evolution of the state of motion
+
+of  a  quantum  particle, ρ(x,  t)  and  j(x,  t)  or  ψ(x,  t),  is  governed  by  the
+
+Schrödinger equation:
+
+
+
+
+where m is the mass of the particle, and V(x) is an external potential. In other
+
+words, the  equation  of  motion  is  Schrödinger’s  equation  in  quantum
+
+mechanics. For a quantum system of N particles, the evolution of its state is
+
+governed by the Schrödinger equation in the N-dimensional configuration
+
+space:
+
+
+
+
+  In  addition,  as  we  will  demonstrate  later,  the  wave  function  alsoundergoes  a  stochastic  nonlinear  evolution,  which  results  from  the
+
+randomness  and  discontinuity  of  motion,  besides  the deterministic  linear
+
+evolution governed by the Schrödinger equation. Although the precise law of
+
+the stochastic evolution is still unknown, its general effects have been known
+
+from experiments. First of all, the effect of the stochastic evolution is so tiny
+
+that it can be ignored for microscopic systems such as electrons. Next, the
+
+effect of the stochastic evolution is significant for macroscopic systems such
+
+as everyday objects and especially measuring devices.
+
+    The stochastic evolution will lead to the localization of everyday objects
+
+and create the appearance of continuous motion in the macroscopic world. It
+
+can be shown that by Ehrenfest’s theorem the resulting (effective) law of
+
+motion is Newton’s second law:
+
+
+
+
+
+where m is the mass of a macroscopic object,  is
+
+
+the effective position of the object, and  is
+
+the  effective  external  potential  the  object  moves  in.  Therefore,  quantum
+
+mechanics is a more fundamental theory that applies not only to microscopic
+
+particles but also to macroscopic objects, while classical mechanics is only its
+
+approximation for the description of the motion of macroscopic objects.
+
+    Moreover, the stochastic evolution will lead to the so-called collapse of
+
+the  wave  function  during  a  conventional  measurement  involving  a  strong
+
+interaction  between  a  microscopic  system  and  a  measuring  device.  The
+
+measurement  result  is  in  general  random,  and  its  probability  satisfies  the
+
+Born  rule.  Concretely  speaking,  if  a  physical  system  is  in  a  quantum
+
+superposition of the eigenstates of a dynamical variable A, i.e., |ψ>=Σc|a>,
+                                                                                    iii
+
+then  a  conventional  measurement  of  the  variable  A  will  (almost)
+
+instantaneously collapse the state into one of the eigenstates |a>[1]. This is
+                                                                            i
+
+called  the  collapse  postulate  in  the  standard  formulation  of  quantum
+
+mechanics.  Furthermore,  the  probability  of  the  measurement  yielding  the
+              2
+result a is |c|. This is the Born rule. Independent of the collapse postulate,
+      ii
+
+the  Born  rule  has  been  confirmed  by  precise  experiments  and  is  an
+
+established part of quantum mechanics.
+
+    To sum up, we have presented a new, comprehensible formulation ofquantum mechanics. In the following chapters, we will further explain the
+
+physical basis of this formulation. First of all, we will answer why the (linear)
+
+evolution  of  the  state  of  a  physical  system  is  governed  by  the
+
+Schrödinger  equation  in  the  nonrelativistic  domain.  Then,  based  on  the
+
+equation,  we  will  demonstrate  that  the  wave  function  in  the  equation
+
+represents the state of random discontinuous motion of particles. Lastly, we
+
+will  explain  why  the  wave  function  collapses  during  a  conventional
+
+measurement and why the probability of the measurement result satisfies the
+
+Born rule.
+
+ 2. Understanding the theory (I): The Schrödinger
+
+equation
+
+    Many quantum mechanics textbooks provide a heuristic “derivation” of
+
+the Schrödinger equation. It begins with the assumption that the state of a
+                                                              i(kx−ωt)
+free quantum system has the form of a plane wave e. When combining
+
+with the de Broglie relations for momentum and energy p = ħk and E = ħω,
+                      i(px−Et)/ħ
+this state becomes e. Then it uses the nonrelativistic energy-momentum
+                2
+relation  E  =  p/2m  in  classical  mechanics  to  obtain  the  free  Schrödinger
+
+equation. Lastly, this equation is generalized to include an external potential,
+
+and the end result is the Schrödinger equation.
+
+
+How come the equation?
+
+
+    There are at least two mysteries in the textbook “derivation” based on
+
+analogy and the correspondence with classical mechanics. First of all, even if
+
+a  microscopic  particle  behaves  like  a  wave  and  thus  a  wave  function  is
+
+needed to describe them, it is unclear why the wave function must assume a
+
+complex form in general. Indeed, when Schrödinger invented his equation, he
+
+was very puzzled by the inevitable appearance of the imaginary unit i in the
+
+equation.  Next,  one  doesn’t  know  how  come  the  de  Broglie  relations  for
+
+momentum  and  energy  and  why  the  non-relativistic  energy-momentum
+                          2
+relation must be E = p/2m. Usually one can only resort to experience and
+
+classical mechanics to answer these questions. This is unsatisfactory in logic,
+
+as  quantum  mechanics  is  a  more  fundamental  theory,  of  which  classical
+
+mechanics is only an approximation.
+
+  In this chapter, we will show that these mysteries can be unveiled and the
+
+textbook “derivation” of the free Schrödinger equation can be turned into a
+
+real derivation by resorting to spacetime translation invariance and relativistic
+
+invariance.  Spacetime  translation  gives  the  definitions  of  momentum  and
+
+energy, and spacetime translation invariance entails that the state of a free or
+
+isolated quantum system with definite momentum and energy assumes the
+                      i(px−Et)/ħ
+plane wave form e. Moreover, the relativistic invariance of the state
+
+further  determines  the  relativistic  energy-momentum  relation,  whose
+                                            2
+nonrelativistic approximation is E = p/2m. Though the requirements of these
+
+invariances are already well known, an explicit and complete derivation ofthe free Schrödinger equation using them seems still missing in the literature
+
+and textbooks. The new integrated analysis may be helpful in understanding
+
+the physical origin of the Schrödinger equation.
+
+
+Time translation and its invariance
+
+
+  Let the state of an isolated system at a given instant t be ψ(x, t). The state
+
+of  continuous  motion,  x(t),  can  be  regarded  as  a  special  form  of  ψ(x,  t),
+
+namely ψ(x, t) = δ(x-x(t)), where δ is the Dirac function. We need not to
+
+know what physical state ψ(x, t) represents here.
+
+  Let the evolution equation be the following form:
+
+                                U(t)ψ(x, 0) = ψ(x, t),
+
+where U(t) is the evolution operator that needs to be determined. Since the
+
+time evolution of a state is just the time translation of the state, U(t) is also
+
+called time translation operator.
+
+    This evolution equation can also be written in a differential form:
+
+                                i∂ψ(x, t)/∂t = Hψ(x, t).
+
+                                                                              2
+For  the  convenience  of  later  analysis,  the  imaginary  unit i  (i  =  −1)  is
+
+introduced in the equation. By assuming the operator H is independent of the
+
+evolved state, namely the evolution is linear, the time translation operator
+                                        −itH
+U(t) can be expressed as U(t) = e. H is thus called the generator of time
+
+translation. In quantum mechanics, H is also called energy operator or the
+
+Hamiltonian of the studied system.
+
+  In order to be able to derive the (linear) evolution equation for isolated
+
+systems or the equation of free motion, we need to know the requirements
+
+that the equation must satisfy. One important requirement comes from the
+
+uniformity or homogeneity of space and time. It is an experimental fact that
+
+the same experiment repeated at two different times gives the same result,
+
+and the same experiment performed at two different places also gives the
+
+same result. This fact reflects the homogeneity of space and time. It also
+
+indicates that the evolution law (for isolated systems) is the same at different
+
+times and places, namely that it satisfies time translation invariance and space
+
+translation invariance. Now let’s analyze the implications of the requirement
+
+of spacetime translation invariance for the evolution equation[2].
+
+    Suppose the above isolated system is in state ψ at time t and evolves for
+                                                            01
+
+an infinitesimal time δt. The state of the system at time t+ δt, to first order in
+                                                                  1δt, will be
+
+                          ψ(x, t + δt) = [I − iδtH(t)]ψ.
+                                  110
+
+If the evolution is repeated at time t, beginning with the same initial state,
+                                          2
+
+the state at t + δt will be
+            2
+
+                          ψ(x, t + δt) = [I − iδtH(t)]ψ.
+                                  220
+
+Time translational invariance requires the outcome state should be the same:
+
+            ψ (x, t + δt) − ψ(x, t + δt) = iδt[H(t) − H(t)]ψ = 0.
+                    21120
+
+  Since  the  initial  state  ψ  is  arbitrary,  it  follows  that  H(t)  =  H(t).
+                                  012
+
+Moreover,  since  t  and  t  are  also  arbitrary,  it  follows  that  H  is  time-
+                    12
+
+independent[3].  Therefore,  time  translational  invariance  requires  that  the
+
+evolution operator H has no time dependence, namely dH/dt = 0.
+
+    When  dH/dt  =  0,  the  solutions  of  the  evolution  equation  assume  the
+
+following form
+                                                    −iEt
+                                  ψ(x, t) =ϕ(x)e,
+                                              E
+
+whereϕ(x),  called  the  eigenstate  of  H,  satisfies  the  time-independent
+        E
+
+equation:
+
+                                  Hϕ(x) = Eϕ(x).
+                                      EE
+
+In  quantum  mechanics,  E,  the  eigenvalue  of  the  time-independent  H,  is
+
+defined as the energy of a system whose state of motion is an eigenstate of
+
+H,ϕ(x). Note that the concrete form of the energy operator H depends on
+    E
+
+the studied system in general. As a result, the energy eigenstates and energy
+
+eigenvalues can only be determined for concrete situations (see below).
+
+
+Space translation and its invariance
+
+
+    Let’s further analyze the requirement of space translation invariance. A
+
+space translation operator can be defined as follows:
+
+                              T(a) ψ(x, t) = ψ(x − a, t).
+
+It means translating rigidly the state of an isolated system, ψ(x, t), by an
+
+amount a in the positive xdirection. The operator T(a) preserves the norm of
+                      ∗∗
+the state because ∫ψ(x, t)ψ(x, t)dx = ∫ψ(x − a, t)ψ(x − a, t)dx. This implies
+                                    †
+that T(a) is unitary, satisfying T(a)T(a) = I. As a unitary operator, T(a) can
+
+be further expressed as
+
+                                                −iaP
+                                      T(a) = e,where P is the  generator  of  space  translation,  and  it  is  Hermitian  and  its
+
+eigenvalues  are  real.  In  quantum  mechanics,  P  is  also  called  momentum
+
+operator.  Substituting  this  relation  into  the  above  definition  of  space
+
+translation operator and expanding both sides to order a, we find
+
+                                      P = −i∂/∂x.
+
+This immediately leads to
+
+                                        ipx ipx
+                                    P e= p e.
+
+        ipx
+where e is the eigenstate of P with eigenvalue p. In quantum mechanics, p
+
+is  defined  as  the  momentum  of  a  system  whose  state  of  motion  is  a
+                            ipx
+momentum  eigenstate  e.  Note  that  unlike  energy  operator,  the  form  of
+
+momentum operator does not depend on the studied system.
+
+  In the following, we will demonstrate that space translational invariance
+
+requires  that  space  translation  operator  and  time  translation  operator  are
+
+commutative, namely [T(a), U(t)] = 0.
+
+    Suppose  at  t  =  0  two  observers  A  and  B  prepare  identical  isolated
+
+systems at x = 0 and x = a, respectively. Let ψ(x, 0) be the state of the system
+
+prepared by A. Then T(a)ψ(x, 0) is the state of the system prepared by B,
+
+which is obtained by translating (without distortion) the state ψ(x, 0) by an
+
+amount a to the right. The two systems look identical to the observers who
+
+prepared  them.  After  time  t,  the  states  evolve  into  U(t)ψ(x,  0)  and
+
+U(t)T(a)ψ(x, 0). Since the time evolution of each identical system at different
+
+places should appear the same to the local observers, the above two systems,
+
+which differed only by a spatial translation at t = 0, should differ only by the
+
+same spatial translation at future times. Thus the state U(t)T(a)ψ(x, 0) should
+
+be  the  translated  version  of  A’s  system  at  time  t,  namely  we  have
+
+U(t)T(a)ψ(x, 0) = T(a)U(t)ψ(x, 0). This relation holds true for any initial state
+
+ψ(x, 0), and thus we have [T(a), U(t)] = 0[4]. This result further leads to [P,
+
+H] = 0.
+
+  In conclusion, space translational invariance requires [P, H] = 0 for an
+
+isolated system. Thus the eigenstate of H,ϕ(x), is also the eigenstate of P,
+                                                    E
+                  ipx
+namelyϕ(x) = e. Then the solution of the evolution equation i∂ψ(x, t)/∂t =
+          E
+                                        −iEti(px−Et)i(px−Et)
+Hψ(x, t) will be ψ(x, t) =ϕ(x)e = e. This means that the state e
+                                E
+
+describes  an  isolated  system  (e.g.  a  free  electron)  with  momentum  p  and
+
+energy E.
+
+
+The equation derived  The  final  step  in  deriving  the  equation  of  free  motion  is  to  find  the
+
+relation between momentum p and energy E for isolated systems. It can be
+
+shown that the relation is determined by the relativistic invariance of the state
+i(px−Et)22224
+e, and it turns out to be E = pc + mc, where m is the mass of the
+
+system,  and c  is  the  speed  of  light[5].  In  the  nonrelativistic  domain,  the
+                                                  2
+energy-momentum relation reduces to E = p/2m.
+
+                            2i(px−Et)
+    The relation E = p/2m  for  the  state  e  implies  that  the  operator
+                                        2
+relation between H and P is H = P/2m for an isolated system, where H is the
+
+free Hamiltonian of the system. Note that since the value of E is real by the
+
+energy-momentum  relation,  H  is  Hermitian  and  U(t)  is  unitary  for  free
+
+evolution. By substituting this operator relation into the evolution equation,
+
+we can finally obtain the equation of free motion, which assumes the same
+
+form as the free Schrödinger equation:
+
+
+
+
+    It is worth noting that unlike the free Schrödinger equation, the reduced
+
+Planck  constant ħ  with  dimension  of  action  is  missing  in  this  equation.
+
+However, this is in fact not a problem. The reason is that the dimension of ħ
+
+can be absorbed into the dimension of the mass m. For example, we can
+                                                                              2
+stipulate the dimensional relations as p = 1/L, E = 1/T and m = T/L, where L
+
+and  T  represents  the  dimensions  of  space  and  time,  respectively[6].
+
+Moreover, the value of ħ can be set to the unit of number 1 in principle. Thus
+
+the above equation is essentially the free Schrödinger equation in quantum
+
+mechanics.
+
+    By requiring an appropriate expectation value correspondence, d<P>/dt
+
+=  <F>  =  <∂V/∂x>  and  including  the  reduced  Planck  constant ħ,  we  can
+
+further obtain the Schrödinger equation under an external potential[7]:
+
+
+
+
+Note that the concrete form of a classical potential is determined by the non-
+
+relativistic approximation of the quantum interactions involved, which are
+
+described by the relativistic quantum field theory. Since the potential V(x, t)
+                                            2
+is real-valued, the Hamiltonian H = P/2m + V(x, t) is Hermitian, and as a
+
+result, the time translation operator U(t) is also unitary.
+
+    For a N-body system, the state of the system may be represented by ψ(x,
+                                                                                          1x,x,t), where xrepresents the coordinate of sub-system 1, and so on for
+2 … N 1 
+
+the  other  sub-systems.  When  the  N  sub-systems  are  independent,  we  can
+
+derive the equation of motion in a similar way as above:
+
+
+
+
+where ψ(x, x,x,t) = ψ(x,t)ψ(x,t)ψ(x,t), and m is the mass of sub-
+          12 … N 1122 …NNi
+
+system i. When the N sub-systems are not independent and have interactions,
+
+this equation of motion still holds true. However, the state of the system
+
+cannot be written as a product of sub-system states. Besides, the potential V
+
+will contain the interactions between the sub-systems, and its general form is
+
+V(x, x,x,t).
+  12 … N 
+
+    The equation of motion for a system of two interacting sub-systems is
+
+particularly useful for our later analysis of measurement. It is
+
+
+
+
+Equivalently, the total Hamiltonian of the system is H = H + H+ H, where
+                                                                      12 I
+      22
+H= P/2m and H= P/2m are the free Hamiltonians of sub-systems 1 and
+1 112 22
+
+2,  respectively,  and  H  =  V(x, x)  is  the  interaction  Hamiltonian,  whose
+                          I12
+
+general form is V(|x-x|).
+                      12
+
+
+Further discussions
+
+
+    We  have  derived  the  free  Schrödinger  equation  based  on  the
+
+requirements of spacetime translation invariance and relativistic invariance.
+
+The derivation can be summarized as follows.
+
+    The  key  step  is  to  analyze  the  origin  of  momentum  and  energy.
+
+According  to  the  modern  understanding,  spacetime  translation  gives  the
+
+definitions of momentum and energy. The momentum operator P is defined
+
+as the generator of space translation, and it is Hermitian and its eigenvalues
+
+are  real.  Moreover,  the  form  of  momentum  operator  can  be  uniquely
+                                                                              ipx
+determined by its definition. It is P = −i∂/∂x, and its eigenstate is e, where p
+
+is  a  real  eigenvalue.  Similarly,  the  energy  operator  H  is  defined  as  the
+
+generator of time translation. But its form depends on the studied system.
+
+Fortunately,  for  an  isolated  system  the  form  of  energy  operator,  which
+
+determines  the  evolution  equation,  can  be  fixed  by  the  requirements  of
+
+spacetime translation invariance and relativistic invariance (when assumingthe evolution is linear). Concretely speaking, time translational invariance
+
+requires  that  dH/dt  =  0,  and  thus  the  solutions  of  the  evolution  equation
+                                                                              −iEt
+i∂ψ(x,  t)/∂t  =  Hψ(x,  t)  must  assume  the  form  ψ(x,  t) =ϕ(x)e. Space
+                                                                        E
+
+translational  invariance  requires  [P,  H]  =  0,  and  this  further  determines
+                                                                  ipx
+thatϕ(x)  is  the  eigenstate  of  P,  namelyϕ(x)  =  e.  Thus  spacetime
+      EE
+
+translation invariance entails that the state of an isolated system with definite
+                                                                i(px−Et)
+momentum and energy assumes the plane wave form e. Furthermore, the
+
+relation  between  p  and  E  or  the  energy-momentum  relation  can  be
+                                                                    i(px−Et)
+determined  by  the  relativistic  invariance  of  the  state  e,  and  its  non-
+                                                        2
+relativistic approximation turns out to be E = p/2m. Then we can obtain the
+                                                                    2
+form  of  energy  operator  for  an  isolated  system,  H  =  P/2m,  and  the  free
+
+Schrödinger equation.
+
+    The new integrated analysis may unveil several mysteries in the textbook
+
+“derivation” of the Schrödinger equation, e.g. it may answer why the state of
+
+a free quantum system has the form of a plane wave and why there are the de
+
+Broglie  relations.  This  makes  the  Schrödinger  equation  more
+
+comprehensible. However, there are still two important questions that need to
+
+be answered. The first one is the physical meaning of the function (or wave
+
+function  as  usually  called)  ψ(x,  t)  in  the  Schrödinger  equation.  We  have
+
+derived the equation, but it is unknown what the wave function ψ(x, t) in the
+
+equation represent. We will answer this question in the next chapter.
+
+    The second question is whether there exists nonlinear evolution of the
+
+wave function besides the linear Schrödinger evolution. As noted earlier, the
+
+above  derivation  of  the  (free)  Schrödinger  equation  relies  on  the
+
+presupposition that the Hamiltonian H is independent of the evolved state,
+
+i.e., that the evolution is linear. In other words, the derivation only shows that
+
+the linear part of evolution, if satisfying spacetime translation invariance and
+
+relativistic  invariance,  must  assume  the  same  form  as  the  Schrödinger
+
+equation  in  the  non-relativistic  domain.  Obviously,  the  derivation  cannot
+
+exclude  the  existence  of  nonlinear  quantum  evolution.  It  seems  to  be  a
+
+reasonable assumption that the nonlinear evolution and linear evolution both
+
+exist, and moreover, they satisfy spacetime translation invariance respectively
+
+because their effects cannot counteract each other in general. However, since
+
+a  general  nonlinear  evolution  can  readily  satisfy  spacetime  translation
+
+invariance, the invariance requirement can no longer determine the concrete
+
+form of possible nonlinear evolution. We will analyze the possible nonlinear
+
+evolution of the wave function in Chapter 4.3. Understanding the theory (II): The wave function
+
+    We have succeeded in deriving the Schrödinger equation. Unfortunately,
+
+however,  the  derivation  cannot  tell  us  the  physical  meaning  of  the  wave
+
+function  in  the  equation.  Exactly  what  does  the  wave  function  represent?
+
+Without  answering  this  important  question,  the  previous  analysis  seems
+
+vacuous in physics. In this chapter, we will further derive the meaning of the
+
+wave function based on the Schrödinger equation.
+
+    According to the standard probability interpretation taught in textbooks,
+
+the wave function is a probability amplitude, and its modulus square gives the
+
+probability density of finding a particle in a given position at a given instant.
+
+Notwithstanding the success of this standard interpretation, our derivation of
+
+the (free) Schrödinger equation seems to suggest that the wave function is a
+
+description of the objective physical state of a quantum system, rather than
+
+the  probability  amplitude  relating  only  to  measurement  outcomes.  In  the
+
+derivation we never refer to the measurement of the studied system at all.
+
+Moreover, the derivation seems to further suggest that the wave function is a
+
+complete description of the physical state of the system.
+
+    Then what physical state does the wave function really represent? In
+
+order  to  answer  this  question,  we  need  to  measure  the  state  of  a  single
+
+quantum  system.  Fortunately,  the  Schrödinger  equation  is  enough  for  the
+
+analysis of the measurement and the derivation of the meaning of the wave
+
+function. Since the equation has been precisely confirmed for microscopic
+
+systems such as electrons, atoms and molecules, the derived meaning of the
+
+wave function will have a firm basis too.
+
+
+Measuring the state of a quantum system
+
+
+    As a simple example, consider a quantum system (e.g. an electron) in a
+
+discrete nondegenerate energy eigenstate ψ(x) (e.g. the ground state of the
+
+Hydrogen atom)[8]. The standard procedure for measuring an observable A
+
+in the state involves an interaction Hamiltonian:
+
+                                      H = g(t)PA
+                                        I
+
+coupling the measured system to an appropriate measuring system, where P
+
+is  the  conjugate  momentum  of  the  pointer  variable  of  the  measuring
+
+system[9]. (We will soon see why the interaction Hamiltonian assumes thisform.)  The  time-dependent  coupling  strength  g(t)  is  a  smooth  function
+
+normalized to ∫dtg(t) = 1 during the interaction interval τ, and g(0) = g(τ) = 0.
+
+The initial state of the pointer is supposed to be a Gaussian wave packet of
+
+width w centered at initial position 0, denoted by |φ(0)>. According to the
+        0
+
+Schrödinger  equation  for  a  two-body  system,  the  state  of  the  combined
+
+system at the end of the interaction is[10]
+
+                                          -i∫dtH(t)
+                              |t=τ> = e|ψ>|φ(0)>,
+
+where H(t) = H + H + H is the total Hamiltonian of the combined system,
+                SDI
+
+H  and  H  are  the  free  Hamiltonians  of  the  measured  system  and  the
+SD
+
+measuring system, respectively.
+
+  If the interaction Hamiltonian H is of very short duration and so strong
+                                          I
+
+that  it  dominates  the  rest  of  the  Hamiltonian  (i.e.  the  effect  of  the  free
+
+Hamiltonians  of  the  measuring  system  and  the  measured  system  can  be
+
+neglected), then the state of the combined system at the end of the interaction
+
+is
+
+                                          -iPA
+                                |t=τ> = e|ψ>|φ(0)>.
+
+By expanding |ψ> in the eigenstates of A, |a>, we obtain
+                                                  i
+                                          -iPai
+                              |t=τ> = Σec|a>|φ(0)>,
+                                        i ii
+
+where c are the expansion coefficients. By the translation property of the
+        i
+
+Fourier transform (between position and momentum), the exponential term
+
+shifts the center of the pointer by a:
+                                        i
+
+                                |t=τ> = Σc|a>|φ(a)>.
+                                          i iii
+
+This  is  an  entangled superposition,  where  the  eigenstates  of  A  with
+
+eigenvalues a get correlated to measuring system states in which the pointer
+              i
+
+is shifted by these values a (but the width of the pointer wavepacket is not
+                                i
+
+changed).
+
+              Since the measured state is entangled with the state of the measuring
+
+system  and  thus  it  is  changed,  such  an  impulsive  measurement  cannot
+
+measure the actual state of a single quantum system[11]. Fortunately, it has
+
+been realized that, due to the important works of Yakir Aharonov et al, the
+
+conventional  impulse  measurements  are  only  one  kind  of  quantum
+
+measurements, for which the coupling between the measured system and the
+
+measuring system is of very short duration and so strong. We can also do
+
+other  kinds  of  measurements  by  adjusting  the  coupling  strength  and  themeasuring time. In particular, we can indeed measure the actual state of a
+
+single  quantum  system  by  utilizing  an  extremely  weak  and  slow
+
+measurement if the system is in a discrete nondegenerate energy eigenstate.
+
+Moreover, the measurement is only based on the Schrödinger evolution, and
+
+it does not depend on additional assumptions such as the collapse postulate in
+
+standard quantum mechanics[12]. Let’s see how this can be done.
+
+    When the interaction between the measuring system and the measured
+
+system is very weak and lasts for a long time, the coupling strength g(t) is
+
+very small. For simplicity we let g(t)=1/T for most of the measuring time T
+
+and assume that g(t) goes to zero gradually before and after the interaction.
+
+Then the total Hamiltonian can be regarded as H = H + Hperturbed by H
+                                                          0SD I
+
+= PA/T. For g(t) smooth enough we obtain an adiabatic process in which the
+
+system cannot make a transition from one energy eigenstate to another, as
+
+there  is  a  minimum  energy  gap  between  them  due  to  the  discreteness  of
+
+energy  eigenvalues.  Moreover,  in  the  limit  T  →  ∞,  the  interaction
+
+Hamiltonian  does  not  change  the  measured  energy  eigenstate  either.
+
+According to first order perturbation theory (for nondegenerate states), for
+
+any given value of P, the energy of the measured energy eigenstate shifts by
+
+an infinitesimal amount:
+
+                              ΔE = < H > = P<A>/T.
+                                          I
+                    2-i∫dtΔE -iP<A>
+where <A> = Σ|c|a. The corresponding time evolution e= e then
+                iii
+
+shifts the pointer by the average value [13].
+
+    To  know  what <A>  means  as  a  measurement  result,  we  let  the
+
+observable  An  be  (normalized)  projection  operators  on  small  regions  V
+                                                                                          n
+
+having volume v:
+                  n
+
+
+
+
+
+
+The above measurement of A then yields
+                                  n
+
+
+
+
+          22
+where |ψ| is the average of the density ρ(x) = |ψ(x)| over the small region
+        n
+
+V. When v→ 0 and after performing measurements in sufficiently many
+nnregions V we can measure the density ρ(x) everywhere in space[14].
+          n
+
+    Since the measured energy eigenstate ψ(x) is not changed during the
+
+above measurement (in the limit T → ∞), the measurement result, namely the
+
+density ρ(x), reflects (one part of) the actual physical state of the measured
+
+system.  What  density  is ρ(x)  then?  If  the  physical  realization  of  the
+
+observable A and the corresponding interaction Hamiltonian resorts to the
+              n
+
+electromagnetic or gravitational interaction between the measured system and
+
+the measuring system, then the measured density ρ(x) (multiplied by the total
+
+charge or mass of the measured system) will be the charge density or mass
+
+density of the measured system. In other words, the measurement will show
+
+that  the  mass  and  charge  of  a  quantum  system  such  as  an  electron  is
+
+distributed  throughout  space,  and  the  mass  and  charge  density  in  each
+
+position is proportional to the modulus square of the wave function of the
+
+system  there.  In  the  following,  we  will  give  a  more  specific example  to
+
+illustrate this important result.
+
+    Consider a quantum system with negative charge Q (e.g. Q = -e) in a
+
+superposition state:
+
+                            ψ(x, t) = aψ(x, t) + bψ(x, t),
+                                          12
+
+where ψ(x, t) and ψ(x, t) are the ground states of the system in two small
+        12
+                                  22
+identical boxes 1 and 2, and |a| + |b| = 1. An electron, which initial state is a
+
+narrow Gaussian wave packet, is shot along a straight line near box 1 and
+
+perpendicular to the line of separation between the boxes. The electron is
+
+detected on a screen after passing by box 1. Suppose the separation between
+
+the boxes is large enough so that a charge Q in box 2 has no observable
+                                                                                    2
+influence on the electron. Then if the system were in box 2, namely |a| = 0,
+
+the trajectory of the electron wave packet would be a straight line as indicated
+
+by  position  “0”  in  Figure  3.1.  By  contrast,  if  the  system  were  in  box  1,
+          2
+namely |a| = 1, the trajectory of the electron wave packet would be deviated
+
+by the electric field of the system by a maximum amount as indicated by
+
+position “Q” in Figure 3.1.
+
+   Figure 3.1 Scheme of a protective measurement of the charge density of a quantum system
+
+ 
+
+    As  we  have  said,  the  above  method  to  measure  the  state  of  a  single
+
+quantum system applies only to discrete nondegenerate energy eigenstates.
+
+Since the measured state ψ(x, t) is degenerate with its orthogonal state ψ(x, t)
+    ∗∗
+= bψ(x,  t)  − aψ(x,  t),  we  need  an  artificial  protection  procedure  to
+      12
+
+remove the degeneracy, e.g. joining the two boxes with an appropriate long
+
+tube (whose role is to change the energy of the orthogonal state but keep the
+
+measured state unchanged). This is the reason why such measurements are
+
+called protective measurements by its proponents[15]. By this protection ψ(x,
+
+t) is a discrete nondegenerate energy eigenstate. The required adiabaticity
+
+condition and the weakly interacting condition (as represented above by the
+
+smallness and smoothness of g(t)) can be further satisfied when assuming that
+
+(1) the measuring time of the electron is long compared to h/∆E, where ∆E is
+
+the smallest of the energy differences between ψ(x, t) and the other energy
+
+eigenstates, and (2) at all times the potential energy of interaction between
+
+the electron and the system is small compared to ∆E.
+
+    Then according to the previous analysis, the motion of the electron wave
+
+packet is only influenced by the average value of the charge of the system in
+                                                    2
+box 1, and thus it will reach the position “|a|Q” between “0” and “Q” on the
+                                                2 
+screen as denoted in Figure 3.1, where |a|Qis the average value of the charge
+
+Q in the state ψ(x, t) in box 1, namely the integral of the charge density Q|
+                  1
+    2
+ψ(x)| in the region of box 1. This measurement result reflects the actualcharge distribution of the measured system in box 1, and it indicates that
+                          2
+there exists a charge |a|Q in box 1. By comparison, a conventional impulse
+
+measurement of ψ(x, t) without protection can only obtain two alternative
+
+results; the electron will be detected in either position “Q” or position “0” on
+
+the screen randomly, indicating that the charge Q is in box 1 or 2 after the
+
+detection. Such a measurement cannot tell us the actual charge distribution of
+
+the measured system in each box before the measurement.
+
+    It is worth pointing out that reading the center position of the electron
+
+wave  packet  on  the  screen  is  not  an  issue  for  the  above  protective
+
+measurement. In principle, we can make the width of the wave packet of the
+
+measuring  system  as  small  as  possible.  Even  if  the  uncertainty  of  its
+
+momentum and the value of P are thus increased, the interaction Hamiltonian
+
+H = g(t)PA can still be small by making g(t) = 1/T much smaller or the
+I
+
+measuring time T much longer. Moreover, the spreading of the wave packet
+
+during the slow protective measurement can also be made arbitrarily small by
+
+increasing the mass of the measuring system, and this will not increase the
+
+strength of the involved electrostatic interaction and thus the measurement
+
+can still be weak and adiabatic. Then the extremely narrow wave packet will
+                                          2
+always be detected in the position “|a|Q” on the screen.
+
+
+Electrons are particles
+
+
+    We have shown that the charge of a charged quantum system such as an
+
+electron  is  distributed  throughout  space,  and  the  charge  density  in  each
+
+position is equal to its total charge multiplied by the modulus square of the
+
+wave function of the system there. In this section, we will investigate the
+
+physical origin of the charge distribution. As we will see, the answer may
+
+provide an important clue to the meaning of the wave function.
+
+    The charge distribution of a quantum system has two possible existent
+
+forms: it is either real or effective. The distribution is real means that it exists
+
+throughout space at the same time, e.g. there are different charges in different
+
+positions at any instant. The distribution is effective means that there is only
+
+a localized particle with the total charge of the system in one position at every
+
+instant,  and  the  time  average  of  its  motion  (during  an  infinitesimal  time
+
+interval) forms the effective distribution in the whole space. Moreover, since
+
+the integral of the formed charge density in any region is required to be equal
+
+to  the  average  value  of  the  total  charge  in  the  region,  the  motion  of  theparticle is ergodic.
+
+    These two existent forms of the charge distribution of a quantum system
+
+have  different  effects,  and  thus  they  can  be  distinguished  in  physics.
+
+Experiments  show  that  different  charges  in  different  positions  at  a  given
+
+instant  have  electrostatic  interaction,  while  the  same  charges  at  different
+
+instants have no electrostatic interaction (i.e. a charge at one instant has no
+
+electrostatic interaction with it at another instant). Therefore, if the charge
+
+distribution is effective, then there will exist no electrostatic self-interaction
+
+of the effective distribution, while if the charge distribution is real, then there
+
+will exist electrostatic self-interaction of the real distribution. In short, the
+
+first form entails the existence of electrostatic self-interaction of the charge
+
+distribution of a quantum system such as an electron, while the second form
+
+does not.
+
+    The  existence  of  the  electrostatic  self-interaction  is  obviously
+
+inconsistent with the superposition principle of quantum mechanics, which is
+
+manifested  by  the  linear  Schrödinger  equation  and  has  been  verified  for
+
+microscopic particles with astonishing precision. In fact, we can also show
+
+that  the  existence  of  the  electrostatic  self-interaction  for  the  charge
+
+distribution of an electron already contradicts experimental observations.
+
+  If there is an electrostatic self-interaction, then the equation of motion for
+
+a free quantum system with mass m and charge Q will be
+
+
+
+
+where k is the Coulomb constant. Note that the electrostatic self-interaction is
+
+repulsive.  The  measure  of  the  potential  strength  of  the  electrostatic  self-
+                222
+interaction is ε = (4kQ/ħc). This quantity represents the strength of the
+
+influence of the self-interaction on the normal evolution of the wave function;
+      2 
+when ε≈ 1 the influence is significant. For a free electron, the potential
+                                                              222−3
+strength of the electrostatic self-interaction will be ε = (4ke/ħc) ≈ 1 × 10.
+
+This indicates that the electrostatic self-interaction will have a remarkable
+
+influence on the evolution of the wave function of a free electron[16]. If such
+
+an interaction did exist, it would have been detected by precise interference
+
+experiments on electrons. As another example, consider the electron in the
+
+hydrogen atom. Since the potential of the electrostatic self-interaction is of
+
+the same order as the Coulomb potential produced by the nucleus, the energy
+
+levels of hydrogen atoms will be remarkably different from those predicted
+
+by quantum mechanics and confirmed by experiments.  In  conclusion,  the  existence  of  the  electrostatic  self-interaction  for
+
+electrons  is  inconsistent  with  the  superposition  principle  of  quantum
+
+mechanics and also contradicts experimental observations. Accordingly, the
+
+charge distribution of an electron cannot be real but must be effective. This
+
+means that at every instant there is only a localized particle with the total
+
+mass and charge of the electron, and during an infinitesimal time interval the
+
+time average of the ergodic motion of the particle forms the effective mass
+
+and charge distributions of the electron. In short, electrons are particles, and
+
+their  charge  distributions  in  space,  which  are  measureable  by  protective
+
+measurements, are formed by the ergodic motion of these particles.
+
+
+Particles move in a discontinuous and random way
+
+
+    Which sort of ergodic motion then? If the ergodic motion of a particle is
+
+continuous, then it can only form the effective mass and charge distributions
+
+during a finite time interval. But the effective mass and charge distributions
+
+are required to be formed by the ergodic motion of the particle during an
+
+infinitesimal time interval (not during a finite time interval) at a given instant.
+
+Thus it seems that the ergodic motion of the particle cannot be continuous.
+
+This is at least what the existing quantum mechanics says. However, there
+
+may exist a possible loophole here. Although the classical ergodic models
+
+that assume continuous motion are inconsistent with quantum mechanics due
+
+to the existence of a finite ergodic time, they cannot be completely precluded
+
+by experiments if only the ergodic time is extremely short. After all quantum
+
+mechanics  is  only  an  approximation  of  a  more  fundamental  theory  of
+
+quantum gravity, in which there may exist a minimum time scale such as the
+
+Planck time. Therefore, we need to investigate the classical ergodic models
+
+more thoroughly.
+
+    Consider an electron in a one-dimensional box in the first excited state
+
+ψ(x). Its wave function has a node at the center of the box, where its charge
+
+density is zero[17].  Assume  the  electron  performs  a  very  fast  continuous
+
+motion in the box, and during a very short time interval its motion generates
+
+an effective charge distribution. Let’s see whether the formed density can be
+      2
+e|ψ(x)|. Since the effective charge density is proportional to the amount of
+
+time the electron spends in a given position, the electron must be in the left
+
+half of the box half of the time and in the right half of the box half of the
+
+time. But it can spend no time at the center of the box where the effectivecharge density is zero; in other words, it must move at infinite velocity at the
+
+center. Certainly, the appearance of velocity faster than light or even infinite
+
+velocity  may  be  not  a  fatal  problem,  as  our  discussion  is  entirely  in  the
+
+context  of  non-relativistic  quantum  mechanics,  and  especially  the  infinite
+
+potential in the example is also an ideal situation. However, it seems difficult
+
+to explain why the electron speeds up at the node and where the infinite
+
+energy  required  for  the  acceleration  comes  from.  Moreover,  the  sudden
+
+acceleration of the electron near the node may also result in large radiation,
+
+which is inconsistent with the predictions of quantum mechanics. Again, it
+
+seems very difficult to explain why the accelerating electron does not radiate
+
+here.
+
+    Let’s  further  consider  an  electron  in  a  superposition  of  two  energy
+
+eigenstates in two separated boxes ψ(x) + ψ(x). In this example, even if one
+                                          12
+
+assumes that the electron can move with infinite velocity (e.g. at the nodes), it
+
+cannot continuously move from one box to another due to the restriction of
+
+box  walls.  Therefore,  any  sort  of  continuous  motion  cannot  generate  the
+                                                2
+effective charge density e|ψ(x) + ψ(x)|. One may still object that this is
+                                12
+
+merely an artifact of the idealization of infinite potential. However, even in
+
+this ideal situation, the model should also be able to generate the effective
+
+charge density by means of some sort of ergodic motion of the electron;
+
+otherwise it will be inconsistent with quantum mechanics. On the other hand,
+
+it is very common in quantum optics experiments that a single-photon wave
+
+packet is split into two branches moving along two well separated paths in
+
+space. The wave function of the photon disappears outside the two paths for
+
+all practical purposes. Moreover, the experimental results are not influenced
+
+by the environment and setup between the two paths of the photon. Thus it is
+
+very  difficult  to  imagine  that  the  photon  performs  a  continuous  ergodic
+
+motion back and forth in the space between its two paths.
+
+  In view of these serious drawbacks of the classical ergodic models and
+
+their inconsistency with quantum mechanics, we conclude that the ergodic
+
+motion  of  particles  cannot  be  continuous. If  the  motion  of  a  particle  is
+
+discontinuous,  then  the  particle  can  readily  move  throughout  all  regions
+
+where the wave function is nonzero during an arbitrarily short time interval at
+
+a  given  instant.  Furthermore,  if  the  probability  density  of  the  particle
+
+appearing in each position is proportional to the modulus square of its wave
+
+function there at every instant, the discontinuous motion can also generate the
+
+right  effective  mass  and  charge  distributions.  This  will  solve  the  aboveproblems plagued by the classical ergodic models. The discontinuous ergodic
+
+motion requires no existence of a finite ergodic time. A particle undergoing
+
+discontinuous motion can also move from one region to another spatially
+
+separated region, no matter whether there is an infinite potential wall between
+
+them, and such discontinuous motion is not influenced by the environment
+
+and setup between these regions either. Moreover, discontinuous motion can
+
+also solve the problems of infinite velocity and accelerating radiation. The
+
+reason  is  that  no  classical  velocity  and  acceleration  can  be  defined  for
+
+discontinuous  motion,  and  energy  and  momentum  will  require  new
+
+definitions and understandings (see Chapter 2).
+
+    The above analysis demonstrates that the ergodic motion of a particle is
+
+discontinuous.  Yet  it  doesn’t  say  that  the  discontinuous  motion  must  be
+
+random. In particular, the randomness of the result of a conventional quantum
+
+measurement may be only apparent. In order to know whether the motion of
+
+particles  is  random  or  not,  we  need  to  analyze  the  cause  of  motion.  For
+
+example, if motion has no deterministic cause, then it will be random, only
+
+determined by a probabilistic cause. This may also be the right way to find
+
+how particles move. Since motion involves change in position, if we can find
+
+the cause or instantaneous condition determining the change[18], we will be
+
+able to find how particles move in reality.
+
+    Let’s consider the simplest states of motion of a free particle, for which
+
+the  instantaneous  condition  determining  the  change  of  its  position  is  a
+
+constant during the motion. In logic the instantaneous condition can only be
+
+deterministic  or  indeterministic.  That  the  instantaneous  condition  is
+
+deterministic means that it leads to a deterministic change of the position of a
+
+particle at a given instant. That the instantaneous condition is indeterministic
+
+means that it only determines the probability density of the particle appearing
+
+in each position in space at a given instant. If the instantaneous condition is
+
+deterministic, then the simplest states of motion of the free particle will have
+
+two possible forms. The first one is continuous motion with constant velocity,
+
+and the equation of motion for the particle is x(t + dt) = x(t) + vdt, where the
+
+deterministic instantaneous condition v is a constant[19]. The second one is
+
+discontinuous motion with infinite average velocity; the particle performs a
+
+finite jump along a fixed direction at every instant, where the jump distance is
+
+a constant, determined by the constant instantaneous condition[20]. On the
+
+other hand, if the instantaneous condition is indeterministic, then the simplest
+
+states of motion of the free particle, for which the probability density of theparticle  appearing  in  every  position  is  the  same  at  each  instant,  will  be
+
+random discontinuous motion with even mass and charge density.
+
+  In order to know whether the instantaneous condition is deterministic or
+
+not, we need to determine which sort of simplest states of motion are the
+
+solutions of the equation of free motion in quantum mechanics (i.e. the free
+
+Schrödinger  equation).  According  to  the  analysis  in  the  last  section,  the
+
+momentum eigenstates of a free particle, which are the solutions of the free
+
+Schrödinger equation, describe the ergodic motion of the particle with even
+                                                            ipx2 
+mass  and  charge  density  in  space  (i.e.  ρ(x)  =  |e|=  1).  Therefore,  the
+
+simplest  states  of  motion  with  a  constant  probabilistic  instantaneous
+
+condition are the solutions of the equation of free motion, while the simplest
+
+states of motion with a constant deterministic instantaneous condition are not.
+
+    It is reasonable to assume that (1) the simplest states of motion of a free
+
+particle  are  the  solutions  of  the  equation  of  free  motion;  and  (2)  the
+
+instantaneous  condition  determining  the  position  change  of  a  particle  is
+
+always  deterministic  or  indeterministic  for  any  state  of  motion.  Then  the
+
+above  result  implies  that  motion,  no  matter  it  is  free  or  forced,  has  no
+
+deterministic cause, and thus it is random and discontinuous, only determined
+
+by a probabilistic cause.
+
+    To sum up, we have demonstrated that the mass and charge distributions
+
+of a quantum system are formed by the random discontinuous motion of a
+
+localized  particle  with  the  total  mass  and  charge  of  the  system,  and  the
+
+probability density of the particle appearing in each position is proportional
+
+to the modulus square of its wave function there.
+
+
+Meaning of the wave function
+
+
+  In classical mechanics, we have a clear physical picture of motion. It is
+
+well  understood  that  the  trajectory  function  x(t)  describes  the  continuous
+
+motion of a particle. In quantum mechanics, the trajectory function x(t) is
+
+replaced by a wave function ψ(x, t). If the particle ontology is still viable in
+
+the quantum domain, then it seems natural that the wave function should
+
+describe  some  sort  of  more  fundamental  motion  of  particles,  of  which
+
+continuous  motion  is  only  an  approximation  in  the  classical  domain,  as
+
+quantum mechanics is a more fundamental theory of the physical world, of
+
+which  classical  mechanics  is  an  approximation.  The  analysis  of  the  last
+
+section provides a strict proof of this conjecture, and it convincingly showsthat the wave function describes the more fundamental motion of particles,
+
+which is essentially discontinuous and random. In this section, we will give a
+
+more detailed analysis of the meaning of the wave function.
+
+An analysis of random discontinuous motion
+
+    Let’s first make clearer what we mean when we say an electron is a
+
+particle. The picture of particle appears from our analysis of the mass and
+
+charge distributions of an electron. As we have shown in the last section, the
+
+mass  and  charge  distributions  of  an  electron,  which  are  measurable  by
+
+protective measurement, are not real but effective; they are formed by the
+
+ergodic motion of a localized particle with the total mass and charge of the
+
+electron. If the charge distribution is real, i.e., if the charge distribution exists
+
+throughout space at the same time, then there will exist electrostatic self-
+
+interactions of the distribution, the existence of which not only contradicts
+
+experiments  but  also  violates  the  superposition  principle  of  quantum
+
+mechanics.  It  is  this  analysis  that  reveals  the  basic  existent  form  of  an
+
+electron in space and time. An electron is a particle[21]. Here the concept of
+
+particle is used in its usual sense. A particle is a small localized object with
+
+mass  and  charge,  and  it  is  only  in  one  position  in  space  at  an  instant.
+
+Moreover, as we have argued above, the motion of an electron described by
+
+its wave function is not continuous but discontinuous and random in nature.
+
+We may say that an electron is a quantum particle in the sense that its motion
+
+is  not  continuous  motion  described  by  classical  mechanics,  but  random
+
+discontinuous motion described by quantum mechanics.
+
+    Next, let’s analyze the random discontinuous motion of particles. From a
+
+logical point of view, for the random discontinuous motion of a particle, there
+
+should  exist  a  probabilistic  instantaneous  condition  that  determines  the
+
+probability  density  of  the  particle  appearing  in  every  position  in  space,
+
+otherwise it would not “know” how frequently they should appear in each
+
+position  in  space.  This  condition  cannot  come  from  otherwhere  but  must
+
+come  from  the  particle  itself.  In  other  words,  the  particle  must  have  an
+
+instantaneous property that determines its motion in a probabilistic way. This
+
+property  is  usually  called  indeterministic  disposition  or  propensity  in  the
+
+literature[22],  and  it  can  be  represented  by  Ρ(x,  t),  which  satisfies  the
+
+nonnegative condition Ρ(x, t) ≥ 0 and the normalization relation ∫Ρ(x, t)dx =
+
+1. As a result, the position of the particle at every instant is random, and its
+
+trajectory formed by the random position series is not continuous at everyinstant[23]. In short, the motion of the particle is essentially discontinuous
+
+and random[24].
+
+    Unlike the deterministic continuous motion, the trajectory function x(t)
+
+can no longer provide a useful description for random discontinuous motion.
+
+In the following, we will give a strict description of random discontinuous
+
+motion of particles based on measure theory. For simplicity we will mainly
+
+analyze the one-dimensional motion that corresponds to the point set in two-
+
+dimensional space and time. The results can be readily extended to the three-
+
+dimensional situation.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Figure 3.2 The description of random discontinuous motion of a single particle
+
+ 
+
+    We first analyze the random discontinuous motion of a single particle.
+
+Consider the state of motion of the particle in finite intervals ∆t and ∆x near a
+
+space-time point (t, x) as shown in Figure 3.2. The positions of the particle
+                    ij
+
+form a random, discontinuous trajectory in this square region. We study the
+
+projection of this trajectory in the t-axis, which is a dense instant set in the
+
+time interval ∆t. Let W be the discontinuous trajectory of the particle and Q
+
+be the square region [x, x + ∆x]× [t, t+ ∆t]. The dense instant set can be
+                          jjii
+
+denoted  by  π(W  ∩  Q)∈  R,  where  π  is  the  projection  on  the  t-axis.
+              t t
+
+According to the measure theory, we can define the Lebesgue measure:
+
+
+
+
+Since  the  sum  of  the  measures  of  all  such  dense  instant  sets  in  the  time
+
+interval ∆t is equal to the length of the continuous time interval ∆t, we have:Then we can define the measure density as follows:
+
+
+
+
+    This quantity provides a strict description of the position distribution of
+
+the  particle  or  the  relative  frequency  of  the  particle  appearing  in  an
+
+infinitesimal space interval dx near position x during an infinitesimal interval
+
+dt near instant t, and it satisfies the normalization relation ∫ρ(x, t)dx = 1 by
+
+the  above  definition.  Note  that  the  existence  of  the  limit  relies  on  the
+
+continuity  of  the  evolution  of  Ρ(x,  t),  the  property  of  the  particle  that
+
+determines the probability density of it appearing in every position in space.
+
+In fact, ρ(x, t) is determined by Ρ(x, t), and there exists the relation ρ(x, t) =
+
+Ρ(x, t). We call ρ(x, t) position measure density or position density in brief.
+
+    Since  the  position  density  will  change  with  time  in  general,  we  may
+
+further define the position flux density j(x, t) through the relation j(x, t) = ρ(x,
+
+t)v(x, t), where v(x, t) is the velocity of the local position density. It describes
+
+the change rate of the position density. Due to the conservation of measure,
+
+ρ(x, t) and j(x, t) satisfy the continuity equation:
+
+
+
+
+The  position  density  ρ(x,  t)  and  position  flux  density  j(x,  t)  provide  a
+
+complete description of the state of random discontinuous motion of a single
+
+particle.
+
+    The description of the motion of a single particle can be extended to the
+
+motion  of  many  particles.  For  the  random  discontinuous  motion  of  N
+
+particles,  we  can  define  joint  position  density  ρ(x, x,  ...x,  t)  and  joint
+                                                              12N
+
+position flux density j(x, x, ...x, t) = ρ(x, x, ...x, t) v(x, x, ...x, t). They
+                            12N12N12N
+
+also satisfy the continuity equation:
+
+
+
+
+
+When these N particles are independent, the joint position density can bereduced to the direct product of the position density for each particle. Note
+
+that the joint position density ρ(x, x, ...x, t) and joint position flux density
+                                      12N
+
+j(x, x, ...x,  t)  are  not  defined  in  the  real  three-dimensional  space,  but
+  12N
+
+defined in the 3N-dimensional configuration space.
+
+Interpreting the wave function
+
+    Although  the  motion  of  particles  is  essentially  discontinuous  and
+
+random, the discontinuity and randomness of motion is absorbed into the
+
+state of motion, which is defined during an infinitesimal time interval, by the
+
+descriptive quantities of position density ρ(x, t) and position flux density j(x,
+
+t). Therefore, the evolution of the state of motion of particles may obey a
+
+deterministic  continuous  equation.  As  we  have  demonstrated  in  the  last
+
+chapter,  the  linear  evolution  of  the  state  is  governed  by  the  Schrödinger
+
+equation in quantum mechanics. Based on this equation, both ρ(x, t) and j(x,
+
+t) can be expressed by the wave function in a unique way[25]:
+
+
+
+
+
+
+
+Correspondingly, the wave function ψ(x, t) can be uniquely expressed by ρ(x,
+
+t) and j(x, t) (except for a constant phase factor):
+
+
+
+
+In this way, the wave function ψ(x, t) also provides a complete description of
+
+the  state  of  motion.  For  the  motion  of  many  particles,  the  joint  position
+
+density  and  joint  position  flux  density  are  defined  in  the  3N-dimensional
+
+configuration  space,  and  thus  the  many-particle  wave  function,  which  is
+
+composed  of  these  two  quantities,  is  also  defined  in  the  3N-dimensional
+
+configuration space.
+
+    One important point needs to be stressed here. Since the wave function in
+
+quantum mechanics is defined at a given instant, not during an infinitesimal
+
+time interval, it should be regarded not simply as a description of the state of
+
+motion of particles, but more suitably as a description of the probabilistic
+
+instantaneous  condition  or  dispositional  property  of  the  particles  that
+
+determines  their  random  discontinuous  motion  at  a  deeper  level[26].  In
+
+particular,  the  modulus  square  of  the  wave  function  determines  theprobability density of the particles appearing in every position in space. By
+
+contrast, the position density and position flux density, which are defined
+
+during an infinitesimal time interval at a given instant, are only a description
+
+of the state of the resulting random discontinuous motion of particles, and
+
+they are determined by the wave function. In this sense, we may say that the
+
+motion of particles is “guided” by their wave function in a probabilistic way.
+
+
+Momentum, energy and spin
+
+
+    We have been discussing random discontinuous motion of particles in
+
+real space. Does the picture of random discontinuous motion exist for other
+
+dynamical  variables  such  as  momentum  and  energy?  Since  there  are  also
+
+wave functions of these variables in quantum mechanics, it seems tempting to
+
+assume that the interpretation of the wave function in position space may also
+
+apply to the wave function in momentum space etc. Moreover, due to the
+
+randomness of change for each variable, the probability distributions of all
+
+variables  for  an  arbitrary  wave  function  can  indeed  be  consistent  with
+
+quantum  mechanics[27].  As  we  think,  however,  the  picture  of  random
+
+discontinuous motion may exist only for position, and momentum, energy etc
+
+do not undergo random discontinuous change among their eigenvalues.
+
+  In classical mechanics, a particle moves along a continuous trajectory,
+
+and it has velocity defined as the first time derivative of its trajectory[28].
+
+Moreover,  the  particle  has  momentum,  which  is  defined  as  its  velocity
+
+multiplied by its mass, namely p = mv, and the particle also has (kinetic)
+
+energy, which is defined as the square of its momentum divided by twice its
+                      22
+mass, namely E = p/2m = mv/2.
+
+  In  quantum  mechanics,  since  the  motion  of  a  particle  is  essentially
+
+discontinuous,  the  particle  has  no  velocity  at  every  instant.  However,  a
+
+particle still has momentum and energy. As noted in the last chapter, they
+
+relate no longer to velocity but to spacetime translation. For example, the
+
+momentum operator is defined as the generator of space translation, namely P
+
+= −i∂/∂x. If a particle is in a momentum eigenstate, we say it has a definite
+
+momentum  whose  value  is  the  corresponding  momentum  eigenvalue.
+
+According to expectation, the quantum definitions of momentum and energy
+
+lead to their classical formulations. By Ehrenfest’s theorem, we have:
+
+                                  d<x>/dt = <p>/m,
+
+where  <x>,  <p>  are  the  average  position  and  average  momentum  of  aparticle, respectively. For a macroscopic object, whose state is a wave packet
+
+narrow  in  both  position  and  momentum,  <x>  and  <p>  will  represent  the
+
+effective position and momentum of the object. Then this formula naturally
+
+leads to the classical definition of momentum, p = mv. Similarly, for a free
+                                    2
+particle  we  have  <E>  =  <p>/m  by  the  free Schrödinger  equation. This
+                                                                                2
+formula then leads to the classical definition of kinetic energy, E = p/2m.
+
+    From the definitions of momentum and energy it can be seen that they
+
+are distinct from position. The position of a particle is its primary property
+
+defined at instants, while momentum and energy are the secondary properties
+
+relating only to its state of motion (e.g. momentum and energy eigenstates),
+
+which is formed by the motion of the particle. In other words, position is an
+
+instantaneous property of a particle, while momentum and energy are only
+
+manifestations of its state of motion during an infinitesimal time interval.
+
+Certainly, we can still talk about momentum and energy. For example, when
+
+a particle is in the eigenstate of the momentum or energy operator, we say the
+
+particle has definite momentum or energy, whose value is the corresponding
+
+eigenvalue, and when the particle is in a superposition of these eigenstates,
+
+we say the particle has no definite momentum and energy.
+
+    Lastly, we note that spin is a more distinct property. Like momentum and
+
+energy, the spin of a particle does not undergo random discontinuous change
+
+either for any spin state. The main reason is that the spin of a particle is
+
+always  definite  along  one  direction,  though  the  spin  state  can  always  be
+
+decomposed into two eigenstates of spin along another direction. However,
+
+different from momentum and energy, spin has its own state space, irrelevant
+
+to  the  (spatial)  state  of  motion,  and  thus  it  may  be  regarded  as  an
+
+instantaneous property like position. As a result, if the spin state of a particle
+
+is entangled with its spatial state due to interaction and the branches of the
+
+entangled state are well separated in space, the particle, which has different
+
+spin in different branches, will also undergo random discontinuous motion
+
+between these different spin states. This is the situation that usually happens
+
+during a spin measurement.
+
+ 
+
+ 4.  Understanding  the  theory  (III):  Wavefunction
+
+collapse and the Born rule
+
+    We have demonstrated in chapter 2 that the linear evolution of the wave
+
+function  is  governed  by  the  Schrödinger  equation  in  the  nonrelativistic
+
+domain. As noted there, however, the derivation cannot exclude the existence
+
+of possible nonlinear quantum evolution. Then does the wave function also
+
+undergo nonlinear evolution besides the linear Schrödinger evolution? After
+
+unveiling the physical meaning of the wave function in the last chapter, we
+
+will be able to answer this important question.
+
+    The analysis is closely related to the so-called measurement problem.
+
+The derived Schrödinger equation has been precisely tested for microscopic
+
+systems  such  as  photons,  electrons,  atoms  and  molecules  etc.  Yet  for
+
+macroscopic objects such as a cat or the pointer of a measuring device, there
+
+has  been  a  hot  debate  whether  the  equation  is  complete.  For  example,  it
+
+seems that the linear Schrödinger evolution is blatantly inconsistent with the
+
+emergence of definite measurement results.
+
+  In this chapter, we will show that the interpretation of the wave function
+
+in terms of random discontinuous motion of particles may help to solve the
+
+measurement problem. It is argued that the random discontinuous motion of
+
+particles may bring on a stochastic nonlinear evolution of the wave function,
+
+which can lead to the collapse of the wave function during a conventional
+
+measurement  and  thus  explain  the  emergence  of  definite  measurement
+
+results. Moreover, the picture of random discontinuous motion of particles
+
+may also make the Born rule more comprehensible.
+
+    However,  it  must  be  warned  that the  precise  law  of  the  stochastic
+
+nonlinear evolution is still unknown. Moreover, since some arguments of this
+
+chapter concern new physics that has not been tested by experiments, they are
+
+more speculative. Certainly, the positive aspect is that this will make the
+
+contents more exciting, as the final solution to the measurement problem may
+
+ignite the next revolution in physics.
+
+
+The measurement problem
+
+
+    Let’s  first  see  the  notorious  measurement  problem.  To  illustrate  the
+
+problem, consider a microscopic particle such as an electron in a quantumsuperposition of two positions:
+
+                                |ψ> = a|x> + b|x>.
+                                            12
+
+The standard procedure for measuring the position of the particle involves an
+
+interaction Hamiltonian:
+
+                                      H = g(t)PX
+                                        I
+
+coupling the measured particle to an appropriate measuring device, where X
+
+is the position operator of the particle, P is the momentum operator of the
+
+pointer  of  the  measuring  device.  The  coupling  strength  g(t)  is  a  smooth
+
+function normalized to ∫dtg(t) = 1 during the interaction interval τ, and g(0) =
+
+g(τ) = 0. The initial state of the pointer is supposed to be a Gaussian wave
+
+packet centered at initial position 0, denoted by |φ(0)>.
+
+    For a conventional position measurement, the interaction H is of very
+                                                                              I
+
+short duration and so strong that it dominates the rest of the Hamiltonian.
+
+Then the state of the combined system at the end of the interaction is:
+
+          -i∫dtHI(t) 
+|t=τ> = e|ψ>|φ(0)>
+
+        -iPX 
+  = e(a|x> + b|x>) |φ(0)>
+                12
+
+          -iPx1-iPx2
+  = (ae|x> + be|x>) |φ(0)>
+                12
+
+  = a|x>|φ(x)> + b|x>|φ(x)>.
+          1122
+
+This  is  an  entangled  superposition,  where  the  position  eigenstates  of  the
+
+particle with eigenvalues x get correlated to measuring device states in which
+                              i
+
+the pointer is shifted by these values x (i = 1, 2).
+                                            i
+
+    Therefore, according to the linear Schrödinger equation (for many-body
+
+systems), the initial superposition state of a microscopic particle evolves to a
+
+superposition  state  of  a  macroscopic  device.  To  make  the  situation  more
+
+dramatic, we can further introduce an observer who observes the position of
+
+the  pointer.  Then  the  state  of  the  combined  system  at  the  end  of  the
+
+observation will be
+
+              |t=τ> = a|x>|φ(x)> |Ф(x)> + b|x>|φ(x)>|Ф(x)>,
+                            111222
+
+where |Ф(x)> and |Ф(x)> represent the states of the observer who perceived
+            12
+
+that  the  pointer  is  shifted  by  x  and  x,  respectively.  Thus  the  linear
+                                        12
+
+Schrödinger  evolution  can  further  lead  to  the  superposition  states  of  an
+
+observer’s perception.
+
+  If  the  above  superposition  state  is  indeed  the  outcome  state  of  anappropriate measurement, then it seems that the measurement did not obtain a
+
+definite  result  at  all.  However,  experiments show  that  the  result  of  a
+
+conventional measurement is always definite. Thus a conventional position
+
+measurement on a particle in the superposition state a|x> + b|x> should
+                                                                    12
+
+obtain a definite result x or x, that is, the pointer of the measuring device
+                            12
+
+should be shifted by a definite value x or x. (Strictly speaking, an observer
+                                            12
+
+should perceive that the pointer of the device is shifted by a definite value x
+                                                                                          1
+
+or x.) Furthermore, the probability of the measurement result should satisfy
+  2
+
+the Born rule, namely the probabilities of the result being x and x should be
+                                                                      12
+22
+|a|  and  |b|.  The  apparent  inconsistency  between  the  linear  Schrödinger
+
+equation and the emergence of definite measurement results is the so-called
+
+measurement problem.
+
+  In  order  to  solve  the measurement  problem,  the  standard  quantum
+
+mechanics  taught  in  textbooks resorts  to  an  additional  collapse  postulate,
+
+which says that when a wave function is measured by a macroscopic device,
+
+it will no longer follow the linear Schrödinger equation, but instantaneously
+
+collapse  to  one  of  the  wave  functions  that  correspond  to  definite
+
+measurement results. Unfortunately, however, this collapse postulate is ad
+
+hoc, and the theory does not tell us why and how a wave function collapses.
+
+In fact, in the absence of any satisfactory account of wavefunction collapse,
+
+the standard quantum mechanics does not have any exact empirical content,
+
+though it can still be used for most practical purposes.
+
+    There  are  two  possible  ways  to  complete  the  standard  quantum
+
+mechanics. The first one is to integrate the collapse evolution with the normal
+
+Schrödinger evolution into a unified dynamics, e.g. in the dynamical collapse
+
+theories. The second way is to reject the collapse postulate and assume that
+
+the  Schrödinger  equation  completely  describes  the  evolution  of  the  wave
+
+function. There are two alternative theories for avoiding collapse. The first
+
+one is the de Broglie-Bohm theory, which takes the wave function as an
+
+incomplete  description  and  adds  some  hidden  variables  to  explain  the
+
+emergence  of  definite  measurement  results.  The  second  one  is  the  many-
+
+worlds  interpretation,  which  assumes  the  existence  of  many  equally  real
+
+worlds corresponding to different possible results of quantum experiments
+
+and  still  regards  the  unitarily  evolving  wave  function  as  a  complete
+
+description of the total worlds. In the next section, we will analyze these
+
+solutions in detail.Wavefunction collapse is real
+
+
+The de Broglie-Bohm theory goes astray
+
+    Let's first see the de Broglie-Bohm theory. According to the theory, a
+
+complete realistic description of a quantum system is provided by its wave
+
+function  together  with  the  configuration  defined  by  the  positions  of  its
+
+particles.  The  wave  function  follows  the  linear  Schrödinger  equation  and
+
+never collapses. The particles, called Bohmian particles, are guided by the
+
+wave  function  to  undergo  deterministic  continuous  motion  via  a  guiding
+
+equation. For example, in the minimum formulation of the de Broglie-Bohm
+
+theory, which is usually called Bohmian mechanics, the guiding equation for
+
+a system of N Bohmian particles is
+
+
+
+
+where ρ and j are the density and flux density of the wave function that
+                k
+
+satisfy the continuity equation[29], though it is often written in an equivalent
+
+but more implicit form:
+
+
+
+
+where m, x, v are the mass, position and velocity of the k-th Bohmian
+        kkk
+
+particle, respectively, ψ(x, x, …x, t) is the wave function of the system that
+                            12k
+
+obeys the Schrödinger equation, and Im() represents the imaginary part of
+
+a complex-valued function.
+
+  In the de Broglie-Bohm theory, the result of a measurement is assumed
+
+to be indicated by the positions of the Bohmian particles representing the
+
+pointer of the measuring device (and not by the wave function of the pointer),
+
+and thus it is always definite. Moreover, it can be shown that the theory gives
+
+the same predictions of measurement results as standard quantum mechanics
+
+by means of a quantum equilibrium hypothesis (so long as the latter gives
+
+unambiguous  predictions).  Concretely  speaking,  the  quantum  equilibrium
+
+hypothesis provides the initial conditions for the guidance equation which
+
+make  the  de  Broglie-Bohm  theory  obey  Born's  rule  in  terms  of  position
+
+distributions. Moreover, since all measurements can be finally expressed in
+
+terms of position, e.g. pointer positions, this amounts to full accordance withall  predictions  of  quantum  mechanics.  In  this  way,  it  seems  that  the  de
+
+Broglie-Bohm  theory  can  succeed  in  avoiding  the  collapse  of  the  wave
+
+function.
+
+    However,  although  the  de  Broglie-Bohm  theory  is  mathematically
+
+equivalent to quantum mechanics, there is no clear consensus with regard to
+
+its physical interpretation.  In  the  following,  we  will  examine  whether  the
+
+theory  is  consistent  with  the  meaning  of  the  wave  function,  namely  the
+
+interpretation of the wave function in terms of random discontinuous motion
+
+of particles.
+
+    First of all, it can be seen that the guiding responsibility of the wave
+
+function assumed by the theory is inconsistent with the meaning of the wave
+
+function. As noted above, the wave function represents the property of the
+
+particles of a quantum system that determines their random discontinuous
+
+motion. Accordingly, the wave function indeed guides the motion of these
+
+particles in some sense. However, the wave function guides the motion of the
+
+particles not in a deterministic and continuous way as assumed by the de
+
+Broglie-Bohm  theory,  but  in  a  probabilistic  and  discontinuous  way;  the
+
+modulus square of the wave function determines the probability density of
+
+the particles appearing in certain positions in space. Moreover, the motion of
+
+these particles is ergodic. By contrast, the motion of the Bohmian particles is
+
+not  ergodic,  and  the  time  averages  of  the  Bohmian  particles’  positions
+
+typically differ remarkably from the ensemble averages.
+
+    Next,  although  one  may  assume  that  a  quantum  system  contains
+
+additional  Bohmian  particles  besides  its  particles  that  undergo  random
+
+discontinuous motion, the motion of the Bohmian particles cannot be guided
+
+by the wave function of the system. For the wave function of the system
+
+represents the property of the non-Bohmian particles of the system, and its
+
+efficiency is to guide the motion of these particles in a probabilistic way. In
+
+particular, the wave function is not a field-like entity distributing throughout
+
+configuration space (e.g. an information field) or a property of the Bohmian
+
+particles that may guide their motion, and at every instant there are only non-
+
+Bohmian particles being in positions that are usually far from the positions of
+
+the hypothetical Bohmian particles. Note also that the non-Bohmian particles
+
+cannot  have  known  interactions  such  as  gravitational  and  electromagnetic
+
+interactions  with  the  Bohmian  particles  either;  otherwise  the  theory  will
+
+contradict quantum mechanics and experiments. Without being guided by the
+
+wave function in a proper way, the motion of the Bohmian particles will beunable  to  generate  the  right  measurement  results  in  conventional  impulse
+
+measurements.
+
+    Last  but  not  least, the  positions  of  the  Bohmian  particles  as  added
+
+(hidden)  variables  seem  redundant  too.  In  some  sense,  there  are  already
+
+additional variables besides the wave function for the random discontinuous
+
+motion  of  particles.  It  is  the  definite  positions  of  these  particles  at  each
+
+instant. Though these variables are not continuous and deterministic, their
+
+random motion might lead to the stochastic collapse of the wave function and
+
+further account for the emergence of random measurement results. We will
+
+consider this possibility later on.
+
+  In  conclusion,  the  de  Broglie-Bohm  theory  is  inconsistent  with  the
+
+meaning of the wave function when considering its physical contents. As a
+
+result, the theory as an approach to avoid wavefunction collapse cannot be a
+
+satisfactory solution to the measurement problem.
+
+There are no many-worlds
+
+    Now let's turn to the second approach to avoid wavefunction collapse,
+
+the many-worlds interpretation. Although this theory is widely acknowledged
+
+as one of the main alternatives to quantum mechanics, its many fundamental
+
+issues, e.g. the preferred basis problem and the interpretation of probability,
+
+have not been completely solved yet. In this subsection, we will show that the
+
+existence  of  many  worlds  is  inconsistent  with  the  results  of  protective
+
+measurement and the picture of random discontinuous motion of particles.
+
+    According  to  the  many-worlds  interpretation,  each  component  of  the
+
+wave function of a measuring device that represents a definite measurement
+
+result corresponds to each world among the many worlds. This means that in
+
+one world there is only one component of the superposed wave function and
+
+the  other  components  do  not  exist,  and  thus  these  components  that
+
+correspond to the other worlds cannot be observed in this world. As a result,
+
+in every world the whole superposed wave function of the measuring device
+
+cannot be measured. If all components of the superposed wave function of
+
+the device can be observed in one world, then they will all exist in this world,
+
+which obviously contradicts the many-worlds interpretation.
+
+    It  is  unsurprising  that  the  existence  of  such  many  worlds  may  be
+
+consistent with the results of conventional (impulse) measurements, as the
+
+many-worlds interpretation is just invented to explain the emergence of these
+
+results, e.g. the definite measurement result in each world always denotes theresult  of  a  conventional  (impulse)  measurement.  However,  this  does  not
+
+guarantee consistency for all types of measurements. Indeed, it can be seen
+
+that the existence of the many worlds defined above is inconsistent with the
+
+results of protective measurements. The reason is that the whole superposed
+
+wave function of a quantum system including a measuring device can be
+
+measured by a protective measurement (see the example given in section 3.1)
+
+[30].  The  result  of  the  protective  measurement  as  predicted  by  quantum
+
+mechanics indicates that all components of the superposed wave function of
+
+the  measuring  device  exist  in  the  same  world  where  the  protective
+
+measurement is made. Therefore, according to protective measurement, the
+
+components of the superposed wave function of a measuring device, each of
+
+which represents a definite measurement result, do not correspond to many
+
+worlds, in each of which there is only one such component and a copy of the
+
+measuring device that obtains a definite result; rather, the whole superposed
+
+wave function of the measuring device, if it exists, only exists in one world,
+
+namely our world, and in this world there is only one measuring device that
+
+obtains no definite result. In this way, protective measurement provides a
+
+strong argument against the many-worlds interpretation.
+
+    Four points are worth stressing. First of all, the above argument does not
+
+depend on how the many worlds are precisely defined in the many-worlds
+
+interpretation. For example, it is irrelevant to whether the many worlds are
+
+fundamental or emergent, and in particular, it also applies to Wallace’s recent
+
+formulation of the many-worlds interpretation based on a structuralist view
+
+on macro-ontology. The key point is that all components of the superposed
+
+wave  function  of  a  measuring  device  can  be  detected  by  protective
+
+measurement in one world, namely our world, and thus they all exist in this
+
+world. Therefore, it is impossible that the superposed wave function of a
+
+measuring  device  corresponds  to  many  worlds,  only  one  of  which  is  our
+
+world[31].
+
+    Next,  the  above  argument  is  not  influenced  by  environment-induced
+
+decoherence. On the one hand, even if the superposition state of a measuring
+
+device is entangled with the states of other systems, the entangled state of the
+
+whole system can also be measured by protective measurement in principle.
+
+The  method  is  by  adding  appropriate  protection  procedure  to  the  whole
+
+system so that its entangled state is a nondegenerate eigenstate of the total
+
+Hamiltonian  of  the  system  together  with  the  added  potential.  Then  the
+
+entangled  state  can  be  protectively  measured.  On  the  other  hand,environment-induced decoherence is not an essential element of the many-
+
+worlds  interpretation.  Even  when  a  measuring  device  is  isolated  from
+
+environment  (and  the  measured  particle  is  absorbed  by  the  device),  the
+
+interpretation also requires that each component of the wave function of the
+
+measuring device in which there is a definite measurement result corresponds
+
+to  each  world  among  the  many  worlds;  otherwise  the  many-worlds
+
+interpretation will not give the same predictions of measurement results as
+
+standard  quantum  mechanics  (so  long  as  the  latter  gives  unambiguous
+
+predictions).
+
+    Thirdly, the above argument does not require protective measurement to
+
+be able to distinguish the superposed wave function of a measuring device (in
+
+each component of which there is a definite measurement result) from one of
+
+its components, or whether the superposed wave function collapses or not
+
+during  a  conventional  impulse  measurement.  Since  the  determination
+
+demands  the  distinguishability  of  two  non-orthogonal  states,  which  is
+
+prohibited  by  quantum  mechanics,  no  measurements  consistent  with  the
+
+theory  including  protective  measurement  can  do  this.  What  protective
+
+measurement  tells  us  is  that  such  a  superposed  wave  function,  which
+
+existence is assumed by the many-worlds interpretation, does not correspond
+
+to  the  many  worlds  defined  by  the  many-worlds  interpretation.  In  other
+
+words,  protective  measurement  reveals  inconsistency  of  the  many-worlds
+
+interpretation.
+
+    Lastly, we stress again that the principle of protective measurement is
+
+irrelevant  to  the  controversial  process  of  wavefunction  collapse  and  only
+
+depends  on  the  linear  Schrödinger  evolution.  As  a  result,  protective
+
+measurement can (at least) be used to examine the internal consistency of the
+
+no-collapse  solutions  to  the  measurement  problem,  e.g.  the  many-worlds
+
+interpretation, before experiments give the last verdict.
+
+  In the following, we will further show that the existence of many worlds
+
+is not consistent with the picture of random discontinuous motion of particles
+
+either[32]. In order to examine the many-worlds interpretation, it is necessary
+
+to know exactly what a quantum superposition is. No matter how to define
+
+the  many  worlds,  they  correspond  to  some  components  of  a  quantum
+
+superposition after all (e.g. the components where measuring devices obtain
+
+definite  results,  and  in  particular,  observers  have  definite  conscious
+
+experience).  According  to  the  picture  of  random  discontinuous  motion  of
+
+particles, for a superposition of two positions A and B of a quantum system(e.g.  the  pointer  of  a  measuring  device),  the  system  randomly  and
+
+discontinuously jumps between these two positions. At some random and
+
+discontinuous instants the system is in position A, and at other instants it is in
+
+position B. In this picture of quantum superposition, it is obvious that there is
+
+only  one  system  all  along,  which  randomly  and  discontinuously  moves
+
+throughout all components of the superposition, no matter the system is a
+
+microscopic particle or a measuring device or an observer. In other words,
+
+there is only one world whose instantaneous state is constantly changing in a
+
+random and discontinuous way.
+
+    This  conclusion  is  also  supported  by  a  comparison  between
+
+discontinuous  motion  and  continuous  motion.  For  a  quantum  particle
+
+undergoing  discontinuous  motion,  the  position  of  the  particle  changes
+
+discontinuously. For a classical particle, its position changes continuously.
+
+There is no essential difference between these two kinds of changes. For both
+
+cases the position of the particle is always definite at each instant, and the
+
+positions of the particle at different instants may be different. Moreover, the
+
+discontinuous change, like the continuous change, does not create the many
+
+worlds, because, among other reasons, the change happens all the while but
+
+the creating process only happens once. Therefore, if there is only one world
+
+in classical mechanics, then there is also one world in quantum mechanics
+
+according  to  the  picture  of  random  discontinuous  motion  of  particles,  no
+
+matter how the many worlds are precisely defined.
+
+    To sum up, the above analysis shows that the de Broglie-Bohm theory
+
+and the many-worlds interpretation are inconsistent with the meaning of the
+
+wave function. If there are no hidden variables such as the trajectories of the
+
+Bohmian particles besides the wave function, then the state of a quantum
+
+system including a measuring device will be represented only by its wave
+
+function. If there are no many worlds either, then a definite measurement
+
+result, which is usually denoted by a definite position of the pointer of a
+
+measuring device, will be represented by a local wave packet of the pointer,
+
+rather  than  by  a  superposition  of  local  wave  packets.  As  a  result,  the
+
+transition  from  microscopic  uncertainty  to  macroscopic  certainty  (e.g.  the
+
+emergence  of  definite  measurement  results)  can  only  be  achieved  by  the
+
+collapse of the wave function. In other words, wavefunction collapse will be
+
+a real physical process.
+
+  In the following sections, we will first analyze the physical origin of
+
+wavefunction collapse and then propose a toy collapse model in terms ofrandom discontinuous motion of particles. Since these contents concern new
+
+physics, they are more speculative.
+
+
+Who collapses the wave function?
+
+
+  In the existing dynamical collapse theories, it is generally assumed that
+
+the wave function is collapsed by an unknown classical noise field. If what
+
+the wave function describes is the random discontinuous motion of particles,
+
+then it seems natural to assume that the random motion of particles is the
+
+appropriate noise source to collapse the wave function. This has three merits
+
+at  least.  First,  the  noise  source  and  its  properties  are  already  known.  For
+
+example, the probability of the particles being in certain positions at each
+
+instant is given by the modulus square of their wave function at the instant.
+
+Next, this noise source is not a classical field, and thus the model can avoid
+
+the problems introduced by the field such as the problem of infinite energy
+
+etc. Last but not least, the random discontinuous motion of particles can also
+
+manifest itself in the equation of motion by introducing the collapse evolution
+
+of the wave function. In the following, we will give a more detailed argument
+
+for this claim.
+
+    As we have demonstrated in the last chapter, the wave function of a
+
+quantum particle is an instantaneous dispositional property of the particle that
+
+determines its random discontinuous motion. However, the wave function is
+
+not  a  complete  description  of  the  instantaneous  state  of  the  particle.  The
+
+instantaneous state of the particle at a given instant also includes its random
+
+position  at  the  instant,  which  may  be  called  the  random  part  of  the
+
+instantaneous state of the particle. Although the probability density of the
+
+particle  being  in  every  position  is  completely  determined  by  the  wave
+
+function,  its  random  position  at  each  instant  is  a  new  physical  fact
+
+independent of the wave function. Therefore, it seems natural to assume that
+
+the random stays of the particle have certain physical efficiency[33]. Since
+
+the motion of the particle is essentially random, its stay at an instant does not
+
+influence its stays at other instants in any direct way. Then the random stays
+
+of  the  particle  can  only  manifest  themselves  by  their  influences  on  the
+
+evolution of the wave function[34]. This forms a feedback in some sense; the
+
+wave function of a particle determines the probabilities of its stays in certain
+
+position, while its random stay at each instant also influences the evolution of
+
+the wave function in a stochastic way[35].    There may exist a deeper reason for the existence of such a feedback.
+
+According to the picture of random discontinuous motion, a particle stays in a
+
+position  at  a  discrete  instant,  and  at next  instant  it  may  jump  to  another
+
+position. It is a reasonable assumption that the particle has both the tendency
+
+to  jump  among  different  positions  and  the  tendency  to  stay  in  the  same
+
+position, and their relative strength is determined by the state of motion of the
+
+particle.  This  is  satisfactory  in  logic,  as  there  should  exist  two  opposite
+
+tendencies  in  general,  and  their  relative  strength  is  determined  by  certain
+
+condition. In some sense, the two tendencies of a particle are related to the
+
+two parts of its instantaneous state; the jumping tendency is related to the
+
+wave function, and it is needed to manifest the superposition of different
+
+positions, while the staying tendency is related to the random stays. These
+
+two opposite tendencies together constitute the complete “temperament” of a
+
+particle.
+
+    It  can  be  seen  that  the  tendency  to  stay  in  the  same  position  for
+
+individual particles might be the deeper origin of wavefunction collapse. For
+
+the staying tendency of a particle will increase its probability of being in the
+
+current position, and correspondingly decrease the probabilities of being in
+
+other positions pro rata. A toy model given later will show that such random
+
+changes of position probability distribution may continuously accumulate to
+
+lead to the collapse of a superposition of different positions to one of them.
+
+    Since  it  has  been widely  conjectured  that  the  Planck  scale  is  the
+
+minimum  spacetime  scale  in  a  complete  quantum  theory  incorporating
+
+gravity, from now on we will assume that the real motion of particles is
+
+random discontinuous motion in discrete spacetime, where the size of each
+
+discrete instant is the Planck time and the size of each discrete position is the
+
+Planck  length[36].  In  discrete  spacetime,  a  particle  randomly  stays  in  a
+
+discrete position at each discrete instant, with a probability determined by the
+
+modulus square of its wave function at the instant. Each random stay of the
+
+particle has a stochastic influence on the evolution of its wave function. As
+
+we  will  show  later,  the  accumulation  of  such  discrete  and  stochastic
+
+influences may lead to the correct collapse of the wave function, which can
+
+then explain the emergence of definite measurement results.
+
+
+Why the Born rule?
+
+
+    The Born rule in quantum mechanics says that for a quantum system in asuperposition of the eigenstates of a dynamical variable A, i.e., |ψ> = Σc|a>,
+                                                                                    iii
+
+the probability of the measurement of the variable A yielding the result a is
+                                                                                        i
+2
+|c|. The rule has been precisely tested by experiments, and it is the second
+i
+
+established  part  of  quantum  mechanics  besides  the  Schrödinger  equation.
+
+However,  it  remains  a  mystery  why  the  probability  of  a  particular
+
+measurement result must satisfy the Born rule.
+
+    After we have known the meaning of the wave function, this mystery
+
+may be unveiled. According to the picture of random discontinuous motion
+
+of particles, for a particle described by a wave function ψ(x, t), the quantity |
+      2
+ψ(x,  t)|  gives  the  objective  probability  density  of  the  particle being  in
+                                                                            2
+position  x  at  instant  t.  According  to  the  Born  rule,  |ψ(x,  t)|  gives  the
+
+probability density of the particle being found in position x at instant t. Then
+
+under  the  reasonable  assumption  that  the  probability  distribution  of  the
+
+results of the measurements of a property such as position is the same as the
+
+objective probability distribution of the property in the measured state, the
+
+Born rule for position measurements is necessitated by the interpretation of
+
+the  wave  function  in  terms  of  random  discontinuous  motion  of  particles.
+
+Since the measurements of other dynamical variables can be finally reduced
+
+to the measurements of position such as pointer positions, the Born rule will
+
+hold true for the measurements of any dynamical variable.
+
+    There  is,  arguably,  a  stricter  restriction  than  the  Born  rule  for  the
+
+stochastic  collapse  evolution  of  the  wave  function  that  results  in  the
+
+emergence of definite measurement results. It is a reasonable postulate that
+
+the laws of nature should permit nature to manifest itself. Otherwise we will
+
+be unable to find the laws of nature and verify them by experiments, and our
+
+scientific investigations will be also pointless. By this postulate, when an
+
+initial superposition of positions undergoes the stochastic collapse evolution,
+
+the  position  probability  distribution  should  manifest  itself  through  the
+
+collapse  results  for  an  ensemble  of  identical  systems,  i.e.,  the  position
+
+collapse results should satisfy the Born rule. Moreover, since the collapse
+
+evolution of individual systems is completely random and irreversible, the
+
+diagonal density matrix elements for an ensemble of identical systems must
+
+be precisely the same as the initial probability distribution at every step of the
+
+evolution. Otherwise the frequency distribution of the collapse results in the
+
+ensemble cannot reflect the initial probability distribution, or in other words,
+
+the probability information contained in the initial state will be completely
+
+lost due to the random and irreversible collapse[37]. As we will see in thenext section, this restriction is an important part of the collapse law.
+
+
+A toy model of wavefunction collapse
+
+
+    After  giving  a  speculative  analysis  of  the  origin  of  wavefunction
+
+collapse, we will propose a toy model of wavefunction collapse based on the
+
+results obtained from the analysis.
+
+    Consider a particle in a superposition of two positions[38].  Its  initial
+
+state is:
+
+                              |ψ(0)> = c(0)|x> + c(0)|x>.
+                                          1122
+
+where |x> is the discrete position eigenstate of the particle, and c(0) satisfies
+        ii
+                                          2
+the normalization relation Σ|c(0)| = 1. According to our analysis of the
+                                i=1,2i
+
+origin  of  wavefunction  collapse,  this  superposition  of  two  position
+
+eigenstates will collapse to one of the position eigenstates after a discrete
+
+dynamical process, and the collapse result satisfies the Born rule.
+
+    The physical picture of the dynamical collapse process is as follows. At
+
+the initial instant t = t (where t is the Planck time), the particle randomly
+                    0PP
+                                                                      2
+stays in a position branch |x> with probability P(0) ≡ |c(0)|. This finite stay
+                                iii
+
+slightly  increases  the  probability  of  the  staying  branch  and  decreases  the
+
+probability of the other branch pro rata. Similarly, at any instant t = nt the
+                                                                                      P
+                                                                                2
+particle randomly stays in a branch |x> with probability P(t) ≡ |c(t)|, and the
+                                          iii
+
+random  stay  also  changes  the  probabilities  of  the  branches  slightly.  Then
+
+during  a  finite  time  interval  much  larger  than  t,  the  probability  of  each
+                                                          P
+
+branch  will  undergo  a  discrete  and  stochastic  evolution.  In  the  end,  the
+
+probability of one branch will be close to one, and the probability of the other
+
+branch will be close to zero. In other words, the initial superposition will
+
+randomly collapse to one of the position branches in the superposition.
+
+    Now we will give a concrete analysis of this dynamical collapse process.
+
+For simplicity we omit the linear Schrödinger evolution that also changes the
+
+position probability distribution. Suppose the particle stays in branch |x> at
+                                                                                      1
+
+instant t = nt, and the stay changes the probability of this branch, P(t), to
+            P1
+
+                                P(t+Tp) = P(t) + ΔP,
+                                1111
+
+where ΔP is a functional of P(t). Due to the conservation of probability,
+          11
+
+P(t) correspondingly turns to be
+2
+
+                                P(t+Tp) = P(t) - ΔP.
+                                2121The probability of this stay (i.e.  the  probability  of  the  particle  staying  in
+
+branch |x> at instant t) is p(x,t) = P(t). Similarly, the stay of the particle in
+          111
+
+branch |x> at instant t = nt changes the probability of the branch, P(t), to
+        2P2
+
+                                P(t+Tp) =P(t) + ΔP.
+                                2222
+
+P(t) correspondingly turns to be
+1
+
+                                P(t+Tp) =P(t) - ΔP.
+                                  1212
+
+The  probability  of  this  stay  is  p(x,t) = P(t).  Then  we  can  work  out  the
+                                          22
+
+diagonal density matrix elements of the evolution:
+
+ρ(t+Tp) = ∑ p(x,t)P(t +Tp)
+11i=1,2i1i
+
+= P(t)[P(t) +ΔP] + P(t)[P(t)-ΔP]
+  111212
+
+= P(t) +[P(t)ΔP - P(t)ΔP]
+  11122
+
+= ρ(t) + [P(t)ΔP - P(t)ΔP];
+  111122
+
+ρ(t+Tp) = ρ(t) + [P(t)ΔP- P(t)ΔP].
+222222 11
+
+    According to the analysis of the Born rule in the last section, we have
+
+ρ(t+Tp)  =  ρ(t)  and  ρ(t+Tp)  =  ρ(t).  In  this  way,  the  probability
+11112222
+
+distribution  of  the  collapse  results  can  reflect  the  actual  probability
+
+distribution of the collapsed state. Then we can obtain the following relation:
+
+                                  PΔP - PΔP = 0.
+                                    1122
+
+Using the conservation relation P + P = 1, this relation can be rewritten as
+                                      12
+
+follows:
+
+                            ΔP/(1-P) = ΔP/(1-P) = k,
+                                1122
+
+where k∈[0,1]  is  a  dimensionless  quantity  determined  by  the  collapsed
+
+state. This is an important relation describing the dynamical collapse of the
+
+wave function in discrete spacetime. By using the above relation, we can
+
+further work out the non-diagonal density matrix elements of the evolution.
+
+But it is more convenient to calculate the following variant of non-diagonal
+
+density matrix elements:
+
+ρ(t +Tp) = ∑ p(x,t)P(t+Tp) P(t+Tp)
+12i=1,2i1i2i
+
+= P(t)[P(t)+ΔP][P(t)-ΔP] + P(t)[P(t)-ΔP][P(t) +ΔP]
+    1112121222
+      22
+=(1- k)P(t)P(t) = (1- k)ρ(t);
+          1212
+                  2
+ρ(t +Tp) = (1- k)ρ(t).
+2121
+
+    Since  the  usual  collapse  time,  τ,  is  defined  by  the  relation  ρ(τ)
+                                              cijc
+
+=1/2ρ(0), we may use a proper approximation, where k is assumed to be the
+    ij
+
+same  as  its  initial  value  during  the  time  interval  [0,  τ],  to  simplify  the
+                                                                    ccalculation of the collapse time. Then we have:
+
+                                              2t/Tp
+                              ρ(t) ≈ [1- k]ρ(0).
+                                1212
+
+The corresponding collapse time is of the order of
+                                                2
+                                      τ ≈ Tp/k.
+
+    It  should  be  pointed  out  that  the  determination  of  k  is  an  important
+
+unsolved problem. However, it can be reasonably expected that k is closely
+
+related to the mass of the studied system, e.g. it may be proportional to the
+
+mass of the system, i.e. k∝m. Then for a microscopic system whose mass is
+
+very small, the collapse time of its position superposition states will be very
+
+long, and the collapse effect can be ignored for all practical purposes. In other
+
+words,  the  Schrödinger  equation  will  precisely  hold  true  for  microscopic
+
+systems. But for a macroscopic system whose mass is very large, the collapse
+
+time of its position superposition states will be very short, and the collapse
+
+effect can then explain the emergence of definite measurement results and the
+
+classical world. A more detailed analysis will be given in the next chapter.
+
+ 
+ 5. Examples and Applications
+
+    According to the new formulation of quantum mechanics presented in
+
+previous chapters, the theory, like classical mechanics, also deals with the
+
+motion of particles in space and time. The difference only lies in that classical
+
+mechanics  describes  deterministic  continuous  motion  of  particles,  while
+
+quantum mechanics describes random discontinuous motion of particles.
+
+    Although the new formulation of quantum mechanics makes the theory
+
+as comprehensible as classical mechanics, the quantum phenomena are still
+
+strange for us who live in a classical world. In this chapter, we will give
+
+several examples to illustrate that the weirdness of the quantum world, which
+
+is  lacking  in  the  everyday  world,  all  originates  from  the  new  motion  of
+
+particles and its new laws, e.g. the discontinuity and randomness of motion,
+
+the  superposition  principle,  the  collapse  of  the  wave  function  etc.  These
+
+examples may help people understand quantum mechanics more deeply.
+
+
+A particle in a box
+
+
+    Why is quantum mechanics called quantum mechanics? This is the first
+
+question one may ask when he or she begins to learn the subject. Indeed, it
+
+seems strange to call the theory quantum mechanics, for the wave function
+
+and  the  Schrödinger  equation  in  the  theory  are  obviously  continuous,
+
+irrelevant to any discrete quantum. Admittedly the use of the name is partly
+
+due to the history of the theory, and there should exist a better name for the
+
+theory.  Anyway,  the  answer  to  the  above  question  is  not  complex;  it  is
+
+because the values of some properties of a particle such as energy cannot be
+
+continuous but must have a minimum quantum for some states of motion.
+
+Let’s  see  how  the  quantum  of  energy  appears  according  to  quantum
+
+mechanics.
+
+    As a simple example, consider a particle in a box represented by an
+
+infinite potential well. The potential is:
+
+                                  V(x) = 0, |x|<L/2;
+
+                                  V(x) = ∞, |x|≥L/2.
+
+For a classical particle that obeys Newton’s laws of motion, the particle is
+
+either at rest in certain position or moving back and forth with a constant
+
+speed  in  the  box.  The  kinetic  energy  of  the  particle  can  be  continuous,ranging from zero to an arbitrarily large value. For a quantum particle that
+
+obeys the Schrödinger equation, the situation is quite different.
+
+                                                          2
+    Since the Hamiltonian of the particle, H = P/2m + V, is independent of
+
+time, the solutions of the Schrödinger equation assume the following form
+
+                                                    −iEt/ħ
+                                ψ(x, t) = ψ(x)e,
+                                              E
+
+where ψ(x) satisfies the eigenvalue equation Hψ(x) = Eψ(x), namely
+        EEE
+
+
+
+
+When |x|≥L/2, V(x) = ∞, and thus ψ(x) can only be zero due to the finiteness
+                                        E
+
+of ψ(x) and its derivatives. This leads to ψ(L/2) = 0 and ψ(-L/2) = 0. When
+    EEE
+
+|x|<L/2, V(x)=0, and the above equation becomes
+
+
+
+
+Its general solutions are
+
+
+
+
+Application of the boundary condition at x=±L/2 gives
+
+
+
+Thus we have
+
+
+Since  and  cannot be both zero for a given value of  or ,
+
+there are two possible classes of solutions:
+
+
+and
+
+
+Thus we obtain , where n is an odd number for the first class and
+
+an even number for the second class. The two classes of solutions and their
+
+corresponding energy eigenvalues are thenThe constants A and B can be chosen in each case so that the eigenstates 
+
+ are normalized:
+
+
+
+
+There is thus an infinite sequence of discrete energy; the quantum of energy
+
+naturally  appears  as  a  consequence  of  the  laws  of  motion  in  quantum
+
+mechanics. The  existence  of  a  minimum  discrete  energy  also  has  some
+
+important consequences such as making the bound quantum systems such as
+
+atoms stable.
+
+    The quantum particle in a box can be in one of these energy eigenstates
+
+or  a  superposition  of  them.  When  the  particle  is  in  one  of  these  energy
+
+eigenstates, its energy is definite and assumes a discrete value. According to
+
+the picture of random discontinuous motion, its state of motion, which is
+
+defined during an infinitesimal time interval and described by density and
+
+flux density, does not change with time. For example, for the ground state
+                                        2
+(n=1), the density is ρ(x) = 2/Lcos(πx/L), and the flux density is j(x)=0. This
+
+is the reason why energy eigenstates are also called stationary states. In the
+
+language of particle cloud, when a particle is in a stationary state, the particle
+
+cloud  formed  by  the  random  discontinuous  motion  of  the  particle  is
+
+stationary. It can be seen that the stationary states for a quantum particle
+
+correspond to the rest states of a classical particle in certain sense. However,
+
+it  should  be  stressed  that  the  particle  in  a  stationary  state  still  moves
+
+constantly  in  a  discontinuous  and  random  way,  and  in  fact,  it  is  just  the
+
+ergodic  motion  of  the  localized  particle  that  forms  the  spreading  particle
+
+cloud.
+
+    When  the  particle  is  in  a  superposition  of  the  energy  eigenstates,  its
+
+energy is indefinite, and its state of motion is no longer stationary. In some
+
+cases,  the  superposition  can  form  a  local  wave  packet  or  particle  cloudmoving back and forth in the box. This is very like the situation where a
+
+classical particle is freely moving in the box. Different from the classical
+
+particle, however, the wave packet will inevitably spread as time goes on due
+
+to  the  linear  Schrödinger  evolution.  Moreover,  when  the  energy  of  the
+
+particle is measured by a conventional measurement, the measured value of
+
+energy is still discrete, not continuous.
+
+    As a more specific example, let’s consider the electron in a hydrogen
+
+atom. In a similar way as above (though a little more complex), we can solve
+
+the more complex Schrödinger equation with Coulomb potential and obtain
+
+the energy eigenstates of the electron. The random discontinuous motion of
+
+the electron near the nucleus forms an electron cloud around the nucleus.
+
+When the electron is in an energy eigenstate or stationary state, the electron
+
+cloud is stationary, and its density and flux density do not change with time.
+
+Different stationary electron clouds in a hydrogen atom have different density
+
+patterns,  corresponding  to  different  discrete  energies  of  the  electron.  The
+
+density of an electron cloud in each position represents the frequency of the
+
+electron appearing in that position. The electron cloud is denser in the region
+
+where the electron appears more frequently. For instance, the density of the
+
+electron cloud for the ground state 1S is
+
+
+
+
+where r  is  the  distance  between  the  electron  and  the  nucleus,  and  a  ≈
+                                                                                        0
+        −11
+5.29×10m  is  the  Bohr  radius.  The  electron  cloud  has a  spherically-
+
+symmetric distribution centered on the nucleus, and its density is largest at
+
+the center and reduces exponentially at larger distances. This indicates that
+
+the electron appears more frequently at the center and less frequently at larger
+
+distances from the center.
+
+  
+              Figure 5.1 Three stationary electron clouds in a hydrogen atom
+
+ 
+
+    It should be noted that the appellation “electron cloud” has been widely
+
+used in physics and chemistry textbooks, but with different meaning. It is
+
+only an imaginary probability cloud there, whose density is proportional to
+
+the  probability  density  for  the  electron  being found  around  the  atomic  or
+
+molecular nucleus.
+
+
+The double-slit experiment
+
+
+    The  double-slit  experiment  has  been  widely  discussed  since  the
+
+beginning  of  quantum  mechanics.  Many  textbooks  use  the  experiment  to
+
+illustrate the wave-particle duality of light and matter. According to Richard
+
+Feynman, the double-slit experiment contains the only mystery of quantum
+
+mechanics. The predictions of quantum mechanics agree with the results of
+
+the double-slit experiment to astonishing precision. What is the mystery then?
+
+The mystery lies in understanding the counterintuitive results and their origin.
+
+How on earth does a single particle pass through two slits at the same time?
+
+Exactly  what  is  an  electron?  In  this  section,  we  will  show  that  random
+
+discontinuous motion of particles and its laws may finally unveil the mystery.
+
+    Consider a typical double-slit experiment with single electrons. In the
+
+experiment, the single electron is emitted from a source one after the other,
+
+and  then  passes  through  two  slits  to  arrive  at  the  detecting  screen.  Each
+
+electron is detected only as a random spot on the screen. But when a large
+
+number of electrons with the same energy arrive at the screen, these spots
+
+collectively form an undulant double-slit pattern. The ridges in the pattern are
+
+formed in the positions where more electrons reach, and the valleys in the
+
+pattern are formed in the positions where nearly no electrons reach.
+
+                               Figure 5.2 A double-slit pattern
+
+ 
+
+    Let’s first see why classical mechanics is unable to explain the observed
+
+double-list  pattern.  Assume  electrons  are  localized  particles.  This  is
+
+consistent with the intuition of most people; an electron is just a tiny charged
+
+ball. According to classical mechanics, motion is continuous, and each single
+
+electron can only pass through one of the two slits. Then the passing process
+
+of each electron in a double-slit experiment will be exactly the same as that in
+
+one of the one-slit experiments. For instance, if an electron passes through
+
+the left slit and then arrives at one position of the screen in the double-slit
+
+experiment, then this process will also happen in the same way in the one-slit
+
+experiment  in  which  the  right  slit  is  shut.  Note  that  the  gravitational
+
+interaction between the shutter and the electron is so weak that it does not
+
+influence the motion of the electron in any observable way. Therefore, the
+
+double-slit  pattern  will  be  the  same  as  the  direct  mixture  of  two  one-slit
+
+patterns,  each  of  which  is  formed  by  opening  each  of  the  two  slits
+
+independently.    However,  experiments  show  that  the  patterns  for  the  above  two
+
+situations,  namely  the  double-slit  pattern  and  the  mixture  of  two  one-slit
+
+patterns,  are remarkably  different.  The  difference  cannot  be  explained  in
+
+terms  of  continuous  motion  of  electrons.  In  fact,  we  can  see  where  the
+
+perplexity lies more obviously from the following fact, i.e., that when one of
+
+the two slits is shut, the electron can reach some positions on the screen (e.g.
+
+the positions where the valleys in the double-slit pattern are formed), but
+
+when the shut slit is opened, it will prevent the electron from reaching these
+
+positions on the screen.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                        Figure 5.3 A mixture of two one-slit patterns
+
+ 
+
+    Next,  assume  a  single  electron  is  a  wave,  continuously  spreading  in
+
+space like a water wave. The observed double-slit interference pattern seems
+
+to support this assumption, though it is very counterintuitive for most people
+
+to assume electron is a wave. Then the single electron as a wave will passthrough both slits, and the passing waves will also superpose with each other.
+
+Finally, when the superposed wave reaches the screen, an interference pattern
+
+will  be  detected  on  the  screen,  even  for  a  single  electron.  However,  this
+
+obviously  contradicts  experimental  observations;  each  electron  is  detected
+
+only as a tiny spot on the screen.
+
+    Therefore, electrons (and atoms etc) are neither localized particles nor
+
+spreading waves that undergo continuous motion, and classical mechanics
+
+inevitably fails in explaining the double-slit experiment. Can the standard
+
+quantum  mechanics  taught  in  textbooks  explain  the  experiment  then?
+
+Unfortunately,  the  answer  is  negative.  Although  its  predictions  for  the
+
+probability distribution of measurement results such as spots on the screen
+
+agree  with  the  double-slit  interference  pattern,  it  keeps  silent  as  to  what
+
+physical process happens from the preparation to the measurement of a single
+
+electron during the experiment; there is only a mathematical wave function
+
+that spreads, superposes and collapses during the whole process.
+
+    Now the new formulation of quantum mechanics in terms of random
+
+discontinuous motion of particles can give us a clear, visualizable picture for
+
+the physical process taking place in the double-slit experiment. In this sense,
+
+it can explain the experiment. Concretely speaking, an electron as a localized
+
+particle is prepared and emitted from the source of electrons. The motion of
+
+the electron is random and discontinuous, and its motion forms a spreading
+
+electron  cloud,  which  is  described  by  the  density  and  flux  density  of  the
+
+cloud or a complex wave function composed of them. The electron cloud
+
+passes  through  both  slits,  and  its  evolution  is  governed  by  the  linear
+
+Schrödinger equation for the wave function. At last, the superposed electron
+
+cloud  reaches  the  detecting  screen  and  is  measured  there.  During  the
+
+measurement  process,  the  stochastic  evolution  of  the  wave  function  takes
+
+effect,  and  the  spreading  electron  cloud  (almost)  instantaneously  and
+
+randomly collapses into a local electron cloud (usually bound in an atom of
+
+the  detecting  screen),  which  corresponds  to  a  determinate,  random
+
+measurement result, a spot on the screen. Moreover, the probability density
+
+of the appearance of the spot in each position is given by the density of the
+
+electron  cloud  or  the  modulus  square  of  the  wave  function  (immediately
+
+before the measurement) there.
+
+
+Schrödinger’s cat  In 1935, inspired by the famous paper written by Einstein, Podolsky and
+
+Rosen, Schrödinger proposed the more famous Gedanken experiment, which
+
+is later called Schrödinger’s cat paradox. The experiment was described by
+
+Schrödinger as follows:
+    A cat is penned up in a steel chamber, along with the following diabolical device (which must be
+secured against direct interference by the cat); in a Geiger counter there is a tiny bit of radioactive
+substance, so small that perhaps in the course of one hour one of the atoms decays, but also, with equal
+probability, perhaps none; if it happens, the counter tube discharges and through a relay releases a
+hammer which shatter a small flask of hydrocyanic acid. If one has left this entire system to itself for an
+hour, one would say that the cat still lives if meanwhile no atom has decayed. The first atomic decay
+
+would have poisoned it. The ψ-function of the entire system would express this by having in it the
+living and the dead cat (pardon the expression) mixed or smeared out in equal parts.
+
+  In short, when a decaying atom interacts with a cat via a set of devices
+
+including a detector, a hammer, and a small flask of hydrocyanic acid etc, the
+
+whole system will be in an entangled superposition containing two branches
+
+according to the linear Schrödinger equation. In one branch the atom decays
+
+and poisons the cat, while in the other branch the atom doesn’t decay and the
+
+cat still lives. As a consequence, the cat will be in a superposition of dead
+
+state and living state.
+
+    Let’s first see what Schrödinger’s cat looks like according to the picture
+
+of random discontinuous motion of particles. The following figure depicts
+
+Schrödinger’s cat at six neighboring instants. At each instant the cat is either
+
+alive or dead in a purely random way.
+
+ 
+
+
+
+
+
+
+
+                    Figure 5.4 Instantaneous pictures of Schrödinger’s cat
+
+ 
+
+However, during a time interval, the random discontinuous motion of the cat
+
+will form a cat cloud, which is quite like an electron cloud. In one branch the
+
+cat is alive, and in the other the cat is dead.
+
+    The problem is how to reconcile the bizarre state of Schrödinger’s cat
+
+with  our  macroscopic  experience.  This  is  essentially  the  measurement
+
+problem.  The  new  formulation  of  quantum  mechanics  provides  a  clear
+
+solution  to  this  problem,  though  some  details  are  still  missing.  In
+
+Schrödinger’s cat experiment, the atom is indeed in a superposition of theundecayed  state  and  the  decayed  state.  The  evolution  of  the  state  is  also
+
+governed by the linear Schrödinger equation very precisely, as the effect of
+
+the  stochastic  evolution  is  extremely  small,  e.g.  the  collapse  time  of  this
+
+superposition state may be longer than the age of our universe. However,
+
+when  the  atom  interacts  with  the  Geiger  counter  or  the  cat  and  its
+
+superposition state is entangled with the state of the later, the effect of the
+
+stochastic evolution becomes significant, and thus the whole superposition
+
+almost immediately collapses into one of its branches. As a result, the Geiger
+
+counter and the cat will always be in a definite state; the Geiger counter either
+
+registers a particle or registers no particle, and the cat is either living or dead.
+
+
+Quantum entanglement and nonlocality
+
+
+  In  this  section,  we  will  present  a  clear  physical  picture  of  quantum
+
+entanglement  and  nonlocality,  which  are  widely  regarded  as  the  most
+
+puzzling phenomena of the quantum world.
+
+    Let’s first recall the single particle picture. For the random discontinuous
+
+motion  of  a  particle,  the  particle  has  a  propensity  to  be  in  any  possible
+
+position  at  a  given  instant,  and  the  probability  density  of  the  particle
+
+appearing in each position x at a given instant t is determined by the modulus
+                                                            2
+square of its wave function, namely ρ(x, t) = |ψ(x, t)|. The physical picture of
+
+the motion of the particle is as follows. At an instant the particle randomly
+
+stays in a position, and at the next instant it will still stay there or randomly
+
+appear in another position, which is probably not in the neighborhood of the
+
+previous position. In this way, during a time interval much larger than the
+
+duration  of  one  discrete  instant,  the  particle  will  move  discontinuously
+
+throughout the whole space with position density ρ(x, t). Since the distance
+
+between the locations occupied by the particle at two neighboring instants
+
+may be very large, the jumping process is obviously nonlocal[39]. In other
+
+words,  two  staying  events  of  the  particle  (t, x) and (t, x)  may  readily
+                                                      1122
+
+satisfy the spacelike separation condition |x− x| > c|t− t|.
+                                                  2121
+
+    Next, let’s turn to the motion of two entangled particles. For the random
+
+discontinuous motion of two particles in an entangled state, the two particles
+
+have  a  joint  propensity  to  be  in  any  two  possible  positions,  and  the
+
+probability density of the two particles appearing in each position pair x and
+                                                                                      1
+
+x at a given instant t is determined by the modulus square of their wave
+2
+                                                                2
+function at the instant, namely ρ(x, x, t) = |ψ(x, x, t)|.
+                                        1212 
+
+
+
+
+
+
+
+
+
+
+                        Figure 5.5 Two particles in an entangled state
+
+ 
+
+    Suppose two particles are in an entangled state ψϕ+ψϕ, where ψ
+                                                                  uuddu
+
+and ψare  two  spatially  separated  states  of  particle  1,ϕ and ϕ  are  two
+      dud
+
+spatially separated states of particle 2, and particle 1 and particle 2 are also in
+
+separated regions A and B. The physical picture of this entangled state is as
+
+follows. Particles 1 and 2 are randomly in the state ψϕ or ψϕ at an
+                                                                    uudd
+
+instant, and then they will still stay in this state or jump to the other state at
+
+the  next  instant.  During  a  very  short  time  interval,  the  two  particles  will
+
+discontinuously move throughout the states ψϕ and ψϕ with the same
+                                                        uudd
+
+probability 1/2.
+
+  In  this  way,  the  two  particles  form  an  inseparable  whole,  and  they
+
+undergo the simultaneous jumping. At an arbitrary instant, if particle 1 is in
+
+the state ψ or ψ, then particle 2 must be in the stateϕorϕ, and vice versa.
+          udud
+
+Moreover, when particle 1 jumps from ψ to ψ or from ψ to ψ, particle 2
+                                                uddu
+
+must  simultaneously  jump  fromϕtoϕor  fromϕtoϕ,  and  vice  versa.
+                                          uddu
+
+Note that this kind of random synchronicity between the motion of particle 1
+
+and the motion of particle 2 is irrelevant to the distance between them, and it
+
+can only be explained by the existence of joint propensity of the two particles
+
+as a whole. This gives us a clear physical picture of quantum entanglement.
+
+    Thirdly, let’s analyze the nonlocal characteristic of the collapse of the
+
+above  entangled  superposition  during  a  measurement.  The  property  of
+
+quantum  nonlocality  was  first  brought  to  the  attention  of  the  physics
+
+community by Einstein, Podolsky and Rosen in 1935. Later John Bell made a
+
+big stride forward in the study of quantum nonlocality in the 1960s. The
+
+famous Bell theorem shows the contradiction between locality and quantum
+
+mechanics (especially its collapse postulate). Many experiments have beenconducted to test Bell's theorem up to now. Although the results basically
+
+confirm the predictions of quantum mechanics and reveal the actual existence
+
+of quantum nonlocality, its nature is still a mystery. As Bell once said, “The
+
+scientific  attitude  is  that  correlations  cry  out  for  explanation.”  Now  the
+
+random discontinuous motion of particles and its laws may provide a true
+
+explanation of quantum nonlocal correlations.
+
+    Suppose we make a position measurement on particle 1 in region A. Let
+
+the initial state of the measuring device be φ. When the measuring device
+                                                      0
+
+interacts with particle 1 in a local region, the state of the measuring device
+
+will be entangled with the entangled state of particles 1 and 2, and the state of
+
+the  combined  system  will  become  ψϕφ+ψϕφ.  Since  the  stochastic
+                                              uuuddd
+
+evolution of the state will take effect during the measurement process, the
+
+state  of  the  combined  system  will  soon  collapse  to  one  of  the  branches
+
+ψϕφ or ψϕφ with the same probability 1/2. As a result, the combined
+uuuddd
+
+system as an entangled whole is disassembled into three independent parts:
+
+the measuring device, particle 1, and particle 2. At the same time, the original
+
+two-particle whole no longer exists either, and its state collapses to ψϕ or
+                                                                                    uu
+
+ψϕ, i.e., the state of particle 1 collapses to ψor ψ, and the state of particle
+ddu d
+
+2  collapses  toϕorϕ.  It  can  be  seen  that  the  local  measurement  of  the
+                  ud
+
+measuring device brings a nonlocal influence on the two-particle system and
+
+especially  on  particle  2.  The  distance  between  the  measuring  device  and
+
+particle 2 can be arbitrarily large, and the collapse time can be arbitrarily
+
+short in principle. Thus the effective speed of the nonlocal influence can be
+
+close to infinite. Note that there exists no causal influence between the state
+
+changes  of  particle  1  and  particle  2,  and  they  both  result  from  the
+
+measurement of the measuring device, which is the common cause.
+
+    Since  the  measurement  simultaneously  results  in  the  collapse  of  the
+
+entangled  state  of  particle  1  and  particle  2,  there  also  exists  a  nonlocal
+
+correlation  between  the  collapse  states  of  particles  1  and  2.  Concretely
+
+speaking, if the state of particle 1 collapses to ψ, then the state of particle 2
+                                                        u
+
+must collapse toϕ, whereas if the state of particle 1 collapses to ψ, then the
+                    ud
+
+state of particle 2 must collapse to ϕ. Since the state changes of particle 1
+                                            d
+
+and  particle  2  are  simultaneous,  and  the  further  measurements  on  their
+
+collapse  states  can  be  made  in  two  space-like  separated  regions,  the
+
+correlation between the results of these measurements may be still nonlocal.
+
+Such  nonlocal  correlations  can  be  analyzed  by  some  inequalities  such  asBell’s inequality.
+
+    Note that there also exist classical nonlocal correlations between two
+
+classical  events  happening  in  space-like  separated  regions.  Different  from
+
+quantum nonlocal correlations, the classical correlations are completely pre-
+
+determined by some common causes in the past via the continuous processes
+
+with finite transmission speed, and there exist no randomness and nonlocal
+
+influence in the measurements of such correlations.
+
+
+Unification of two worlds
+
+
+    We  live  in  a  classical  world.  The  objects  around  us  appear  to  move
+
+continuously.  In  the  quantum  world,  however,  every  particle  moves  in  a
+
+purely  random  and  discontinuous  way.  If  the  motion  of  all  objects  is
+
+essentially  discontinuous  and  random,  then  why  does  the  motion  of
+
+macroscopic  objects  appear  continuous?  In  this  section,  we  will  briefly
+
+explain  how  the  transition  from  quantum  to  classical  happens,  and  why
+
+random discontinuous motion of particles may provide a uniform picture for
+
+both the microscopic and macroscopic worlds.
+
+    We  will  first state  the  laws  of  random  discontinuous  motion  more
+
+explicitly. Although the complete laws of motion are still unknown, we can
+
+formulate  its  general  form.  According  to  our  previous  analysis,  the
+
+(nonrelativistic) evolution of the wave function will be governed by a revised
+
+Schrödinger equation that contains two kinds of evolution terms. The first is
+
+the deterministic linear Schrödinger evolution term, and the second is the
+
+stochastic nonlinear evolution term that results in the dynamical collapse of
+
+the wave function. The equation can be formally written in a discrete form:
+
+
+
+where Tp  is  the  Planck  time,  the  duration  of  a  discrete  instant, H is  the
+
+Hamiltonian of the system for the linear Schrödinger evolution, and S is the
+
+stochastic evolution operator for the stochastic nonlinear evolution. Note that
+
+all  quantities  in  the  evolution  equation  should  be  defined  in  discrete
+
+spacetime.
+
+  In  the complete  evolution  equation,  the  linear  Schrödinger  evolution
+
+term will lead to the spreading of the wave function, while the nonlinear
+
+stochastic evolution term will lead to the collapse or localization of the wave
+
+function. Accordingly, the evolution of the wave function will be a certaincombination of the spreading process and the localizing process. The relative
+
+strength of these two processes may be mainly determined by the mass or
+
+energy of the studied system. If the energy of the system is very small, then
+
+the evolution will be dominated by the spreading process. This is just what
+
+happens in the microscopic world; a particle can pass through two slits sat the
+
+same time in the double-slit experiment.
+
+    By contrast, if the energy of the system is very large as for macroscopic
+
+objects,  then  the  linear  spreading  of  the  wave  function  will  be  greatly
+
+suppressed, and the evolution of the wave function will be dominated by the
+
+localizing process. The localizing process proceeds continually, and thus the
+
+density ρ(x,t) will always concentrate in a very small local region. As a result,
+
+a macroscopic object will always be in a local region, and it can only be
+
+approximately at rest or in continuous motion. This is just the appearance of
+
+continuous motion in the macroscopic world. Since the minimum space and
+
+time intervals that we can perceive are much larger than the typical scales of
+
+the stochastic evolution for macroscopic objects, what we perceived in the
+
+macroscopic world also appears to be a continuous flux.
+
+    Furthermore,  the equation  of  (apparent)  continuous  motion  for
+
+macroscopic objects may also be derived from the complete laws of motion
+
+as an approximation. Here is a simple explanation using Ehrenfest’s theorem
+
+in quantum mechanics, which can be formulated as follows:
+
+                                  d<x>/dt = <p>/m,
+
+                              d<p>/dt = <-∇V(x, t)>.
+
+Since the  position  density  does  not  spread  for  a  macroscopic  object,  the
+
+average terms in the above formulae will represent the effective description
+
+quantities for the (apparent) continuous motion of a macroscopic object. Then
+
+the classical laws of motion can be derived. The result is: dx/dt = p/m, the
+
+definition  of  the  classical  momentum,  and  dp/dt  = -∇V  =  F,  Newton’s
+
+second law of motion[40]. We note that there should also exist a stochastic
+
+term  in  the  above  equations,  which  comes  from  the  stochastic  nonlinear
+
+evolution term in the complete equation of motion. Although this term must
+
+be  very  small  in  most  situations,  it  may  be  detected  by  more  precise
+
+experiments.
+
+  In  a  word, random  discontinuous  motion  of  particles  may  provide  a
+
+uniform realistic picture for the microscopic and macroscopic worlds. The
+
+most familiar continuous motion is only its approximate manifestation in the
+
+everyday world. Bibliography
+
+Aharonov, Y. and Vaidman, L. (1993). Measurement of the Schrödinger wave of a single particle,
+Phys. Lett. A 178, 38.
+Aharonov, Y., Anandan, J. and Vaidman, L. (1993). Meaning of the wave function, Phys. Rev. A 47,
+4616.
+Aharonov, Y., Anandan, J. and Vaidman, L. (1996). The meaning of protective measurements, Found.
+Phys. 26, 117.
+Barrett,  J.  (2011).  Everett's  Relative-State  Formulation  of  Quantum  Mechanics,  The  Stanford
+Encyclopedia  of  Philosophy  (Spring  2011  Edition),  Edward  N.  Zalta  (ed.),  URL  =
+  http://plato.stanford.edu/archives/spr2011/entries/qm-everett/.
+Bell, J. S. (2004). Speakable and Unspeakable in Quantum Mechanics. 2nd ed. Cambridge: Cambridge
+University Press.
+Bohm, D. (1952). A suggested interpretation of quantum theory in terms of "hidden" variables, I and II.
+Phys. Rev. 85, 166-193.
+Bohm D. and Hiley, B. J. (1993). The Undivided Universe: An Ontological Interpretation of Quantum
+Theory. London: Routledge.
+de  Broglie,  L.  (1928).  in:  Electrons  et  photons:  Rapports  et  discussions  du  cinquime  Conseil  de
+Physique Solvay, eds. J. Bordet. Paris: Gauthier-Villars. pp.105. English translation: G. Bacciagaluppi
+and  A.  Valentini  (2009),  Quantum  Theory  at  the  Crossroads:  Reconsidering  the  1927  Solvay
+Conference. Cambridge: Cambridge University Press.
+DeWitt, B. S. and Graham, N. (eds.) (1973). The Many-Worlds Interpretation of Quantum Mechanics,
+Princeton: Princeton University Press.
+Dirac, P. A. M. (1930). The Principles of Quantum Mechanics, Oxford: Clarendon Press.
+Duff, M. J., Okun, L. B., and Veneziano, G. (2002). Trialogue on the number of fundamental constants.
+Journal of High Energy Physics, 0203, 23.
+Everett, H. (1957). ‘Relative state’ formulation of quantum mechanics. Rev. Mod. Phys. 29, 454-462.
+Gao,  S.  (2006).  Quantum  Motion:  Unveiling  the  Mysterious  Quantum  World.  Bury  St  Edmunds,
+Suffolk U.K.: Arima Publishing.
+Gao,  S.  (2008).  God  Does  Play  Dice  with  the  Universe.  Bury  St  Edmunds,  Suffolk  U.K.:  Arima
+Publishing.
+Gao, S (2011). Understanding Quantum Physics: An Advanced Guide for the Perplexed.
+Garay, L. J. (1995). Quantum gravity and minimum length. International Journal of Modern Physics A
+10, 145.
+Ghirardi,  G.  C.  (2008).  Collapse  Theories,  The  Stanford  Encyclopedia  of  Philosophy  (Fall  2008
+Edition), Edward N. Zalta (eds.), http://plato.stanford.edu/archives/fall2008/entries/qmcollapse/.
+Goldstein, S. (2009). Bohmian Mechanics, Stanford (Spring 2009 Edition), Edward N. Zalta (eds.),
+  http://plato.stanford.edu/archives/spr2009/entries/qmbohm/.
+Moore, W. J. (1994). Schrödinger: Life and Thought. Cambridge: Cambridge University Press.
+Penrose, R. (2004). The Road to Reality: A Complete Guide to the Laws of the Universe. London:
+Jonathan Cape.
+Saunders, S., Barrett, J., Kent, A. and Wallace, D. (eds.) (2010) Many Worlds? Everett, Quantum
+Theory, and Reality. Oxford: Oxford University Press.
+Shankar, R. (1994). Principles of Quantum Mechanics, 2nd ed. New York: Plenum.
+Tooley, M. (1988). In defence of the existence of states of motion. Philosophical Topics 16, 225-254.
+von  Neumann,  J.  (1955).  Mathematical  Foundations  of  Quantum  Mechanics,  Princeton:  Princeton
+University  Press.  (Translated  by  R.  Beyer  from  Mathematische  Grundlagen  der  Quantenmechanik,
+Springer: Berlin, 1932) 
+ Back Cover
+
+Quantum  mechanics  is  full  of  mysteries  and  paradoxes.  It  has  even  been
+
+regarded as the most difficult subject to understand. The main reason is that,
+
+unlike  classical  mechanics,  quantum  mechanics  provides  no  visualizable
+
+spatial-temporal  images  for  the  physical  processes  it  describes.  It  is  well
+
+understood  that  classical  mechanics  describes  the  continuous  motion  of
+
+particles in space and time. In quantum mechanics, however, it is still unclear
+
+how microscopic particles such as electrons move in space and time, and in
+
+fact,  it  is  even  unknown  whether  these  microscopic  particles  are  really
+
+particles or not.
+
+ 
+
+Based on a penetrating analysis of the wave function and its evolution, this
+
+book presents a new, comprehensible formulation of quantum mechanics. It
+
+turns out that, like classical mechanics, quantum mechanics also deals with
+
+the motion of particles in space and time. The difference only lies in that the
+
+former  describes  continuous  motion  of  particles,  while  the  later  describes
+
+random  discontinuous  motion  of  particles.  Microscopic  particles  such  as
+
+electrons are indeed particles, but they move in a discontinuous and random
+
+way. For example, a single electron passes through two slits at the same time
+
+in a discontinuous way in the double-slit experiment with electrons.
+
+ 
+
+If you are not wholly satisfied with the quantum mechanics as “explained” by
+
+textbooks, and if you still keep your curiosities and want to know what the
+
+most  fundamental  theory  really  means,  then  this  book  is  for  you.  After
+
+reading it, you will find quantum mechanics is no longer mysterious. If you
+
+can understand classical mechanics, you will be able to understand quantum
+
+mechanics too.
+
+ 
+
+ 
+
+ Notes
+
+
+[1] Here we use the Dirac ket-bra notation, which is a standard notation for describing quantum states
+in quantum mechanics.
+
+[2] For a more detailed introduction see Chapter 1 and Chapter 11 of Shankar (1994).
+
+[3] Note that this result relies on the linearity of evolution. If H depends on the state, then obviously
+we cannot obtain dH/dt = 0 because the state is related to time, though we still have H(t, ψ) = H(t,
+                                                                                102
+ψ), which means that the state-dependent H also satisfies time translational invariance.
+0
+
+[4] Again, we stress that this result presupposes the linearity of evolution. If U(t) depends on the state,
+then the space translational invariance will only lead to U(t, Tψ)T(a)ψ(x, 0) = T(a)U(t, ψ)ψ(x, 0), from
+which we cannot obtain [T(a), U(t)] = 0.
+
+[5] For a derivation of this relativistic energy-momentum relation, see Chapter 3 of Gao (2011).
+
+[6] See Duff, Okun and Veneziano (2002) for more discussions.
+
+[7] In  order  to  derive  the  complete  Schrödinger  equation  in  a  fundamental  way,  we  need  a
+fundamental theory of interactions such as quantum field theory. We will not discuss this issue in this
+book.
+
+[8] The word “nondegenerate” means that the energy eigenstate is the only state that has the energy
+eigenvalue. Two or more different quantum states are said to be degenerate if they are all at the same
+energy level.
+
+[9] As we will see later, the measuring system is not necessarily a macroscopic device.
+
+[10] In the following analysis the reduced Planck constant is set to one, otherwise stated.
+
+[11] The  above  outcome  state  according  to  the  Schrödinger  equation  does  not  tell  us  a  definite
+measurement result. This leads us to the notorious measurement problem for conventional impulsive
+measurements. (Nearly all quantum measurements made by experimental physicists in laboratories are
+such measurements. This is the reason why they are called conventional measurements.) Experiments
+show that the result of the above impulsive measurement is one of the eigenvalues of the measured
+                                              2
+observable A, say a, with a certain probability |c|. However, it is still unknown how the definite
+                ii
+measurement  result  emerges  from  the  superposed  outcome  state.  We  will  discuss  this  important
+measurement  problem  in  detail  in  the  next  chapter,  which  may  involve  the  controversial  collapse
+postulate.
+
+[12] Note that the possible existence of very slow collapse of the wave function for microscopic
+systems does not influence the principle of this kind of measurement.
+
+[13] It  is  a  necessary  condition  for  this  result  to  hold  true  that  the  measured  state  is  a  discrete
+nondegenerate energy eigenstate. See Gao (2011) for a more detailed derivation of the result.
+
+[14] Similarly, we can also measure the flux density j(x) everywhere in space. In this way, we can
+measure or reconstruct the complex wave function of the measured system.
+
+[15] A typical method of protective measurement is to let the measured system be in a nondegenerate
+eigenstate  of  the  whole  Hamiltonian  using  a  suitable  protective  interaction,  and  then  make  the
+measurement adiabatically so that the state of the system neither collapses nor becomes entangled with
+the measuring system appreciably. In this way, protective measurement can measure the expectation
+values  of  observables  on  a  single  quantum  system.  For  a  more  detailed  introduction  of  protectivemeasurement, see Gao (2011).
+
+[16] By contrast, the potential strength of the gravitational self-interaction for a free electron is about
+    −89
+4 × 10.
+
+[17] See the example “A particle in a box” given in chapter 5.
+
+[18] The word “cause” used here only denotes a certain instantaneous condition determining the
+change of position, which may appear in the laws of motion. Our analysis is irrelevant to whether the
+condition has causal power or not.
+
+[19] This deterministic instantaneous condition has been called intrinsic velocity (Tooley 1988).
+
+[20] In discrete spacetime, the motion will be a discrete jump across space along a fixed direction at
+each time unit, and thus it will become continuous motion with constant velocity in the continuous
+limit.
+
+[21] However, the analysis cannot tell us the precise size and possible structure of electron.
+
+[22] It is worth stressing that the propensities possessed by particles relate to their objective motion,
+not to the measurements on them as in the existing propensity interpretations of quantum mechanics.
+
+[23] Recall that a function x(t) is continuous if and only if for every t and every real number ε > 0,
+there exists a real number δ > 0 such that whenever a point t has distance less than δ to t, the point
+                                                      0
+x(t) has distance less than ε to x(t).
+0
+
+[24] However, there is an exception. When the probability density function is a special δ-function
+such as δ(x − x(t)), where x(t) is a continuous function of t, the motion of the particle is deterministic
+and continuous (though this case is excluded by the laws of motion). In addition, even for a general
+probability  density  function  it  is  still  possible  that  the  random  position  series  forms  a  continuous
+trajectory, though the happening probability is zero.
+
+[25] Note that the relation between j(x, t) and ψ(x, t) depends on the concrete evolution under an
+                                                                                          2
+external potential such as electromagnetic vector potential. By contrast, the relation ρ(x, t) = |ψ(x, t)|
+holds true universally, independent of the concrete evolution.
+
+[26] For a many-particle system in an entangled state, the propensity property is possessed by the
+whole system. See Chapter 5 for a detailed analysis of quantum entanglement.
+
+[27] Note that for random discontinuous motion the properties (e.g. position) of a quantum system in a
+superposed state are indeterminate in the sense of usual hidden variables, though they do have definite
+values at each instant. This makes the theorems that restrict hidden variables such as the Kochen-
+Specker theorem irrelevant.
+
+[28] In theory there are some special sorts of motion such as the Brownian motion, for which the
+trajectory  of  a  particle  undergoing  such  motion  is  continuous,  but  the  first  time  derivative  of  the
+trajectory does not exist, that is to say, the particle has no velocity.
+
+[29] Note that the guiding equation is only a mathematical transformation of the relation between the
+density ρ and flux density j for the wave function; the relation is j = ρv, while the guiding equation is
+v=j/ρ. Since the wave function of a quantum system is not merely a probability amplitude for the
+predictions of measurement results (as in standard quantum mechanics), but also a realistic description
+of the physical state of the system as implied by our previous analysis (which is also admitted by most
+interpretations of the de Broglie-Bohm theory), the guiding equation already has a physical explanation
+relating only to the realistic wave function. Inasmuch as a fundamental mathematical equation in a
+physical theory has a unique physical explanation, the additional explanation of the guiding equation
+relating to the hypothetical Bohmian particles will be improper.
+
+[30] Note that protective measurement in general requires that the measured wave function is knownbeforehand so that an appropriate protective interaction can be added. But this requirement does not
+influence our argument, as the superposed wave function of a measuring device can be prepared in a
+known form before the protective measurement.
+
+[31] This objection is more serious than the problem of approximate decoherence for the many-worlds
+interpretation. The interference between the nonorthogonal components of a quantum state can not be
+detected for individual states, but only be detected for an ensemble of identical states. Moreover, the
+presence of tiny interference terms in a (local) quantum state does not imply that all components of the
+state wholly exist in one world.
+
+[32] For a detailed analysis of the variants of the many-worlds interpretation such as the many-minds
+theory, see Chapter 4 of Gao (2011).
+
+[33] This is distinct from the case of continuous motion. For the latter, the position of a particle at
+each instant is completely determined by the deterministic instantaneous condition at the instant, and
+thus the position of the particle has no influence on the deterministic instantaneous condition.
+
+[34] In fact, since the random stays of a particle as one part of its instantaneous state are completely
+random, the complete evolution equation of the instantaneous state of the particle is only about the
+evolution  of  the  wave  function.  Therefore,  the  random  stays  of  the  particle  can  only  manifest
+themselves in the complete equation of motion by their stochastic influences on the evolution of the
+wave function.
+
+[35] In other words, the wave function of a particle determines its random discontinuous motion,
+while the motion also influences the evolution of the wave function reciprocally.
+
+[36] It has been conjectured that a fundamental theory of physics may be formulated by three natural
+constants: the Planck time (t), the Planck length (l) and the Planck constant (h), and all other physical
+                        PP
+constants are expressed by the combinations of them (Gao 2006). For example, the speed of light is c =
+l/t, and the Einstein gravitational constant is κ = 8πlt/ħ. In this sense, the random discontinuous
+PPPP
+motion in discrete spacetime, represented by the above three constants, is more fundamental than the
+phenomena described by the special and general theory of relativity, represented by the speed of light
+and the gravitational constant, respectively. However, even if this conjecture turns out to be right, it is
+still a big challenge how to work out the details.
+
+[37] Note that the reversible Schrödinger evolution conserves the information even for individual
+isolated systems.
+
+[38] This simple toy model can be extended to more complex cases where the collapsed state is
+composed of arbitrarily many discrete position eigenstates. For details see Gao (2011).
+
+[39] In the non-relativistic domain where time is absolute, the nonlocal jumping process is the same in
+every inertial frame. But in the relativistic domain, the jumping process will look different in different
+inertial frames due to the Lorentz transformation. For a detailed analysis see Gao (2011).
+
+[40] The derivation presupposes that the external potential is uniform enough along the width of the
+wave packet of a macroscopic object.

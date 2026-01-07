@@ -1,0 +1,2572 @@
+﻿LIST OF ABBREVIATIONS
+
+
+
+
+
+  BP.Ueber die Begriffsschrift des Herrn Peano und meine eigene. Berichte der math.-
+                physischen Classe der Königl. Sächs, Gesellschaft der Wissenschaften zu
+                Leipzig (1896).
+
+
+
+  Bs.Begriffsschrift. Eine der arithmetischen nachgebildete Formelsprache des reinen
+                Denkens. Halle a/S, 1879.
+
+
+
+  BuG.Ueber Begriff und Gegenstand. Vierteljahrschrift für wiss. Phil., xvi 2 (1892).
+
+
+
+  FT.Ueber formale Theorien der Arithmetik. Sitzungsberichte der Jenaischen
+                  Gesellschaft für Medicin und Naturwissenschaft, 1885.
+
+
+
+  FuB.Function und Begriff. Vortrag gehalten in der Sitzung vom 9. Januar, 1891, der
+                Jenaischen Gesellschaft für Medicin und Naturwissenschaft. Jena, 1891.
+
+
+
+  Gg.Grundgesetze der Arithmetik. Begriffsschriftlich abgeleitet. Vol. i. Jena, 1893.
+                Vol. ii. 1903.
+
+
+
+  Gl.Grundlagen der Arithmetik. Eine logisch-mathematische Untersuchung über den
+                Begriff der Zahl. Breslau, 1884.
+
+
+
+  KB.Kritische Beleuchtung einiger Punkte in E. Schröder’s Vorlesungen über die
+                Algebra der Logik. Archiv für syst. Phil., Vol. i (1895).
+
+
+
+  SuB.Ueber Sinn und Bedeutung. Zeitschrift für Phil. und phil. Kritik, vol. 100 (1892).Appendix A
+
+
+
+
+
+THE LOGICAL AND ARITHMETICAL
+
+DOCTRINES OF FREGE
+
+475. The work of Frege, which appears to be far less known than it
+
+  deserves, contains many of the doctrines set forth in Parts I and II of the
+
+  present work, and where it differs from the views which I have
+
+  advocated, the differences demand discussion. Frege’s work abounds in
+
+  subtle distinctions, and avoids all the usual fallacies which beset writers
+
+on Logic. His symbolism, though unfortunately so cumbrous as to be
+
+very difficult to employ in practice, is based upon an analysis of logical
+
+  notions much more profound than Peano’s, and is philosophically very
+
+  superior to its more convenient rival. In what follows, I shall try briefly
+
+to expound Frege’s theories on the most important points, and to explain
+
+my grounds for differing where I do differ. But the points of
+
+  disagreement are very few and slight compared to those of agreement.
+
+  They all result from difference on three points: (1) Frege does not think
+
+that there is a contradiction in the notion of concepts which cannot be
+
+  made logical subjects (see § 49 supra); (2) he thinks that, if a term a
+
+  occurs in a proposition, the proposition can always be analysed into a and
+
+an assertion about a (see Chapter 7); (3) he is not aware of the
+
+  contradiction discussed in Chapter 10. These are very fundamental
+
+  matters, and it will be well here to discuss them afresh, since the previous
+
+  discussion was written in almost complete ignorance of Frege’s work.
+
+  Frege is compelled, as I have been, to employ common words in technical
+
+senses which depart more or less from usage. As his departures are frequently
+
+different from mine, a difficulty arises as regards the translation of his terms.
+
+Some of these, to avoid confusion, I shall leave untranslated, since every
+
+English equivalent that I can think of has been already employed by me in a
+
+slightly different sense.
+
+The principal heads under which Frege’s doctrines may be discussed arethe following: (1) meaning and indication; (2) truth-values and judgment; (3)
+
+Begriff and Gegenstand; (4) classes; (5) implication and symbolic logic; (6)
+
+the definition of integers and the principle of abstraction; (7) mathematical
+
+induction and the theory of progressions. I shall deal successively with these
+
+topics.
+
+476. Meaning and indication. The distinction between meaning (Sinn) and
+
+  indication (Bedeutung)* is roughly, though not exactly, equivalent to my
+
+  distinction between a concept as such and what the concept denotes (§
+
+96). Frege did not possess this distinction in the first two of the works
+
+  under consideration (the Begriffsschrift and the Grundlagen der
+
+  Arithmetik); it appears first in BuG. (cf. p. 198), and is specially dealt
+
+with in SuB. Before making the distinction, he thought that identity has
+
+to do with the names of objects (Bs. p. 13): “A is identical with B”
+
+  means, he says, that the sign A and the sign B have the same signification
+
+  (Bs. p. 15)—a definition which, verbally at least, suffers from circularity.
+
+But later he explains identity in much the same way as it was explained
+
+in § 64. “Identity”, he says, “calls for reflection owing to questions which
+
+  attach to it and are not quite easy to answer. Is it a relation? A relation
+
+  between Gegenstände or between names or signs of Gegenstände?”
+
+(SuB. p. 25). We must distinguish, he says, the meaning, in which is
+
+  contained the way of being given, from what is indicated (from the
+
+  Bedeutung). Thus “the evening star” and “the morning star” have the
+
+  same indication, but not the same meaning. A word ordinarily stands for
+
+its indication; if we wish to speak of its meaning, we must use inverted
+
+  commas or some such device (pp. 27–8). The indication of a proper name
+
+is the object which it indicates; the presentation which goes with it is
+
+  quite subjective; between the two lies the meaning, which is not
+
+  subjective and yet is not the object (p. 30). A proper name expresses its
+
+  meaning, and indicates its indication (p. 31).
+
+This theory of indication is more sweeping and general than mine, as
+
+appears from the fact that every proper name is supposed to have the two
+
+sides. It seems to me that only such proper names as are derived from
+
+concepts by means of the can be said to have meaning, and that such words
+
+as John merely indicate without meaning. If one allows, as I do, that concepts
+
+can be objects and have proper names, it seems fairly evident that their proper
+
+names, as a rule, will indicate them without having any distinct meaning; but
+
+the opposite view, though it leads to an endless regress, does not appear to belogically impossible. The further discussion of this point must be postponed
+
+until we come to Frege’s theory of Begriffe.
+
+477. Truth-values and Judgment. The problem to be discussed under this
+
+  head is the same as the one raised in § 52,* concerning the difference
+
+  between asserted and unasserted propositions. But Frege’s position on
+
+this question is more subtle than mine, and involves a more radical
+
+  analysis of judgment. His Begriffsschrift, owing to the absence of the
+
+  distinction between meaning and indication, has a simpler theory than his
+
+later works. I shall therefore omit it from the discussions.
+
+  There are, we are told (Gg. p. x), three elements in judgment: (1) the
+
+recognition of truth, (2) the Gedanke, (3) the truth-value (Wahrheitswerth).
+
+Here the Gedanke is what I have called an unasserted proposition—or rather,
+
+what I called by this name covers both the Gedanke alone and the Gedanke
+
+together with its truth-value. It will be well to have names for these two
+
+distinct notions; I shall call the Gedanke alone a propositional concept; the
+
+truth-value of a Gedanke I shall call an assumption.† Formally at least, an
+
+assumption does not require that its content should be a propositional
+
+concept: whatever x may be, “the truth of x” is a definite notion. This means
+
+the true if x is true, and if x is false or not a proposition it means the false
+
+(FuB. p. 21). In like manner, according to Frege, there is “the falsehood of x”;
+
+these are not assertions and negations of propositions, but only assertions of
+
+truth or of falsity, i.e. negation belongs to what is asserted, and is not the
+
+opposite of assertion.‡ Thus we have first a propositional concept, next its
+
+truth or falsity as the case may be, and finally the assertion of its truth or
+
+falsity. Thus in a hypothetical judgment, we have a relation, not of two
+
+judgments, but of two propositional concepts (SuB. p. 43).
+
+This theory is connected in a very curious way with the theory of meaning
+
+and indication. It is held that every assumption indicates the true or the false
+
+(which are called truth-values), while it means the corresponding
+                                                2
+propositional concept. The assumption “2 = 4” indicates the true, we are
+              2
+told, just as “2” indicates 4§ (FuB. p. 13; SuB. p. 32). In a dependent clause,
+
+or where a name occurs (such as Odysseus) which indicates nothing, a
+
+sentence may have no indication. But when a sentence has a truth-value, this
+
+is its indication. Thus every assertive sentence (Behauptungssatz) is a proper
+
+name, which indicates the true or the false (SuB. pp. 32–4; Gg. p. 7). The
+
+sign of judgment (Urtheilstrich) does not combine with other signs to denote
+
+an object; a judgment indicates nothing, but asserts something. Frege has aspecial symbol for judgment, which is something distinct from and additional
+
+to the truth-value of a propositional concept (Gg. pp. 9–10).
+
+478. There are some difficulties in the above theory which it will be well to
+
+  discuss. In the first place, it seems doubtful whether the introduction of
+
+  truth-values marks any real analysis. If we consider, say, “Caesar died”,
+
+it would seem that what is asserted is the propositional concept “the
+
+  death of Caesar”, not “the truth of the death of Caesar”. This latter seems
+
+to be merely another propositional concept, asserted in “the death of
+
+Caesar is true”, which is not, I think, the same proposition as “Caesar
+
+  died”. There is great difficulty in avoiding psychological elements here,
+
+and it would seem that Frege has allowed them to intrude in describing
+
+  judgment as the recognition of truth (Gg. p. x). The difficulty is due to
+
+the fact that there is a psychological sense of assertion, which is what is
+
+  lacking in Meinong’s Annahmen, and that this does not run parallel with
+
+the logical sense. Psychologically, any proposition, whether true or false,
+
+may be merely thought of, or may be actually asserted: but for this
+
+  possibility, error would be impossible. But logically, true propositions
+
+only are asserted, though they may occur in an unasserted form as parts
+
+of other propositions. In “p implies q”, either or both of the propositions
+
+p, q may be true, yet each, in this proposition, is unasserted in a logical,
+
+and not merely in a psychological, sense. Thus assertion has a definite
+
+  place among logical notions, though there is a psychological notion of
+
+  assertion to which nothing logical corresponds. But assertion does not
+
+  seem to be a constituent of an asserted proposition, although it is, in some
+
+  sense, contained in an asserted proposition. If p is a proposition, “p’s
+
+  truth” is a concept which has being even if p is false, and thus “p’s truth”
+
+is not the same as p asserted. Thus no concept can be found which is
+
+  equivalent to p asserted, and therefore assertion is not a constituent in p
+
+  asserted. Yet assertion is not a term to which p, when asserted, has an
+
+  external relation; for any such relation would need to be itself asserted in
+
+  order to yield what we want. Also a difficulty arises owing to the
+
+  apparent fact, which may however be doubted, that an asserted
+
+  proposition can never be part of another proposition: thus, if this be a
+
+fact, where any statement is made about p asserted, it is not really about p
+
+  asserted, but only about the assertion of p. This difficulty becomes
+
+  serious in the case of Frege’s one and only principle of inference (Bs. p.
+
+9): “p is true and p implies q; therefore q is true”.* Here it is quite  essential that there should be three actual assertions, otherwise the
+
+  assertion of propositions deduced from asserted premisses would be
+
+  impossible; yet the three assertions together form one proposition, whose
+
+  unity is shown by the word therefore, without which q would not have
+
+  been deduced, but would have been asserted as a fresh premiss.
+
+It is also almost impossible, at least to me, to divorce assertion from truth,
+
+as Frege does. An asserted proposition, it would seem, must be the same as a
+
+true proposition. We may allow that negation belongs to the content of a
+
+proposition (Bs. p. 4), and regard every assertion as asserting something to be
+
+true. We shall then correlate p and not-p as unasserted propositions, and
+
+regard “p is false” as meaning “not-p is true”. But to divorce assertion from
+
+truth seems only possible by taking assertion in a psychological sense.
+
+479. Frege’s theory that assumptions are proper names for the true or the
+
+false, as the case may be, appears to me also untenable. Direct inspection
+
+  seems to show that the relation of a proposition to the true or the false is
+
+  quite different from that of (say), “the present King of England” to
+
+  Edward VII. Moreover, if Frege’s view were correct on this point, we
+
+  should have to hold that in an asserted proposition it is the meaning, not
+
+the indication, that is asserted, for otherwise, all asserted propositions
+
+  would assert the very same thing, namely the true (for false propositions
+
+are not asserted). Thus asserted propositions would not differ from one
+
+  another in any way, but would be all strictly and simply identical.
+
+  Asserted propositions have no indication (FuB. p. 21), and can only
+
+  differ, if at all, in some way analogous to meaning. Thus the meaning of
+
+the unasserted proposition together with its truth-value must be what is
+
+  asserted, if the meaning simply is rejected. But there seems no purpose in
+
+  introducing the truth-value here: it seems quite sufficient to say that an
+
+  asserted proposition is one whose meaning is true, and that to say the
+
+  meaning is true is the same as to say the meaning is asserted. We might
+
+then conclude that true propositions, even when they occur as parts of
+
+  others, are always and essentially asserted, while false propositions are
+
+  always unasserted, thus escaping the difficulty about therefore discussed
+
+above. It may also be objected to Frege that “the true” and “the false”, as
+
+  opposed to truth and falsehood, do not denote single definite things, but
+
+  rather the classes of true and false propositions respectively. This
+
+  objection, however, would be met by his theory of ranges, which
+
+  correspond approximately to my classes; these, he says, are things, andthe true and the false are ranges (v. inf.).
+
+480. Begriff and Gegenstand. Functions. I come now to a point in which
+
+  Frege’s work is very important, and requires careful examination. His use
+
+of the word Begriff does not correspond exactly to any notion in my
+
+  vocabulary, though it comes very near to the notion of an assertion as
+
+  defined in §43, and discussed in Chapter 7. On the other hand, his
+
+  Gegenstand seems to correspond exactly to what I have called a thing (§
+
+48). I shall therefore translate Gegenstand by thing. The meaning of
+
+proper name seems to be the same for him as for me, but he regards the
+
+  range of proper names as confined to things, because they alone, in his
+
+  opinion, can be logical subjects.
+
+  Frege’s theory of functions and Begriffe is set forth simply in FuB, and
+
+defended against the criticisms of Kerry* in BuG. He regards functions—and
+
+in this I agree with him—as more fundamental than predicates and relations;
+
+but he adopts concerning functions the theory of subject and assertion which
+
+we discussed and rejected in Chapter 7. The acceptance of this view gives a
+
+simplicity to his exposition which I have been unable to attain; but I do not
+
+find anything in his work to persuade me of the legitimacy of his analysis.
+                                        3
+An arithmetical function, e.g. 2x + x, does not denote, Frege says, the
+
+result of an arithmetical operation, for that is merely a number, which would
+
+be nothing new (FuB. p. 5). The essence of a function is what is left when the
+                                                      3
+x is taken away, i.e., in the above instance, 2 ( ) + ( ). The argument x does
+
+not belong to the function, but the two together make a whole (ib. p. 6). A
+
+function may be a proposition for every value of the variable; its value is then
+
+always a truth-value (p. 13). A proposition may be divided into two parts, as
+
+“Caesar” and “conquered Gaul”. The former Frege calls the argument, the
+
+latter the function. Any thing whatever is a possible argument for a function
+
+(p. 17). (This division of propositions corresponds exactly to my subject and
+
+assertion as explained in §43, but Frege does not restrict this method of
+
+analysis as I do in Chapter 7.) A thing is anything which is not a function, i.e.
+
+whose expression leaves no empty place. The two following accounts of the
+
+nature of a function are quoted from the earliest and one of the latest of
+
+Frege’s works respectively.
+
+
+1. “If in an expression, whose content need not be propositional
+
+      (beurtheilbar), a simple or composite sign occurs in one or more places,
+
+    and we regard it as replaceable, in one or more of these places, by    something else, but by the same everywhere, then we call the part of the
+
+    expression which remains invariable in this process a function, and the
+
+    replaceable part we call its argument” (Bs. p. 16).
+
+2. “If from a proper name we exclude a proper name, which is part or the
+
+    whole of the first, in some or all of the places where it occurs, but in
+
+    such a way that these places remain recognizable as to be filled by one
+
+    and the same arbitrary proper name (as argument positions of the first
+
+    kind), I call what we thereby obtain the name of a function of the first
+
+    order with one argument. Such a name, together with a proper name
+
+    which fills the argument-places, forms a proper name” (Gg. p. 44).
+
+
+The latter definition may become plainer by the help of some examples.
+
+“The present king of England” is, according to Frege, a proper name, and
+
+“England” is a proper name which is part of it. Thus here we may regard
+
+England as the argument, and “the present king of” as function. Thus we are
+
+led to “the present king of x”. This expression will always have a meaning,
+
+but it will not have an indication except for those values of x which at present
+
+are monarchies. The above function is not propositional. But “Caesar
+
+conquered Gaul” leads to “x conquered Gaul”; here we have a propositional
+
+function. There is here a minor point to be noticed: the asserted proposition is
+
+not a proper name, but only the assumption is a proper name for the true or
+
+the false (v. supra); thus it is not “Caesar conquered Gaul” as asserted, but
+
+only the corresponding assumption that is involved in the genesis of a
+
+propositional function. This is indeed sufficiently obvious, since we wish x to
+
+be able to be any thing in “x conquered Gaul”, whereas there is no such
+
+asserted proposition except when x did actually perform this feat. Again
+
+consider “Socrates is a man implies Socrates is a mortal”. This (unasserted)
+
+is, according to Frege, a proper name for the true. By varying the proper
+
+name “Socrates”, we can obtain three propositional functions, namely “x is a
+
+man implies Socrates is a mortal”, “Socrates is a man implies x is a mortal”,
+
+“x is a man implies x is a mortal”. Of these the first and third are true for all
+
+values of x, the second is true when and only when x is a mortal.
+
+By suppressing in like manner a proper name in the name of a function of
+
+the first order with one argument, we obtain the name of a function of the
+
+first order with two arguments (Gg. p. 44). Thus e.g. starting from “1 < 2”,
+
+we get first “x < 2”, which is the name of a function of the first order with
+
+one argument, and thence “x < y”, which is the name of a function of the firstorder with two arguments. By suppressing a function in like manner, Frege
+
+says, we obtain the name of a function of the second order (Gg. p. 44). Thus
+
+e.g. the assertion of existence in the mathematical sense is a function of the
+
+second order: “There is at least one value of x satisfying x” is not a function
+
+of x, but may be regarded as a function of . Here  must on no account be a
+
+thing, but may be any function. Thus this proposition, considered as a
+
+function of , is quite different from functions of the first order, by the fact
+
+that the possible arguments are different. Thus given any proposition, say
+
+f(a), we may consider either f(x), the function of the first order resulting from
+
+varying a and keeping f constant, or  (a), the function of the second order
+
+got by varying f and keeping a fixed; or, finally, we may consider  (x), in
+
+which both f and a are separately varied. (It is to be observed that such
+
+notions as  (a), in which we consider any proposition concerning a, are
+
+involved in the identity of indiscernibles as stated in § 43.) Functions of the
+
+first order with two variables, Frege points out, express relations (Bs. p. 17);
+
+the referent and the relatum are both subjects in a relational proposition (Gl.
+
+p. 82). Relations, just as much as predicates, belong, Frege rightly says, to
+
+pure logic (ib. p. 83).
+
+481. The word Begriff is used by Frege to mean nearly the same thing as
+
+  propositional function (e.g. FuB. p. 28);* when there are two variables,
+
+the Begriff is a relation. A thing is anything not a function, i.e. anything
+
+  whose expression leaves no empty place (ib. p. 18). To Frege’s theory of
+
+the essential cleavage between things and Begriffe, Kerry objects (loc.
+
+cit. p. 272 ff.) that Begriffe also can occur as subjects. To this Frege
+
+  makes two replies. In the first place, it is, he says, an important
+
+  distinction that some terms can only occur as subjects, while others can
+
+  occur also as concepts, even if Begriffe can also occur as subjects (BuG.
+
+p. 195). In this I agree with him entirely; the distinction is the one
+
+  employed in §§ 48, 49. But he goes on to a second point which appears to
+
+me mistaken. We can, he says, have a concept falling under a higher one
+
+(as Socrates falls under man, he means, not as Greek falls under man);
+
+but in such cases, it is not the concept itself, but its name, that is in
+
+  question (BuG. p. 195). “The concept horse”, he says, is not a concept,
+
+but a thing; the peculiar use is indicated by inverted commas (ib. p. 196).
+
+But a few pages later he makes statements which seem to involve a
+
+  different view. A concept, he says, is essentially predicative even when
+
+  something is asserted of it: an assertion which can be made of a conceptdoes not fit an object. When a thing is said to fall under a concept, and
+
+  when a concept is said to fall under a higher concept, the two relations
+
+  involved, though similar, are not the same (ib. p. 201). It is difficult to me
+
+to reconcile these remarks with those of p. 195; but I shall return to this
+
+  point shortly.
+
+  Frege recognizes the unity of a proposition: of the parts of a propositional
+
+concept, he says, not all can be complete, but one at least must be incomplete
+
+(ungesättigt) or predicative, otherwise the parts would not cohere (ib. p. 205).
+
+He recognizes also, though he does not discuss, the oddities resulting from
+
+any and every and such words: thus he remarks that every positive integer is
+
+the sum of four squares, but “every positive integer” is not a possible value of
+
+x in “x is the sum of four squares”. The meaning of “every positive integer”,
+
+he says, depends upon the context (Bs. p. 17)—a remark which is doubtless
+
+correct, but does not exhaust the subject. Self-contradictory notions are
+
+admitted as concepts: F is a concept if “a falls under the concept F” is a
+
+proposition whatever thing a may be (Gl. p. 87). A concept is the indication
+
+of a predicate; a thing is what can never be the whole indication of a
+
+predicate, though it may be that of a subject (BuG. p. 198).
+
+482. The above theory, in spite of close resemblance, differs in some
+
+  important points from the theory set forth in Part I above. Before
+
+  examining the differences, I shall briefly recapitulate my own theory.
+
+  Given any propositional concept, or any unity (see § 136), which may in
+
+the limit be simple, its constituents are in general of two sorts: (1) those
+
+which may be replaced by anything else whatever without destroying the
+
+unity of the whole; (2) those which have not this property. Thus in “the death
+
+of Caesar”, anything else may be substituted for Caesar, but a proper name
+
+must not be substituted for death, and hardly anything can be substituted for
+
+of. Of the unity in question, the former class of constituents will be called
+
+terms, the latter concepts. We have then, in regard to any unity, to consider
+
+the following objects:
+
+
+1. What remains of the said unity when one of its terms is simply removed,
+
+    or, if the term occurs several times, when it is removed from one or
+
+    more of the places in which it occurs, or, if the unity has more than one
+
+    term, when two or more of its terms are removed from some or all of the
+
+    places where they occur. This is what Frege calls a function.
+
+2. The class of unities differing from the said unity, if at all, only by the    fact that one of its terms has been replaced, in one or more of the places
+
+    where it occurs, by some other terms, or by the fact that two or more of
+
+    its terms have been thus replaced by other terms.
+
+3. Any member of the class (2).
+
+4. The assertion that every member of the class (2) is true.
+
+5. The assertion that some member of the class (2) is true.
+
+6. The relation of a member of the class (2) to the value which the variable
+
+    has in that member.
+
+
+The fundamental case is that where our unity is a propositional concept.
+
+From this is derived the usual mathematical notion of function, which might
+
+at first sight seem simpler. If f(x) is not a propositional function, its value for
+
+a given value of x (f(x) being assumed to be one-valued) is the term y
+
+satisfying the propositional function y = f(x), i.e. satisfying, for the given
+
+value of x, some relational proposition; this relational proposition is involved
+
+in the definition of f(x), and some such propositional function is required in
+
+the definition of any function which is not propositional.
+
+As regards (1), confining ourselves to one variable, it was maintained in
+
+Chapter 7 that, except where the proposition from which we start is
+
+predicative or else asserts a fixed relation to a fixed term, there is no such
+
+entity: the analysis into argument and assertion cannot be performed in the
+
+manner required. Thus what Frege calls a function, if our conclusion was
+
+sound, is in general a non-entity. Another point of difference from Frege, in
+
+which, however, he appears to be in the right, lies in the fact that I place no
+
+restriction upon the variation of the variable, whereas Frege, according to the
+
+nature of the function, confines the variable to things, functions of the first
+
+order with one variable, functions of the first order with two variables,
+
+functions of the second order with one variable, and so on. There are thus for
+
+him an infinite number of different kinds of variability. This arises from the
+
+fact that he regards as distinct the concept occurring as such and the concept
+
+occurring as term, which I (§ 49) have identified. For me, the functions,
+
+which cannot be values of variables in functions of the first order, are non-
+
+entities and false abstractions. Instead of the rump of a proposition
+
+considered in (1), I substitute (2) or (3) or (4) according to circumstances.
+
+The ground for regarding the analysis into argument and function as not
+
+always possible is that, when one term is removed from a propositional
+
+concept, the remainder is apt to have no sort of unity, but to fall apart into aset of disjointed terms. Thus what is fundamental in such a case is (2).
+
+Frege’s general definition of a function, which is intended to cover also
+
+functions which are not propositional, may be shown to be inadequate by
+
+considering what may be called the identical function, i.e. x as a function of x.
+
+If we follow Frege’s advice, and remove x in hopes of having the function
+
+left, we find that nothing is left at all; yet nothing is not the meaning of the
+
+identical function. Frege wishes to have the empty places where the argument
+                                                                        3
+is to be inserted indicated in some way; thus he says that in 2x + x the
+                3
+function is 2( ) + ( ). But here his requirement that the two empty places are
+
+to be filled by the same letter cannot be indicated: there is no way of
+                                                                        3
+distinguishing what we mean from the function involved in 2x + y. The fact
+
+seems to be that we want the notion of any term of a certain class, and that
+
+this is what our empty places really stand for. The function, as a single entity,
+
+is the relation (6) above; we can then consider any relatum of this relation, or
+
+the assertion of all or some of the relata, and any relation can be expressed in
+
+terms of the corresponding referent, as “Socrates is a man” is expressed in
+
+terms of Socrates. But the usual formal apparatus of the calculus of relations
+
+cannot be employed, because it presupposes propositional functions. We may
+
+say that a propositional function is a many-one relation which has all terms
+
+for the class of its referents, and has its relata contained among propositions:*
+
+or, if we prefer, we may call the class of relata of such a relation a
+
+propositional function. But the air of formal definition about these statements
+
+is fallacious, since propositional functions are presupposed in defining the
+
+class of referents and relata of a relation.
+
+  Thus by means of propositional functions, propositions are collected into
+
+classes. (These classes are not mutually exclusive.) But we may also collect
+
+them into classes by the terms which occur in them: all propositions
+
+containing a given term a will form a class. In this way we obtain
+
+propositions concerning variable propositional functions. In the notation 
+
+(x), the  is essentially variable; if we wish it not to be so, we must take some
+
+particular proposition about x, such as “x is a class” or “x implies x”. Thus 
+
+(x) essentially contains two variables. But, if we have decided that  is not a
+
+separable entity, we cannot regard  itself as the second variable. It will be
+
+necessary to take as our variable either the relation of x to  (x), or else the
+
+class of propositions  (y) for different values of y but for constant . This
+
+does not matter formally, but it is important for logic to be clear as to the
+
+meaning of what appears as the variation of . We obtain in this way anotherdivision of propositions into classes, but again these classes are not mutually
+
+exclusive.
+
+In the above manner, it would seem, we can make use of propositional
+
+functions without having to introduce the objects which Frege calls functions.
+
+It is to be observed, however, that the kind of relation by which propositional
+
+functions are defined is less general than the class of many-one relations
+
+having their domain coextensive with terms and their converse domain
+
+contained in propositions. For in this way any proposition would, for a
+
+suitable relation, be relatum to any term, whereas the term which is referent
+
+must, for a propositional function, be a constituent of the proposition which is
+
+its relatum.* This point illustrates again that the class of relations involved is
+
+fundamental and incapable of definition. But it would seem also to show that
+
+Frege’s different kinds of variability are unavoidable, for in considering (say)
+
+ (2), where  is variable, the variable would have to have as its range the
+
+above class of relations, which we may call propositional relations.
+
+Otherwise,  (2) is not a proposition, and is indeed meaningless, for we are
+
+dealing with an indefinable, which demands that  (2) should be the relatum
+
+of 2 with regard to some propositional relation. The contradiction discussed
+
+in Chapter 10 seems to show that some mystery lurks in the variation of
+
+propositional functions; but for the present, Frege’s theory of different kinds
+
+of variables must, I think, be accepted.
+
+483. It remains to discuss afresh the question whether concepts can be made
+
+into logical subjects without change of meaning. Frege’s theory, that
+
+  when this appears to be done it is really the name of the concept that is
+
+  involved, will not, I think, bear investigation. In the first place, the mere
+
+  assertion “not the concept, but its name, is involved”, has already made
+
+the concept a subject. In the second place, it seems always legitimate to
+
+  ask: “what is it that is named by this name?” If there were no answer, the
+
+  name could not be a name; but if there is an answer, the concept, as
+
+  opposed to its name, can be made a subject. (Frege, it may be observed,
+
+does not seem to have clearly disentangled the logical and linguistic
+
+  elements of naming: the former depend upon denoting, and have, I think,
+
+a much more restricted range than Frege allows them.) It is true that we
+
+  found difficulties in the doctrine that everything can be a logical subject:
+
+as regards “any a”, for example, and also as regards plurals. But in the
+
+case of “any a”, there is ambiguity, which introduces a new class of
+
+  problems; and as regards plurals, there are propositions in which the  many behave like a logical subject in every respect except that they are
+
+  many subjects and not one only (see §§ 127, 128). In the case of
+
+  concepts, however, no such escapes are possible. The case of asserted
+
+  propositions is difficult, but it met, I think, by holding that an asserted
+
+  proposition is merely a true proposition, and is therefore asserted
+
+  wherever it occurs, even when grammar would lead to the opposite
+
+  conclusion. Thus, on the whole, the doctrine of concepts which cannot be
+
+  made subjects seems untenable.
+
+484. Classes. Frege’s theory of classes is very difficult, and I am not sure
+
+that I have thoroughly understood it. He gives the name Werthverlauf* to
+
+an entity which appears to be nearly the same as what I call the class as
+
+one. The concept of the class, and the class as many, does not appear in
+
+his exposition. He differs from the theory set forth in Chapter 6 chiefly
+
+by the fact that he adopts a more intensional view of classes than I have
+
+done, being led thereto mainly by the desirability of admitting the null-
+
+class and of distinguishing a term from a class whose only member it is. I
+
+  agree entirely that these two objects cannot be attained by an extensional
+
+  theory, though I have tried to show how to satisfy the requirements of
+
+  formalism (§§ 69, 73).
+
+The extension of a Begriff, Frege says, is the range of a function whose
+
+value for every argument is a truth-value (FuB. p. 16). Ranges are things,
+
+whereas functions are not (ib. p. 19). There would be no null-class, if classes
+
+were taken in extension; for the null-class is only possible if a class is not a
+
+collection of terms (KB. pp. 436–7). If x be a term, we cannot identify x, as
+
+the extensional view requires, with the class whose only member is x; for
+
+suppose x to be a class having more than one member, and let y, z be two
+
+different members of x; then if x is identical with the class whose only
+
+member is x, y and z will both be members of this class, and will therefore be
+
+identical with x and with each other, contrary to the hypothesis.† The
+
+extension of a Begriff has its being in the Begriff itself, not in the individuals
+
+falling under the Begriff (ib. p. 451). When I say something about all men, I
+
+say nothing about some wretch in the centre of Africa, who is in no way
+
+indicated, and does not belong to the indication of man (p. 454). Begriffe are
+
+prior to their extension, and it is a mistake to attempt, as Schröder does, to
+
+base extension on individuals; this leads to the calculus of regions (Gebiete),
+
+not to Logic (p. 455).
+
+  What Frege understands by a range, and in what way it is to be conceivedwithout reference to objects, he endeavours to explain in his Grundgesetze
+
+der Arithmetik. He begins by deciding that two propositional functions are to
+
+have the same range when they have the same value for every value of x, i.e.
+
+for every value of x both are true or both false (pp. 7, 14) This is laid down as
+
+a primitive proposition. But this only determines the equality of ranges, not
+
+what they are in themselves. If X (ξ) be a function which never has the same
+
+value for different values of ξ and if we denote by ' the range of x, we shall
+
+have X (' ) = X (ψ' ) when and only when ' and ψ' are equal, i.e. when and
+
+only when x and ψx always have the same value. Thus the conditions for the
+
+equality of ranges do not of themselves decide what ranges are to be (p. 16).
+
+Let us decide arbitrarily—since the notion of a range is not yet fixed—that
+
+the true is to be the range of the function “x is true” (as an assumption, not an
+
+asserted proposition), and the false is to be the range of the function “x = not
+
+every term is identical with itself”. It follows that the range of x is the true
+
+when and only when the true and nothing else falls under the Begriff x; the
+
+range of x is the false when and only when the false and nothing else falls
+
+under the Begriff x; in other cases, the range is neither the true nor the false
+
+(pp. 17–18). If only one thing falls under a concept, this one thing is distinct
+
+from the range of the concept in question (p. 18, note)—the reason is the
+
+same as that mentioned above.
+
+  There is an argument (p. 49) to prove that the name of the range of a
+
+function always has an indication, i.e. that the symbol employed for it is
+
+never meaningless. In view of the contradiction discussed in Chapter 10, I
+
+should be inclined to deny a meaning to a range when we have a proposition
+
+of the form  [f()], where f is constant and  variable, or of the form f (x),
+                                                                                  x
+
+where x is variable and f is a propositional function which is determinate
+                          x
+
+when x is given, but varies from one value of x to another—provided, when f
+                                                                                          x
+
+is analysed into things and concepts, the part dependent on x does not consist
+
+only of things, but contains also at least one concept. This is a very
+
+complicated case, in which, I should say, there is no class as one, my only
+
+reason for saying so being that we can thus escape the contradiction.
+
+485. By means of variable propositional functions, Frege obtains a
+
+  definition of the relation which Peano calls ε, namely the relation of a
+
+term to a class of which it is a member.*. The definition is as follows:
+
+  “aεu” is to mean the term (or the range of terms if there be none or many)
+
+x such that there is a propositional function  which is such that u is the  range of  and a is identical with x (p. 53). It is observed that this defines
+
+aεu whatever things a and u may be. In the first place, suppose u to be a
+
+  range. Then there is at least one  whose range is u, and any two whose
+
+  range is u are regarded by Frege as identical. Thus we may speak of the
+
+  function  whose range is u. In this case, aεu is the proposition a, which
+
+is true when a is a member of u, and is false otherwise. If, in the second
+
+place, u is not a range, then there is no such propositional function as ,
+
+and therefore aεu is the range of a propositional function which is always
+
+false, i.e. the null-range. Thus aεu indicates the true when u is a range and
+
+a is a member of u; aεu indicates the false when u is a range and a is not a
+
+  member of u; in other cases, aεu indicates the null-range.
+
+It is to be observed that from the equivalence of xεu and xεv for all values
+
+of x we can only infer the identity of u and v when u and v are ranges. When
+
+they are not ranges, the equivalence will always hold, since xεu and xεv are
+
+the null-range for all values of x; thus if we allowed the inference in this case,
+
+any two objects which are not ranges would be identical, which is absurd.
+
+One might be tempted to doubt whether u and v must be identical even when
+
+they are ranges: with an intensional view of classes, this becomes open to
+
+question.
+
+  Frege proceeds (p. 55) to an analogous definition of the propositional
+
+function of three variables which I have symbolized as x R y, and here again
+
+he gives a definition which does not place any restrictions on the variability
+
+of R. This is done by introducing a double range, defined by a propositional
+
+function of two variables; we may regard this as a class of couples with
+
+sense.* If then R is such a class of couples, and if (x; y) is a member of this
+
+class, x R y is to hold; in other cases it is to be false or null as before. On this
+
+basis, Frege successfully erects as much of the logic of relations as is
+
+required for his Arithmetic; and he is free from the restrictions on the
+
+variability of R which arise from the intensional view of relations adopted in
+
+the present work (cf. § 83).
+
+486. The chief difficulty which arises in the above theory of classes is as to
+
+the kind of entity that a range is to be. The reason which led me, against
+
+my inclination, to adopt an extensional view of classes, was the necessity
+
+of discovering some entity determinate for a given propositional
+
+  function, and the same for any equivalent propositional function. Thus “x
+
+is a man” is equivalent (we will suppose) to “x is a featherless biped”,
+
+and we wish to discover some one entity which is determined in the sameway by both these propositional functions. The only single entity I have
+
+  been able to discover is the class as one—except the derivative class
+
+(also as one) of propositional functions equivalent to either of the given
+
+  propositional functions. This latter class is plainly a more complex
+
+  notion, which will not enable us to dispense with the general notion of
+
+  class; but this more complex notion (so we agreed in § 73) must be
+
+  substituted for the class of terms in the symbolic treatment, if there is to
+
+be any null-class and if the class whose only member is a given term is to
+
+be distinguished from that term. It would certainly be a very great
+
+  simplification to admit, as Frege does, a range which is something other
+
+than the whole composed of the terms satisfying the propositional
+
+  function in question; but for my part, inspection reveals to me no such
+
+  entity. On this ground, and also on account of the contradiction, I feel
+
+  compelled to adhere to the extensional theory of classes, though not quite
+
+as set forth in Chapter 6.
+
+487. That some modification in that doctrine is necessary, is proved by the
+
+  argument of KB. p. 444. This argument appears capable of proving that a
+
+class, even as one, cannot be identified with the class of which it is the
+
+only member. In § 74, I contended that the argument was met by the
+
+  distinction between the class as one and the class as many, but this
+
+  contention now appears to me mistaken. For this reason, it is necessary to
+
+  re-examine the whole doctrine of classes.
+
+  Frege’s argument is as follows. If a is a class of more than one term, and if
+
+a is identical with the class whose only term is a, then to be a term of a is the
+
+same thing as to be a term of the class whose only term is a, whence a is the
+
+only term of a. This argument appears to prove not merely that the
+
+extensional view of classes is inadequate, but rather that it is wholly
+
+inadmissible. For suppose a to be a collection, and suppose that a collection
+
+of one term is identical with that one term. Then, if a can be regarded as one
+
+collection, the above argument proves that a is the only term of a. We cannot
+
+escape by saying that ε is to be a relation to the class-concept or the concept
+
+of the class or the class as many, for if there is any such entity as the class as
+
+one, there will be a relation, which we may call ε, between terms and their
+
+classes as one. Thus the above argument leads to the conclusion that either
+
+(α) a collection of more than one term is not identical with the collection
+
+whose only term it is, or (β) there is no collection as one term at all in the
+
+case of a collection of many terms, but the collection is strictly and onlymany. One or other of these must be admitted in virtue of the above
+
+argument.
+
+488. (α) To either of these views there are grave objections. The former is
+
+the view of Frege and Peano. To realize the paradoxical nature of this
+
+view, it must be clearly grasped that it is not only the collection as many,
+
+but the collection as one, that is distinct from the collection whose only
+
+term it is. (I speak of collections, because it is important to examine the
+
+  bearing of Frege’s argument upon the possibility of an extensional
+
+  standpoint.) This view, in spite of its paradox, is certainly the one which
+
+  seems to be required by the symbolism. It is quite essential that we
+
+  should be able to regard a class as a single object, that there should be a
+
+  null-class, and that a term should not (in general, at any rate) be identical
+
+with the class of which it is the only member. It is subject to these
+
+  conditions that the symbolic meaning of class has to be interpreted.
+
+  Frege’s notion of a range may be identified with the collection as one,
+
+and all will then go well. But it is very hard to see any entity such as
+
+  Frege’s range, and the argument that there must be such an entity gives
+
+us little help. Moreover, in virtue of the contradiction, there certainly are
+
+  cases where we have a collection as many, but no collection as one (§
+
+104). Let us then examine (β), and see whether this offers a better
+
+  solution.
+
+(β) Let us suppose that a collection of one term is that one term, and that a
+
+collection of many terms is (or rather are) those many terms, so that there is
+
+not a single term at all which is the collection of the many terms in question.
+
+In this view there is, at first sight at any rate, nothing paradoxical, and it has
+
+the merit of admitting universally what the Contradiction shows to be
+
+sometimes the case. In this case, unless we abandon one of our fundamental
+
+dogmas, ε will have to be a relation of a term to its class-concept, not to its
+
+class; if a is a class-concept, what appears symbolically as the class whose
+
+only term is a will (one might suppose) be the class-concept under which
+
+falls only the concept a, which is of course (in general, if not always)
+
+different from a. We shall maintain, on account of the contradiction, that
+
+there is not always a class-concept for a given propositional function x, i.e.
+
+that there is not always, for every , some class-concept a such that xεa is
+
+equivalent to x for all values of x; and the cases where there is no such class-
+
+concept will be cases in which  is a quadratic form.
+
+So far, all goes well. But now we no longer have one definite entity whichis determined equally by any one of a set of equivalent propositional
+
+functions, i.e. there is, it might be urged, no meaning of class left which is
+
+determined by the extension alone. Thus, to take a case where this leads to
+
+confusion, if a and b be different class-concepts such that xεa and xεb are
+
+equivalent for all values of x, the class-concept under which a falls and
+
+nothing else will not be identical with that under which falls b and nothing
+
+else. Thus we cannot get any way of denoting what should symbolically
+
+correspond to the class as one. Or again, if u and v be similar but different
+
+classes, “similar to u” is a different concept from “similar to v”; thus, unless
+
+we can find some extensional meaning for class, we shall not be able to say
+
+that the number of u is the same as that of v. And all the usual elementary
+
+problems as to combinations (i.e. as to the number of classes of specified
+
+kinds contained in a given class) will have become impossible and even
+
+meaningless. For these various reasons, an objector might contend,
+
+something like the class as one must be maintained; and Frege’s range fulfils
+
+the conditions required. It would seem necessary therefore to accept ranges
+
+by an act of faith, without waiting to see whether there are such things.
+
+  Nevertheless, the non-identification of the class with the class as one,
+
+whether in my form or in the form of Frege’s range, appears unavoidable, and
+
+by a process of exclusion the class as many is left as the only object which
+
+can play the part of a class. By a modification of the logic hitherto advocated
+
+in the present work, we shall, I think, be able at once to satisfy the
+
+requirements of the Contradiction and to keep in harmony with common
+
+sense.*
+
+489. Let us begin by recapitulating the possible theories of classes which
+
+  have presented themselves. A class may be identified with (α) the
+
+  predicate, (β) the class concept, (γ) the concept of the class, (δ) Frege’s
+
+  range, (ε) the numerical conjunction of the terms of the class, (ζ) the
+
+  whole composed of the terms of the class.
+
+Of these theories, the first three, which are intensional, have the defect that
+
+they do not render a class determinate when its terms are given. The other
+
+three do not have this defect, but they have others. (δ) suffers from a doubt as
+
+to there being such an entity, and also from the fact that, if ranges are terms,
+
+the contradiction is inevitable. (ε) is logically unobjectionable, but is not a
+
+single entity, except when the class has only one member. (ζ) cannot always
+
+exist as a term, for the same reason as applies against (δ); also it cannot be
+
+identified with the class on account of Frege’s argument.*  Nevertheless, without a single object† to represent an extension,
+
+Mathematics crumbles. Two propositional functions which are equivalent for
+
+all values of the variable may not be identical, but it is necessary that there
+
+should be some object determined by both. Any object that may be proposed,
+
+however, presupposes the notion of class. We may define class optatively as
+
+follows: A class is an object uniquely determined by a propositional function,
+
+and determined equally by any equivalent propositional function. Now we
+
+cannot take as this object (as in other cases of symmetrical transitive
+
+relations) the class of propositional functions equivalent to a given
+
+propositional function, unless we already have the notion of class. Again,
+
+equivalent relations, considered intensionally, may be distinct: we want
+
+therefore to find some one object determined equally by any one of a set of
+
+equivalent relations. But the only objects that suggest themselves are the
+
+class of relations or the class of couples forming their common range; and
+
+these both presuppose class. And without the notion of class, elementary
+
+problems, such as “how many combinations can be formed of m objects n at a
+
+time?” become meaningless. Moreover, it appears immediately evident that
+
+there is some sense in saying that two class-concepts have the same
+
+extension, and this requires that there should be some object which can be
+
+called the extension of a class-concept. But it is exceedingly difficult to
+
+discover any such object, and the contradiction proves conclusively that, even
+
+if there be such an object sometimes, there are propositional functions for
+
+which the extension is not one term.
+
+The class as many, which we numbered (ε) in the above enumeration, is
+
+unobjectionable, but is many and not one. We may, if we choose, represent
+
+this by a single symbol: thus xεu will mean “x is one of the u’s”. This must
+
+not be taken as a relation of two terms, x and u, because u as the numerical
+
+conjunction is not a single term, and we wish to have a meaning for xεu
+
+which would be the same if for u we substituted an equal class v, which
+
+prevents us from interpreting u intensionally. Thus we may regard “x is one
+
+of the u’s” as expressing a relation of x to many terms, among which x is
+
+included. The main objection to this view, if only single terms can be
+
+subjects, is that, if u is a symbol standing essentially for many terms, we
+
+cannot make u a logical subject without risk of error. We can no longer
+
+speak, one might suppose, of a class of classes; for what should be the terms
+
+of such a class are not single terms, but are each many terms.* We cannot
+
+assert a predicate of many, one would suppose, except in the sense ofasserting it of each of the many; but what is required here is the assertion of a
+
+predicate concerning the many as many, not concerning each nor yet
+
+concerning the whole (if any) which all compose. Thus a class of classes will
+
+be many many’s; its constituents will each be only many, and cannot
+
+therefore in any sense, one might suppose, be single constituents. Now I find
+
+myself forced to maintain, in spite of the apparent logical difficulty, that this
+
+is precisely what is required for the assertion of number. If we have a class of
+
+classes, each of whose members has two terms, it is necessary that the
+
+members should each be genuinely two-fold, and should not be each one. Or
+
+again, “Brown and Jones are two” requires that we should not combine
+
+Brown and Jones into a single whole, and yet it has the form of a subject-
+
+predicate proposition. But now a difficulty arises as to the number of
+
+members of a class of classes. In what sense can we speak of two couples?
+
+This seems to require that each couple should be a single entity; yet if it were,
+
+we should have two units, not two couples. We require a sense for diversity
+
+of collections, meaning thereby, apparently, if u and v are the collections in
+
+question, that xεu and xεv are not equivalent for all values of x.
+
+490. The logical doctrine which is thus forced upon us is this: The subject
+
+of a proposition may be not a single term, but essentially many terms;
+
+this is the case with all propositions asserting numbers other than 0 and 1.
+
+But the predicates or class-concepts or relations which can occur in
+
+  propositions having plural subjects are different (with some exceptions)
+
+from those that can occur in propositions having single terms as subjects.
+
+  Although a class is many and not one, yet there is identity and diversity
+
+among classes, and thus classes can be counted as though each were a
+
+  genuine unity; and in this sense we can speak of one class and of the
+
+  classes which are members of a class of classes. One must be held,
+
+  however, to be somewhat different when asserted of a class from what it
+
+is when asserted of a term; that is, there is a meaning of one which is
+
+  applicable in speaking of one term, and another which is applicable in
+
+  speaking of one class, but there is also a general meaning applicable to
+
+both cases. The fundamental doctrine upon which all rests is the doctrine
+
+that the subject of a proposition may be plural, and that such plural
+
+  subjects are what is meant by classes which have more than one term.*
+
+It will now be necessary to distinguish (1) terms, (2) classes, (3) classes of
+
+classes, and so on ad infinitum; we shall have to hold that no member of one
+
+set is a member of any other set, and that xεu requires that x should be of a setof a degree lower by one than the set to which u belongs. Thus xεx will
+
+become a meaningless proposition; and in this way the contradiction is
+
+avoided.
+
+491. But we must now consider the problem of classes which have one
+
+  member or none. The case of the null-class might be met by a bare denial
+
+  —this is only inconvenient, not self-contradictory. But in the case of
+
+  classes having only one term, it is still necessary to distinguish them from
+
+their sole members. This results from Frege’s argument, which we may
+
+  repeat as follows. Let u be a class having more than one term; let ıu be
+
+the class of classes whose only member is u. Then ıu has one member, u
+
+has many; hence u and ıu are not identical. It may be doubted, at first
+
+sight, whether this argument is valid. The relation of x to u expressed by
+
+xεu is a relation of a single term to many terms; the relation of u to ıu
+
+  expressed by uεıu is a relation of many terms (as subject) to many terms
+
+(as predicate).† This is, so an objector might contend, a different relation
+
+from the previous one; and thus the argument breaks down. It is in
+
+  different senses that x is a member of u and that u is a member of ıu; thus
+
+u and ıu may be identical in spite of the argument.
+
+This attempt, however, to escape from Frege’s argument, is capable of
+
+refutation. For all the purposes of Arithmetic, to begin with, and for many of
+
+the purposes of logic, it is necessary to have a meaning for ε which is equally
+
+applicable to the relation of a term to a class, of a class to a class of classes,
+
+and so on. But the chief point is that, if every single term is a class, the
+
+proposition xεx, which gives rise to the Contradiction, must be admissible. It
+
+is only by distinguishing x and ıx, and insisting that in xεu the u must always
+
+be of a type higher by one than x, that the contradiction can be avoided. Thus,
+
+although we may identify the class with the numerical conjunction of its
+
+terms, wherever there are many terms, where there is only one term we shall
+
+have to accept Frege’s range as an object distinct from its only term. And
+
+having done this, we may of course also admit a range in the case of a null
+
+propositional function. We shall differ from Frege only in regarding a range
+
+as in no case a term, but an object of a different logical type, in the sense that
+
+a propositional function  (x), in which x may be any term, is in general
+
+meaningless if for x we substitute a range; and if x may be any range of
+
+terms,  (x) will in general be meaningless if for x we substitute either a term
+
+or a range of ranges of terms. Ranges, finally, are what are properly to be
+
+called classes, and it is of them that cardinal numbers are asserted.492. According to the view here advocated, it will be necessary, with every
+
+  variable, to indicate whether its field of significance is terms, classes,
+
+  classes of classes, or so on.* A variable will not be able, except in special
+
+cases, to extend from one of these sets into another; and in xεu, the x and
+
+the u must always belong to different types; ε will not be a relation
+
+  between objects of the same type, but ε or εR† will be, provided R is so.
+
+We shall have to distinguish also among relations according to the types to
+
+  which their domains and converse domains belong; also variables whose
+
+  fields include relations, these being understood as classes of couples, will
+
+not as a rule include anything else, and relations between relations will be
+
+  different in type from relations between terms. This seems to give the truth
+
+  —though in a thoroughly extensional form—underlying Frege’s distinction
+
+  between terms and the various kinds of functions. Moreover the opinion
+
+here advocated seems to adhere very closely indeed to common sense.
+
+  Thus the final conclusion is, that the correct theory of classes is even more
+
+extensional than that of Chapter 6; that the class as many is the only object
+
+always defined by a propositional function, and that this is adequate for
+
+formal purposes; that the class as one, or the whole composed of the terms of
+
+the class, is probably a genuine entity except where the class is defined by a
+
+quadratic function (see § 103), but that in these cases, and in other cases
+
+possibly, the class as many is the only object uniquely defined.
+
+The theory that there are different kinds of variables demands a reform in
+
+the doctrine of formal implication. In a formal implication, the variable does
+
+not, in general, take all the values of which variables are susceptible, but only
+
+all those that make the propositional function in question a proposition. For
+
+other values of the variable, it must be held that any given propositional
+
+function becomes meaningless. Thus in xεu, u must be a class, or a class of
+
+classes, or etc., and x must be a term if u is a class, a class if u is a class of
+
+classes, and so on; in every propositional function there will be some range
+
+permissible to the variable, but in general there will be possible values for
+
+other variables which are not admissible in the given case. This fact will
+
+require a certain modification of the principles of Symbolic Logic; but it
+
+remains true that, in a formal implication, all propositions belonging to a
+
+given propositional function are asserted.
+
+  With this we come to the end of the more philosophical part of Frege’s
+
+work. It remains to deal briefly with his Symbolic Logic and Arithmetic; but
+
+here I find myself in such complete agreement with him that it is hardlynecessary to do more than acknowledge his discovery of propositions which,
+
+when I wrote, I believed to have been new.
+
+493. Implication and Symbolic Logic. The relation which Frege employs as
+
+  fundamental in the logic of propositions is not exactly the same as what I
+
+  have called implication: it is a relation which holds between p and q
+
+  whenever q is true or p is not true, whereas the relation which I employ
+
+  holds whenever p and q are propositions, and q is true or p is false. That
+
+is to say, Frege’s relation holds when p is not a proposition at all,
+
+  whatever q may be; mine does not hold unless p and q are propositions.
+
+His definition has the formal advantage that it avoids the necessity for
+
+  hypotheses of the form “p and q are propositions”; but it has the
+
+  disadvantage that it does not lead to a definition of proposition and of
+
+  negation. In fact, negation is taken by Frege as indefinable; proposition is
+
+  introduced by means of the indefinable notion of a truth-value. Whatever
+
+x may be, “the truth-value of x” is to indicate the true if x is true, and the
+
+  false in all other cases. Frege’s notation has certain advantages over
+
+  Peano’s, in spite of the fact that it is exceedingly cumbrous and difficult
+
+to use. He invariably defines expressions for all values of the variable,
+
+  whereas Peano’s definitions are often preceded by a hypothesis. He has a
+
+  special symbol for assertion, and he is able to assert for all values of x a
+
+  propositional function not stating an implication, which Peano’s
+
+  symbolism will not do. He also distinguishes, by the use of Latin and
+
+  German letters respectively, between any proposition of a certain
+
+  propositional function and all such propositions. By always using
+
+  implications, Frege avoids the logical product of two propositions, and
+
+  therefore has no axioms corresponding to Importation and Exportation.*
+
+  Thus the joint assertion of p and q is the denial of “p implies not-q”.
+
+494. Arithmetic. Frege gives exactly the same definition of cardinal
+
+  numbers as I have given, at least if we identify his range with my class.†
+
+But following his intensional theory of classes, he regards the number as
+
+a property of the class-concept, not of the class in extension. If u be a
+
+  range, the number of u is the range of the concept “range similar to u”. In
+
+the Grundlagen der Arithmetik, other possible theories of number are
+
+  discussed and dismissed. Numbers cannot be asserted of objects, because
+
+the same set of objects may have different numbers assigned to them (Gl.
+
+p. 29); for example, one army is so many regiments and such another
+
+  number of soldiers. This view seems to me to involve too physical a viewof objects: I do not consider the army to be the same object as the
+
+  regiments. A stronger argument for the same view is that 0 will not apply
+
+to objects, but only to concepts (p. 59). This argument is, I think,
+
+  conclusive up to a certain point; but it is satisfied by the view of the
+
+  symbolic meaning of classes set forth in §73. Numbers themselves, like
+
+  other ranges, are things (p. 67). For defining numbers as ranges, Frege
+
+  gives the same general ground as I have given, namely what I call the
+
+  principle of abstraction.* In the Grundgesetze der Arithmetik, various
+
+  theorems in the foundations of cardinal Arithmetic are proved with great
+
+  elaboration, so great that it is often very difficult to discover the
+
+  difference between successive steps in a demonstration. In view of the
+
+  contradiction of Chapter 10, it is plain that some emendation is required
+
+in Frege’s principles; but it is hard to believe that it can do more than
+
+  introduce some general limitation which leaves the details unaffected.
+
+495. In addition to his work on cardinal numbers, Frege has, already in the
+
+  Begriffsschrift, a very admirable theory of progressions, or rather of all
+
+  series that can be generated by many-one relations. Frege does not
+
+  confine himself to one-one relations: as long as we move in only one
+
+  direction, a many-one relation also will generate a series. In some parts of
+
+his theory, he even deals with general relations. He begins by
+
+  considering, for any relation f (x, y), functions F which are such that, if f
+
+(x, y) holds, then F (x) implies F (y). If this condition holds, Frege says
+
+that the property F is inherited in the f-series (Bs. pp. 55–58). From this
+
+he goes on to define, without the use of numbers, a relation which is
+
+  equivalent to “some positive power of the given relation”. This is defined
+
+as follows. The relation in question holds between x and y if every
+
+  property F, which is inherited in the f-series and is such that f (x, z)
+
+  implies F (z) for all values of z, belongs to y (Bs. p. 60). On this basis, a
+
+  non-numerical theory of series is very successfully erected, and is applied
+
+in Gg. to the proof of propositions concerning the number of finite
+
+  numbers and kindred topics. This is, so far as I know, the best method of
+
+  treating such questions, and Frege’s definition just quoted gives,
+
+  apparently, the best form of mathematical induction. But as no
+
+  controversy is involved, I shall not pursue this subject any further.
+
+  Frege’s works contain much admirable criticism of the psychological
+
+standpoint in logic, and also of the formalist theory of mathematics, which
+
+believes that the actual symbols are the subject-matter dealt with, and thattheir properties can be arbitrarily assigned by definition. In both these points,
+
+I find myself in complete agreement with him.
+
+496. Kerry (loc. cit.) has criticized Frege very severely, and professes to
+
+  have proved that a purely logical theory of Arithmetic is impossible (p.
+
+304). On the question whether concepts can be made logical subjects, I
+
+  find myself in agreement with his criticisms; on other points, they seem
+
+to rest on mere misunderstandings. As these are such as would naturally
+
+  occur to any one unfamiliar with symbolic logic, I shall briefly discuss
+
+  them.
+
+The definition of numbers as classes is, Kerry asserts, . We
+
+must know that every concept has only one extension, and we must know
+
+what one object is; Frege’s numbers, in fact, are merely convenient symbols
+
+for what are commonly called numbers (p. 277). It must be admitted, I think,
+
+that the notion of a term is indefinable (cf. § 132 supra), and is presupposed
+
+in the definition of the number 1. But Frege argues—and his argument at
+
+least deserves discussion—that one is not a predicate, attaching to every
+
+imaginable term, but has a less general meaning, and attaches to concepts
+
+(Gl. p. 40). Thus a term is not to be analysed into one and term, and does not
+
+presuppose the notion of one (cf. § 72 supra). As to the assumption that every
+
+concept has only one extension, it is not necessary to be able to state this in
+
+language which employs the number 1: all we need is, that if x and ψx are
+
+equivalent propositions for all values of x, then they have the same extension
+
+—a primitive proposition whose symbolic expression in no way presupposes
+
+the number 1. From this it follows that if a and b are both extensions of x, a
+
+and b are identical, which again does not formally involve the number 1. In
+
+like manner, other objections to Frege’s definition can be met.
+
+  Kerry is misled by a certain passage (Gl. p. 80, note) into the belief that
+
+Frege identifies a concept with its extension. The passage in question appears
+
+to assert that the number of u might be defined as the concept “similar to u”
+
+and not as the range of this concept; but it does not say that the two
+
+definitions are equivalent.
+
+  There is a long criticism of Frege’s proof that 0 is a number, which reveals
+
+fundamental errors as to the existential import of universal propositions. The
+
+point is to prove that, if u and v are null-classes, they are similar. Frege
+
+defines similarity to mean that there is a one-one relation R such that “x is a
+
+u” implies “there is a v to which x stands in the relation R”, and vice versa. (I
+
+have altered the expressions into conformity with my usual language.) This,he says, is equivalent to “there is a one-one relation R such that ‘x is a u’ and
+
+‘there is no term of v to which x stands in the relation R’ cannot both be true,
+
+whatever value x may have, and vice versa”; and this proposition is true if “x
+
+is a u” and “y is a v” are always false. This strikes Kerry as absurd (pp. 287–
+
+9). Similarity of classes, he thinks, implies that they have terms. He affirms
+
+that Frege’s assertion above is contradicted by a later one (Gl. p. 89): “If a is
+
+a u, and nothing is a v, then ‘a is a u’ and ‘no term is a v which has the
+
+relation R to a’ are both true for all values of R.” I do not quite know where
+
+Kerry finds the contradiction; but he evidently does not realize that false
+
+propositions imply all propositions and that universal propositions have no
+
+existential import, so that “all a is b” and “no a is b” will both be true if a is
+
+the null-class.
+
+  Kerry objects (p. 290, note) to the generality of Frege’s notion of relation.
+
+Frege asserts that any proposition containing a and b affirms a relation
+
+between a and b (Gl. p. 83); hence Kerry (rightly) concludes that it is self-
+
+contradictory to deny that a and b are related. So general a notion, he says,
+
+can have neither sense nor purpose. As for sense, that a and b should both be
+
+constituents of one proposition seems a perfectly intelligible sense; as for
+
+purpose, the whole logic of relations, indeed the whole of mathematics, may
+
+be adduced in answer. There is, however, what seems at first sight to be a
+
+formal disproof of Frege’s view. Consider the propositional function “R and
+
+S are relations which are identical, and the relation R does not hold between R
+
+and S”. This contains two variables, R and S; let us suppose that it is
+
+equivalent to “R has the relation T to S”. Then substituting T for both R and S,
+
+we find, since T is identical with T, that “T does not have the relation T to T”
+
+is equivalent to “T has the relation T to T”. This is a contradiction, showing
+
+that there is no such relation as T. Frege might object to this instance, on the
+
+ground that it treats relations as terms; but his double ranges, which, like
+
+single ranges, he holds to be things, will bring out the same result. The point
+
+involved is closely analogous to that involved in the Contradiction: it was
+
+there shown that some propositional functions with one variable are not
+
+equivalent to any propositional function asserting membership of a fixed
+
+class, while here it is shown that some containing two variables are not
+
+equivalent to the assertion of any fixed relation. But the refutation is the same
+
+in the case of relations as it was in the previous case. There is a hierarchy of
+
+relations according to the type of objects constituting their fields. Thus
+
+relations between terms are distinct from those between classes, and theseagain are distinct from relations between relations. Thus no relation can have
+
+itself both as referent and as relatum, for if it be of the same order as the one,
+
+it must be of a higher order than the other; the proposed propositional
+
+function is therefore meaningless for all values of the variables R and S.
+
+It is affirmed (p. 291) that only the concepts of 0 and 1, not the objects
+
+themselves, are defined by Frege. But if we allow that the range of a Begriff
+
+is an object, this cannot be maintained; for the assigning of a concept will
+
+carry with it the assigning of its range. Kerry does not perceive that the
+
+uniqueness of 1 has been proved (ib.): he thinks that, with Frege’s definition,
+
+there might be several 1’s. I do not understand how this can be supposed: the
+
+proof of uniqueness is precise and formal.
+
+The definition of immediate sequence in the series of natural numbers is
+
+also severely criticized (p. 292 ff.). This depends upon the general theory of
+
+series set forth in Bs. Kerry objects that Frege has defined “F is inherited in
+
+the f-series”, but has not defined “the f-series” nor “F is inherited”. The latter
+
+essentially ought not to be defined, having no precise sense; the former is
+
+easily defined, if necessary, as the field of the relation f. This objection is
+
+therefore trivial. Again, there is an attack on the definition: “y follows x in the
+
+f-series if y has all the properties inherited in the f-series and belonging to all
+
+terms to which x has the relation f”.* This criterion, we are told, is of
+
+doubtful value, because no catalogue of such properties exists, and further
+
+because, as Frege himself proves, following x is itself one of these properties,
+
+whence a vicious circle. This argument, to my mind, radically misconceives
+
+the nature of deduction. In deduction, a proposition is proved to hold
+
+concerning every member of a class, and may then be asserted of a particular
+
+member: but the proposition concerning every does not necessarily result
+
+from enumeration of the entries in a catalogue. Kerry’s position involves
+
+acceptance of Mill’s objection to Barbara, that the mortality of Socrates is a
+
+necessary premiss for the mortality of all men. The fact is, of course, that
+
+general propositions can often be established where no means exist of
+
+cataloguing the terms of the class for which they hold; and even, as we have
+
+abundantly seen, general propositions fully stated hold of all terms, or, as in
+
+the above case, of all functions, of which no catalogue can be conceived.
+
+Kerry’s argument, therefore, is answered by a correct theory of deduction;
+
+and the logical theory of Arithmetic is vindicated against its critics.
+
+Note. The second volume of Gg., which appeared too late to be noticed in
+
+the Appendix, contains an interesting discussion of the contradiction (pp.253–265), suggesting that the solution is to be found by denying that two
+
+propositional functions which determine equal classes must be equivalent. As
+
+it seems very likely that this is the true solution, the reader is strongly
+
+recommended to examine Frege’s argument on the point.
+
+
+* I do not translate Bedeutung by denotation, because this word has a
+
+technical meaning different from Frege’s, and also because bedeuten, for
+
+him, is not quite the same as denoting for me.
+
+* This is the logical side of the problem of Annahmen, raised by Meinong
+
+in his able work on the subject, Leipzig, 1902. The logical, though not the
+
+psychological, part of Meinong’s work appears to have been completely
+
+anticipated by Frege.
+
+† Frege, like Meinong, calls this an Annahme: FuB. p. 21.
+
+‡ Gg. p. 10. Cf. also Bs. p. 4.
+
+§ When a term which indicates is itself to be spoken of, as opposed to what
+
+it indicates, Frege uses inverted commas. Cf. § 56.
+
+* Cf. supra, § 18, (4) and § 38.
+
+* Vierteljahrschrift für wiss. Phil., vol. xi, pp. 249–307.
+
+* “We have here a function whose value is always a truth-value. Such
+
+functions with one argument we have called Begriffe; with two, we call them
+
+relations.” Cf. Gl. pp. 82–3.
+
+* Not all relations having this property are propositional functions; v. inf.
+
+* The notion of a constituent of a proposition appears to be a logical
+
+indefinable.
+
+* I shall translate this as range.
+
+† Ib. p. 444. Cf. supra, § 74.
+
+* Cf. §§ 21, 76, supra.
+
+* Neglecting, for the present, our doubts as to there being any such entity
+
+as a couple with sense, cf. § 98.
+
+* The doctrine to be advocated in what follows is the direct denial of the
+
+dogma stated in § 70, note.
+
+* Archiv i. p. 444.
+
+† For the use of the word object in the following discussion, see § 58, note.
+
+* Wherever the context requires it, the reader is to add “provided the class
+
+in question (or all the classes in question) does not consist of a single term”.
+
+* Cf. §§ 128, 132 supra.
+
+† The word predicate is here used loosely, not in the precise sense definedin § 48.
+
+* See Appendix B.
+
+† On this notation, see §§ 28, 97.
+
+* See § 18, (7), (8).
+
+† See Gl. pp. 79, 85; Gg. p. 57, Df. Z.
+
+* Gl. p. 79; cf. § 111 supra.
+
+* Kerry omits the last clause, wrongly; for not all properties inherited in
+
+the f-series belong to all its terms; for example, the property of being greater
+
+than 100 is inherited in the number-series.Appendix B
+
+
+
+
+
+THE DOCTRINE OF TYPES
+
+497. The doctrine of types is here put forward tentatively, as affording a
+
+  possible solution of the contradiction; but it requires, in all probability, to
+
+be transformed into some subtler shape before it can answer all
+
+  difficulties. In case, however, it should be found to be a first step towards
+
+the truth, I shall endeavour in this Appendix to set forth its main outlines,
+
+as well as some problems which it fails to solve.
+
+  Every propositional function (x)—so it is contended—has, in addition to
+
+its range of truth, a range of significance, i.e. a range within which x must lie
+
+if (x) is to be a proposition at all, whether true or false. This is the first point
+
+in the theory of types; the second point is that ranges of significance form
+
+types, i.e. if x belongs to the range of significance of (x), then there is a class
+
+of objects, the type of x, all of which must also belong to the range of
+
+significance of (x), however  may be varied; and the range of significance
+
+is always either a single type or a sum of several whole types. The second
+
+point is less precise than the first, and the case of numbers introduces
+
+difficulties; but in what follows its importance and meaning will, I hope,
+
+become plainer.
+
+A term or individual is any object which is not a range. This is the lowest
+
+type of object. If such an object—say a certain point in space—occurs in a
+
+proposition, any other individual may always be substituted without loss of
+
+significance. What we called, in Chapter 6, the class as one, is an individual,
+
+provided its members are individuals: the objects of daily life, persons,
+
+tables, chairs, apples, etc., are classes as one. (A person is a class of psychical
+
+existents, the others are classes of material points, with perhaps some
+
+reference to secondary qualities.) These objects, therefore, are of the same
+
+type as simple individuals. It would seem that all objects designated by single
+
+words, whether things or concepts, are of this type. Thus e.g. the relations
+
+that occur in actual relational propositions are of the same type as things,though relations in extension, which are what Symbolic Logic employs, are
+
+of a different type. (The intensional relations which occur in ordinary
+
+relational propositions are not determinate when their extensions are given,
+
+but the extensional relations of Symbolic Logic are classes of couples.)
+
+Individuals are the only objects of which numbers cannot be significantly
+
+asserted.
+
+The next type consists of ranges or classes of individuals. (No ordinal ideas
+
+are to be associated with the word range.) Thus “Brown and Jones” is an
+
+object of this type, and will in general not yield a significant proposition if
+
+substituted for “Brown” in any true or false proposition of which Brown is a
+
+constituent. (This constitutes, in a kind of way, a justification for the
+
+grammatical distinction of singular and plural; but the analogy is not close,
+
+since a range may have one term or more, and where it has many, it may yet
+
+appear as singular in certain propositions.) If u be a range determined by a
+
+propositional function (x), not-u will consist of all objects for which (x) is
+
+false, so that not-u is contained in the range of significance of (x), and
+
+contains only objects of the same type as the members of u. There is a
+
+difficulty in this connection, arising from the fact that two propositional
+
+functions (x), ψ(x) may have the same range of truth u, while their ranges of
+
+significance may be different; thus not-u becomes ambiguous. There will
+
+always be a minimum type within which u is contained, and not-u may be
+
+defined as the rest of this type. (The sum of two or more types is a type; a
+
+minimum type is one which is not such a sum.) In view of the Contradiction,
+
+this view seems the best; for not-u must be the range of falsehood of “x is a
+
+u”, and “x is an x” must be in general meaningless; consequently “x is a u”
+
+must require that x and u should be of different types. It is doubtful whether
+
+this result can be insured except by confining ourselves, in this connection, to
+
+minimum types.
+
+  There is an unavoidable conflict with common sense in the necessity for
+
+denying that a mixed class (i.e. one whose members are not all of the same
+
+minimum type) can ever be of the same type as one of its members. Consider,
+
+for example, such phrases as “Heine and the French”. If this is to be a class
+
+consisting of two individuals, “the French” must be understood as “the
+
+French nation”, i.e., as the class as one. If we are speaking of the French as
+
+many, we get a class consisting not of two members, but of one more than
+
+there are Frenchmen. Whether it is possible to form a class of which one
+
+member is Heine, while the other is the French as many, is a point to which Ishall return later; for the present it is enough to remark that, if there be such a
+
+class, it must, if the Contradiction is to be avoided, be of a different type both
+
+from classes of individuals and from classes of classes of individuals.
+
+The next type after classes of individuals consists of classes of classes of
+
+individuals. Such are, for example, associations of clubs; the members of
+
+such associations, the clubs, are themselves classes of individuals. It will be
+
+convenient to speak of classes only where we have classes of individuals, of
+
+classes of classes only where we have classes of classes of individuals, and
+
+so on. For the general notion, I shall use the word range. There is a
+
+progression of such types, since a range may be formed of objects of any
+
+given type, and the result is a range of higher type than its members.
+
+A new series of types begins with the couple with sense. A range of such
+
+types is what Symbolic Logic treats as a relation: this is the extensional view
+
+of relations. We may then form ranges of relations, or relations of relations,
+
+or relations of couples (such as separation in Projective Geometry),* or
+
+relations of individuals to couples, and so on; and in this way we get, not
+
+merely a single progression, but a whole infinite series of progressions. We
+
+have also the types formed of trios, which are the members of triple relations
+
+taken in extension as ranges; but of trios there are several kinds that are
+
+reducible to previous types. Thus if (x, y, z) be a propositional function, it
+
+may be a product of propositions (x) ·(y) ·(z) or a product (x) ·(y,
+                                        12312
+
+z), or a proposition about x and the couple (y, z), or it may be analysable in
+
+other analogous ways. In such cases, a new type does not arise. But if our
+
+proposition is not so analysable—and there seems no à priori reason why it
+
+should always be so—then we obtain a new type, namely the trio. We can
+
+form ranges of trios, couples of trios, trios of trios, couples of a trio and an
+
+individual, and so on. All these yield new types. Thus we obtain an immense
+
+hierarchy of types, and it is difficult to be sure how many there may be; but
+
+the method of obtaining new types suggests that the total number is only α
+                                                                                      0
+
+(the number of finite integers), since the series obtained more or less
+
+resembles the series of rationals in the order 1, 2, …, n, …, 1/2, 1/3, …, 1/n,
+
+…, 2/3, …, 2/5, …2/(2n + 1), … This, however, is only a conjecture.
+
+Each of the types above enumerated is a minimum type; i.e., if (x) be a
+
+propositional function which is significant for one value of x belonging to
+
+one of the above types, then (x) is significant for every value of x belonging
+
+to the said type. But it would seem—though of this I am doubtful—that the
+
+sum of any number of minimum types is a type, i.e. is a range of significancefor certain propositional functions. Whether or not this is universally true, all
+
+ranges certainly form a type, since every range has a number; and so do all
+
+objects, since every object is identical with itself.
+
+  Outside the above series of types lies the type proposition; and from this as
+
+starting-point a new hierarchy, one might suppose, could be started; but there
+
+are certain difficulties in the way of such a view, which render it doubtful
+
+whether propositions can be treated like other objects.
+
+498. Numbers, also, are a type lying outside the above series, and
+
+  presenting certain difficulties, owing to the fact that every number selects
+
+certain objects out of every other type of ranges, namely those ranges
+
+  which have the given number of members. This renders the obvious
+
+  definition of 0 erroneous; for every type of range will have its own null-
+
+  range, which will be a member of 0 considered as a range of ranges, so
+
+that we cannot say that 0 is the range whose only member is the null-
+
+  range. Also numbers require a consideration of the totality of types and
+
+  ranges; and in this consideration there may be difficulties.
+
+  Since all ranges have numbers, ranges are a range; consequently xεx is
+
+sometimes significant, and in these cases its denial is also significant.
+
+Consequently there is a range w of ranges for which xεx is false: thus the
+
+Contradiction proves that this range w does not belong to the range of
+
+significance of xεx. We may observe that xεx can only be significant when x
+
+is of a type of infinite order, since, in xεu, u must always be of a type higher
+
+by one than x; but the range of all ranges is of course of a type of infinite
+
+order.
+
+  Since numbers are a type, the propositional function “x is not a u”, where u
+
+is a range of numbers, must mean “x is a number which is not a u”; unless,
+
+indeed, to escape this somewhat paradoxical result, we say that, although
+
+numbers are a type in regard to certain propositions, they are not a type in
+
+regard to such propositions as “u is contained in v” or “x is a u”. Such a view
+
+is perfectly tenable, though it leads to complications of which it is hard to see
+
+the end.
+
+That propositions are a type results from the fact—if it be a fact—that only
+
+propositions can significantly be said to be true or false. Certainly true
+
+propositions appear to form a type, since they alone are asserted (cf.
+
+Appendix A. § 479). But if so, the number of propositions is as great as that
+
+of all objects absolutely, since every object is identical with itself, and “x is
+
+identical with x” has a one-one relation to x. In this there are, however, twodifficulties. First, what we called the propositional concept appears to be
+
+always an individual; consequently there should be no more propositions than
+
+individuals. Secondly, if it is possible, as it seems to be, to form ranges of
+
+propositions, there must be more such ranges than there are propositions,
+
+although such ranges are only some among objects (cf. § 343). These two
+
+difficulties are very serious, and demand a full discussion.
+
+499. The first point may be illustrated by somewhat simpler ones. There
+
+are, we know, more classes than individuals; but predicates are
+
+  individuals. Consequently not all classes have defining predicates. This
+
+  result, which is also deducible from the Contradiction, shows how
+
+  necessary it is to distinguish classes from predicates, and to adhere to the
+
+  extensional view of classes. Similarly there are more ranges of couples
+
+than there are couples, and therefore more than there are individuals; but
+
+  verbs, which express relations intensionally, are individuals.
+
+  Consequently not every range of couples forms the extension of some
+
+verb, although every such range forms the extension of some
+
+  propositional function containing two variables. Although, therefore,
+
+  verbs are essential in the logical genesis of such propositional functions,
+
+the intensional standpoint is inadequate to give all the objects which
+
+  Symbolic Logic regards as relations.
+
+In the case of propositions, it seems as though there were always an
+
+associated verbal noun which is an individual. We have “x is identical with x”
+
+and “the self-identity of x”, “x differs from y” and “the difference of x and y”;
+
+and so on. The verbal noun, which is what we called the propositional
+
+concept, appears on inspection to be an individual; but this is impossible, for
+
+“the self-identity of x” has as many values as there are objects, and therefore
+
+more values than there are individuals. This results from the fact that there
+
+are propositions concerning every conceivable object, and the definition of
+
+identity shows (§ 26) that every object concerning which there are
+
+propositions, is identical with itself. The only method of evading this
+
+difficulty is to deny that propositional concepts are individuals; and this
+
+seems to be the course to which we are driven. It is undeniable, however, that
+
+a propositional concept and a colour are two objects; hence we shall have to
+
+admit that it is possible to form mixed ranges, whose members are not all of
+
+the same type, but such ranges will be always of a different type from what
+
+we may call pure ranges, i.e. such as have only members of one type. The
+
+propositional concept seems, in fact, to be nothing other than the propositionitself, the difference being merely the psychological one that we do not assert
+
+the proposition in the one case, and do assert it in the other.
+
+500. The second point presents greater difficulties. We cannot deny that
+
+there are ranges of propositions, for we often wish to assert the logical
+
+  product of such ranges; yet we cannot admit that there are more ranges
+
+than propositions. At first sight, the difficulty might be thought to be
+
+  solved by the fact that there is a proposition associated with every range
+
+of propositions which is not null, namely the logical product of the
+
+  propositions of the range;* but this does not destroy Cantor’s proof that a
+
+  range has more subranges than members. Let us apply the proof by
+
+  assuming a particular one-one relation, which associates every
+
+  proposition p which is not a logical product with the range whose only
+
+  member is p, while it associates the product of all propositions with the
+
+  null-range of propositions, and associates every other logical product of
+
+  propositions with the range of its own factors. Then the range w which,
+
+by the general principle of Cantor’s proof, is not correlated with any
+
+  proposition, is the range of propositions which are logical products, but
+
+are not themselves factors of themselves. But, by the definition of the
+
+  correlating relation, w ought to be correlated with the logical product of
+
+w. It will be found that the old contradiction breaks out afresh; for we can
+
+  prove that the logical product of w both is and is not a member of w. This
+
+  seems to show that there is no such range as w; but the doctrine of types
+
+does not show why there is no such range. It seems to follow that the
+
+  Contradiction requires further subtleties for its solution; but what these
+
+are, I am at a loss to imagine. Let us state this new contradiction more
+
+fully. If m be a class of propositions, the proposition “every m is true”
+
+may or may not be itself an m. But there is a one-one relation of this
+
+  proposition to m: if n be different from m, “every n is true” is not the
+
+  same proposition as “every m is true”. Consider now the whole class of
+
+  propositions of the form “every m is true”, and having the property of not
+
+  being members of their respective m’s. Let this class be w, and let p be
+
+the proposition “every w is true”. If p is a w, it must possess the defining
+
+  property of w; but this property demands that p should not be a w. On the
+
+  other hand, if p be not a w, then p does possess the defining property of
+
+w, and therefore is a w. Thus the contradiction appears unavoidable.
+
+In order to deal with this contradiction, it is desirable to reopen the
+
+question of the identity of equivalent propositional functions and of thenature of the logical product of two propositions. These questions arise as
+
+follows. If m be a class of propositions, their logical product is the
+
+proposition “every m is true”, which I shall denote by ^ ‘m. If we now
+
+consider the logical product of the class of propositions composed of m
+
+together with ^ ‘m, this is equivalent to “Every m is true and every m is true,”
+
+i.e. to “every m is true” i.e. to ^ ‘m. Thus the logical product of the new class
+
+of propositions is equivalent to a member of the new class, which is the same
+
+as the logical product of m. Thus if we identify equivalent propositional
+
+functions (^ ‘m being a propositional function of m), the proof of the above
+
+contradiction fails, since every proposition of the form ^ ‘m is the logical
+
+product both of a class of which it is a member and of a class of which it is
+
+not a member.
+
+But such an escape is, in reality, impracticable, for it is quite self-evident
+
+that equivalent propositional functions are often not identical. Who will
+
+maintain, for example, that “x is an even prime other than 2” is identical with
+
+“x is one of Charles II’s wise deeds or foolish sayings”? Yet these are
+
+equivalent, if a well-known epitaph is to be credited. The logical product of
+
+all the propositions of the class composed of m and ^ “m is “Every
+
+proposition which either is an m or asserts that every m is true, is true”; and
+
+this is not identical with “every m is true”, although the two are equivalent.
+
+Thus there seems no simple method of avoiding the contradiction in question.
+
+The close analogy of this contradiction with the one discussed in Chapter
+
+10 strongly suggests that the two must have the same solution, or at least very
+
+similar solutions. It is possible, of course, to hold that propositions
+
+themselves are of various types, and that logical products must have
+
+propositions of only one type as factors. But this suggestion seems harsh and
+
+highly artificial.
+
+To sum up: it appears that the special contradiction of Chapter 10 is solved
+
+by the doctrine of types, but that there is at least one closely analogous
+
+contradiction which is probably not soluble by this doctrine. The totality of
+
+all logical objects, or of all propositions, involves, it would seem, a
+
+fundamental logical difficulty. What the complete solution of the difficulty
+
+may be, I have not succeeded in discovering; but as it affects the very
+
+foundations of reasoning, I earnestly commend the study of it to the attention
+
+of all students of logic.
+
+
+* Cf. § 203.* It might be doubted whether the relation of ranges of propositions to their
+
+logical products is one-one or many-one. For example, does the logical
+
+product of p and q and r differ from that of pq and r? A reference to the
+
+definition of the logical product (p. 21) will set this doubt at rest; for the two
+
+logical products in question, though equivalent, are by no means identical.
+
+Consequently there is a one-one relation of all ranges of propositions to some
+
+propositions, which is directly contradictory to Cantor’s theorem.

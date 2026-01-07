@@ -1,0 +1,195 @@
+KUCZYNSKI: ANALYTIC PHILOSOPHY CHAPTER 4 - POSITION STATEMENTS
+
+=== MEANING AND LANGUAGE FUNDAMENTALS ===
+
+1. The concept of language is fundamentally tied to the concept of meaning.
+2. Understanding the nature of language requires distinguishing between different types of meaning.
+3. Linguistic expressions are inherently meaningful.
+4. Nothing meaningless is an expression.
+5. There would be no languages if there were no expressions.
+6. The word 'meaning' has three distinct meanings: evidential, psychological, and linguistic.
+7. Only one meaning of 'meaning' directly relates to the nature of language.
+8. Linguistic meaning is distinct and foundational.
+9. What might seem meaningless can be interpreted as either false or vacuously true.
+10. Chomsky's "colorless green dreams sleep furiously" is not genuinely meaningless.
+
+=== EVIDENTIAL MEANING ===
+
+11. Evidential meaning involves causal relations between phenomena.
+12. To say x 'means' y evidentially is to say x is evidence of y.
+13. Smoke meaning fire is an example of evidential meaning.
+14. Evidential meaning involves reasonable inference from cause to effect.
+15. Evidential meaning is not the primary sense relevant to language.
+
+=== PSYCHOLOGICAL MEANING ===
+
+16. Psychological meaning is what speakers intend to convey.
+17. Meaning in the psychological sense is tied to intentions.
+18. When we use sentences, we mean things by them in the psychological sense.
+19. Psychological meaning involves speaker intentions.
+20. Psychological meaning presupposes linguistic meaning.
+21. My meaning something is parasitic on my utterance's meaning.
+22. Speakers' intentions rely on pre-existing meanings of sentences.
+23. Psychological meaning involves but does not coincide with linguistic meaning.
+24. Meaning in the psychological sense differs from linguistic meaning.
+25. Speaker meaning is dependent on conventional meaning.
+
+=== LINGUISTIC MEANING ===
+
+26. The sentence 'snow is white' means that snow is white linguistically.
+27. Linguistic meaning involves attributing properties to objects.
+28. Sentences say something about something.
+29. Linguistic meaning is a matter of convention.
+30. Linguistic meaning differs from natural signs like smoke and fire.
+31. The meaning of "snow is white" is determined by linguistic conventions.
+32. Linguistic meaning is not determined by direct causal relationships.
+33. Sentences can have determinate meanings independent of being uttered.
+34. The cube root example shows meaning exists without prior utterance.
+35. Linguistic meaning exists even for never-before-uttered sentences.
+
+=== SEMANTIC RULES ===
+
+36. Languages are sets of semantic rules.
+37. Semantic rules systematically pair sentences with meanings.
+38. Semantic rules assign meanings to properties of physical objects.
+39. Semantic rules do not assign meanings to expressions directly.
+40. Expression-types are properties, not particulars.
+41. Expression-tokens are instances of properties.
+42. Types and tokens serve different semantic functions.
+43. Semantic rules assign meanings to properties rather than to expressions themselves.
+44. The function-theoretic view of semantic rules is problematic.
+45. Semantic rules exist independently of the expressions they assign meanings to.
+
+=== TYPES AND TOKENS ===
+
+46. Expression-types are properties that can be instantiated.
+47. Expression-tokens are particular instances of expression-types.
+48. Types are properties; tokens are particulars.
+49. Tokens bear truth values; types do not.
+50. No sentence-type containing a context-sensitive component is true or false.
+51. It is tokens that make statements; types do not.
+52. Expression-types cannot refer to specific objects.
+53. Types and tokens have profoundly different metaphysical natures.
+54. A two-dimensional approach to semantics is necessary.
+55. The same type can have tokens with different meanings in different contexts.
+
+=== CONTEXT-SENSITIVITY ===
+
+56. Context-sensitive expressions are central to language.
+57. Indexicals are expressions whose reference depends on context.
+58. Demonstratives are indexicals requiring demonstration.
+59. "I," "now," "here," and "today" are indexicals.
+60. Indexicals have a two-dimensional semantic structure.
+61. The meaning of a token is the referent it picks out.
+62. The meaning of a type is the rule assigning referents to tokens.
+63. What a token of 'I am tired now' affirms depends on context.
+64. Semantic rules assign propositions based on context of utterance.
+65. Context-sensitive sentences are not ambiguous despite varying meanings.
+
+=== DEFINITE DESCRIPTIONS ===
+
+66. Definite descriptions also have a two-dimensional semantic structure.
+67. Definite descriptions are context-sensitive.
+68. Some definite descriptions appear to be 'incomplete.'
+69. Incomplete definite descriptions fail to pick out a single object.
+70. Context enriches the mediating concept to enable reference.
+71. Definite descriptions pick out objects via mediating concepts.
+72. The enrichment of definite descriptions is context-dependent.
+
+=== INDEXICALS AND PERSPECTIVAL INFORMATION ===
+
+73. Indexical-free languages are expressively impoverished.
+74. Much information is perspectival.
+75. Nothing perspectival can be stated without indexicals.
+76. Indexicals are necessary for expressing perspectival thoughts.
+77. Believing it's 60° in Richmond on Feb. 07 differs from thinking it's now 60°.
+78. The same literal content can be grasped differently from different perspectives.
+79. Perspectival information embodies the speaker's viewpoint.
+80. Context-sensitivity is essential for capturing nuanced beliefs.
+
+=== DEGREE PROPERTIES ===
+
+81. Degree properties like "smart" are contextually relative.
+82. The same word can have different meanings in different contexts.
+83. Words like "smart" are not ambiguous in the ordinary sense.
+84. Degree properties are implicitly relational.
+85. Degree properties are understood relative to contextually determined benchmarks.
+86. Fido being "smart" for a dog differs from Timmy being "smart" for a child.
+87. The benchmark for degree properties is context-dependent.
+88. Contextual relativity differs from ambiguity.
+
+=== PRE-SEMANTIC VS SEMANTIC ===
+
+89. The literal meaning of utterances can be obscured by pre-semantic information.
+90. Professional semanticists uncover true literal meanings.
+91. The same literal meaning can be affirmed without the speaker realizing it.
+92. Different perceptual descriptions can lead to different grasps of the same meaning.
+93. Pre-semantic factors influence how meaning is processed.
+94. Semantic meaning is distinct from perceptual or pragmatic enrichment.
+95. Uncovering literal meanings requires distinguishing semantic from pre-semantic factors.
+
+=== LOGICAL FORM VS GRAMMATICAL FORM ===
+
+96. A statement's grammatical form may diverge from its logical form.
+97. Logical form reveals the true underlying structure.
+98. Grammatical form is the surface structure of sentences.
+99. "Whales are mammals" has a logical form different from its grammatical form.
+100. Quantified sentences are pseudo-objectual statements.
+101. Quantified sentences appear to be about objects but are about properties.
+102. "Someone snores" is really about the property of snoring being instantiated.
+103. Frege's insight that grammatical and logical form diverge revolutionized logic.
+104. Understanding logical form is essential for understanding meaning.
+
+=== DEFINITIONS ===
+
+105. Contextual definitions explain how expressions affect sentence meaning.
+106. Denotative definitions specify what expressions denote.
+107. All definitions are ultimately contextual.
+108. To define an expression is to show how it affects sentence meaning.
+109. Reference to an object affects a sentence's truth-conditions.
+110. Definitions relate expressions to their semantic contributions.
+
+=== PROPER NAMES ===
+
+111. Proper names have semantic rules that differ from indexicals.
+112. Proper names differ semantically from definite descriptions.
+113. The semantic rule for "Bill Clinton" is different from rules for indexicals.
+114. Proper names refer to objects across contexts.
+115. The reference of a proper name is not context-relative in the way indexicals are.
+
+=== FREGE'S CONTRIBUTION ===
+
+116. Frege generalized the concept of a mathematical function.
+117. Frege's function concept enabled the revolution in logic.
+118. The function concept revealed divergence between grammatical and logical form.
+119. Frege distinguished between sense and reference.
+120. Frege's work is foundational to modern semantics.
+121. Understanding functions is essential to understanding logical form.
+
+=== EXPRESSIONS AND ANIMATE BEINGS ===
+
+122. Expressions require animate beings to exist.
+123. In a world without animate beings, there would be no expressions.
+124. Semantic rules involve the activity of animate beings.
+125. Language use involves judgments about the world.
+126. Utterances involve normative dimensions.
+127. Language is fundamentally social and conventional.
+
+=== MEANINGLESS EXPRESSIONS ===
+
+128. The notion of meaningless expressions is problematic.
+129. What are called meaningless are often non-expressions.
+130. Absurd but meaningful sentences differ from meaningless strings.
+131. Homonyms used in unconventional contexts may seem meaningless.
+132. All genuine expressions have some form of meaning.
+133. The appearance of meaninglessness often reflects confusion.
+
+=== ANALYTIC TRADITION ===
+
+134. Analytic philosophy emphasizes clarity and precision.
+135. Rigorous analysis of meaning is central to analytic philosophy.
+136. Logical argumentation supports philosophical claims.
+137. Conceptual analysis distinguishes related concepts.
+138. The philosophy of language is a core analytic discipline.
+139. Precise definitions advance philosophical understanding.
+140. Distinguishing types of meaning is methodologically essential.

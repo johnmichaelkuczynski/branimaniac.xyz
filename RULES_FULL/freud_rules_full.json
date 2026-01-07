@@ -1,0 +1,4442 @@
+[
+  {
+    "id": 7792,
+    "topic": "Core Metapsychological Positions",
+    "premise": "pleasure|principle|dominant|regulatory|governing|mental",
+    "conclusion": "The pleasure principle is the dominant regulatory principle governing mental life, operating automatically to keep excitation low or constant"
+  },
+  {
+    "id": 7793,
+    "topic": "Core Metapsychological Positions",
+    "premise": "unpleasure|corresponds|increases|quantity|psychical|excitation",
+    "conclusion": "Unpleasure corresponds to increases in the quantity of psychical excitation; pleasure corresponds to decreases"
+  },
+  {
+    "id": 7794,
+    "topic": "Core Metapsychological Positions",
+    "premise": "reality|principle|modifies|replace|pleasure|merely",
+    "conclusion": "The reality principle modifies but does not replace the pleasure principle - it merely postpones satisfaction and tolerates temporary unpleasure"
+  },
+  {
+    "id": 7795,
+    "topic": "Core Metapsychological Positions",
+    "premise": "economic|viewpoint|holds|mental|processes|involve",
+    "conclusion": "The economic viewpoint holds that mental processes involve quantities of excitation subject to increase, decrease, and discharge"
+  },
+  {
+    "id": 7796,
+    "topic": "The Compulsion to Repeat",
+    "premise": "repetition|compulsion|wiederholungszwang|fundamental|psychological|phenomenon",
+    "conclusion": "Repetition compulsion (Wiederholungszwang) is a fundamental psychological phenomenon that operates independently of the pleasure principle"
+  },
+  {
+    "id": 7797,
+    "topic": "The Compulsion to Repeat",
+    "premise": "traumatic|neuroses|demonstrate|psyche|compulsively|repeats",
+    "conclusion": "Traumatic neuroses demonstrate that the psyche compulsively repeats unpleasurable experiences, contradicting simple pleasure-seeking"
+  },
+  {
+    "id": 7798,
+    "topic": "The Compulsion to Repeat",
+    "premise": "children|play|fort|game|demonstrates|repetition",
+    "conclusion": "Children's play (the fort-da game) demonstrates that repetition serves mastery - the child actively reproduces unpleasurable experiences to gain control"
+  },
+  {
+    "id": 7799,
+    "topic": "The Compulsion to Repeat",
+    "premise": "transference|analysis|involves|patient|compulsion|repeat",
+    "conclusion": "Transference in analysis involves the patient's compulsion to repeat rather than remember repressed material"
+  },
+  {
+    "id": 7800,
+    "topic": "The Compulsion to Repeat",
+    "premise": "repetition|compulsion|primitive|pleasure|principle|override",
+    "conclusion": "Repetition compulsion is more primitive than the pleasure principle and can override it"
+  },
+  {
+    "id": 7801,
+    "topic": "The Compulsion to Repeat",
+    "premise": "people|exhibit|destiny|neurosis|compulsively|repeat",
+    "conclusion": "Some people exhibit \"destiny neurosis\" - they compulsively repeat the same self-defeating patterns as if pursued by fate, yet this is self-generated"
+  },
+  {
+    "id": 7802,
+    "topic": "Trauma Theory",
+    "premise": "stimulus|barrier|reizschutz|protective|shield|against",
+    "conclusion": "The stimulus barrier (Reizschutz) is a protective shield against excessive external excitation"
+  },
+  {
+    "id": 7803,
+    "topic": "Trauma Theory",
+    "premise": "trauma|constitutes|breach|stimulus|barrier|flooding",
+    "conclusion": "Trauma constitutes a breach of the stimulus barrier, flooding the psyche with unmanageable quantities of excitation"
+  },
+  {
+    "id": 7804,
+    "topic": "Trauma Theory",
+    "premise": "dreams|traumatic|neurosis|follow|wish|fulfillment",
+    "conclusion": "Dreams in traumatic neurosis do not follow wish-fulfillment; they repeat the traumatic situation, attempting belated mastery"
+  },
+  {
+    "id": 7805,
+    "topic": "Trauma Theory",
+    "premise": "binding|free|floating|excitation|preparatory|function",
+    "conclusion": "Binding of free-floating excitation is a preparatory function that must precede the dominance of the pleasure principle"
+  },
+  {
+    "id": 7806,
+    "topic": "Trauma Theory",
+    "premise": "fright|schreck|differs|anxiety|fear|results",
+    "conclusion": "Fright (Schreck) differs from anxiety and fear - it results from encountering danger without preparedness"
+  },
+  {
+    "id": 7807,
+    "topic": "Trauma Theory",
+    "premise": "anxiety|serves|protective|function|preparing|organism",
+    "conclusion": "Anxiety serves a protective function by preparing the organism for danger through anticipatory cathexis"
+  },
+  {
+    "id": 7808,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "instincts|fundamentally|conservative|seek|restore|earlier",
+    "conclusion": "All instincts are fundamentally conservative - they seek to restore an earlier state of things"
+  },
+  {
+    "id": 7809,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "death|drive|todestrieb|thanatos|instinct|toward",
+    "conclusion": "The death drive (Todestrieb/Thanatos) is an instinct toward the restoration of the inorganic state from which life emerged"
+  },
+  {
+    "id": 7810,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "goal|life|death|organism|strives|return",
+    "conclusion": "The goal of all life is death - the organism strives to return to the inanimate"
+  },
+  {
+    "id": 7811,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "organism|seeks|resists|external|threats|path",
+    "conclusion": "The organism seeks to die in its own way - it resists external threats because it has its own path back to the inorganic"
+  },
+  {
+    "id": 7812,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "life|instincts|eros|work|toward|combination",
+    "conclusion": "Life instincts (Eros) work toward combination, unification, and the preservation of life"
+  },
+  {
+    "id": 7813,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "fundamental|instinctual|dualism|life|drives|eros",
+    "conclusion": "The fundamental instinctual dualism is between life drives (Eros) and death drives (Thanatos), not between ego instincts and sexual instincts"
+  },
+  {
+    "id": 7814,
+    "topic": "Instinct Theory: Death Drive",
+    "premise": "nirvana|principle|describes|tendency|mental|apparatus",
+    "conclusion": "The Nirvana principle describes the tendency of the mental apparatus toward zero excitation or complete discharge"
+  },
+  {
+    "id": 7815,
+    "topic": "Sadism, Masochism, and Aggression",
+    "premise": "sadism|represents|death|instinct|directed|outward",
+    "conclusion": "Sadism represents the death instinct directed outward, deflected from the self onto external objects"
+  },
+  {
+    "id": 7816,
+    "topic": "Sadism, Masochism, and Aggression",
+    "premise": "primary|masochism|exists|death|instinct|originally",
+    "conclusion": "Primary masochism exists - the death instinct originally directed against the self, only secondarily turned outward as sadism"
+  },
+  {
+    "id": 7817,
+    "topic": "Sadism, Masochism, and Aggression",
+    "premise": "aggression|derivative|death|drive|externalized|placed",
+    "conclusion": "Aggression is a derivative of the death drive externalized and placed in service of Eros"
+  },
+  {
+    "id": 7818,
+    "topic": "Consciousness and Memory",
+    "premise": "consciousness|sense|organ|perception|psychical|qualities",
+    "conclusion": "Consciousness is a sense organ for the perception of psychical qualities, located at the surface of the mental apparatus"
+  },
+  {
+    "id": 7819,
+    "topic": "Consciousness and Memory",
+    "premise": "memory|traces|consciousness|mutually|exclusive|becoming",
+    "conclusion": "Memory traces and consciousness are mutually exclusive - becoming conscious and leaving a permanent memory trace are incompatible processes in the same system"
+  },
+  {
+    "id": 7820,
+    "topic": "Consciousness and Memory",
+    "premise": "perceptual|conscious|system|pcpt|receives|excitations",
+    "conclusion": "The perceptual-conscious system (Pcpt.-Cs.) receives excitations but does not retain permanent traces"
+  },
+  {
+    "id": 7821,
+    "topic": "Biological Speculations",
+    "premise": "life|emerged|inorganic|matter|action|external",
+    "conclusion": "Life emerged from inorganic matter through the action of external forces, and inherently tends to return to that state"
+  },
+  {
+    "id": 7822,
+    "topic": "Biological Speculations",
+    "premise": "germ|plasm|soma|distinction|weismann|supports",
+    "conclusion": "The germ-plasm/soma distinction (Weismann) supports the immortality of reproductive substance versus the mortality of the individual organism"
+  },
+  {
+    "id": 7823,
+    "topic": "Biological Speculations",
+    "premise": "sexual|reproduction|guarantee|immortality|unicellular|organisms",
+    "conclusion": "Sexual reproduction does not guarantee immortality - even unicellular organisms, despite dividing, eventually die if waste products accumulate"
+  },
+  {
+    "id": 7824,
+    "topic": "Biological Speculations",
+    "premise": "fusion|defusion|instincts|occur|life|death",
+    "conclusion": "Fusion and defusion of instincts occur - life and death drives combine in varying proportions and can separate pathologically"
+  },
+  {
+    "id": 7825,
+    "topic": "Revisions to Earlier Theory",
+    "premise": "earlier|opposition|instincts|sexual|provisional|formulation",
+    "conclusion": "The earlier opposition between ego-instincts and sexual instincts was a provisional formulation now superseded by the Eros/Thanatos dualism"
+  },
+  {
+    "id": 7826,
+    "topic": "Revisions to Earlier Theory",
+    "premise": "narcissism|complicates|instinct|classification|cathected|libido",
+    "conclusion": "Narcissism complicates instinct classification - the ego itself is cathected with libido, blurring the ego-instinct/sexual-instinct distinction"
+  },
+  {
+    "id": 7827,
+    "topic": "Revisions to Earlier Theory",
+    "premise": "contains|life|death|instinctual|components|purely",
+    "conclusion": "The ego contains both life and death instinctual components - it is not purely self-preservative"
+  },
+  {
+    "id": 7828,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "inhibition|expression|restriction|function|necessarily|pathological",
+    "conclusion": "An inhibition is the expression of a restriction of an ego-function, not necessarily pathological"
+  },
+  {
+    "id": 7829,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "symptom|substitute|unachieved|instinctual|gratification|indicates",
+    "conclusion": "A symptom is a substitute for an unachieved instinctual gratification and indicates pathology requiring treatment"
+  },
+  {
+    "id": 7830,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "inhibitions|differ|symptoms|relate|specifically|function",
+    "conclusion": "Inhibitions differ from symptoms in that inhibitions relate specifically to function while symptoms represent compromise formations between the ego and the id"
+  },
+  {
+    "id": 7831,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "actual|site|anxiety",
+    "conclusion": "The ego is the actual site of anxiety"
+  },
+  {
+    "id": 7832,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "anxiety|causes|repression|around",
+    "conclusion": "Anxiety causes repression, not the other way around"
+  },
+  {
+    "id": 7833,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "produces|anxiety|signal|mobilize|defense|mechanisms",
+    "conclusion": "The ego produces anxiety as a signal to mobilize defense mechanisms against perceived danger"
+  },
+  {
+    "id": 7834,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "signal|anxiety|anticipatory|adaptive|serving|warn",
+    "conclusion": "Signal anxiety is anticipatory and adaptive, serving to warn the ego of impending danger"
+  },
+  {
+    "id": 7835,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "automatic|anxiety|occurs|overwhelmed|cannot|employ",
+    "conclusion": "Automatic anxiety occurs when the ego is overwhelmed and cannot employ signal anxiety effectively"
+  },
+  {
+    "id": 7836,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "castration|anxiety|central|danger|situation|male",
+    "conclusion": "Castration anxiety is the central danger situation in the male psyche and the motive force behind repression"
+  },
+  {
+    "id": 7837,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "fear|castration|boys|parallels|loss|love",
+    "conclusion": "The fear of castration in boys parallels the fear of loss of love in girls"
+  },
+  {
+    "id": 7838,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "prolonged|helplessness|hilflosigkeit|human|infant|biological",
+    "conclusion": "The prolonged helplessness (Hilflosigkeit) of the human infant is a biological factor predisposing humans to neurosis"
+  },
+  {
+    "id": 7839,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "birth|provides|physiological|prototype|later|anxiety",
+    "conclusion": "Birth provides a physiological prototype for later anxiety experiences but is not the direct cause of all neurosis"
+  },
+  {
+    "id": 7840,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "otto|rank|theory|birth|trauma|paradigmatic",
+    "conclusion": "Otto Rank's theory that birth trauma is the paradigmatic key to understanding all neurosis is rejected"
+  },
+  {
+    "id": 7841,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "fetus|lacks|sufficient|awareness|birth|experience",
+    "conclusion": "The fetus lacks sufficient awareness during birth to experience psychological trauma in the full sense"
+  },
+  {
+    "id": 7842,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "anxiety|evolves|developmental|stages|fear|object",
+    "conclusion": "Anxiety evolves through developmental stages: fear of object loss, fear of loss of love, castration anxiety, and superego anxiety"
+  },
+  {
+    "id": 7843,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "separation|anxiety|mother|represents|early|danger",
+    "conclusion": "Separation anxiety from the mother represents an early danger situation that shapes later anxiety responses"
+  },
+  {
+    "id": 7844,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "superego|source|anxiety|demands|threats|punishment",
+    "conclusion": "The superego can be a source of anxiety through its demands and threats of punishment"
+  },
+  {
+    "id": 7845,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "symptoms|formed|compromises|instinctual|wishes|defensive",
+    "conclusion": "Symptoms are formed as compromises between instinctual wishes and the ego's defensive operations"
+  },
+  {
+    "id": 7846,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "phobias|involve|displacement|anxiety|onto|external",
+    "conclusion": "Phobias involve displacement of anxiety onto an external substitute object"
+  },
+  {
+    "id": 7847,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "little|hans|case|horse|phobia|represented",
+    "conclusion": "In Little Hans's case, the horse phobia represented a displacement of castration anxiety related to the father"
+  },
+  {
+    "id": 7848,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "obsessional|neurosis|employs|specific|defense|mechanisms",
+    "conclusion": "Obsessional neurosis employs specific defense mechanisms: isolation and undoing (retroactive annulment)"
+  },
+  {
+    "id": 7849,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "isolation|involves|detaching|idea|emotional|affect",
+    "conclusion": "Isolation involves detaching an idea from its emotional affect, leaving the idea conscious but emotionally flat"
+  },
+  {
+    "id": 7850,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "undoing|negative|magic|attempts|make|something",
+    "conclusion": "Undoing is a negative magic that attempts to make something that has happened un-happen through symbolic motor action"
+  },
+  {
+    "id": 7851,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "taboo|against|touching|obsessional|neurosis|reflects",
+    "conclusion": "The taboo against touching in obsessional neurosis reflects the fear that contact will expose unbound ambivalence between love and hate"
+  },
+  {
+    "id": 7852,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "regression|anal|sadistic|stage|characteristic|obsessional",
+    "conclusion": "Regression to the anal-sadistic stage is characteristic of obsessional neurosis"
+  },
+  {
+    "id": 7853,
+    "topic": "Inhibitions, Symptoms and Anxiety",
+    "premise": "ambivalence|love|hate|fundamental|feature|obsessional",
+    "conclusion": "Ambivalence between love and hate is a fundamental feature of obsessional neurosis"
+  },
+  {
+    "id": 7854,
+    "topic": "Totem and Taboo",
+    "premise": "psychology|primitive|peoples|provides|insight|early",
+    "conclusion": "The psychology of primitive peoples provides insight into early stages of human mental development that persist unconsciously in civilized humans"
+  },
+  {
+    "id": 7855,
+    "topic": "Totem and Taboo",
+    "premise": "taboo|represents|ambivalent|attitude|prohibited|object",
+    "conclusion": "Taboo represents an ambivalent attitude: the prohibited object is simultaneously desired and feared"
+  },
+  {
+    "id": 7856,
+    "topic": "Totem and Taboo",
+    "premise": "totem|animal|functions|symbolic|substitute|father",
+    "conclusion": "The totem animal functions as a symbolic substitute for the father figure in the psychic economy of primitive peoples"
+  },
+  {
+    "id": 7857,
+    "topic": "Totem and Taboo",
+    "premise": "totemism|constitutes|earliest|form|religion|foundation",
+    "conclusion": "Totemism constitutes the earliest form of religion and the foundation upon which all subsequent religious development rests"
+  },
+  {
+    "id": 7858,
+    "topic": "Totem and Taboo",
+    "premise": "exogamy|rules|derive|incest|prohibitions|represent",
+    "conclusion": "Exogamy rules derive from incest prohibitions, which represent the most fundamental and universal of all taboos"
+  },
+  {
+    "id": 7859,
+    "topic": "Totem and Taboo",
+    "premise": "horror|incest|instinctive|rather|represents|internalization",
+    "conclusion": "The horror of incest is not instinctive but rather represents the internalization of social prohibitions against primary desires"
+  },
+  {
+    "id": 7860,
+    "topic": "Totem and Taboo",
+    "premise": "taboo|restrictions|operate|unconscious|mechanisms|identical",
+    "conclusion": "Taboo restrictions operate through unconscious mechanisms identical to those observable in obsessional neurosis"
+  },
+  {
+    "id": 7861,
+    "topic": "Totem and Taboo",
+    "premise": "ambivalence|coexistence|love|hate|toward|object",
+    "conclusion": "Ambivalence\u2014the coexistence of love and hate toward the same object\u2014constitutes the emotional foundation of taboo"
+  },
+  {
+    "id": 7862,
+    "topic": "Totem and Taboo",
+    "premise": "touching|taboo|originates|fear|contact|activate",
+    "conclusion": "The touching taboo originates from the fear that contact will activate repressed desires for the forbidden object"
+  },
+  {
+    "id": 7863,
+    "topic": "Totem and Taboo",
+    "premise": "taboo|violation|requires|ceremonial|atonement|transgressor",
+    "conclusion": "Taboo violation requires ceremonial atonement because the transgressor has actualized wishes latent in all members of the community"
+  },
+  {
+    "id": 7864,
+    "topic": "Totem and Taboo",
+    "premise": "contagious|quality|attributed|taboo|persons|reflects",
+    "conclusion": "The contagious quality attributed to taboo persons reflects projected unconscious desires that threaten to spread through identification"
+  },
+  {
+    "id": 7865,
+    "topic": "Totem and Taboo",
+    "premise": "primitive|peoples|project|psychological|processes|onto",
+    "conclusion": "Primitive peoples project their own psychological processes onto external reality, treating the world animistically"
+  },
+  {
+    "id": 7866,
+    "topic": "Totem and Taboo",
+    "premise": "animism|represents|first|comprehensive|worldview|preceding",
+    "conclusion": "Animism represents the first comprehensive worldview, preceding religion and science in developmental sequence"
+  },
+  {
+    "id": 7867,
+    "topic": "Totem and Taboo",
+    "premise": "magic|operates|principle|omnipotence|thoughts|belief",
+    "conclusion": "Magic operates on the principle of omnipotence of thoughts\u2014the belief that mental processes can directly influence external reality"
+  },
+  {
+    "id": 7868,
+    "topic": "Totem and Taboo",
+    "premise": "narcissistic|overvaluation|psychical|acts|explains|primitive",
+    "conclusion": "The narcissistic overvaluation of psychical acts explains primitive belief in sorcery and magical efficacy"
+  },
+  {
+    "id": 7869,
+    "topic": "Totem and Taboo",
+    "premise": "civilization|requires|progressive|renunciation|omnipotence|thoughts",
+    "conclusion": "Civilization requires the progressive renunciation of the omnipotence of thoughts in favor of empirical reality-testing"
+  },
+  {
+    "id": 7870,
+    "topic": "Totem and Taboo",
+    "premise": "ambivalence|toward|dead|mourning|combined|hostility",
+    "conclusion": "The ambivalence toward the dead\u2014mourning combined with hostility\u2014necessitates taboo restrictions on the bereaved"
+  },
+  {
+    "id": 7871,
+    "topic": "Totem and Taboo",
+    "premise": "fear|ghosts|demons|represents|projected|hostility",
+    "conclusion": "Fear of ghosts and demons represents projected hostility that the living unconsciously harbored toward the deceased"
+  },
+  {
+    "id": 7872,
+    "topic": "Totem and Taboo",
+    "premise": "taboo|names|dead|serves|prevent|contact",
+    "conclusion": "The taboo on names of the dead serves to prevent contact with projected hostile wishes now attributed to the departed"
+  },
+  {
+    "id": 7873,
+    "topic": "Totem and Taboo",
+    "premise": "ruler|taboo|status|reflects|position|target",
+    "conclusion": "The ruler's taboo status reflects his position as target of the community's ambivalent feelings toward authority"
+  },
+  {
+    "id": 7874,
+    "topic": "Totem and Taboo",
+    "premise": "primal|horde|dominated|violent|jealous|father",
+    "conclusion": "The primal horde was dominated by a violent, jealous father who kept all females for himself and expelled maturing sons"
+  },
+  {
+    "id": 7875,
+    "topic": "Totem and Taboo",
+    "premise": "expelled|brothers|united|kill|devour|father",
+    "conclusion": "The expelled brothers united to kill and devour the father, thereby ending the patriarchal horde system"
+  },
+  {
+    "id": 7876,
+    "topic": "Totem and Taboo",
+    "premise": "murdered|father|became|powerful|dead|alive",
+    "conclusion": "The murdered father became more powerful dead than alive through the deferred obedience of guilt-ridden sons"
+  },
+  {
+    "id": 7877,
+    "topic": "Totem and Taboo",
+    "premise": "totem|feast|simultaneously|commemorates|primal|crime",
+    "conclusion": "The totem feast simultaneously commemorates the primal crime and achieves identification with the father through incorporation"
+  },
+  {
+    "id": 7878,
+    "topic": "Totem and Taboo",
+    "premise": "subsequent|religions|represent|attempts|solve|problem",
+    "conclusion": "All subsequent religions represent attempts to solve the same problem: managing guilt over the primal patricide"
+  },
+  {
+    "id": 7879,
+    "topic": "Totem and Taboo",
+    "premise": "original|patricide|established|social|contract|renunciation",
+    "conclusion": "The original patricide established the social contract: renunciation of paternal privileges in exchange for fraternal solidarity"
+  },
+  {
+    "id": 7880,
+    "topic": "Totem and Taboo",
+    "premise": "religion|morality|society|trace|origins|oedipus",
+    "conclusion": "Religion, morality, and society all trace their origins to the Oedipus complex and the primal crime that established it phylogenetically"
+  },
+  {
+    "id": 7881,
+    "topic": "The Question of Lay Analysis",
+    "premise": "psychoanalysis|discipline|independent|medicine|physicians|legitimately",
+    "conclusion": "Psychoanalysis is a discipline independent of medicine, and non-physicians can legitimately practice it when properly trained"
+  },
+  {
+    "id": 7882,
+    "topic": "The Question of Lay Analysis",
+    "premise": "unconscious|proper|object|psychoanalytic|investigation|organic",
+    "conclusion": "The unconscious is the proper object of psychoanalytic investigation, not organic disease or physiological dysfunction"
+  },
+  {
+    "id": 7883,
+    "topic": "The Question of Lay Analysis",
+    "premise": "medical|training|provides|special|qualification|understanding",
+    "conclusion": "Medical training provides no special qualification for understanding or treating the unconscious processes that cause neurosis"
+  },
+  {
+    "id": 7884,
+    "topic": "The Question of Lay Analysis",
+    "premise": "restricting|psychoanalysis|physicians|impoverish|field|excluding",
+    "conclusion": "Restricting psychoanalysis to physicians would impoverish the field by excluding contributions from psychology, education, and the humanities"
+  },
+  {
+    "id": 7885,
+    "topic": "The Question of Lay Analysis",
+    "premise": "analyst|essential|qualification|understanding|unconscious|acquired",
+    "conclusion": "The analyst's essential qualification is understanding of the unconscious, which is acquired through personal analysis and supervised training, not medical school"
+  },
+  {
+    "id": 7886,
+    "topic": "The Question of Lay Analysis",
+    "premise": "neurotic|symptoms|meaningful|represent|disguised|expressions",
+    "conclusion": "Neurotic symptoms are meaningful: they represent disguised expressions of unconscious wishes and conflicts"
+  },
+  {
+    "id": 7927,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "dreams|represent|fulfillment|wishes|including|consciousness",
+    "conclusion": "Dreams represent the fulfillment of wishes, including wishes that consciousness finds objectionable"
+  },
+  {
+    "id": 7887,
+    "topic": "The Question of Lay Analysis",
+    "premise": "distinction|psychoanalysis|suggestion|fundamental|analysis|seeks",
+    "conclusion": "The distinction between psychoanalysis and suggestion is fundamental: analysis seeks to uncover causes, not impose influence"
+  },
+  {
+    "id": 7888,
+    "topic": "The Question of Lay Analysis",
+    "premise": "resistance|patient|unconscious|opposition|becoming|aware",
+    "conclusion": "Resistance is the patient's unconscious opposition to becoming aware of repressed material during treatment"
+  },
+  {
+    "id": 7889,
+    "topic": "The Question of Lay Analysis",
+    "premise": "repression|mechanism|unacceptable|mental|contents|excluded",
+    "conclusion": "Repression is the mechanism by which unacceptable mental contents are excluded from consciousness while remaining dynamically active"
+  },
+  {
+    "id": 7890,
+    "topic": "The Question of Lay Analysis",
+    "premise": "unconscious|operates|according|different|principles|conscious",
+    "conclusion": "The unconscious operates according to different principles than conscious thought: timelessness, exemption from contradiction, and primary process"
+  },
+  {
+    "id": 7891,
+    "topic": "The Question of Lay Analysis",
+    "premise": "transference|patient|displacement|onto|analyst|feelings",
+    "conclusion": "Transference is the patient's displacement onto the analyst of feelings and attitudes originally directed toward significant figures from the past"
+  },
+  {
+    "id": 7892,
+    "topic": "The Question of Lay Analysis",
+    "premise": "transference|provides|greatest|obstacle|powerful|instrument",
+    "conclusion": "Transference provides both the greatest obstacle to and the most powerful instrument of analytic treatment"
+  },
+  {
+    "id": 7893,
+    "topic": "The Question of Lay Analysis",
+    "premise": "free|association|reporting|whatever|comes|mind",
+    "conclusion": "Free association\u2014reporting whatever comes to mind without censorship\u2014is the fundamental method of psychoanalytic investigation"
+  },
+  {
+    "id": 7894,
+    "topic": "The Question of Lay Analysis",
+    "premise": "rule|abstinence|requires|analyst|gratify|patient",
+    "conclusion": "The rule of abstinence requires that the analyst not gratify the patient's transference wishes, thereby maintaining therapeutic tension"
+  },
+  {
+    "id": 7895,
+    "topic": "The Question of Lay Analysis",
+    "premise": "dreams|royal|road|unconscious|providing|privileged",
+    "conclusion": "Dreams are the \"royal road to the unconscious,\" providing privileged access to repressed mental content"
+  },
+  {
+    "id": 7896,
+    "topic": "The Question of Lay Analysis",
+    "premise": "sexuality|psychoanalysis|extends|beyond|genital|activity",
+    "conclusion": "Sexuality in psychoanalysis extends far beyond genital activity to include all pleasure-seeking bodily activities from infancy onward"
+  },
+  {
+    "id": 7897,
+    "topic": "The Question of Lay Analysis",
+    "premise": "infantile|sexuality|develops|oral|anal|phallic",
+    "conclusion": "Infantile sexuality develops through oral, anal, and phallic stages before reaching genital organization at puberty"
+  },
+  {
+    "id": 7898,
+    "topic": "The Question of Lay Analysis",
+    "premise": "oedipus|complex|child|erotic|attachment|opposite",
+    "conclusion": "The Oedipus complex\u2014the child's erotic attachment to the opposite-sex parent and rivalry with the same-sex parent\u2014is universal and foundational"
+  },
+  {
+    "id": 7899,
+    "topic": "The Question of Lay Analysis",
+    "premise": "resolution|oedipus|complex|identification|renunciation|essential",
+    "conclusion": "Resolution of the Oedipus complex through identification and renunciation is essential for healthy psychological development"
+  },
+  {
+    "id": 7900,
+    "topic": "The Question of Lay Analysis",
+    "premise": "fixation|earlier|libidinal|stages|predisposes|specific",
+    "conclusion": "Fixation at earlier libidinal stages predisposes to specific forms of neurotic illness in later life"
+  },
+  {
+    "id": 7901,
+    "topic": "The Question of Lay Analysis",
+    "premise": "mind|divided|three|agencies|instinctual|drives",
+    "conclusion": "The mind is divided into three agencies: id (instinctual drives), ego (reality-oriented organization), and superego (internalized prohibitions)"
+  },
+  {
+    "id": 7902,
+    "topic": "The Question of Lay Analysis",
+    "premise": "operates|entirely|unconsciously|according|pleasure|principle",
+    "conclusion": "The id operates entirely unconsciously according to the pleasure principle, seeking immediate gratification without regard for reality"
+  },
+  {
+    "id": 7903,
+    "topic": "The Question of Lay Analysis",
+    "premise": "develops|contact|external|reality|operates|according",
+    "conclusion": "The ego develops from the id through contact with external reality and operates according to the reality principle"
+  },
+  {
+    "id": 7904,
+    "topic": "The Question of Lay Analysis",
+    "premise": "superego|represents|internalized|parental|authority|cultural",
+    "conclusion": "The superego represents internalized parental authority and cultural prohibitions, functioning as conscience and ego-ideal"
+  },
+  {
+    "id": 7905,
+    "topic": "The Question of Lay Analysis",
+    "premise": "neurotic|conflict|occurs|reality|demands|instinctual",
+    "conclusion": "Neurotic conflict occurs between the ego's reality demands and the id's instinctual pressures, mediated by superego prohibitions"
+  },
+  {
+    "id": 7906,
+    "topic": "The Question of Lay Analysis",
+    "premise": "employs|defense|mechanisms|manage|anxiety|arising",
+    "conclusion": "The ego employs defense mechanisms to manage anxiety arising from instinctual demands, reality threats, and superego criticism"
+  },
+  {
+    "id": 7907,
+    "topic": "The Question of Lay Analysis",
+    "premise": "symptom|formation|represents|compromise|repressed|wishes",
+    "conclusion": "Symptom formation represents a compromise between repressed wishes and repressing forces, satisfying both partially"
+  },
+  {
+    "id": 7908,
+    "topic": "The Question of Lay Analysis",
+    "premise": "psychoanalytic|cure|proceeds|making|unconscious|conscious",
+    "conclusion": "Psychoanalytic cure proceeds through making the unconscious conscious, thereby expanding ego control over previously repressed material"
+  },
+  {
+    "id": 7909,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "psychical|apparatus|divided|three|regions|superego",
+    "conclusion": "The psychical apparatus is divided into three regions: id, ego, and superego, each with distinct characteristics and functions"
+  },
+  {
+    "id": 7910,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "oldest|portion|mental|apparatus|containing|everything",
+    "conclusion": "The id is the oldest portion of the mental apparatus, containing everything inherited and constitutionally determined"
+  },
+  {
+    "id": 7911,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "contains|instincts|originate|somatic|organization|find",
+    "conclusion": "The id contains the instincts, which originate in somatic organization and find mental expression through the id"
+  },
+  {
+    "id": 7912,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "task|self|preservation|externally|perception|memory",
+    "conclusion": "The ego has the task of self-preservation: externally through perception, memory, and action; internally through controlling instinctual demands"
+  },
+  {
+    "id": 7913,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "superego|develops|prolonged|dependence|human|childhood",
+    "conclusion": "The superego develops from the prolonged dependence of human childhood and the Oedipus complex"
+  },
+  {
+    "id": 7914,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "superego|represents|internalized|parental|authority|cultural",
+    "conclusion": "The superego represents internalized parental authority, cultural traditions, and moral prohibitions"
+  },
+  {
+    "id": 7915,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "superego|functions|conscience|ideal|source|guilt",
+    "conclusion": "The superego functions as conscience, ego-ideal, and source of guilt feelings"
+  },
+  {
+    "id": 7916,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "instincts|ultimate|cause|activity|classified|types",
+    "conclusion": "Instincts are the ultimate cause of all activity and can be classified into two types: Eros (life instincts) and the death instinct"
+  },
+  {
+    "id": 7917,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "eros|seeks|establish|maintain|ever|greater",
+    "conclusion": "Eros seeks to establish and maintain ever greater unities, binding together organic substance"
+  },
+  {
+    "id": 7918,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "death|instinct|seeks|dissolve|connections|return",
+    "conclusion": "The death instinct seeks to dissolve connections and return living matter to its original inorganic state"
+  },
+  {
+    "id": 7919,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "libido|energy|eros|available|cathecting|objects",
+    "conclusion": "Libido is the energy of Eros, available to the ego for cathecting objects and for sublimated activities"
+  },
+  {
+    "id": 7920,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "aggression|derivative|death|instinct|directed|outward",
+    "conclusion": "Aggression is the derivative of the death instinct directed outward, though it can also be turned against the self"
+  },
+  {
+    "id": 7921,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "fundamental|instincts|fuse|defuse|combine|various",
+    "conclusion": "The two fundamental instincts may fuse, defuse, and combine in various proportions throughout mental life"
+  },
+  {
+    "id": 7922,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "libidinal|development|proceeds|oral|anal|phallic",
+    "conclusion": "Libidinal development proceeds through oral, anal, and phallic phases before reaching genital organization"
+  },
+  {
+    "id": 7923,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "object|choice|identification|modes|establishes|relations",
+    "conclusion": "Object-choice and identification are the two modes by which the ego establishes relations with objects"
+  },
+  {
+    "id": 7924,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "oedipus|complex|involves|child|sexual|wishes",
+    "conclusion": "The Oedipus complex involves the child's sexual wishes toward the opposite-sex parent and hostile wishes toward the same-sex parent"
+  },
+  {
+    "id": 7925,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "destruction|oedipus|complex|occurs|castration|anxiety",
+    "conclusion": "The destruction of the Oedipus complex occurs through castration anxiety (in boys) or penis envy and its transformations (in girls)"
+  },
+  {
+    "id": 7926,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "identification|parent|resolves|oedipus|complex|forms",
+    "conclusion": "Identification with the same-sex parent resolves the Oedipus complex and forms the nucleus of the superego"
+  },
+  {
+    "id": 7928,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "manifest|dream|product|work|transforming|latent",
+    "conclusion": "The manifest dream is the product of dream-work transforming latent dream-thoughts through condensation, displacement, and symbolization"
+  },
+  {
+    "id": 7929,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "dreams|sleep|serve|function|protecting|representing",
+    "conclusion": "Dreams during sleep serve the function of protecting sleep by representing disturbing wishes as fulfilled"
+  },
+  {
+    "id": 7930,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "defensive|functions|operate|largely|unconsciously|manage",
+    "conclusion": "The ego's defensive functions operate largely unconsciously to manage anxiety arising from instinctual demands, reality, and superego"
+  },
+  {
+    "id": 7931,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "repression|prototype|defense|keeping|objectionable|mental",
+    "conclusion": "Repression is the prototype of defense: the keeping of objectionable mental contents from consciousness"
+  },
+  {
+    "id": 7932,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "defenses|include|reaction|formation|isolation|undoing",
+    "conclusion": "Other defenses include reaction formation, isolation, undoing, projection, introjection, turning against the self, and regression"
+  },
+  {
+    "id": 7933,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "neurosis|results|failure|manage|conflict|instinctual",
+    "conclusion": "Neurosis results from the ego's failure to manage conflict between instinctual demands and prohibiting forces"
+  },
+  {
+    "id": 7934,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "neurotic|symptoms|represent|compromise|formations|partially",
+    "conclusion": "Neurotic symptoms represent compromise formations that partially satisfy both the repressed wish and the repressing agency"
+  },
+  {
+    "id": 7935,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "psychosis|involves|radical|break|reality|neurosis",
+    "conclusion": "Psychosis involves a more radical break with reality than neurosis, with the ego siding with the id against the external world"
+  },
+  {
+    "id": 7936,
+    "topic": "An Outline of Psychoanalysis",
+    "premise": "psychosis|creates|reality|hallucination|delusion|replace",
+    "conclusion": "In psychosis, the ego creates a new reality through hallucination and delusion to replace the rejected external reality"
+  },
+  {
+    "id": 7937,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|royal|road|unconscious|mind",
+    "conclusion": "Dreams are the royal road to the unconscious mind"
+  },
+  {
+    "id": 7938,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dream|represents|wish|fulfillment|specifically|repressed",
+    "conclusion": "Every dream represents a wish-fulfillment - specifically, the fulfillment of a repressed wish"
+  },
+  {
+    "id": 7939,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|manifest|content|dreamer|remembers|latent",
+    "conclusion": "Dreams have both manifest content (what the dreamer remembers) and latent content (the underlying unconscious meaning)"
+  },
+  {
+    "id": 7940,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|meaningful|psychological|phenomena|random|neural",
+    "conclusion": "Dreams are meaningful psychological phenomena, not random neural firings or divine messages"
+  },
+  {
+    "id": 7941,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|produced|mental|apparatus|produces|waking",
+    "conclusion": "Dreams are produced by the same mental apparatus that produces waking thought, but under different conditions"
+  },
+  {
+    "id": 7942,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dream|guardian|sleep|transforms|potentially|disturbing",
+    "conclusion": "The dream is a guardian of sleep - it transforms potentially disturbing unconscious material into a form that allows sleep to continue"
+  },
+  {
+    "id": 7943,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|represent|wishes|fulfilled|rather|merely",
+    "conclusion": "Dreams always represent wishes as fulfilled rather than merely expressing wishes"
+  },
+  {
+    "id": 7944,
+    "topic": "The Interpretation of Dreams",
+    "premise": "anxiety|dreams|punishment|wish|fulfillments|properly",
+    "conclusion": "Even anxiety dreams and punishment dreams are wish-fulfillments when properly analyzed"
+  },
+  {
+    "id": 7945,
+    "topic": "The Interpretation of Dreams",
+    "premise": "children|dreams|simpler|transparently|wish|fulfilling",
+    "conclusion": "Children's dreams are simpler and more transparently wish-fulfilling than adult dreams"
+  },
+  {
+    "id": 7946,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dream|work|transforms|latent|content|manifest",
+    "conclusion": "The dream-work transforms latent content into manifest content through specific mechanisms"
+  },
+  {
+    "id": 7947,
+    "topic": "The Interpretation of Dreams",
+    "premise": "condensation|multiple|latent|elements|compressed|single",
+    "conclusion": "Condensation: Multiple latent elements are compressed into a single manifest element"
+  },
+  {
+    "id": 7948,
+    "topic": "The Interpretation of Dreams",
+    "premise": "displacement|psychical|intensity|transferred|significant|elements",
+    "conclusion": "Displacement: Psychical intensity is transferred from significant elements to insignificant ones"
+  },
+  {
+    "id": 7949,
+    "topic": "The Interpretation of Dreams",
+    "premise": "considerations|representability|abstract|thoughts|translated|concrete",
+    "conclusion": "Considerations of representability: Abstract thoughts must be translated into concrete visual images"
+  },
+  {
+    "id": 7950,
+    "topic": "The Interpretation of Dreams",
+    "premise": "secondary|revision|dreaming|mind|imposes|intelligibility",
+    "conclusion": "Secondary revision: The dreaming mind imposes a fa\u00e7ade of intelligibility and coherence on the dream"
+  },
+  {
+    "id": 7951,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dream|work|think|calculate|judge|merely",
+    "conclusion": "The dream-work does not think, calculate, or judge - it merely transforms material"
+  },
+  {
+    "id": 7952,
+    "topic": "The Interpretation of Dreams",
+    "premise": "symbols|dreams|relatively|constant|meanings|across",
+    "conclusion": "Symbols in dreams have relatively constant meanings across individuals, though individual associations remain primary"
+  },
+  {
+    "id": 7953,
+    "topic": "The Interpretation of Dreams",
+    "premise": "recent|experiences|residues|provide|material|dream",
+    "conclusion": "Recent experiences (day residues) provide material for dream construction but are not the true source of the dream"
+  },
+  {
+    "id": 7954,
+    "topic": "The Interpretation of Dreams",
+    "premise": "infantile|experiences|wishes|ultimate|source|dream",
+    "conclusion": "Infantile experiences and wishes are the ultimate source of dream content"
+  },
+  {
+    "id": 7955,
+    "topic": "The Interpretation of Dreams",
+    "premise": "somatic|stimuli|incorporated|dreams|cause",
+    "conclusion": "Somatic stimuli can be incorporated into dreams but do not cause dreams"
+  },
+  {
+    "id": 7956,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|regularly|connect|recent|experiences|infantile",
+    "conclusion": "Dreams regularly connect recent experiences with infantile memories and wishes"
+  },
+  {
+    "id": 7957,
+    "topic": "The Interpretation of Dreams",
+    "premise": "unconscious|distinct|psychical|system|laws|operation",
+    "conclusion": "The unconscious is a distinct psychical system with its own laws of operation"
+  },
+  {
+    "id": 7958,
+    "topic": "The Interpretation of Dreams",
+    "premise": "repression|bars|unconscious|wishes|direct|access",
+    "conclusion": "Repression bars unconscious wishes from direct access to consciousness"
+  },
+  {
+    "id": 7959,
+    "topic": "The Interpretation of Dreams",
+    "premise": "censorship|unconscious|preconscious|conscious|systems|distorts",
+    "conclusion": "The censorship between unconscious and preconscious/conscious systems distorts dream content"
+  },
+  {
+    "id": 7960,
+    "topic": "The Interpretation of Dreams",
+    "premise": "resistance|encountered|dream|interpretation|reflects|forces",
+    "conclusion": "Resistance encountered during dream interpretation reflects the same forces that produced the dream distortion"
+  },
+  {
+    "id": 7961,
+    "topic": "The Interpretation of Dreams",
+    "premise": "free|association|proper|method|interpreting|dreams",
+    "conclusion": "Free association is the proper method for interpreting dreams"
+  },
+  {
+    "id": 7962,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreamer|associations|fixed|symbol|dictionaries|primary",
+    "conclusion": "The dreamer's associations, not fixed symbol dictionaries, are the primary interpretive tool"
+  },
+  {
+    "id": 7963,
+    "topic": "The Interpretation of Dreams",
+    "premise": "element|dream|interpreted|meaningless|elements",
+    "conclusion": "Every element of a dream can be interpreted - there are no meaningless dream elements"
+  },
+  {
+    "id": 7964,
+    "topic": "The Interpretation of Dreams",
+    "premise": "dreams|appear|absurd|particularly|meaningful|heavily",
+    "conclusion": "Dreams that appear absurd are particularly meaningful and heavily censored"
+  },
+  {
+    "id": 7965,
+    "topic": "The Interpretation of Dreams",
+    "premise": "navel|dream|least|point|interpretation|stop",
+    "conclusion": "The navel of the dream: Every dream has at least one point where interpretation must stop, connecting to the unknown"
+  },
+  {
+    "id": 7966,
+    "topic": "The Interpretation of Dreams",
+    "premise": "apparent|forgetting|dreams|motivated|serves|resistance",
+    "conclusion": "The apparent forgetting of dreams is motivated - it serves resistance"
+  },
+  {
+    "id": 7967,
+    "topic": "The Interpretation of Dreams",
+    "premise": "psychical|apparatus|distinct|systems|unconscious|preconscious",
+    "conclusion": "The psychical apparatus has distinct systems: unconscious, preconscious, and conscious"
+  },
+  {
+    "id": 7968,
+    "topic": "The Interpretation of Dreams",
+    "premise": "primary|process|operating|unconscious|seeks|immediate",
+    "conclusion": "Primary process (operating in the unconscious) seeks immediate discharge and free flow of energy"
+  },
+  {
+    "id": 7969,
+    "topic": "The Interpretation of Dreams",
+    "premise": "secondary|process|operating|preconscious|conscious|binds",
+    "conclusion": "Secondary process (operating in preconscious/conscious) binds energy and delays discharge"
+  },
+  {
+    "id": 7970,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "parapraxes|slips|tongue|forgetting|bungled|actions",
+    "conclusion": "Parapraxes (slips of the tongue, forgetting, bungled actions) are not random errors but meaningful psychological acts"
+  },
+  {
+    "id": 7971,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "parapraxis|determinable|cause|rooted|unconscious|mental",
+    "conclusion": "Every parapraxis has a determinable cause rooted in unconscious mental processes"
+  },
+  {
+    "id": 7972,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "boundary|normal|pathological|mental|life|fluid",
+    "conclusion": "The boundary between normal and pathological mental life is fluid - the same mechanisms operate in both"
+  },
+  {
+    "id": 7973,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "forgetting|proper|names|motivated|unpleasant|associations",
+    "conclusion": "Forgetting proper names is motivated by unpleasant associations connected to the name"
+  },
+  {
+    "id": 7974,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "forgotten|name|replaced|substitute|names|contain",
+    "conclusion": "The forgotten name is replaced by substitute names that contain displaced elements of the repressed material"
+  },
+  {
+    "id": 7975,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "forgetting|intentions|motivated|counter|opposing|intention",
+    "conclusion": "Forgetting intentions is always motivated by a counter-will opposing the intention"
+  },
+  {
+    "id": 7976,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "forget|unconsciously|wish|consciously|want|remember",
+    "conclusion": "We forget what we unconsciously wish to forget, even when consciously we want to remember"
+  },
+  {
+    "id": 7977,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "childhood|memories|persist|screen|survive|displacement",
+    "conclusion": "Childhood memories that persist are screen memories - they survive because of displacement from more significant material"
+  },
+  {
+    "id": 7978,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "slips|tongue|reveal|suppressed|repressed|thoughts",
+    "conclusion": "Slips of the tongue reveal suppressed or repressed thoughts that the speaker did not intend to express"
+  },
+  {
+    "id": 7979,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "slip|represents|compromise|intended|utterance|disturbing",
+    "conclusion": "The slip represents a compromise between the intended utterance and a disturbing thought"
+  },
+  {
+    "id": 7980,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "psychic|determinism|mental|events|including|apparent",
+    "conclusion": "Psychic determinism: All mental events, including apparent accidents, are causally determined"
+  },
+  {
+    "id": 7981,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "belief|free|illusion|unconscious|motivation|determines",
+    "conclusion": "The belief in free will is an illusion - unconscious motivation determines what appears to be free choice"
+  },
+  {
+    "id": 7982,
+    "topic": "The Psychopathology of Everyday Life",
+    "premise": "apparently|arbitrary|choices|numbers|names|analyzed",
+    "conclusion": "Apparently arbitrary choices (numbers, names) when analyzed reveal unconscious determinants"
+  },
+  {
+    "id": 7983,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "sexuality|limited|genital|reproductive|activity|encompasses",
+    "conclusion": "Sexuality is not limited to genital, reproductive activity but encompasses a broad range of pleasurable bodily experiences from infancy onward"
+  },
+  {
+    "id": 7984,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "sexual|instinct|unitary|composed|component|instincts",
+    "conclusion": "The sexual instinct is not unitary but is composed of component instincts that only later combine under genital primacy"
+  },
+  {
+    "id": 7985,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "infantile|sexuality|exists|foundation|adult|sexual",
+    "conclusion": "Infantile sexuality exists and is the foundation of adult sexual life"
+  },
+  {
+    "id": 7986,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "perversions|degenerations|represent|persistence|reemergence|normal",
+    "conclusion": "Perversions are not degenerations but represent the persistence or reemergence of normal infantile sexual components"
+  },
+  {
+    "id": 7987,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "sexual|instinct|object|merely|soldered|together",
+    "conclusion": "The sexual instinct and the sexual object are merely soldered together - they are not intrinsically connected"
+  },
+  {
+    "id": 7988,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "homosexuality|inversion|sign|degeneracy|innate|depravity",
+    "conclusion": "Homosexuality (inversion) is not a sign of degeneracy, innate depravity, or disease"
+  },
+  {
+    "id": 7989,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "exclusive|homosexuality|heterosexuality|endpoints|continuum|bisexuality",
+    "conclusion": "Exclusive homosexuality and exclusive heterosexuality are both endpoints of a continuum; bisexuality is the original human disposition"
+  },
+  {
+    "id": 7990,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "choice|sexual|object|determined|experience|particularly",
+    "conclusion": "The choice of sexual object is determined by experience, particularly infantile experience, not by innate biological factors alone"
+  },
+  {
+    "id": 7991,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "fetishism|results|overvaluation|sexual|object|fixation",
+    "conclusion": "Fetishism results from the overvaluation of a sexual object and fixation on an associated object or body part"
+  },
+  {
+    "id": 7992,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "fetish|substitute|mother|fantasized|penis|whose",
+    "conclusion": "The fetish is a substitute for the mother's (fantasized) penis, whose absence the fetishist cannot accept"
+  },
+  {
+    "id": 7993,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "sadism|masochism|active|passive|forms|component",
+    "conclusion": "Sadism and masochism are the active and passive forms of the same component instinct"
+  },
+  {
+    "id": 7994,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "cruelty|sexuality|intimately|connected|aggression|component",
+    "conclusion": "Cruelty and sexuality are intimately connected; aggression is a component of the sexual instinct"
+  },
+  {
+    "id": 7995,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "disposition|perversion|universal|part|normal|human",
+    "conclusion": "The disposition to perversion is universal - it is part of the normal human sexual constitution"
+  },
+  {
+    "id": 7996,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "neuroses|negative|perversions|neurotics|repress|impulses",
+    "conclusion": "Neuroses are the negative of perversions - neurotics repress the same impulses that perverts act upon"
+  },
+  {
+    "id": 7997,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "infantile|sexuality|undergoes|repression|latency|period",
+    "conclusion": "Infantile sexuality undergoes repression during the latency period (roughly ages 6-12), during which reaction formations (shame, disgust, morality) develop"
+  },
+  {
+    "id": 7998,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "thumb|sucking|demonstrates|pleasure|obtained|infant",
+    "conclusion": "Thumb-sucking demonstrates that pleasure can be obtained from the infant's own body independent of nourishment (autoerotic sexuality)"
+  },
+  {
+    "id": 7999,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "first|sexual|object|mother|breast|infant",
+    "conclusion": "The first sexual object is the mother's breast; the infant's own body becomes a substitute"
+  },
+  {
+    "id": 8000,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "infantile|sexuality|autoerotic|seeks|satisfaction|subject",
+    "conclusion": "Infantile sexuality is autoerotic - it seeks satisfaction from the subject's own body, not from an external object"
+  },
+  {
+    "id": 8001,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "erotogenic|zones|regions|body|capable|producing",
+    "conclusion": "Erotogenic zones are regions of the body capable of producing sexual excitation when stimulated"
+  },
+  {
+    "id": 8002,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "oral|zone|first|produce|sexual|pleasure",
+    "conclusion": "The oral zone is the first to produce sexual pleasure, attached initially to the vital function of feeding"
+  },
+  {
+    "id": 8003,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "anal|zone|becomes|source|intense|pleasure",
+    "conclusion": "The anal zone becomes a source of intense pleasure in the second year of life"
+  },
+  {
+    "id": 8004,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "children|treat|feces|part|body|gift",
+    "conclusion": "Children treat feces as a part of their own body, a gift, and a source of power over caregivers"
+  },
+  {
+    "id": 8005,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "anal|erotism|contributes|later|character|traits",
+    "conclusion": "Anal erotism contributes to later character traits: orderliness, parsimony, and obstinacy"
+  },
+  {
+    "id": 8006,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "genital|zone|assumes|primacy|phallic|phase",
+    "conclusion": "The genital zone assumes primacy during the phallic phase (ages 3-5)"
+  },
+  {
+    "id": 8007,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "infantile|masturbation|universal|normal",
+    "conclusion": "Infantile masturbation is universal and normal"
+  },
+  {
+    "id": 8008,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "castration|complex|arises|discovers|females|lack",
+    "conclusion": "The castration complex arises when the boy discovers that females lack a penis and fears the same fate"
+  },
+  {
+    "id": 8009,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "penis|envy|arises|girl|discovers|anatomical",
+    "conclusion": "Penis envy arises when the girl discovers her anatomical difference and feels deprived"
+  },
+  {
+    "id": 8010,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "child|polymorphously|perverse|capable|form|sexual",
+    "conclusion": "The child is polymorphously perverse - capable of any form of sexual pleasure, with no innate barriers"
+  },
+  {
+    "id": 8011,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "puberty|brings|component|instincts|primacy|genital",
+    "conclusion": "Puberty brings the component instincts under the primacy of the genital zone"
+  },
+  {
+    "id": 8012,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "finding|object|puberty|refinding|return|original",
+    "conclusion": "The finding of an object at puberty is a refinding - a return to the original (maternal) object"
+  },
+  {
+    "id": 8013,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "incest|barrier|redirects|sexual|aims|away",
+    "conclusion": "The incest barrier redirects sexual aims away from family members toward outside objects"
+  },
+  {
+    "id": 8014,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "libido|quantitative|energy|sexual|instinct",
+    "conclusion": "Libido is the quantitative energy of the sexual instinct"
+  },
+  {
+    "id": 8015,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "libido|attached|objects|object|directed|toward",
+    "conclusion": "Libido can be attached to objects (object-libido) or directed toward the self (ego-libido/narcissism)"
+  },
+  {
+    "id": 8016,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "fixation|occurs|libido|remains|attached|earlier",
+    "conclusion": "Fixation occurs when libido remains attached to earlier phases of development"
+  },
+  {
+    "id": 8017,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "regression|return|libido|earlier|fixation|points",
+    "conclusion": "Regression is the return of libido to earlier fixation points under frustration"
+  },
+  {
+    "id": 8018,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "sexes|originally|bisexual|differentiation|occurs|development",
+    "conclusion": "Both sexes are originally bisexual; differentiation occurs through development"
+  },
+  {
+    "id": 8019,
+    "topic": "Three Essays on the Theory of Sexuality",
+    "premise": "sublimation|redirects|sexual|energy|toward|socially",
+    "conclusion": "Sublimation redirects sexual energy toward non-sexual, socially valued aims (art, science, work)"
+  },
+  {
+    "id": 8020,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "jokes|random|arbitrary|phenomena|follow|discoverable",
+    "conclusion": "Jokes are not random or arbitrary phenomena but follow discoverable psychological laws"
+  },
+  {
+    "id": 8021,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "joke|work|employs|three|primary|techniques",
+    "conclusion": "The joke-work employs three primary techniques: condensation, displacement, and representation by the opposite"
+  },
+  {
+    "id": 8022,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "techniques|joke|work|structurally|analogous|dream",
+    "conclusion": "The techniques of the joke-work are structurally analogous to the dream-work"
+  },
+  {
+    "id": 8023,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "jokes|fall|fundamental|categories|innocent|harmless",
+    "conclusion": "Jokes fall into two fundamental categories: innocent (harmless) jokes and tendentious jokes"
+  },
+  {
+    "id": 8024,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "tendentious|jokes|serve|primary|purposes|hostile",
+    "conclusion": "Tendentious jokes serve two primary purposes: hostile or aggressive aims and obscene or sexual aims"
+  },
+  {
+    "id": 8025,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "tendentious|joke|functions|weapon",
+    "conclusion": "The tendentious joke functions as a weapon"
+  },
+  {
+    "id": 8026,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "third|category|tendentious|jokes|exists|cynical",
+    "conclusion": "A third category of tendentious jokes exists: the cynical or skeptical joke attacking institutions, dogmas, or moral precepts"
+  },
+  {
+    "id": 8027,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "pleasure|derived|jokes|arises|economy|psychical",
+    "conclusion": "The pleasure derived from jokes arises from an economy of psychical expenditure"
+  },
+  {
+    "id": 8028,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "tendentious|jokes|pleasure|derives|lifting|inhibitions",
+    "conclusion": "In tendentious jokes, pleasure derives from the lifting of inhibitions"
+  },
+  {
+    "id": 8029,
+    "topic": "Jokes and Their Relation to the Unconscious",
+    "premise": "laughter|represents|discharge|psychical|energy|become",
+    "conclusion": "Laughter represents the discharge of psychical energy that has become superfluous"
+  },
+  {
+    "id": 8030,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "opposition|individual|psychology|social|group|less",
+    "conclusion": "The opposition between individual psychology and social/group psychology is less sharp than it appears - individual psychology is always already social"
+  },
+  {
+    "id": 8031,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "libido|energy|love|instincts|force|holds",
+    "conclusion": "Libido - the energy of love instincts - is the force that holds groups together"
+  },
+  {
+    "id": 8032,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "eros|holds|together|everything|world|binds",
+    "conclusion": "Eros, which holds together everything in the world, is what binds group members to each other and to the leader"
+  },
+  {
+    "id": 8033,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "groups|held|together|libidinal|bond|merely",
+    "conclusion": "Groups are held together by a libidinal bond, not merely by self-interest or rational advantage"
+  },
+  {
+    "id": 8034,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "groups|require|leader|leaderless|unstable|substitute",
+    "conclusion": "Groups require a leader; leaderless groups are unstable or must substitute an abstraction for the leader"
+  },
+  {
+    "id": 8035,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "leader|love|group|members|narcissistic|self",
+    "conclusion": "The leader does not need to love the group members; he may be narcissistic, self-confident, and independent"
+  },
+  {
+    "id": 8036,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "leader|occupies|position|primal|father|group",
+    "conclusion": "The leader occupies the position of the primal father - he is the group ideal that governs the ego in place of the ego ideal"
+  },
+  {
+    "id": 8037,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "leader|loved|group|members|shared|love",
+    "conclusion": "The leader is loved by all group members, and this shared love for the same object creates the mutual identification among members"
+  },
+  {
+    "id": 8038,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "church|army|highly|organized|artificial|groups",
+    "conclusion": "The Church and the Army are highly organized artificial groups that demonstrate the structure of group psychology with clarity"
+  },
+  {
+    "id": 8039,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "illusion|leader|equal|love|members|essential",
+    "conclusion": "The illusion of the leader's equal love for all members is essential to group cohesion"
+  },
+  {
+    "id": 8040,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "panic|armies|results|dissolution|libidinal|ties",
+    "conclusion": "Panic in armies results from the dissolution of libidinal ties - the loss of the leader or the sense that he has ceased to care for his followers"
+  },
+  {
+    "id": 8041,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "identification|earliest|expression|emotional|another|person",
+    "conclusion": "Identification is the earliest expression of an emotional tie with another person - it is pre-oedipal and distinct from object-choice"
+  },
+  {
+    "id": 8042,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "identification|ambivalent|start|express|tenderness|well",
+    "conclusion": "Identification is ambivalent from the start - it can express tenderness as well as the wish to eliminate"
+  },
+  {
+    "id": 8043,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "group|members|identified|another|having|placed",
+    "conclusion": "Group members are identified with one another through having placed the same object (the leader) in the place of their ego ideal"
+  },
+  {
+    "id": 8044,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "ideal|differentiating|grade|within|heir|original",
+    "conclusion": "The ego ideal is a differentiating grade within the ego - the heir to the original narcissism"
+  },
+  {
+    "id": 8045,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "love|involves|overvaluation|object|treated|serves",
+    "conclusion": "Being in love involves overvaluation of the object - the object is treated as if it were one's own ego, and serves as a substitute for one's own unattained ego ideal"
+  },
+  {
+    "id": 8046,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "hypnosis|resembles|love|minus|direct|sexual",
+    "conclusion": "Hypnosis resembles being in love minus direct sexual satisfaction - the hypnotist occupies the place of the ego ideal"
+  },
+  {
+    "id": 8047,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "hypnosis|group|shares|essential|structure|psychology",
+    "conclusion": "Hypnosis is a group of two - it shares the essential structure of group psychology"
+  },
+  {
+    "id": 8048,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "primal|horde|urhorde|described|darwin|constitutes",
+    "conclusion": "The primal horde (Urhorde) described by Darwin constitutes the prehistoric origin of group psychology"
+  },
+  {
+    "id": 8049,
+    "topic": "Group Psychology and the Analysis of the Ego",
+    "premise": "neurosis|antisocial|achieves|privately|group|formation",
+    "conclusion": "Neurosis is antisocial - it achieves privately what group formation achieves through collective means"
+  },
+  {
+    "id": 8050,
+    "topic": "The Future of an Illusion",
+    "premise": "civilization|exists|help|individuals|repress|animalistic",
+    "conclusion": "Civilization exists to help individuals repress their animalistic and violent instincts, allowing them to live in harmonious community"
+  },
+  {
+    "id": 8051,
+    "topic": "The Future of an Illusion",
+    "premise": "individual|essentially|enemy|society|instinctual|urges",
+    "conclusion": "The individual is essentially an enemy of society and has instinctual urges that must be restrained to help society function"
+  },
+  {
+    "id": 8052,
+    "topic": "The Future of an Illusion",
+    "premise": "human|nature|anti|social|rebellious|high",
+    "conclusion": "Human nature is anti-social, rebellious, and has high sexual and destructive tendencies"
+  },
+  {
+    "id": 8053,
+    "topic": "The Future of an Illusion",
+    "premise": "among|fundamental|instinctual|wishes|repressed|incest",
+    "conclusion": "Among the fundamental instinctual wishes that must be repressed are those of incest, cannibalism, and lust for killing"
+  },
+  {
+    "id": 8054,
+    "topic": "The Future of an Illusion",
+    "premise": "religion|first|arose|early|humans|sought",
+    "conclusion": "Religion first arose as early humans sought to explain nature's forces by imagining they were controlled by human-like gods"
+  },
+  {
+    "id": 8055,
+    "topic": "The Future of an Illusion",
+    "premise": "personification|nature|allows|humans|deal|psychically",
+    "conclusion": "The personification of nature allows humans to deal psychically with forces that would otherwise remain incomprehensible and terrifying"
+  },
+  {
+    "id": 8056,
+    "topic": "The Future of an Illusion",
+    "premise": "religious|ideas|illusions|consisting|dogmas|assertions",
+    "conclusion": "Religious ideas are illusions, consisting of dogmas and assertions about external and internal reality that claim credence without independent verification"
+  },
+  {
+    "id": 8105,
+    "topic": "Wolf Man Case",
+    "premise": "religious|piety|serve|sublimation|reaction|formation",
+    "conclusion": "Religious piety can serve as a sublimation or reaction-formation against sadistic and sexual impulses"
+  },
+  {
+    "id": 8057,
+    "topic": "The Future of an Illusion",
+    "premise": "religious|beliefs|represent|wish|fulfillment|fulfillments",
+    "conclusion": "Religious beliefs represent wish-fulfillment\u2014fulfillments of the oldest, strongest, and most urgent wishes of mankind"
+  },
+  {
+    "id": 8058,
+    "topic": "The Future of an Illusion",
+    "premise": "illusion|belief|wish|fulfillment|prominent|factor",
+    "conclusion": "An illusion is a belief in which wish-fulfillment is a prominent factor in its motivation, disregarding its relations to reality"
+  },
+  {
+    "id": 8059,
+    "topic": "The Future of an Illusion",
+    "premise": "gods|serve|threefold|task|exorcising|terrors",
+    "conclusion": "The gods serve a threefold task: exorcising the terrors of nature, reconciling men to the cruelty of fate, and compensating them for the sufferings of civilized life"
+  },
+  {
+    "id": 8060,
+    "topic": "The Future of an Illusion",
+    "premise": "religion|projection|infantile|helplessness|father|longing",
+    "conclusion": "Religion is a projection of infantile helplessness and father-longing that humanizes nature, promises justice and an afterlife, and asserts authority without proof"
+  },
+  {
+    "id": 8061,
+    "topic": "The Future of an Illusion",
+    "premise": "religious|belief|infantile|neurosis|cure|person",
+    "conclusion": "Religious belief is an infantile neurosis in need of a cure so the person can become a healthy mature adult"
+  },
+  {
+    "id": 8062,
+    "topic": "The Future of an Illusion",
+    "premise": "religion|understood|universal|obsessional|neurosis|totemic",
+    "conclusion": "Religion should be understood as a universal obsessional neurosis with totemic roots"
+  },
+  {
+    "id": 8063,
+    "topic": "The Future of an Illusion",
+    "premise": "conflict|religion|science|irreconcilable|mortal|enemies",
+    "conclusion": "The conflict between religion and science is irreconcilable; they are mortal enemies"
+  },
+  {
+    "id": 8064,
+    "topic": "Moses and Monotheism",
+    "premise": "moses|hebrew|egyptian|likely|nobleman|priest",
+    "conclusion": "Moses was not a Hebrew but an Egyptian, likely a nobleman or priest of high rank"
+  },
+  {
+    "id": 8065,
+    "topic": "Moses and Monotheism",
+    "premise": "monotheism|jewish|origin|egyptian|discovery|originating",
+    "conclusion": "Monotheism is not of Jewish origin but an Egyptian discovery, originating with Pharaoh Akhenaten (Amenhotep IV)"
+  },
+  {
+    "id": 8066,
+    "topic": "Moses and Monotheism",
+    "premise": "moses|devoted|believer|follower|akhenaten|aten",
+    "conclusion": "Moses was a devoted believer in and follower of Akhenaten's Aten religion"
+  },
+  {
+    "id": 8067,
+    "topic": "Moses and Monotheism",
+    "premise": "akhenaten|death|collapse|aten|worship|moses",
+    "conclusion": "After Akhenaten's death and the collapse of Aten worship, Moses fled Egypt to preserve monotheism through a new people"
+  },
+  {
+    "id": 8068,
+    "topic": "Moses and Monotheism",
+    "premise": "moses|imposed|egyptian|custom|circumcision|israelites",
+    "conclusion": "Moses imposed the Egyptian custom of circumcision upon the Israelites as part of their new religious identity"
+  },
+  {
+    "id": 8069,
+    "topic": "Moses and Monotheism",
+    "premise": "tyrannical|domineering|character|desire|impose|strict",
+    "conclusion": "Because of his tyrannical and domineering character and his desire to impose strict monotheism, Moses was murdered by his followers in a revolt"
+  },
+  {
+    "id": 8070,
+    "topic": "Moses and Monotheism",
+    "premise": "moses|murder|israelites|repressed|memory|deed",
+    "conclusion": "After Moses's murder, the Israelites repressed the memory of the deed and abandoned much of his strict religion"
+  },
+  {
+    "id": 8071,
+    "topic": "Moses and Monotheism",
+    "premise": "analogy|collective|phenomena|religion|process|repression",
+    "conclusion": "There is an analogy between collective phenomena in religion and the process of repression in individual development"
+  },
+  {
+    "id": 8072,
+    "topic": "Moses and Monotheism",
+    "premise": "significant|period|latency|centuries|return|repressed",
+    "conclusion": "After a significant period of latency (centuries), there was a \"return of the repressed\" in which the strict ethical monotheism of Moses reasserted itself"
+  },
+  {
+    "id": 8073,
+    "topic": "Little Hans Case",
+    "premise": "infantile|sexuality|universal|phenomenon|pathological|aberration",
+    "conclusion": "Infantile sexuality is a universal phenomenon and not a pathological aberration"
+  },
+  {
+    "id": 8074,
+    "topic": "Little Hans Case",
+    "premise": "oedipus|complex|sexual|love|opposite|parent",
+    "conclusion": "The Oedipus complex\u2014sexual love for the opposite-sex parent and rivalry with the same-sex parent\u2014is the nuclear complex of neurosis"
+  },
+  {
+    "id": 8075,
+    "topic": "Little Hans Case",
+    "premise": "castration|anxiety|arises|threats|real|imagined",
+    "conclusion": "Castration anxiety arises from threats (real or imagined) connected to masturbatory activity in childhood"
+  },
+  {
+    "id": 8076,
+    "topic": "Little Hans Case",
+    "premise": "phobias|formed|displacement|anxiety|internal|danger",
+    "conclusion": "Phobias are formed through the displacement of anxiety from an internal danger to an external object"
+  },
+  {
+    "id": 8077,
+    "topic": "Little Hans Case",
+    "premise": "choice|phobic|object|determined|symbolic|connections",
+    "conclusion": "The choice of phobic object is determined by symbolic connections and associative links in the child's experience"
+  },
+  {
+    "id": 8078,
+    "topic": "Little Hans Case",
+    "premise": "horses|symbolically|represent|father|child|unconscious",
+    "conclusion": "Horses can symbolically represent the father in a child's unconscious fantasy life"
+  },
+  {
+    "id": 8079,
+    "topic": "Little Hans Case",
+    "premise": "anxiety|phobias|originates|repression|libidinal|impulses",
+    "conclusion": "Anxiety in phobias originates from the repression of libidinal impulses"
+  },
+  {
+    "id": 8080,
+    "topic": "Little Hans Case",
+    "premise": "children|develop|sexual|theories|explain|reproduction",
+    "conclusion": "Children develop sexual theories to explain reproduction, birth, and anatomical differences"
+  },
+  {
+    "id": 8081,
+    "topic": "Little Hans Case",
+    "premise": "discovery|anatomical|differences|produces|castration|complex",
+    "conclusion": "The discovery of anatomical sex differences produces the castration complex in boys"
+  },
+  {
+    "id": 8082,
+    "topic": "Little Hans Case",
+    "premise": "ambivalence|coexistence|love|hatred|toward|object",
+    "conclusion": "Ambivalence\u2014the coexistence of love and hatred toward the same object\u2014is characteristic of childhood emotional life"
+  },
+  {
+    "id": 8083,
+    "topic": "Little Hans Case",
+    "premise": "fear|bitten|represents|transformed|aggressive|libidinal",
+    "conclusion": "The fear of being bitten represents transformed aggressive and libidinal impulses toward the father"
+  },
+  {
+    "id": 8084,
+    "topic": "Little Hans Case",
+    "premise": "repression|transforms|libido|anxiety|direct|satisfaction",
+    "conclusion": "Repression transforms libido into anxiety when direct satisfaction is blocked"
+  },
+  {
+    "id": 8085,
+    "topic": "Little Hans Case",
+    "premise": "birth|sibling|activates|jealousy|death|wishes",
+    "conclusion": "The birth of a sibling activates jealousy and death wishes in the older child"
+  },
+  {
+    "id": 8086,
+    "topic": "Little Hans Case",
+    "premise": "resolution|oedipus|complex|involves|identification|parent",
+    "conclusion": "The resolution of the Oedipus complex involves identification with the same-sex parent"
+  },
+  {
+    "id": 8087,
+    "topic": "Schreber Case",
+    "premise": "paranoia|originates|defense|against|unconscious|homosexual",
+    "conclusion": "Paranoia originates from the defense against unconscious homosexual wishes"
+  },
+  {
+    "id": 8088,
+    "topic": "Schreber Case",
+    "premise": "mechanism|projection|converts|internal|perceptions|external",
+    "conclusion": "The mechanism of projection converts internal perceptions into external perceptions"
+  },
+  {
+    "id": 8089,
+    "topic": "Schreber Case",
+    "premise": "delusions|persecution|arise|transformation|love|hates",
+    "conclusion": "Delusions of persecution arise from the transformation \"I love him\" into \"He hates me\""
+  },
+  {
+    "id": 8090,
+    "topic": "Schreber Case",
+    "premise": "megalomania|results|withdrawal|libido|external|objects",
+    "conclusion": "Megalomania results from the withdrawal of libido from external objects back onto the ego"
+  },
+  {
+    "id": 8091,
+    "topic": "Schreber Case",
+    "premise": "world|delusion|reflects|subjective|experience|libidinal",
+    "conclusion": "The \"end of the world\" delusion reflects the subjective experience of libidinal withdrawal from reality"
+  },
+  {
+    "id": 8092,
+    "topic": "Schreber Case",
+    "premise": "paranoid|delusion|formation|attempt|recovery|reconstruction",
+    "conclusion": "Paranoid delusion-formation is an attempt at recovery\u2014a reconstruction of the lost object-world"
+  },
+  {
+    "id": 8093,
+    "topic": "Schreber Case",
+    "premise": "sublimated|father|symbol|unconscious",
+    "conclusion": "The sun is a sublimated father-symbol in the unconscious"
+  },
+  {
+    "id": 8094,
+    "topic": "Schreber Case",
+    "premise": "transformation|woman|schreber|delusion|represents|submission",
+    "conclusion": "Transformation into a woman in Schreber's delusion represents submission to the father"
+  },
+  {
+    "id": 8095,
+    "topic": "Schreber Case",
+    "premise": "fixation|narcissistic|stage|development|predisposes|paranoid",
+    "conclusion": "Fixation at the narcissistic stage of development predisposes to paranoid illness"
+  },
+  {
+    "id": 8096,
+    "topic": "Wolf Man Case",
+    "premise": "infantile|neurosis|precursor|precondition|adult",
+    "conclusion": "Infantile neurosis is the precursor and precondition of adult neurosis"
+  },
+  {
+    "id": 8097,
+    "topic": "Wolf Man Case",
+    "premise": "primal|scene|witnessing|fantasizing|parental|intercourse",
+    "conclusion": "The primal scene\u2014witnessing or fantasizing parental intercourse\u2014has pathogenic significance"
+  },
+  {
+    "id": 8098,
+    "topic": "Wolf Man Case",
+    "premise": "deferred|action|means|early|experiences|gain",
+    "conclusion": "Deferred action (Nachtr\u00e4glichkeit) means early experiences gain traumatic force only after later development"
+  },
+  {
+    "id": 8099,
+    "topic": "Wolf Man Case",
+    "premise": "animal|phobias|childhood|represent|displaced|anxiety",
+    "conclusion": "Animal phobias in childhood represent displaced anxiety concerning the father"
+  },
+  {
+    "id": 8100,
+    "topic": "Wolf Man Case",
+    "premise": "wolf|symbolically|represents|threatening|castrating|father",
+    "conclusion": "The wolf symbolically represents the threatening, castrating father in the unconscious"
+  },
+  {
+    "id": 8101,
+    "topic": "Wolf Man Case",
+    "premise": "passive|sexual|aims|toward|father|underlie",
+    "conclusion": "Passive sexual aims toward the father underlie many neurotic symptoms in men"
+  },
+  {
+    "id": 8102,
+    "topic": "Wolf Man Case",
+    "premise": "castration|anxiety|activated|observation|female|genitals",
+    "conclusion": "Castration anxiety can be activated by the observation of female genitals"
+  },
+  {
+    "id": 8103,
+    "topic": "Wolf Man Case",
+    "premise": "regression|anal|sadistic|phase|occurs|genital",
+    "conclusion": "Regression to the anal-sadistic phase occurs when genital organization encounters obstacles"
+  },
+  {
+    "id": 8104,
+    "topic": "Wolf Man Case",
+    "premise": "fantasy|beaten|father|represents|regressive|substitute",
+    "conclusion": "The fantasy of being beaten by the father represents a regressive substitute for being loved by him"
+  },
+  {
+    "id": 8106,
+    "topic": "Wolf Man Case",
+    "premise": "phylogenetic|inheritance|provides|schemata|organize|individual",
+    "conclusion": "Phylogenetic inheritance provides schemata that organize individual experience"
+  },
+  {
+    "id": 8107,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "psychology|natural|science|represent|psychical|processes",
+    "conclusion": "The aim of psychology as a natural science is to represent psychical processes as quantitatively determined states of specifiable material particles (neurons)"
+  },
+  {
+    "id": 8108,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "principle|neuronic|inertia|asserts|neurons|tend",
+    "conclusion": "The principle of neuronic inertia asserts that neurons tend to divest themselves of quantity\u2014the nervous system seeks to reduce tension to zero"
+  },
+  {
+    "id": 8109,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "memory|represented|facilitations|bahnung|existing|neurons",
+    "conclusion": "Memory is represented by the facilitations (Bahnung) existing between neurons\u2014the differences in the degree to which contact-barriers have been made more capable of conduction"
+  },
+  {
+    "id": 8110,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "pain|consists|irruption|large|quantities|system",
+    "conclusion": "Pain consists in the irruption of large quantities into the system\u2014it is the most imperative of all processes"
+  },
+  {
+    "id": 8111,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "unpleasure|coincides|rise|level|quantity|pleasure",
+    "conclusion": "Unpleasure coincides with a rise in the level of quantity; pleasure is the sensation of discharge"
+  },
+  {
+    "id": 8112,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "experience|satisfaction|occurs|extraneous|helper|carries",
+    "conclusion": "The experience of satisfaction occurs when an extraneous helper carries out specific action in the external world on behalf of the helpless subject"
+  },
+  {
+    "id": 8113,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "original|helplessness|human|beings|primal|source",
+    "conclusion": "The original helplessness of human beings is the primal source of all moral motives"
+  },
+  {
+    "id": 8114,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "wishful|activation|first|instance|produces|something",
+    "conclusion": "Wishful activation in the first instance produces something similar to a perception\u2014namely, a hallucination"
+  },
+  {
+    "id": 8115,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "primary|wishful|attraction|defense|modes|responds",
+    "conclusion": "Primary wishful attraction and primary defense are the two modes by which the ego responds to wishes and painful experiences"
+  },
+  {
+    "id": 8116,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "defined|totality|cathexes|given|time",
+    "conclusion": "The ego is defined as the totality of cathexes at any given time"
+  },
+  {
+    "id": 8117,
+    "topic": "Project for a Scientific Psychology",
+    "premise": "purpose|meaning|normal|dreams|established|certainty",
+    "conclusion": "The purpose and meaning of normal dreams can be established with certainty: dreams are the fulfilments of wishes"
+  },
+  {
+    "id": 8118,
+    "topic": "The Uncanny",
+    "premise": "uncanny|unheimlich|class|frightening|things|leads",
+    "conclusion": "The uncanny (unheimlich) is that class of frightening things which leads us back to what is known and familiar"
+  },
+  {
+    "id": 8119,
+    "topic": "The Uncanny",
+    "premise": "uncanny|mark|return|repressed|something|familiar",
+    "conclusion": "The uncanny is the mark of the return of the repressed\u2014something familiar that has become alienated through the process of repression"
+  },
+  {
+    "id": 8120,
+    "topic": "The Uncanny",
+    "premise": "intellectual|uncertainty|about|whether|something|animate",
+    "conclusion": "Intellectual uncertainty about whether something is animate or inanimate contributes to uncanny feelings"
+  },
+  {
+    "id": 8121,
+    "topic": "The Uncanny",
+    "premise": "fear|losing|eyes|substitute|dread|castration",
+    "conclusion": "The fear of losing one's eyes is a substitute for the dread of castration"
+  },
+  {
+    "id": 8122,
+    "topic": "The Uncanny",
+    "premise": "figure|double|originally|insurance|against|destruction",
+    "conclusion": "The figure of the double (doppelg\u00e4nger) was originally an insurance against the destruction of the ego and a denial of the power of death"
+  },
+  {
+    "id": 8123,
+    "topic": "The Uncanny",
+    "premise": "stage|primary|narcissism|surmounted|double|changes",
+    "conclusion": "When the stage of primary narcissism is surmounted, the double changes from an assurance of immortality into the uncanny harbinger of death"
+  },
+  {
+    "id": 8124,
+    "topic": "The Uncanny",
+    "premise": "repetition|situations|events|numbers|produces|uncanny",
+    "conclusion": "Repetition of the same situations, events, or numbers produces uncanny effects by suggesting the operation of fateful forces"
+  },
+  {
+    "id": 8125,
+    "topic": "The Uncanny",
+    "premise": "omnipotence|thoughts|overvaluation|mental|processes|over",
+    "conclusion": "The omnipotence of thoughts\u2014the overvaluation of mental processes over reality\u2014is a source of uncanny feelings when it appears confirmed"
+  },
+  {
+    "id": 8126,
+    "topic": "Criminals from a Sense of Guilt",
+    "premise": "individuals|commit|crimes|suffering|oppressive|sense",
+    "conclusion": "Some individuals commit crimes because they are suffering from an oppressive sense of guilt of unknown origin that precedes the criminal act"
+  },
+  {
+    "id": 8127,
+    "topic": "Criminals from a Sense of Guilt",
+    "premise": "criminal|acts|cases|serve|attach|existing",
+    "conclusion": "Criminal acts in such cases serve to attach the pre-existing, free-floating sense of guilt to something concrete and explicable"
+  },
+  {
+    "id": 8128,
+    "topic": "Criminals from a Sense of Guilt",
+    "premise": "commission|crime|brings|relief|external|punishment",
+    "conclusion": "The commission of a crime brings relief because the external punishment it invites is less severe than the internal torment of unconscious guilt"
+  },
+  {
+    "id": 8129,
+    "topic": "Criminals from a Sense of Guilt",
+    "premise": "obscure|sense|guilt|precedes|crime|derives",
+    "conclusion": "The obscure sense of guilt that precedes crime derives from the Oedipus complex\u2014from wishes to kill the father and have sexual relations with the mother"
+  },
+  {
+    "id": 8130,
+    "topic": "Negation",
+    "premise": "negation|taking|cognizance|repressed|constitutes|lifting",
+    "conclusion": "Negation is a way of taking cognizance of what is repressed; it constitutes a lifting of repression though not an acceptance of what is repressed"
+  },
+  {
+    "id": 8131,
+    "topic": "Negation",
+    "premise": "negation|consider|repressed|without|accepting",
+    "conclusion": "Through negation, the ego can consider what it has repressed without accepting it"
+  },
+  {
+    "id": 8132,
+    "topic": "Negation",
+    "premise": "negation|step|toward|intellectual|acceptance|emotional",
+    "conclusion": "Negation is a step toward intellectual acceptance, but not emotional acceptance"
+  },
+  {
+    "id": 8133,
+    "topic": "Negation",
+    "premise": "content|negation|unconsciously|true|subject",
+    "conclusion": "The content of a negation is always unconsciously true for the subject"
+  },
+  {
+    "id": 8134,
+    "topic": "Negation",
+    "premise": "negation|preserves|repression|allowing|intellectual|exploration",
+    "conclusion": "Negation preserves repression while allowing intellectual exploration"
+  },
+  {
+    "id": 8135,
+    "topic": "The Loss of Reality in Neurosis and Psychosis",
+    "premise": "neurosis|dependence|reality|suppresses|piece|psychosis",
+    "conclusion": "In neurosis, the ego in its dependence on reality suppresses a piece of the id; in psychosis, the ego in service of the id withdraws from a piece of reality"
+  },
+  {
+    "id": 8136,
+    "topic": "The Loss of Reality in Neurosis and Psychosis",
+    "premise": "neurosis|decisive|factor|predominance|influence|reality",
+    "conclusion": "For neurosis the decisive factor is the predominance of the influence of reality; for psychosis it is the predominance of the id"
+  },
+  {
+    "id": 8137,
+    "topic": "The Loss of Reality in Neurosis and Psychosis",
+    "premise": "neurosis|disturbs|patient|relation|reality|severe",
+    "conclusion": "Every neurosis disturbs the patient's relation to reality; in its severe forms it signifies a flight from real life"
+  },
+  {
+    "id": 8138,
+    "topic": "The Loss of Reality in Neurosis and Psychosis",
+    "premise": "neurosis|disavow|reality|ignores|psychosis|disavows",
+    "conclusion": "Neurosis does not disavow reality\u2014it only ignores it; psychosis disavows reality and tries to replace it"
+  },
+  {
+    "id": 8139,
+    "topic": "The Loss of Reality in Neurosis and Psychosis",
+    "premise": "neurosis|piece|reality|avoided|sort|flight",
+    "conclusion": "In neurosis, a piece of reality is avoided by a sort of flight; in psychosis, reality is remodeled"
+  },
+  {
+    "id": 8140,
+    "topic": "Fetishism",
+    "premise": "fetish|substitute|particular|quite|special|penis",
+    "conclusion": "The fetish is a substitute for a particular and quite special penis\u2014the mother's phallus which the little boy once believed in and does not want to give up"
+  },
+  {
+    "id": 8141,
+    "topic": "Fetishism",
+    "premise": "refuses|take|cognizance|fact|woman|penis",
+    "conclusion": "The boy refuses to take cognizance of the fact that a woman has no penis because this would mean acknowledging that his own possession of a penis is in danger"
+  },
+  {
+    "id": 8142,
+    "topic": "Fetishism",
+    "premise": "creating|fetish|retained|belief|maternal|phallus",
+    "conclusion": "In creating a fetish, the boy has retained his belief in the maternal phallus but has also given it up\u2014both attitudes persist side by side"
+  },
+  {
+    "id": 8143,
+    "topic": "Fetishism",
+    "premise": "fetish|represents|compromise|perception|maternal|castration",
+    "conclusion": "The fetish represents a compromise between the perception of maternal castration and the counter-wish that denies it"
+  },
+  {
+    "id": 8144,
+    "topic": "Fetishism",
+    "premise": "fetish|token|triumph|over|threat|castration",
+    "conclusion": "The fetish is a token of triumph over the threat of castration and a protection against it"
+  },
+  {
+    "id": 8145,
+    "topic": "Fetishism",
+    "premise": "fetish|saves|fetishist|becoming|homosexual|endowing",
+    "conclusion": "The fetish saves the fetishist from becoming homosexual by endowing women with the characteristic that makes them tolerable as sexual objects"
+  },
+  {
+    "id": 8146,
+    "topic": "Fetishism",
+    "premise": "cases|involving|disavowal|current|mental|life",
+    "conclusion": "In cases involving disavowal, one current of mental life recognizes reality while another simultaneously denies it\u2014producing a split in the ego"
+  },
+  {
+    "id": 8147,
+    "topic": "Medusa's Head",
+    "premise": "decapitate|equals|castrate|terror|medusa|thus",
+    "conclusion": "To decapitate equals to castrate; the terror of Medusa is thus a terror of castration linked to the sight of something"
+  },
+  {
+    "id": 8148,
+    "topic": "Medusa's Head",
+    "premise": "terrifying|decapitated|head|medusa|represents|castrated",
+    "conclusion": "The terrifying decapitated head of Medusa represents the castrated female genital, specifically the mother's genital surrounded by hair"
+  },
+  {
+    "id": 8149,
+    "topic": "Medusa's Head",
+    "premise": "hair|medusa|head|frequently|represented|snakes",
+    "conclusion": "The hair upon Medusa's head, frequently represented as snakes, is derived from the castration complex"
+  },
+  {
+    "id": 8150,
+    "topic": "Medusa's Head",
+    "premise": "though|snakes|frightening|serve|mitigate|horror",
+    "conclusion": "Though the snakes are frightening in themselves, they serve to mitigate the horror because they replace the penis whose absence causes the horror"
+  },
+  {
+    "id": 8151,
+    "topic": "Medusa's Head",
+    "premise": "multiplication|penis|symbols|many|snakes|paradoxically",
+    "conclusion": "The multiplication of penis symbols (the many snakes) paradoxically signifies castration"
+  },
+  {
+    "id": 8152,
+    "topic": "Medusa's Head",
+    "premise": "sight|medusa|head|makes|spectator|stiff",
+    "conclusion": "The sight of Medusa's head makes the spectator stiff with terror, turns him to stone\u2014and becoming stiff means an erection"
+  },
+  {
+    "id": 8153,
+    "topic": "The Unconscious",
+    "premise": "unconscious|distinct|mental|system|processes",
+    "conclusion": "The unconscious is a distinct mental system with its own processes"
+  },
+  {
+    "id": 8154,
+    "topic": "The Unconscious",
+    "premise": "unconscious|mental|processes|timeless|ordered|chronologically",
+    "conclusion": "Unconscious mental processes are timeless and not ordered chronologically"
+  },
+  {
+    "id": 8155,
+    "topic": "The Unconscious",
+    "premise": "unconscious|governed|primary|process|condensation|displacement",
+    "conclusion": "The unconscious is governed by the primary process (condensation, displacement)"
+  },
+  {
+    "id": 8156,
+    "topic": "The Unconscious",
+    "premise": "unconscious|ideas|subject|negation|contradiction",
+    "conclusion": "Unconscious ideas are not subject to negation or contradiction"
+  },
+  {
+    "id": 8157,
+    "topic": "The Unconscious",
+    "premise": "unconscious|material|indestructible|persists|unchanged|over",
+    "conclusion": "Unconscious material is indestructible\u2014it persists unchanged over time"
+  },
+  {
+    "id": 8158,
+    "topic": "The Unconscious",
+    "premise": "repression|mechanism|material|becomes|unconscious",
+    "conclusion": "Repression is the mechanism by which material becomes unconscious"
+  },
+  {
+    "id": 8159,
+    "topic": "The Unconscious",
+    "premise": "unconscious|material|enter|consciousness|indirectly|dreams",
+    "conclusion": "Unconscious material can only enter consciousness indirectly (e.g., in dreams, slips)"
+  },
+  {
+    "id": 8160,
+    "topic": "The Unconscious",
+    "premise": "unconscious|contains|instinctual|drives|triebe|seeking",
+    "conclusion": "The unconscious contains instinctual drives (Triebe) seeking discharge"
+  },
+  {
+    "id": 8161,
+    "topic": "The Unconscious",
+    "premise": "unconscious|knows|logic|morality|reality|testing",
+    "conclusion": "The unconscious knows no logic, morality, or reality testing"
+  },
+  {
+    "id": 8162,
+    "topic": "The Unconscious",
+    "premise": "consciousness|small|part|mental|life",
+    "conclusion": "Consciousness is only a small part of mental life"
+  },
+  {
+    "id": 8163,
+    "topic": "The Unconscious",
+    "premise": "preconscious|mediates|unconscious|consciousness",
+    "conclusion": "The preconscious mediates between the unconscious and consciousness"
+  },
+  {
+    "id": 8164,
+    "topic": "The Unconscious",
+    "premise": "unconscious|mental|contents|affect|behavior|without",
+    "conclusion": "Unconscious mental contents can affect behavior without awareness"
+  },
+  {
+    "id": 8165,
+    "topic": "The Unconscious",
+    "premise": "resistance|prevents|unconscious|material|reaching|consciousness",
+    "conclusion": "Resistance prevents unconscious material from reaching consciousness"
+  },
+  {
+    "id": 8166,
+    "topic": "The Unconscious",
+    "premise": "psychoanalysis|aims|make|unconscious|conscious",
+    "conclusion": "Psychoanalysis aims to make the unconscious conscious"
+  },
+  {
+    "id": 8167,
+    "topic": "The Devil as Father Substitute",
+    "premise": "figure|devil|externalization|repressed|hostility|toward",
+    "conclusion": "The figure of the Devil is an externalization of repressed hostility toward the father"
+  },
+  {
+    "id": 8168,
+    "topic": "The Devil as Father Substitute",
+    "premise": "devil|represents|ambivalent|feelings|toward|paternal",
+    "conclusion": "The Devil represents the ambivalent feelings toward the paternal authority"
+  },
+  {
+    "id": 8169,
+    "topic": "The Devil as Father Substitute",
+    "premise": "devil|father|substitute|folklore|religion",
+    "conclusion": "The Devil is a father substitute in folklore and religion"
+  },
+  {
+    "id": 8170,
+    "topic": "The Devil as Father Substitute",
+    "premise": "projection|hostility|onto|devil|allows|subject",
+    "conclusion": "The projection of hostility onto the Devil allows the subject to maintain love for the real father"
+  },
+  {
+    "id": 8171,
+    "topic": "The Devil as Father Substitute",
+    "premise": "devil|embodies|repressed|rebellious|aggressive|impulses",
+    "conclusion": "The Devil embodies repressed rebellious and aggressive impulses toward the father"
+  },
+  {
+    "id": 8172,
+    "topic": "Homosexuality",
+    "premise": "homosexuality|illness|variation|sexual|development",
+    "conclusion": "Homosexuality is not an illness, but a variation of sexual development"
+  },
+  {
+    "id": 8173,
+    "topic": "Homosexuality",
+    "premise": "originates|childhood|psychosexual|development|later|choice",
+    "conclusion": "It originates in childhood psychosexual development, not from later choice or corruption"
+  },
+  {
+    "id": 8174,
+    "topic": "Homosexuality",
+    "premise": "constitutional|factors|interact|early|experience|produce",
+    "conclusion": "Constitutional factors interact with early experience to produce inversion"
+  },
+  {
+    "id": 8175,
+    "topic": "Homosexuality",
+    "premise": "homosexuality|inherently|pathological|becomes|problem|causes",
+    "conclusion": "Homosexuality is not inherently pathological; it becomes a problem only when it causes conflict"
+  },
+  {
+    "id": 8176,
+    "topic": "Homosexuality",
+    "premise": "sexual|instinct|originally|polymorphous|undirected",
+    "conclusion": "The sexual instinct is originally polymorphous and undirected"
+  },
+  {
+    "id": 8177,
+    "topic": "Homosexuality",
+    "premise": "humans|constitutionally|bisexual",
+    "conclusion": "All humans are constitutionally bisexual"
+  },
+  {
+    "id": 8178,
+    "topic": "Homosexuality",
+    "premise": "homosexual|heterosexual|tendencies|exist|everyone",
+    "conclusion": "Homosexual and heterosexual tendencies exist in everyone"
+  },
+  {
+    "id": 8179,
+    "topic": "Homosexuality",
+    "premise": "repressed|homosexuality|manifest|neurotic|symptoms",
+    "conclusion": "Repressed homosexuality can manifest as neurotic symptoms"
+  },
+  {
+    "id": 8180,
+    "topic": "Homosexuality",
+    "premise": "paranoia|often|arises|repressed|homosexual|desire",
+    "conclusion": "Paranoia often arises from repressed homosexual desire"
+  },
+  {
+    "id": 8181,
+    "topic": "Homosexuality",
+    "premise": "homosexual|object|choice|substitute|self",
+    "conclusion": "The homosexual object-choice can be a substitute for the self"
+  },
+  {
+    "id": 8182,
+    "topic": "Homosexuality",
+    "premise": "intense|attachment|mother|lead|identification|desire",
+    "conclusion": "A boy's intense attachment to the mother may lead to identification with her and desire for men like himself"
+  },
+  {
+    "id": 8183,
+    "topic": "The Oedipus Complex",
+    "premise": "oedipus|complex|central|organizing|conflict|human",
+    "conclusion": "The Oedipus complex is the central organizing conflict of human psychosexual development"
+  },
+  {
+    "id": 8184,
+    "topic": "The Oedipus Complex",
+    "premise": "typically|arises|ages|phallic|phase",
+    "conclusion": "It typically arises between the ages of 3 and 6 (the \"phallic phase\")"
+  },
+  {
+    "id": 8185,
+    "topic": "The Oedipus Complex",
+    "premise": "core|dynamic|child|desires|exclusive|possession",
+    "conclusion": "The core dynamic: the child desires exclusive possession of the opposite-sex parent and views the same-sex parent as a rival"
+  },
+  {
+    "id": 8186,
+    "topic": "The Oedipus Complex",
+    "premise": "boys|takes|form|sexual|desire|mother",
+    "conclusion": "In boys, this takes the form of sexual desire for the mother and hostility toward the father"
+  },
+  {
+    "id": 8187,
+    "topic": "The Oedipus Complex",
+    "premise": "girls|involves|desire|father|hostility|toward",
+    "conclusion": "In girls, it involves desire for the father and hostility toward the mother"
+  },
+  {
+    "id": 8188,
+    "topic": "The Oedipus Complex",
+    "premise": "oedipus|complex|universal|though|expression|resolution",
+    "conclusion": "The Oedipus complex is universal, though its expression and resolution vary"
+  },
+  {
+    "id": 8189,
+    "topic": "The Oedipus Complex",
+    "premise": "nuclear|complex|neuroses|root|later|psychological",
+    "conclusion": "It is the \"nuclear complex of the neuroses\"\u2014the root of later psychological conflicts"
+  },
+  {
+    "id": 8190,
+    "topic": "The Oedipus Complex",
+    "premise": "father|intervenes|prohibitive|figure|introducing",
+    "conclusion": "The father intervenes as a prohibitive figure, introducing the law"
+  },
+  {
+    "id": 8191,
+    "topic": "The Oedipus Complex",
+    "premise": "paternal|prohibition|internalized|super",
+    "conclusion": "This paternal prohibition is internalized as the super-ego"
+  },
+  {
+    "id": 8192,
+    "topic": "The Oedipus Complex",
+    "premise": "castration|anxiety|boys|forces|dissolution|oedipus",
+    "conclusion": "Castration anxiety in boys forces the dissolution of the Oedipus complex"
+  },
+  {
+    "id": 8193,
+    "topic": "The Oedipus Complex",
+    "premise": "fears|father|castrate|punishment|desiring|mother",
+    "conclusion": "The boy fears the father will castrate him as punishment for desiring the mother"
+  },
+  {
+    "id": 8194,
+    "topic": "The Oedipus Complex",
+    "premise": "identification|father|allows|internalize|paternal|authority",
+    "conclusion": "Identification with the father allows the boy to internalize paternal authority"
+  },
+  {
+    "id": 8195,
+    "topic": "The Oedipus Complex",
+    "premise": "girls|oedipus|complex|preceded|penis|envy",
+    "conclusion": "In girls, the Oedipus complex is preceded by penis envy"
+  },
+  {
+    "id": 8196,
+    "topic": "The Oedipus Complex",
+    "premise": "girl|blames|mother|lack|penis|turns",
+    "conclusion": "The girl blames the mother for her \"lack\" of a penis and turns to the father"
+  },
+  {
+    "id": 8197,
+    "topic": "The Oedipus Complex",
+    "premise": "desires|baby|father|substitute|penis",
+    "conclusion": "She desires a baby from the father as a substitute for the penis"
+  },
+  {
+    "id": 8198,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessional|neurosis|arises|unresolved|conflicts|anal",
+    "conclusion": "Obsessional neurosis arises from unresolved conflicts in the anal-sadistic stage of psychosexual development"
+  },
+  {
+    "id": 8199,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "characterized|intrusive|thoughts|obsessions|repetitive|behaviors",
+    "conclusion": "It is characterized by intrusive thoughts (obsessions) and repetitive behaviors (compulsions)"
+  },
+  {
+    "id": 8200,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessions|disguised|expressions|repressed|aggressive|sexual",
+    "conclusion": "Obsessions are disguised expressions of repressed aggressive or sexual impulses"
+  },
+  {
+    "id": 8201,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "compulsions|acts|designed|neutralize|anxiety|undo",
+    "conclusion": "Compulsions are acts designed to neutralize anxiety or \"undo\" the forbidden impulse"
+  },
+  {
+    "id": 8202,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "primary|conflict|obsessional|neurosis|sadistic|urges",
+    "conclusion": "The primary conflict in obsessional neurosis is between sadistic urges and reactive love"
+  },
+  {
+    "id": 8203,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "ambivalence|simultaneous|love|hate|toward|object",
+    "conclusion": "Ambivalence\u2014simultaneous love and hate toward the same object\u2014is central to the disorder"
+  },
+  {
+    "id": 8204,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessional|patients|often|exhibit|extreme|doubt",
+    "conclusion": "Obsessional patients often exhibit extreme doubt, indecision, and \"mental rumination\""
+  },
+  {
+    "id": 8205,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessional|super|exceptionally|harsh|punitive",
+    "conclusion": "The obsessional's super-ego is exceptionally harsh and punitive"
+  },
+  {
+    "id": 8206,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "guilt|pervasive|often|unconscious|drives|compulsive",
+    "conclusion": "Guilt is pervasive, often unconscious, and drives the compulsive rituals"
+  },
+  {
+    "id": 8207,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessional|symptoms|serve|defense|against|awareness",
+    "conclusion": "Obsessional symptoms serve as a defense against awareness of repressed patricidal or incestuous wishes"
+  },
+  {
+    "id": 8208,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessional|isolation|affect|separates|distressing|ideas",
+    "conclusion": "The obsessional's \"isolation of affect\" separates distressing ideas from their emotional charge"
+  },
+  {
+    "id": 8209,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "intellectualization|used|avoid|feeling|full|impact",
+    "conclusion": "Intellectualization is used to avoid feeling the full impact of unconscious conflicts"
+  },
+  {
+    "id": 8210,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "magical|thinking|belief|thoughts|influence|reality",
+    "conclusion": "Magical thinking\u2014the belief that thoughts can influence reality\u2014is prevalent"
+  },
+  {
+    "id": 8211,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "compulsive|rituals|private|ceremonies|symbolic|meaning",
+    "conclusion": "Compulsive rituals are private ceremonies with symbolic meaning"
+  },
+  {
+    "id": 8212,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "washing|compulsions|represent|desire|cleanse|oneself",
+    "conclusion": "Washing compulsions may represent a desire to cleanse oneself of guilty (sexual or aggressive) thoughts"
+  },
+  {
+    "id": 8213,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "doubt|reflects|conflict|super|impossible|demands",
+    "conclusion": "Doubt reflects a conflict between the ego and the super-ego's impossible demands"
+  },
+  {
+    "id": 8214,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "obsessional|neurosis|understood|private|religion|strict",
+    "conclusion": "Obsessional neurosis can be understood as a \"private religion\" with strict rules and penances"
+  },
+  {
+    "id": 8215,
+    "topic": "Obsessional Neurosis (OCD)",
+    "premise": "undoing|mechanism|involves|performing|action|symbolically",
+    "conclusion": "The \"undoing\" mechanism involves performing an action that symbolically cancels out a hostile thought"
+  },
+  {
+    "id": 8216,
+    "topic": "Psychosis",
+    "premise": "psychosis|represents|break|reality|failure|functioning",
+    "conclusion": "Psychosis represents a break with reality due to a failure of ego functioning"
+  },
+  {
+    "id": 8217,
+    "topic": "Psychosis",
+    "premise": "psychosis|overwhelmed|impulses|external|demands|leading",
+    "conclusion": "The ego in psychosis is overwhelmed by id impulses or external demands, leading to a withdrawal from shared reality"
+  },
+  {
+    "id": 8218,
+    "topic": "Psychosis",
+    "premise": "psychosis|disavows|reality|attempts|reconstruct|private",
+    "conclusion": "In psychosis, the ego disavows reality and attempts to reconstruct a new, private reality"
+  },
+  {
+    "id": 8219,
+    "topic": "Psychosis",
+    "premise": "fundamental|mechanism|psychosis|repression|reality|rather",
+    "conclusion": "The fundamental mechanism in psychosis is repression of reality rather than repression of instinct"
+  },
+  {
+    "id": 8220,
+    "topic": "Psychosis",
+    "premise": "psychosis|involves|regression|primitive|mental|states",
+    "conclusion": "Psychosis involves a regression to primitive mental states where primary process thinking dominates"
+  },
+  {
+    "id": 8221,
+    "topic": "Psychosis",
+    "premise": "hallucinations|delusions|attempts|replace|lost|reality",
+    "conclusion": "Hallucinations and delusions are attempts to replace lost reality with internally generated perceptions and beliefs"
+  },
+  {
+    "id": 8222,
+    "topic": "Psychosis",
+    "premise": "delusions|random|symbolically|meaningful|reconstructions|repressed",
+    "conclusion": "Delusions are not random but symbolically meaningful reconstructions of repressed conflicts"
+  },
+  {
+    "id": 8223,
+    "topic": "Psychosis",
+    "premise": "loss|reality|testing|hallmark|psychosis",
+    "conclusion": "The loss of reality testing is the hallmark of psychosis"
+  },
+  {
+    "id": 8224,
+    "topic": "Psychosis",
+    "premise": "psychosis|narcissistic|disorder|libido|withdrawn|objects",
+    "conclusion": "Psychosis is a narcissistic disorder\u2014libido is withdrawn from objects and redirected to the ego"
+  },
+  {
+    "id": 8225,
+    "topic": "Psychosis",
+    "premise": "withdrawal|results|megalomania|grandiose|delusions",
+    "conclusion": "This withdrawal results in megalomania or grandiose delusions"
+  },
+  {
+    "id": 8226,
+    "topic": "Psychosis",
+    "premise": "psychosis|often|begins|world|catastrophe|phase",
+    "conclusion": "Psychosis often begins with a world-catastrophe phase\u2014the patient's subjective world collapses"
+  },
+  {
+    "id": 8227,
+    "topic": "Psychosis",
+    "premise": "psychotic|break|attempt|recovery|rebuild|coherent",
+    "conclusion": "The psychotic break is an attempt at recovery\u2014to rebuild a coherent world, however distorted"
+  },
+  {
+    "id": 8228,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|conflict|psychosis|external|world",
+    "conclusion": "Neurosis is a conflict between the ego and the id; psychosis is a conflict between the ego and the external world"
+  },
+  {
+    "id": 8229,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|represses|instinctual|demands|psychosis|disavows",
+    "conclusion": "In neurosis, the ego represses instinctual demands (id); in psychosis, the ego disavows (rejects) reality"
+  },
+  {
+    "id": 8230,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|distorts|internal|reality|symptoms|psychosis",
+    "conclusion": "Neurosis distorts internal reality (through symptoms); psychosis distorts external reality (through delusions/hallucinations)"
+  },
+  {
+    "id": 8231,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurotic|remains|anchored|shared|reality|suffers",
+    "conclusion": "The neurotic remains anchored in shared reality but suffers internally; the psychotic withdraws from shared reality and creates a substitute reality"
+  },
+  {
+    "id": 8232,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurotic|symptoms|compromise|formations|repressed|wishes",
+    "conclusion": "Neurotic symptoms are compromise formations between repressed wishes and defenses; psychotic symptoms are attempts to reconstruct a lost reality"
+  },
+  {
+    "id": 8233,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|repression|primary|defense|psychosis|projection",
+    "conclusion": "In neurosis, repression is the primary defense; in psychosis, projection and denial of reality are primary"
+  },
+  {
+    "id": 8234,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "anxiety|neurosis|signals|internal|danger|psychosis",
+    "conclusion": "Anxiety in neurosis signals internal danger (from the id); anxiety in psychosis signals the collapse of reality itself"
+  },
+  {
+    "id": 8235,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|involves|regression|earlier|psychosexual|stages",
+    "conclusion": "Neurosis involves regression to earlier psychosexual stages; psychosis involves regression to primitive narcissism or auto-erotism"
+  },
+  {
+    "id": 8236,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "oedipus|complex|central|neurosis|psychosis|involve",
+    "conclusion": "The Oedipus complex is central to neurosis; psychosis may involve a foreclosure of the Oedipus complex"
+  },
+  {
+    "id": 8237,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurotics|intact|reality|testing|psychotics|impaired",
+    "conclusion": "Neurotics have intact reality testing; psychotics have impaired or absent reality testing"
+  },
+  {
+    "id": 8238,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|preserves|object|relations|though|conflicted",
+    "conclusion": "Neurosis preserves object relations, though conflicted; psychosis withdraws libido from objects and retreats into narcissism"
+  },
+  {
+    "id": 8239,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurotic|symptoms|dystonic|experienced|foreign|psychotic",
+    "conclusion": "Neurotic symptoms are ego-dystonic (experienced as foreign); psychotic symptoms are ego-syntonic (accepted as real)"
+  },
+  {
+    "id": 8240,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|flight|illness|avoid|internal|conflict",
+    "conclusion": "Neurosis is a \"flight into illness\" to avoid internal conflict; psychosis is a \"flight from reality\" to avoid unbearable external demands"
+  },
+  {
+    "id": 8241,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurotics|often|describe|suffering|insightfully|psychotics",
+    "conclusion": "Neurotics can often describe their suffering insightfully; psychotics lack insight into their condition"
+  },
+  {
+    "id": 8242,
+    "topic": "Neurosis vs Psychosis",
+    "premise": "neurosis|accessible|psychoanalytic|treatment|psychosis|less",
+    "conclusion": "Neurosis is more accessible to psychoanalytic treatment; psychosis is less amenable to classical analysis due to weak therapeutic alliance"
+  },
+  {
+    "id": 8243,
+    "topic": "Resistance",
+    "premise": "resistance|opposition|mounted|against|bringing|unconscious",
+    "conclusion": "Resistance is the opposition mounted by the ego against bringing unconscious material into consciousness"
+  },
+  {
+    "id": 8244,
+    "topic": "Resistance",
+    "premise": "defensive|operation|designed|maintain|repression",
+    "conclusion": "It is a defensive operation designed to maintain repression"
+  },
+  {
+    "id": 8245,
+    "topic": "Resistance",
+    "premise": "neurotic|symptoms|maintained|resistance",
+    "conclusion": "All neurotic symptoms are maintained by resistance"
+  },
+  {
+    "id": 8246,
+    "topic": "Resistance",
+    "premise": "resistance|operates|unconsciously|patient|aware|resisting",
+    "conclusion": "Resistance operates unconsciously\u2014the patient is not aware they are resisting"
+  },
+  {
+    "id": 8247,
+    "topic": "Resistance",
+    "premise": "manifests|analysis|silence|forgetting|intellectualization|emotional",
+    "conclusion": "It manifests in analysis as silence, forgetting, intellectualization, emotional withdrawal, or changing the subject"
+  },
+  {
+    "id": 8248,
+    "topic": "Resistance",
+    "premise": "repression|resistance|stems|fear|repressed|impulse",
+    "conclusion": "Repression resistance stems from the ego's fear of the repressed impulse"
+  },
+  {
+    "id": 8249,
+    "topic": "Resistance",
+    "premise": "transference|resistance|occurs|patient|redirects|unconscious",
+    "conclusion": "Transference resistance occurs when the patient redirects unconscious feelings onto the analyst"
+  },
+  {
+    "id": 8250,
+    "topic": "Resistance",
+    "premise": "resistance|secondary|gain|arises|illness|provides",
+    "conclusion": "Resistance from secondary gain arises when the illness provides external advantages"
+  },
+  {
+    "id": 8251,
+    "topic": "Resistance",
+    "premise": "resistance|punishment|reflects|unconscious|sense|guilt",
+    "conclusion": "Resistance from the need for punishment reflects an unconscious sense of guilt"
+  },
+  {
+    "id": 8252,
+    "topic": "Resistance",
+    "premise": "resistance|rooted|compulsion|repeat|rather|remember",
+    "conclusion": "Id resistance is rooted in the compulsion to repeat rather than remember"
+  },
+  {
+    "id": 8253,
+    "topic": "Resistance",
+    "premise": "resistance|sign|failure|necessary|part|analytic",
+    "conclusion": "Resistance is not a sign of failure but a necessary part of the analytic process"
+  },
+  {
+    "id": 8254,
+    "topic": "Resistance",
+    "premise": "analysis|resistance|primary|task|psychoanalytic|treatment",
+    "conclusion": "The analysis of resistance is the primary task of psychoanalytic treatment"
+  },
+  {
+    "id": 8255,
+    "topic": "Resistance",
+    "premise": "dream|censorship|form|resistance|distorts|latent",
+    "conclusion": "Dream censorship is a form of resistance that distorts latent dream thoughts"
+  },
+  {
+    "id": 8256,
+    "topic": "Resistance",
+    "premise": "stronger|resistance|closer|important|repressed|material",
+    "conclusion": "The stronger the resistance, the closer one is to important repressed material"
+  },
+  {
+    "id": 8257,
+    "topic": "Resistance",
+    "premise": "flight|health|sudden|improvement|resistance|deeper",
+    "conclusion": "Flight into health\u2014sudden improvement\u2014can be a resistance to deeper work"
+  },
+  {
+    "id": 8258,
+    "topic": "Resistance",
+    "premise": "working|repetitive|process|overcoming|resistance",
+    "conclusion": "Working through is the repetitive process of overcoming resistance"
+  },
+  {
+    "id": 8259,
+    "topic": "The Therapeutic Process",
+    "premise": "goal|psychoanalysis|make|unconscious|conscious",
+    "conclusion": "The goal of psychoanalysis is to make the unconscious conscious"
+  },
+  {
+    "id": 8260,
+    "topic": "The Therapeutic Process",
+    "premise": "therapeutic|change|occurs|insight|understanding|origins",
+    "conclusion": "Therapeutic change occurs through insight\u2014understanding the origins and meaning of symptoms"
+  },
+  {
+    "id": 8261,
+    "topic": "The Therapeutic Process",
+    "premise": "analytic|relationship|transference|primary|vehicle|change",
+    "conclusion": "The analytic relationship (transference) is the primary vehicle for change"
+  },
+  {
+    "id": 8262,
+    "topic": "The Therapeutic Process",
+    "premise": "free|association|fundamental|rule|patients|whatever",
+    "conclusion": "Free association is the fundamental rule\u2014patients say whatever comes to mind without censorship"
+  },
+  {
+    "id": 8263,
+    "topic": "The Therapeutic Process",
+    "premise": "dream|interpretation|royal|road|unconscious|core",
+    "conclusion": "Dream interpretation is the \"royal road to the unconscious\" and a core therapeutic tool"
+  },
+  {
+    "id": 8264,
+    "topic": "The Therapeutic Process",
+    "premise": "working|gradual|repetitive|process|integrating|insights",
+    "conclusion": "Working through is the gradual, repetitive process of integrating insights into the personality"
+  },
+  {
+    "id": 8265,
+    "topic": "The Therapeutic Process",
+    "premise": "transference|neurosis|develops|analysis|early|conflicts",
+    "conclusion": "Transference neurosis develops in analysis\u2014early conflicts are projected onto the analyst and resolved in vivo"
+  },
+  {
+    "id": 8266,
+    "topic": "The Therapeutic Process",
+    "premise": "countertransference|recognized|managed|analyst|avoid|interference",
+    "conclusion": "Countertransference must be recognized and managed by the analyst to avoid interference"
+  },
+  {
+    "id": 8267,
+    "topic": "The Therapeutic Process",
+    "premise": "analyst|neutrality|abstinence|create|conditions|patient",
+    "conclusion": "The analyst's neutrality and abstinence create conditions in which the patient's unconscious patterns can emerge and be examined"
+  },
+  {
+    "id": 8268,
+    "topic": "The Therapeutic Process",
+    "premise": "training|analysis|analyst|essential|ensure|sufficient",
+    "conclusion": "Training analysis of the analyst is essential to ensure sufficient self-knowledge to practice without projecting personal conflicts onto patients"
+  },
+  {
+    "id": 8269,
+    "topic": "The Therapeutic Process",
+    "premise": "psychoanalysis|aims|merely|symptom|removal|structural",
+    "conclusion": "Psychoanalysis aims not merely at symptom removal but at structural reorganization of the personality"
+  },
+  {
+    "id": 8270,
+    "topic": "Psychoanalysis vs Psychiatry",
+    "premise": "psychiatry|freud|descriptive|classificatory|biologically|oriented",
+    "conclusion": "Psychiatry (in Freud's era) was descriptive, classificatory, and biologically oriented; psychoanalysis is explanatory, dynamic, and psychological"
+  },
+  {
+    "id": 8271,
+    "topic": "Psychoanalysis vs Psychiatry",
+    "premise": "psychiatry|seeks|categorize|symptoms|psychoanalysis|understand",
+    "conclusion": "Psychiatry seeks to categorize symptoms; psychoanalysis seeks to understand meaning"
+  },
+  {
+    "id": 8272,
+    "topic": "Psychoanalysis vs Psychiatry",
+    "premise": "biological|psychiatry|treats|symptoms|medication|psychoanalysis",
+    "conclusion": "Biological psychiatry treats symptoms with medication; psychoanalysis treats causes with talk"
+  },
+  {
+    "id": 8273,
+    "topic": "Psychoanalysis vs Psychiatry",
+    "premise": "medication|suppresses|symptoms|resolve|conflict",
+    "conclusion": "Medication suppresses symptoms but does not resolve conflict"
+  },
+  {
+    "id": 8274,
+    "topic": "Psychoanalysis vs Psychiatry",
+    "premise": "psychoanalytic|diagnosis|structural|super|balance|developmental",
+    "conclusion": "Psychoanalytic diagnosis is structural (id/ego/super-ego balance) and developmental (fixation points)"
+  },
+  {
+    "id": 8275,
+    "topic": "Sadism and Masochism",
+    "premise": "sadism|sexual|perversion|pleasure|derived|inflicting",
+    "conclusion": "Sadism is the sexual perversion in which pleasure is derived from inflicting pain, suffering, or humiliation on another"
+  },
+  {
+    "id": 8276,
+    "topic": "Sadism and Masochism",
+    "premise": "originates|genital|stages|development|especially|anal",
+    "conclusion": "It originates in the pre-genital stages of development, especially the anal-sadistic phase"
+  },
+  {
+    "id": 8277,
+    "topic": "Sadism and Masochism",
+    "premise": "sadism|component|sexual|instinct|fused|aggressive",
+    "conclusion": "Sadism is a component of the sexual instinct fused with the aggressive instinct"
+  },
+  {
+    "id": 8278,
+    "topic": "Sadism and Masochism",
+    "premise": "normal|development|sadism|sublimated|competitiveness|assertiveness",
+    "conclusion": "In normal development, sadism is sublimated into competitiveness, assertiveness, and mastery"
+  },
+  {
+    "id": 8279,
+    "topic": "Sadism and Masochism",
+    "premise": "sublimated|sadism|manifest|cruelty|violence|sexual",
+    "conclusion": "Un-sublimated sadism can manifest as cruelty, violence, or sexual perversion"
+  },
+  {
+    "id": 8280,
+    "topic": "Sadism and Masochism",
+    "premise": "sadism|fueled|death|instinct|thanatos|turned",
+    "conclusion": "Sadism is fueled by the death instinct (Thanatos) turned outward"
+  },
+  {
+    "id": 8281,
+    "topic": "Sadism and Masochism",
+    "premise": "masochism|sexual|perversion|pleasure|derived|experiencing",
+    "conclusion": "Masochism is the sexual perversion in which pleasure is derived from experiencing pain, suffering, or humiliation"
+  },
+  {
+    "id": 8282,
+    "topic": "Sadism and Masochism",
+    "premise": "reverse|sadism|aggressive|instinct|turned|against",
+    "conclusion": "It is the reverse of sadism\u2014the aggressive instinct turned against the self"
+  },
+  {
+    "id": 8283,
+    "topic": "Sadism and Masochism",
+    "premise": "erotogenic|masochism|basis|pleasure|pain|rooted",
+    "conclusion": "Erotogenic masochism is the basis\u2014pleasure in pain itself, rooted in sexuality"
+  },
+  {
+    "id": 8284,
+    "topic": "Sadism and Masochism",
+    "premise": "feminine|masochism|denotes|passive|surrendering|position",
+    "conclusion": "Feminine masochism denotes a passive, surrendering position (not exclusive to women)"
+  },
+  {
+    "id": 8285,
+    "topic": "Sadism and Masochism",
+    "premise": "moral|masochism|involves|seeking|suffering|satisfy",
+    "conclusion": "Moral masochism involves seeking suffering to satisfy unconscious guilt"
+  },
+  {
+    "id": 8286,
+    "topic": "Sadism and Masochism",
+    "premise": "death|instinct|thanatos|ultimate|source|masochism",
+    "conclusion": "The death instinct (Thanatos) is the ultimate source of masochism"
+  },
+  {
+    "id": 8287,
+    "topic": "Sadism and Masochism",
+    "premise": "primary|masochism|death|instinct|directed|inward",
+    "conclusion": "Primary masochism is the death instinct directed inward before being redirected outward as aggression"
+  },
+  {
+    "id": 8288,
+    "topic": "Sadism and Masochism",
+    "premise": "secondary|masochism|results|sadism|turned|back",
+    "conclusion": "Secondary masochism results from sadism turned back against the self"
+  },
+  {
+    "id": 8289,
+    "topic": "Sadism and Masochism",
+    "premise": "sadism|masochism|sides|coin|aggressive|instinct",
+    "conclusion": "Sadism and masochism are two sides of the same coin\u2014the aggressive instinct directed outward or inward"
+  },
+  {
+    "id": 8290,
+    "topic": "The Occult and Childhood",
+    "premise": "childhood|thinking|animistic|children|believe|thoughts",
+    "conclusion": "Childhood thinking is animistic\u2014children believe thoughts, words, and wishes can directly affect the world"
+  },
+  {
+    "id": 8291,
+    "topic": "The Occult and Childhood",
+    "premise": "omnipotence|thoughts|normal|developmental|stage",
+    "conclusion": "This omnipotence of thoughts is a normal developmental stage"
+  },
+  {
+    "id": 8292,
+    "topic": "The Occult and Childhood",
+    "premise": "neurosis|regression|childhood|belief|especially|obsessional",
+    "conclusion": "In neurosis, there is a regression to this childhood belief, especially in obsessional neurosis"
+  },
+  {
+    "id": 8293,
+    "topic": "The Occult and Childhood",
+    "premise": "magical|thinking|childhood|underlies|later|superstitious",
+    "conclusion": "Magical thinking in childhood underlies later superstitious and occult beliefs in adults"
+  },
+  {
+    "id": 8294,
+    "topic": "The Occult and Childhood",
+    "premise": "uncanny|arises|repressed|childhood|beliefs|resurface",
+    "conclusion": "The uncanny arises when repressed childhood beliefs resurface in adulthood"
+  },
+  {
+    "id": 8295,
+    "topic": "The Occult and Childhood",
+    "premise": "telepathy|exists|primitive|form|communication|rooted",
+    "conclusion": "Telepathy, if it exists, would be a primitive form of communication rooted in archaic mental layers"
+  },
+  {
+    "id": 8296,
+    "topic": "The Occult and Childhood",
+    "premise": "occult|experiences|often|involve|repressed|death",
+    "conclusion": "Occult experiences often involve repressed death wishes or hostile impulses projected outward"
+  },
+  {
+    "id": 8297,
+    "topic": "The Occult and Childhood",
+    "premise": "fear|evil|stems|projected|envy|aggression",
+    "conclusion": "Fear of the evil eye stems from projected envy and aggression originating in sibling rivalry"
+  },
+  {
+    "id": 8298,
+    "topic": "The Occult and Childhood",
+    "premise": "demonological|possession|represents|projected|forbidden|sexual",
+    "conclusion": "Demonological possession represents projected forbidden sexual and aggressive drives"
+  },
+  {
+    "id": 8299,
+    "topic": "The Occult and Childhood",
+    "premise": "childhood|imaginary|friends|monsters|embody|split",
+    "conclusion": "In childhood, imaginary friends and monsters embody split-off parts of the self"
+  },
+  {
+    "id": 8300,
+    "topic": "The Occult and Childhood",
+    "premise": "night|terrors|childhood|phobias|express|repressed",
+    "conclusion": "Night terrors and childhood phobias express repressed Oedipal conflicts in supernatural form"
+  },
+  {
+    "id": 8301,
+    "topic": "The Occult and Childhood",
+    "premise": "concept|develops|infant|idealization|father",
+    "conclusion": "The concept of God develops from the infant's idealization of the father"
+  },
+  {
+    "id": 8302,
+    "topic": "The Occult and Childhood",
+    "premise": "angels|devils|splits|parental|imago|good",
+    "conclusion": "Angels and devils are splits of the parental imago into all-good and all-bad"
+  },
+  {
+    "id": 8303,
+    "topic": "The Occult and Childhood",
+    "premise": "ghosts|often|represent|unacknowledged|guilt|toward",
+    "conclusion": "Ghosts often represent unacknowledged guilt toward the dead (especially parents)"
+  },
+  {
+    "id": 8304,
+    "topic": "Civilization and Society",
+    "premise": "civilization|built|instinctual|renunciation|especially|aggression",
+    "conclusion": "Civilization is built on instinctual renunciation (especially aggression and incest)"
+  },
+  {
+    "id": 8305,
+    "topic": "Civilization and Society",
+    "premise": "much|repression|leads|neurosis|little|chaos",
+    "conclusion": "Too much repression leads to neurosis; too little leads to chaos"
+  },
+  {
+    "id": 8306,
+    "topic": "Civilization and Society",
+    "premise": "healthy|society|balances|freedom|restraint",
+    "conclusion": "A healthy society balances freedom and restraint"
+  },
+  {
+    "id": 8307,
+    "topic": "Civilization and Society",
+    "premise": "education|enlighten|about|sexuality|aggression|repress",
+    "conclusion": "Education should enlighten about sexuality and aggression, not repress"
+  },
+  {
+    "id": 8308,
+    "topic": "Civilization and Society",
+    "premise": "science|essential|sublimations|communal|mental|health",
+    "conclusion": "Art and science are essential sublimations for communal mental health"
+  },
+  {
+    "id": 8309,
+    "topic": "Civilization and Society",
+    "premise": "religion|illusory|provide|comfort|infantilize",
+    "conclusion": "Religion, while illusory, can provide comfort but also infantilize"
+  },
+  {
+    "id": 8310,
+    "topic": "Civilization and Society",
+    "premise": "government|benevolent|super|tyrannical",
+    "conclusion": "Government should act as a benevolent super-ego\u2014just, not tyrannical"
+  },
+  {
+    "id": 8311,
+    "topic": "Civilization and Society",
+    "premise": "internalizes|paternal|prohibition|without|crushing|individuality",
+    "conclusion": "Law internalizes paternal prohibition without crushing individuality"
+  },
+  {
+    "id": 8312,
+    "topic": "Civilization and Society",
+    "premise": "economic|inequality|fuels|resentment|unconscious|sibling",
+    "conclusion": "Economic inequality fuels resentment and unconscious sibling rivalry"
+  },
+  {
+    "id": 8313,
+    "topic": "Civilization and Society",
+    "premise": "failure|civilization|sublimate|aggression",
+    "conclusion": "War is the failure of civilization to sublimate aggression"
+  },
+  {
+    "id": 8314,
+    "topic": "Civilization and Society",
+    "premise": "healthy|sexuality|society|requires|less|guilt",
+    "conclusion": "Healthy sexuality in society requires less guilt and more openness"
+  },
+  {
+    "id": 8315,
+    "topic": "Civilization and Society",
+    "premise": "child|rearing|without|excessive|harshness|indulgence",
+    "conclusion": "Child-rearing without excessive harshness or indulgence produces stronger egos"
+  },
+  {
+    "id": 8316,
+    "topic": "Civilization and Society",
+    "premise": "goal|civilization|enable|love|work",
+    "conclusion": "The goal of civilization is to enable \"love and work\""
+  },
+  {
+    "id": 8317,
+    "topic": "Topographical Model",
+    "premise": "preconscious|contains|material|currently|conscious|become",
+    "conclusion": "The preconscious contains material that is not currently conscious but can become so with attention"
+  },
+  {
+    "id": 8318,
+    "topic": "Topographical Model",
+    "premise": "unconscious|proper|dynamic|contains|repressed|material",
+    "conclusion": "The unconscious proper (the dynamic unconscious) contains repressed material actively barred from consciousness"
+  },
+  {
+    "id": 8319,
+    "topic": "Topographical Model",
+    "premise": "unconscious|processes|characterized|primary|process|condensation",
+    "conclusion": "Unconscious processes are characterized by primary process\u2014condensation, displacement, and disregard for logical contradiction"
+  },
+  {
+    "id": 8320,
+    "topic": "Topographical Model",
+    "premise": "preconscious|conscious|processes|follow|secondary|process",
+    "conclusion": "Preconscious and conscious processes follow secondary process\u2014logical, temporal, and reality-oriented thinking"
+  },
+  {
+    "id": 8321,
+    "topic": "Topographical Model",
+    "premise": "repression|mechanism|maintains|boundary|unconscious|preconscious",
+    "conclusion": "Repression is the mechanism that maintains the boundary between the unconscious and the preconscious-conscious systems"
+  },
+  {
+    "id": 8322,
+    "topic": "Topographical Model",
+    "premise": "censorship|unconscious|preconscious|operates|continuously|sleep",
+    "conclusion": "The censorship between unconscious and preconscious operates continuously, even in sleep (though weakened)"
+  },
+  {
+    "id": 8323,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "slips|tongue|parapraxes|reveal|influence|unconscious",
+    "conclusion": "Slips of the tongue (parapraxes) reveal the influence of unconscious wishes on conscious speech"
+  },
+  {
+    "id": 8324,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "forgetting|names|words|often|motivated|unconscious",
+    "conclusion": "Forgetting names and words is often motivated by unconscious associations connected to the forgotten material"
+  },
+  {
+    "id": 8325,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "mislaying|objects|frequently|expresses|unconscious|wish",
+    "conclusion": "Mislaying objects frequently expresses an unconscious wish to be rid of them or what they represent"
+  },
+  {
+    "id": 8326,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "bungled|actions|symptomatic|acts|reveal|unconscious",
+    "conclusion": "Bungled actions (symptomatic acts) reveal unconscious intentions that contradict conscious purposes"
+  },
+  {
+    "id": 8327,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "accidents|mental|life|psychical|acts|determined",
+    "conclusion": "There are no accidents in mental life\u2014all psychical acts are determined by prior causes, mostly unconscious"
+  },
+  {
+    "id": 8328,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "misreadings|mishearings|reveal|reader|listener|unconscious",
+    "conclusion": "Misreadings and mishearings reveal the reader's or listener's unconscious expectations and wishes"
+  },
+  {
+    "id": 8329,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "combined|parapraxes|multiple|slips|converging|indicate",
+    "conclusion": "Combined parapraxes (multiple slips converging) indicate especially strong unconscious motivation"
+  },
+  {
+    "id": 8330,
+    "topic": "Parapraxes and the Psychopathology of Everyday Life",
+    "premise": "chance|actions|superstitions|reveal|projected|unconscious",
+    "conclusion": "Chance actions and superstitions reveal projected unconscious material attributed to external fate"
+  },
+  {
+    "id": 8331,
+    "topic": "Dream Theory",
+    "premise": "latent|dream|content|consists|unconscious|thoughts",
+    "conclusion": "The latent dream content consists of the unconscious thoughts and wishes that form the dream"
+  },
+  {
+    "id": 8332,
+    "topic": "Dream Theory",
+    "premise": "manifest|dream|content|remembered|disguised|distorted",
+    "conclusion": "The manifest dream content is the remembered dream\u2014a disguised, distorted version of the latent content"
+  },
+  {
+    "id": 8333,
+    "topic": "Dream Theory",
+    "premise": "dream|work|process|transforms|latent|content",
+    "conclusion": "Dream-work is the process that transforms latent content into manifest content"
+  },
+  {
+    "id": 8334,
+    "topic": "Dream Theory",
+    "premise": "condensation|compresses|multiple|latent|elements|single",
+    "conclusion": "Condensation compresses multiple latent elements into a single manifest image"
+  },
+  {
+    "id": 8335,
+    "topic": "Dream Theory",
+    "premise": "displacement|shifts|psychical|intensity|significant|elements",
+    "conclusion": "Displacement shifts psychical intensity from significant elements to trivial ones"
+  },
+  {
+    "id": 8336,
+    "topic": "Dream Theory",
+    "premise": "considerations|representability|transform|abstract|thoughts|concrete",
+    "conclusion": "Considerations of representability transform abstract thoughts into concrete visual images"
+  },
+  {
+    "id": 8337,
+    "topic": "Dream Theory",
+    "premise": "secondary|revision|imposes|narrative|coherence|fragmented",
+    "conclusion": "Secondary revision imposes narrative coherence on the fragmented dream material"
+  },
+  {
+    "id": 8338,
+    "topic": "Dream Theory",
+    "premise": "residues|trivial|recent|experiences|provide|material",
+    "conclusion": "Day residues\u2014trivial recent experiences\u2014provide the material onto which deeper wishes attach"
+  },
+  {
+    "id": 8339,
+    "topic": "Dream Theory",
+    "premise": "infantile|wishes|especially|oedipal|ultimate|source",
+    "conclusion": "Infantile wishes, especially Oedipal ones, are the ultimate source of dream motivation"
+  },
+  {
+    "id": 8340,
+    "topic": "Dream Theory",
+    "premise": "punishment|dreams|satisfy|superego|still|fulfilling",
+    "conclusion": "Punishment dreams satisfy the superego's need for punishment while still fulfilling a wish"
+  },
+  {
+    "id": 8341,
+    "topic": "Dream Theory",
+    "premise": "anxiety|dreams|represent|failed|attempts|wish",
+    "conclusion": "Anxiety dreams represent failed attempts at wish-fulfillment where the disguise breaks down"
+  },
+  {
+    "id": 8342,
+    "topic": "Dream Theory",
+    "premise": "typical|dreams|falling|flying|nakedness|exam",
+    "conclusion": "Typical dreams (falling, flying, nakedness, exam failure) have universal symbolic meanings rooted in common developmental experiences"
+  },
+  {
+    "id": 8343,
+    "topic": "Dream Theory",
+    "premise": "dream|symbols|relatively|constant|certain|objects",
+    "conclusion": "Dream symbols are relatively constant\u2014certain objects regularly stand for specific unconscious ideas (e.g., elongated objects for the phallus)"
+  },
+  {
+    "id": 8344,
+    "topic": "Dream Theory",
+    "premise": "navel|dream|point|beyond|interpretation|cannot",
+    "conclusion": "The navel of the dream is the point beyond which interpretation cannot penetrate\u2014the unknowable core"
+  },
+  {
+    "id": 8345,
+    "topic": "Dream Theory",
+    "premise": "recurrent|dreams|indicate|unresolved|conflicts|repeatedly",
+    "conclusion": "Recurrent dreams indicate unresolved conflicts that repeatedly demand psychical attention"
+  },
+  {
+    "id": 8346,
+    "topic": "Libido Theory",
+    "premise": "libido|quantitative|economic|aspect|sexual|instinct",
+    "conclusion": "Libido is the quantitative, economic aspect of the sexual instinct\u2014its energy"
+  },
+  {
+    "id": 8347,
+    "topic": "Libido Theory",
+    "premise": "object|libido|cathected|onto|external|objects",
+    "conclusion": "Object-libido is libido cathected onto external objects"
+  },
+  {
+    "id": 8348,
+    "topic": "Libido Theory",
+    "premise": "libido|narcissistic|cathected|onto|self",
+    "conclusion": "Ego-libido (narcissistic libido) is libido cathected onto the self"
+  },
+  {
+    "id": 8349,
+    "topic": "Libido Theory",
+    "premise": "limited|quantity|libido|available|cathecting|objects",
+    "conclusion": "There is a limited quantity of libido available\u2014cathecting objects withdraws energy from the ego and vice versa"
+  },
+  {
+    "id": 8350,
+    "topic": "Libido Theory",
+    "premise": "libido|displaced|object|another|associative|pathways",
+    "conclusion": "Libido can be displaced from one object to another through associative pathways"
+  },
+  {
+    "id": 8351,
+    "topic": "Libido Theory",
+    "premise": "damming|libido|stasis|produces|anxiety|predisposes",
+    "conclusion": "Damming up of libido (stasis) produces anxiety and predisposes to neurosis"
+  },
+  {
+    "id": 8352,
+    "topic": "Libido Theory",
+    "premise": "sublimation|redirects|libido|toward|sexual|culturally",
+    "conclusion": "Sublimation redirects libido toward non-sexual, culturally valued aims without repression"
+  },
+  {
+    "id": 8353,
+    "topic": "Libido Theory",
+    "premise": "regression|involves|return|libido|earlier|fixation",
+    "conclusion": "Regression involves the return of libido to earlier fixation points when current gratification is blocked"
+  },
+  {
+    "id": 8354,
+    "topic": "Libido Theory",
+    "premise": "fixation|attachment|libido|earlier|developmental|stage",
+    "conclusion": "Fixation is the attachment of libido to an earlier developmental stage or object"
+  },
+  {
+    "id": 8355,
+    "topic": "Libido Theory",
+    "premise": "choice|neurosis|perversion|depends|fate|libido",
+    "conclusion": "The choice between neurosis and perversion depends on the fate of the libido at fixation points"
+  },
+  {
+    "id": 8356,
+    "topic": "Psychosexual Development",
+    "premise": "oral|stage|years|centers|feeding|sucking",
+    "conclusion": "The oral stage (0-1 years) centers on feeding, sucking, and incorporation"
+  },
+  {
+    "id": 8357,
+    "topic": "Psychosexual Development",
+    "premise": "oral|incorporative|character|traits|include|dependency",
+    "conclusion": "Oral-incorporative character traits include dependency, optimism, and gullibility"
+  },
+  {
+    "id": 8358,
+    "topic": "Psychosexual Development",
+    "premise": "oral|sadistic|character|traits|include|verbal",
+    "conclusion": "Oral-sadistic character traits include verbal aggression, sarcasm, and pessimism"
+  },
+  {
+    "id": 8359,
+    "topic": "Psychosexual Development",
+    "premise": "anal|stage|years|centers|retention|expulsion",
+    "conclusion": "The anal stage (1-3 years) centers on retention and expulsion, control and autonomy"
+  },
+  {
+    "id": 8360,
+    "topic": "Psychosexual Development",
+    "premise": "anal|retentive|character|traits|include|orderliness",
+    "conclusion": "Anal-retentive character traits include orderliness, parsimony, and obstinacy"
+  },
+  {
+    "id": 8361,
+    "topic": "Psychosexual Development",
+    "premise": "anal|expulsive|character|traits|include|messiness",
+    "conclusion": "Anal-expulsive character traits include messiness, generosity, and defiance"
+  },
+  {
+    "id": 8362,
+    "topic": "Psychosexual Development",
+    "premise": "phallic|stage|years|centers|genital|awareness",
+    "conclusion": "The phallic stage (3-6 years) centers on genital awareness and the Oedipus complex"
+  },
+  {
+    "id": 8363,
+    "topic": "Psychosexual Development",
+    "premise": "latency|period|years|puberty|involves|temporary",
+    "conclusion": "The latency period (6 years to puberty) involves the temporary quiescence of sexual drives"
+  },
+  {
+    "id": 8364,
+    "topic": "Psychosexual Development",
+    "premise": "genital|stage|puberty|onward|represents|mature",
+    "conclusion": "The genital stage (puberty onward) represents mature sexuality with capacity for object love"
+  },
+  {
+    "id": 8365,
+    "topic": "Psychosexual Development",
+    "premise": "psychosexual|stage|characteristic|anxieties|conflicts|modes",
+    "conclusion": "Each psychosexual stage has characteristic anxieties, conflicts, and modes of relating"
+  },
+  {
+    "id": 8366,
+    "topic": "Psychosexual Development",
+    "premise": "character|formed|largely|residues|earlier|psychosexual",
+    "conclusion": "Character is formed largely by the residues of earlier psychosexual stages"
+  },
+  {
+    "id": 8367,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "superego|heir|oedipus|complex|arises|internalization",
+    "conclusion": "The superego is heir to the Oedipus complex\u2014it arises from the internalization of parental prohibitions"
+  },
+  {
+    "id": 8368,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "reservoir|instincts|entirely|unconscious|governed|pleasure",
+    "conclusion": "The id is the reservoir of the instincts, entirely unconscious and governed by the pleasure principle"
+  },
+  {
+    "id": 8369,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "develops|contact|external|reality",
+    "conclusion": "The ego develops out of the id through contact with external reality"
+  },
+  {
+    "id": 8370,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "mediates|among|demands|superego|external|reality",
+    "conclusion": "The ego mediates among the demands of id, superego, and external reality"
+  },
+  {
+    "id": 8371,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "partly|conscious|preconscious|unconscious",
+    "conclusion": "The ego is partly conscious, partly preconscious, and partly unconscious"
+  },
+  {
+    "id": 8372,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "superego|contains|ideal|aspirations|conscience|prohibitions",
+    "conclusion": "The superego contains the ego-ideal (aspirations) and the conscience (prohibitions)"
+  },
+  {
+    "id": 8373,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "severity|superego|directly|correspond|actual|parental",
+    "conclusion": "The severity of the superego does not directly correspond to the severity of actual parental discipline"
+  },
+  {
+    "id": 8374,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "harsh|superego|develop|introjected|aggression|originally",
+    "conclusion": "A harsh superego may develop from introjected aggression originally directed at the parents"
+  },
+  {
+    "id": 8375,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "superego|unconscious|people|feel|guilty|without",
+    "conclusion": "The superego can be unconscious\u2014people may feel guilty without knowing why"
+  },
+  {
+    "id": 8376,
+    "topic": "Structural Model (Id, Ego, Superego)",
+    "premise": "soll|werden",
+    "conclusion": "Where id was, there ego shall be (Wo Es war, soll Ich werden)"
+  },
+  {
+    "id": 8377,
+    "topic": "Defense Mechanisms",
+    "premise": "seat|defense|mechanisms",
+    "conclusion": "The ego is the seat of the defense mechanisms"
+  },
+  {
+    "id": 8378,
+    "topic": "Defense Mechanisms",
+    "premise": "projection|attributes|unacceptable|impulses|others",
+    "conclusion": "Projection attributes one's own unacceptable impulses to others"
+  },
+  {
+    "id": 8379,
+    "topic": "Defense Mechanisms",
+    "premise": "reaction|formation|replaces|unacceptable|impulse|opposite",
+    "conclusion": "Reaction formation replaces an unacceptable impulse with its opposite"
+  },
+  {
+    "id": 8380,
+    "topic": "Defense Mechanisms",
+    "premise": "rationalization|provides|acceptable|conscious|reasons|unconsciously",
+    "conclusion": "Rationalization provides acceptable conscious reasons for unconsciously motivated behavior"
+  },
+  {
+    "id": 8381,
+    "topic": "Defense Mechanisms",
+    "premise": "intellectualization|detaches|affect|ideas|treating|emotional",
+    "conclusion": "Intellectualization detaches affect from ideas, treating emotional matters purely cognitively"
+  },
+  {
+    "id": 8382,
+    "topic": "Defense Mechanisms",
+    "premise": "regression|returns|earlier|modes|functioning|stress",
+    "conclusion": "Regression returns to earlier modes of functioning under stress"
+  },
+  {
+    "id": 8383,
+    "topic": "Defense Mechanisms",
+    "premise": "denial|refuses|acknowledge|aspect|external|reality",
+    "conclusion": "Denial refuses to acknowledge an aspect of external reality"
+  },
+  {
+    "id": 8384,
+    "topic": "Defense Mechanisms",
+    "premise": "introjection|takes|aspects|external|object|making",
+    "conclusion": "Introjection takes in aspects of an external object, making them part of the self"
+  },
+  {
+    "id": 8385,
+    "topic": "Defense Mechanisms",
+    "premise": "identification|aggressor|adopts|characteristics|threatening|figure",
+    "conclusion": "Identification with the aggressor adopts the characteristics of a threatening figure"
+  },
+  {
+    "id": 8386,
+    "topic": "Defense Mechanisms",
+    "premise": "displacement|redirects|impulse|original|object|safer",
+    "conclusion": "Displacement redirects an impulse from its original object to a safer substitute"
+  },
+  {
+    "id": 8387,
+    "topic": "Defense Mechanisms",
+    "premise": "turning|against|self|redirects|impulse|meant",
+    "conclusion": "Turning against the self redirects an impulse meant for others back onto oneself"
+  },
+  {
+    "id": 8388,
+    "topic": "Defense Mechanisms",
+    "premise": "reversal|opposite|transforms|impulse|contrary|love",
+    "conclusion": "Reversal into the opposite transforms an impulse into its contrary (love into hate)"
+  },
+  {
+    "id": 8389,
+    "topic": "Defense Mechanisms",
+    "premise": "acting|discharges|unconscious|conflict|behavior|rather",
+    "conclusion": "Acting out discharges unconscious conflict through behavior rather than remembering"
+  },
+  {
+    "id": 8390,
+    "topic": "Hysteria and Conversion",
+    "premise": "conversion|transforms|psychical|conflict|somatic|symptoms",
+    "conclusion": "Conversion transforms psychical conflict into somatic symptoms"
+  },
+  {
+    "id": 8391,
+    "topic": "Hysteria and Conversion",
+    "premise": "hysterical|symptoms|symbolic|meaning|related|repressed",
+    "conclusion": "Hysterical symptoms have symbolic meaning related to repressed wishes and fantasies"
+  },
+  {
+    "id": 8392,
+    "topic": "Hysteria and Conversion",
+    "premise": "hysterical|paralysis|follows|patient|idea|anatomy",
+    "conclusion": "Hysterical paralysis follows the patient's idea of anatomy, not actual neuroanatomy"
+  },
+  {
+    "id": 8393,
+    "topic": "Hysteria and Conversion",
+    "premise": "affect|strangled|traumatic|experience|converted|somatic",
+    "conclusion": "The affect strangled during a traumatic experience is converted into a somatic symptom"
+  },
+  {
+    "id": 8394,
+    "topic": "Hysteria and Conversion",
+    "premise": "anna|case|demonstrated|symptoms|meaning|traced",
+    "conclusion": "Anna O.'s case demonstrated that symptoms have meaning and can be traced to specific memories"
+  },
+  {
+    "id": 8395,
+    "topic": "Hysteria and Conversion",
+    "premise": "talking|cure|cathartic|method|originated|treatment",
+    "conclusion": "The talking cure (cathartic method) originated in the treatment of hysteria"
+  },
+  {
+    "id": 8396,
+    "topic": "Hysteria and Conversion",
+    "premise": "hysterics|suffer|mainly|reminiscences|unprocessed|traumatic",
+    "conclusion": "Hysterics suffer mainly from reminiscences\u2014unprocessed traumatic memories"
+  },
+  {
+    "id": 8397,
+    "topic": "Hysteria and Conversion",
+    "premise": "hysterical|symptoms|overdetermine|represent|multiple|unconscious",
+    "conclusion": "Hysterical symptoms overdetermine\u2014they represent multiple unconscious ideas simultaneously"
+  },
+  {
+    "id": 8398,
+    "topic": "Hysteria and Conversion",
+    "premise": "somatic|compliance|refers|body|readiness|express",
+    "conclusion": "Somatic compliance refers to the body's readiness to express conflict in particular organs"
+  },
+  {
+    "id": 8399,
+    "topic": "Hysteria and Conversion",
+    "premise": "belle|characteristic|lack|concern|hysteric|patients",
+    "conclusion": "La belle indiff\u00e9rence is the characteristic lack of concern hysteric patients show toward their symptoms"
+  },
+  {
+    "id": 8400,
+    "topic": "Obsessional Neurosis",
+    "premise": "obsessional|neurosis|involves|isolation|affect|idea",
+    "conclusion": "Obsessional neurosis involves the isolation of affect from the obsessional idea"
+  },
+  {
+    "id": 8401,
+    "topic": "Obsessional Neurosis",
+    "premise": "obsessional|rituals|magical|undoing|attempting|undo",
+    "conclusion": "Obsessional rituals are magical undoing\u2014attempting to undo aggressive or sexual wishes through ceremonial acts"
+  },
+  {
+    "id": 8402,
+    "topic": "Obsessional Neurosis",
+    "premise": "case|illustrated|obsessional|ideas|disguise|repressed",
+    "conclusion": "The Rat Man case illustrated how obsessional ideas disguise repressed sadistic and erotic wishes"
+  },
+  {
+    "id": 8403,
+    "topic": "Obsessional Neurosis",
+    "premise": "ambivalence|intensified|obsessional|neurosis|love|hate",
+    "conclusion": "Ambivalence is intensified in obsessional neurosis\u2014love and hate coexist toward the same object"
+  },
+  {
+    "id": 8404,
+    "topic": "Obsessional Neurosis",
+    "premise": "regression|anal|sadistic|phase|characteristic|obsessional",
+    "conclusion": "Regression to the anal-sadistic phase is characteristic of obsessional neurosis"
+  },
+  {
+    "id": 8405,
+    "topic": "Obsessional Neurosis",
+    "premise": "obsessional|doubting|represents|conflict|love|hate",
+    "conclusion": "Obsessional doubting represents the conflict between love and hate, uncertain which impulse will prevail"
+  },
+  {
+    "id": 8406,
+    "topic": "Obsessional Neurosis",
+    "premise": "obsessional|brooding|substitutes|intellectual|activity|action",
+    "conclusion": "Obsessional brooding substitutes intellectual activity for action, endlessly postponing decisions"
+  },
+  {
+    "id": 8407,
+    "topic": "Obsessional Neurosis",
+    "premise": "obsessional|symptoms|compromises|prohibited|impulses|forces",
+    "conclusion": "Obsessional symptoms are compromises between prohibited impulses and the forces of repression"
+  },
+  {
+    "id": 8408,
+    "topic": "Obsessional Neurosis",
+    "premise": "touch|taboos|obsessional|neurosis|defend|against",
+    "conclusion": "Touch taboos in obsessional neurosis defend against forbidden contact wishes"
+  },
+  {
+    "id": 8409,
+    "topic": "Obsessional Neurosis",
+    "premise": "omnipotence|thoughts|especially|pronounced|obsessional|neurosis",
+    "conclusion": "The omnipotence of thoughts is especially pronounced in obsessional neurosis, linking back to magical thinking"
+  },
+  {
+    "id": 8410,
+    "topic": "Paranoia and Psychosis",
+    "premise": "paranoia|involves|projection|unacceptable|homosexual|wishes",
+    "conclusion": "Paranoia involves the projection of unacceptable homosexual wishes onto external persecutors"
+  },
+  {
+    "id": 8411,
+    "topic": "Paranoia and Psychosis",
+    "premise": "formula|paranoid|projection|love|becomes|hates",
+    "conclusion": "The formula for paranoid projection: \"I love him\" becomes \"He hates (persecutes) me\""
+  },
+  {
+    "id": 8412,
+    "topic": "Paranoia and Psychosis",
+    "premise": "delusions|persecution|originate|projected|hostile|wishes",
+    "conclusion": "Delusions of persecution originate in projected hostile wishes"
+  },
+  {
+    "id": 8413,
+    "topic": "Paranoia and Psychosis",
+    "premise": "erotomania|transforms|love|loves|projection|gender",
+    "conclusion": "Erotomania transforms \"I love him\" into \"She loves me\" through projection and gender reversal"
+  },
+  {
+    "id": 8414,
+    "topic": "Paranoia and Psychosis",
+    "premise": "delusions|jealousy|project|unfaithful|wishes|onto",
+    "conclusion": "Delusions of jealousy project one's own unfaithful wishes onto the partner"
+  },
+  {
+    "id": 8415,
+    "topic": "Paranoia and Psychosis",
+    "premise": "megalomania|represents|withdrawal|libido|external|objects",
+    "conclusion": "Megalomania represents a withdrawal of libido from external objects back onto the ego"
+  },
+  {
+    "id": 8416,
+    "topic": "Paranoia and Psychosis",
+    "premise": "schreber|case|demonstrated|relationship|paranoia|repressed",
+    "conclusion": "The Schreber case demonstrated the relationship between paranoia and repressed homosexuality"
+  },
+  {
+    "id": 8417,
+    "topic": "Paranoia and Psychosis",
+    "premise": "psychosis|involves|radical|break|reality|neurosis",
+    "conclusion": "Psychosis involves a more radical break with reality than neurosis"
+  },
+  {
+    "id": 8418,
+    "topic": "Paranoia and Psychosis",
+    "premise": "psychosis|overwhelmed|reality|replaced|delusion",
+    "conclusion": "In psychosis, the ego is overwhelmed and reality is replaced by delusion"
+  },
+  {
+    "id": 8419,
+    "topic": "Paranoia and Psychosis",
+    "premise": "hallucinatory|wish|fulfillment|psychosis|represents|return",
+    "conclusion": "Hallucinatory wish-fulfillment in psychosis represents a return to primary process functioning"
+  },
+  {
+    "id": 8420,
+    "topic": "Narcissism",
+    "premise": "primary|narcissism|original|investment|libido|object",
+    "conclusion": "Primary narcissism is the original investment of libido in the ego before object cathexis"
+  },
+  {
+    "id": 8421,
+    "topic": "Narcissism",
+    "premise": "secondary|narcissism|occurs|libido|withdrawn|objects",
+    "conclusion": "Secondary narcissism occurs when libido withdrawn from objects is reinvested in the ego"
+  },
+  {
+    "id": 8422,
+    "topic": "Narcissism",
+    "premise": "ideal|remnant|primary|narcissism|projected|onto",
+    "conclusion": "The ego-ideal is a remnant of primary narcissism projected onto an idealized self-image"
+  },
+  {
+    "id": 8423,
+    "topic": "Narcissism",
+    "premise": "object|choice|narcissistic|based|resemblance|self",
+    "conclusion": "Object choice may be narcissistic (based on resemblance to self) or anaclitic (based on dependency on caregivers)"
+  },
+  {
+    "id": 8424,
+    "topic": "Narcissism",
+    "premise": "narcissistic|object|choice|includes|loving|like",
+    "conclusion": "Narcissistic object choice includes loving what one is, what one was, what one would like to be, or someone once part of oneself"
+  },
+  {
+    "id": 8425,
+    "topic": "Narcissism",
+    "premise": "organic|illness|increases|narcissism|withdrawing|libido",
+    "conclusion": "Organic illness increases narcissism by withdrawing libido from objects back to the ego"
+  },
+  {
+    "id": 8426,
+    "topic": "Narcissism",
+    "premise": "sleep|narcissistic|state|libido|withdrawn|external",
+    "conclusion": "Sleep is a narcissistic state in which libido is withdrawn from the external world"
+  },
+  {
+    "id": 8427,
+    "topic": "Narcissism",
+    "premise": "self|regard|depends|distance|ideal",
+    "conclusion": "Self-regard depends on the distance between the ego and the ego-ideal"
+  },
+  {
+    "id": 8428,
+    "topic": "Narcissism",
+    "premise": "narcissistic|injury|refers|threats|self|esteem",
+    "conclusion": "Narcissistic injury refers to threats to self-esteem that wound the ego's self-love"
+  },
+  {
+    "id": 8429,
+    "topic": "Narcissism",
+    "premise": "pathological|narcissism|involves|inability|cathect|objects",
+    "conclusion": "Pathological narcissism involves the inability to cathect objects or form attachments"
+  },
+  {
+    "id": 8430,
+    "topic": "Mourning and Melancholia",
+    "premise": "melancholia|differs|mourning|lost|object|incorporated",
+    "conclusion": "Melancholia differs from mourning in that the lost object is incorporated into the ego"
+  },
+  {
+    "id": 8431,
+    "topic": "Mourning and Melancholia",
+    "premise": "melancholia|ambivalence|toward|lost|object|leads",
+    "conclusion": "In melancholia, ambivalence toward the lost object leads to self-reproach as the ego attacks the introjected object"
+  },
+  {
+    "id": 8432,
+    "topic": "Mourning and Melancholia",
+    "premise": "self|criticism|melancholia|actually|introjected|abandoned",
+    "conclusion": "Self-criticism in melancholia is actually criticism of the introjected, abandoned love object"
+  },
+  {
+    "id": 8433,
+    "topic": "Mourning and Melancholia",
+    "premise": "mourning|normal|process|gradually|withdrawing|libido",
+    "conclusion": "Mourning is the normal process of gradually withdrawing libido from the lost object"
+  },
+  {
+    "id": 8434,
+    "topic": "Mourning and Melancholia",
+    "premise": "mourning|completed|becomes|free|cathect|objects",
+    "conclusion": "Mourning is completed when the ego becomes free to cathect new objects"
+  },
+  {
+    "id": 8435,
+    "topic": "Mourning and Melancholia",
+    "premise": "shadow|object|falls|melancholia|identified|lost",
+    "conclusion": "The shadow of the object falls upon the ego in melancholia\u2014the ego is identified with the lost object"
+  },
+  {
+    "id": 8436,
+    "topic": "Mourning and Melancholia",
+    "premise": "suicide|melancholia|murder|introjected|object|treats",
+    "conclusion": "Suicide in melancholia is murder of the introjected object\u2014the ego treats itself as it wished to treat the object"
+  },
+  {
+    "id": 8437,
+    "topic": "Mourning and Melancholia",
+    "premise": "mania|represents|sudden|liberation|energy|frees",
+    "conclusion": "Mania represents a sudden liberation of energy when the ego frees itself from the oppressive object"
+  },
+  {
+    "id": 8438,
+    "topic": "Mourning and Melancholia",
+    "premise": "predisposition|melancholia|involves|narcissistic|object|choice",
+    "conclusion": "The predisposition to melancholia involves narcissistic object choice and weak object cathexis"
+  },
+  {
+    "id": 8439,
+    "topic": "Mourning and Melancholia",
+    "premise": "unconscious|guilt|central|melancholia|superego|attacks",
+    "conclusion": "Unconscious guilt is central to melancholia\u2014the superego attacks the ego for aggressive wishes toward the object"
+  },
+  {
+    "id": 8440,
+    "topic": "Sexual Perversions",
+    "premise": "fetishism|arises|disavowal|female|castration|fetish",
+    "conclusion": "Fetishism arises from the disavowal of female castration\u2014the fetish substitutes for the mother's imagined phallus"
+  },
+  {
+    "id": 8441,
+    "topic": "Sexual Perversions",
+    "premise": "fetish|object|typically|last|thing|seen",
+    "conclusion": "The fetish object is typically the last thing seen before the traumatic perception of genital difference"
+  },
+  {
+    "id": 8442,
+    "topic": "Sexual Perversions",
+    "premise": "disavowal|verleugnung|allows|simultaneous|acknowledgment|denial",
+    "conclusion": "Disavowal (Verleugnung) allows the simultaneous acknowledgment and denial of castration"
+  },
+  {
+    "id": 8443,
+    "topic": "Sexual Perversions",
+    "premise": "perversions|represent|persistence|component|instincts|normally",
+    "conclusion": "Perversions represent the persistence of component instincts that normally become subordinate to genital primacy"
+  },
+  {
+    "id": 8444,
+    "topic": "Sexual Perversions",
+    "premise": "perversion|negative|neurosis|neurotic|represses|pervert",
+    "conclusion": "Perversion is the negative of neurosis\u2014what the neurotic represses, the pervert enacts"
+  },
+  {
+    "id": 8445,
+    "topic": "Sexual Perversions",
+    "premise": "voyeurism|exhibitionism|paired|perversions|rooted|scopophilic",
+    "conclusion": "Voyeurism and exhibitionism are paired perversions rooted in the scopophilic instinct"
+  },
+  {
+    "id": 8446,
+    "topic": "Sexual Perversions",
+    "premise": "homosexuality|stem|fixation|oedipal|mother|narcissistic",
+    "conclusion": "Homosexuality may stem from fixation on the pre-Oedipal mother, narcissistic object choice, or identification with the mother"
+  },
+  {
+    "id": 8447,
+    "topic": "Sexual Perversions",
+    "premise": "polymorphous|perversity|childhood|means|children|capable",
+    "conclusion": "Polymorphous perversity in childhood means children are capable of all sexual activities before organization under genital primacy"
+  },
+  {
+    "id": 8448,
+    "topic": "Sexual Perversions",
+    "premise": "perverse|sexuality|represents|developmental|arrest|genital",
+    "conclusion": "Perverse sexuality represents a developmental arrest at a pre-genital or partial stage"
+  },
+  {
+    "id": 8449,
+    "topic": "Sexual Perversions",
+    "premise": "component|instincts|looking|showing|touching|cruelty",
+    "conclusion": "The component instincts (looking, showing, touching, cruelty) are integrated under genital primacy in normal development"
+  },
+  {
+    "id": 8450,
+    "topic": "Transference",
+    "premise": "positive|transference|involves|tender|affectionate|feelings",
+    "conclusion": "Positive transference involves tender and affectionate feelings toward the analyst"
+  },
+  {
+    "id": 8451,
+    "topic": "Transference",
+    "premise": "negative|transference|involves|hostile|aggressive|feelings",
+    "conclusion": "Negative transference involves hostile and aggressive feelings toward the analyst"
+  },
+  {
+    "id": 8452,
+    "topic": "Transference",
+    "premise": "erotic|transference|occurs|sexual|feelings|past",
+    "conclusion": "Erotic transference occurs when sexual feelings from past relationships are transferred onto the analyst"
+  },
+  {
+    "id": 8453,
+    "topic": "Transference",
+    "premise": "transference|edition|relationship|patient|experiences|past",
+    "conclusion": "Transference is a new edition of an old relationship\u2014the patient re-experiences past object relations with the analyst"
+  },
+  {
+    "id": 8454,
+    "topic": "Transference",
+    "premise": "transference|resistance|uses|resist|analytic|work",
+    "conclusion": "Transference resistance uses the transference itself to resist the analytic work"
+  },
+  {
+    "id": 8455,
+    "topic": "Transference",
+    "premise": "analysis|transference|central|psychoanalytic|technique|reveals",
+    "conclusion": "Analysis of transference is central to psychoanalytic technique\u2014it reveals the patient's characteristic object relations"
+  },
+  {
+    "id": 8456,
+    "topic": "Transference",
+    "premise": "transference|neurosis|develops|treatment|recapitulates|infantile",
+    "conclusion": "The transference neurosis that develops in treatment recapitulates the infantile neurosis"
+  },
+  {
+    "id": 8457,
+    "topic": "Transference",
+    "premise": "resolution|transference|neurosis|essential|termination|analysis",
+    "conclusion": "Resolution of the transference neurosis is essential for termination of analysis"
+  },
+  {
+    "id": 8458,
+    "topic": "Transference",
+    "premise": "transference|occurs|relationships|analysis|makes|conscious",
+    "conclusion": "Transference occurs in all relationships\u2014analysis makes it conscious and amenable to examination"
+  },
+  {
+    "id": 8459,
+    "topic": "Transference",
+    "premise": "idealizing|transference|places|analyst|position|ideal",
+    "conclusion": "Idealizing transference places the analyst in the position of the ego-ideal"
+  },
+  {
+    "id": 8460,
+    "topic": "Resistance",
+    "premise": "resistance|force|within|patient|opposes|analytic",
+    "conclusion": "Resistance is any force within the patient that opposes the analytic work"
+  },
+  {
+    "id": 8461,
+    "topic": "Resistance",
+    "premise": "repression|resistance|keeps|unconscious|material|becoming",
+    "conclusion": "Repression resistance keeps unconscious material from becoming conscious"
+  },
+  {
+    "id": 8462,
+    "topic": "Resistance",
+    "premise": "transference|resistance|uses|feelings|about|analyst",
+    "conclusion": "Transference resistance uses feelings about the analyst to avoid insight"
+  },
+  {
+    "id": 8463,
+    "topic": "Resistance",
+    "premise": "resistance|arises|compulsion|repeat|rather|remember",
+    "conclusion": "Id resistance arises from the compulsion to repeat rather than remember"
+  },
+  {
+    "id": 8464,
+    "topic": "Resistance",
+    "premise": "superego|resistance|manifests|unconscious|guilt|punishment",
+    "conclusion": "Superego resistance manifests as unconscious guilt and the need for punishment"
+  },
+  {
+    "id": 8465,
+    "topic": "Resistance",
+    "premise": "resistance|includes|secondary|gain|illness|advantages",
+    "conclusion": "Ego resistance includes secondary gain from illness\u2014the advantages of being sick"
+  },
+  {
+    "id": 8466,
+    "topic": "Resistance",
+    "premise": "resistance|operates|unconsciously|patient|deliberately|obstruct",
+    "conclusion": "Resistance operates unconsciously\u2014the patient does not deliberately obstruct"
+  },
+  {
+    "id": 8467,
+    "topic": "Resistance",
+    "premise": "analysis|resistance|precedes|content|first|understand",
+    "conclusion": "Analysis of resistance precedes analysis of content\u2014one must first understand why material is defended against"
+  },
+  {
+    "id": 8468,
+    "topic": "Resistance",
+    "premise": "strength|resistance|indicates|forces|maintaining|repression",
+    "conclusion": "The strength of resistance indicates the strength of the forces maintaining repression"
+  },
+  {
+    "id": 8469,
+    "topic": "Resistance",
+    "premise": "overcoming|resistance|requires|repeated|working|merely",
+    "conclusion": "Overcoming resistance requires repeated working through, not merely intellectual insight"
+  },
+  {
+    "id": 8470,
+    "topic": "Jokes and the Unconscious",
+    "premise": "jokes|like|dreams|products|unconscious|employ",
+    "conclusion": "Jokes (like dreams) are products of the unconscious that employ condensation and displacement"
+  },
+  {
+    "id": 8471,
+    "topic": "Jokes and the Unconscious",
+    "premise": "tendentious|jokes|express|sexual|aggressive|content",
+    "conclusion": "Tendentious jokes express sexual or aggressive content in a socially acceptable form"
+  },
+  {
+    "id": 8472,
+    "topic": "Jokes and the Unconscious",
+    "premise": "innocent|jokes|provide|pleasure|technique|alone",
+    "conclusion": "Innocent jokes provide pleasure through technique alone (wordplay, double meaning)"
+  },
+  {
+    "id": 8473,
+    "topic": "Jokes and the Unconscious",
+    "premise": "technique|jokes|overcomes|inhibitions|allows|forbidden",
+    "conclusion": "The technique of jokes overcomes inhibitions and allows forbidden material to emerge"
+  },
+  {
+    "id": 8474,
+    "topic": "Jokes and the Unconscious",
+    "premise": "jokes|require|three|parties|joke|teller",
+    "conclusion": "Jokes require three parties: the joke-teller, the butt, and the listener"
+  },
+  {
+    "id": 8475,
+    "topic": "Jokes and the Unconscious",
+    "premise": "laughter|releases|psychical|energy|saved|lifting",
+    "conclusion": "Laughter releases psychical energy saved by the lifting of inhibition"
+  },
+  {
+    "id": 8476,
+    "topic": "Jokes and the Unconscious",
+    "premise": "comic|differs|jokes|requiring|unconscious",
+    "conclusion": "The comic differs from jokes in not requiring the unconscious"
+  },
+  {
+    "id": 8477,
+    "topic": "Jokes and the Unconscious",
+    "premise": "humor|highest|defensive|processes|refuses|hurt",
+    "conclusion": "Humor is the highest of these defensive processes\u2014the ego refuses to be hurt by reality"
+  },
+  {
+    "id": 8478,
+    "topic": "Jokes and the Unconscious",
+    "premise": "humor|allows|superego|console|making|light",
+    "conclusion": "Humor allows the superego to console the ego by making light of threats"
+  },
+  {
+    "id": 8479,
+    "topic": "Jokes and the Unconscious",
+    "premise": "represents|contribution|unconscious|comic",
+    "conclusion": "Wit represents the contribution of the unconscious to the comic"
+  },
+  {
+    "id": 8480,
+    "topic": "Religion and Culture",
+    "premise": "religion|illusion|fulfillment|oldest|strongest|wishes",
+    "conclusion": "Religion is an illusion\u2014a fulfillment of the oldest and strongest wishes of mankind"
+  },
+  {
+    "id": 8481,
+    "topic": "Religion and Culture",
+    "premise": "idea|derived|infantile|protective|father",
+    "conclusion": "The idea of God is derived from the infantile need for a protective father"
+  },
+  {
+    "id": 8482,
+    "topic": "Religion and Culture",
+    "premise": "religious|ideas|residue|experience|fulfillment|wishes",
+    "conclusion": "Religious ideas are not the residue of experience but the fulfillment of wishes"
+  },
+  {
+    "id": 8483,
+    "topic": "Religion and Culture",
+    "premise": "oceanic|feeling|mystical|oneness|represents|regression",
+    "conclusion": "The oceanic feeling (mystical oneness) represents regression to pre-ego states"
+  },
+  {
+    "id": 8484,
+    "topic": "Religion and Culture",
+    "premise": "totemism|earliest|form|religion|arising|guilt",
+    "conclusion": "Totemism is the earliest form of religion, arising from guilt over the primal patricide"
+  },
+  {
+    "id": 8485,
+    "topic": "Religion and Culture",
+    "premise": "primal|horde|hypothesis|posits|original|patricide",
+    "conclusion": "The primal horde hypothesis posits an original patricide by the band of brothers"
+  },
+  {
+    "id": 8486,
+    "topic": "Religion and Culture",
+    "premise": "totem|animal|represents|murdered|devoured|father",
+    "conclusion": "The totem animal represents the murdered and devoured father"
+  },
+  {
+    "id": 8487,
+    "topic": "Religion and Culture",
+    "premise": "taboo|totem|worship|express|ambivalence|reverence",
+    "conclusion": "Taboo and totem worship express ambivalence\u2014reverence and guilt toward the slain father"
+  },
+  {
+    "id": 8488,
+    "topic": "Religion and Culture",
+    "premise": "oedipus|complex|recapitulated|religious|belief|exalted",
+    "conclusion": "The Oedipus complex is recapitulated in religious belief\u2014God is the exalted father"
+  },
+  {
+    "id": 8489,
+    "topic": "Religion and Culture",
+    "premise": "monotheism|represents|return|repressed|primal|father",
+    "conclusion": "Monotheism represents the return of the repressed primal father"
+  },
+  {
+    "id": 8490,
+    "topic": "Religion and Culture",
+    "premise": "prohibition|against|making|images|reflects|original",
+    "conclusion": "The prohibition against making images of God reflects the original patricide"
+  },
+  {
+    "id": 8491,
+    "topic": "Religion and Culture",
+    "premise": "religious|ceremonial|resembles|obsessional|ritual|reactions",
+    "conclusion": "Religious ceremonial resembles obsessional ritual\u2014both are reactions to forbidden wishes"
+  },
+  {
+    "id": 8492,
+    "topic": "Religion and Culture",
+    "premise": "future|civilization|depends|replacing|religious|illusion",
+    "conclusion": "Future of civilization depends on replacing religious illusion with scientific education"
+  },
+  {
+    "id": 8493,
+    "topic": "Religion and Culture",
+    "premise": "moses|egyptian|gave|hebrews|monotheism|killed",
+    "conclusion": "Moses was an Egyptian who gave the Hebrews monotheism, and was killed by them"
+  },
+  {
+    "id": 8494,
+    "topic": "Art and Literature",
+    "premise": "provides|substitute|gratifications|renounced|instinctual|wishes",
+    "conclusion": "Art provides substitute gratifications for renounced instinctual wishes"
+  },
+  {
+    "id": 8495,
+    "topic": "Art and Literature",
+    "premise": "artist|transforms|personal|fantasy|universal|form",
+    "conclusion": "The artist transforms personal fantasy into universal form that allows shared enjoyment"
+  },
+  {
+    "id": 8496,
+    "topic": "Art and Literature",
+    "premise": "creative|writing|like|daydreaming|fulfills|wishes",
+    "conclusion": "Creative writing, like daydreaming, fulfills wishes\u2014especially ambitious and erotic ones"
+  },
+  {
+    "id": 8497,
+    "topic": "Art and Literature",
+    "premise": "aesthetic|pleasure|form|serves|bribe|allowing",
+    "conclusion": "The aesthetic pleasure of form serves as a bribe allowing access to deeper fantasy content"
+  },
+  {
+    "id": 8498,
+    "topic": "Art and Literature",
+    "premise": "leonardo|expressed|sublimated|homosexuality|inhibited|curiosity",
+    "conclusion": "Leonardo's art expressed sublimated homosexuality and inhibited curiosity"
+  },
+  {
+    "id": 8499,
+    "topic": "Art and Literature",
+    "premise": "dostoevsky|epilepsy|hysterical|self|punishment|patricidal",
+    "conclusion": "Dostoevsky's epilepsy was hysterical\u2014a self-punishment for patricidal wishes"
+  },
+  {
+    "id": 8500,
+    "topic": "Art and Literature",
+    "premise": "hamlet|delay|expresses|oedipal|guilt|claudius",
+    "conclusion": "Hamlet's delay expresses Oedipal guilt\u2014Claudius has done what Hamlet unconsciously wished"
+  },
+  {
+    "id": 8501,
+    "topic": "Art and Literature",
+    "premise": "uncanny|unheimliche|arises|repressed|material|returns",
+    "conclusion": "The uncanny (das Unheimliche) arises when repressed material returns in strange form"
+  },
+  {
+    "id": 8502,
+    "topic": "Art and Literature",
+    "premise": "double|represents|immortal|soul|becomes|uncanny",
+    "conclusion": "The double represents the immortal soul but becomes uncanny when associated with death"
+  },
+  {
+    "id": 8503,
+    "topic": "Art and Literature",
+    "premise": "great|speaks|unconscious|audience|recognizes|wishes",
+    "conclusion": "Great art speaks to the unconscious of the audience, which recognizes its own wishes in the work"
+  },
+  {
+    "id": 8504,
+    "topic": "Female Sexuality",
+    "premise": "girls|initially|believe|possess|penis|discovery",
+    "conclusion": "Girls initially believe they possess a penis; discovery of its absence produces penis envy"
+  },
+  {
+    "id": 8505,
+    "topic": "Female Sexuality",
+    "premise": "little|girl|blames|mother|lack|penis",
+    "conclusion": "The little girl blames her mother for her lack of a penis, prompting a turn toward the father"
+  },
+  {
+    "id": 8506,
+    "topic": "Female Sexuality",
+    "premise": "female|oedipus|complex|involves|desire|father",
+    "conclusion": "The female Oedipus complex involves desire for the father and rivalry with the mother"
+  },
+  {
+    "id": 8507,
+    "topic": "Female Sexuality",
+    "premise": "clitoris|original|erogenous|zone|femininity|requires",
+    "conclusion": "The clitoris is the original erogenous zone; femininity requires transfer of sensitivity to the vagina"
+  },
+  {
+    "id": 8508,
+    "topic": "Female Sexuality",
+    "premise": "women|superego|less|developed|lack|castration",
+    "conclusion": "Women's superego is less developed because they lack castration anxiety as a motive for its formation"
+  },
+  {
+    "id": 8509,
+    "topic": "Female Sexuality",
+    "premise": "femininity|involves|transformation|active|aims|passive",
+    "conclusion": "Femininity involves the transformation of active aims into passive ones"
+  },
+  {
+    "id": 8510,
+    "topic": "Female Sexuality",
+    "premise": "wish|baby|represents|displaced|penis",
+    "conclusion": "The wish for a baby represents the displaced wish for a penis"
+  },
+  {
+    "id": 8511,
+    "topic": "Female Sexuality",
+    "premise": "oedipal|attachment|mother|longer|intense|girls",
+    "conclusion": "Pre-Oedipal attachment to the mother is longer and more intense in girls than in boys"
+  },
+  {
+    "id": 8512,
+    "topic": "Female Sexuality",
+    "premise": "frigidity|women|often|stems|inability|transfer",
+    "conclusion": "Frigidity in women often stems from inability to transfer erotogenic sensitivity from clitoris to vagina"
+  },
+  {
+    "id": 8513,
+    "topic": "Female Sexuality",
+    "premise": "riddle|femininity|remains|great|unsolved|problems",
+    "conclusion": "The riddle of femininity remains one of the great unsolved problems of psychoanalysis"
+  },
+  {
+    "id": 8514,
+    "topic": "Etiology of Neurosis",
+    "premise": "actual|neuroses|anxiety|neurosis|neurasthenia|result",
+    "conclusion": "Actual neuroses (anxiety neurosis, neurasthenia) result from current disturbances in sexual life"
+  },
+  {
+    "id": 8515,
+    "topic": "Etiology of Neurosis",
+    "premise": "psychoneuroses|hysteria|obsessional|neurosis|phobia|originate",
+    "conclusion": "Psychoneuroses (hysteria, obsessional neurosis, phobia) originate in childhood conflicts"
+  },
+  {
+    "id": 8516,
+    "topic": "Etiology of Neurosis",
+    "premise": "choice|neurosis|depends|fixation|points|specific",
+    "conclusion": "The choice of neurosis depends on fixation points and the specific content of repressed material"
+  },
+  {
+    "id": 8517,
+    "topic": "Etiology of Neurosis",
+    "premise": "neurotic|symptoms|overdetermined|serve|multiple|functions",
+    "conclusion": "Neurotic symptoms are overdetermined\u2014they serve multiple functions and express multiple meanings"
+  },
+  {
+    "id": 8518,
+    "topic": "Etiology of Neurosis",
+    "premise": "constitutional|factors|accidental|experiential|combine|producing",
+    "conclusion": "Constitutional factors and accidental (experiential) factors combine in producing neurosis"
+  },
+  {
+    "id": 8519,
+    "topic": "Etiology of Neurosis",
+    "premise": "complemental|series|describes|inverse|relationship|constitutional",
+    "conclusion": "The complemental series describes the inverse relationship between constitutional and experiential factors"
+  },
+  {
+    "id": 8520,
+    "topic": "Etiology of Neurosis",
+    "premise": "early|seduction|initially|considered|cause|neurosis",
+    "conclusion": "Early seduction was initially considered the cause of neurosis; this was later recognized as often fantasy"
+  },
+  {
+    "id": 8521,
+    "topic": "Etiology of Neurosis",
+    "premise": "primal|fantasies|seduction|castration|parental|intercourse",
+    "conclusion": "Primal fantasies (seduction, castration, parental intercourse) are universal despite individual variations"
+  },
+  {
+    "id": 8522,
+    "topic": "Memory and Reconstruction",
+    "premise": "screen|memories|vivid|early|conceal|significant",
+    "conclusion": "Screen memories are vivid early memories that conceal more significant repressed memories behind them"
+  },
+  {
+    "id": 8523,
+    "topic": "Memory and Reconstruction",
+    "premise": "childhood|amnesia|covers|first|years|life",
+    "conclusion": "Childhood amnesia covers the first years of life, burying the most formative experiences"
+  },
+  {
+    "id": 8524,
+    "topic": "Memory and Reconstruction",
+    "premise": "memories|merely|retrieved|reconstructed|subject|later",
+    "conclusion": "Memories are not merely retrieved but reconstructed, subject to later revision"
+  },
+  {
+    "id": 8525,
+    "topic": "Memory and Reconstruction",
+    "premise": "deferred|action|means|earlier|events|gain",
+    "conclusion": "Nachtr\u00e4glichkeit (deferred action) means that earlier events gain traumatic significance only retroactively"
+  },
+  {
+    "id": 8526,
+    "topic": "Memory and Reconstruction",
+    "premise": "reconstruction|analysis|pieces|together|patient|forgotten",
+    "conclusion": "Reconstruction in analysis pieces together the patient's forgotten history from fragments and symptoms"
+  },
+  {
+    "id": 8527,
+    "topic": "Memory and Reconstruction",
+    "premise": "psychoanalytic|constructions|interpretations|offered|patient|confirmation",
+    "conclusion": "Psychoanalytic constructions are interpretations offered to the patient for confirmation or rejection"
+  },
+  {
+    "id": 8528,
+    "topic": "Memory and Reconstruction",
+    "premise": "patient|necessarily|invalidate|construction|indicate|resistance",
+    "conclusion": "The patient's \"no\" does not necessarily invalidate a construction; it may indicate resistance"
+  },
+  {
+    "id": 8529,
+    "topic": "Memory and Reconstruction",
+    "premise": "conviction|truth|reconstruction|develops|gradually|working",
+    "conclusion": "Conviction of the truth of a reconstruction develops gradually through working through"
+  },
+  {
+    "id": 8530,
+    "topic": "Memory and Reconstruction",
+    "premise": "historical|truth|differs|material|matters|psychically",
+    "conclusion": "Historical truth differs from material truth\u2014what matters psychically is how events were experienced"
+  },
+  {
+    "id": 8531,
+    "topic": "Memory and Reconstruction",
+    "premise": "analytic|cure|involves|replacing|repetition|remembering",
+    "conclusion": "Analytic cure involves replacing repetition with remembering through the recovery of repressed material"
+  }
+]

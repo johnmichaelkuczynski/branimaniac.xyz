@@ -1,0 +1,17 @@
+=== EMBEDDING LOG FOR AESOP ===
+Figure ID: aesop
+Source Folder: /home/runner/workspace/server/data/aesop
+Started: 2025-12-13T03:43:18.959Z
+============================================================
+
+[2025-12-13T03:43:18.960Z] FLAGGED | AESOP_Database_2.txt | 0 chunks | Contains 15 mentions of "Mill" - possible misattribution
+[2025-12-13T03:43:19.190Z] FLAGGED | AESOP_Fables_Collection_1.txt | 0 chunks | Contains 9 mentions of "Mises" - possible misattribution
+[2025-12-13T03:43:19.234Z] FLAGGED | fables.txt | 0 chunks | Contains 15 mentions of "Mill" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 0
+Chunks created: 0
+Files flagged: 3
+Errors: 0
+Completed: 2025-12-13T03:43:19.281Z

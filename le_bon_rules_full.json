@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 13467,
+    "topic": "The Crowd",
+    "premise": "individuals|crowd|lose|conscious|personality|become",
+    "conclusion": "Individuals in a crowd lose their conscious personality and become subject to unconscious influences"
+  },
+  {
+    "id": 13468,
+    "topic": "The Crowd",
+    "premise": "psychological|crowd|provisional|formed|heterogeneous|elements",
+    "conclusion": "A psychological crowd is a provisional being formed of heterogeneous elements temporarily fused"
+  },
+  {
+    "id": 13469,
+    "topic": "The Crowd",
+    "premise": "crowd|mind|characterized|impulsiveness|irritability|incapacity",
+    "conclusion": "The crowd mind is characterized by impulsiveness, irritability, and incapacity to reason"
+  },
+  {
+    "id": 13470,
+    "topic": "The Crowd",
+    "premise": "crowds|think|images|logical|sequences",
+    "conclusion": "Crowds think in images, not in logical sequences"
+  },
+  {
+    "id": 13471,
+    "topic": "The Crowd",
+    "premise": "crowds|credulous|easily|influenced|suggestion",
+    "conclusion": "Crowds are credulous and easily influenced by suggestion"
+  },
+  {
+    "id": 13472,
+    "topic": "The Crowd",
+    "premise": "sentiments|crowds|extreme|either|enthusiastic|hostile",
+    "conclusion": "The sentiments of crowds are always extreme\u2014either enthusiastic or hostile"
+  },
+  {
+    "id": 13473,
+    "topic": "The Crowd",
+    "premise": "crowds|intolerant|authoritarian|nature",
+    "conclusion": "Crowds are intolerant and authoritarian by nature"
+  },
+  {
+    "id": 13474,
+    "topic": "The Crowd",
+    "premise": "individual|crowd|descends|several|rungs|ladder",
+    "conclusion": "The individual in a crowd descends several rungs on the ladder of civilization"
+  },
+  {
+    "id": 13475,
+    "topic": "The Crowd",
+    "premise": "anonymity|crowds|removes|sense|responsibility",
+    "conclusion": "Anonymity in crowds removes the sense of responsibility"
+  },
+  {
+    "id": 13476,
+    "topic": "The Crowd",
+    "premise": "contagion|spreads|ideas|emotions|crowds|viral",
+    "conclusion": "Contagion spreads ideas and emotions through crowds with viral rapidity"
+  },
+  {
+    "id": 13477,
+    "topic": "The Crowd",
+    "premise": "prestige|leaders|primary|source|power|over",
+    "conclusion": "The prestige of leaders is the primary source of their power over crowds"
+  },
+  {
+    "id": 13478,
+    "topic": "The Crowd",
+    "premise": "affirmation|repetition|contagion|principal|means|persuading",
+    "conclusion": "Affirmation, repetition, and contagion are the principal means of persuading crowds"
+  },
+  {
+    "id": 13479,
+    "topic": "The Crowd",
+    "premise": "crowds|cannot|distinguish|subjective|objective",
+    "conclusion": "Crowds cannot distinguish between the subjective and objective"
+  },
+  {
+    "id": 13480,
+    "topic": "The Crowd",
+    "premise": "reason|incapable|combating|certain|words|formulas",
+    "conclusion": "Reason is incapable of combating certain words and formulas in the presence of crowds"
+  },
+  {
+    "id": 13481,
+    "topic": "The Crowd",
+    "premise": "power|words|linked|images|evoke|real",
+    "conclusion": "The power of words is linked to the images they evoke, not their real meaning"
+  },
+  {
+    "id": 13482,
+    "topic": "The Crowd",
+    "premise": "crowds|demand|illusions|cannot|live|without",
+    "conclusion": "Crowds demand illusions and cannot live without them"
+  },
+  {
+    "id": 13483,
+    "topic": "The Crowd",
+    "premise": "hero|worshipped|crowd",
+    "conclusion": "The hero worshipped by a crowd is a god to that crowd"
+  },
+  {
+    "id": 13484,
+    "topic": "The Crowd",
+    "premise": "crowds|feminine|character|dominated|unconscious|instincts",
+    "conclusion": "Crowds are feminine in character\u2014dominated by unconscious instincts"
+  },
+  {
+    "id": 13485,
+    "topic": "The Crowd",
+    "premise": "education|instruction|incapable|modifying|mental|constitution",
+    "conclusion": "Education and instruction are incapable of modifying the mental constitution of crowds"
+  },
+  {
+    "id": 13486,
+    "topic": "The Crowd",
+    "premise": "parliamentary|assemblies|exhibit|characteristics|crowds",
+    "conclusion": "Parliamentary assemblies exhibit all the characteristics of crowds"
+  },
+  {
+    "id": 13487,
+    "topic": "The Crowd",
+    "premise": "juries|frequently|render|verdicts|individual|juror",
+    "conclusion": "Juries frequently render verdicts that each individual juror would reject"
+  },
+  {
+    "id": 13488,
+    "topic": "The Crowd",
+    "premise": "electoral|crowds|influenced|images|slogans|programs",
+    "conclusion": "Electoral crowds are influenced more by images and slogans than programs"
+  },
+  {
+    "id": 13489,
+    "topic": "The Crowd",
+    "premise": "crowds|represents|transitional|phase|civilization",
+    "conclusion": "The age of crowds represents a transitional phase in civilization"
+  },
+  {
+    "id": 13490,
+    "topic": "The Crowd",
+    "premise": "traditions|represent|synthesis|race|accumulated|experience",
+    "conclusion": "Traditions represent the synthesis of a race's accumulated experience"
+  },
+  {
+    "id": 13491,
+    "topic": "The Crowd",
+    "premise": "disappearance|conscious|personality|first|step|crowd",
+    "conclusion": "The disappearance of conscious personality is the first step in crowd formation"
+  },
+  {
+    "id": 13492,
+    "topic": "Psychology of Peoples",
+    "premise": "race|possesses|psychological|constitution|fixed|anatomical",
+    "conclusion": "Each race possesses a psychological constitution as fixed as its anatomical constitution"
+  },
+  {
+    "id": 13493,
+    "topic": "Psychology of Peoples",
+    "premise": "character|intelligence|determines|destiny|peoples",
+    "conclusion": "Character, not intelligence, determines the destiny of peoples"
+  },
+  {
+    "id": 13494,
+    "topic": "Psychology of Peoples",
+    "premise": "mental|constitution|race|stable|physical|features",
+    "conclusion": "The mental constitution of a race is as stable as its physical features"
+  },
+  {
+    "id": 13495,
+    "topic": "Psychology of Peoples",
+    "premise": "institutions|external|manifestation|national|character",
+    "conclusion": "Institutions are the external manifestation of the national character"
+  },
+  {
+    "id": 13496,
+    "topic": "Psychology of Peoples",
+    "premise": "peoples|cannot|choose|institutions|derive|racial",
+    "conclusion": "Peoples cannot choose their institutions; institutions derive from racial character"
+  },
+  {
+    "id": 13497,
+    "topic": "Psychology of Peoples",
+    "premise": "cross|breeding|distant|races|produces|psychological",
+    "conclusion": "Cross-breeding between distant races produces psychological disintegration"
+  },
+  {
+    "id": 13498,
+    "topic": "Psychology of Peoples",
+    "premise": "ideas|transformed|racial|character|adopted",
+    "conclusion": "Ideas must be transformed to fit the racial character before they can be adopted"
+  },
+  {
+    "id": 13499,
+    "topic": "Psychology of Peoples",
+    "premise": "true|elements|civilization|transferable|races",
+    "conclusion": "The true elements of civilization are not transferable between races"
+  },
+  {
+    "id": 13500,
+    "topic": "Psychology of Peoples",
+    "premise": "superior|inferior|races|exist|fact|nature",
+    "conclusion": "Superior and inferior races exist as a fact of nature"
+  },
+  {
+    "id": 13501,
+    "topic": "Psychology of Peoples",
+    "premise": "education|cannot|create|qualities|heredity|provided",
+    "conclusion": "Education cannot create qualities that heredity has not provided"
+  },
+  {
+    "id": 13502,
+    "topic": "Psychology of Peoples",
+    "premise": "accumulation|acquired|characteristics|over|generations|forms",
+    "conclusion": "The accumulation of acquired characteristics over generations forms racial character"
+  },
+  {
+    "id": 13503,
+    "topic": "Psychology of Peoples",
+    "premise": "language|certain|indices|racial|psychology",
+    "conclusion": "Language is one of the most certain indices of racial psychology"
+  },
+  {
+    "id": 13504,
+    "topic": "Psychology of Peoples",
+    "premise": "reflects|soul|people|accurately|philosophy",
+    "conclusion": "Art reflects the soul of a people more accurately than its philosophy"
+  },
+  {
+    "id": 13505,
+    "topic": "Psychology of Peoples",
+    "premise": "religious|beliefs|transformed|according|racial|psychology",
+    "conclusion": "Religious beliefs are transformed according to racial psychology"
+  },
+  {
+    "id": 13506,
+    "topic": "Psychology of Peoples",
+    "premise": "democracy|takes|different|forms|depending|race",
+    "conclusion": "Democracy takes different forms depending on the race that adopts it"
+  },
+  {
+    "id": 13507,
+    "topic": "Psychology of Peoples",
+    "premise": "english|character|fundamentally|different|latin",
+    "conclusion": "The English character is fundamentally different from the Latin character"
+  },
+  {
+    "id": 13508,
+    "topic": "Psychology of Peoples",
+    "premise": "racial|character|formed|centuries|common|experience",
+    "conclusion": "Racial character is formed through centuries of common experience"
+  },
+  {
+    "id": 13509,
+    "topic": "Psychology of Peoples",
+    "premise": "colonial|success|depends|psychological|qualities|colonizing",
+    "conclusion": "Colonial success depends on the psychological qualities of the colonizing race"
+  },
+  {
+    "id": 13510,
+    "topic": "Psychology of Peoples",
+    "premise": "social|organization|reflects|innate|racial|tendencies",
+    "conclusion": "Social organization reflects innate racial tendencies"
+  },
+  {
+    "id": 13511,
+    "topic": "Psychology of Peoples",
+    "premise": "decline|civilizations|results|degeneration|racial|character",
+    "conclusion": "The decline of civilizations results from the degeneration of racial character"
+  },
+  {
+    "id": 13512,
+    "topic": "Psychology of Peoples",
+    "premise": "historical|events|surface|phenomena|racial|character",
+    "conclusion": "Historical events are surface phenomena; racial character is the underlying cause"
+  },
+  {
+    "id": 13513,
+    "topic": "Psychology of Peoples",
+    "premise": "imitation|foreign|institutions|leads|social|instability",
+    "conclusion": "Imitation of foreign institutions leads to social instability"
+  },
+  {
+    "id": 13514,
+    "topic": "Psychology of Peoples",
+    "premise": "soul|race|synthesis|past",
+    "conclusion": "The soul of a race is the synthesis of its past"
+  },
+  {
+    "id": 13515,
+    "topic": "Psychology of Peoples",
+    "premise": "economic|factors|secondary|psychological|historical|causation",
+    "conclusion": "Economic factors are secondary to psychological factors in historical causation"
+  },
+  {
+    "id": 13516,
+    "topic": "Psychology of Peoples",
+    "premise": "peoples|assimilate|ideas|compatible|mental|constitution",
+    "conclusion": "Peoples can only assimilate ideas compatible with their mental constitution"
+  },
+  {
+    "id": 13517,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|belief|doctrine|studied|religion",
+    "conclusion": "Socialism is a belief, not a doctrine\u2014it must be studied as a religion"
+  },
+  {
+    "id": 13518,
+    "topic": "Psychology of Socialism",
+    "premise": "spread|socialism|results|psychological|causes|economic",
+    "conclusion": "The spread of socialism results from psychological causes, not economic conditions"
+  },
+  {
+    "id": 13519,
+    "topic": "Psychology of Socialism",
+    "premise": "socialist|doctrines|appeal|sentiments|reason",
+    "conclusion": "Socialist doctrines appeal to the sentiments, not the reason"
+  },
+  {
+    "id": 13520,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|promises|terrestrial|paradise|replace|celestial",
+    "conclusion": "Socialism promises a terrestrial paradise to replace the celestial one"
+  },
+  {
+    "id": 13521,
+    "topic": "Psychology of Socialism",
+    "premise": "hatred|superiority|fundamental|motive|socialist|sentiment",
+    "conclusion": "The hatred of superiority is a fundamental motive of socialist sentiment"
+  },
+  {
+    "id": 13522,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|represents|revolt|unsuccessful|against|successful",
+    "conclusion": "Socialism represents the revolt of the unsuccessful against the successful"
+  },
+  {
+    "id": 13523,
+    "topic": "Psychology of Socialism",
+    "premise": "socialist|theories|scientifically|untenable|psychologically|powerful",
+    "conclusion": "Socialist theories are scientifically untenable but psychologically powerful"
+  },
+  {
+    "id": 13524,
+    "topic": "Psychology of Socialism",
+    "premise": "collectivism|destroy|individual|initiative|halt|progress",
+    "conclusion": "Collectivism would destroy individual initiative and halt progress"
+  },
+  {
+    "id": 13525,
+    "topic": "Psychology of Socialism",
+    "premise": "economic|equality|impossible|given|natural|inequality",
+    "conclusion": "Economic equality is impossible given natural inequality of abilities"
+  },
+  {
+    "id": 13526,
+    "topic": "Psychology of Socialism",
+    "premise": "state|socialism|leads|inevitably|bureaucratic|tyranny",
+    "conclusion": "State socialism leads inevitably to bureaucratic tyranny"
+  },
+  {
+    "id": 13527,
+    "topic": "Psychology of Socialism",
+    "premise": "socialist|conception|state|essentially|authoritarian",
+    "conclusion": "The socialist conception of the state is essentially authoritarian"
+  },
+  {
+    "id": 13528,
+    "topic": "Psychology of Socialism",
+    "premise": "trade|unions|represent|practical|form|worker",
+    "conclusion": "Trade unions represent a more practical form of worker organization than socialist parties"
+  },
+  {
+    "id": 13529,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|exploits|legitimate|grievances|illegitimate|ends",
+    "conclusion": "Socialism exploits legitimate grievances for illegitimate ends"
+  },
+  {
+    "id": 13530,
+    "topic": "Psychology of Socialism",
+    "premise": "socialist|mentality|characterized|envy|resentment",
+    "conclusion": "The socialist mentality is characterized by envy and resentment"
+  },
+  {
+    "id": 13531,
+    "topic": "Psychology of Socialism",
+    "premise": "socialist|leaders|typically|bourgeois|intellectuals|workers",
+    "conclusion": "Socialist leaders are typically bourgeois intellectuals, not workers"
+  },
+  {
+    "id": 13532,
+    "topic": "Psychology of Socialism",
+    "premise": "marxist|economics|rests|demonstrably|false|premises",
+    "conclusion": "Marxist economics rests on demonstrably false premises"
+  },
+  {
+    "id": 13533,
+    "topic": "Psychology of Socialism",
+    "premise": "labor|theory|value|ignores|role|capital",
+    "conclusion": "The labor theory of value ignores the role of capital and intelligence"
+  },
+  {
+    "id": 13534,
+    "topic": "Psychology of Socialism",
+    "premise": "class|struggle|theory|oversimplifies|complex|social",
+    "conclusion": "Class struggle theory oversimplifies complex social relationships"
+  },
+  {
+    "id": 13535,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|eliminate|incentives|necessary|economic|progress",
+    "conclusion": "Socialism would eliminate the incentives necessary for economic progress"
+  },
+  {
+    "id": 13536,
+    "topic": "Psychology of Socialism",
+    "premise": "masses|drawn|socialism|promises|arguments",
+    "conclusion": "The masses are drawn to socialism by promises, not arguments"
+  },
+  {
+    "id": 13537,
+    "topic": "Psychology of Socialism",
+    "premise": "revolutionary|socialism|reformist|different|psychological|bases",
+    "conclusion": "Revolutionary socialism and reformist socialism have different psychological bases"
+  },
+  {
+    "id": 13538,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|flourishes|periods|social|instability|discontent",
+    "conclusion": "Socialism flourishes in periods of social instability and discontent"
+  },
+  {
+    "id": 13539,
+    "topic": "Psychology of Socialism",
+    "premise": "latin|peoples|susceptible|socialist|doctrines|anglo",
+    "conclusion": "Latin peoples are more susceptible to socialist doctrines than Anglo-Saxons"
+  },
+  {
+    "id": 13540,
+    "topic": "Psychology of Socialism",
+    "premise": "socialism|represents|regression|primitive|collectivism",
+    "conclusion": "Socialism represents a regression to primitive collectivism"
+  },
+  {
+    "id": 13541,
+    "topic": "Psychology of Socialism",
+    "premise": "socialist|state|require|unprecedented|coercion|function",
+    "conclusion": "The socialist state would require unprecedented coercion to function"
+  },
+  {
+    "id": 13542,
+    "topic": "Psychology of Education",
+    "premise": "french|educational|system|produces|memorizers|thinkers",
+    "conclusion": "The French educational system produces memorizers, not thinkers"
+  },
+  {
+    "id": 13543,
+    "topic": "Psychology of Education",
+    "premise": "education|based|rote|learning|destroys|intellectual",
+    "conclusion": "Education based on rote learning destroys intellectual initiative"
+  },
+  {
+    "id": 13544,
+    "topic": "Psychology of Education",
+    "premise": "examinations|test|memory|intelligence|practical|ability",
+    "conclusion": "Examinations test memory, not intelligence or practical ability"
+  },
+  {
+    "id": 13545,
+    "topic": "Psychology of Education",
+    "premise": "classical|curriculum|obsolete|harmful",
+    "conclusion": "The classical curriculum is obsolete and harmful"
+  },
+  {
+    "id": 13546,
+    "topic": "Psychology of Education",
+    "premise": "university|degrees|become|worthless|credentials",
+    "conclusion": "University degrees have become worthless credentials"
+  },
+  {
+    "id": 13547,
+    "topic": "Psychology of Education",
+    "premise": "education|develop|judgment|accumulate|facts",
+    "conclusion": "Education should develop judgment, not accumulate facts"
+  },
+  {
+    "id": 13548,
+    "topic": "Psychology of Education",
+    "premise": "character|formation|important|intellectual|instruction",
+    "conclusion": "Character formation is more important than intellectual instruction"
+  },
+  {
+    "id": 13549,
+    "topic": "Psychology of Education",
+    "premise": "physical|education|neglected|detriment|mental|development",
+    "conclusion": "Physical education is neglected to the detriment of mental development"
+  },
+  {
+    "id": 13550,
+    "topic": "Psychology of Education",
+    "premise": "teaching|dead|languages|consumes|time|better",
+    "conclusion": "The teaching of dead languages consumes time better spent elsewhere"
+  },
+  {
+    "id": 13551,
+    "topic": "Psychology of Education",
+    "premise": "educational|reform|requires|changing|methods|curricula",
+    "conclusion": "Educational reform requires changing methods, not just curricula"
+  },
+  {
+    "id": 13552,
+    "topic": "Psychology of Education",
+    "premise": "overproduction|graduates|creates|class|discontented|intellectuals",
+    "conclusion": "The overproduction of graduates creates a class of discontented intellectuals"
+  },
+  {
+    "id": 13553,
+    "topic": "Psychology of Education",
+    "premise": "manual|technical|education|deserves|equal|status",
+    "conclusion": "Manual and technical education deserves equal status with classical education"
+  },
+  {
+    "id": 13554,
+    "topic": "Psychology of Education",
+    "premise": "teachers|trained|theory|cannot|develop|practical",
+    "conclusion": "Teachers trained only in theory cannot develop practical intelligence"
+  },
+  {
+    "id": 13555,
+    "topic": "Psychology of Education",
+    "premise": "competition|diplomas|corrupts|purpose|education",
+    "conclusion": "Competition for diplomas corrupts the purpose of education"
+  },
+  {
+    "id": 13556,
+    "topic": "Psychology of Education",
+    "premise": "education|prepare|students|life|examinations",
+    "conclusion": "Education should prepare students for life, not for examinations"
+  },
+  {
+    "id": 13557,
+    "topic": "Psychology of Education",
+    "premise": "lecture|system|promotes|passivity|students",
+    "conclusion": "The lecture system promotes passivity in students"
+  },
+  {
+    "id": 13558,
+    "topic": "Psychology of Education",
+    "premise": "learning|doing|superior|books",
+    "conclusion": "Learning through doing is superior to learning through books"
+  },
+  {
+    "id": 13559,
+    "topic": "Psychology of Education",
+    "premise": "educational|bureaucracy|resists|meaningful|reform",
+    "conclusion": "The educational bureaucracy resists all meaningful reform"
+  },
+  {
+    "id": 13560,
+    "topic": "Psychology of Education",
+    "premise": "different|types|intelligence|require|educational|approaches",
+    "conclusion": "Different types of intelligence require different educational approaches"
+  },
+  {
+    "id": 13561,
+    "topic": "Psychology of Education",
+    "premise": "excessive|study|undermines|physical|health|mental",
+    "conclusion": "Excessive study undermines physical health and mental balance"
+  },
+  {
+    "id": 13562,
+    "topic": "Psychology of Education",
+    "premise": "anglo|saxon|educational|model|produces|practical",
+    "conclusion": "The Anglo-Saxon educational model produces more practical results"
+  },
+  {
+    "id": 13563,
+    "topic": "Psychology of Education",
+    "premise": "educational|credentials|replaced|genuine|competence|qualification",
+    "conclusion": "Educational credentials have replaced genuine competence as a qualification"
+  },
+  {
+    "id": 13564,
+    "topic": "Psychology of Education",
+    "premise": "science|teaching|emphasize|method|over|factual",
+    "conclusion": "Science teaching should emphasize method over factual content"
+  },
+  {
+    "id": 13565,
+    "topic": "Psychology of Education",
+    "premise": "moral|education|cannot|achieved|instruction|alone",
+    "conclusion": "Moral education cannot be achieved through instruction alone"
+  },
+  {
+    "id": 13566,
+    "topic": "Psychology of Education",
+    "premise": "democratization|education|lowered|standards|without|raising",
+    "conclusion": "The democratization of education has lowered standards without raising ability"
+  },
+  {
+    "id": 13567,
+    "topic": "Opinions and Beliefs",
+    "premise": "opinions|beliefs|independent|rational|evidence",
+    "conclusion": "Opinions and beliefs are independent of rational evidence"
+  },
+  {
+    "id": 13568,
+    "topic": "Opinions and Beliefs",
+    "premise": "beliefs|formed|affective|mystic|factors|logical",
+    "conclusion": "Beliefs are formed by affective and mystic factors, not logical ones"
+  },
+  {
+    "id": 13569,
+    "topic": "Opinions and Beliefs",
+    "premise": "rational|affective|mystic|elements|constitute|different",
+    "conclusion": "The rational, affective, and mystic elements constitute different logics"
+  },
+  {
+    "id": 13570,
+    "topic": "Opinions and Beliefs",
+    "premise": "rational|logic|minimal|influence|belief|formation",
+    "conclusion": "Rational logic has minimal influence on belief formation"
+  },
+  {
+    "id": 13571,
+    "topic": "Opinions and Beliefs",
+    "premise": "affective|logic|driven|sentiments|unconscious|needs",
+    "conclusion": "Affective logic is driven by sentiments and unconscious needs"
+  },
+  {
+    "id": 13572,
+    "topic": "Opinions and Beliefs",
+    "premise": "mystic|logic|operates|faith|accepts|contradiction",
+    "conclusion": "Mystic logic operates through faith and accepts no contradiction"
+  },
+  {
+    "id": 13573,
+    "topic": "Opinions and Beliefs",
+    "premise": "formed|beliefs|resist|contrary|evidence",
+    "conclusion": "Once formed, beliefs resist all contrary evidence"
+  },
+  {
+    "id": 13574,
+    "topic": "Opinions and Beliefs",
+    "premise": "intensity|belief|unrelated|truth",
+    "conclusion": "The intensity of a belief is unrelated to its truth"
+  },
+  {
+    "id": 13575,
+    "topic": "Opinions and Beliefs",
+    "premise": "political|religious|beliefs|share|psychological|structure",
+    "conclusion": "Political and religious beliefs share the same psychological structure"
+  },
+  {
+    "id": 13576,
+    "topic": "Opinions and Beliefs",
+    "premise": "collective|beliefs|resistant|change|individual|opinions",
+    "conclusion": "Collective beliefs are more resistant to change than individual opinions"
+  },
+  {
+    "id": 13577,
+    "topic": "Opinions and Beliefs",
+    "premise": "unconscious|primary|source|convictions",
+    "conclusion": "The unconscious is the primary source of our convictions"
+  },
+  {
+    "id": 13578,
+    "topic": "Opinions and Beliefs",
+    "premise": "arguments|cannot|dislodge|beliefs|formed|rational",
+    "conclusion": "Arguments cannot dislodge beliefs formed by non-rational means"
+  },
+  {
+    "id": 13579,
+    "topic": "Opinions and Beliefs",
+    "premise": "scientific|beliefs|differ|origin|psychological|function",
+    "conclusion": "Scientific beliefs differ in origin but not in psychological function"
+  },
+  {
+    "id": 13580,
+    "topic": "Opinions and Beliefs",
+    "premise": "tolerance|possible|opinions|beliefs",
+    "conclusion": "Tolerance is possible only for opinions, never for beliefs"
+  },
+  {
+    "id": 13581,
+    "topic": "Opinions and Beliefs",
+    "premise": "believer|experiences|belief|self|evident|truth",
+    "conclusion": "The believer experiences his belief as self-evident truth"
+  },
+  {
+    "id": 13582,
+    "topic": "Opinions and Beliefs",
+    "premise": "beliefs|replace|satisfy|needs",
+    "conclusion": "New beliefs replace old ones only when they satisfy the same needs"
+  },
+  {
+    "id": 13583,
+    "topic": "Opinions and Beliefs",
+    "premise": "critical|spirit|believing|psychologically|incompatible",
+    "conclusion": "Critical spirit and believing spirit are psychologically incompatible"
+  },
+  {
+    "id": 13584,
+    "topic": "Opinions and Beliefs",
+    "premise": "certitude|accompanying|beliefs|independent|basis",
+    "conclusion": "The certitude accompanying beliefs is independent of their basis"
+  },
+  {
+    "id": 13585,
+    "topic": "Opinions and Beliefs",
+    "premise": "intellectual|conviction|emotional|distinct",
+    "conclusion": "Intellectual conviction and emotional conviction are distinct"
+  },
+  {
+    "id": 13586,
+    "topic": "Opinions and Beliefs",
+    "premise": "beliefs|contagious|opinions|individual",
+    "conclusion": "Beliefs are contagious; opinions are individual"
+  },
+  {
+    "id": 13587,
+    "topic": "Opinions and Beliefs",
+    "premise": "action|motivated|beliefs|reasoned|conclusions",
+    "conclusion": "Action is motivated by beliefs, not by reasoned conclusions"
+  },
+  {
+    "id": 13588,
+    "topic": "Opinions and Beliefs",
+    "premise": "life|cycle|beliefs|follows|predictable|patterns",
+    "conclusion": "The life cycle of beliefs follows predictable patterns"
+  },
+  {
+    "id": 13589,
+    "topic": "Opinions and Beliefs",
+    "premise": "revolutionary|beliefs|eventually|become|conservative|traditions",
+    "conclusion": "Revolutionary beliefs eventually become conservative traditions"
+  },
+  {
+    "id": 13590,
+    "topic": "Opinions and Beliefs",
+    "premise": "economic|interests|influence|opinions|rarely|determine",
+    "conclusion": "Economic interests influence opinions but rarely determine beliefs"
+  },
+  {
+    "id": 13591,
+    "topic": "Opinions and Beliefs",
+    "premise": "decline|religious|belief|creates|vacuum|filled",
+    "conclusion": "The decline of religious belief creates a vacuum filled by political belief"
+  },
+  {
+    "id": 13592,
+    "topic": "Psychology of Revolution",
+    "premise": "french|revolution|primarily|psychological|phenomenon|economic",
+    "conclusion": "The French Revolution was primarily a psychological phenomenon, not an economic one"
+  },
+  {
+    "id": 13593,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutions|caused|transformations|belief|material|conditions",
+    "conclusion": "Revolutions are caused by transformations in belief, not material conditions"
+  },
+  {
+    "id": 13594,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|mentality|characterized|simplification|absolutism",
+    "conclusion": "The revolutionary mentality is characterized by simplification and absolutism"
+  },
+  {
+    "id": 13595,
+    "topic": "Psychology of Revolution",
+    "premise": "terror|resulted|psychology|crowds|power",
+    "conclusion": "The Terror resulted from the psychology of crowds in power"
+  },
+  {
+    "id": 13596,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|assemblies|exhibit|pathologies|crowd|behavior",
+    "conclusion": "Revolutionary assemblies exhibit all the pathologies of crowd behavior"
+  },
+  {
+    "id": 13597,
+    "topic": "Psychology of Revolution",
+    "premise": "jacobin|mentality|represents|permanent|psychological|type",
+    "conclusion": "The Jacobin mentality represents a permanent psychological type"
+  },
+  {
+    "id": 13598,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|idealism|inevitably|degenerates|despotism",
+    "conclusion": "Revolutionary idealism inevitably degenerates into despotism"
+  },
+  {
+    "id": 13599,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionaries|destroyed|created",
+    "conclusion": "The revolutionaries destroyed more than they created"
+  },
+  {
+    "id": 13600,
+    "topic": "Psychology of Revolution",
+    "premise": "abstract|principles|applied|rigidly|lead|concrete",
+    "conclusion": "Abstract principles applied rigidly lead to concrete atrocities"
+  },
+  {
+    "id": 13601,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|crowd|merciless|irresponsible",
+    "conclusion": "The revolutionary crowd is merciless because it is irresponsible"
+  },
+  {
+    "id": 13602,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|tribunals|instruments|crowd|vengeance",
+    "conclusion": "Revolutionary tribunals are instruments of crowd vengeance"
+  },
+  {
+    "id": 13603,
+    "topic": "Psychology of Revolution",
+    "premise": "cult|reason|form|religious|mysticism",
+    "conclusion": "The cult of Reason was itself a form of religious mysticism"
+  },
+  {
+    "id": 13604,
+    "topic": "Psychology of Revolution",
+    "premise": "napoleon|succeeded|understood|crowd|psychology",
+    "conclusion": "Napoleon succeeded because he understood crowd psychology"
+  },
+  {
+    "id": 13605,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|rhetoric|masks|pursuit|power",
+    "conclusion": "Revolutionary rhetoric masks the pursuit of power"
+  },
+  {
+    "id": 13606,
+    "topic": "Psychology of Revolution",
+    "premise": "declaration|rights|collection|abstract|formulas",
+    "conclusion": "The Declaration of Rights was a collection of abstract formulas"
+  },
+  {
+    "id": 13607,
+    "topic": "Psychology of Revolution",
+    "premise": "economic|measures|revolution|uniformly|disastrous",
+    "conclusion": "The economic measures of the Revolution were uniformly disastrous"
+  },
+  {
+    "id": 13608,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|leaders|typically|driven|vanity|ambition",
+    "conclusion": "Revolutionary leaders were typically driven by vanity and ambition"
+  },
+  {
+    "id": 13609,
+    "topic": "Psychology of Revolution",
+    "premise": "emigration|aristocracy|accelerated|revolutionary|extremism",
+    "conclusion": "The emigration of the aristocracy accelerated revolutionary extremism"
+  },
+  {
+    "id": 13610,
+    "topic": "Psychology of Revolution",
+    "premise": "foreign|intensified|domestic|terror",
+    "conclusion": "Foreign war intensified domestic terror"
+  },
+  {
+    "id": 13611,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|governments|cannot|tolerate|dissent",
+    "conclusion": "Revolutionary governments cannot tolerate dissent"
+  },
+  {
+    "id": 13612,
+    "topic": "Psychology of Revolution",
+    "premise": "revolution|devoured|children|psychological|necessity",
+    "conclusion": "The revolution devoured its own children through psychological necessity"
+  },
+  {
+    "id": 13613,
+    "topic": "Psychology of Revolution",
+    "premise": "revolutionary|virtue|indistinguishable|tyranny",
+    "conclusion": "Revolutionary virtue is indistinguishable from revolutionary tyranny"
+  },
+  {
+    "id": 13614,
+    "topic": "Psychology of Revolution",
+    "premise": "monarchy|fell|lost|prestige|policies",
+    "conclusion": "The monarchy fell because it had lost prestige, not because of its policies"
+  },
+  {
+    "id": 13615,
+    "topic": "Psychology of Revolution",
+    "premise": "popular|sovereignty|mystical|concept|political|reality",
+    "conclusion": "Popular sovereignty is a mystical concept, not a political reality"
+  },
+  {
+    "id": 13616,
+    "topic": "Psychology of Revolution",
+    "premise": "legacy|revolution|institutional|instability",
+    "conclusion": "The legacy of the Revolution was institutional instability"
+  },
+  {
+    "id": 13617,
+    "topic": "Psychology of the Great War",
+    "premise": "revealed|persistence|primitive|instincts|beneath|civilization",
+    "conclusion": "The war revealed the persistence of primitive instincts beneath civilization"
+  },
+  {
+    "id": 13618,
+    "topic": "Psychology of the Great War",
+    "premise": "german|militarism|product|national|psychology",
+    "conclusion": "German militarism is a product of German national psychology"
+  },
+  {
+    "id": 13619,
+    "topic": "Psychology of the Great War",
+    "premise": "patriotic|sentiment|transforms|individual|behavior|wartime",
+    "conclusion": "Patriotic sentiment transforms individual behavior in wartime"
+  },
+  {
+    "id": 13620,
+    "topic": "Psychology of the Great War",
+    "premise": "demonstrated|power|collective|beliefs|motivate|sacrifice",
+    "conclusion": "The war demonstrated the power of collective beliefs to motivate sacrifice"
+  },
+  {
+    "id": 13621,
+    "topic": "Psychology of the Great War",
+    "premise": "military|morale|depends|psychology|material|factors",
+    "conclusion": "Military morale depends more on psychology than on material factors"
+  },
+  {
+    "id": 13622,
+    "topic": "Psychology of the Great War",
+    "premise": "psychology|combatant|differs|fundamentally|civilians",
+    "conclusion": "The psychology of the combatant differs fundamentally from that of civilians"
+  },
+  {
+    "id": 13623,
+    "topic": "Psychology of the Great War",
+    "premise": "hatred|enemy|psychological|necessity|wartime",
+    "conclusion": "Hatred of the enemy is a psychological necessity in wartime"
+  },
+  {
+    "id": 13624,
+    "topic": "Psychology of the Great War",
+    "premise": "propaganda|appeal|emotions|reason",
+    "conclusion": "War propaganda must appeal to emotions, not reason"
+  },
+  {
+    "id": 13625,
+    "topic": "Psychology of the Great War",
+    "premise": "national|character|determines|military|effectiveness",
+    "conclusion": "National character determines military effectiveness"
+  },
+  {
+    "id": 13626,
+    "topic": "Psychology of the Great War",
+    "premise": "endurance|french|soldier|reflects|latin|psychological",
+    "conclusion": "The endurance of the French soldier reflects Latin psychological qualities"
+  },
+  {
+    "id": 13627,
+    "topic": "Psychology of the Great War",
+    "premise": "german|discipline|reflects|authoritarian|psychology",
+    "conclusion": "German discipline reflects authoritarian psychology"
+  },
+  {
+    "id": 13628,
+    "topic": "Psychology of the Great War",
+    "premise": "accelerated|psychological|changes|already|underway",
+    "conclusion": "The war accelerated psychological changes already underway"
+  },
+  {
+    "id": 13629,
+    "topic": "Psychology of the Great War",
+    "premise": "women|roles|transformed|wartime|pressures",
+    "conclusion": "Women's roles transformed under wartime pressures"
+  },
+  {
+    "id": 13630,
+    "topic": "Psychology of the Great War",
+    "premise": "economic|warfare|psychological|dimensions",
+    "conclusion": "Economic warfare has psychological dimensions"
+  },
+  {
+    "id": 13631,
+    "topic": "Psychology of the Great War",
+    "premise": "victory|depends|ultimately",
+    "conclusion": "Victory depends ultimately on the will to victory"
+  },
+  {
+    "id": 13632,
+    "topic": "Psychology of the Great War",
+    "premise": "defeatism|spreads|mechanisms|crowd|beliefs",
+    "conclusion": "Defeatism spreads through the same mechanisms as other crowd beliefs"
+  },
+  {
+    "id": 13633,
+    "topic": "Psychology of the Great War",
+    "premise": "home|front|psychological|battlefield",
+    "conclusion": "The home front is a psychological battlefield"
+  },
+  {
+    "id": 13634,
+    "topic": "Psychology of the Great War",
+    "premise": "neutrality|reflects|national|psychological|characteristics",
+    "conclusion": "Neutrality reflects national psychological characteristics"
+  },
+  {
+    "id": 13635,
+    "topic": "Psychology of the Great War",
+    "premise": "reveals|fragility|international",
+    "conclusion": "War reveals the fragility of international law"
+  },
+  {
+    "id": 13636,
+    "topic": "Psychology of the Great War",
+    "premise": "alliance|system|reflects|psychological|affinities|peoples",
+    "conclusion": "The alliance system reflects psychological affinities between peoples"
+  },
+  {
+    "id": 13637,
+    "topic": "Psychology of the Great War",
+    "premise": "military|leadership|requires|understanding|crowd|psychology",
+    "conclusion": "Military leadership requires understanding of crowd psychology"
+  },
+  {
+    "id": 13638,
+    "topic": "Psychology of the Great War",
+    "premise": "fear|courage|contagious|combat",
+    "conclusion": "Fear and courage are both contagious in combat"
+  },
+  {
+    "id": 13639,
+    "topic": "Psychology of the Great War",
+    "premise": "submarine|represents|technological|barbarism",
+    "conclusion": "The submarine war represents technological barbarism"
+  },
+  {
+    "id": 13640,
+    "topic": "Psychology of the Great War",
+    "premise": "modern|warfare|demands|psychological|mobilization|entire",
+    "conclusion": "Modern warfare demands psychological mobilization of entire populations"
+  },
+  {
+    "id": 13641,
+    "topic": "Psychology of the Great War",
+    "premise": "produce|lasting|psychological|transformations",
+    "conclusion": "The war will produce lasting psychological transformations"
+  },
+  {
+    "id": 13642,
+    "topic": "The World in Revolt",
+    "premise": "disrupted|psychological|equilibrium|civilization",
+    "conclusion": "The war has disrupted the psychological equilibrium of civilization"
+  },
+  {
+    "id": 13643,
+    "topic": "The World in Revolt",
+    "premise": "traditional|beliefs|shattered|conflict",
+    "conclusion": "Traditional beliefs have been shattered by the conflict"
+  },
+  {
+    "id": 13644,
+    "topic": "The World in Revolt",
+    "premise": "authority|elites|undermined",
+    "conclusion": "The authority of elites has been undermined"
+  },
+  {
+    "id": 13645,
+    "topic": "The World in Revolt",
+    "premise": "class|antagonisms|intensified",
+    "conclusion": "Class antagonisms have intensified during the war"
+  },
+  {
+    "id": 13646,
+    "topic": "The World in Revolt",
+    "premise": "economic|dislocation|produces|psychological|instability",
+    "conclusion": "Economic dislocation produces psychological instability"
+  },
+  {
+    "id": 13647,
+    "topic": "The World in Revolt",
+    "premise": "revolutionary|movements|feed|wartime|discontent",
+    "conclusion": "Revolutionary movements feed on wartime discontent"
+  },
+  {
+    "id": 13648,
+    "topic": "The World in Revolt",
+    "premise": "russia|collapse|demonstrates|fragility|autocracy",
+    "conclusion": "Russia's collapse demonstrates the fragility of autocracy"
+  },
+  {
+    "id": 13649,
+    "topic": "The World in Revolt",
+    "premise": "democratic|governments|proven|resilient|expected",
+    "conclusion": "Democratic governments have proven more resilient than expected"
+  },
+  {
+    "id": 13650,
+    "topic": "The World in Revolt",
+    "premise": "accelerated|decline|individualism",
+    "conclusion": "The war has accelerated the decline of individualism"
+  },
+  {
+    "id": 13651,
+    "topic": "The World in Revolt",
+    "premise": "state|power|expanded|enormously|conflict",
+    "conclusion": "State power has expanded enormously during the conflict"
+  },
+  {
+    "id": 13652,
+    "topic": "The World in Revolt",
+    "premise": "international|relations|transformed",
+    "conclusion": "International relations will be transformed by the war"
+  },
+  {
+    "id": 13653,
+    "topic": "The World in Revolt",
+    "premise": "colonial|peoples|developed|political|consciousness",
+    "conclusion": "Colonial peoples have developed new political consciousness"
+  },
+  {
+    "id": 13654,
+    "topic": "The World in Revolt",
+    "premise": "wartime|economy|cannot|sustained|indefinitely",
+    "conclusion": "The wartime economy cannot be sustained indefinitely"
+  },
+  {
+    "id": 13655,
+    "topic": "The World in Revolt",
+    "premise": "food|shortages|produce|psychological|effects|beyond",
+    "conclusion": "Food shortages produce psychological effects beyond physical hunger"
+  },
+  {
+    "id": 13656,
+    "topic": "The World in Revolt",
+    "premise": "press|become|instrument|psychological|warfare",
+    "conclusion": "The press has become an instrument of psychological warfare"
+  },
+  {
+    "id": 13657,
+    "topic": "The World in Revolt",
+    "premise": "censorship|distorts|public|understanding|events",
+    "conclusion": "Censorship distorts public understanding of events"
+  },
+  {
+    "id": 13658,
+    "topic": "The World in Revolt",
+    "premise": "rumors|flourish|absence|reliable|information",
+    "conclusion": "Rumors flourish in the absence of reliable information"
+  },
+  {
+    "id": 13659,
+    "topic": "The World in Revolt",
+    "premise": "prolongation|erodes|civilian|morale",
+    "conclusion": "The prolongation of war erodes civilian morale"
+  },
+  {
+    "id": 13660,
+    "topic": "The World in Revolt",
+    "premise": "religious|sentiment|revived|wartime|stress",
+    "conclusion": "Religious sentiment has revived under wartime stress"
+  },
+  {
+    "id": 13661,
+    "topic": "The World in Revolt",
+    "premise": "youth|generation|psychologically|marked",
+    "conclusion": "The youth generation has been psychologically marked by the war"
+  },
+  {
+    "id": 13662,
+    "topic": "The World in Revolt",
+    "premise": "profiteering|intensifies|class|resentment",
+    "conclusion": "War profiteering intensifies class resentment"
+  },
+  {
+    "id": 13663,
+    "topic": "The World in Revolt",
+    "premise": "women|movement|gained|momentum|wartime|changes",
+    "conclusion": "The women's movement has gained momentum from wartime changes"
+  },
+  {
+    "id": 13664,
+    "topic": "The World in Revolt",
+    "premise": "national|unity|masks|underlying|social|tensions",
+    "conclusion": "National unity masks underlying social tensions"
+  },
+  {
+    "id": 13665,
+    "topic": "The World in Revolt",
+    "premise": "peace|settlement|determine|future|psychological|developments",
+    "conclusion": "The peace settlement will determine future psychological developments"
+  },
+  {
+    "id": 13666,
+    "topic": "The World in Revolt",
+    "premise": "post|reconstruction|require|psychological|well|material",
+    "conclusion": "Post-war reconstruction will require psychological as well as material efforts"
+  }
+]

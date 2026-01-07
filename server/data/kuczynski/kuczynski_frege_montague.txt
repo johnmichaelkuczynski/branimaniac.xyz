@@ -1,0 +1,244 @@
+The Spuriousness of Frege-Montague Grammar
+AI-Powered Analysis
+Podcast
+Map
+Study
+Rewrite
+Test
+Readings
+Summary
+Thesis
+Select any text below to access 8 AI functions, or use the buttons above to create a podcast, cognitive map, study guide, rewrite, test, suggested readings, summary + thesis, or thesis deep dive from the entire article.
+
+Title: The Spuriousness of Frege-Montague Grammar
+
+Abstract
+
+This paper demonstrates that Frege-Montague Grammar, despite its mathematical elegance, rests on fundamentally spurious assumptions about semantic structure. The framework's insistence on logical form as semantic form introduces computational machinery that has no counterpart in actual linguistic cognition and no justification beyond post-hoc formalization. We propose instead a surface-anchored compositional semantics grounded in set-theoretic relations directly recoverable from syntactic structure. The result exposes Frege-Montague Grammar not as a discovery about language but as an arbitrary imposition of predicate calculus notation onto phenomena that require no such mediation.
+
+---
+
+1. Introduction: The Fregean Orthodoxy
+
+Montague Grammar is often celebrated as having "made linguistics safe for mathematics." What it actually accomplished was the systematic replacement of linguistic facts with logical reconstructions. The Fregean tradition—extending from Frege through Church to Montague—operates on a single, unexamined premise: that natural language semantics must mirror the structure of first-order predicate logic. This premise is not argued for; it is assumed. And it is false.
+
+Consider the sentence *Every dog barked*. A speaker who understands this sentence grasps that the class of dogs is included in the class of barkers. That is the meaning. That is what comprehension consists in. Frege-Montague Grammar, by contrast, insists that understanding requires mentally constructing:
+
+∀x [dog(x) → bark(x)]
+
+complete with bound variables, conditional operators, and quantificational scope. No speaker does this. No cognitive process requires it. The formula is a *notation* for talking about the meaning, not a representation of the meaning itself. Mistaking notation for ontology is the original sin of Fregean semantics.
+
+---
+
+2. The Spurious Multiplication of Structure
+
+Frege-Montague Grammar's commitment to logical form forces it to invent structures that natural language does not encode. The paradigmatic case is quantifier scope ambiguity.
+
+Example 1: *Every student read a book.*
+
+Montague Grammar generates two distinct logical forms:
+
+1. ∀x [student(x) → ∃y (book(y) ∧ read(x,y))]
+*For each student, there exists some book they read.*
+
+2. ∃y [book(y) ∧ ∀x (student(x) → read(x,y))]
+*There exists a book such that every student read it.*
+
+The system treats these as competing *syntactic* parses, requiring different tree structures with quantifiers taking wide or narrow scope. But the sentence itself exhibits no such structural variation. There are not two grammatical analyses. There is one surface form and two *interpretations* that arise from pragmatic context, not syntactic ambiguity.
+
+The surface meaning is straightforward:
+
+Students ⊆ Book-readers
+
+The class of students is a subset of the class of entities that read books. Whether "a book" picks out a particular book or ranges existentially over different books is a question of *reference*, not *grammar*. The Fregean framework manufactures a syntactic ambiguity to solve a problem that exists only within its own formalism.
+
+Example 2: *Everybody loves somebody.*
+
+Frege-Montague Grammar again posits two logical forms:
+
+1. ∀x ∃y loves(x,y)
+*Each person loves some (possibly different) person.*
+
+2. ∃y ∀x loves(x,y)
+*There is someone whom everyone loves.*
+
+But notice: in ordinary usage, the second reading is vanishingly rare and context-dependent. We do not say *Everybody loves somebody* to mean *There is one person loved by all*. If we wanted to express that, we would say *Everybody loves the same person* or *There is someone everybody loves*. The "ambiguity" is theoretical, not real.
+
+The surface semantics is simple:
+
+People ⊆ Person-lovers
+
+If context requires identifying a *specific* beloved, that identification is accomplished through pragmatic inference or anaphoric tracking—mechanisms entirely independent of syntactic structure. Montague Grammar, unable to model pragmatic inference, displaces it into syntax, thereby multiplying logical forms without linguistic warrant.
+
+---
+
+3. The Pseudo-Problem of Compositionality
+
+Frege-Montague theorists defend their apparatus by invoking compositionality: meanings must be built systematically from parts. Agreed. But compositionality does not entail *logical* compositionality. It does not require that semantic combination mirror function application in lambda calculus.
+
+Example 3: *John jumped.*
+
+Surface semantics:
+
+{John} ⊆ Jumpers
+
+The meaning is compositional. "John" denotes a singleton set. "Jumped" denotes a class. The sentence asserts subset inclusion. No functions. No variables. No abstraction. Just sets and relations.
+
+Example 4: *John jumped high.*
+
+Surface semantics:
+
+{John} ⊆ High-jumpers
+
+The adverb "high" restricts the predicate class. Compositionality is preserved through intersection:
+
+Jumpers ∩ High-doers-of-jumping = High-jumpers
+
+Again, no lambda terms, no event variables, no hidden structure. The meaning is *there*, on the surface, in the class relations directly encoded by syntax.
+
+Example 5: *John jumped high and nervously.*
+
+Surface semantics:
+
+{John} ⊆ High-jumpers ∩ Nervous-jumpers
+
+Conjunction composes via set intersection. The meaning remains transparent and compositional. Montague Grammar, by contrast, would introduce event predicates, adverbial modifiers as functions from events to truth values, and a cascade of type-theoretic adjustments—none of which correspond to any operation a speaker performs.
+
+---
+
+4. The Cognitive Implausibility of Logical Form
+
+Frege-Montague Grammar is not merely unnecessary; it is *cognitively implausible*. Consider the processing demands it imposes.
+
+Example 6: *Most philosophers read some article about every major problem.*
+
+Frege-Montague Grammar must:
+1. Assign quantificational scope to "most," "some," and "every"
+2. Generate multiple logical forms for competing scope relations
+3. Compute truth conditions for each via recursive function application
+4. Select among interpretations based on... pragmatics (!)
+
+But if pragmatics ultimately determines interpretation, why perform steps 1-3? Why not go directly to the surface meaning:
+
+Most philosophers ⊆ Article-readers-about-major-problems
+
+and let pragmatic inference handle the rest? The Fregean machinery is a detour through irrelevance.
+
+Example 7: *No student who failed every exam passed.*
+
+Montague Grammar confronts a scope nightmare: "no," "every," and "passed" interact across a relative clause boundary. The computational cost of generating all possible scope orderings and evaluating their truth conditions is prohibitive.
+
+Surface semantics:
+
+Students-who-failed-every-exam ⊆ Non-passers
+
+Or equivalently:
+
+Students-who-failed-every-exam ∩ Passers = ∅
+
+The meaning is immediate and cognitively tractable. The Fregean alternative is an exercise in formal overkill.
+
+---
+
+5. The Myth of Intensionality
+
+Montague Grammar extends Frege's apparatus into intensional domains—modality, propositional attitudes, counterfactuals—with the same misguided zeal.
+
+Example 8: *John believes that every unicorn has a horn.*
+
+Frege-Montague semantics:
+
+Believe(John, ^∀x [unicorn(x) → has-horn(x)])
+
+where ^ is the intension operator, and the embedded clause is treated as a function from possible worlds to truth values.
+
+But what does "believing a function from worlds to truth values" mean psychologically? Nothing. Belief is a relation to a *content*—a proposition, perhaps, or a mental representation. It is not a relation to an abstract function.
+
+Surface semantics:
+
+{John} ⊆ Believers-that-[unicorns ⊆ horn-havers]
+
+John is a member of the class of entities who believe a certain class-inclusion relation holds. The embedded content is not a logical formula but a semantic relation—the same kind of relation the matrix sentence expresses.
+
+Example 9: *It is possible that every president was corrupt.*
+
+Montague Grammar:
+
+◇∀x [president(x) → corrupt(x)]
+
+Surface semantics:
+
+Presidents ⊆ Corrupt-individuals (in some accessible world)
+
+Modality modifies the accessibility of the worlds in which the subset relation holds, not the logical structure of the relation itself. Montague's intensional operators are formal machinery without cognitive content.
+
+---
+
+6. Ambiguity as Lexical, Not Structural
+
+Frege-Montague Grammar treats ambiguity as syntactic, requiring multiple parses. Surface semantics treats it as lexical or pragmatic, requiring only contextual specification.
+
+Example 10: *Every student read a book.*
+
+The phrase "a book" can denote:
+1. The class of book-readers (existential interpretation)
+2. The class of X-readers, where X is contextually salient (specific interpretation)
+
+This is not a syntactic ambiguity. It is a referential one. The determiner "a" is polysemous, ranging over existential and specific readings depending on discourse context. The sentence structure remains constant.
+
+Example 11: *The chicken is ready to eat.*
+
+Frege-Montague theorists might posit two logical forms to capture the ambiguity (the chicken will eat vs. the chicken will be eaten). But the ambiguity is lexical, residing in "ready to eat," which can denote either *prepared for consumption* or *inclined to consume*.
+
+Surface semantics:
+
+{The chicken} ⊆ Ready-to-eat-entities
+
+The class "ready-to-eat-entities" has two possible extensions depending on context. No structural ambiguity. No multiple parses. Just polysemy.
+
+---
+
+7. The Historical Mistake
+
+Frege believed that natural language was fatally infected with "imperfection" and required regimentation into Begriffsschrift to achieve clarity. Montague attempted to rescue natural language by showing it could be regimented *into* logic. Both projects assume that logical structure is semantic structure.
+
+This assumption is a mistake. Logic is a tool for reasoning *about* meanings, not a representation *of* meanings. The surface structure of natural language directly encodes semantic relations. These relations are compositional, systematic, and cognitively real. They do not require translation into predicate calculus to be rigorous.
+
+Example 12: *Three dogs barked.*
+
+Frege-Montague semantics:
+
+∃X [|X| = 3 ∧ ∀x (x ∈ X → dog(x)) ∧ ∀x (x ∈ X → bark(x))]
+
+This is not understanding. This is symbolic notation for something a four-year-old grasps effortlessly.
+
+Surface semantics:
+
+Three-dogs ⊆ Barkers
+
+The numeral "three" restricts the cardinality of the subject set. The sentence asserts subset inclusion. That is all. That is enough.
+
+---
+
+8. Conclusion: The Case for Surface Semantics
+
+Frege-Montague Grammar achieves formal precision by abandoning linguistic reality. It models not how language works but how logicians *wish* language worked. The framework's quantifiers, variables, and scope relations are artifacts of a notational system, not discoveries about semantic structure.
+
+Surface compositional semantics respects both the systematicity of meaning and the cognitive economy of comprehension. Every phrase denotes a set. Every sentence asserts a relation between sets. Composition is intersection, restriction, or inclusion—operations that correspond directly to syntactic combination and cognitive processing.
+
+The spuriousness of Frege-Montague Grammar lies not in its internal consistency—it is mathematically rigorous—but in its foundational assumption that natural language must be made to look like logic before it can be understood. It need not. It should not. And with surface semantics, it does not.
+
+Natural language is not broken. Frege-Montague Grammar is the bug, not the fix.
+
+---
+
+References
+
+* Frege, Gottlob (1892). *On Sense and Reference.*
+* Frege, Gottlob (1879). *Begriffsschrift.*
+* Church, Alonzo (1941). *The Calculi of Lambda-Conversion.*
+* Montague, Richard (1970). *Universal Grammar.*
+* Montague, Richard (1973). *The Proper Treatment of Quantification in Ordinary English.*
+* Partee, Barbara (1975). *Montague Grammar and Transformational Grammar.*
+* Lewis, David (1972). *General Semantics.*
+* Davidson, Donald (1967). *The Logical Form of Action Sentences.*

@@ -1,0 +1,70 @@
+Single consolidated instruction to the Replit agent
+
+Open server/routes.ts (the /api/figures/:figureId/chat handler) and server/vector-search.ts. Fix retrieval + prompting so every figure’s answers are DB-grounded but intellectually “animated” by the LLM, instead of defaulting to generic modern academic voice.
+
+Do exactly this:
+
+Fix retrieval to use the real Neon tables
+
+Ensure all retrieval queries use the tables that actually exist:
+
+chunks (NOT text_chunks / paper_chunks)
+
+arguments (NOT argument_statements)
+
+Ensure thinker filtering is correct and consistent:
+
+Use the correct column name (likely thinker) and match case exactly (freud vs Freud)
+
+Add one debug log after retrieval:
+
+console.log("[RAG] thinker:", thinker, "chunks:", chunks.length, "quotes:", quotes.length, "positions:", positions.length);
+
+Build a single authoritative contextBlock
+After findRelevantChunks(...) returns, construct a contextBlock that includes literal text from:
+
+Top 8 quotes
+
+Top 8 positions
+
+Top 8 chunks
+(Include source metadata if available, but keep it readable.)
+
+Make the DB context the spine of every answer
+Inject the contextBlock into the system prompt and enforce these rules for every model path (primary + fallback):
+
+“The DB context is the authority. Your job is to breathe intelligence into it, not overwrite it.”
+
+“You MUST ground the answer in the provided context.”
+
+“Every answer MUST include at least 2 direct quotes from the context.”
+
+“Do NOT add modern disclaimers, moral framing, or contemporary academic hedging unless explicitly present in the context.”
+
+“Match the figure’s tone and rhetorical style; do not sound like ChatGPT; do not ‘balance both sides’ unless the figure does so.”
+
+“You may elaborate, infer, and connect ideas only if consistent with the retrieved material.”
+
+“If you generalize beyond the context, label it explicitly as: Inference:.”
+
+Force a 3-layer response structure
+Require the model to output in this structure (no headings needed, but keep the separation clear):
+
+Core (DB-grounded): what the figure’s view is, quoting the DB (≥2 quotes).
+
+Interpretation (LLM intelligence): explain/clarify the view, connect implications, consistent with the figure.
+
+Application: apply the view directly to the user’s question in the figure’s voice.
+
+Prevent “generic voice” when retrieval is thin
+If retrieval returns fewer than 3 useful items total (quotes+positions+chunks), the response must be exactly:
+I don’t have enough of my own text in the database to answer that properly yet.
+
+Verify
+Run the app and confirm:
+
+No “relation does not exist” DB errors
+
+Logs show nonzero retrieval counts for real questions
+
+Responses visibly quote DB material and maintain figure-specific tone, while still adding intelligent interpretation (not a dead library dump).

@@ -1,0 +1,509 @@
+﻿ARISTOTLE'S MAJOR WORKS
+Twenty Key Positions from Each Work
+Contents
+1. Categories
+2. On Interpretation (De Interpretatione)
+3. Prior Analytics
+4. Posterior Analytics
+5. Topics
+6. Sophistical Refutations
+7. Physics
+8. On the Heavens (De Caelo)
+9. On Generation and Corruption
+10. Meteorology
+11. On the Soul (De Anima)
+12. Parva Naturalia
+13. History of Animals (Historia Animalium)
+14. Parts of Animals (De Partibus Animalium)
+15. Generation of Animals (De Generatione Animalium)
+16. Metaphysics
+17. Nicomachean Ethics
+18. Eudemian Ethics
+19. Magna Moralia
+20. Politics
+21. Rhetoric
+22. Poetics
+
+Categories
+1. Primary substances (individual things—"this man," "this horse") are ontologically fundamental; everything else is either predicated of them or present in them.
+2. Secondary substances are the species and genera under which primary substances fall; they are less fundamental but still substantial.
+3. There are exactly ten categories (highest genera of being): substance, quantity, quality, relation, place, time, position, state, action, affection.
+4. The "said of" relation (predication) is distinct from the "present in" relation (inherence).
+5. Substance admits no contrary—there is no opposite of "man" or "horse."
+6. Substance does not admit of degrees—one man is not more a man than another.
+7. Substance can receive contraries while remaining numerically one (the same individual can become hot, then cold).
+8. Quantity is either discrete or continuous—number is discrete; line, surface, body, time, and place are continuous.
+9. Quantity has no contrary and does not admit of degrees.
+10. Parts of some quantities have position relative to one another (parts of a line), while others do not (units of number).
+11. Relatives are defined correlatively—a master is master of a slave; double is double of a half.
+12. Some relatives are simultaneous by nature with their correlatives; knowing which correlative exists entails knowing the other exists.
+13. Quality has four species: states/dispositions, natural capacities, affective qualities, and shape/figure.
+14. Quality admits both contraries and degrees—something can be more or less white; justice is contrary to injustice.
+15. The similar and dissimilar are predicated only in respect of quality.
+16. There are four types of opposition: contradictory, contrary, privative (possession/privation), and relative.
+17. Contradictories admit no intermediate and one must be true of any subject; some contraries admit intermediates (black/white), others do not (odd/even).
+18. Privation differs from negation—blindness is privation of sight in what naturally has sight, not mere absence.
+19. Priority has multiple senses: temporal, existential (what can exist without the other), order of exposition, and value.
+20. Change/motion falls into six species: generation, corruption, increase, diminution, alteration, and locomotion.
+
+On Interpretation (De Interpretatione)
+1. Words are symbols of mental affections, which are likenesses of things; written words are symbols of spoken words.
+2. Mental affections are the same for all humans, though spoken and written words differ by convention across languages.
+3. Nouns and verbs in isolation are neither true nor false—truth and falsity require combination or separation in a statement.
+4. A noun signifies by convention and without reference to time; no part of it has independent meaning.
+5. A verb additionally co-signifies time and is always a sign of something said of something else.
+6. Indefinite nouns ("not-man") and indefinite verbs ("does-not-recover") are not genuine nouns or verbs but distinct forms.
+7. The statement (logos apophantikos) is the only form of discourse that admits truth or falsity; prayers, commands, and questions do not.
+8. Every statement is either an affirmation (kataphasis) or a denial (apophasis).
+9. A simple statement predicates one thing of one subject; composite statements join multiple predications.
+10. Contradictory pairs consist of an affirmation and its corresponding denial; exactly one must be true, the other false.
+11. Universal, particular, and indefinite statements differ in logical force—"every man is white" differs from "some man is white" differs from "man is white."
+12. Contradictory opposition differs from contrary opposition—"every man is just" and "no man is just" are contraries (both can be false), not contradictories.
+13. With singular statements about present or past facts, the law of bivalence holds without exception.
+14. Future contingent statements (e.g., "there will be a sea-battle tomorrow") pose a problem: assigning definite truth-values seems to imply fatalism.
+15. The sea-battle argument: if every future-tensed statement is already true or false, then everything happens by necessity and deliberation is pointless.
+16. Aristotle's solution (variously interpreted): the disjunction "there will or will not be a sea-battle" is necessarily true, but neither disjunct is determinately true now.
+17. Modal notions—possibility, impossibility, necessity, contingency—attach to statements and must be analyzed carefully.
+18. "Possible" and "not impossible" are logically equivalent; "necessary" and "not possible not" are equivalent.
+19. The square of opposition for modal statements differs from that for assertoric statements; modal contradictories must be carefully identified.
+20. There is a logical asymmetry between necessity and possibility: what is necessary is possible, but not vice versa; what is impossible is not possible, but not everything not-possible is impossible in the same sense.
+
+Prior Analytics
+1. A syllogism is a discourse in which, certain things being stated, something other than what is stated follows of necessity from their being so.
+2. Every syllogism consists of exactly three terms: major, minor, and middle.
+3. Every syllogism consists of exactly two premises and one conclusion.
+4. The middle term appears in both premises but not in the conclusion; it is the cause of the conclusion's necessity.
+5. There are exactly three syllogistic figures, distinguished by the position of the middle term in the premises.
+6. First figure: middle is subject in one premise, predicate in the other—produces the most perfect and self-evident syllogisms.
+7. Second figure: middle is predicate in both premises—suited for negative conclusions.
+8. Third figure: middle is subject in both premises—suited for particular conclusions.
+9. Premises and conclusions are either universal or particular, and either affirmative or negative, yielding four propositional forms (A, E, I, O in medieval terminology).
+10. Only certain combinations of premise-pairs yield valid conclusions; Aristotle systematically identifies which moods are valid in each figure.
+11. First-figure moods (Barbara, Celarent, Darii, Ferio) are perfect—their validity is self-evident and requires no proof.
+12. Imperfect syllogisms (in second and third figures) can be perfected by reduction to first-figure moods.
+13. Conversion is a key method of reduction: E-propositions and I-propositions convert simply; A-propositions convert only to I-propositions.
+14. Reductio ad impossibile is another method for proving validity: assume the contradictory of the desired conclusion and derive a contradiction.
+15. Ekthesis (exposition/setting out) is a third proof method involving selection of an individual instance.
+16. Some premise combinations yield no valid conclusion at all—Aristotle proves invalidity by counterexample.
+17. Modal syllogistic extends the theory to premises involving necessity, possibility, and contingency.
+18. Mixed modal syllogisms (one necessary premise, one assertoric) can yield necessary conclusions under certain conditions.
+19. The logic is fundamentally term logic, not propositional logic—it concerns relations among terms via predication.
+20. The syllogistic provides the formal structure for scientific demonstration, though demonstration proper requires additional conditions treated in the Posterior Analytics.
+
+Posterior Analytics
+1. Scientific knowledge (episteme) is knowledge of the cause and of the fact that it could not be otherwise—it is necessary, not contingent.
+2. All teaching and learning proceed from pre-existing knowledge, either of the fact that something is or of the meaning of terms.
+3. Scientific knowledge is acquired through demonstration (apodeixis)—a syllogism that produces knowledge.
+4. A demonstration must proceed from premises that are true, primary, immediate, better known than, prior to, and causally explanatory of the conclusion.
+5. Demonstrative premises must be necessary—one cannot have scientific knowledge of what could be otherwise.
+6. There is a regress problem: if every premise requires demonstration, we face infinite regress, circularity, or foundationalism.
+7. Aristotle's solution is foundationalism: demonstration rests on first principles (archai) that are known but not themselves demonstrated.
+8. First principles are grasped by nous (intellectual intuition), not by demonstration—nous is more certain than scientific knowledge.
+9. First principles include axioms (common to all sciences), definitions, and hypotheses (existence assumptions).
+10. Each science has its own proper principles concerning its proper genus; one cannot demonstrate across genera (no "metabasis").
+11. Definitions state the essence (to ti en einai)—the "what it was to be" that thing.
+12. A proper definition is reached through division of genus by differentiae until the infima species is isolated.
+13. Demonstration reveals the "reasoned fact" (to dioti), not merely the "bare fact" (to hoti)—it shows why, not just that.
+14. The middle term in a demonstration expresses the cause; finding the middle term is finding the explanation.
+15. There are four types of cause (material, formal, efficient, final), and different demonstrations exhibit different causal relations.
+16. Per se (kath' hauto) predication differs from accidental predication; science concerns only per se attributes of its subject genus.
+17. Scientific demonstration concerns what holds universally and always, or at least for the most part—not the exceptional or coincidental.
+18. Nominal definitions (what a term signifies) differ from real definitions (what the essence of the thing is).
+19. The existence of a thing must be established before its essence can be demonstrated; you cannot define what does not exist.
+20. The structure of a science is thus: establish the existence of basic subjects, grasp definitions and axioms through nous, then demonstrate per se attributes of those subjects through their causes.
+
+Topics
+1. The Topics concerns dialectical reasoning—syllogisms from reputable opinions (endoxa), not from necessary truths as in demonstration.
+2. Dialectic is useful for training, for conversation with the many, and for philosophical sciences (by revealing aporiai and first principles).
+3. A dialectical proposition is one that seems true to all, to most, or to the wise (and among the wise, to all, most, or the most notable).
+4. A problem is a thesis about which people either hold no opinion, or the many disagree with the wise, or there is disagreement within either group.
+5. Every dialectical proposition and problem concerns one of four predicables: definition, genus, proprium (unique property), or accident.
+6. A definition states the essence and is convertible with its subject—it applies to all and only instances of the definiendum.
+7. A genus is predicated essentially of many things differing in species—it says what the subject is but not uniquely.
+8. A proprium is not the essence but belongs to only that species and is convertible with it (e.g., capable of learning grammar / man).
+9. An accident is what may belong or not belong to the same subject—it is neither definition, genus, nor proprium.
+10. The dialectician must collect topoi (commonplaces)—general argumentative strategies applicable across subject matters.
+11. Topoi are organized according to which predicable is at issue: there are topoi for attacking or establishing definitions, genera, propria, and accidents.
+12. Topoi for definition include: checking if the definition fails to be convertible, if it is obscure, if it uses metaphor, if it is circular, if it fails to state the genus.
+13. Topoi for genus include: checking if the proposed genus is not predicated in the "what is it" category, if something participates in the genus but not the species.
+14. Topoi for proprium include: checking if the property fails to hold of all instances, if it is not convertible, if it holds only sometimes.
+15. Topoi for accident include: examining opposites, correlatives, coordinates, and inflections to find inconsistencies.
+16. Induction is the progression from particulars to universals and is more persuasive to the many; syllogism moves from universals and is more compelling to dialecticians.
+17. The questioner's goal is to extract concessions that yield a contradictory conclusion to the answerer's thesis; the answerer's goal is to avoid contradiction.
+18. One should distinguish multiple senses of a term (homonymy) before proceeding—ambiguity is a source of fallacious refutation.
+19. Dialectical practice requires knowing not just the topoi but when and how to deploy them—order, timing, and concealment matter.
+20. Dialectic is propaedeutic to first philosophy: by thoroughly examining aporiai from all sides, dialectic clears the path toward grasping the first principles that nous ultimately apprehends.
+
+Sophistical Refutations
+1. This work concerns apparent but not genuine refutations—arguments that seem to refute but do not actually establish a contradiction.
+2. A genuine refutation (elenchus) is a syllogism that establishes the contradictory of a given thesis; sophistical refutations only appear to do this.
+3. Sophistry is the appearance of wisdom without the reality; the sophist trades in apparent rather than genuine arguments.
+4. There are exactly thirteen types of fallacy, divided into two main classes.
+5. Six fallacies depend on language (in dictione): homonymy, amphiboly, combination, division, accent, and form of expression.
+6. Seven fallacies are independent of language (extra dictionem): accident, secundum quid, ignoratio elenchi, begging the question, consequent, non-cause as cause, and many questions.
+7. Homonymy occurs when a word has multiple meanings and the argument exploits this ambiguity at the term level.
+8. Amphiboly occurs when a whole phrase or sentence admits multiple interpretations due to grammatical structure.
+9. Combination and division involve shifting how words are grouped together or separated across premises and conclusion.
+10. Accent (in Greek) involves exploitation of differences in breathing or pitch that alter meaning.
+11. Form of expression occurs when grammatical similarity suggests ontological similarity—treating a quality-word as if it named a substance.
+12. The fallacy of accident illegitimately transfers a predicate from a subject to something accidentally related to that subject.
+13. Secundum quid ignores a qualification—what is true in a certain respect is treated as true absolutely.
+14. Ignoratio elenchi occurs when one refutes something other than the thesis actually maintained—missing the point.
+15. Begging the question (petitio principii) occurs when the premise assumes what was to be proved, either directly or through equivalents.
+16. The fallacy of the consequent illicitly infers the antecedent from the consequent or converts a universal affirmative simply.
+17. Non-cause as cause treats as essential to the refutation a premise that plays no genuine role in deriving the contradiction.
+18. Many questions disguises multiple questions as one, extracting a single answer that commits the respondent to more than intended.
+19. The solution to each fallacy consists in identifying which of the thirteen types it instantiates and showing precisely where the appearance of validity breaks down.
+20. Dialectical training in recognizing fallacies is essential for philosophy itself—the philosopher must be able to detect sophistical traps to pursue genuine inquiry into truth.
+
+Physics
+1. Nature (physis) is an internal principle of motion and rest—natural things have within themselves the source of their own change.
+2. Physics studies natural beings—things that exist by nature as opposed to things that exist by art (techne) or chance.
+3. The physicist must know all four causes: material, formal, efficient, and final—nature is a cause in multiple senses.
+4. Teleology is essential to natural explanation—nature acts for the sake of ends; final causation is not reducible to mechanism.
+5. Chance and spontaneity are real but derivative—they are incidental causes that presuppose the regular, goal-directed order of nature.
+6. The principles of natural things are form, privation, and matter—change requires a persisting substrate and a transition between opposites.
+7. Matter (hyle) is pure potentiality; form (eidos) is actuality—every natural substance is a composite of the two.
+8. Motion (kinesis) is the actuality of what exists potentially, insofar as it is potential—the progressive actualization of a capacity.
+9. There are four kinds of motion: locomotion, alteration, growth/diminution, and (in a qualified sense) generation/corruption.
+10. Motion presupposes the infinite, place, void, and time—each must be analyzed to understand change.
+11. The infinite exists only potentially, never actually—there is no actually infinite body or magnitude, only indefinite divisibility or addition.
+12. Place (topos) is the innermost motionless boundary of the containing body—it is where a thing is, distinct from the thing itself.
+13. Void (kenon) does not exist—motion does not require empty space; in fact void would make motion impossible (no natural direction, no medium for speed differentiation).
+14. Time is the number of motion with respect to before and after—it is dependent on change and on a soul that counts.
+15. The now is to time as the moving body is to motion—a continuity-maker that is always different yet connects past and future.
+16. Continuity characterizes magnitude, motion, and time—they are infinitely divisible and contain no indivisible atomic units.
+17. Zeno's paradoxes are resolved by distinguishing actual from potential infinity—a finite magnitude contains infinitely many potential but not actual parts.
+18. Every motion requires a mover—nothing moves itself in the primary sense; there must be an agent of change distinct from the patient.
+19. There cannot be an infinite regress of movers—there must be a first unmoved mover that initiates motion without itself being moved.
+20. The unmoved mover is eternal, without magnitude, and located at the periphery of the cosmos—it causes the eternal circular motion of the heavens, which in turn causes all sublunary change.
+
+On the Heavens (De Caelo)
+1. The cosmos is a finite, spherical, and eternal whole—it has no beginning and no end in time.
+2. There are two distinct regions of the cosmos: the superlunary (heavens) and the sublunary (terrestrial).
+3. The heavenly bodies are composed of a fifth element (aether)—distinct from earth, water, air, and fire, and not subject to generation or corruption.
+4. Aether's natural motion is eternal circular locomotion—unlike the rectilinear motion natural to the four terrestrial elements.
+5. Circular motion is prior to and more perfect than rectilinear motion—it alone can be continuous, uniform, and eternal.
+6. The heavens are eternal and unchangeable—the celestial realm admits no generation, corruption, growth, or alteration.
+7. The stars and planets are divine beings—their eternal circular motion reflects their perfection and divinity.
+8. The celestial spheres are animate and ensouled—their motion is voluntary activity, not mechanical compulsion.
+9. The earth is spherical—demonstrated by the shape of its shadow on the moon during eclipses and by the changing visibility of stars as one travels north or south.
+10. The earth is at rest at the center of the cosmos—it does not rotate or revolve; the heavens revolve around it.
+11. Earth rests at the center by nature, not by constraint—heavy elements naturally move toward the center; earth has nowhere further to fall.
+12. The cosmos is unique—there cannot be multiple worlds, because all matter of each element would naturally collect in a single cosmic center.
+13. There is nothing outside the cosmos—no void, no body, no place, no time beyond the outermost sphere.
+14. The four terrestrial elements have natural rectilinear motions: earth and water move downward (toward center), fire and air move upward (toward periphery).
+15. Heaviness and lightness are natural tendencies, not relational properties—earth is absolutely heavy, fire absolutely light.
+16. Each element has a natural place to which it moves and in which it rests unless impeded.
+17. The elements can transform into one another through qualitative change—unlike aether, which is immutable.
+18. The size of the earth is relatively small compared to the celestial spheres—Aristotle cites mathematicians' estimates of its circumference.
+19. Against the atomists: indivisible magnitudes and infinite void are impossible—the cosmos is continuous and plenum.
+20. The order and regularity of celestial motion evidences cosmic rationality—the heavens manifest an intelligible, purposive structure that physics must explain through final as well as efficient causes.
+
+On Generation and Corruption
+1. Generation (genesis) is the coming-to-be of a substance; corruption (phthora) is its ceasing-to-be—these differ fundamentally from alteration.
+2. Alteration is change in quality while the subject persists; generation and corruption involve the subject itself coming into or going out of existence.
+3. Against the Eleatics: generation is real, not mere illusion—things genuinely come to be and pass away.
+4. Against the atomists: generation is not merely rearrangement of eternal particles—substantial change is irreducible to locomotion of atoms.
+5. Matter (hyle) underlies all generation and corruption—it is the persisting substrate that receives successive forms.
+6. Prime matter is pure potentiality with no determinate characteristics of its own—it is never encountered apart from some form.
+7. Generation and corruption are correlative and cyclical—one thing's corruption is another's generation; nothing comes from nothing.
+8. The four elements (earth, water, air, fire) are the simplest bodies into which others are resolved and from which they are composed.
+9. The elements are defined by pairs of contraries: hot/cold and wet/dry—fire is hot and dry, air is hot and wet, water is cold and wet, earth is cold and dry.
+10. Elemental transformation occurs when one contrary replaces another—fire becomes air when dry is replaced by wet (both remain hot).
+11. Elements transform more easily when they share a quality—fire to air is easier than fire to water, which requires both contraries to change.
+12. Mixture (mixis) is genuine combination producing a homogeneous new body—distinct from mere juxtaposition of particles.
+13. In true mixture, the ingredients are preserved potentially but not actually—they can be recovered but are not present as distinct bodies.
+14. Contact and agent-patient interaction are prerequisites for generation and mixture—bodies must be able to act upon and be affected by one another.
+15. Acting and being acted upon require contrariety—things that share no contrary qualities cannot interact.
+16. Agent and patient must be alike in genus but unlike in species—there must be both commonality and opposition.
+17. Combination is reciprocal—in genuine mixture, each ingredient acts on and is acted upon by the others simultaneously.
+18. The efficient cause of terrestrial generation and corruption is ultimately the sun's motion along the ecliptic—its approach and recession cause cycles of coming-to-be and passing-away.
+19. Generation and corruption are eternal and continuous in the sublunary realm—though individuals perish, the species and the cycle persist forever.
+20. The eternity of generation depends on celestial motion—the heavens' eternal circular movement guarantees the perpetual cycle of terrestrial change, linking the cosmic order into a unified whole.
+
+Meteorology
+1. Meteorology studies phenomena in the region between the heavens and the earth—occurrences in the upper atmosphere and related terrestrial phenomena.
+2. These phenomena are caused by two exhalations rising from the earth: one hot and dry (smoky/vaporous), the other wet and cold (moist/steamy).
+3. The dry exhalation is responsible for winds, thunder, lightning, and various fiery phenomena in the upper atmosphere.
+4. The moist exhalation is responsible for clouds, rain, dew, frost, snow, and hail.
+5. The region below the moon is filled with these exhalations, which are continuously drawn up by the sun's heat.
+6. Comets and the Milky Way are not celestial phenomena but atmospheric—they are ignitions of the dry exhalation in the upper air.
+7. Shooting stars and meteors are likewise combustions of dry exhalation, not objects falling from the heavens.
+8. The heat of the sun is the primary efficient cause of meteorological phenomena—it drives the evaporative cycle.
+9. Winds are horizontal movements of the dry exhalation; their direction and character depend on geographical and seasonal factors.
+10. Thunder is the sound produced when dry exhalation trapped in clouds is violently expelled; lightning is its ignition.
+11. Lightning is perceived before thunder because sight is faster than hearing—both occur simultaneously but are perceived successively.
+12. Rain forms when moist exhalation rises, cools, condenses into clouds, and the droplets coalesce until heavy enough to fall.
+13. Snow is frozen cloud; frost is frozen dew; hail forms when rain freezes during rapid descent through cold air.
+14. Rivers and springs originate from condensation within the earth and from rainwater collected in subterranean reservoirs—not from inexhaustible underground seas.
+15. The sea is salty because the dry, earthy exhalation mixes with water; evaporation removes fresh water, leaving salt concentrated.
+16. The sea's level remains constant because evaporation balances inflow—it neither increases indefinitely nor dries up.
+17. Earthquakes are caused by dry exhalation trapped underground seeking release—the earth shakes as the pneuma bursts forth.
+18. Geological change occurs over vast time scales—seas become land, land becomes sea, but so slowly that it escapes historical memory.
+19. Rainbows, halos, and mock suns are optical phenomena produced by reflection of light from moisture in the air under specific geometric conditions.
+20. The rainbow displays a fixed order of colors and appears at a specific angle relative to sun and observer—Aristotle attempts a geometrical explanation of its arc and coloration.
+
+On the Soul (De Anima)
+1. Soul (psyche) is the form of a natural body having life potentially—it is the first actuality of an organized living body.
+2. Soul and body are not two separate substances but related as form to matter—the soul is the actuality of which the body is the potentiality.
+3. Asking whether soul and body are one is therefore like asking whether the wax and its shape are one—the question dissolves once hylomorphism is understood.
+4. Soul is not itself a body but cannot exist apart from a body (with one possible exception)—it is not independently subsistent.
+5. There are three grades of soul: nutritive (plants), sensitive (animals), and rational (humans)—each higher grade presupposes the lower.
+6. The nutritive soul is the most basic principle of life, responsible for nutrition, growth, and reproduction.
+7. The sensitive soul adds perception, desire, and locomotion—these capacities require bodily organs.
+8. Perception is the reception of sensible form without the matter—the eye receives the form of redness without receiving red paint.
+9. Each sense has its proper object (color for sight, sound for hearing); error concerning proper objects is minimal.
+10. There are also common sensibles (motion, rest, number, shape, magnitude) perceived by multiple senses, and incidental sensibles perceived through association.
+11. The common sense (koine aisthesis) integrates deliverances of the five senses and enables awareness of perceiving.
+12. Imagination (phantasia) is distinct from both perception and thought—it is a movement resulting from actual perception that enables images to persist in the soul.
+13. The rational soul adds the capacity for thought (nous)—grasping universals, engaging in reasoning, contemplating truth.
+14. Thinking differs from perceiving: perception requires bodily organs and is of particulars; thought requires no organ and grasps universals.
+15. The intellect is potentially all intelligibles—it becomes what it thinks by receiving intelligible forms.
+16. Aristotle distinguishes agent intellect and patient intellect—one is like light that makes colors visible; the other is like a tablet on which nothing is written.
+17. The agent intellect is separable, impassible, unmixed, and eternal—this notoriously obscure passage has generated centuries of controversy.
+18. The object of thought in act is identical with the thinking intellect—in thinking a form, the intellect becomes that form.
+19. Desire (orexis) is the source of animal locomotion—movement requires both a cognitive apprehension of a goal and an appetitive striving toward it.
+20. The soul is ultimately defined by its characteristic activities, not its material substrate—to understand what soul is, study what living things distinctively do.
+
+Parva Naturalia
+1. The Parva Naturalia treats phenomena common to soul and body—states that involve psychic capacities but depend essentially on bodily conditions.
+2. Sense and Sensibilia: The sensible qualities (colors, sounds, odors, flavors, tangible qualities) are objective features of bodies, not mere subjective affections.
+3. Color is the visible quality of what is visible in itself; it is located at the surface of bodies and requires a transparent medium (light) for perception.
+4. The number of basic colors is finite and determinate—intermediate colors arise from mixture of extremes (white and black).
+5. On Memory: Memory is the possession of an image as a likeness of that of which it is an image—it involves a representational reference to the past.
+6. Memory belongs to the same part of the soul as imagination—it requires phantasmata (mental images).
+7. Memory is essentially of the past—one cannot remember present perceptions or future expectations; memory intrinsically involves temporal distance.
+8. Recollection (anamnesis) differs from memory—it is an active search, a quasi-inferential recovery of what was known, moving through associated images.
+9. Recollection proceeds by association: similarity, contrariety, and contiguity guide the search through the sequence of phantasmata.
+10. On Sleep and Waking: Sleep is a natural state involving the incapacitation of the primary sense organ—the heart in Aristotle's physiology.
+11. Sleep results from evaporation of nutriment—warm vapors rise to the head, cool, and descend, causing loss of perceptual awareness.
+12. Sleep is for the sake of preservation—it rests the sense organs and restores the animal's capacity for waking activity.
+13. On Dreams: Dreams are movements of phantasia occurring during sleep—residual motions from waking perception that persist and become vivid when external sensation ceases.
+14. Dreams are not divine prophecies—they are natural phenomena explicable by the mechanics of sense-imagery.
+15. Some dreams may coincidentally match future events by chance, or the dream may serve as a starting point that influences subsequent action, or the dreamer may perceive subtle bodily signs that portend illness.
+16. On Divination in Sleep: Most apparently prophetic dreams are coincidences; true divine dreams would require explaining why the gods send them to ordinary people rather than the wise.
+17. On Length and Shortness of Life: Longevity correlates with the balance and quality of the organism's vital heat and moisture—different species have different natural lifespans.
+18. On Youth and Old Age, Life and Death: Life depends on innate heat centered in the heart; death occurs when this heat is exhausted or extinguished.
+19. On Respiration: Breathing serves to cool the vital heat—animals that breathe maintain their heat within viable limits through this refrigeration.
+20. All these phenomena reveal the intimate union of soul and body—psychic activities are realized in and through physiological processes; studying one requires studying the other.
+
+History of Animals (Historia Animalium)
+1. This work is descriptive and data-gathering, not explanatory—it catalogs the differentiae of animals as the empirical basis for causal inquiry in other treatises.
+2. Animals differ in their parts, activities, ways of life, and characters—classification requires attending to multiple dimensions of variation.
+3. Parts are either uniform (homoeomerous) like flesh, bone, and blood, or non-uniform (anhomoeomerous) like face, hand, and eye—non-uniform parts are composed of uniform parts.
+4. Some parts are analogous rather than identical across species—what functions as a lung in one animal may be gills in another.
+5. Animals are classified by mode of reproduction: viviparous (live birth), oviparous (eggs), ovoviviparous (internal eggs hatching inside), and vermiparous (larvae).
+6. Animals are classified by habitat: land, water, air—some are amphibious, living in multiple environments.
+7. Animals are classified by diet: carnivorous, herbivorous, omnivorous, and specialized feeders on particular substances.
+8. Animals are classified by social organization: solitary, gregarious, and political (living in cooperative communities with division of labor, like bees and humans).
+9. Blooded animals (enaima) include humans, viviparous quadrupeds, oviparous quadrupeds, birds, and fish—roughly corresponding to vertebrates.
+10. Bloodless animals (anaima) include cephalopods, crustaceans, testaceans (shelled animals), and insects—roughly corresponding to invertebrates.
+11. Aristotle provides detailed anatomical descriptions based on dissection—internal organs, vascular systems, reproductive structures, and sensory apparatus.
+12. Humans serve as the standard of comparison—human anatomy is best known to us, and other animals are described by similarity and difference from the human case.
+13. Animals exhibit characteristic behaviors and temperaments—courage, timidity, gentleness, ferocity, cunning, stupidity vary across species and correlate with bodily constitution.
+14. Aristotle records detailed observations of reproductive behavior: mating seasons, courtship, copulation, gestation periods, parental care.
+15. Development from embryo to adult is carefully observed—Aristotle famously tracked chick development by opening eggs at successive intervals.
+16. Sexual differentiation exists in most but not all animals—male and female differ in parts, capacities, and temperament.
+17. Some animals arise by spontaneous generation—certain insects, shellfish, and lower organisms were believed to arise from mud, decaying matter, or dew.
+18. Animals exhibit practical intelligence proportionate to their nature—tool use, memory, learning, and communication vary by species.
+19. Aristotle draws on multiple sources: personal observation, reports from hunters, fishermen, beekeepers, travelers, and earlier writers—he distinguishes what he has seen from hearsay.
+20. The History provides the phenomena to be explained—the causes (formal, material, efficient, final) of these differentiae are investigated in Parts of Animals and Generation of Animals.
+
+Parts of Animals (De Partibus Animalium)
+1. This work provides causal explanations for the anatomical features cataloged in the History of Animals—it asks why animals have the parts they do.
+2. Final causation is primary in biological explanation—parts exist for the sake of their functions; nature does nothing in vain.
+3. The biologist must study form more than matter—the defining features of an animal are its functional organization, not its material constituents.
+4. Necessity in biology is conditional (hypothetical), not absolute—given that an animal is to perform a certain function, certain material conditions are necessary.
+5. One should not disdain the study of lowly creatures—every natural kind exhibits order and beauty to those who investigate its causes.
+6. Parts exist either for the sake of survival (to zen) or for the sake of living well (to eu zen)—some organs are indispensable, others serve flourishing.
+7. Uniform parts (flesh, bone, blood) are composed of the four elements and serve as matter for non-uniform parts.
+8. Non-uniform parts (organs, limbs) are composed of uniform parts and perform the characteristic functions of the animal.
+9. Blood is the final form of nutriment and the material from which all other parts are constituted—it is the fundamental vital fluid.
+10. The heart is the central organ of the body—the seat of vital heat, the source of blood, and the origin of the vascular system.
+11. The brain exists to cool the blood and counterbalance the heart's heat—Aristotle denies it is the seat of sensation or intelligence.
+12. Lungs provide cooling through respiration; animals without lungs use gills or other structures for the same purpose.
+13. Animals with more blood and hotter constitutions are generally more active, intelligent, and courageous—temperament correlates with physiology.
+14. Parts that are necessary for survival (nutritive, sensory, locomotive) are found universally; parts for well-being vary more across species.
+15. Nature provides defensive and offensive parts according to each animal's way of life—horns, tusks, claws, hooves serve protection and predation.
+16. When nature allocates material to one part, it economizes elsewhere—no animal has both horns and tusks; resources are finite.
+17. The right side of the body is naturally stronger and more honorable than the left—humans exhibit this most fully by standing upright.
+18. Humans are the most upright of animals because their nature is most divine—they alone have their upper parts oriented toward the upper cosmos.
+19. Humans have hands because they are rational—not rational because they have hands; the hand is the tool of tools, suited to the versatile intelligence.
+20. Throughout, Aristotle insists on the methodological priority of function over structure—we understand what a part is by understanding what it is for.
+
+Generation of Animals (De Generatione Animalium)
+1. This work explains the efficient and formal causes of animal reproduction—how new organisms come to be and acquire their specific forms.
+2. Sexual reproduction involves the union of male and female contributions, which differ in kind rather than merely in degree.
+3. The male contributes form (the efficient and formal cause) through semen; the female contributes matter (the material cause) through menstrual fluid or its analogue.
+4. Semen does not become part of the embryo—it acts like a craftsman on material, imparting motion and form without contributing substance.
+5. The formative power of semen is carried by pneuma (vital breath)—a substance analogous to aether that transmits soul-capacities.
+6. The female provides catamenia (menstrual blood) as the matter to be shaped—it is concocted blood not yet fully refined into bodily parts.
+7. Conception occurs when male semen acts on female matter, setting it and imparting the movements that will produce the embryo's parts.
+8. Spontaneous generation occurs in some lower organisms when environmental heat acts on suitable matter without sexual union—nature still provides form.
+9. The heart forms first in the embryo—it is the principle of life and the source from which other organs develop.
+10. Development proceeds by epigenesis, not preformation—parts are generated successively, not simply enlarged from a pre-existing miniature.
+11. The embryo acquires souls successively: first nutritive, then sensitive, finally (in humans) rational—each presupposes its predecessor.
+12. The rational soul enters from outside (thyrathen)—unlike nutritive and sensitive soul, nous has no bodily organ and cannot arise from material processes.
+13. Heredity is explained by the relative strength of male and female formative movements—offspring resemble whichever parent's motions dominate in each respect.
+14. Sex determination depends on the heat and concoction of the semen—hotter, more concocted semen produces males; cooler produces females.
+15. Females are deformed males in a limited sense—the female results when the male formative principle fails to fully master the material.
+16. Monstrosities (terata) arise when formative movements go astray—nature's failures reveal what she normally accomplishes.
+17. Infertility between species results from incompatibility of formative movements and material—hybrids like mules are typically sterile.
+18. Different animals have different gestation periods and developmental sequences—these correlate with the perfection and heat of their natures.
+19. Twins and multiple births occur when the matter is sufficient for more than one individual and the formative movements divide accordingly.
+20. The entire process exhibits teleological order—generation exists for the sake of perpetuating the species, the closest approximation to eternity available to mortal beings.
+
+Metaphysics
+1. There is a science that studies being qua being—not any particular kind of being, but what it is to be at all, and the attributes that belong to being as such.
+2. This science also studies first principles and highest causes—it is first philosophy, architectonic over all particular sciences.
+3. Substance (ousia) is the primary sense of being—all other categories (quality, quantity, relation, etc.) depend on substance for their existence.
+4. The question "what is being?" reduces to the question "what is substance?"—this is the central inquiry of metaphysics.
+5. Substance is that which is neither said of nor present in a subject—it is the ultimate subject of predication that underlies all else.
+6. Candidates for substance include matter, form, and the composite—Aristotle argues that form has the best claim to being substance in the primary sense.
+7. Form is the "what it was to be" (to ti en einai)—the essence that makes a thing what it is and answers the question "what is it?"
+8. Matter is pure potentiality—it is unknowable in itself and becomes determinate only through form.
+9. Definition expresses essence—proper definitions state the form, articulating genus and differentia until the infima species is reached.
+10. Universals are not substances—against Plato, Aristotle argues that no universal (animal, color) exists separately; only particulars are fully real.
+11. Platonic Forms are unnecessary and explanatorily impotent—positing a separate Form of Man does not explain how particular men exist or come to be.
+12. Actuality (energeia) is prior to potentiality (dynamis)—in definition, time, and substance; the actual is what the potential is for.
+13. The prime mover is pure actuality—eternal, immaterial, unchanging, without potentiality; it is thought thinking itself.
+14. The prime mover causes motion as final cause—it moves by being loved, as the object of desire and aspiration for the celestial spheres.
+15. There are multiple unmoved movers—one for each celestial sphere, though the outermost sphere's mover is primary.
+16. Theology is first philosophy—the study of the divine, immaterial, and eternal is the highest and most honorable science.
+17. The principle of non-contradiction is the firmest of all principles—the same attribute cannot both belong and not belong to the same subject in the same respect.
+18. The principle of non-contradiction cannot be demonstrated (that would be circular) but can be defended elenctically—anyone who denies it, in speaking meaningfully, presupposes it.
+19. Unity and being are convertible—whatever is, is one; the senses of unity correspond to the senses of being.
+20. Metaphysics is wisdom (sophia) in the highest sense—knowledge of first causes and principles, pursued for its own sake, making us free rather than servile to practical needs.
+
+Nicomachean Ethics
+1. Every action and pursuit aims at some good—the good is that at which all things aim.
+2. The highest human good is eudaimonia (happiness, flourishing)—it is complete, self-sufficient, and chosen for its own sake.
+3. Eudaimonia is not pleasure, honor, or wealth—it is activity of the soul in accordance with virtue, and if there are multiple virtues, in accordance with the best and most complete.
+4. The function (ergon) of a human being is rational activity—just as a good harpist plays the harp well, a good human lives and acts according to reason well.
+5. Virtue (arete) is a hexis (stable disposition)—not a mere feeling or capacity, but a settled state of character acquired through habituation.
+6. Moral virtue is a mean between two vices—one of excess, one of deficiency; courage lies between recklessness and cowardice.
+7. The mean is relative to us, not arithmetic—what counts as temperate eating differs for an athlete and an invalid.
+8. Virtuous action requires choice (prohairesis)—one must know what one is doing, choose it for its own sake, and act from a firm disposition.
+9. We are responsible for our characters—though habit shapes us, we are the co-authors of our dispositions through our voluntary actions.
+10. Practical wisdom (phronesis) is the intellectual virtue that enables correct deliberation about what conduces to the good life—it is inseparable from moral virtue.
+11. The moral virtues include courage, temperance, liberality, magnificence, magnanimity, proper ambition, good temper, friendliness, truthfulness, wit, and justice.
+12. Justice is the complete virtue in relation to others—it has both a general sense (lawfulness) and a specific sense (fairness in distribution and rectification).
+13. Akrasia (weakness of will) is possible—one can know the good yet fail to act on it, overcome by passion; this is neither full virtue nor full vice.
+14. Pleasure accompanies unimpeded virtuous activity—it is not the good itself, but a natural concomitant that completes good activity like bloom on youth.
+15. Friendship (philia) is essential to the good life—humans are social beings, and no one would choose to live without friends even with all other goods.
+16. There are three kinds of friendship: for utility, pleasure, and virtue—only the last is complete and enduring, based on mutual recognition of good character.
+17. The happy person needs external goods—a measure of health, wealth, friends, and good fortune; virtue alone does not suffice for full flourishing.
+18. Contemplation (theoria) is the highest human activity—it is most continuous, self-sufficient, loved for its own sake, and exercises our most divine element.
+19. The contemplative life is happiest—it most fully realizes the divine element in us; the life of moral virtue is happy in a secondary way.
+20. Ethics is a branch of political science—individual flourishing requires the right social conditions; the lawgiver must understand virtue to cultivate it in citizens.
+
+Eudemian Ethics
+1. The Eudemian Ethics is an independent ethical treatise, not merely a draft of the Nicomachean—it has its own distinctive emphases and arguments.
+2. Eudaimonia is the highest good—it is the end for the sake of which everything else is done, and it consists in living well and acting well.
+3. Eudaimonia requires specifying what kind of life is best—the life of virtue, the life of practical wisdom, or the life of contemplation.
+4. The noble (to kalon) plays a more prominent role here than in the Nicomachean Ethics—virtuous action aims at the noble as its proper end.
+5. Virtue is a mean relative to us, lying between excess and deficiency—this doctrine appears in both treatises but with different emphases.
+6. The three lives traditionally proposed as best are the political, philosophical, and pleasure-seeking—only the first two are serious candidates.
+7. Goods are of three kinds: external goods, goods of the soul, and goods of the body—goods of the soul (virtues) are most authoritative.
+8. Good fortune (eutuchia) differs from happiness—it provides external conditions but is not itself the good we achieve through our own activity.
+9. Some people seem naturally fortunate—Aristotle puzzles over whether this is divine favor, natural temperament, or mere chance.
+10. Deliberation concerns means, not ends—we wish for ends and deliberate about how to achieve them; choice is deliberate desire for what is in our power.
+11. Prohairesis (choice) is central to moral responsibility—actions are voluntary when they proceed from choice based on deliberation.
+12. The particular virtues are analyzed similarly to the Nicomachean treatment—courage, temperance, gentleness, liberality, and others as means between extremes.
+13. Three books of the Eudemian Ethics are shared with the Nicomachean (on justice, intellectual virtues, and friendship)—scholars dispute which treatise they originally belonged to.
+14. Justice is both a complete virtue (general justice) and a specific virtue concerning fair shares and rectification.
+15. Friendship (philia) is extensively analyzed—its species, its relation to self-love, its necessity for the good life.
+16. The person of practical wisdom (phronimos) is the standard of right action—what the wise person would judge to be the mean defines virtue.
+17. Kalokagathia (nobility-and-goodness) is the comprehensive virtue—the unity of all particular virtues in a harmonious, noble character.
+18. The kalokagathic person possesses all virtues and uses external goods rightly—wealth, beauty, and honor are pursued for the sake of noble action.
+19. The Eudemian Ethics concludes with contemplation of god as the proper standard—the best life is ordered toward the service and contemplation of the divine.
+20. Whatever promotes contemplation of god is best; whatever hinders it is bad—this theological framing of the human good is more explicit here than in the Nicomachean Ethics.
+
+Magna Moralia
+1. The Magna Moralia is disputed in authorship—some scholars consider it an early Aristotelian work, others a later summary by a student, but it contains recognizably Peripatetic doctrine.
+2. Ethics is a part of political science—the study of individual virtue serves the larger inquiry into how to organize the city for human flourishing.
+3. The good is that at which all things aim—but we seek not the universal Good (against Plato) but the practicable human good.
+4. Eudaimonia is the highest human good—complete, self-sufficient, and consisting in the activity of virtue over a complete life.
+5. The soul has rational and non-rational parts—virtue pertains to both: intellectual virtue to the rational, moral virtue to the non-rational part as it obeys reason.
+6. Virtue is a mean between extremes—excess and deficiency are vices; the virtuous disposition hits the intermediate appropriate to the circumstances.
+7. The mean is determined by right reason (orthos logos)—the standard is what the practically wise person would judge.
+8. Moral virtue arises through habituation—we become courageous by performing courageous acts, temperate by exercising temperance.
+9. Voluntary action is action that originates in the agent with knowledge of particulars—compulsion and ignorance excuse.
+10. Choice (prohairesis) is deliberate desire for things in our power—it follows deliberation and is essential to moral evaluation.
+11. The particular virtues are enumerated and analyzed: courage, temperance, gentleness, liberality, magnificence, magnanimity, and others.
+12. Justice is analyzed as both general virtue (lawfulness) and particular virtue (fairness in distributions and transactions).
+13. Natural justice exists alongside conventional justice—some things are just by nature, not merely by local enactment.
+14. Practical wisdom (phronesis) is the intellectual virtue that discerns the right means to good ends—it is inseparable from moral virtue.
+15. Akrasia (incontinence) is acting against one's better judgment due to passion—the incontinent person knows the good but fails to do it.
+16. Pleasure accompanies virtuous activity but is not itself the good—it completes activity as a supervenient end.
+17. Friendship is necessary for happiness—no one would choose a friendless life even with all other goods.
+18. Self-love rightly understood is virtuous—the good person loves what is best in himself (reason) and acts accordingly.
+19. The happy person needs external goods and good fortune—virtue is necessary but not sufficient; bodily and external goods matter.
+20. The ultimate standard is the noble (to kalon)—the virtuous person chooses virtuous action because it is noble, not merely because it is pleasant or useful.
+
+Politics
+1. Man is by nature a political animal (zoon politikon)—the impulse toward political community is innate; one who lives outside the polis is either a beast or a god.
+2. The polis is prior to the individual in the order of nature—just as the whole is prior to the part, the city is the condition for individual human flourishing.
+3. The polis arises from villages, which arise from households—the progression is from basic reproductive and economic units to the self-sufficient community aimed at the good life.
+4. The household includes three relations: master-slave, husband-wife, parent-child—each has its own proper form of rule.
+5. Slavery is natural for those who lack the deliberative capacity for self-governance—they benefit from direction by natural masters. (Aristotle's most criticized doctrine.)
+6. The purpose of the polis is not mere life but the good life—security and commerce are necessary conditions, but virtue and nobility are the true ends.
+7. Citizenship in the strict sense is defined by participation in deliberative and judicial functions—the citizen shares in ruling and being ruled.
+8. Constitutions are classified by number of rulers (one, few, many) and by whether they rule for the common good or private interest.
+9. Correct constitutions: kingship (one for common good), aristocracy (few for common good), polity (many for common good).
+10. Deviant constitutions: tyranny (one for private interest), oligarchy (few for private interest), democracy (many for private interest).
+11. Polity (politeia) is a mixed constitution blending oligarchic and democratic elements—it empowers the middling citizens and is often the most stable.
+12. The middle class is crucial for political stability—extremes of wealth and poverty breed faction; a large middle moderates conflict.
+13. Faction (stasis) arises from disputes over justice—oligarchs think justice means inequality based on wealth; democrats think it means equality for all free citizens.
+14. Revolution occurs when the balance of power no longer matches the constitutional form—each regime carries the seeds of its own destruction.
+15. The best constitution absolutely would require ideal conditions—virtuous citizens, adequate resources, proper size; it aims at contemplative happiness.
+16. The best practicable constitution must suit the character and circumstances of the actual population—the statesman adapts to available human material.
+17. Education is the statesman's most important task—citizens must be trained in virtue appropriate to the constitution; character shapes regime stability.
+18. Education should be common and public, not private—since the end of the city is one, the training of citizens must be unified.
+19. The curriculum includes letters, gymnastics, music, and drawing—music is especially important for shaping character and enabling noble leisure.
+20. The polis exists ultimately for the sake of noble action and leisure (schole)—war is for peace, business for leisure, and leisure for philosophy and virtuous activity.
+
+Rhetoric
+1. Rhetoric is the counterpart (antistrophos) of dialectic—both deal with matters that are common knowledge and belong to no specific science; both argue on opposite sides.
+2. Rhetoric is the faculty of discovering the available means of persuasion in any given case—it is an art (techne), not mere knack or natural talent.
+3. Rhetoric is useful because truth and justice are naturally stronger, but audiences are imperfect; the skilled speaker helps truth prevail.
+4. The rhetorician must be able to argue both sides—not to practice injustice, but to understand the arguments and refute sophistical opponents.
+5. There are three modes of persuasion (pisteis): ethos (character of the speaker), pathos (emotional state of the audience), and logos (the argument itself).
+6. Ethos persuades when the speech makes the speaker appear credible—this must be achieved through the speech itself, not prior reputation.
+7. Pathos persuades by putting the audience into a certain emotional state—emotions alter judgment, so the rhetorician must understand psychology.
+8. Logos persuades through demonstration or apparent demonstration—rhetorical arguments take the form of enthymemes and examples.
+9. The enthymeme is the rhetorical syllogism—it proceeds from probable premises or signs rather than necessary truths, and often leaves premises unstated.
+10. The example (paradeigma) is rhetorical induction—it argues from particular to particular, using historical or invented parallels.
+11. There are three species of rhetoric: deliberative (political), forensic (judicial), and epideictic (ceremonial praise and blame).
+12. Deliberative rhetoric concerns future action—its end is the expedient or harmful; the speaker advises or dissuades the assembly.
+13. Forensic rhetoric concerns past action—its end is the just or unjust; the speaker accuses or defends before a jury.
+14. Epideictic rhetoric concerns present character—its end is the noble or shameful; the speaker praises or blames before spectators.
+15. Each species has its own topics (topoi)—commonplaces and lines of argument suited to its characteristic subject matter.
+16. Book II analyzes the emotions in detail—anger, calm, friendship, enmity, fear, confidence, shame, pity, indignation, envy, emulation—showing their causes and how to arouse or allay them.
+17. Book II also treats character types—youth, old age, prime of life, nobility, wealth, power—since speakers must adapt to their audiences.
+18. Style (lexis) matters because the manner of expression affects persuasion—clarity is the chief virtue, with appropriateness to subject and audience.
+19. Metaphor is the most important stylistic device—it produces clarity, pleasure, and vividness; facility with metaphor indicates natural genius.
+20. Arrangement (taxis) of a speech has essential parts—at minimum a statement of the case and the proof; the elaborated structure includes proem, narration, proof, and epilogue.
+
+Poetics
+1. Poetry is mimesis (imitation/representation)—all poetic arts imitate human action, character, and emotion through different media, objects, and modes.
+2. The species of poetry differ by medium (rhythm, language, melody), object (better, worse, or similar characters), and mode (narrative, dramatic, or mixed).
+3. Mimesis is natural to humans—we are the most imitative of animals, we learn through imitation, and we take pleasure in representations even of painful things.
+4. Tragedy is the imitation of a serious, complete action of magnitude, in embellished language, through enacted drama, accomplishing catharsis of pity and fear.
+5. Tragedy has six elements: plot (mythos), character (ethos), thought (dianoia), diction (lexis), melody (melos), and spectacle (opsis)—ranked in that order of importance.
+6. Plot is the soul of tragedy—it is the arrangement of incidents; tragedy is primarily imitation of action, not of persons.
+7. A good plot must be whole and complete—having a beginning, middle, and end, with parts connected by necessity or probability.
+8. The plot must have proper magnitude—long enough to allow the change of fortune, short enough to be grasped as a unity.
+9. Unity of plot is not unity of hero—a plot is one when it imitates one complete action; episodic plots that lack necessary connection are inferior.
+10. Poetry is more philosophical than history—history tells what happened, poetry what could happen; poetry expresses universals, history particulars.
+11. The best plots involve reversal (peripeteia) and recognition (anagnorisis)—the change from ignorance to knowledge, ideally coinciding with the reversal of fortune.
+12. The complex plot combining reversal and recognition is superior to the simple plot—it produces the characteristic tragic pleasure most effectively.
+13. The ideal tragic hero is neither perfectly virtuous nor villainous—a person of high standing who falls through some hamartia (error/flaw), not vice.
+14. The change should be from good fortune to bad—plots ending in prosperity are less tragic; the downfall of the good-but-flawed evokes pity and fear.
+15. Pity is aroused by undeserved misfortune; fear by misfortune befalling someone like ourselves—together they produce catharsis.
+16. Catharsis is the clarification or purgation of pity and fear—tragedy's emotional effect is beneficial, not corrupting. (The term's precise meaning remains debated.)
+17. Character (ethos) must be good, appropriate, like reality, and consistent—characters should act according to necessity or probability given who they are.
+18. The denouement should arise from the plot itself—not from the deus ex machina; resolution must follow from prior action.
+19. Epic shares many features with tragedy but differs in length, meter (hexameter), and narrative mode—it permits greater scale and multiple simultaneous actions.
+20. Tragedy is superior to epic—it achieves its end in shorter compass, has greater unity, and adds the powerful resources of music and spectacle to poetic imitation.

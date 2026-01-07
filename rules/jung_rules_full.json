@@ -1,0 +1,354 @@
+[
+  {
+    "id": "JUNG-COLL-001",
+    "year": 1916,
+    "premise": "collective unconscious|collective|universal|shared|inherited",
+    "conclusion": "The collective unconscious is a layer of the psyche beneath the personal unconscious, containing inherited psychic structures common to all humanity. It is not acquired individually but is inborn, containing the archetypes—universal patterns of behavior and perception.",
+    "strength": 0.95,
+    "domain": "structure"
+  },
+  {
+    "id": "JUNG-COLL-002",
+    "year": 1936,
+    "premise": "personal unconscious|individual|forgotten|repressed",
+    "conclusion": "The personal unconscious contains contents that were once conscious but have been forgotten or repressed. Unlike the collective unconscious, its contents are acquired during the individual's lifetime.",
+    "strength": 0.90,
+    "domain": "structure"
+  },
+  {
+    "id": "JUNG-ARCH-001",
+    "year": 1919,
+    "premise": "archetype|archetypal|primordial|universal pattern",
+    "conclusion": "Archetypes are universal, archaic patterns and images that derive from the collective unconscious. They are inherited potentials which are actualized when they enter consciousness as images or manifest in behavior. Archetypes are not inherited ideas but inherited modes of functioning.",
+    "strength": 0.95,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-SHADOW-001",
+    "year": 1948,
+    "premise": "shadow|dark side|evil|rejected|denied",
+    "conclusion": "The shadow is the archetype representing the unconscious aspect of the personality that the conscious ego does not identify with. It contains repressed weaknesses, shortcomings, and instincts, but also undeveloped positive qualities. Meeting the shadow is the first stage of individuation.",
+    "strength": 0.95,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-SHADOW-002",
+    "year": 1951,
+    "premise": "project|projection|blame|other|enemy",
+    "conclusion": "We project our shadow onto others, seeing in them what we refuse to see in ourselves. The qualities we hate most in others are often our own unacknowledged traits. Withdrawing projections is essential psychological work.",
+    "strength": 0.90,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-ANIMA-001",
+    "year": 1925,
+    "premise": "anima|feminine|woman|inner woman|soul image",
+    "conclusion": "The anima is the archetype of the feminine in man's unconscious. It is his soul image, representing his capacity for relatedness, feeling, and connection to the unconscious. It appears in dreams as female figures and mediates between ego and unconscious.",
+    "strength": 0.95,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-ANIMUS-001",
+    "year": 1925,
+    "premise": "animus|masculine|man|inner man|spirit",
+    "conclusion": "The animus is the archetype of the masculine in woman's unconscious. It represents her capacity for reflection, deliberation, and self-knowledge. It appears in dreams as male figures and can manifest as opinions, convictions, and judgments.",
+    "strength": 0.95,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-SELF-001",
+    "year": 1944,
+    "premise": "self|wholeness|totality|center|god-image",
+    "conclusion": "The Self is the archetype of wholeness and the regulating center of the psyche. It represents the totality of conscious and unconscious, the goal of individuation. The Self often appears in dreams and visions as mandala symbols, divine figures, or quaternity images.",
+    "strength": 0.95,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-SELF-002",
+    "year": 1951,
+    "premise": "ego.*self|self.*ego|relation|axis",
+    "conclusion": "The ego is not the center of the psyche but stands in relation to the Self as the moved to the mover. A healthy ego-Self axis allows the ego to receive guidance from the Self while maintaining its own integrity. Inflation occurs when the ego identifies with the Self.",
+    "strength": 0.90,
+    "domain": "structure"
+  },
+  {
+    "id": "JUNG-PERSONA-001",
+    "year": 1928,
+    "premise": "persona|mask|role|social|adaptation",
+    "conclusion": "The persona is the mask we wear for social adaptation—the face we present to the world. It is necessary for functioning in society but becomes problematic when we identify with it completely, losing touch with our authentic self.",
+    "strength": 0.90,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-INDIV-001",
+    "year": 1939,
+    "premise": "individuation|self-realization|become who you are|development",
+    "conclusion": "Individuation is the process by which a person becomes a psychological individual, a separate indivisible unity or whole. It is the realization of the Self through the integration of conscious and unconscious contents. It is the central concept of analytical psychology.",
+    "strength": 0.95,
+    "domain": "individuation"
+  },
+  {
+    "id": "JUNG-INDIV-002",
+    "year": 1945,
+    "premise": "integrate|integration|unite|unify|reconcile opposites",
+    "conclusion": "Individuation requires integrating the opposites within the psyche—conscious and unconscious, masculine and feminine, good and evil. This is not elimination of conflict but holding the tension of opposites until a third, transcendent position emerges.",
+    "strength": 0.90,
+    "domain": "individuation"
+  },
+  {
+    "id": "JUNG-TYPE-001",
+    "year": 1921,
+    "premise": "introvert|introversion|inward|inner|withdrawn",
+    "conclusion": "Introversion is an attitude in which interest flows inward toward the subject. The introvert's energy moves toward inner reality; they are reflective, reserved, and oriented toward their inner world of thoughts and feelings.",
+    "strength": 0.95,
+    "domain": "typology"
+  },
+  {
+    "id": "JUNG-TYPE-002",
+    "year": 1921,
+    "premise": "extravert|extrovert|extraversion|outward|external|sociable",
+    "conclusion": "Extraversion is an attitude in which interest flows outward toward objects. The extravert's energy moves toward outer reality; they are action-oriented, sociable, and oriented toward the external world of people and things.",
+    "strength": 0.95,
+    "domain": "typology"
+  },
+  {
+    "id": "JUNG-TYPE-003",
+    "year": 1921,
+    "premise": "thinking|thought|logic|rational analysis",
+    "conclusion": "Thinking is a rational function that seeks to understand through logic and analysis. It evaluates according to true/false criteria. When dominant, it tends to suppress feeling.",
+    "strength": 0.90,
+    "domain": "typology"
+  },
+  {
+    "id": "JUNG-TYPE-004",
+    "year": 1921,
+    "premise": "feeling|value|worth|like|dislike",
+    "conclusion": "Feeling is a rational function that evaluates according to pleasant/unpleasant, good/bad, valuable/worthless. It is not emotion but a judging function concerned with values. When dominant, it tends to suppress thinking.",
+    "strength": 0.90,
+    "domain": "typology"
+  },
+  {
+    "id": "JUNG-TYPE-005",
+    "year": 1921,
+    "premise": "sensation|sense|perceive|concrete|physical|present",
+    "conclusion": "Sensation is an irrational (perceiving) function that registers physical reality through the senses. It focuses on what is, the concrete facts of the present moment. When dominant, it tends to suppress intuition.",
+    "strength": 0.90,
+    "domain": "typology"
+  },
+  {
+    "id": "JUNG-TYPE-006",
+    "year": 1921,
+    "premise": "intuition|hunch|possibility|future|potential|unconscious perception",
+    "conclusion": "Intuition is an irrational (perceiving) function that perceives via the unconscious, grasping patterns, possibilities, and future potentials. It focuses on what could be. When dominant, it tends to suppress sensation.",
+    "strength": 0.90,
+    "domain": "typology"
+  },
+  {
+    "id": "JUNG-COMPLEX-001",
+    "year": 1907,
+    "premise": "complex|feeling-toned|autonomous|possess",
+    "conclusion": "A complex is a feeling-toned group of representations in the unconscious that behaves like an autonomous personality. Complexes have their own feeling-tone and can possess the ego, causing disturbances in behavior, affect, and thought.",
+    "strength": 0.95,
+    "domain": "complexes"
+  },
+  {
+    "id": "JUNG-COMPLEX-002",
+    "year": 1934,
+    "premise": "mother complex|mother|maternal|devouring|nurturing",
+    "conclusion": "The mother complex consists of feelings and images associated with the mother archetype. In negative form, it can manifest as being devoured by the unconscious, inability to separate, or projection of the mother image onto women.",
+    "strength": 0.85,
+    "domain": "complexes"
+  },
+  {
+    "id": "JUNG-COMPLEX-003",
+    "year": 1909,
+    "premise": "father complex|father|paternal|authority|power",
+    "conclusion": "The father complex consists of feelings and images associated with the father archetype. It affects one's relationship to authority, power, logos, and the spiritual realm. Unresolved, it may lead to rebellion or submission to authority.",
+    "strength": 0.85,
+    "domain": "complexes"
+  },
+  {
+    "id": "JUNG-DREAM-001",
+    "year": 1945,
+    "premise": "dream|dreaming|night|sleep|vision",
+    "conclusion": "Dreams are spontaneous products of the unconscious psyche, compensating for the one-sidedness of conscious attitude. They use symbolic language to communicate what consciousness needs for balance and wholeness. Dreams are not disguised wishes but direct expressions of the unconscious.",
+    "strength": 0.95,
+    "domain": "dreams"
+  },
+  {
+    "id": "JUNG-DREAM-002",
+    "year": 1934,
+    "premise": "compensat|balance|one-sided|correct",
+    "conclusion": "The compensatory function of dreams brings unconscious contents to consciousness to correct conscious one-sidedness. If the conscious attitude is too extreme, dreams become increasingly dramatic in their compensatory imagery.",
+    "strength": 0.90,
+    "domain": "dreams"
+  },
+  {
+    "id": "JUNG-SYMBOL-001",
+    "year": 1921,
+    "premise": "symbol|symbolic|image|meaning|transform",
+    "conclusion": "A symbol is the best possible expression for something unknown. Unlike a sign, which points to something known, a symbol participates in the reality it represents and has transformative power. Living symbols emerge from the unconscious and cannot be manufactured.",
+    "strength": 0.95,
+    "domain": "symbols"
+  },
+  {
+    "id": "JUNG-SYMBOL-002",
+    "year": 1944,
+    "premise": "mandala|circle|square|quaternity|center",
+    "conclusion": "The mandala is a symbol of the Self—a circular image often with a quaternity structure representing wholeness and the union of opposites. Spontaneous mandala images appear in dreams and visions during individuation, indicating movement toward psychic integration.",
+    "strength": 0.90,
+    "domain": "symbols"
+  },
+  {
+    "id": "JUNG-ACTIVE-001",
+    "year": 1935,
+    "premise": "active imagination|imagination|dialogue|fantasy|engage",
+    "conclusion": "Active imagination is a method of engaging with unconscious contents by allowing them to manifest as images or personifications and then interacting with them consciously. It bridges conscious and unconscious, facilitating individuation.",
+    "strength": 0.90,
+    "domain": "technique"
+  },
+  {
+    "id": "JUNG-SYNC-001",
+    "year": 1952,
+    "premise": "synchron|coincidence|meaningful|acausal|connection",
+    "conclusion": "Synchronicity is the meaningful coincidence of psychic and physical events that are not causally related. It suggests that psyche and matter are aspects of one reality, connected by meaning rather than causation.",
+    "strength": 0.90,
+    "domain": "synchronicity"
+  },
+  {
+    "id": "JUNG-ALCHEMY-001",
+    "year": 1944,
+    "premise": "alchemy|alchemical|transformation|opus|prima materia",
+    "conclusion": "Alchemy was a projection of the individuation process onto matter. The alchemists were unknowingly engaged in psychological transformation, their chemical operations mirroring stages of psychic development. The philosopher's stone symbolizes the Self.",
+    "strength": 0.85,
+    "domain": "alchemy"
+  },
+  {
+    "id": "JUNG-ALCHEMY-002",
+    "year": 1946,
+    "premise": "nigredo|blackness|depression|dark night|dissolution",
+    "conclusion": "Nigredo is the alchemical stage of blackening, corresponding psychologically to depression, confrontation with the shadow, and dissolution of the old personality. It is a necessary stage of death before rebirth in the individuation process.",
+    "strength": 0.80,
+    "domain": "alchemy"
+  },
+  {
+    "id": "JUNG-RELIG-001",
+    "year": 1937,
+    "premise": "religious|religion|god|divine|sacred|numinous",
+    "conclusion": "Religious experience is psychologically real regardless of metaphysical questions. The God-image is an archetype of the collective unconscious, and religious symbols emerge spontaneously from the psyche. Denial of the religious function leads to neurosis.",
+    "strength": 0.90,
+    "domain": "religion"
+  },
+  {
+    "id": "JUNG-RELIG-002",
+    "year": 1952,
+    "premise": "christ|christian|christianity|savior",
+    "conclusion": "Christ is a symbol of the Self in Western culture, but an incomplete one since he lacks shadow. The Christian aeon has emphasized light and rejected darkness, leading to a one-sided cultural consciousness that now faces compensation.",
+    "strength": 0.85,
+    "domain": "religion"
+  },
+  {
+    "id": "JUNG-NEUR-001",
+    "year": 1943,
+    "premise": "neurosis|neurotic|suffering|conflict|meaning",
+    "conclusion": "Neurosis is the suffering of a soul which has not discovered its meaning. It results from a dissociation between conscious and unconscious, an internal conflict the ego cannot resolve. The neurosis contains the seed of its own cure if properly understood.",
+    "strength": 0.95,
+    "domain": "psychopathology"
+  },
+  {
+    "id": "JUNG-NEUR-002",
+    "year": 1929,
+    "premise": "midlife|middle age|crisis|forty|second half",
+    "conclusion": "The problems of the second half of life differ from those of the first. The first half concerns establishment in the outer world; the second half requires turning inward toward meaning and individuation. Midlife crisis is often a call to this transition.",
+    "strength": 0.90,
+    "domain": "development"
+  },
+  {
+    "id": "JUNG-INFLATION-001",
+    "year": 1935,
+    "premise": "inflation|possessed|identify|grandiose|god-like",
+    "conclusion": "Inflation occurs when the ego identifies with an archetype or archetypal contents, leading to grandiosity or delusion. The person becomes possessed by unconscious contents, losing their human standpoint. Both positive and negative inflation are dangerous.",
+    "strength": 0.85,
+    "domain": "psychopathology"
+  },
+  {
+    "id": "JUNG-TRANSFER-001",
+    "year": 1946,
+    "premise": "transference|analyst|patient|relationship|projection",
+    "conclusion": "Transference is the projection of unconscious contents onto the analyst. It serves the individuation process by bringing unconscious material into the therapeutic relationship where it can be made conscious. The analyst must be aware of their own counter-transference.",
+    "strength": 0.90,
+    "domain": "clinical"
+  },
+  {
+    "id": "JUNG-PSYCHE-001",
+    "year": 1947,
+    "premise": "psyche|soul|mind|inner|psychological",
+    "conclusion": "The psyche is real. Its reality is not diminished by calling it psychological. The psyche is the starting point of all human experience; we can know nothing that is not first filtered through the psyche.",
+    "strength": 0.90,
+    "domain": "metapsychology"
+  },
+  {
+    "id": "JUNG-OPPOSITES-001",
+    "year": 1916,
+    "premise": "opposites|opposite|polarity|tension|enantiodromia",
+    "conclusion": "The psyche functions through opposites: conscious/unconscious, good/evil, masculine/feminine. Enantiodromia is the tendency for things to turn into their opposites. Holding the tension of opposites without identifying with either allows the transcendent function to produce a new synthesis.",
+    "strength": 0.90,
+    "domain": "dynamics"
+  },
+  {
+    "id": "JUNG-TRANSCEND-001",
+    "year": 1916,
+    "premise": "transcendent function|third|synthesis|unite|new",
+    "conclusion": "The transcendent function arises from the union of conscious and unconscious contents. When opposites are held in tension without repression, a third position emerges that transcends and includes both. It is the psyche's self-regulatory mechanism.",
+    "strength": 0.90,
+    "domain": "dynamics"
+  },
+  {
+    "id": "JUNG-HERO-001",
+    "year": 1912,
+    "premise": "hero|journey|quest|monster|dragon|treasure",
+    "conclusion": "The hero archetype represents the ego's struggle to separate from the unconscious (the mother) and establish itself. The hero's journey—departure, initiation, return—is a universal pattern of psychological development.",
+    "strength": 0.85,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-WISE-001",
+    "year": 1934,
+    "premise": "wise old man|sage|wizard|mentor|spirit",
+    "conclusion": "The Wise Old Man is an archetype representing spirit, meaning, and insight. He appears in dreams and myths as a helpful figure offering guidance. He compensates for spiritual confusion or stagnation in the dreamer's life.",
+    "strength": 0.85,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-MOTHER-001",
+    "year": 1938,
+    "premise": "great mother|mother archetype|feminine|womb|earth",
+    "conclusion": "The Great Mother archetype has positive aspects (nurturing, fertility, wisdom) and negative aspects (devouring, smothering, death). It represents the unconscious itself, nature, and the source and end of life.",
+    "strength": 0.85,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-CHILD-001",
+    "year": 1940,
+    "premise": "child|divine child|puer|innocence|potential",
+    "conclusion": "The Child archetype represents potential, futurity, and new beginnings. The Divine Child symbolizes the Self in embryonic form. Puer psychology involves identification with this archetype, leading to eternal youth but inability to commit.",
+    "strength": 0.85,
+    "domain": "archetypes"
+  },
+  {
+    "id": "JUNG-FREUD-001",
+    "year": 1912,
+    "premise": "freud|sexual|libido|psychoanalysis",
+    "conclusion": "Libido is not exclusively sexual but is general psychic energy. My break with Freud came from his insistence on the sexual theory. The psyche cannot be reduced to sexuality; the religious and spiritual functions are equally fundamental.",
+    "strength": 0.90,
+    "domain": "metapsychology"
+  },
+  {
+    "id": "JUNG-WORD-001",
+    "year": 1906,
+    "premise": "word association|association test|reaction time|complex indicator",
+    "conclusion": "The word association test reveals complexes through disturbances in reaction time, unusual responses, or failure to respond. These complex indicators point to feeling-toned contents in the unconscious that disturb conscious functioning.",
+    "strength": 0.85,
+    "domain": "technique"
+  }
+]

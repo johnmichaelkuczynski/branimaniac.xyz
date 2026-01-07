@@ -1,0 +1,306 @@
+[
+  {
+    "id": "JMK-PROP-001",
+    "year": 2015,
+    "premise": "proposition|meaning|semantic content|what is said",
+    "conclusion": "A proposition is a structured entity composed of properties and relations, not a set of possible worlds. The proposition that Socrates is wise has Socrates and the property of being wise as constituents.",
+    "strength": 0.95,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-PROP-002",
+    "year": 2015,
+    "premise": "compose|composition|constituent|structure",
+    "conclusion": "Propositions have compositional structure. The proposition that aRb contains a, R, and b as constituents, and this structure explains why 'aRb' differs in meaning from 'bRa'.",
+    "strength": 0.95,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-PROP-003",
+    "year": 2016,
+    "premise": "possible world|modal|necessity|possibility",
+    "conclusion": "Possible worlds semantics is fundamentally misguided. Propositions cannot be identified with sets of possible worlds because this erases the structural differences between necessarily equivalent propositions.",
+    "strength": 0.90,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-PROP-004",
+    "year": 2015,
+    "premise": "truth|true|false|instantiat",
+    "conclusion": "A proposition is true if and only if the properties and relations it contains are instantiated by the objects it is about. Truth is a matter of property-instantiation, not correspondence to facts.",
+    "strength": 0.90,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-RUSSELL-001",
+    "year": 2014,
+    "premise": "russell|definite description|the king of france|denoting",
+    "conclusion": "Russell's Theory of Descriptions is fundamentally mistaken. 'The F is G' does not mean 'There exists exactly one F and it is G.' The definite article 'the' functions to pick out a contextually salient individual, not to assert existence and uniqueness.",
+    "strength": 0.95,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-RUSSELL-002",
+    "year": 2014,
+    "premise": "empty name|non-existent|pegasus|unicorn|fiction",
+    "conclusion": "Empty names like 'Pegasus' do not create the logical problems Russell supposed. We can think about and refer to non-existent objects without asserting their existence. The thought about Pegasus has a determinate content even though Pegasus does not exist.",
+    "strength": 0.85,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-APRIORI-001",
+    "year": 2016,
+    "premise": "a priori|apriori|innate|rational|reason alone",
+    "conclusion": "A priori knowledge is genuine knowledge that does not depend on sensory experience for its justification. Mathematical and logical truths are paradigm cases of a priori knowledge.",
+    "strength": 0.95,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-APRIORI-002",
+    "year": 2016,
+    "premise": "empiric|sense|observation|experience|induction",
+    "conclusion": "Empiricism is self-refuting. The claim that all knowledge derives from experience is itself not derived from experience. Radical empiricism cannot account for our knowledge of logic, mathematics, or even the principles of inductive inference.",
+    "strength": 0.90,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-APRIORI-003",
+    "year": 2017,
+    "premise": "concept|conceptual|analysis|definition",
+    "conclusion": "Conceptual analysis yields genuine knowledge. By reflecting on the content of our concepts, we can discover necessary truths about their application conditions. This is not mere stipulation but discovery of objective conceptual relations.",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-EXTERN-001",
+    "year": 2015,
+    "premise": "extern|twin earth|content|wide|narrow|putnam",
+    "conclusion": "Content externalism is false. The content of a thought is determined by the intrinsic cognitive state of the thinker, not by external factors. Twin Earth thought experiments do not establish that meanings 'ain't in the head.'",
+    "strength": 0.90,
+    "domain": "philosophy of mind"
+  },
+  {
+    "id": "JMK-EXTERN-002",
+    "year": 2015,
+    "premise": "mental content|intentional|about|represent",
+    "conclusion": "Mental content is intrinsically intentional. A thought is about what it is about in virtue of its internal structure, not in virtue of causal or historical relations to external objects.",
+    "strength": 0.85,
+    "domain": "philosophy of mind"
+  },
+  {
+    "id": "JMK-LOT-001",
+    "year": 2016,
+    "premise": "language of thought|mentalese|fodor|computational|symbol",
+    "conclusion": "The Language of Thought hypothesis is problematic. Thinking is not the manipulation of mental symbols according to syntactic rules. The computational theory of mind fails to explain genuine understanding and intentionality.",
+    "strength": 0.85,
+    "domain": "philosophy of mind"
+  },
+  {
+    "id": "JMK-LOGIC-001",
+    "year": 2018,
+    "premise": "gödel|incompleteness|undecidable|consistent|complete",
+    "conclusion": "Gödel's incompleteness theorems show that any sufficiently powerful formal system cannot be both complete and consistent. There are true arithmetic statements that cannot be proved within the system.",
+    "strength": 0.95,
+    "domain": "logic"
+  },
+  {
+    "id": "JMK-LOGIC-002",
+    "year": 2018,
+    "premise": "recursive|recursion|computable|decidable|algorithm",
+    "conclusion": "The recursion-theoretic hierarchy reveals deep structure in mathematical truth. Not all mathematical truths are recursively enumerable, and this has profound implications for the limits of formal systems.",
+    "strength": 0.90,
+    "domain": "logic"
+  },
+  {
+    "id": "JMK-LOGIC-003",
+    "year": 2017,
+    "premise": "valid|validity|inference|deduction|entailment",
+    "conclusion": "Logical validity is a necessary property of arguments. An argument is valid if and only if it is impossible for the premises to be true and the conclusion false. This is an objective, mind-independent fact.",
+    "strength": 0.90,
+    "domain": "logic"
+  },
+  {
+    "id": "JMK-META-001",
+    "year": 2015,
+    "premise": "property|universal|particular|instantiat|predicate",
+    "conclusion": "Properties are genuine universals that exist independently of their instances. The property of being red exists even if nothing red exists. This moderate realism avoids both nominalism and Platonic excess.",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "JMK-META-002",
+    "year": 2016,
+    "premise": "identity|identical|same|leibniz|indiscernib",
+    "conclusion": "Identity is governed by Leibniz's Law: x is identical to y if and only if x and y share all properties. This is not merely a criterion for identity but constitutive of what identity is.",
+    "strength": 0.90,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "JMK-META-003",
+    "year": 2017,
+    "premise": "essence|essential|accidental|necessary|contingent",
+    "conclusion": "Objects have essential properties that they could not lack while remaining the same object. Socrates is essentially human; he could not have been a number. This essence is metaphysically prior to existence.",
+    "strength": 0.85,
+    "domain": "metaphysics"
+  },
+  {
+    "id": "JMK-PARADOX-001",
+    "year": 2014,
+    "premise": "sorites|heap|bald|vague|borderline",
+    "conclusion": "The sorites paradox arises from the false assumption that vague predicates have sharp boundaries. The solution is to recognize that vagueness is a semantic phenomenon, not a metaphysical one. Reality is precise; our language is imprecise.",
+    "strength": 0.85,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-PARADOX-002",
+    "year": 2014,
+    "premise": "paradox|contradict|puzzle|dilemma",
+    "conclusion": "Philosophical paradoxes typically arise from hidden equivocation or false premises. The resolution of a paradox involves identifying which seemingly obvious premise is actually false.",
+    "strength": 0.80,
+    "domain": "logic"
+  },
+  {
+    "id": "JMK-PSYCH-001",
+    "year": 2019,
+    "premise": "ocd|obsessive|compulsive|ritual|intrusive",
+    "conclusion": "OCD involves a fundamental confusion between thoughts and reality. The obsessive believes that having a thought makes its content more likely to occur, and that performing rituals can neutralize this imagined threat.",
+    "strength": 0.85,
+    "domain": "psychology"
+  },
+  {
+    "id": "JMK-PSYCH-002",
+    "year": 2019,
+    "premise": "bureaucra|rule|procedure|formalis|rigid",
+    "conclusion": "Bureaucratic thinking shares structural features with OCD: the elevation of procedure over substance, the belief that following rules guarantees correctness, and the inability to exercise genuine judgment.",
+    "strength": 0.80,
+    "domain": "psychology"
+  },
+  {
+    "id": "JMK-PSYCH-003",
+    "year": 2018,
+    "premise": "anxiety|fear|defense|mechanism|unconscious",
+    "conclusion": "Anxiety often stems from unconscious conflicts that the conscious mind cannot directly access. Defense mechanisms operate to keep threatening material out of awareness, but at a psychological cost.",
+    "strength": 0.80,
+    "domain": "psychology"
+  },
+  {
+    "id": "JMK-QUANT-001",
+    "year": 2016,
+    "premise": "quantif|every|some|all|exist|universal|existential",
+    "conclusion": "Natural language quantification is more complex than classical first-order logic suggests. Expressions like 'most', 'many', and 'few' require generalized quantifier theory for adequate treatment.",
+    "strength": 0.85,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-QUANT-002",
+    "year": 2016,
+    "premise": "scope|ambiguity|reading|interpretation",
+    "conclusion": "Scope ambiguities in natural language reveal underlying logical structure. The sentence 'Every man loves some woman' has two readings depending on whether the universal or existential quantifier takes wide scope.",
+    "strength": 0.85,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-COUNTER-001",
+    "year": 2017,
+    "premise": "counterfactual|would|subjunctive|conditional",
+    "conclusion": "Counterfactual conditionals are not adequately analyzed by possible worlds semantics. The truth of 'If A had happened, B would have happened' depends on causal and explanatory relations, not mere similarity to actual world.",
+    "strength": 0.85,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-KNOW-001",
+    "year": 2017,
+    "premise": "know|knowledge|believe|true|justified|gettier",
+    "conclusion": "Knowledge is not simply justified true belief. Gettier cases show that one can have justified true belief without knowledge when the justification and truth are accidentally connected.",
+    "strength": 0.90,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-KNOW-002",
+    "year": 2017,
+    "premise": "skeptic|doubt|certain|infallible|error",
+    "conclusion": "Radical skepticism is self-defeating. The skeptic cannot coherently doubt everything, for the very act of doubting presupposes knowledge of what doubt is and what would count as grounds for doubt.",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-FREEWILL-001",
+    "year": 2018,
+    "premise": "free will|freedom|determinism|libet|decision|choice",
+    "conclusion": "Libet's experiments do not refute free will. The readiness potential precedes conscious awareness of decision, but this does not show that the decision is unfree—it shows only that some processing is unconscious.",
+    "strength": 0.80,
+    "domain": "philosophy of mind"
+  },
+  {
+    "id": "JMK-CHOMSKY-001",
+    "year": 2016,
+    "premise": "chomsky|grammar|syntax|innate|universal|linguistic",
+    "conclusion": "Chomsky's contribution to philosophy includes demonstrating that linguistic competence involves tacit knowledge of grammatical rules that cannot be learned from experience alone. This supports rationalism over empiricism.",
+    "strength": 0.85,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-HUME-001",
+    "year": 2017,
+    "premise": "hume|induction|causation|custom|habit",
+    "conclusion": "Hume's problem of induction is genuine but his solution is inadequate. Custom and habit explain why we form inductive expectations but do not justify them. A rationalist account of inductive inference is needed.",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-KANT-001",
+    "year": 2017,
+    "premise": "kant|synthetic a priori|transcendental|categorical",
+    "conclusion": "Kant was right that some knowledge is both synthetic and a priori. Mathematical truths are not mere tautologies (contra Hume) but genuine extensions of knowledge that do not depend on experience for justification.",
+    "strength": 0.85,
+    "domain": "epistemology"
+  },
+  {
+    "id": "JMK-INTENS-001",
+    "year": 2016,
+    "premise": "intension|extension|sense|reference|frege|meaning",
+    "conclusion": "The intension-extension distinction is fundamental to semantics. Two expressions can have the same extension but different intensions: 'creature with a heart' and 'creature with kidneys' are co-extensional but not synonymous.",
+    "strength": 0.90,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-INTENS-002",
+    "year": 2016,
+    "premise": "substitut|opaque|transparent|belief|propositional attitude",
+    "conclusion": "Propositional attitude contexts are intensional: substitution of co-referential terms can change truth value. From 'John believes that Hesperus is Hesperus' we cannot infer 'John believes that Hesperus is Phosphorus' even though Hesperus is Phosphorus.",
+    "strength": 0.90,
+    "domain": "philosophy of language"
+  },
+  {
+    "id": "JMK-ATTACH-001",
+    "year": 2019,
+    "premise": "attachment|bowlby|secure|anxious|avoidant|relationship",
+    "conclusion": "Attachment theory provides genuine explanatory insight into adult relationship patterns. Early attachment experiences create working models that persist into adulthood and shape expectations in intimate relationships.",
+    "strength": 0.80,
+    "domain": "psychology"
+  },
+  {
+    "id": "JMK-MIND-001",
+    "year": 2015,
+    "premise": "consciousness|conscious|aware|qualia|experience|phenomenal",
+    "conclusion": "Consciousness is a genuine phenomenon that cannot be reduced to or eliminated in favor of purely physical description. There is something it is like to be conscious, and this phenomenal character is explanatorily irreducible.",
+    "strength": 0.85,
+    "domain": "philosophy of mind"
+  },
+  {
+    "id": "JMK-MIND-002",
+    "year": 2015,
+    "premise": "intention|intentional|aboutness|direct|object",
+    "conclusion": "Intentionality is the mark of the mental. Mental states are characterized by being about something—they have objects or contents. This directedness toward objects distinguishes mental from merely physical states.",
+    "strength": 0.90,
+    "domain": "philosophy of mind"
+  },
+  {
+    "id": "JMK-ECON-001",
+    "year": 2018,
+    "premise": "university|higher education|degree|credential|college",
+    "conclusion": "Much of higher education has become credentialism rather than genuine education. The degree functions as a signal to employers rather than a certification of actual competence or knowledge gained.",
+    "strength": 0.75,
+    "domain": "social criticism"
+  }
+]

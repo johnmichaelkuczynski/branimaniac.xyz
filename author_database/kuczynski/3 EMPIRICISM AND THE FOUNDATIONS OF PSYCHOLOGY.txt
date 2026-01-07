@@ -1,0 +1,428 @@
+﻿Empiricism and the Foundations of Psychology 
+Q A 
+nonquantified and molecular, we have thus established that any given sentence S is equivalent to some sentence having the form <x has phi>. Given this fact, there is an obvious answer to the question "what is it for a sentence to be meaningful?" A sentence is meaningful if it attributes some property to some object. A sentence S is meaningful if, for some object x and some property phi, S says that x has phi. In other words, a sentence is meaningful if it says anything about anything. 
+7.4 The sentence-like expression 
+(i) The absolute is one 
+is presumably supposed to attribute some property to some important object. Since neither that property nor that object is identified, (i) contains undefined terms and therefore says nothing. Once those terms are defined, a meaningful statement results. (If "the absolute" is taken to denote the universe and a thing's being "one" is taken to mean that it's self-identical, then (i) is true and therefore meaningful.) 
+(i) is comparable to "x is tall." The reason "x is tall" says nothing is that "x" is undefined - it hasn't been assigned a referent. And no sooner is a referent assigned to "x" than "x is tall" becomes meaningful. 
+Before "x" is assigned a referent, "x is tall" is neither confirmable nor tautologous. But 
+< 
+93-94/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+that's only a symptom of the real problem: "x" doesn't have a referent. The same thing mutatis mutandis is true of (i) and, indeed, of each of the logical positivists' other paradigms of meaninglessness ("the nothing nothings," "the all is one," etc.). 
+7.5 Russell (1908), Tarski (1983), and other logicians have held that there are meaningless bona fide sentences. Their argument is that there are syntactically well- formed sentences (e.g. "this sentence is false") that are true if false and false if true and that, consequently, cannot be meaningful without violating the Law of Non- Contradiction (viz. the principle that p and not-p is always false). 
+Set theorists have taken it for granted that Russell et al. were right about this, and they've gone to extreme lengths to compatibilize set-theory with this alleged truth. But Russell et al. were quite wrong. The expressions they were thinking of are either false or they are sentence-schemata, not actual sentences. 
+A sentence-schema is an expression that is just like a sentence except that one of the lexical items in it has been removed and replaced with a variable. So "x is tall” is a 
+sentence-schema. 
+7.5.1 Let K be the class of all classes that are not members of themselves, i.e. that don't have the property of being self-members. In that case, 
+94/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+occurrences of "he" that have referents (cf. "John has a lot money, but he doesn't have a car"). Similarly, "the property of (not) being identical with itself" does not have a referent; its occurrences have referents. The occurrences of it in S1 and T, refer, respectively, to the property of being a spoon and the property of being non- spatiotemporal. (S2 is equivalent with "the class of spoons doesn't have the property of being a spoon," the same thing mutatis mutandis holding of T2.) 
+With these points in mind, let's take another look at K1. The property that a thing must have to be a member of the class of spoons is that of being a spoon. What is the property a thing must have to be a member of K? In other words, what does "itself" 
+refer to in K1? 
+"The answer is clear,” it will be said. “It refers to the property of not being a member of itself. Since K is the class of all classes that aren't members of themselves, to say that K belongs to itself is to say that K doesn't belong to itself." 
+But this answer is circular. We wanted to know what "the property of being a member of itself" referred to, and the answer we were given was: "the property of not being a member of itself," which leaves us with the same question mutatis mutandis as before. 
+We asked: "What property must a thing must have to belong to K? What does 'the property of being a member of K' refer to?" We were told: "the property of not being a member of itself." We then asked: "What does 'the property of not being a member of 
+95/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+occurrences of "he" that have referents (cf. "John has a lot money, but he doesn't have a car"). Similarly, "the property of (not) being identical with itself" does not have a referent; its occurrences have referents. The occurrences of it in S1 and T, refer, respectively, to the property of being a spoon and the property of being non- spatiotemporal. (S2 is equivalent with "the class of spoons doesn't have the property of being a spoon," the same thing mutatis mutandis holding of T2.) 
+With these points in mind, let's take another look at K1. The property that a thing must have to be a member of the class of spoons is that of being a spoon. What is the property a thing must have to be a member of K? In other words, what does "itself" 
+refer to in Kı? 
+"The answer is clear," it will be said. "It refers to the property of not being a member of itself. Since K is the class of all classes that aren't members of themselves, to say that K belongs to itself is to say that K doesn't belong to itself." 
+But this answer is circular. We wanted to know what "the property of being a member of itself" referred to, and the answer we were given was: "the property of not being a member of itself," which leaves us with the same question mutatis mutandis as before. 
+We asked: "What property must a thing must have to belong to K? What does 'the property of being a member of K' refer to?" We were told: "the property of not being a member of itself." We then asked: "What does 'the property of not being a member of 
+95/476 
+Empiricism and the Foundations of Psychology 
+QA 
+First of all, if the expression "the property of not being a member of itself" doesn't refer to anything, then we have made our case: we have shown that we don't have in Ki K a proposition-bearing sentence, let alone a true one, and that we therefore don't have in K a counterexample to the Axiom of Comprehension. That said, if that expression has a sense, then (arguably) we were wrong to say that K, expresses no proposition. But this brings us to the second point: the "the property of not being a member of itself" does not have a sense; it just appears to have a sense, however paradoxical this may sound. Let's suppose for argument's sake that it does have a sense. In that case, K1 is equivalent (though not necessarily synonymous) with: Kis: "There exists something that is uniquely a set of all sets that aren't members of themselves; moreover, that thing is a member of itself."97 
+ப 
+In K1, we said, the occurrence of "itself" doesn't refer to anything, a consequence being that K1 fails to encode a proposition. To the extent that those arguments were cogent, they also show that the occurrence in Kis fails to refer. The expression "the man whose best friend that woman is" does not have a sense unless the occurrence of "that woman" picks someone out. If that occurrence is empty, then that expression has no sense; for, under that circumstance, there is no condition that it expresses such 
+96/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+context, of “the man whose best friend that woman is.” For that reason, in such a context, there is no condition such that, if a thing satisfies that condition, it is the referent of that definite description. 
+In objection to this, one might say that there is such a condition, albeit one that varies depending on whether it is Jane or Sally or Ethel who is picked out by the occurrence of "that woman.” But that's the very point we're making: that occurrence is the occurrence of a free-variable, like the occurrence of "x" in "x is even"; and “the 
+man whose best friend that woman is” thus no more has a sense than "x is even" 
+expresses a proposition. 
+Given obvious extensions of this reasoning, the occurrence of "itself" in Kı lacks a sense, and so does the corresponding occurrence in Kis. So the hypothetical objector's point is doubly misguided: even if it's correct, "the property of being a set of all sets that aren't members of themselves" doesn't pick out a property, and our central thesis still stands. And that point isn't correct, so that, just as we said, K1 doesn't express a proposition, the same being true of K15, given that latter is equivalent with K1. 
+To sum up, "the property of being the set of sets that aren't members of themselves" picks nothing out, and that property, being non-existent, isn't a counter-example to the Axiom of Comprehension or, indeed, to any proposition. 
+Notice that the rules of English semantics are not at fault here. Those rules are unambiguous as to how anaphoric terms are to be interpreted. Those rules make it 
+97/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+propositional attitudes (e.g. "believes" "hopes"), it is not eliminable, at least not in any straightforward way. For example, 
+(L1) "Larry believes himself to be a great pianist," 
+isn't shorthand for: 
+(L2) "Larry believes Larry to be a great pianist."99 
+Larry might have amnesia and not know that he's Larry but still believe Larry to be a great pianist. The reason L1 and L2 aren't equivalent is that, in L1, "self" falls within the scope of an expression (“believes") that denotes a propositional attitude. But in K1 "self" doesn't occur within the scope of "believes" or indeed any intensional operator: it is functioning extensionally. So this qualification is irrelevant to our critique of 
+Russell. 
+Second, when a pronoun functions as a bound-variable, as opposed to a bona fide device of reference, it is not eliminable, at least not in any straightforward way. The 
+sentence: 
+($1) "If someone gives you $1,000,000 and asks for nothing in return, that person has a good heart." 
+98/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+eliminable (at least not in any relevant sense). But (so I am trying to show) when functioning anaphorically, it is eliminable (cf. J1 and J2). Henceforth, all references to the term "self" are to the anaphoric device. 
+Now the requisite qualifications of our contention (that "self" is always eliminable). 99. Perry (1977) makes this point. 
+($3) "for any persons x and y, if x gives y $1,000,000 and asks for nothing in return from y, then x has a good heart." 
+But this is irrelevant to our critique of Russell's point, since the occurrence of "itself" in K, clearly doesn't occur as a bound variable. K1 is a singular statement, not a quantified generalization, since it says of some (putative) object K that K isn't a member of K. 
+7.5.4 TT says that no meaningful sentence concerns every sentence. But TT is given by a sentence that violates that very stricture, and is thus self-defeating, since it's given by the sentence: "All meaningful sentences concern no sentences other than those that belong to orders (or types) lower than those to which they themselves belong.” 
+7.5.5 There are two classes of antinomies: those that are meaningless and, for that reason, neither true nor false and those that that are false. Russell's Paradox is an instance of the first class, and what we've said in connection with it is easily 
+< 
+98-99/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+be to the discredit of the English language that the rules constitutive of it permit the construction of such a sentence. But, those rules being what they are, it is indeed a bona fide sentence-token of English. 
+101. A defense of this claim: No series of noises is a sentence-type: an ink-deposit is, at most, a sentence-token. (In this context, "burst of noise" is short-hand for "anything (be it an ink-deposit, a pattern of light on a monitor, etc.) that might token an expression," the same qualification mutatis mutandis holding of related terms (e.g. "acoustic"). But, given some ink-deposit, which sentence-type it tokens is a function of what it means. A series of noises acoustically just like utterances of the English sentence "snow is white" could mean anything. Let L be a is true (false)" affirms that some proposition is true (false). Technicalities aside, "this sentence is true (false)" means "this proposition is true (false)." 
+Suppose that the occurrence of "this sentence" in a token of "this sentence is true" refers to the sentence "snow is white." In that case, what is being said is an abbreviation for: 
+(TP) "The proposition meant by this sentence is true." 
+The semantic rule for TP is: 
+< 
+99-100/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+(STF) If, in context C, there is some uniquely salient sentence S whose meaning is some proposition P, then, in C, a token t of TF is true exactly if P is true; and if, in C, there is no such sentence and therefore no such proposition, then, in C, a token t of TF is neither true nor false, as there is no proposition affirmed by such a token. The proposition, supposing there to be one, affirmed by a given sentence-token is a function of what its parts refer to. This is a consequence of the "principle of compositionality" 102 namely: 
+(CM) What is meant (referred to) by a given expression is determined by what its parts mean (refer to)" 103 
+Let O be the occurrence of "the proposition meant by this sentence" in a token t of TP. If O refers to nothing, t is neither true nor false. What t affirms depends on what 
+language such that, for some sentence S that belongs to L, S means chickens can fly" but such that utterances of S are acoustically indistinguishable from utterances of the English sentence "snow is white." Obviously utterances of S are not identical with utterances of “snow is white", and tokens of S are not identical with tokens of “snow is white," a corollary being that S and "snow is white" are different sentence-types. So sentence-types are not individuated by the physical properties of their tokens; and, what obviously follows, it isn't solely in virtue of a given object's physical (e.g. acoustical or morphological) properties that a given token is an instance of this as 
+100 / 476 
+Empiricism and the Foundations of Psychology 
+Q A 
+italicized terms refer to anything and I've therefore affirmed nothing. 
+An adaptation of this story will make its relevance clear. In an email exchange with Jerry, I say: "the proposition meant by this sentence is false." Jerry asks: “Which proposition is that?" I say: "The one meant by the underlined sentence." Jerry then asks: "Which proposition is meant by the underlined sentence?" I say: "the one meant by the italicized expression." If the answers I've given are the only viable ones, there is no viable answer to either question, in which case neither the underlined term nor the italicized terms refer to anything and I've therefore affirmed nothing. 
+7.5.7 Tokens of TP are neither true nor false. So such tokens are not both true and false. So, assuming the correctness of the Strawson-Kaplan view of indexicals, the semantic rules of English do not permit the construction of sentences that violate LNC. (Of course, in this context, "English" could just as well refer to any natural language.) For this reason, many a logician-philosopher has argued English (and any other given natural language, given that no other such language is relevantly different from English) was defective. Often, that logician's reasoning is as follows: 
+The semantic rules of English are propositions (to the effect that such and such symbols (or symbol-tokens) have thus and such meanings (or satisfaction- conditions)). There exist sentences, such as "K is a self-member" and "this sentence is 
+false,” such that (i) relative to those rules those sentences (or their tokens) qualify as 
+101/476 
+Empiricism and the Foundations of Psychology 
+must revise them.104 
+: Q A 
+We have seen the semantic rules of English not to be guilty of at least two of the violations of the laws of logic of which they have been alleged to be guilty. And there is reason to believe that the considerations on the basis of which we established this 
+cannot be so generalized as to acquit the semantic rules of English of many other, similar charges of non-compliance with the laws of (classical) logic. 
+104. See Russell (1908) and Tarski (1983). 
+102/476 
+Empiricism and the Foundations of Psychology 
+must revise them.104 
+: Q A 
+We have seen the semantic rules of English not to be guilty of at least two of the violations of the laws of logic of which they have been alleged to be guilty. And there is reason to believe that the considerations on the basis of which we established this 
+cannot be so generalized as to acquit the semantic rules of English of many other, similar charges of non-compliance with the laws of (classical) logic. 
+104. See Russell (1908) and Tarski (1983). 
+102/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+midlevel Mafia capo?) Who is he speaking to? (An underlying? Or a superior?) How was it said? (Gravely? Jokingly?) What T conveys is the vector sum of its literal meaning and the facts identified by the answers to these questions. 
+Similar points hold with respect to any given sentence. Given what is literally meant by "I'm in the room right next door to yours," you'll react one way to my tokening that sentence if you that know that I'm an axe-murderer, and another way if I'm a long lost lover. But what can be inferred from a given token of it obviously depends on the circumstances, and not just on its literal meaning. 
+On the basis of the fact that any given sentence can be used to convey anything, given the right circumstances, Wittgenstein infers that expressions don't have fixed meanings. That is comparable to a person's some rock to have gotten lighter because X successfully lifted it right after Y tried but failed to do so. Just as the right conclusion to draw is that that X is stronger than Y, not that the rock has gotten lighter, so the right conclusion to draw about "I'm in the room right next door to yours" is that it has a fixed, circumstance-invariant meaning, but that the meaning of that meaning is circumstance-dependent. 
+Meaning cannot be use. One reason is there are meaningful expressions that are never used literally and infinitely many that aren't used at all. Another reason is that, once you know what a given expression means, you won't acquire new knowledge about that meaning by acquiring additional knowledge as to how that word is used. 
+< 
+104-105/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+produce them intentionally. If, by some freak accident, a coffee machine were to produce noises homophonic with a token of "I'm badly hurt; please send an ambulance"; it wouldn't be saying anything. If somebody who does know what those words mean but utters them involuntarily, he is not saying anything. 
+In order for anyone to say anything, words must have meanings, and there must therefore be true propositions saying what those meanings are. Such propositions are nothing other than semantic rules. So in order for anything to mean anything, there must be semantic rules; and in order for a given person to say anything, he must know the relevant rules. 
+Noise-production that isn't governed by knowledge of such rules is not linguistic, and duly rule-governed usage of an expression is ipso facto governed by, and therefore doesn't constitute, its meaning. 
+2.0 In the upcoming discussion, the word "concept" is being used in the same way it is used in the sentence "anything that falls under the concept triangle falls under the concept closed figure." It is being used to refer, not to psychological entities, but to the meanings of predicates, e.g. the meaning "x is a closed figure." 
+Wittgenstein says that to understand the concept of number is to know how "number" (or some equivalent term) is used. But if I am to know that "number" is the word whose usage I am to study, I must be able to grasp the concept of number 
+< 
+105-106/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+out that integers can be identified with second-order properties and that real numbers can be identified with sets of rationals. But in thus deepening my understanding of NM, I was no more adding to my semantic knowledge than physical chemist is adding to his semantic knowledge by learning the chemical composition of a Zip-lock bag. Semantic analysis (what the linguist does) mustn't be confused with conceptual analysis (what the philosopher does) or with objectual analysis (what the chemist does). 
+2.1 
+If Wittgenstein were right about meaning, what would it be for two noises to betoken some one word? It is no answer to say: "the speaker's intention to token a certain word, along with the acoustical properties that result from his executing that intention, determine which word has been tokened." Unless there is already an answer to the question "when are two different sounds tokens of the same word?" the speaker can't have a non-defective intention to token a given word. 
+Part of what makes a given token of the word "dog" be a token of that word, as opposed to some other word or no word at all, is what it sounds like. But if words were individuated strictly by the acoustical properties of their tokens, language couldn't 
+106/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+(ii) entails that each of x and y sounds enough like n that their being tokens of the same word is not ruled out. And (iii) entails that each of x and y is an instance of bona fide speech - not of a coffee-machine's or parrot's producing homophones of speech. 
+While supporting our critique of Wittgenstein's view, our analysis is independently verifiable, and we may consider his view to have been refuted. 
+3.0 Wittgenstein put forth several arguments to the effect that meanings don't exist and that, consequently, linguistic behavior isn't to be understood in terms of them. Scholars have consolidated these various arguments into two arguments, commonly known as: "the private language" and "the rule following" arguments. But we can't make an informed judgment as to whether scholars were right to consolidate those arguments, or to consolidate them in the way they did, before we state each one individually and evaluate it.108 So, instead of using the terms "Private Language Argument" and "Rule Following Argument," I'll refer to the arguments in question as "Argument #1" "Argument #2," and so on. 
+108. We'll see that scholars were right to consolidate those arguments in the way that they did. 
+Argument #1 (A1) 
+< 
+107-108/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+To understand an expression is to know what it means. Some take this to entail that, given any meaningful expression E, there is some object M that is E's meaning. But this is not the right view. 
+Let s be an arbitrary token of "the cat is on the mat," and let m be s's meaning, supposing for argument's sake that it has one. According to the conventional view, to understand s is to know that m is its meaning: In general, to understand an expression is to couple that expression with the right meaning. The expression is one thing, the meaning another; and one needn't grasp the one to grasp the other. 
+But you won't find the meaning of "the cat is on the mat” by rummaging through your closet or going on a Safari. Your bowling ball isn't the meaning of s. Neither is the bird on the windowsill. Nor is anything else in the universe. 
+Supposing that m exists and that I am beholding it, how does my doing that help me understand m? It doesn't. m is just another object; and when attempting to understand s, it's no more useful to examine m than it is to examine my favorite shirt. 
+"But m is s's meaning,” it will be said. "So if properly examined and understood, it will avail you of s's meaning.” But in that case, m is just another sign that has to be interpreted. If the just-described view is right, meanings are just more signs; and, like signs, they need to be deciphered. If we look for the meanings of these signs, we're obviously on a fool's errand. 
+Therefore, Platonic objects, if they exist, are useless. Trying to account for the 
+108/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+To understand an expression is to know what it means. Some take this to entail that, given any meaningful expression E, there is some object M that is E's meaning. But this is not the right view. 
+Let s be an arbitrary token of "the cat is on the mat," and let m be s's meaning, supposing for argument's sake that it has one. According to the conventional view, to understand s is to know that m is its meaning: In general, to understand an expression is to couple that expression with the right meaning. The expression is one thing, the meaning another; and one needn't grasp the one to grasp the other. 
+But you won't find the meaning of "the cat is on the mat” by rummaging through your closet or going on a Safari. Your bowling ball isn't the meaning of s. Neither is the bird on the windowsill. Nor is anything else in the universe. 
+Supposing that m exists and that I am beholding it, how does my doing that help me understand m? It doesn't. m is just another object; and when attempting to understand s, it's no more useful to examine m than it is to examine my favorite shirt. 
+"But m is s's meaning,” it will be said. "So if properly examined and understood, it will avail you of s's meaning.” But in that case, m is just another sign that has to be interpreted. If the just-described view is right, meanings are just more signs; and, like signs, they need to be deciphered. If we look for the meanings of these signs, we're obviously on a fool's errand. 
+Therefore, Platonic objects, if they exist, are useless. Trying to account for the 
+108/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+to interpret a dream or a statue. Similarly, knowing how to interpret F(x), for x = n, for arbitrary n, involves knowing rules of some kind. 
+But F(x) is itself a rule. And yet when the time came to apply that rule, we found that we had to use other rules. But what was true of F(x) must hold of these new, secondary rules. There's nothing distinctive about F(x); it's a rule just like any other. We found that rule to be useless unless interpreted, and we found that knowledge of rules other than it was necessary to interpret it. 
+So it is only to the extent that we grasp, and know how to apply, rules other than F(x) that we can evaluate F(x) for any specification of the variable. But for reasons analogous to those just given, these secondary rules don't tell us how they are to be applied; and the same will be true of the tertiary rules on the basis of which we are interpret the secondary rules; and so on ad infinitum. 
+This shows that rules, if considered as platonic objects, are useless. Nothing is explained about Timmy's behavior by supposing that he grasps F(x); for, as we just saw, merely grasping that rule is innocuous: unless Timmy grasps rules other than F(x), he won't be able to mobilize his grasp of F(x). But F(x) was arbitrarily chosen; it is not, in the relevant respect, distinctive among rules: all rules are such that, to know how to apply them, one must know rules other than them. 
+This is not to deny the arithmetical fact that F(13) = 169. Nor is it to deny the anthropological fact that many a person knows that F(13) = 169. It is to deny that 
+110/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+to interpret a dream or a statue. Similarly, knowing how to interpret F(x), for x = n, for arbitrary n, involves knowing rules of some kind. 
+But F(x) is itself a rule. And yet when the time came to apply that rule, we found that we had to use other rules. But what was true of F(x) must hold of these new, secondary rules. There's nothing distinctive about F(x); it's a rule just like any other. We found that rule to be useless unless interpreted, and we found that knowledge of rules other than it was necessary to interpret it. 
+So it is only to the extent that we grasp, and know how to apply, rules other than F(x) that we can evaluate F(x) for any specification of the variable. But for reasons analogous to those just given, these secondary rules don't tell us how they are to be applied; and the same will be true of the tertiary rules on the basis of which we are interpret the secondary rules; and so on ad infinitum. 
+This shows that rules, if considered as platonic objects, are useless. Nothing is explained about Timmy's behavior by supposing that he grasps F(x); for, as we just saw, merely grasping that rule is innocuous: unless Timmy grasps rules other than F(x), he won't be able to mobilize his grasp of F(x). But F(x) was arbitrarily chosen; it is not, in the relevant respect, distinctive among rules: all rules are such that, to know how to apply them, one must know rules other than them. 
+This is not to deny the arithmetical fact that F(13) = 169. Nor is it to deny the anthropological fact that many a person knows that F(13) = 169. It is to deny that 
+110/476 
+Empiricism and the Foundations of Psychology 
+QA 
+only that we've attributed a grasp of F(x) = x2 to some person, we've explained nothing about him; nothing about his knowledge that F(13) = 169; and nothing about anything else relating either to what he knows or how he acts. And when trying to say what it is for a given person to know that F(13) = 169, it does us no good to credit that person with a grasp of other Platonic entities. Everything we just said about F(x) = x2 will hold of these other entities. So in positing them, we're trying to pay with checks drawn from an already over-drawn account. 
+Rule-following, it must be concluded, is not a strictly psychological phenomenon. This must be understood aright. There is a difference between, on the one hand, somebody whose mathematical insight led him to believe F(13) = 169 and, on the other hand, somebody who believes it for some spurious reason: but the difference is not psychological. 
+Let A and B be individuals of the first and second types, respectively. (So A understands why F(13) = 169, whereas B does not.) And let m be any mental entity in A's mind (any process, any structure) the likes of which is not in B's mind. The fact that m is in A's mind is not the relevant difference between A and B. To be sure, there is a relevant difference between A and B. (If there weren't, either both of them would understand why F assigns 169 or neither of them would.) But that difference is not of a strictly psychological nature. 
+The conventional wisdom is that thinking is a psychological process. The 
+< 
+111-112/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+grasp SR is for me to know what to do when approaching a red light. Knowledge of how to apply SR is built into knowledge of SR. Knowledge of secondary principles is no part of the story. 
+Matters seem to be different with other principles. "Surely I grasp the function F(x) = x2," it will be said. “But, just as surely, I have to figure out how to apply that function to 1,198,976. A knowledge of that number's square isn't built into my grasp of that function. You're therefore simply wrong to say that, if one grasps a given principle, one ipso facto knows how to apply it." 
+The reason this argument fails is to be understood in terms of Chomsky's (1965) distinction between competence and performance. Competence is ability. Performance is the ability to deploy ability. Given any sentence that is very long, say 10,000 words long, but otherwise normal, I won't be able to understand it. But it isn't that the part of my mind that mediates language-comprehension isn't up to the job. That part of my mind is up to the job. It's the other parts that are to blame: my memory isn't good enough; I can't stay focused, or even awake, long enough. If I didn't have any issues relating to memory, fatigue, boredom, etc., I'd have no difficulty processing the sentence. If my linguistic competence is to operate at full force, other abilities of mine must be intact: I must be able to hear (or see) the sentence-token in question; I must not be drowsy; the sentence must not be so long that too much is demanded of my patience, powers of concentration, and sheer 
+< 
+112-113/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+E: "The cousin of the nephew of the sister of the nemesis of the father of the sole cousin of the favorite relative of Socrates' best friend's best friend's worst enemy, who happens to be identical with Socrates' best friend's best friend." 
+E is the same sort of expression as "the father of Socrates." But whereas you immediately understand "the father of Socrates," you don't immediately understand (*). You have to compute the latter's meaning; you must figure it out. But this doesn't have to do you with your degree of linguistic competence. It has to do with your linguistic performance, that is, with your ability to deploy your linguistic competence. Given the distinction between competence and performance, there is no gulf between knowing a given principle and knowing how to apply it under a given set of 
+circumstances. 
+Let us now return to the objector's (correct) point that a given person x can grasp F(x) = x2 without being able to immediately identify the square of 1,198,976. This case is perfectly comparable to the case of a fluent speaker y of English having difficulty understanding a 200-word of his language. In each case there is a function that somebody grasps (in x's case, a function from numbers to numbers; in y's case, a 
+function 
+113/476 
+Empiricism and the Foundations of Psychology 
+QA 
+respect to arguments found in Wittgenstein's Remarks on the Foundations of Mathematics and in his Philosophical Grammar. 
+(2) It's never been clearly stated how exactly Kripke erred. It's simply been asseverated, by professional Wittgensteinians, that he did err. And whereas Kripke's argument is quite clear and (as we will see) capable of being adjudicated, these Wittgensteinians did not replace Kripke's argument with one that was comparably clear; and, as a matter of historical fact, every attempt to rebut Wittgenstein's arguments, as the just-mentioned Wittgensteinians interpreted it, has met with the reply: "you don't understand the argument," a consequence being that substantive issues were delayed (probably permanently) pending the resolution of (unresolvable, from the looks of it) exegetical issues. 
+(3) Kripke's argument is of interest in its own right, it being a matter of historical, not philosophical concern, whether Wittgenstein himself advocated it. 
+(4) Wittgenstein did advocate it. Its similarity to the arguments of his that we've already evaluated, and that we have yet to evaluate it, makes this clear, as do the relevant passages in the Philosophical Investigations. Wittgensteinians are aware that, judging by the text of the Philosophical Investigations, Kripke appears to be right. Their response is to say that Wittgenstein was being "ironic" and was "saying the opposite of what he meant." The passages during which he was supposedly ironically saying the opposite of what he meant are hundreds of pages long and don't 
+114/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+either F(x) or G(x) to six. In general, given any kind of psychological condition, being in that condition is neither necessary nor sufficient for one's applying any given rule in any given way. 
+By obvious extensions of this argument, given only a person's psychological condition, it is completely indeterminate what that person is thinking. Have the thought: 2 + 2 = 4. Let b1....bm be the various mental accompaniments of that thought. Everything we said about a (1 ≤ i ≤ n) holds of b (1 ≤ i ≤ m). Thus, thinking is not a psychological process. 
+Analysis: Wittgenstein asks: "How do I know that it's F(x) that I'm applying to 6, and not G(x)?" First of all, contrary to what Wittgenstein says, working with the one function is not psychologically the same as working with the other. If I'm working with large numbers, I'll tread very wearily if, for some reason, I'm working with G(x), whereas I'll act with relative abandon if I'm working with F(x). 
+F(x) and G(x) would not necessarily become more interchangeable, in all the relevant respects, by choosing some number higher than 9999 to mark the point of divergence between the two functions. For sometimes what matters is not at what point the function becomes bent, but whether it is bent. The fact that there is kink somewhere in the extension of G(x) may make it unsuitable to describe how two otherwise similar universes are different if one them but not the other, is governed by some law L. And we may need to have such information if we are to figure out 
+115/476 
+Empiricism and the Foundations of Psychology 
+QA 
+of a given instance of someone's complying with a given rule are necessary or sufficient for that act of compliance. 
+When Wittgenstein refers to the "accompaniments" of some act of rule-following or thought, he is referring to the accompanying phenomenology. He is referring to pains, itches, and mental images. He is referring to constituents of consciousness. But propositional attitudes are not constituents of consciousness. 
+Less obviously, the deployment of a propositional attitude (as when one puts one various mathematical beliefs to use in an effort to solve some problem) is not constitutive of consciousness. The events that initiate a given such process, or bring it to a close, are often thus constitutive; and some process-internal events are consciousness-constitutive. But for the most part consciousness is to thinking what a driver is to the events happening under his car's hood: the driver can initiate those events (by turning the key in the ignition); he can regulate them (by stepping on the gas or the break-pedal); he can pick the destinations to which those processes will transport him (by turning the wheel); and he can end them (by shutting off the ignition). The driver can regulate what happens under the hood. But unless he's an engineer, he has little knowledge of what is going on there and only very indirect 
+control over it. 
+When I work, I decide what to try to solve; I decide whether a solution that occurs to me is any good; and I decide, either because I'm tired or because I've found what I 
+< 
+116-117/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+believe to be an acceptable solution, to terminate those ratiocinations. But those decision points are singularities. For the most part, I am just waiting; like a man stranded on a desert island, waiting for message in a bottle; like an undercover agent's handler, waiting for him to surface with new findings. 
+Also, contrary to what Wittgenstein says, mental imagery sometimes is thoughtconstitutive. To be sure, there is no one kind of mental imagery that need accompany an attempt to solve a given math problem. Given only that you are adding 35 to 56, nothing can be inferred as to what sorts of images are passing through your consciousness. Wittgenstein infers from this that mental imagery is not to any degree constitutive of one's ratiocinations. But this inference is spurious. Thought- constitutive mental images are but segments of ratiocinations that for the most part do not consist of imagery. Phenomenologically consecutive images are likely to be ratiocinatively disjoint. If one considers those images in isolation of their ratiocinative underpinnings, the occurrence of any given one is likely to make no sense relative to the occurrence of the preceding image. But if one considers them as installments in a thought-process, most of whose installments are not images, the occurrences of the one, given the other, makes perfect sense. Wittgenstein tried to understand mental imagery on its own terms, in isolation of its ratiocinative context. He thus had no choice but to see such images as cognitively empty. Since he didn't distinguish between access-consciousness and phenomenal consciousness, believing 
+117/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+believe to be an acceptable solution, to terminate those ratiocinations. But those decision points are singularities. For the most part, I am just waiting; like a man stranded on a desert island, waiting for message in a bottle; like an undercover agent's handler, waiting for him to surface with new findings. 
+Also, contrary to what Wittgenstein says, mental imagery sometimes is thoughtconstitutive. To be sure, there is no one kind of mental imagery that need accompany an attempt to solve a given math problem. Given only that you are adding 35 to 56, nothing can be inferred as to what sorts of images are passing through your consciousness. Wittgenstein infers from this that mental imagery is not to any degree constitutive of one's ratiocinations. But this inference is spurious. Thought- constitutive mental images are but segments of ratiocinations that for the most part do not consist of imagery. Phenomenologically consecutive images are likely to be ratiocinatively disjoint. If one considers those images in isolation of their ratiocinative underpinnings, the occurrence of any given one is likely to make no sense relative to the occurrence of the preceding image. But if one considers them as installments in a thought-process, most of whose installments are not images, the occurrences of the one, given the other, makes perfect sense. Wittgenstein tried to understand mental imagery on its own terms, in isolation of its ratiocinative context. He thus had no choice but to see such images as cognitively empty. Since he didn't distinguish between access-consciousness and phenomenal consciousness, believing 
+117/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+language, therefore, is an impossibility. Language is inherently public. Analysis: Suppose that, while writing your to-do list for the next day, you think that, relative to the rules you laid down, "riffles” means edible berry and that “stuffles" means poisonous berry. In that case, your mistake will have very real consequences. It isn't always other people who penalize those who misuse words. 
+Second, Wittgenstein is confusing language-misuse with language-shift. If everybody suddenly using "red" to mean blue and blue to mean “red,” a language-shift would have occurred. The pre-shift and post-shift languages would be genidentical, but not actually identical. 
+So the private linguist who uses "stuffles" to mean "poisonous berry”, in violation of the semantic rules he originally laid down, is responsible for a language-shift. Let's suppose that he invents PL on Monday and, on Tuesday, uses "stuffles" to mean "poisonous berry". In that case, relative to Monday-PL, he is speaking wrongly; relative to Tuesday-PL, he is speaking correctly. He may in due course be the worse for misspeaking relative to Monday-PL. But because nobody besides this person speaks PL or any of to at whose PL i+, where end its successors, every i is an arbitrary mistake that makes relative to PL is a non-mistake such a shift does unit of time 
+during which no language shift occurs and occurs. 
+"But how does this undermine Wittgenstein's argument?” it may be asked. “If every mistake is ipso facto a language-shift, then the language being shifted is useless, for 
+< 
+118-119/476 
+Empiricism and the Foundations of Psychology 
+QA 
+the very reason Wittgenstein cites: Any word of that language (or language-series) means whatever its one speaker takes it to mean." 
+This brings us to the next problem with Wittgenstein's hypothesis. Any given language is only as useful to its speakers as their memories of its semantic rules are good. In the case of English, but not of PL, if one person misuses a given word, there will be others to remind him. But, at the end of the day, the English speaker has nothing but his memories to rely on. If, because of a memory problem, a person can't remember what “diffident” means, no matter how often others remind him, it is of no consequence that others are there to remind him. By the same token, if I do know what “diffident” means, it's only because I remember what it means. 
+Similarly, if the lone speaker of PL remembers the semantic rules he laid down, he will be able to use PL-expressions properly; and if he forgets them, his inability to use them is no different in kind from the inability on the part of an English speaker with a defective memory to use English words. The difference between PL and English is that in the one case, but not the other, there are multiple back-up copies, as it were, of the relevant semantic rules. But English is not for this reason more of a language than PL. A manuscript of which there are many copies is not more of a manuscript than one of which there is only one. 
+Wittgenstein is a hard-core empiricist. Wittgenstein's subsequent refusal to grant the existence of non-spatiotemporal entities, such as propositions and concepts, 
+119/476 
+Empiricism and the Foundations of Psychology 
+:: Q A 
+behaviors. This is empiricism, of the non-Berkeleyan sort, taken to its logical 
+conclusion. 
+Wittgenstein qualifies his position by saying that the creatures in question must be duly acculturated, lest their behaviors fail to mediate thought or anything mental. But this qualification neither softens his position nor adds to its credibility. Creatures in whom there are no occult processes are zombies, and zombies cannot be acculturated. Further, there is no plausibility to the view, urged by Brandom (1994), that groups of appropriately interrelated zombies collectively think. Given that 
+(a) Every member of group X is a zombie 
+it must be inferred that 
+(b) Group X itself is without consciousness 
+Technically, such an inference is an instance of the "fallacy of composition." (What if the members of group X are neurons, as opposed to people? In that case, X does mediate thought, even though none of its constituents do.) But, substantively, such an inference is in no way fallacious and is indeed obviously de rigueur. 
+4.0 Empiricists cannot grant the existence of propositions. For this reason, some empiricists deny that there are propositional attitudes; they deny that anyone believes anything or regrets anything. Skinner took this position, and so do some 
+120/476 
+Empiricism and the Foundations of Psychology 
+PTO is a belief either that STO or some translation thereof is true. 
+Q A 
+This presupposes that one must speak some language or other to believe that snow is white. Even if this is correct, it is sufficiently doubtful that it cannot legitimately be assumed to be correct. Further, if, as Quine and Carnap maintain, propositions don't exist, what does it mean to say that some Arabic sentence X is the translation of STO? Quine and Carnap are prohibited from saying that both sentences express the same proposition. 
+"The right view," Quine and Carnap tell us, "is that those two sentences are used in the same way.” But it may be that the only respect in which X and STO are used in the same way is that they are used to affirm the same proposition. With this qualification, Arabic speakers obviously don't use X in the same way as English speakers, for the same reason that English speakers don't use the sentence "Abdul often walks to Riyadh" in the same that Arabic speakers use the Arabic translation of that sentence. 
+Having advocated the view just critiqued, and then recanted it for the reason just given, Quine took the desperate measure of saying that no sentence is a translation of any sentence. He justified this position post hoc by saying that, when translating from one language to another, one must take into account only the overt behavior of the two groups of speakers being studied. One cannot, Quine insists, rely on any beliefs that have any basis in one's knowledge of one's self. Therefore, Quine says, one cannot to any agree rely on one's beliefs about humanity, so far as those are based in one's 
+121/476 
+Empiricism and the Foundations of Psychology 
+QA 
+when they spoke, and those intuitions obviously drew heavily from knowledge on my part as to when I would say such things. What is equally obvious is that if I hadn't been allowed to draw on my self-knowledge, and if I had regarded the Spanish- speakers before me as so many thought-free bodies, I wouldn't have learned a word of Spanish. 
+The traditional view, which I accept, is given by the so-called "Argument from Analogy". I know that when I'm in pain, I scream and clutch the wounded part of my body. I see Smith behave in that way. So I believe he's in pain. In general, where I am concerned, I know both the internal (mental) and the external (behavioral) story; where others are concerned, I only know the external story. The external story is the same. Because I am like others, the internal story must also be the same. Wittgenstein (1958) rejects this argument. In his view, given only that I know how my mental states are correlated with my behavior, I cannot reasonably make any inferences as to how another person's mental states correlate with his bodily behaviors. I cannot reasonably infer that he even has mental states. For if I make such an inference, Wittgenstein says, I am over-generalizing, just like someone who believes that all birds are black because the one bird he's ever seen was black. 
+Wittgenstein's reasoning is spurious. We saw why in Chapter 1, Section 8.2. We know on the basis of experience that we sometimes only need experience of one instance of a given kind to make reliable generalizations about every instance of that 
+122/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+defend a philosophical view is ipso facto misconceived. Philosophers should exhort, 
+not argue. 
+The Philosophical Investigations consists of two parts. In the first part, Wittgenstein puts forth arguments, all of which we've examined. In the second part, there are no arguments. There are only bare assertions, one of which is that good philosophical works contain nothing but bare assertions. 
+Wittgenstein's contention that philosophical argumentation is ipso facto misconceived doesn't make an appearance until after Wittgenstein had put forth the arguments that we've considered. We may safely conclude that this contention of his was a post hoc attempt to legitimate arguments of his that he knew to be wanting. 
+Operating independently of each other, Wittgenstein and Quine, both staunch empiricists, came to the same, radically counterintuitive conclusion, to wit: (QW113) When trying to figure out what another person means, one must focus only on his body movements. No weight at all is to be given to any intuitions one has that have any basis in one's beliefs about oneself, or in one's beliefs about one's similarities to others. All introspection-based data concerning the mind is unconditionally, permanently off-limits. 
+This is not the view of somebody who goes where the data takes him. But it is a consequence of strict fidelity to at least one kind of empiricism. 
+< 
+123/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+113. Short for "Quine, Wittgenstein." See Quine (1960). 
+< 
+123/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+constitutive thereof. So my knowledge of the fact that 10 + 11 = 21 is "conscious" in the sense that, even though it is not a constituent of my consciousness, 
+(a) It is a constituent of my mind 
+and 
+114. I have argued that there is no such thing as perfectly direct knowledge. In fact, in this very book, we've already found reason to believe that some forms of prima facie direct knowledge (e.g. one's knowledge that one is currently imaging a house) are indirect, in that that they embody post-experiential conceptual operations. But little stock is to be put in this: given that raw experience isn't knowledge, all knowledge embodies such operations. But, as I've argued elsewhere (Kuczynski 2009, Chapter 9), there is reason to believe that knowledge acquired directly from the senses (e.g. my knowledge that I'm now typing) is inferential. That said, such knowledge is clearly direct in a relative sense. 
+(b) I can readily become conscious of it. 
+And the same is true of my concept (my grasp) of the number 10, of addition, 
+etc. 
+< 
+125-126/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+moving; etc. There are what Joshua Parsons aptly calls "deep analytic truths.' 
+Also, be it noted that definitions are not analytic. As ordinarily used, the statement "a yard is a distinct of three feet" is but a slovenly way of saying: "the word 'yard' refers to a distance of three feet," which describes an empirical fact about linguistic 
+usage. 
+One final point: Some hold that whether a given analytic truth is primitive is a function of what one's axiomatic starting points are. According to this line of thought, the truth that orange isn't red may or may not be primitive. (If one thinks of orange as the “sum,” with respect to some kind mixing-operation, of red and yellow, then, presumably, then the truth that orange isn't red will not be primitive. If one has a more direct grasp of what it is to be orange, that same truth will (or may) be primitive.) If this is right, primitiveness isn't a property a given truth P, but a relation between P and some other truth(s) Q. 
+My feeling is that, although there are some analytic truths that, for the reason just given, may or may not be primitive, there are some that simply cannot be primitive and others that simply cannot fail to be primitive. If it is only by virtue of grasping the proposition that orange = yellow + red that one grasps the proposition that orange isn't red, then one does not genuinely grasp the latter: one grasps some other, related proposition. So the truth that orange isn't red is absolutely primitive. A similar line of thought shows that certain analytic truths are absolutely non-primitive. 
+< 
+126/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+(KA) When I think 7 + 5, I don't necessarily think 12. The same thing mutatis mutandis is true for any ordered triple of numbers <x, y, z> such that x + y = z (setting aside cases, such as 1 + 2 = 3, where x and y are very small and cases, such as 1,000,000 + 1 = 1,000,001, where x and y are very close together). Therefore, it isn't a conceptual truth that 7 + 5 = 12. In others word, it is not one that one knows to be true by analyzing the concepts constitutive of it. So it isn't analytic. 
+At the same time, 7+ 5 = 12 is not an empirical truth; for it is not on the basis of sense-perception that one knows it. It is on the basis of pure 
+116. To clarify the parenthetical qualification: In this context, the word "concept" is being used, not to refer to psychological structures, but to refer to abstracta of a certain kind, whose nature we clarified in Chapter 3, Section 8.2.1. So in this context it has the same meaning as the occurrence of the word "idea" in the sentence: "The very idea of an integer smaller than 1 eluded the Romans." This is how the word "concept" will be used throughout the present work. It will be shown that concepts, in this sense of the word, are neither psychological nor spatiotemporal. 
+117. Locke was, to my knowledge, the first to point out the existence of this sort of knowledge, and some of these examples are his. 
+118. Short for "Kant's argument." 119. Short for "Hume's argument.” 
+< 
+127/476 
+Empiricism and the Foundations of Psychology 
+knowledge. 
+Q A 
+Kant seems to be dimly aware of the ludicrousness of saying that 11 + 23 = 34 is a fact about our minds. So, instead of using the term "psychological," he uses the term "transcendental," thereby obfuscating his actual view and giving Kant-scholars a way of rebutting the obviously correct point that Kant was erroneously making mathematics a branch of psychology. 
+Kant's (1787) second argument: 
+(KA*) Geometrical propositions are not empirical. It isn't through sense-perception that one knows that: 
+(a) If A is the area of a circle having a perimeter of length n, and A* is the area of any closed, non-circular figure with a perimeter of that same length, then A is larger than 
+A*. 
+If I discover that what I took to be a circular patch of earth enclosed a smaller area than some perimeter-equal non-circular patch, I'll know that I was wrong about the shapes of at least one of those patches. Since no observation can give one a reason to reject it, (a) is non-empirical. 
+But (a) is also non-analytic. For I can obviously think: 
+(b) A is the area of a circle having a perimeter of length n, and A* is the area of any 
+< 
+128/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+mental images. In this context, mental images are likely to be vehicles for the thoughts on the basis of which one learns (a). In fact, mental imagery is a vehicle for thought of just about any kind, and it's obviously particularly likely to be involved in geometrical thought. But it isn't by introspecting that one knows (a) or any other truth. It isn't by studying one's circle-images and oval-images. Were (a) to be known in that way, it would be an empirical truth: one to be known through observation not through the use of the senses, but through observation no less. But that isn't how geometrical truths are known. So Kant is confusing knowledge of type (iii) with knowledge of types (v) and (vi). 
+But mental images can be objects of investigation. Their ratiocinative function isn't always to mediate conceptual analysis. If asked "can you imagine a 9-sided figure?", I will respond by having various mental images and scrutinizing them to see if any of them are images of 9-sided figures. But my subsequent knowledge that I can't imagine a 9-sided figure is empirical and a posteriori. 
+Hume's (1739) argument: 
+(HA) When I introspect, I come across various sensations, perceptions, and images. But I don't come across a self. Indeed, I don't come across any structure underlying the sensations, etc. that populate my consciousness. I must conclude that there is 
+< 
+129/476 
+Empiricism and the Foundations of Psychology 
+: Q A 
+nothing more to my mind, or my self, than the various fleeting occurrences hosted by 
+my consciousness. 
+Here are Hume's exact words: 
+"For my part, when I enter most intimately into what I call myself, I always stumble on some particular perception or other, of heat or cold, light or shade, 
+120. We're assuming, as Kant does, that "circle" means "Euclidean circle." love or hatred, pain or pleasure. I can never catch myself at any time without a perception, and never can observe anything but the perception."121 
+Analysis: Hume is conflating type-(iii) knowledge with type-(iv) knowledge. Supposing that Hume did have a self, he obviously couldn't know it through sense- perception. He obviously knows this. Being an empiricist, Hume concludes that he must know it through some inwardly-direct analogue of sense-perception. 
+But that doesn't follow. Hume believes that 1 + 1 = 2, and he knows that he believes it. But it isn't by rummaging through mental imagery that he knows it. It isn't through any sort of self-observation that he knows it. 
+In any case, type-(iv) knowledge isn't a form of type-(iii) knowledge. HA assumes otherwise and therefore fails. 122 
+< 
+129-130/476 
+Empiricism and the Foundations of Psychology 
+propositional attitudes. 
+121. Hume (1740:252). 
+Q A 
+122. Incidentally, how do I know that I believe that 1 + 1 = 2? This knowledge is neither empirical nor, it very much seems, observation-based. But empirical knowledge is observation-based knowledge. We will solve this paradox in Chapter 14, where we will see that it is on the basis of observation that one knows oneself to 
+believe that 1 + 1 = 2: if one has such knowledge, we will find, it is only by virtue of one's having correctly modelled multifarious observational data concerning one's own linguistic behavior and mentation. 
+This entails that introspection is not sensory or para-sensory in nature; it entails that what Hume is tendentiously describing as inwardly directed vision is actually conceptual, not (para)perceptual, in nature. 
+One's knowledge of one's conscious condition is obviously empirical. It is on experiential, not conceptual, grounds that I know that I feel well-rested. But such knowledge is empirical in that it is a conceptualization of experience, like a scientific theory, not in that it is a direct derivative of experience. 
+Having a mental image of a house doesn't involving introspecting. Introspecting involves taking note of the fact that one is having such an image. To have a mental 
+< 
+130-131/476 
+Empiricism and the Foundations of Psychology 
+of a house, in addition to the concept of a house. 
+Q A 
+4.0 Assuming my reasoning cogent, animals must have concepts, given they obviously have sense-perceptions. But surely your beloved Rover doesn't grasp abstracta. 
+No - Rover does not. But his mind does. It's obvious that there is a sense in which 
+dogs and snakes are incapable of conceptual ideation. It's also obvious they are percipient nonetheless. These two positions are reconciled by taking the Chomskyan view that Rover's brain mediates deeply unconscious ideation. The deeply unconscious ideation posited by Chomsky is impersonal. In this respect, it is very different from the Freudian unconscious. The contents of the Freudian unconscious 
+are access-unconscious. But they often used to be access-conscious and often will be so again. The constituents of the Freudian unconscious are often numerically identical with (past or future) objects of access-consciousness. Each such stratum comprises propositional attitudes that belong to one's self- that proper-part of one's mind's integration with which one identifies, not to the part which mediates language- comprehension and vision (etc.) and with which one no more identifies than with the biochemical processes mediating respiration. 
+There is no intrinsic difference a propositional attitude that is repressed and one that isn't. There are intrinsic differences between the personal and subpersonal strata of mentation. Rover's subpersonal mind mediates ideation that, although in Rover, is 
+< 
+131-132/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+(ii) x is a mental process on which your mental activity constitutively depends. Let x be some installment in the highly articulated series of cognitive events mediating between your retinas' being stimulated in certain ways and your subsequently seeing the snake in front of you. Obviously you know nothing about x, and x isn't the sort of thing of which you could be non-theoretically aware. But x is either a cause, or is constitutive, of your perception of the snake; and the likes of x are constitutive of your visual experiences, even if x is not. Nonetheless, constitution is not identity; and, even though you identify with your visual experiences - even though they are "egosyntonic," wherefore you see them as belonging to you - you no more identify with x than you do with the operations mediated by your pituitary gland. 
+There is an obvious sense, we have observed, in which dogs, snakes, etc. are nonconcipient. But we've also seen that concipience is a sine qua non for percipience. And dogs, etc. are obviously percipient. 
+These facts can be reconciled with one another, but only by distinguishing between self and mind; only, that is, by distinguishing the part of the mind with which one identifies from another, unconscious part with which one does not identify; only, that is, by recognizing two very different kinds of uncsonciousness, viz. the personal (Freudian) unconscious and the impersonal (Chomskyan) unconscious. 
+So relative to obvious facts and equally obvious principles, Chomsky's position that there is subpersonal mentation is de rigueur. Relative to those facts, it is not merely a 
+< 
+132-133/476 
+Empiricism and the Foundations of Psychology 
+assumptions: 
+Q A 
+(A) Hume's "introspections" were contaminated with non-empirical ideation, (B) Introspection (on some disambiguation of the term) is to progress in psychology what sense-perception is to progress in physics; 
+(C) A scientific psychology is an empirical psychology. 
+Given these reasonable assumptions, Husserl came to the conclusion that, before engaging in the introspections on which psychological progress depends, the psychological researcher must suspend (or, to use Husserl's term, "bracket”) all of one's assumptions concerning the images, sensations, etc. that one will come across. To do this, Husserl rightly inferred, one must drain one's introspections of any ex parte beliefs concerning their objects. Since, as Husserl saw, such beliefs are embodied in the way in which one conceptualizes those objects, one must deconceptualize one's introspections. One mustn't say that one is experiencing an image of a house. One must describe that image as it would be if stripped of all of its conceptual articulations, the idea being that these conceptual articulations are no part of the image itself and are projections thereupon of the investigator's prejudices. 
+123. Husserl was not an empiricist. He believed that we have direct awarenesses of platonic abstracta. But, we will now see, Husserl utterly failed to see the bearing of his non-empiricism on his attempts to scientize psychology. 
+< 
+133/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+ones perceptions and introspections of their contents; it involves abstaining from making the assumptions about those contents that we are accustomed to making." 
+This rejoinder is to be given no weight. I see a house. I can certainly suspend my belief that my perception is veridical. But that won't affect how I describe the perception. When I describe the perception, I'll do so by describing the house. 
+I can make sure that, when I describe the house, I don't take into account what I have learned in advanced physics; I can make sure that I don't comment on the coefficient of expansion of the metal composing the gutters. But there are some beliefs of mine I cannot suspend, for example, that: 
+and 
+(i) there is an external world; 
+(ii) certain objects bear certain spatiotemporal relations to others; 
+(iii) some objects are larger or more massive than others; 
+(iv) some objects are transparent whereas others are opaque. 
+Even if I have suspended my perception-based belief that there is a house yonder, I cannot describe my perceptual experience except on the assumption that it is veridical 
+< 
+134-135/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+putative objects of those perceptions. The first methodology is incoherent. So is the second, as we'll now see. 
+The justification for perception, we have seen, cannot come from perception and must therefore come from non-empirical, analytic principles. Thus, embedded in our belief that perception is a source of knowledge is the belief that it is not the only source of knowledge. If we are empiricists, we reject those principles. But when describing our perceptions, we must grant them. If a given perception is described as it would be if an acceptance of those principles weren't embodied in it, all that's left is conceptually unarticulated phenomenology: the most unintelligent form of mental activity conceivable. 
+So when attempting to describe our perceptions, we must assume that they are veridical and we must therefore countenance at least some non-analytic truths. This does not mean that our perceptions are veridical. It means that, qua student of the mind, one cannot be a strict empiricist. 
+It goes without saying that, qua student of the external, one cannot be a strict empiricist, given that perception cannot self-justify. None of this means that empiricism is wrong. But it means that an acceptance of empiricism is incompatible with the very existence of any attempt to study anything. It means that, if empiricism is correct, nothing, or next to nothing, can be known: nothing about the external world, and nothing, or almost nothing, about the external world. 
+< 
+135-136/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+the mental is nothing like this: the mental isn't a unified domain at all, being nothing but a series of disjoint ex nihilo obtrusions into an otherwise integrated, explanatorily well-behaved world. 
+This is the legacy of empiricism to psychology. In any case, it is the legacy of a resolution on the part of many a psychologist to be "scientific,” which, understandably, is equated with a resolution to "stick to the facts," which in turn, understandably, is equated with a resolution to be empirical. The fallacy in this reasoning is that science is not about sticking to the facts. It is about organizing the facts, and it is therefore about positing hidden structures to restore to nature the continuities of which observation strips it. The empiricist's injunction that we "stick to the facts" is either the triviality that correct theories are fact-consistent or it's the absurdity that one can model data without extrapolating. 
+6.0 Many thinkers are aware of the fact that "introspection" is an act of conceptualization, and not of theoretically innocent reportage. This fact is prima facie inconsistent with empiricism. Some empiricists, e.g. Hume, overlook this fact. Others, e.g. Husserl, are aware of it and try to reconcile it with empiricism by empiricizing introspection; that is, by stripping introspection of its conceptual component. (Since introspection is conception, this approach is doomed to fail.) There is a third response that we haven't yet considered. Its two main advocates are Daniel Dennett and Paul Churchland: 
+< 
+136-137/476 
+Empiricism and the Foundations of Psychology 
+Q A 
+somebody who doesn't have the requisite visual intelligence. (This is less obvious if one considers representational art than if one considers non-representational art.) But there is obviously a sense in which one hears speech or music and in which one sees visual art. One paraperceives language, music, and art. Paraperception is phenomenologymediated, real-time conception. 
+6.1 In any case, DC is not tenable. One problem with it is that perceptual data is no less theory-heavy than psychological data. So, if cogent, DC establishes the nonexistence, not just of the mental, but of the non-mental as well. I couldn't begin to describe what I'm seeing right now without assuming the truth of many a theory. This is only partly for the trivial reason that some of the entities I'd be describing (e.g. my computer) are by-products of recent theoretical innovations. It is mainly for the reason put forth earlier: 
+(LV125) Just as a hunk of clay must be 
+124. Short for “Dennett, Churchland." sculpted if it is to be a work of art, so 
+phenomenology must be articulated if it is to mediate perception. Our perceptions divide the world up into instances of general categories (rock, tree, chair). Each such category is individuated by the counterfactual properties of its instances. For an object to be a copper bar is for it to have certain causal properties (e.g. a certain degree of conductivity, durability, malleability: if 
+< 
+137-138/476

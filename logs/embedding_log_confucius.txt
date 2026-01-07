@@ -1,0 +1,15 @@
+=== EMBEDDING LOG FOR CONFUCIUS ===
+Figure ID: confucius
+Source Folder: /home/runner/workspace/server/data/confucius
+Started: 2025-12-13T04:14:20.624Z
+============================================================
+
+[2025-12-13T04:14:20.631Z] SUCCESS | analects.txt | 301 chunks | 
+
+============================================================
+SUMMARY
+Files processed: 1
+Chunks created: 301
+Files flagged: 0
+Errors: 0
+Completed: 2025-12-13T04:15:23.824Z

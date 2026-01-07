@@ -1,0 +1,144 @@
+﻿MAX: Professor, what is logic?
+
+Dr. K: It is the study of formal truth. 
+
+MAX: What is formal truth?
+
+Dr. K: A formal truth is a statement that holds entirely in virtue of its own structural properties. An example is it is either raining or it isn’t. A less trivial exaple is there are continuous functions that cannot be differentiated at any point. 
+
+MAX: What is mathematical logic?
+
+Dr. K: It is logic done with the assistance of mathematical concepts and techniques. 
+
+MAX: Could you be more specific?
+
+Dr. K: Yes. The central concept of all of mathematics is that of a function. A function is a rule that assigns at least one object to at least one object and never assigns more than object to any given object.
+
+MAX: F(x)=x+1, for example. 
+
+Dr. K: Yes. That function is a rule that assigns numbers to numbers, but not all functions do so. Some functions assign statements to statements. Mathematical logic studies statement-functions. Most other branches of mathematics study numerical functions.  
+
+MAX: Are there are other kinds of functions? 
+
+Dr. K: Yes. A function can assign anything to anything. There is a function that assigns my piano to the planet Mercury. 
+
+MAX: In that case, what I mean is, are there are any scientifically significant functions besides statement-functions and numerical functions? 
+
+Dr. K: The short answer is “yes,” since there are extremely important functions that assign classess to classes, as well as functions that assign properties to properties. And there are other important functions that are neither numerical functions nor statement functions.   
+
+MAX: What is the long answer?
+
+Dr. K: That all functions are statement-functions, even though some appear not to be. 
+
+MAX:  I don’t understand. 
+
+Dr. K:   You will by the end of this podcast-series. Let’s start by discussing the most important statement-function of all, the negation function. This is the function that assigns the negation of any given statement to that statement. 
+
+MAX:   So it assigns snow is not white to snow is white. 
+
+Dr. K: Correct. 
+
+MAX: And grass is not green to grass is green. 
+
+Dr. K:  Right again. Let me ask you, what is the negation of someone is tall? 
+
+MAX: Someone is not tall. 
+
+Dr. K: No. The negation of someone is tall is it is not the case that someone is tall; in other words, nobody is tall.
+
+MAX: I see. 
+
+Dr. K: The negation of a statement is incompatible with that statement. Smith is in Alaska is incompatible with Smith is not in Alaska. In other words, they cannot simultaneously be true. But someone is tall and someone is not tall can simultaneously be true. In fact, they are both true. 
+
+MAX: So basically, if you are in doubt as to how to negate a given statement, just put the words “it is not the case that” in front of it, and then make the needed changes to that sentence. 
+
+Dr. K: Exactly. Other important statement functions are the conjunction function and the disjunction function. Conjunction is the operation expressed by the word “and”, and “disjunction” is the function assigned by the word “or.” 
+
+MAX: So to conjoin two statements is to put an ‘and’ between them and to disjoin them is to put an ‘or’ between them. So if I start out with the statements “grass is green” and “snow is white”, and I disjoin them, I end up with “snow is white or grass is green”, and if I conjoin them, and I end up with “grass is green and snow is white.” 
+
+Dr. K: Exactly. And notice that conjunction and disjunction are functions of two variables, whereas negation is a function of one variable. 
+
+MAX: I don’t follow. 
+
+Dr. K: Negation operates on single statements. Given snow is white, it outputs snow is not white. Conjunction and disjunction take pairs of statements as inputs. They assign statements to statement-pairs. 
+
+MAX: In much the way that the addition-function assigns single numbers to number-pairs.
+
+Dr. K: That’s a good analogy. 
+
+MAX: Are those the only statement-functions?
+
+Dr. K: No, there are infinitely many statement-functions. All connective expressions denote functions. The word “because” denotes an operation that assigns the statement “Smith is happy because Smith is wealthy” to the ordered pair whose first member is the statement Smith is happy and whose second member is Smith is wealthy. 
+
+MAX: I think I understand. 
+
+Dr. K: And the expression “Jim knows that” assigns the statement “Jim knows that the Earth is round” to “the Earth is round.” 
+
+MAX: I see. Any expression that forms sentences out of sentences denotes a statement-function. 
+
+Dr. K: Exactly. But “and”, “or”, and “not” are very special, since they are truth-functional, meaning that whether or not the output sentence is true depends only on whether or not input sentences are true. 
+
+MAX: I think I follow. The negation function assigns the statement Jim is not in Alaska to Jim is in Alaska. Since the statement is false if the other is true, the negation-function is truth-functional.
+
+Dr. K:  Well stated. Now explain why conjunction is truth-functional. 
+
+MAX: And if Jim is in Alaska is true, and Mary is in Alaska is true, then Jim is in Alaska and Mary is in Alaska is true. 
+
+Dr. K: That’s right. If P and Q are true statements, then P and Q is a true statement. When is P and Q a false statement? 
+
+MAX: When either P or Q is false. So, if Jim is not in Alaska but Mary is in Alaska, then Jim is in Alaska and Mary is in Alaska is false. And if Mary is not in Alaska but Jim is in Alaska, then Jim is in Alaska and Mary is in Alaska is false. 
+
+
+Dr. K: What if Mary is not in Alaska and Jim is not in Alaska? 
+
+MAX: Then Jim is in Alaska and Mary is in Alaska is false. 
+
+Dr. K: Exactly. So what is the general principle?
+
+MAX: P and Q is true is true if P is true and Q is true; otherwise, it is false.
+
+Dr. K: Correct. What about disjunction? What is the rule there? 
+
+MAX: I don’t understand the question.
+
+Dr. K: If Jim is in Alaska but Mary is not, is either Jim is in Alaska or Mary is in Alaska true?
+
+MAX: Yes.  
+
+Dr. K: And it’s true if they’re both in Alaska. It’s false only if neither is in Alaska.
+
+MAX: I see. So P or Q is false if both P and Q are false, and true otherwise. 
+
+Dr. K: Correct.  
+
+MAX: And not-P is true when P is true and false when P is true. 
+
+Dr. K: Correct. Now explain why “because” is not truth-functional. 
+
+MAX: Because even if P and Q are both true, “P because Q” isn’t necessarily true. Even if both Jim and Mary are in Alaska, “Jim is in Alaska because in Mary is in Alaska” is not necessarily true, and neither is “Mary is in Alaska, because Jim is in Alaska.” 
+
+Dr. K:  Exactly. And explain to me why the expression “Jim knows that” is non-truth-functional.
+
+MAX: Because given only that P is true, it doesn’t follow that “Jim knows that Mary is in Alaska” is true. Given only that Mary is in Alaska, it does not follow that “Jim knows that Mary is in Alaska” is true. 
+
+Dr. K: Exactly. Notice that each of these functions if defined for its own outputs. 
+
+MAX: How do you mean, Professor?
+
+Dr. K: Let’s say you start with the statement “Jim is in Alaska.” If you negate it, you get “Jim is not in Alaska.” If you negate that, you get “Jim is not not in Alaska”, and so on. No matter how many times you repeat this procedure, you never get to a statement that you can’t negate. 
+
+MAX: I see. And you conjoin sentences, and conjoin conjunctions, and then conjoin those conjunctions; and the same is true of disjunction. 
+
+Dr. K: Exactly. And this is very important, since it means that each of these functions is recursive. 
+
+MAX: And why is that important?
+
+Dr. K: Because a system of logic is a recursively defined statement class. And logic is the study of such classes. That is what it means to say that logic is the study of formal truth. And that is all it means. 
+
+MAX: You’re going too fast, Professor! You’ve got to explain that last statement of yours.
+
+Dr. K: I will. Tomorrow. That’s enough for today. 
+
+MAX: I agree, Professor. See you tomorrow. 
+
+

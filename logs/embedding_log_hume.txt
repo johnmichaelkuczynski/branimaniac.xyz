@@ -1,0 +1,15 @@
+=== EMBEDDING LOG FOR DAVID HUME ===
+Figure ID: hume
+Source Folder: /home/runner/workspace/server/data/hume
+Started: 2025-12-13T04:08:51.934Z
+============================================================
+
+[2025-12-13T04:08:51.937Z] FLAGGED | Hume_Positions.txt | 0 chunks | Contains 10 mentions of "Mises" - possible misattribution
+
+============================================================
+SUMMARY
+Files processed: 0
+Chunks created: 0
+Files flagged: 1
+Errors: 0
+Completed: 2025-12-13T04:08:52.164Z

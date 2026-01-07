@@ -1,0 +1,11 @@
+=== EMBEDDING LOG FOR JAMES ALLEN ===
+Figure ID: james-allen
+Source Folder: /home/runner/workspace/server/data/james-allen
+Started: 2025-12-13T04:13:05.528Z
+============================================================
+
+[2025-12-13T04:13:05.531Z] SUCCESS | JAMES ALLEN 21 BOOKS_Part1.txt | 234 chunks | 
+[2025-12-13T04:13:59.232Z] SUCCESS | JAMES ALLEN 21 BOOKS_Part2.txt | 273 chunks | 
+[2025-12-13T04:14:59.683Z] FLAGGED | JAMES ALLEN 21 BOOKS_Part3.txt | 0 chunks | Contains 8 mentions of "Mill" - possible misattribution
+[2025-12-13T04:14:59.730Z] SUCCESS | JAMES ALLEN 21 BOOKS_Part4.txt | 246 chunks | 
+[2025-12-13T04:15:52.294Z] FLAGGED | JAMES ALLEN 21 BOOKS_Part5.txt | 0 chunks | Contains 15 mentions of "Mill" - possible misattribution

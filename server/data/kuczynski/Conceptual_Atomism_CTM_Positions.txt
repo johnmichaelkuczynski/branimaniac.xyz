@@ -1,0 +1,359 @@
+POSITION STATEMENTS: KUCZYNSKI - CONCEPTUAL ATOMISM AND THE COMPUTATIONAL THEORY OF MIND
+
+================================================================================
+
+CONTENT-EXTERNALISM VS SEMANTIC EXTERNALISM
+
+1. Content-externalism is false, but semantic externalism is true.
+
+2. Content-externalism and semantic externalism are distinct doctrines that have been conflated in contemporary philosophy of mind.
+
+3. Two brain-states can be qualitatively identical while having different semantic contents, but this applies only to linguistic meaning, not to mental content.
+
+4. Mental content is not constitutively dependent on facts about one's environment in the way content-externalists claim.
+
+5. Semantic externalism correctly holds that the truth-conditions of utterances containing proper names depend on facts about the referents of those names.
+
+6. The apparent problems with semantic externalism (e.g., Frege puzzles about identity statements) vanish when we properly distinguish between semantic and conceptual analysis.
+
+7. If content-externalism were true, then mental content would be without psychological significance, which contradicts the truism that beliefs, thoughts, and doubts are psychologically relevant.
+
+8. The differences between Max and Twin-Max in thought experiments are like the differences in Poincaré's universe-expansion scenario—distinctions without genuine differences.
+
+9. Content-externalism is incompatible with the Cartesian certainty of self-knowledge regarding one's own mental states.
+
+10. If content-externalism were correct, one could mistake a non-thought for an actual thought, contradicting the immediacy of introspective access.
+
+11. Burge's attempt to reconcile content-externalism with privileged access to one's own thoughts is fallacious because it restricts attention only to worlds where the relevant referent exists.
+
+12. Narrow content exists and is shared by qualitatively identical individuals regardless of environmental differences.
+
+13. Both soft content-externalism (two-tiered content) and hard-line content-externalism are false.
+
+14. Content-externalism entails a self-contradiction: two people with identical beliefs can differ in what they believe.
+
+15. For two people to be in epistemically identical situations just is for them to have the same beliefs.
+
+================================================================================
+
+COMPUTATIONAL THEORY OF MIND (CTM) CRITIQUE
+
+16. The Computational Theory of Mind (CTM) is false because it involves fundamental misunderstandings of the concept of syntactic form.
+
+17. A symbol-token is not purely morphological—the psychological underpinnings of symbol production are constitutively involved in the tokening.
+
+18. When a symbol-type is genuinely instantiated, a constituent of that instance includes aspects of the mind of the person producing the token.
+
+19. Psychology cannot single-handedly transform an otherwise dead sound into a living symbol-token; both morphological and psychological aspects are necessary.
+
+20. CTM's appeal to Ramsey-sentences to characterize mental states still fails because it reduces to a form of functionalism with the same fatal problems.
+
+21. If content is causal role, then the same content cannot have different causal roles, but beliefs manifestly can have different causal roles in different contexts.
+
+22. The term "compute" in CTM cannot mean ordinary computation, which presupposes rich cognitive capacities.
+
+23. A computation in the CTM sense is a form-driven, semantically innocent manipulation of symbols.
+
+24. CTM is committed to the thesis that we think in symbols and therefore in some kind of language.
+
+25. If CTM is correct, some expressions of the language of thought must be semantically simple and foundational.
+
+26. CTM's appeal to form-driven operations presupposes a false dichotomy between syntax and semantics.
+
+27. There is no semantically innocent notion of syntactic form that could ground CTM's form-driven operations.
+
+28. Calculators do not really perform arithmetical operations; they merely simulate the behavior of things that do.
+
+29. A thing's acting like something that computes is evidence that actual computation is occurring somewhere (e.g., by the user).
+
+30. The behavior of calculators corresponds to genuine computation by human beings who use or build them.
+
+31. Mental representation cannot be understood on the model of digital computation because computational operations presuppose semantic content rather than explaining it.
+
+================================================================================
+
+FUNCTIONALISM CRITIQUE
+
+32. Functionalism cannot accommodate the causal potency of the mental because functional roles are not spatio-temporally located entities.
+
+33. The Jackson-Pettit distinction between program causes and effective causes fails to save functionalism because program explanations of mental causation involve logical, not causal, guarantees.
+
+34. A brain-state's having a certain functional role cannot be causally potent because functional role descriptions denote abstract relationships, not states of affairs.
+
+35. The concept of a program-cause is important for explanation, but functionalists misuse it by applying it to relations that don't hold between genuine states of affairs.
+
+================================================================================
+
+CONCEPTUAL ATOMISM VS NON-ATOMISM
+
+36. Conceptual atomism does not follow from conceptual-object atomism; even if concepts-as-objects lack structure, our mental representations of them may be structured.
+
+37. Fodor's arguments against non-atomism fail because they conflate the information needed to lock onto a concept with information ascribed to that concept after lock-on.
+
+38. CTM, SCT, and hard-line content-externalism all presuppose conceptual atomism, which is false.
+
+39. Conceptual non-atomism is correct: one's concept of Socrates necessarily requires possession of other concepts.
+
+40. An otherwise conceptless creature could not have a concept of Socrates or any other object.
+
+41. Fodor's strictly causal conception of conception follows logically from content-externalism, but both are mistaken.
+
+42. For x to have a concept of y is not simply for some of x's states to have been caused by states of affairs involving y.
+
+================================================================================
+
+REFERENCE, DESCRIPTIONS, AND PROPER NAMES
+
+43. One's knowing what an expression refers to always involves knowing some description that uniquely singles out its referent.
+
+44. Ostensive definitions work through knowledge of uniquely individuating descriptions, not through direct acquaintance with referents.
+
+45. There are three ways a proper name can be added to one's lexicon: ostensive definition, descriptive definition, and "picking up" the use—but all three collapse into the descriptive.
+
+46. Causal connections between subjects and referents are embedded in knowledge of uniquely individuating descriptions containing context-sensitive expressions.
+
+47. Russell's theory of descriptions is demonstrably false as a semantic analysis, though the distinction between semantic and conceptual analysis is crucial.
+
+48. Kripke's arguments against descriptivism about reference are correct, but they do not refute descriptivism about concepts.
+
+49. The semantic and epistemological consequences of Kripke's arguments have been conflated.
+
+50. The causal theory of reference is only a chapter in the descriptive story, not a replacement for it.
+
+51. Causal connections between subjects and referents are always embedded in knowledge of uniquely individuating descriptions.
+
+52. One can use a proper name to refer to someone without knowing any description that the person uniquely satisfies in an encyclopedic sense.
+
+53. When one "picks up" a name from conversation, one acquires knowledge of a description like "the person Smith was describing on occasion t."
+
+54. The description through which one initially locks onto an object need not be informative about the object's essential properties.
+
+55. There is no vicious circularity in the claim that name-appropriation always involves knowledge of uniquely individuating descriptions.
+
+56. Russell's conception of singular or direct reference was entirely correct; his error was misapplying it.
+
+57. Russell wrongly thought that actual cases of genuine reference were almost never found in everyday discourse.
+
+58. Frege's theory of sense and reference, insofar as it applies to definite descriptions, is really a confused version of Russell's theory.
+
+59. Fregean "indirect reference" is not meaningfully different from quantification.
+
+60. Definite descriptions are directly referential singular terms, not quantifier phrases as Russell claimed.
+
+61. The differences between what tokens of definite descriptions communicate and their literal meanings are pragmatic, not semantic.
+
+62. Russell's theory of descriptions is unnecessary for explaining cognitive significance and is demonstrably false as semantic analysis.
+
+63. Semantic analysis (identifying literal meanings) must be distinguished from conceptual analysis (identifying logically equivalent but more perspicuous propositions).
+
+================================================================================
+
+PERCEPTION AND MENTAL CONTENT
+
+64. Perception is descriptive: a perception of an object gives one a description of that object.
+
+65. One never sees bare things-in-themselves; what is visually represented are instances of properties and relations.
+
+66. Sense-perceived particulars are represented in terms of instances of properties and relations, not as bare nouns.
+
+67. The content of perception is given by existence-claims, not by mere nouns or proper names.
+
+68. Mental content is not object-involving: external objects are not literal constituents of perceptual or thought content.
+
+69. The content-externalist's claim that Mary herself is part of a visual perception's content is false.
+
+70. Because light travels at a finite speed, anything one sees has ceased to exist by the time one perceives it.
+
+71. The conceptual/non-conceptual content distinction is genuine; perceptual content is fundamentally different from propositional content.
+
+72. McDowell's arguments against the conceptual/non-conceptual distinction are fallacious; being able to refer to what one sees does not show that perception is structurally similar to language.
+
+73. Sentences and perceptions have fundamentally different structures; demonstratives referring to specific perceptual features do not show that perception has sentential structure.
+
+74. The content of visual perception does not decompose into concepts like red or dark in the way sentences decompose into words.
+
+75. Given only that we can articulate what we perceive, it does not follow that perceptions are structurally similar to sentences.
+
+76. A curve can be represented by line-segments without being composed of line-segments; perception-to-language mapping is similar.
+
+77. Any sentence is at best an approximate representation of perceptual information; complete convergence is impossible.
+
+================================================================================
+
+CONCEPTS AND CONCEPT-POSSESSION
+
+78. A concept of an object is not identical with knowledge of any single existence-claim but with a series of interlocking existence-claims.
+
+79. One's concept of Fred evolves continuously through replacement of existence-claims while maintaining numerical identity.
+
+80. The existence-claims through which one initially locks onto an object are typically forgotten and replaced.
+
+81. A concept persists through changes in the particular existence-claims through which it is sustained, like a person persisting through change.
+
+82. Frege's puzzle about identity (Hesperus = Phosphorus) is solved by recognizing different knowledge-streams for the same referent.
+
+83. Evans' notion of a de re sense is incoherent because the proposition meant cannot have the descriptive mode of presentation as a component.
+
+84. Evans conflates semantics with pre-semantics: the descriptive information through which we compute meaning is not part of literal meaning.
+
+85. One can think about future individuals like "the first baby born in the 22nd century" through uniquely individuating descriptions.
+
+86. Concepts of spatiotemporal objects require causal connections between subject and object, but concepts of abstract objects do not.
+
+87. Evans' notion of "discriminating knowledge" correctly captures that conception requires more than mere causal connection.
+
+88. Spatiotemporal individuals are distinguished by their locations, so discriminating knowledge involves spatio-temporal information.
+
+================================================================================
+
+INFERENTIAL ROLE SEMANTICS CRITIQUE
+
+89. Quine's arguments against the analytic-synthetic distinction are not cogent; analyticity can be understood without vicious circularity.
+
+90. Inferential Role Semantics (IRA) is obviously false because inferences presuppose content—nothing can have content in virtue of its inferential role.
+
+91. Non-atomism is not equivalent to inferential role semantics and does not presuppose it.
+
+92. Transitional Role Analysis (TRA) does not have the defects Fodor attributes to non-atomism, but it is still a form of functionalism and therefore false.
+
+93. Peacocke's transitional role analysis of concepts fails because there is no non-arbitrary way to distinguish concept-constitutive transitions from merely habitual ones.
+
+94. Any analysis of concepts in purely relational terms (concepts as nodes in networks of other concepts) cannot account for the fact that there are right and wrong ways to conceptualize experience.
+
+95. Whether a certain kind of experience would confirm a certain empirical judgment is not ultimately an empirical matter but an analytic one.
+
+96. Conceptual Role Semantics is incompatible with CTM because it makes having thoughts a prerequisite to using symbols.
+
+97. Conceptual Role Semantics fails to distinguish proper names like "Socrates" and "Aristotle" which have identical inferential roles.
+
+98. If all true sentences of the form "Aristotle has phi" became analytic truths, CRS would make synthetic truths analytic.
+
+================================================================================
+
+LANGUAGE, THOUGHT, AND MEANING
+
+99. The systematicity of thought does not require that thought be conducted in a language; it can be explained without positing mental sentences.
+
+100. The productivity of language is an aspect of its systematicity and does not support the Language of Thought hypothesis.
+
+101. Davidson's view that one must know a language to think is incompatible with the fact that linguistic competence must be mediated by cognitive processes.
+
+102. Knowledge of language facilitates thought but cannot be constitutive of the ability to think, since thinking is a prerequisite to learning language.
+
+103. Pre-linguistic creatures can have true and false mental contents; denying this is not a reasonable position.
+
+104. Speaker's meaning presupposes conventional meaning; one cannot mean proposition P by producing noise N unless one believes N already means P.
+
+105. Grice's theory of meaning fails because it is incompatible with the compositional character of sentence-meaning.
+
+106. The differences between literal and communicated meaning can be explained pragmatically without adopting Russell's quantificational analysis of definite descriptions.
+
+107. Expression-types must be distinguished from expression-tokens; the expression-type "I" doesn't refer to anyone.
+
+108. What is literally meant by an utterance must be distinguished from the information uploaded in computing its literal meaning.
+
+109. Even though "Smith" is a mere label semantically, one grasps this semantic rule through richly descriptive information.
+
+110. One's knowing a semantic rule like "'Smith' refers to x" requires knowing who Smith is through uniquely individuating descriptions.
+
+111. The information conveyed by a sentence-token differs from its literal meaning because of how semantic rules are accessed.
+
+112. Our modal intuitions about proper names are consistent with grasping their semantics through descriptive information.
+
+113. The distinction between types and tokens must be made universally for sentences, given that all natural language sentences are tensed.
+
+114. The meaning of a sentence-type is not a proposition but a function that assigns propositions to tokens.
+
+================================================================================
+
+SYNTAX AND SEMANTICS
+
+115. Syntactic properties of sentences are among their semantic properties, not independent of them.
+
+116. Two sentence-tokens have the same semantics if they mean the same thing; syntax is how they mean what they mean.
+
+117. "Brutus killed Caesar" and "Caesar was killed by Brutus" encode the same proposition but differ syntactically in meaning-how.
+
+118. Facts about syntax are facts about meaning, even though expressions can share meaning with different syntaxes.
+
+119. The concept of a "mechanical procedure" is semantically loaded and presupposes knowledge of semantic rules.
+
+================================================================================
+
+LANGUAGE OF THOUGHT CRITIQUE
+
+120. The systematicity of language (if you can understand "John loves Mary" you can understand "Mary loves John") does not require LOT.
+
+121. There is nothing absurd in supposing a language might contain a primitive expression for "Bob loves Mary" but none for "Mary loves Bob."
+
+122. The productivity of language is an aspect of systematicity and provides no additional support for LOT.
+
+123. The property of grasping-but-not-affirming propositions in thought is better explained by the nature of thought itself, not by LOT.
+
+124. The assertion/non-assertion distinction in language is to be explained by the corresponding property of thought, not vice versa.
+
+================================================================================
+
+COMMUNICATION AND PROPOSITIONS
+
+125. Linguistic communication does not require speaker and auditor to associate identical propositions with utterances.
+
+126. Communication requires only identity of truth-maker between speaker's and auditor's thoughts, not identity of proposition.
+
+127. The naive model of communication (requiring identical propositions) is a non-starter given the public nature of language.
+
+128. Language cuts through biographical differences because linguistic communication concerns identity of truth-maker, not of proposition.
+
+129. Propositions existed and had truth-values before there was thought; nobody grasped them before thought, but that is irrelevant to their existence.
+
+130. Propositions existed before there was thought to grasp them; thought discovers rather than creates propositions.
+
+================================================================================
+
+METAPHYSICS AND ONTOLOGY
+
+131. The fundamental constituents of reality are not rocks, trees, and people, but instances of properties.
+
+132. Socrates' existence supervenes on facts about property-instances, ultimately on states of affairs without objects.
+
+133. One can in principle grasp a proposition whose truth presupposes Socrates' existence, but this doesn't validate content-externalism.
+
+134. The propositions through which we actually grasp external objects are purely descriptive existence-claims.
+
+135. The structure of a proposition that Smith uniquely satisfies is not determined solely by relations to other propositions.
+
+================================================================================
+
+ADDITIONAL POSITIONS
+
+136. Wide-scope and narrow-scope readings of belief attributions are explained by pragmatics, not by Russell's quantificational semantics.
+
+137. What one believes are existence-claims describing singular propositions, not the singular propositions themselves.
+
+138. Rationality consists in seeing the bearing of propositions on other propositions.
+
+139. Given only that X and Y are atom-for-atom duplicates, and mental supervenes on physical, they are in epistemically identical situations.
+
+140. Wittgenstein's rule-following paradox does not show that behavior cannot be evidence of genuine rule-following.
+
+141. Hypotheses about which rule someone follows can be confirmed or disconfirmed by examining collateral abilities.
+
+142. Sentence-mood (indicative, interrogative, imperative) has semantic significance regarding success-conditions of utterances.
+
+143. The meaning of a sentence-type is a rule that assigns success-conditions to its tokens based on mood and content.
+
+144. Assertions, questions, and commands have different success-conditions but share propositional content.
+
+145. The conceptual/non-conceptual content distinction cannot be eliminated by appeal to demonstrative expressions in language.
+
+146. Indexical expressions like "that shade of red" operate through general rubrics (shade, red) even when referring to specifics.
+
+147. A token of a demonstrative may refer to something maximally specific, but the type's semantics involve only general categories.
+
+148. One need not revise the principle that believing P and not-P is irrational; content-externalism's revision is unnecessary.
+
+================================================================================
+
+TOTAL POSITIONS: 148
+
+================================================================================

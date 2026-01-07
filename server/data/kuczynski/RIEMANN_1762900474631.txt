@@ -1,0 +1,6067 @@
+﻿The Project Gutenberg EBook of On Riemann's Theory of Algebraic Functions
+and their Integrals, by Felix Klein
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever. You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+
+Title: On Riemann's Theory of Algebraic Functions and their Integrals
+A Supplement to the Usual Treatises
+
+Author: Felix Klein
+
+Translator: Frances Hardcastle
+
+Release Date: August 3, 2011 [EBook #36959]
+
+Language: English
+
+Character set encoding: ISO-8859-1
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ON RIEMANN'S THEORY ***Produced by Andrew D. Hwang
+
+
+
+
+
+
+
+
+
+
+
+      transcriber's note
+
+The camera-quality les for this public-domain ebook
+may be downloaded gratis at
+
+  www.gutenberg.org/ebooks/36959.
+
+This ebook was produced using scanned images and
+OCR text generously provided by the University of
+Toronto Gerstein Library through the Internet Archive.
+
+
+Minor typographical corrections and presentational
+changes have been made without comment.
+
+This PDF le is optimized for screen viewing, but may
+be recompiled for printing. Please consult the preamble
+of the LATX source le for instructions and other
+E
+particulars.ON RIEMANN'S THEORY
+
+              OF
+
+ALGEBRAIC FUNCTIONS
+
+          AND THEIR
+
+        INTEGRALS.
+
+A SUPPLEMENT TO THE USUAL TREATISES.
+
+
+
+              BY
+
+          FELIX KLEIN.
+
+
+
+TRANSLATED FROM THE GERMAN, WITH THE AUTHOR'S
+          PERMISSION,
+
+
+              BY
+    FRANCES HARDCASTLE,
+      GIRTON COLLEGE, CAMBRIDGE.
+
+
+
+            Cambridge:
+      MACMILLAN AND BOWES.
+              1893            Cambridge:
+    PRINTED BY C. J. CLAY, M.A. & SONS,
+        AT THE UNIVERSITY PRESS.    TRANSLATOR'S NOTE.
+
+The aim of this translation is to reproduce, as far as pos-
+
+sible, the ideas and style of the original in idiomatic English,
+
+rather than to give a literal rendering of its contents. Even
+
+the verbal deviations, however, are few in number. So little
+
+has been written in English on the subject that a standard set
+
+of technical terms as yet hardly exists. Where there was any
+
+choice between equivalent words, I have followed the usage of
+
+Dr Forsyth in his recently published work on the Theory of
+
+Functions. A Glossary of the principal technical terms is ap-
+
+pended, giving the original German word together with the
+
+English adopted in the text.
+
+Prof. Klein had originally intended to revise the proofs, but
+
+owing to his absence in America he kindly waived his right
+
+to do so, in order not to delay the publication. The proofs
+
+have therefore not been submitted to him, though it was with
+
+considerable reluctance that I determined to publish without
+
+this nal revision.
+
+My thanks are due to Miss C. A. Scott, D.Sc., Professor of
+
+Mathematics in Bryn Mawr College, for many valuable sugges-
+
+tions in di cult passages and for her interest in the progress of
+
+the translation, and also for help in the reading of the proof-
+
+sheets. I must also express my thanks to Mr James Hark-
+
+ness, M.A., Associate Professor of Mathematics in Bryn Mawr
+
+College, for helpful advice given from time to time; and to Miss
+
+P. G. Fawcett, of Newnham College, Cambridge, for reading
+
+over in manuscript the earlier parts which deal more especially        translator's note.iv
+
+
+with the subject of Electricity.
+
+
+                FRANCES HARDCASTLE.
+
+Bryn Mawr College,
+Pennsylvania,
+June 1, 1893.          CONTENTS.
+
+
+
+            PART I.
+
+    INTRODUCTORY REMARKS.
+
+SECT.PAGE
+
+1. Steady Streamings in the Plane as an Interpretation of
+the Functions of x + iy.. . . . . . . . . . . . . . . . . . . . . . . . . . . .1
+
+2. Consideration of the Innities of w = f(z). . . . . . . . . . . . .6
+
+3. Rational Functions and their Integrals. Innities of
+higher Order derived from those of lower Order. . . . 12
+
+4. Experimental Production of these Streamings. . . . . . . . . . 16
+
+5. Transition to the Surface of a Sphere. Streamings on
+arbitrary curved Surfaces. . . . . . . . . . . . . . . . . . . . . . . . . . 20
+
+6. Connection between the foregoing Theory and the Func-
+tions of a complex Argument. . . . . . . . . . . . . . . . . . . . . . . 25
+
+7. Streamings on the Sphere resumed. Riemann's general
+Problem. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29          contents.vi
+
+
+            PART II.
+
+        RIEMANN'S THEORY.
+
+SECT.PAGE
+
+8. Classication of closed Surfaces according to the Value
+of the Integer p. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+
+9. Preliminary Determination of steady Streamings on ar-
+bitrary Surfaces. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+
+10. The most general steady Streaming. Proof of the Impos-
+sibility of other Streamings.. . . . . . . . . . . . . . . . . . . . . . . . 40
+
+11. Illustration of the Streamings by means of Examples. . . 43
+
+12. On the Composition of the most general Function of Po-
+sition from single Summands. . . . . . . . . . . . . . . . . . . . . . . 50
+
+13. On the Multiformity of the Functions. Special Treatment
+of uniform Functions. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+
+14. The ordinary Riemann's Surfaces over the x + iy Plane. 59
+
+15. The Anchor-ring, p = 1, and the two-sheeted Surface
+over the Plane with four Branch-points.. . . . . . . . . . . . 62
+
+16. Functions of x + iy which correspond to the Streamings
+already investigated. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+17. Scope and Signicance of the previous Investigations. . . 74
+
+18. Extension of the Theory. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+
+
+            PART III.
+
+          CONCLUSIONS.
+
+19. On the Moduli of Algebraical Equations. . . . . . . . . . . . . . . 80          contents.vii
+
+
+SECT.PAGE
+
+20. Conformed Representation of closed Surfaces upon
+themselves. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+
+21. Special Treatment of symmetrical Surfaces. . . . . . . . . . . . . 90
+
+22. Conformal Representation of di erent closed Surfaces
+upon each other. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+
+23. Surfaces with Boundaries and unifacial Surfaces. . . . . . . . 98
+
+24. Conclusion.. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 102            PREFACE.
+
+The pamphlet which I here lay before the public, has
+                                     
+grown from lectures delivered during the past year,in which,
+
+among other objects, I had in view a presentation of Riemann's
+                                  y
+theory of algebraic functions and their integrals.Lectures on
+
+higher mathematics o er peculiar di culties; with the best
+
+will of the lecturer they ultimately full a very modest pur-
+
+pose. Being usually intended to give a systematic development
+
+of the subject, they are either conned to the elements or are
+
+lost amid details. I thought it well in this case, as previously
+
+in others, to adopt the opposite course. I assumed that the
+
+ordinary presentation, as given in text-books on the elements
+
+of Riemann's theory, was known; moreover, when particular
+
+points required to be more fully dealt with, I referred to the
+
+fundamental monographs. But to compensate for this, I de-
+
+voted great care to the presentation of the true train of thought,
+
+and endeavoured to obtain a general view of the scope and ef-
+
+ciency of the methods. I believe I have frequently obtained
+
+good results by these means, though, of course, only with a
+
+gifted audience; experience will show whether this pamphlet,
+
+ 
+Theory of Functions treated geometrically. Part i, Winter-semester
+1880{81, Part ii, Summer-semester 1881.
+y
+I denote thus the contents of the investigations with which Riemann
+was concerned in the rst part of his Theory of the Abelian Functions.
+The theory of the  -functions, as developed in the second part of the
+same treatise, is in the rst place, as we know, of an essentially di erent
+character, and is excluded from the following presentation as it was from
+my course of lectures.            preface.ix
+
+
+based on the same principles, will prove equally useful.
+
+A presentation of the kind attempted is necessarily very
+
+subjective, and the more so in the case of Riemann's theory,
+
+since but scanty material for the purpose is to be found explic-
+
+itly given in Riemann's papers. I am not sure that I should ever
+
+have reached a well-dened conception of the whole subject,
+
+had not Herr Prym, many years ago (1874), in the course of
+
+an opportune conversation, made me a communication which
+
+has increased in importance to me the longer I have thought
+
+over the matter. He told me that Riemann's surfaces origi-
+
+nally are not necessarily many-sheeted surfaces over the plane,
+
+but that, on the contrary, complex functions of position can
+
+be studied on arbitrarily given curved surfaces in exactly the
+
+same way as on the surfaces over the plane. The following
+
+presentation will su ciently show how valuable this remark
+
+has been to me. In natural combination with this there are
+
+certain physical considerations which have been lately devel-
+
+oped, although restricted to simpler cases, from various points
+ 
+of view.I have not hesitated to take these physical concep-
+
+tions as the starting-point of my presentation. Riemann, as
+
+we know, used Dirichlet's Principle in their place in his writ-
+
+ings. But I have no doubt that he started from precisely those
+
+physical problems, and then, in order to give what was physi-
+
+cally evident the support of mathematical reasoning, he after-
+
+wards substituted Dirichlet's Principle. Anyone who clearly
+
+ 
+Cf. C. Neumann, Math. Ann., t. x., pp. 569{571. Kirchho , Berl.
+Monatsber., 1875, pp. 487{497. Topler, Pogg. Ann., t. clx., pp. 375{388.            preface.x
+
+
+understands the conditions under which Riemann worked in
+
+Gottingen, anyone who has followed Riemann's speculations
+                                       
+as they have come down to us, partly in fragments,will, I
+
+think, share my opinion.|However that may be, the physical
+
+method seemed the true one for my purpose. For it is well
+
+known that Dirichlet's Principle is not su cient for the actual
+
+foundation of the theorems to be established; moreover, the
+
+heuristic element, which to me was all-important, is brought
+
+out far more prominently by the physical method. Hence the
+
+constant introduction of intuitive considerations, where a proof
+
+by analysis would not have been di cult and might have been
+
+simpler, hence also the repeated illustration of general results
+
+by examples and gures.
+
+In this connection I must not omit to mention an important
+
+restriction to which I have adhered in the following pages. We
+
+all know the circuitous and di cult considerations by which, of
+
+late years, part at least of those theorems of Riemann which
+                                              y
+are here dealt with have been proved in a reliable manner.
+
+These considerations are entirely neglected in what follows and
+
+I thus forego the use of any except intuitive bases for the the-
+
+ 
+Ges. Werke, pp. 494 et seq.
+y
+Compare in particular the investigations on this subject by C. Neu-
+mann and Schwarz. The general case of closed surfaces (which is the
+most important for us in what follows) is indeed, as yet, nowhere ex-
+plicitly and completely dealt with. Herr Schwarz contents himself with
+a few indications with respect to these surfaces (Berl. Monatsber., 1870,
+pp. 767 et seq.) and Herr C. Neumann only considers those cases in which
+functions are to be determined by means of known values on the bound-
+ary.            preface.xi
+
+
+orems to be enunciated. In fact such proofs must in no way be
+
+mixed up with the sequence of thought I have attempted to
+
+preserve; otherwise the result is a presentation unsatisfactory
+
+from all points of view. But they should assuredly follow after,
+
+and I hope, when opportunity o ers, to complete in this sense
+
+the present pamphlet.
+
+For the rest, the scope and limits of my presentation speak
+
+for themselves. The frequent use of my friends' publications
+
+and of my own on kindred subjects had a secondary purpose
+
+important to me for personal reasons: I wished to give my au-
+
+dience a guide, to help them to nd for themselves the recip-
+
+rocal connections among these papers, and their position with
+
+respect to the general conception put forth in these pages. As
+
+for the new problems which o er themselves in great number,
+
+I have only allowed myself to investigate them as far as seemed
+
+consistent with the general aim of this pamphlet. Nevertheless
+
+I should like to draw attention to the theorems on the confor-
+
+mal representation of arbitrary surfaces which I have worked
+
+out in the last Part; I followed these out the more readily that
+
+Riemann makes a remarkable statement about this subject at
+
+the end of his Dissertation.
+
+One more remark in conclusion to obviate a misunder-
+
+standing which might otherwise arise from the foregoing words.
+
+Although I have attempted, in the case of algebraic functions
+
+and their integrals, to follow the original chain of ideas which I
+
+assumed to be Riemann's, I by no means include the whole of
+
+what he intended in the theory of functions. The said functions
+
+were for him an example only, in the treatment of which, it is            preface.xii
+
+
+true, he was particularly fortunate. Inasmuch as he wished to
+
+include all possible functions of complex variables, he had in
+
+mind far more general methods of determination than those
+
+we employ in the following pages; methods of determination in
+
+which physical analogy, here deemed a su cient basis, fails us.
+
+Compare, in this connection, x 19 of his Dissertation, compare
+
+also his work on the hypergeometrical series.|With reference
+
+to this, I must explain that I have no wish to draw aside from
+
+these more general considerations by giving a presentation of
+
+a special part, complete in itself. My innermost conviction
+
+rather is that they are destined to play, in the developments
+
+of the modern Theory of Functions, an important and promi-
+
+nent part.
+
+
+Borkum,
+Oct. 7, 1881.            PART I.
+
+    Introductory Remarks.
+
+x 1. Steady Streamings in the Plane as an Interpretation
+
+of the Functions of x + iy.
+
+The physical interpretation of those functions of x + iy
+                                               
+which are dealt with in the following pages is well known.
+
+The principles on which it is based are here indicated, solely
+
+for completeness.
+
+Let w = u + iv, z = x + iy, w = f(z). Then we have,
+
+primarily,
+
+    @u@v@u @v
+(1)=;=;
+    @x@y@y@x
+
+and hence
+
+          22
+        @u@u
+(2)+= 0;
+        @x2@y2
+
+and also, for v,
+
+          22
+        @v@v
+(3)+= 0:
+        @x2@y2
+
+ 
+In particular, reference should be made to Maxwell's Treatise on
+Electricity and Magnetism (Cambridge, 1873). So far as the intuitive
+treatment of the subject is concerned, his point of view is exactly that
+adopted in the text.[sect i.] introductory remarks.2
+
+
+In these equations we take u to be the velocity-potential, so
+@u@u
+that,are the components of the velocity of a uid mov-
+@x@y
+ing parallel to the xy plane. We may either suppose this uid
+
+to be contained between two planes, parallel to the xy plane, or
+
+we may imagine it to be itself an innitely thin homogeneous
+
+sheet extending over this plane. Then equation (2)|and this
+
+is the chief point in the physical interpretation|shows that
+
+the streaming is steady. The curves u = const. are called
+
+the equipotential curves, while the curves v = const., which,
+
+by (1), are orthogonal to the rst system, are the stream-lines.
+
+For the purposes of this interpretation it is of course indi erent
+
+of what nature we may imagine the uid to be, but for many
+
+reasons it will be convenient to identify it here with the elec-
+
+tric uid; u is then proportional to the electrostatic potential
+
+which gives rise to the streaming, and the apparatus of exper-
+
+imental physics provide su cient means for the production of
+
+many interesting systems of streamings.
+
+Moreover, if we increase u throughout by a constant the
+
+streaming itself remains unchanged, since the di erential co-
+@u@u
+e cients,alone appear explicitly; this is also true of v.
+@x@y
+Hence the function u + iv, whose physical interpretation is in
+
+question, is thus determined only to an additive constant pr es,
+
+a fact which requires to be carefully observed in what follows.
+
+Further, we may observe that equations (1){(3) remain un-
+
+altered if we replace u by v, and v by u. Corresponding to
+
+this we get a second system of streamings in which v is the[sect i.] introductory remarks.3
+
+
+velocity-potential and the curves u = const. are the stream-
+
+lines; in the sense explained above this represents the func-
+
+tion viu. It is often of use to consider this new streaming as
+
+well as the original one in which u was the velocity-potential;
+
+we shall speak of it, for brevity, as the conjugate streaming.
+
+It is true that the name is somewhat inaccurate, since u bears
+
+the same relation to v, as v does to u, but it is su ciently
+
+intelligible for our purpose.
+
+The di erential equations (1){(3), and hence also the whole
+
+preceding discussion, apply in the rst place solely to that
+
+portion of the plane (otherwise an arbitrary portion) in which
+
+u+iv is uniform and in which neither u+iv nor its di erential
+
+coe cients become innite. In order then that the correspond-
+
+ing physical conditions maybe clearly comprehended, a region
+
+of this kind must be marked o  and then by suitable appliances
+
+on the boundary the steady motion within its limits must be
+
+preserved.
+
+In a bounded region of this description points z0at which
+            @w
+the di erential coe cientvanishes call for special atten-
+            @z
+                                            2
+                                          @w
+tion To be perfectly general, I will assume at once that,
+                                          @z2
+3 
+@w@w
+, : : :, up toare all zero as well. To determine the
+@z3@z 
+course of the equipotential curves, or of the stream-lines in the
+
+vicinity of such a point, let w be expanded in a series of as-
+
+cending powers of z z0; in this series, the term immediately
+                                 +1
+after the constant term is the term in (z z0). Transform-[sect i.] introductory remarks.4
+
+
+ing to polar-coordinates we obtain the following result: at the
+
+point z0,  +1 curves u = const. intersect at equal angles, while
+
+the same number of curves v = const. are the bisectors of these
+
+angles. In consequence of this property I call such a point a
+
+cross-point, and moreover a cross-point of multiplicity  .
+
+The following gure (which is of course only diagrammatic)
+
+illustrates this for   = 2, and explains, in particular, how
+
+a cross-point makes its appearance in the orthogonal system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+formed by the curves u = const., v = const.
+
+The stream-lines v = const. are the heavy lines in the g-
+
+ure and the direction of motion in each is indicated by an
+
+arrow; the equipotential curves are given by dotted lines. We
+
+see how the uid ows in towards the cross-point from three
+
+directions, and ows out again in three other directions, this
+
+being possible because the velocity of the streaming is zero[sect i.] introductory remarks.5
+
+
+at the cross-point, or, as we may say, by analogy with known
+
+occurrences, because the uid is at a standstill, the expression
+      s
+                     
+             
+                22
+            @u@u
+for the velocity being+.
+            @x@y
+
+Further, it is useful to consider a cross-point of multiplic-
+
+ity   as the limiting case of   simple cross-points. The ana-
+
+lytical treatment shows this to be permissible. For at an  -ple
+          @w
+cross-point the equation= 0 has an  -ple root and this is
+          @z
+caused, as we know, by the coalescence of   simple roots. The
+
+following gures su ciently explain this view:
+
+
+
+
+
+
+
+
+
+
+
+
+
+For simplicity, I have here drawn the stream-lines only. On
+
+the left we have the same cross-point of multiplicity two as in
+
+Fig. 1; on the right we have a streaming with two simple cross-
+
+points close together. It is at once evident that the one gure
+
+is produced by continuous changes from the other.[sect ii.] introductory remarks.6
+
+
+Throughout the foregoing discussion it has been tacitly as-
+
+sumed that the region in question does not extend to innity.
+
+It is true that no fundamental di culties present themselves
+
+when we take the point z = 1 into account exactly as we take
+
+any other point z = z0; instead of the expansion in ascending
+
+powers of z z0, we obtain, by known methods, an expan-
+              1
+sion in ascending powers of; there is an  -ple cross-point
+              z
+at z = 1 when the term immediately following the constant
+                          
+                               +1
+                          1
+term in this expansion is the term in. But we need
+                          z
+dwell no further on the geometrical relations corresponding to
+
+a streaming of this kind, for the separate treatment of z = 1,
+
+which here presents itself, will be obviated once and for all by
+
+a method to be explained shortly, and for this reason the point
+
+z = 1 will be left out of consideration in the following sec-
+
+tions (xx 2{4), although, if a complete treatment were desired,
+
+it ought to be specially mentioned.
+
+
+x 2. Consideration of the Innities of w = f(z).
+
+We now further include in this region points z0at which
+
+w = f(z) becomes innite. But, since we are about to con-
+
+sider only a special class of functions, we restrict ourselves in
+
+this direction by the following condition, viz.: the di eren-
+@w
+tial coe cientmust have no essential singularities, or, in
+@z
+other words, w is to be innite only in the same manner as an[sect ii.] introductory remarks.7
+
+
+expression of the following form:
+
+        A1A2A 
+Alog(z z0) +++ : : : +;
+      z z0(z z0)2(z z0) 
+
+in which   is a determinate nite quantity.
+
+Corresponding to the various forms which this expression
+
+assumes, we say that at z = z0di erent discontinuities are
+
+superposed; a logarithmic innity, an algebraic innity of order
+
+one, etc. For simplicity we here consider each separately, but
+
+it is also a useful exercise to form a clear idea of the result of
+
+the superposition in individual examples.
+
+In the rst instance, let z = z0be a logarithmic innity;
+
+we then have:
+
+                                    2
+w = Alog(z z0) + C0+ C1(z z0) + C2(z z0)+ : : : :
+
+Here A is that quantity which when multiplied by 2i  is called,
+
+in Cauchy's notation, the residue of the logarithmic innity,
+
+a term which will be occasionally employed in what follows.
+
+In the investigation of a streaming in the vicinity of the dis-
+
+continuity it is of primary importance to know whether A is
+
+real, imaginary, or complex. The third case can obviously be
+
+regarded as a superposition of the rst two and may therefore
+
+be neglected. There are then only two distinct possibilities to
+
+be considered.
+
+(1) If A is real, let C0= a + ib. Then, to a rst approxi-
+                                  i 
+mation, we have, writing w = u + iv, z z0= re,
+
+  u = Alogr + a; v = a  + b:[sect ii.] introductory remarks.8
+
+
+Thus the curves u = const. are small circles round the innity,
+
+and the curves v = const. radiate from it in all directions
+
+according to the variable values of  . The motion is such that
+
+z = z0is a source of a certain positive or negative strength. To
+
+calculate this strength, multiply the element of arc of a small
+
+circle described about the discontinuity with radius r, by the
+
+proper velocity and integrate this expression round the circle.
+
+Sinces
+            
+              22
+          @u@u
+                +
+          @x@y
+
+                        @uA
+coincides to a rst approximation with, that is with, we
+                        @rr
+obtain for the strength the expression
+
+      Z
+        2 
+          A
+              r d  = 2A :
+        0r
+
+The strength is therefore equal to the residue, divided by i; it
+
+is positive or negative with A.
+
+(2) Let A be purely imaginary, equal to iA. Then, with
+
+the same notation as before, we have to a rst approximation,
+
+  u = A  + b; v = A logr + b:
+
+The parts played by the curves u = const., v = const. are
+
+thus exactly interchanged; the equipotential curves now radi-
+
+ate from z = z0, while the stream-lines are small circles round
+
+the innity. The uid circulates in these curves round the
+
+point z = z0; I call the point a vortex-point for this reason.[sect ii.] introductory remarks.9
+
+
+The sense and intensity of the circulation are measured by A.
+
+Since the velocity
+      s
+           
+                   
+              22
+          @u@u
+                +
+          @x@y
+
+                        @u
+is, to a rst approximation, equal to, the circulation is
+                        @ 
+clockwise or counter-clockwise according as A is positive or
+
+negative. We may call the intensity of the vortex-point 2A ,
+
+it is then equal and opposite to the residue of the innity in
+
+question.
+
+Further, bearing in mind the denition in the last section of
+
+a conjugate streaming and the ambiguity of sign attached to it,
+
+we may say: If one of two conjugate streamings has a source of
+
+a certain strength at z = z0, the other has, at the same point,
+
+a vortex-point of equal, or equal and opposite, intensity.
+
+Next, consider algebraic discontinuities. The general char-
+
+acter of the streaming is independent of the nature of the coef-
+
+cient of the rst term of the power-series, be it real, imaginary
+
+or complex. Let
+
+    A1
+w =+ C0+ C1(z z0) + : : : :
+  z z0
+
+To a rst approximation, writing
+
+              i i 
+    z z0= re; A1=  e;
+                                  	
+        
+w C0=cos(   ) + isin(   ):
+      r[sect ii.] introductory remarks.10
+
+
+Let us rst consider the real part on the right. When
+ 
+r is very small,cos(   ) may still, by proper choice of  
+r
+be made to assume any given arbitrary value; the function u
+
+therefore assumes every value in the immediate vicinity of the
+
+discontinuity. For more exact determination, let us, for the
+
+moment, consider r and   as variables and write
+
+     
+        cos(   ) = const:
+    r
+
+We obtain a pencil of circles, all touching the xed line
+
+                     
+            =   +
+                    2
+
+and becoming smaller as the modulus of the constant increases.
+
+Then, in the vicinity of the discontinuity, the curves u = const.
+
+are of a similar description, and, in particular, for very large
+
+positive or negative values of the constant they take the form
+
+of small, closed, simple ovals.
+
+A similar discussion applies to the imaginary part on the
+
+right and hence to the curves v = const., but the line touched
+
+by all the curves in this case is   =  . The following gure, in
+
+which the equipotential curves are, as before, dotted lines and
+
+the stream-lines heavy lines, will now be intelligible.
+
+An analogous discussion gives the requisite graphic rep-
+
+resentation of a  -ple algebraic discontinuity. It is su cient
+
+merely to state the result: Every curve u = const. passes
+
+  times through the discontinuity and touches   xed tan-
+
+gents, intersecting at equal angles. Similarly with the curves[sect ii.] introductory remarks.11
+
+
+
+
+
+
+
+
+
+
+
+
+v = const. For very great positive or negative values of the
+
+constant both systems of curves are closed in the immediate
+
+
+
+
+
+
+
+
+
+
+
+
+vicinity of the discontinuity. For illustration the gure is given
+
+for   = 2.
+
+These higher singularities, as may be surmised, can be de-
+
+rived from those of lower order by proceeding to the limit. I
+
+postpone this discussion, however, to the next section, since a[sect iii.] introductory remarks.12
+
+
+certain class of functions will then easily supply the necessary
+
+examples.
+
+
+x 3. Rational Functions and their Integrals. Innities of
+
+higher Order derived from those of lower Order.
+
+The foregoing sections have enabled us to picture to our-
+
+selves the whole course of such functions as have no innities
+
+other than those we have just considered and are with these
+
+exceptions uniform over the whole plane. These are, as we
+
+know, the rational functions and their integrals. I briey state,
+
+without gures, the theorems respecting the cross-points and
+
+innities of these functions, and, for reasons already stated, I
+
+conne myself to the cases in which z = 1 is not a critical
+
+point. This limitation, as was before pointed out, will after-
+
+wards disappear automatically.
+
+(1) The rational function about to be considered presents
+
+itself in the form
+                 (z)
+          w =;
+ (z)
+
+where   and   are integral functions of the same order which
+
+may be assumed to have no common factor. If this order
+
+is n, and if every algebraic innity is counted as often as its
+
+order requires, we obtain, corresponding to the roots of   =
+
+0, n algebraic discontinuities. The cross-points are given by
+00
+      = 0, an equation of degree 2n 2. The sum of the
+
+orders of the cross-points is then 2n 2, where, however, it
+
+must be noticed that every  -fold root of   = 0 is a (  1)-[sect iii.] introductory remarks.13
+
+
+0
+fold root of  = 0, and hence that every  -fold innity of the
+
+function counts as a (  1)-fold cross-point.
+
+(2) If the integral of a rational function
+              Z
+                 (z)
+        W =dz
+                	(z)
+
+is to be nite at z = 1, the degree of   must be less by two
+
+than that of 	. It is assumed that   and 	 have no com-
+
+mon factor. Then   = 0 gives the free cross-points, i.e. those
+
+which do not coincide with innities. The roots of 	 = 0
+
+give the innities of the integral; and, moreover, to a simple
+
+root of 	 = 0 corresponds a logarithmic innity, to a double
+
+root an innity which is, in general, due to the superposition
+
+of a logarithmic discontinuity and a simple algebraic discon-
+
+tinuity, etc. If then every innity is counted as often as the
+
+order of the corresponding factor in 	 requires, the sum of the
+
+orders of the cross-points is less by two than the sum of the
+
+orders of the innities. We must also draw attention to the
+
+known theorem, that the sum of the logarithmic residues of all
+
+the discontinuities is zero.
+
+The foregoing gives two possible methods for the deriva-
+
+tion of discontinuities of higher order from those of lower or-
+
+der. First|and this is the more important method for our
+
+purpose|we may start from the integrals of rational func-
+
+tions. In this case an algebraic discontinuity of order   makes
+
+its appearance when   + 1 factors of 	 become equal, that is,
+
+when   + 1 logarithmic discontinuities coalesce in the proper
+
+manner. It is clear that the sum of the residues of the latter[sect iii.] introductory remarks.14
+
+
+must be zero, if the resulting innity is to be purely algebraic.
+
+The two following gures, in which only the stream-lines are
+
+drawn, show how to proceed to the limit in the case of the
+
+simple algebraic discontinuity of Fig. 4.
+
+
+
+
+
+
+
+
+
+
+Two di erent processes are here indicated; in the left-hand
+
+gure two sources are about to coalesce, while in the right-
+
+hand gure these are replaced by vortex-points. Fig. 4 is the
+
+resulting limiting position after either process. The two fol-
+
+lowing gures bear the corresponding relation to Fig. 5.
+
+The second possible method is suggested by considering
+         
+the rational functionitself. Logarithmic discontinuities
+ 
+are thereby excluded. The  -fold algebraic discontinuity now
+
+arises from   simple algebraic discontinuities, for   simple lin-
+
+ear factors of   in coalescing form a  -fold factor. But at the
+
+same time a number of cross-points coalesce and the sum of
+            00
+their orders is  1. For     = 0 has, as was pointed out
+
+before, a (  1)-fold factor at the same instant that a  -fold
+
+factor appears in  . The following gure explains the produc-[sect iv.] introductory remarks.15
+
+
+
+
+
+
+
+
+
+
+
+
+tion by this method of the two-fold algebraic discontinuity of
+
+Fig. 5.
+
+
+
+
+
+
+
+
+
+
+It is of course easy to include these two methods of pro-
+
+ceeding to the limit in one common and more general method.
+
+If   +   + 1 logarithmic innities and   cross-points coalesce
+
+successively or simultaneously, a  -fold algebraic discontinuity
+
+will in every case make its appearance. But this is not the
+
+place to enlarge on the idea thus suggested.[sect iv.] introductory remarks.16
+
+
+x 4. Experimental Production of these Streamings.
+
+We now give a di erent direction to our investigations and
+
+consider how to bring about the physical production of those
+
+states of motion which are associated, as we have just seen,
+
+with rational functions and their integrals. Let it be assumed
+
+that the principle of superposition may be freely used, so that
+
+we need only consider the simplest cases. From the theory of
+
+partial fractions it follows that each of the functions in question
+
+can be compounded additively of single parts, which fall under
+
+one of the two following types:
+
+                      A
+    Alog(z z0);:
+                    (z z0) 
+
+But since log(z z0) is discontinuous at z = 1, the rst type
+
+is unnecessarily specialised, and may be replaced by the more
+
+general one
+                z z0
+          Alog;
+                z z1
+
+and this again, as in x 2, may be divided into two parts|viz.:
+                        z z0z z0
+writing A = A + iB, we discuss A logand iB log
+                        z z1z z1
+separately. Hence there are in all three cases to be distin-
+
+guished.
+                            z z0
+(1) Corresponding to the type A loga source of
+                            z z1
+strength 2A  must be produced at z0, and one of strength
+
+2A  at z1. To e ect this, conceive the xy plane to be covered
+
+with an innitely thin, homogeneous conducting lm. Then it[sect iv.] introductory remarks.17
+
+
+is clear that the required state of motion will be produced by
+
+placing the two poles of a galvanic battery of proper strength
+ 
+at z0and z1.The reason that the residue of z0must be equal
+
+and opposite to that of z1is now at once evident: the stream-
+
+ing is to be steady, hence the amount of electricity owing in
+
+at one point must be equal to that owing out at the other.
+
+There is obviously an analogous reason for the corresponding
+
+theorem concerning any number of logarithmic innities, but
+
+applying in the rst place only to the purely imaginary parts
+
+of the respective residues (these being associated with sources
+
+at the innities).
+                          z z0
+(2) In the second case, where iB logis given, the
+                          z z1
+experimental construction is rather more di cult. The sim-
+
+plest arrangement is to join z0to z1by a simple arc of a curve
+
+and make this the seat of a constant electromotive force. A
+
+streaming is then set up in the xy plane with vortex-points
+
+at z0, z1, but otherwise continuous, and from this, by integra-
+
+tion, we obtain as velocity-potential a function whose value is
+
+increased by a certain modulus of periodicity for every circuit
+
+round z0or z1. We must carefully distinguish between this
+
+velocity-potential and the necessarily one-valued electrostatic
+
+potential. The curve joining z0to z1is a curve of disconti-
+
+nuity for the latter, and this very fact makes the electrostatic
+      y
+potential one-valued.
+
+ 
+See Kirchho 's fundamental memoir: \Ueber den Durchgang eines
+elektrischen Stromes durch eine Ebene," Pogg. Ann. t. lxiv. (1845).
+y
+The statements in the text are intimately connected, as we know,[sect iv.] introductory remarks.18
+
+
+I cannot say whether there are any experimental means of
+
+producing this simplest arrangement. It would appear that
+
+we must go to work in a more roundabout way. Let us rst
+
+think of thermo-electric currents. Let the xy plane be cov-
+
+ered, partly with material I, partly with material II, and let
+
+the strength of the lms be so arranged that the conductivity
+
+shall be everywhere the same. If we now contrive that the
+
+two parts of the contour separated by z0and z1may be kept
+
+at constant and di erent temperatures, an electric streaming
+
+of the kind required will be set up. And the electrostatic po-
+
+tential, by the principles of the theory of thermo-electricity,
+
+exhibits discontinuities on both parts of the said contour. It
+
+would apparently be still more complicated to use electric cur-
+
+rents produced by the ordinary galvanic elements. The plane
+
+must then be divided by at least three curves drawn from z0
+
+to z1, and two of these parts must be covered by a metallic
+
+lm, the other by a conducting liquid lm. See Fig. 12.
+
+In all these constructions it is clear, ab initio, that the
+
+vortex-points at z0and z1must have equal and opposite inten-
+
+sities. For similar reasons the total intensity of all the vortex-
+
+points must always be zero, and thus the theorem that the
+
+sum of the logarithmic residues must vanish has been placed
+
+on a physically evident basis as regards the real, as well as the
+
+with the theory of \Doppelbelegungen" for which cf. Helmholtz, Pogg.
+Ann. (1853) t. lxxxix. pp. 224 et seq. (Ueber einige Gesetze der Ver-
+theilung elektrischer Strome in korperlichen Leitern), and C. Neumann's
+treatise Untersuchungen uber das Logarithmische und Newton'sche Po-
+tential (Leipzig, Teubner, 1877).[sect iv.] introductory remarks.19
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+imaginary, parts of these residues.
+
+(3) The states of motion associated with the algebraic types
+A
+can, by the results of x 3, be derived from those just
+(z z0) 
+established, by proceeding to the limit. This is, of course, only
+
+possible to a certain degree of approximation. For example,
+
+let   + 1 wires, connected with the poles of a galvanic battery,
+
+be placed close together on the xy plane. Then a streaming is
+
+set up which at a little distance from the ends of the wires sen-
+
+sibly resembles that associated with an algebraic discontinuity
+
+of multiplicity  . At the same time an additional fact in con-
+
+nection with the above construction is brought to light. The
+
+galvanic battery must be very strong if an electric streaming of
+
+even medium strength is to be originated. This corresponds to
+
+the well-known analytical theorem that the residues of the log-
+
+arithmic innities must increase to an innite degree in order[sect v.] introductory remarks.20
+
+
+that the conjunction of logarithmic discontinuities may lead
+
+to an algebraic discontinuity. No further details need be here
+
+given as it is only necessary for what follows that the general
+
+principles should be grasped by means of Figs. 6{9.
+
+
+x 5. Transition to the Surface of a Sphere. Streamings on
+
+arbitrary curved Surfaces.
+
+To extend the treatment of nite values of z to innitely
+                                 
+great values, the use of the surface of a spherederived from
+
+the xy plane by stereographic projection is now adopted in all
+
+text-books. The simple geometrical relations involved in this
+          y
+representation are known,and we are also perfectly familiar
+
+ 
+Following the example of C. Neumann, Vorlesungen uber Riemann's
+Theorie der Abel'schen Integrale, Leipzig, 1865.|The introduction of the
+                                            z1
+sphere is, so to speak, parallel to the substitution for z of the ratioof
+                                            z2
+two variables, whereby the treatment of innitely great values of z is, as
+we know, formally included in that of the nite values.
+y
+If  ,  ,   are rectangular coordinates, let the equation of the sphere
+be  2+ 2+ (  1)2=1. Project from the point   = 0,   = 0,   = 1, let
+24
+the plane of projection be the xy plane, and the opposite tangent-plane
+the    plane. Then we have
+
+xy1
+  =;   =;   =:
+x2+ y2+ 1x2+ y2+ 1x2+ y2+ 1
+
+If ds is the element of arc on the plane, d  that corresponding to it on
+the sphere, we have
+                ds
+        d  =;
+              x2+ y2+ 1[sect v.] introductory remarks.21
+
+
+with the fact that the innitely distant parts of the plane are
+
+drawn together to one point of the sphere, the point from
+
+which we project, so that it is no longer merely symbolical to
+
+speak of the point z = 1 on the sphere. It appears however to
+
+be a matter of far less general knowledge that by means of this
+
+representation the functions of x+iy acquire a signication on
+
+the sphere exactly analogous to that they had on the plane,
+
+and hence, that in the foregoing sections the sphere may be
+
+substituted everywhere for the plane and that thus, from the
+
+outset, there is no question of exceptional conditions for the
+ 
+value z = 1.The propositions of the theory of surfaces from
+
+which this statement follows are now briey set forth in a form
+
+su ciently general to serve for certain future purposes.
+
+In the study of uid motions parallel to the xy plane we
+
+have already had occasion to assume the lm of uid under
+
+investigation to be innitely thin. The general question of
+
+uid motion on any surface may obviously be similarly re-
+
+garded. An example is a orded by the displacements of uid-
+
+membranes, freely extended in space, over themselves, as may
+
+a formula of great importance hereafter, inasmuch as it indicates the
+conformal character of the representation.
+ 
+In connection with this and with the following discussion compare
+Beltrami, \Delle variabili complesse sopra una supercie qualunque,"
+Ann. di Mat. ser. 2, t. i., pp. 329 et seq.|The particular remark that
+surface-potentials remain such after a conformal transformation is to be
+found in the treatises cited in the preface, by C. Neumann, Kirchho , and
+Topler, as well as e.g. in Haton de la Goupilli ere, \M ethodes de trans-
+formation en G eom etrie et en Physique Math ematique," Journ. de l' Ec.
+Poly. t. xxv. 1867, pp. 169 et seq.[sect v.] introductory remarks.22
+
+
+be particularly well observed in Plateau's experiments.
+
+We shall attempt to dene such states of motion also by a
+
+potential and we shall especially enquire what is the case in
+
+steady motion.
+
+The proper extension of our conception of a potential
+
+presents itself at once. Let u be a function of position on the
+
+surface and let the curves u = const. be drawn; moreover let
+
+the direction of uid-motion on the surface at every point be
+
+perpendicular to the curve u = const. passing through that
+                @u
+point, and let the velocity be, where @n is the element of
+                @n
+arc drawn on the surface normal to the curve. Then u, as in
+
+the plane, is called the velocity-potential.
+
+This streaming, so dened, is now to be steady. To be def-
+
+inite, let us make use on the surface of a system of curvilinear
+
+coordinates p, q, and let the expression for the element of arc
+
+in this system be
+
+  222
+(1)ds= E dp+ 2F dp dq + G dq:
+
+Then by a few simple steps similar throughout to those usually
+
+employed in the plane, we nd that if u is to give rise to
+
+a steady streaming, it must satisfy the following di erential
+
+equation of the second order:
+
+@u@u@u@u
+F GF E
+@q@p@p@q
+@p@p
+  EG F2EG F2
+(2)+= 0:
+  @p@q[sect v.] introductory remarks.23
+
+
+A short discussion in connection with this di erential equa-
+
+tion will now bring out the full analogy with the results for the
+
+plane. From the form of (2) it follows that for every u which
+
+satises (2) another function v can be found having the known
+
+reciprocal relation to u. For, by (2), the following equations
+
+hold simultaneously:
+    8
+                @u@u
+    >
+    >
+              F E
+    >
+    >
+      @v
+                @p@q
+    >
+    >
+              p
+          =;
+    <
+                        2
+      @p
+                EG F
+(3)
+    >@u@u
+    >
+    >
+            G
+                       F
+    >
+    >
+      @v
+                @p@q
+    >
+    :
+              p
+          =;
+        @qEG F2
+
+and they dene v, save as to a necessarily indeterminate con-
+
+stant. But solving (3) we have
+
+    8
+                @v
+                        @v
+    >
+    >
+              F
+                       E
+    >
+    >
+        @u
+                @p@q
+    >
+    >
+              p
+            =;
+    <
+                          2
+        @p
+                  EG F
+(4)
+    >@v@v
+    >
+    >
+              G
+                       F
+    >
+    >
+        @u
+                @p@q
+    >
+    :
+              p
+            =
+                            ;
+        @qEG F2
+
+and hence,
+
+@v@v@v@v
+F GF E
+@q@p@p@q
+@p@p
+  EG F2EG F2
+(5)+= 0;
+  @p@q[sect v.] introductory remarks.24
+
+
+so that, on the one hand, u bears to v the same relation as
+
+v to u, and on the other hand v, as well as u, satises the
+
+partial di erential equation (2). At the same time the geomet-
+
+rical meaning of equations (3) and (4) respectively shows that
+
+the systems of curves u = const., v = const. are in general
+
+orthogonal.
+
+As regards the statement at the beginning of this section
+
+with respect to the stereographic projection of the sphere on
+
+the plane, it follows at once from the fact that the equations
+                                               
+(2){(5) are homogeneous in E, F, G, and of zero dimensions.
+
+If two surfaces can be mapped conformally upon one another,
+
+and if corresponding curvilinear coordinates are employed, the
+
+expression for the element of arc on the one surface di ers
+
+from that on the other only by a factor; but this factor simply
+
+disappears from equations (2){(5) for the reason just assigned.
+
+We have therefore a general theorem, including, as a special
+
+case, the above statement relating to a sphere and a plane.
+
+Forming the combination u+iv from u and v and calling this
+
+a complex function of position on the surface, this theorem
+
+may be stated as follows:
+
+If one surface is conformally mapped upon another, every
+
+complex function of position which exists on the rst is changed
+
+into a function of the same kind on the second.
+
+It may perhaps be as well to obviate a misunderstanding
+
+ 
+This statement can also be easily veried without the use of formul ;
+reference may be made to the works of C. Neumann and of Topler, already
+cited.[sect vi.] introductory remarks.25
+
+
+which might arise at this point. To the same function u + iv
+
+there corresponds a motion of the uid on the one surface and
+
+on the other; it might be imagined that the one arose from the
+
+other by the transformation. This is of course true as regards
+
+the position of the equipotential curves and the stream-lines,
+
+but it is in no wise true of the velocity. Where the element
+
+of arc of one surface is greater than the element of arc of the
+
+other, there the velocity is correspondingly smaller. This is
+
+precisely the reason that the value z = 1 loses its critical
+
+character on the sphere. At innity on the plane, the velocity
+
+of the streaming, as we see at once, is innitely small of the
+
+second order, and if innity is a singular point, still the velocity
+
+there is less by two degrees than the velocity at a similar point
+
+in the nite part of the plane. Now let us refer to the formula
+
+given in the foot-note at the beginning of this section:
+
+                  ds
+      d  =;
+              x2+ y2+ 1
+
+giving the element of arc of the sphere in terms of the element
+          22
+of arc of the plane. Here x+y+1 is a quantity of precisely the
+
+second order and is cancelled in the transition to the sphere.
+
+
+x 6. Connection between the foregoing Theory and the
+
+Functions of a complex Argument.
+
+Since we have now obtained the sphere as basis of oper-
+
+ations, the theorems of xx 3, 4 respecting rational functions
+
+and their integrals must be restated; we hereby gain in gener-
+
+ality, the previously established theorems holding for innitely[sect vi.] introductory remarks.26
+
+
+great values of z and being thus valid with no exceptions. This
+
+makes it the more interesting to trace the course of any par-
+
+ticular rational function on the sphere and to consider means
+             
+for its physical production.But another important question
+
+ 
+A good example of not too elementary a character is the Icosahedron
+equation (cf. Math. Ann., t. xii. pp. 502 et seq.),
+
+                                 
+                                  3
+      (z20+ 1) + 228(z15 z5) 494z10
+w =;
+          1728z5(z10+ 11z5 1)5
+
+which is of the 60th degree in z. The innities of w are coincident by ves
+at each of 12 points which form the vertices of an icosahedron inscribed
+in the sphere on which we represent the values of z. Corresponding to
+the 20 faces of this icosahedron, the sphere is divided into 20 equilateral
+spherical triangles. The middle points of these triangles are given by
+w = 0 and form cross-points of multiplicity two for the function w. Hence
+of the 2   60 2 = 118 cross-points, we already know (including the
+innities) 4   12 + 2   20 = 88.
+
+
+
+
+
+
+
+
+
+
+The remaining 30 are given by the middle points of the 30 sides of those
+20 spherical triangles. The annexed gure is a diagram of one of these
+20 triangles with the stream-lines drawn in; the remaining 19 are similar.[sect vi.] introductory remarks.27
+
+
+suggests itself during these investigations:|the di erent func-
+
+tions of position on the sphere are at the same time functions
+
+of the argument x + iy; whence this connection?
+
+It must rst be noticed that x+iy is itself a complex func-
+
+tion of position on the sphere, for the quantities x and y satisfy
+
+the di erential equations already established in x 1 for u and v;
+
+while working in the plane we may imagine that this function
+
+has an essential advantage over all other functions, but when
+
+the scene of operations is transferred to the sphere there is
+
+no longer any inducement to think so. In fact we are at once
+
+led to a generalisation of the remark which gave rise to this
+
+enquiry. If u + iv and u1+ iv1are both functions of x + iy,
+
+u1+iv1is also a function of u+iv; hence for plane and sphere
+
+we have the general theorem: Of two complex functions of po-
+
+sition, with the usual meaning of this expression in the theory
+
+of functions, each is a function of the other.
+
+But is this a peculiarity of these surfaces alone? It is cer-
+
+tainly transferable to all such surfaces as can be conformally
+
+mapped upon part of a plane or of a sphere; this follows from
+
+the last theorem of the preceding section. But I maintain that
+
+this peculiarity belongs to all surfaces, whereby it is implicitly
+
+stated that a part of any arbitrary surface can be conformally
+
+mapped upon the plane or the sphere.
+
+The proof follows at once, if we take x, y, the real and imag-
+
+inary parts of a complex function of position on a surface, for
+
+curvilinear coordinates on that surface. For then the coe -
+
+cients E, F, G, in the expression for the element of arc, must
+
+be such that equations (2){(5) of the preceding section are[sect vi.] introductory remarks.28
+
+
+identically satised when x and y are substituted for p and q
+
+and also for u and v. This, as we see at a glance, imposes
+
+the conditions F = 0, E = G. But then the equations are
+
+transformed into the well-known ones,
+
+22
+@u@u@u@v@u @v
++= 0;=;=; etc.;
+@x2@y2@x@y@y@x
+
+and these are the equations by which functions of the argument
+
+x + iy are dened; hence u + iv is a function of x + iy, as was
+
+to be shown.
+
+At the same time the statement respecting conformal rep-
+
+resentation is conrmed. For, from the form of the expression
+
+for the element of arc,
+
+        222
+      ds= E (dx+ dy);
+
+it follows at once that the surface can be conformally mapped
+
+upon the xy plane by x + iy. This result may be expressed in
+
+a somewhat more general form, thus:
+
+If two complex functions of position on two surfaces are
+
+known, and the surfaces are so mapped upon one another that
+
+corresponding points give rise to the same values of the func-
+
+tions, the surfaces are conformally mapped upon each other.
+
+This is the converse of the theorem established at the end
+
+of the last section.
+
+These theorems have all, as far as regards arbitrary sur-
+
+faces, a denite meaning only when the attention is conned
+
+to small portions of the surface, within which the complex[sect vii.] introductory remarks.29
+
+
+functions of position have neither innities nor cross-points. I
+
+have therefore spoken provisionally of parts of surfaces only.
+
+But it is natural to enquire concerning the behaviour of these
+
+relations when the whole of any closed surface is taken into
+
+consideration. This is a question which is intimately connected
+
+with the line of argument presently to be developed; xx 19{21
+
+are specially devoted to it.
+
+
+x 7. Streamings on the Sphere resumed. Riemann's general
+
+Problem.
+
+A point has now been reached from which it is possible to
+
+start afresh and to take up the discussion contained in the rst
+
+sections of this introduction in an entirely di erent manner;
+
+this leads us to a general and most important problem, in fact
+
+to Riemann's problem, the exact statement and solution of
+
+which form the real subject-matter of the present pamphlet.
+
+The most important position in the previous presentation
+
+of the subject has been occupied by the function of x + iy;
+
+this has been interpreted by a steady streaming on the sphere,
+
+and characteristics of the function have been recognized in
+
+those of the streaming. Rational functions in particular, and
+
+their integrals have led to one simple class of streamings|
+
+one-valued streamings|in which one streaming only exists
+
+at every point of the sphere. Moreover, subject to the con-
+
+dition that no discontinuities other than those dened in x 2
+
+may present themselves, these are the most general one-valued
+
+streamings possible on a sphere.[sect vii.] introductory remarks.30
+
+
+Now it seems possible, ab initio, to reverse the whole order
+
+of this discussion; to study the streamings in the rst place and
+
+thence to work out the theory of certain analytical functions.
+
+The question as to the most general admissible streamings can
+
+be answered by physical considerations; the experimental con-
+
+structions of x 4 and the principle of superposition giving us,
+
+in fact, means of dening each and every such streaming. The
+
+individual streamings dene, to a constant of integration pr es,
+
+a complex function of position whose variations can be thereby
+
+followed throughout their whole range. Every such function is
+
+an analytical function of every other. From the connection
+
+between any two complex functions of position forms of ana-
+
+lytical dependence are found, considered initially as to their
+
+characteristics and only afterwards identied|to complete the
+
+connection|with the usual form of analytical dependence.
+
+This is all too clear to need a more minute explanation;
+
+let us proceed at once to the proposed generalisation. And
+
+even this, after the previous discussion, is almost self-evident.
+
+All the problems just stated for the sphere may be stated in
+
+exactly the same terms if instead of the sphere any arbitrary
+
+closed surface is given. On this surface one-valued streamings
+
+and hence complex functions of position can be dened and
+
+their properties grasped by means of concrete demonstrations.
+
+The simultaneous consideration of various functions of position
+
+thus changes the results obtained into so many theorems of
+
+ordinary analysis. The fullment of this design constitutes
+
+Riemann's Theory; the chief divisions into which the following
+
+exposition falls have been mentioned incidentally.            PART II.
+
+      Riemann's Theory.
+
+x 8. Classication of closed Surfaces according to the Value
+ 
+of the Integer p.
+
+All closed surfaces which can be conformally represented
+
+upon each other by means of a uniform correspondence, are,
+
+of course, to be regarded as equivalent for our purposes. For
+
+every complex function of position on the one surface will be
+
+changed by this representation into a similar function on the
+
+other surface; hence, the analytical relation which is graphi-
+
+cally expressed by the co-existence of two complex functions on
+
+the one surface is entirely una ected by the transition to the
+
+other surface. For instance, the ellipsoid may be conformally
+
+represented, by virtue of known investigations, on a sphere, in
+
+such a way that each point of the former corresponds to one
+
+and only one point of the latter; this shows us that the ellip-
+
+soid is as suitable for the representation of rational functions
+
+and their integrals as the sphere.
+
+It is of still greater importance to nd an element which
+
+is unchanged, not only by a conformal transformation, but by
+
+ 
+The presentation of the subject in this section di ers occasionally
+from Riemann's, since surfaces with boundaries are not at rst taken into
+account, and thus, instead of cross-cuts from one point on the boundary
+to another, so-called loop-cuts are used (cf. C. Neumann, Vorlesungen
+uber Riemann's Theorie der Abel'schen Integrale, pp. 291 et seq.).[sect viii.] riemann's theory.32
+
+
+                           
+any uniform transformation of the surface.Such an element is
+
+Riemann's p, the number of loop-cuts which can be drawn on a
+
+surface without resolving it into distinct pieces. The simplest
+
+examples will su ce to impress this idea on our minds. For
+
+the sphere, p = 0, since it is divided into two disconnected
+
+regions by any closed curve drawn on its surface. For the
+
+ordinary anchor-ring, p = 1; a cut can be made along one, and
+
+only one, closed curve|though this may have a very arbitrary
+
+form|without resolving the surface into distinct portions.
+
+That it is impossible to represent surfaces having di er-
+
+ent p's upon one another, the correspondence being uniform,
+y
+seems evident.
+
+It is more di cult to prove the converse, that the equality of
+
+the p's is a su cient condition for the possibility of a uniform
+
+correspondence between the two surfaces. For proof of this
+
+ 
+Deformations by means of continuous functions only are considered
+here. Moreover in the arbitrary surfaces of the text certain particular
+occurrences are for the present excluded. It is best to imagine them
+without singular points; branch-points and hence the penetration of one
+sheet by another will be considered later on (x 13). The surfaces must
+not be unifacial, i.e. it must not be possible to pass continuously on the
+surface from one side to the other (cf. however x 23). It is also assumed|
+as is usual when a surface is completely given|that it can be separated
+into simply-connected portions by a nite number of cuts.
+y
+It is not meant, however, that this kind of geometrical certainty
+needs no further investigation; cf. the explanations of G. Cantor (Crelle,
+t. lxxxiv. pp. 242 et seq.). But these investigations are meanwhile
+excluded from consideration in the text, since the principle there insisted
+upon is to base all reasoning ultimately on intuitive relations.[sect viii.] riemann's theory.33
+
+
+important proposition I must here conne myself to references
+ 
+in a foot-note.In consequence of this, when investigating
+
+closed surfaces, we are justied, so long as purely descriptive
+
+general relations are involved, in adopting the simplest possible
+
+type of surface for each p. We shall speak of these as normal
+
+surfaces. For the determination of quantitative properties the
+
+normal surfaces are of course insu cient, but even here they
+
+provide a means of orientation.
+
+Let the normal surface for p = 0 be the sphere, for p = 1,
+
+the anchor-ring. For greater values of p we may imagine a
+
+sphere with p appendages (handles) as in the following gure
+
+for p = 3.
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is, of course, a similar normal surface for p = 1;
+
+ 
+See C. Jordan: \Sur la d eformation des surfaces," Liouville's Jour-
+nal, ser. 2, t. xi. (1866). A few points, which seemed to me to call for
+elucidation, are discussed in Math. Ann., t. vii. p. 549, and t. ix. p. 476.[sect ix.] riemann's theory.34
+
+
+the surfaces being, by hypothesis, not rigid, but capable of
+
+undergoing arbitrary distortions.
+
+On these normal surfaces there must now be assigned cer-
+
+tain cross-cuts which will be needed in the sequel. For the
+
+case p = 0 these do not present themselves. For p = 1, i.e. on
+
+the anchor-ring, they may be taken as a meridian A combined
+
+with a curve of latitude B.
+
+
+
+
+
+
+
+
+
+
+
+
+
+In general 2p cross-cuts will be needed. It will, I think,
+
+be intelligible, with reference to the following gure, to speak
+
+of a meridian and a curve of latitude in connection with each
+
+handle of a normal surface.
+
+We choose the 2p cross-cuts such that there is a meridian
+
+and a curve of latitude to each handle. These cross-cuts will
+
+be denoted in order by A1, A2, : : :, Ap, and B1, B2, : : :, Bp.[sect ix.] riemann's theory.35
+
+
+
+
+
+
+
+
+
+
+
+
+x 9. Preliminary Determination of steady Streamings on
+
+arbitrary Surfaces.
+
+We have now before us the task of dening on arbitrary
+
+(closed) surfaces, the most general, one-valued, steady stream-
+
+ings, having velocity-potentials, and subject to the condition
+                                               
+that no innities are admitted other than those named in x 2.
+
+For this purpose we turn to the normal surfaces of the last
+
+section and once more employ the experimental methods of
+
+the theory of electricity. We imagine the given surface to be
+
+ 
+These innities were rst dened for the plane (or the sphere) only.
+But it is clear how to make the denition apply to arbitrary curved sur-
+faces; the generalisation must be made in such a manner that the original
+innities are restored when the surface and the steady streamings on it
+are mapped by a conformal representation upon the plane. This limita-
+tion in the nature of the innities implies that only a nite number of
+them is possible in the streamings in question, but it must su ce to state
+this as a fact here. Similarly, as I may point out in passing, it follows
+from our premises that only a nite number of cross-points can present
+themselves in the course of these streamings.[sect ix.] riemann's theory.36
+
+
+covered with an innitely thin homogeneous lm of a conduct-
+
+ing material, and we then employ those appliances whose use
+
+we learnt in x 4. Thus we may place the two poles of a gal-
+
+vanic battery at any two points of the surface; a streaming is
+
+then produced having these two points as sources of equal and
+
+opposite strength. Next we may join any two points on the
+
+surface by one or more adjacent but non-intersecting curves
+
+and make these seats of constant electromotive force, bearing
+
+in mind throughout the remarks made in x 4 about the nec-
+
+essary experimental processes for this case. A steady motion
+
+is then obtained, in which the two points are vortex-points of
+
+equal and opposite intensity. Further, we superpose various
+
+forms of motion and nally, when necessary, allow separate
+
+innities to coalesce in the limit in order to produce innities
+
+of higher order. Everything proceeds exactly as on the sphere
+
+and we have the following proposition in any case:
+
+If the innities are limited to those discussed in x 2, and
+
+if moreover the condition that the sum of all the logarithmic
+
+residues must vanish is satised, then there exist on the surface
+
+complex functions of position which become innite at arbi-
+
+trarily assigned points and moreover in an arbitrarily specied
+
+manner and are continuous elsewhere over the whole surface.
+
+But for p > 0 the possibilities are by no means exhausted
+
+by these functions. For there can now be found an experimen-
+
+tal construction which was impossible on the sphere. There are
+
+closed curves on these surfaces along which they may be cut
+
+without being resolved into distinct pieces. There is nothing
+
+to prevent the electricity owing on the surface from one side[sect ix.] riemann's theory.37
+
+
+of such a curve to the other. We have then as much justica-
+
+tion for considering one or more of these consecutive curves as
+
+seats of constant electromotive force as we had in the case of
+
+the curves of x 4 which were drawn from one end to the other.
+
+The streamings so obtained have no discontinuities; they
+
+may be denoted as streamings which are nite everywhere
+
+and the associated complex functions of position as functions
+
+nite everywhere. These functions are necessarily innitely
+
+multiform, for they acquire a real modulus of periodicity, pro-
+
+portional to the assumed electromotive force, as often as the
+                               
+given curve is crossed in the same direction.
+
+We next enquire how many independent streamings there
+
+may be, so dened as nite everywhere. Obviously any two
+
+curves on the surface, seats of equal electromotive forces, are
+
+equivalent for our purpose when by continuous deformation
+
+on the surface one can be brought to coincidence with the
+
+other. If after the process of deformation parts of the curve
+
+are traversed twice in opposite directions, these may be simply
+
+neglected. Consequently it is shown that every closed curve is
+
+equivalent to an integral combination of the cross-cuts Ai, Bi
+
+dened as in the previous section.
+
+For let us trace the course of any closed curve on a normal
+
+ 
+But this is not to imply that any disposition has herewith been made
+of the periodicity of the imaginary part of the function. For if u is given,
+v is completely determined, to an additive constant pr es, by the di er-
+ential equations (1) of p. 1, and hence the moduli of periodicity which
+v may possess at the cross-cuts Ai, Bicannot be arbitrarily assigned.[sect ix.] riemann's theory.38
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+surface;for p = 1 the correctness of the statement follows
+
+immediately; we need but consider an example as given in
+
+the above gures. The curve drawn on the anchor-ring in
+
+Fig. 17 can be brought to coincidence with that in Fig. 18 by
+
+deformation alone; it is thus equivalent to a triple description
+
+of the meridian A (cf. Fig. 15) and a single description of the
+
+curve of latitude B.
+
+Further, let p > 1. Then whenever a curve passes through
+
+one of the handles a portion can be cut o , consisting of de-
+
+formations of an integral combination of the meridians and
+
+corresponding curves of latitude belonging to the handle in
+
+question. When all such portions have been removed there
+
+remains a closed curve, which can either be reduced at once to
+
+ 
+For another proof see C. Jordan, \Des contours trac es sur les sur-
+faces," Liouville's Journal, ser. 2, t. xi. (1866).[sect ix.] riemann's theory.39
+
+
+a single point on the surface|and then has certainly no e ect
+
+on the electric streaming|or it may completely surround one
+
+or more of the handles as in Fig. 19. Fig. 20 shows how such
+
+a curve can be altered by deformation; by continuation of the
+
+process here indicated, it is changed into a curve consisting
+
+
+
+
+
+
+
+
+
+
+
+
+of the inner rim of the handle and one of its meridians, but
+
+every portion is traversed twice in opposite directions. Thus
+
+this curve also contributes nothing to the streaming. This con-
+
+clusion might indeed have been reached before, from the fact
+
+that this curve, herein resembling a curve which reduces to a
+
+point, resolves the surface into distinct portions.
+
+Nothing more is therefore to be gained by the consideration
+
+of arbitrary closed curves than by suitable use of the 2p curves
+
+Ai, Bi. The most general streaming we can produce which is
+
+nite everywhere is obtained by making the 2p cross-cuts seats
+
+of a constant electromotive force. Or, otherwise expressed:[sect x.] riemann's theory.40
+
+
+The most general function we have to construct, which is -
+
+nite everywhere, is the one whose real part has, at the 2p cross-
+
+cuts, arbitrarily assigned moduli of periodicity.
+
+
+x 10. The most general steady Streaming. Proof of the
+
+Impossibility of other Streamings.
+
+If we combine additively the di erent complex functions
+
+of position constructed in the preceding section, we obtain a
+
+function whose arbitrary character we can take in at a glance.
+
+Without explicitly restating the conditions which we assumed
+
+once and for all respecting the innities, we may say that this
+
+function becomes innite in arbitrarily specied ways at arbi-
+
+trarily assigned points, the real part having moreover arbitrar-
+
+ily assigned moduli of periodicity at the 2p cross-cuts.
+
+I now say, that this is the most general function to which a
+
+one-valued streaming on the surface corresponds. For proof we
+
+may reduce this statement to a simpler one. If any complex
+
+function of this kind is given on the surface, we have, by what
+
+precedes, the means of constructing another function, which
+
+becomes innite in the same manner at the same points and
+
+whose real part has at the cross-cuts Ai, Bithe same mod-
+
+uli of periodicity as the real part of the given function. The
+
+di erence of these two functions is a new function, nowhere
+
+innite, whose real part has vanishing moduli of periodicity at
+
+the cross-cuts|this function, of course, again denes a one-
+
+valued streaming. It is obvious we must prove that such a
+
+function does not exist, or rather, that it reduces to a constant[sect x.] riemann's theory.41
+
+
+The proof is not di cult. As regards the strict demonstra-
+
+tion, I conne myself to the remark that it depends on the
+                               
+most general statement of Green's Theorem;the following is
+
+intended to make the impossibility of the existence of such a
+
+function immediately obvious. Even if, on account of its in-
+
+denite form, the argument may possibly not be regarded as
+y
+a rigorous proof,it would still seem protable to examine, by
+
+this method as well, the principles on which that theorem is
+
+based.
+
+Firstly, then, in the particular case p = 0, let us enquire
+
+why a one-valued streaming, nite everywhere, cannot exist on
+
+the sphere. This is most easily shown by tracing the stream-
+
+lines. Since no innities are to arise, a stream-line cannot have
+
+an abrupt termination, as would be the case at a source or at
+
+an algebraic discontinuity. Moreover it must be remembered
+
+that the ow along adjacent stream-lines is necessarily in the
+
+same direction. It is thus seen that only two kinds of non-
+
+terminating stream-lines are possible; either the curve winds
+
+closer and closer round an asymptotic point|but this gives
+
+rise to an innity|or the curve is closed. But if one stream-
+
+line is closed, so is the next. They thus surround a smaller and
+
+smaller part of the surface of the sphere; consequently we are
+
+unavoidably led to a vortex-point, i.e. once more to an innity,
+
+and a streaming nite everywhere is an impossibility. It is
+
+ 
+For this proposition see Beltrami, l.c., p. 354.
+y
+I may remind the reader that Green's theorem itself may be proved
+intuitively; cf. Tait, \On Green's and other allied Theorems," Edin.
+Trans. 1869{70, pp. 69 et seq.[sect x.] riemann's theory.42
+
+
+true that we have here not taken into account the possibilities
+
+involved when cross-points present themselves. But since these
+
+points are always nite in number, as was pointed out above,
+
+there can be but a nite number of stream-lines through them.
+
+Let the sphere be divided by these curves into regions, and in
+
+each individual region apply the foregoing argument, then the
+
+same result will be obtained.
+
+Next, if p > 0, let us again make use of the normal sur-
+
+faces of x 8. By what we have just said, the existence on these
+
+surfaces of one-valued streamings which are nite everywhere,
+
+is due to the presence of the handles. A stream-line cannot be
+
+represented on a normal surface, any more than on a sphere,
+
+by a closed curve which can be reduced to a point. But further,
+
+a curve of the form shown in Fig. 19 is not admissible. For
+
+with this curve there would be associated others of the form
+
+shown in Fig. 20, so that ultimately a curve would be obtained
+
+with its parts described twice in opposite directions. A stream-
+
+line must therefore necessarily wind round one or other of the
+
+handles, that is, it may simply pass once through a handle or
+
+it may wind round it several times along the meridians and
+
+curves of latitude. In all cases then a portion of a stream-line
+
+can be separated from the remainder, equivalent in the sense
+
+of the last section to an integral combination of the appropri-
+
+ate meridians and curves of latitude. Now the value of u, the
+
+real part of the complex function dened by the streaming,
+
+increases constantly along a stream-line. Further, the descrip-
+
+tion of two curves, equivalent in the sense of the last section,
+
+necessarily produces the same increment in u. There exists[sect xi.] riemann's theory.43
+
+
+then a combination of at least one meridian and one curve of
+
+latitude the description of which yields a non-vanishing incre-
+
+ment of u. This is also necessarily true for the meridian or the
+
+curve of latitude alone. But the increment which u receives by
+
+the description of the meridian corresponds to the crossing of
+
+the curve of latitude and vice versa. Hence at one meridian
+
+or curve of latitude, at least, u has a non-vanishing modulus
+
+of periodicity, and a one-valued streaming, nite everywhere,
+
+having all its moduli of periodicity equal to zero, is impossible.
+
+q.e.d.
+
+
+x 11. Illustration of the Streamings by means of Examples.
+
+It would appear advisable to gain, by means of examples,
+
+a clear view of the general course of the streamings thus de-
+
+ned, in order that our propositions may not be mere abstract
+                                               
+statements, but may be connected with concrete illustrations.
+
+This is comparatively easy in the given cases so long as we
+
+conne ourselves to qualitative relations; exact quantitative
+
+determinations would of course require entirely di erent ap-
+
+pliances. For simplicity I conne myself to surfaces with a
+
+plane of symmetry coinciding with the plane of the drawing,
+
+and on these I consider only those streamings for which the
+
+apparent boundary of the surface (i.e. the curve of section of
+
+the surface by the plane of the paper) is either a stream-line
+
+or an equipotential curve. There is a considerable advantage
+
+ 
+Such a means of orientation, it may be presumed, in also of consid-
+erable value for the practical physicist.[sect xi.] riemann's theory.44
+
+
+in this, for the stream-lines need only be drawn for the upper
+
+side of the surface, since on the under side they are identically
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+repeated.
+
+Let us begin with streamings, nite everywhere, on the
+
+anchor-ring p = 1; let a curve of latitude (or several such
+
+curves) be the seat of electromotive force. Then Fig. 21 is ob-
+
+tained in which all the stream-lines are meridians and no cross-
+
+points present themselves; the meridians are there shown as
+
+portions of radii; the arrows give the direction of the streaming
+
+on the upper side, on the lower side the direction is exactly
+
+reversed.
+
+ 
+Drawings similar to these were given in my memoir \Ueber den
+Verlauf der Abel'schen Integrale bei den Curven vierten Grades," Math.
+Ann. t. x., though indeed a somewhat di erent meaning is attached there
+to the Riemann's surfaces, so that in connection with them the term uid-
+motion can only be used in a transferred sense; cf. the remarks in x 18.[sect xi.] riemann's theory.45
+
+
+In the conjugate streaming, the curves of latitude play the
+
+part of the meridians in the rst example; this is shown in the
+
+following drawing:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The direction of motion in this case is the same on the upper
+
+and lower sides.
+
+Let us now deform the anchor-ring, p = 1, by causing two
+
+excrescences to the right of the gure, roughly speaking, to
+
+grow from it, which gradually bend towards each other and
+
+nally coalesce. We then have a surface p = 2 and on it a pair
+
+of conjugate streamings as illustrated by Figures 23 and 24.
+
+Here, as we may see, two cross-points have presented them-
+
+selves on the right (of which of course only one is on the upper
+
+side and therefore visible). An analogous result is obtained
+
+when we study streamings which are nite everywhere on a
+
+surface for which p > 1. In place of further explanations I give[sect xi.] riemann's theory.46
+
+
+
+
+
+
+
+
+
+
+
+
+
+two more gures with four cross-points in each, relating to the
+
+case p = 3.
+
+
+
+
+
+
+
+
+
+
+
+
+These arise, if on all \handles" of the surface the curves
+
+of latitude or the meridians respectively are seats of electro-
+
+motive force. On the two lower handles the directions are the
+
+same, and opposed to that on the upper handle. Of the cross-[sect xi.] riemann's theory.47
+
+
+points, two are at a and b, the third at c, and the fourth at the
+
+corresponding point on the under side. It is di cult to see the
+
+cross-points at a and b (Fig. 25) merely because foreshortening
+
+due to perspective takes place at the boundary of the gure,
+
+and hence both stream-lines which meet at the cross-point ap-
+
+pear to touch the edge. If the streamings on the under side of
+
+the surface (along which the ow is in the opposite direction)
+
+are taken into account, any obscurity of the gure at this point
+
+will disappear.
+
+Let us now return to the anchor-ring, p = 1, and let two
+
+logarithmic discontinuities be given on it. The appropriate
+
+gures are obtained if Figs. 23, 24 are subjected to a process
+
+of deformation, which may also be applied, with interesting
+
+as well as protable results, to more general cases. We draw
+
+together the parts to the left of each gure and stretch out
+
+the parts to the right, so that we obtain, in the rst place, the
+
+following gures:[sect xi.] riemann's theory.48
+
+
+and then we reduce the handle on the left, which has already
+
+become very narrow, until it is merely a curve, when we reject
+
+it altogether. Hence, from the streaming, nite everywhere,
+
+on the surface p = 2, we have obtained on the surface p = 1
+
+a streaming with two logarithmic discontinuities. The gures
+
+are now of this form,
+
+
+
+
+
+
+
+
+
+
+
+
+
+The two cross-points of Figs. 23, 24 remain, m and n are
+
+the two logarithmic discontinuities; and these moreover, in
+
+Fig. 29, are vortex-points of equal and opposite intensity, and,
+
+in Fig. 30, sources of equal and opposite strength. Here, again,
+
+it results from our method of projection that in the second case
+
+all the stream-lines except one seem to touch the boundary at
+
+m and n.
+
+If we nally allow m and n to coalesce, giving rise to a
+
+simple algebraic discontinuity, we obtain the following gures,
+
+in which, as may be perceived, the cross-points retain their[sect xi.] riemann's theory.49
+
+
+original positions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+There is no occasion to multiply these gures, as it is easy
+
+to construct other examples on the same models. But one
+
+more point must be mentioned. The number of cross-points
+
+obviously increases with the p of the surface and with the
+
+number of innities; algebraic innities of multiplicity r may
+
+be counted as r+ 1 logarithmic innities; then, on the sphere,
+
+with   logarithmic innities, the number of proper cross-points
+
+is, in general,   2. Moreover unit increase in p is accompa-
+
+nied, in accordance with our examples, by an increase of two
+
+in the number of cross-points. Hence it may be surmised that
+
+the number of cross-points is, in every case,   + 2p 2. A
+
+strict proof of this theorem, based on the preceding methods,
+                     
+would present no especial di culty;but it would lead us too
+
+ 
+It would seem above all necessary for such a proof to be perfectly[sect xii.] riemann's theory.50
+
+
+far aeld. The only particular case of the theorem of which
+
+use will be subsequently made, is known to hold by the usual
+
+proofs of analysis situs; it deals (x 14) with streamings present-
+
+ing m simple algebraic discontinuities, giving rise therefore to
+
+2m + 2p 2 cross-points.
+
+
+x 12. On the Composition of the most general Function of
+
+Position from single Summands.
+
+The results of x 10 enable us to obtain a more concrete
+
+illustration of the most general complex function of position
+
+existing on a surface by adding together single summands of
+
+the simplest types.
+
+Let us rst consider functions nite everywhere. Let
+
+u1, u2, : : :, u be potentials, nite everywhere. These may be
+
+called linearly dependent if they satisfy a relation
+
+    a1u1+ a2u2+ : : : + a u = A
+
+with constant coe cients. Such a relation leads to correspond-
+
+ing equations for the 2p series of   moduli of periodicity pos-
+
+sessed by u1, u2, : : :, u at the 2p cross-cuts of the surface.
+
+Conversely, by the theorem of x 10, such equations for the
+
+moduli of periodicity would of themselves give rise to a linear
+
+relation in the u's. It then follows that 2p linearly independent
+
+potentials nite everywhere, u1, u2, : : :, u2, can be found in
+                            p
+
+clear about the various possibilities connected with the deformation of a
+given surface into the normal surface, cf. x 8.[sect xii.] riemann's theory.51
+
+
+an indenite number of ways, but from these every other po-
+
+tential, nite everywhere, can be linearly constructed:
+
+  u = a1u1+ : : : : : : + a2u2+ A:
+                      pp
+
+For u1, u2, : : :, u2can e.g. be so chosen that each has
+        p
+a non-vanishing modulus of periodicity at one only of the
+
+2p cross-cuts (where, of course, to each cross-cut, one, and only
+                    P
+one, potential is assigned). And inaiuithe constants aican
+
+be so chosen that this expression has at each cross-cut the same
+                           P
+modulus of periodicity as u. Then uaiuiis a constant
+
+and we have the formula just given.
+
+Passing now from the potentials u to the functions u +
+
+iv, nite everywhere, suppose, for simplicity, that coordinates
+
+x, y, employed on the surface (x 6), are such that u and v are
+
+connected by the equations
+
+    @u@v@u @v
+        =;=:
+    @x@y@y@x
+
+Now let u1be an arbitrary potential, nite everywhere. Con-
+
+struct the corresponding v1; then u1and v1are linearly inde-
+
+pendent. For if between u1and v1there were an equation
+
+        a1u1+ b1v1= const:
+
+with constant coe cients, this would entail the following equa-
+
+tions:
+
+@u1@v1@u1@v1
+a1+ b1= 0; a1+ b1= 0;
+@x@x@y@y[sect xii.] riemann's theory.52
+
+
+whence, by means of the given relations, the following contra-
+
+dictory result would be obtained:
+
+      @u1@u1
+          = 0;= 0:
+      @x@y
+
+Further, let u2be linearly independent of u1, v1. Then we
+
+may take the corresponding v2and obtain the more general
+
+theorem: The four functions u1, u2, v1, v2, are likewise linearly
+
+independent. For from any linear relation
+
+  a1u1+ a2u2+ b1v1+ b2v2= const:;
+
+by means of the relations among the u's and the v's, we should
+
+obtain the following equations:
+
+@u1@v1@u2
+                            22
+(a1a2+ b1b2) (a1b2 a2b1)+ (a+ b)= 0;
+                            22
+  @x@x@x
+@u1@v1@u2
+                            22
+(a1a2+ b1b2) (a1b2 a2b1)+ (a+ b)= 0;
+                            22
+@y@y@y
+
+from which by integration a linear relation among u1, v1, u2
+
+would follow.
+
+Proceeding thus we obtain nally 2p linearly independent
+
+potentials,
+
+u1; v1; u2; v2; : : : : : : ; up; vp;
+
+where each v is associated with the u having the same su x.
+
+Writing u +iv = w and calling the functions w1, w2, : : :, w ,
+
+which are nite everywhere, linearly independent if no relation
+
+  c1w1+ c2w2+ : : : : : : + c w = C[sect xii.] riemann's theory.53
+
+
+exists among them, where c1, : : :, c , C are arbitrary complex
+
+constants, we have at once: The p functions w1, : : :, wp, nite
+
+everywhere, are linearly independent. For if there were a linear
+
+relation we could separate the real and imaginary parts and
+
+thus obtain linear relations among the u's and v's.
+
+But, further, it follows that every arbitrary function, nite
+
+everywhere, can be made up from w1, w2, : : :, wpin the fol-
+
+lowing form:
+
+w = c1w1+ c2w2+ : : : + cpwp+ C:
+
+For by proper choice of the complex constants c1, c2, : : :, cp,
+
+since u1, : : :, up, v1, : : :, vpare linearly independent, we can as-
+
+sign to the real part of the function w dened by this formula,
+
+arbitrary moduli of periodicity at the 2p cross-cuts.
+
+This is the theorem we were to prove in the present section,
+
+in so far as it relates to the construction of functions nite
+
+everywhere. The transition to functions with innities is now
+
+easily e ected.
+
+Let  1,  2, : : :,   be the points at which the function is to
+
+become innite in any specied manner. Introduce an auxil-
+
+iary point   and construct a series of single functions
+
+        F1; F2; : : : ; F ;
+
+each of which becomes innite, and that in the specied man-
+
+ner, at one only of the points  , and in addition has, at  , a
+
+logarithmic discontinuity whose residue is equal and opposite
+
+to the logarithmic residue of the   in question. The sum
+
+        F1+ F2+ : : : + F [sect xiii.] riemann's theory.54
+
+
+is then continuous at  , for the sum of all the residues of the
+
+discontinuities   is known to be zero. Moreover, this sum
+
+only becomes innite at the  's, and there in the specied
+
+manner. It therefore di ers from the required function only by
+
+a function which is nite everywhere. The required function
+
+may thus be written in the form
+
+F1+ F2+ : : : + F + c1w1+ c2w2+ : : : + cpwp+ C;
+
+whereby the theorem in question has been established for the
+
+general case.
+
+This result obviously corresponds to the dismemberment
+
+of complex functions on a sphere considered in x 4, and there
+
+deduced in the usual way from the reduction of rational func-
+
+tions to partial fractions.
+
+
+x 13. On the Multiformity of the Functions. Special Treat-
+
+ment of uniform Functions.
+
+The functions u + iv, under investigation on the surfaces
+
+in question, are in general innitely multiform, for on the one
+
+hand a modulus of periodicity is associated with every loga-
+
+rithmic innity, and on the other hand we have the moduli of
+
+periodicity at the 2p cross-cuts Ai, Bi, whose real parts may
+
+be arbitrarily chosen. I assert that in no other manner can
+
+u + iv become multiform. To prove this we must go back to
+
+the conception of the equivalence of two curves on a given
+
+surface which was brought forward in x 9, primarily for other
+
+purposes. Since the di erential coe cients of u and v (or,[sect xiii.] riemann's theory.55
+
+
+what is the same thing, the components of the velocity of the
+
+corresponding streaming) are one-valued at every point of the
+
+surface, two equivalent closed curves not separated by a loga-
+
+rithmic discontinuity yield the same increment in u, and also
+
+in v. But we found that every closed curve was equivalent to
+
+an integral combination of the cross-cuts Ai, Bi. We further
+
+remarked (x 10) that the description of Aiproduced the same
+
+modulus of periodicity as the crossing of Biit and vice versa.
+
+And from this the above theorem follows by known methods.
+
+It will now be of special interest to consider uniform func-
+
+tions of position; from the foregoing all such functions can be
+
+obtained by admitting only purely algebraical innities and
+
+by causing all the 2p moduli of periodicity at the cross-cuts
+
+Ai, Bito vanish. To simplify the discussion, simple algebraic
+
+discontinuities alone need be considered. For we know from
+
+x 3 that the  -fold algebraic discontinuity can be derived from
+
+the coalescence of   simple ones, in which case, it should be
+
+borne in mind, cross-points are absorbed whose total multi-
+
+plicity is   1. Let m points then be given as the simple
+
+algebraic innities of the required function. We rst construct
+
+any m functions of position Z1, : : :, Zmeach of which has a
+
+simple algebraic innity at one only of the given points but
+
+is otherwise arbitrarily multiform. From these Z's the most
+
+general complex function of position with simple algebraic in-
+
+nities at the given points can be compounded by the last
+
+section in the form
+
+a1Z1+ a2Z2+ : : : + amZm+ c1w1+ c2w2+ : : : + cpwp+ C;[sect xiii.] riemann's theory.56
+
+
+where a1, : : :, amare arbitrary constant coe cients. To make
+
+this function uniform the modulus of periodicity for each of
+
+the 2p cross-cuts must be equated to zero; but these moduli
+
+of periodicity are linearly compounded, by means of the a's
+
+and c's, of the moduli of periodicity of the z's and w's; there
+
+are thus 2p linear homogeneous equations for the m + p con-
+
+stants a and c. Assume that these equations are linearly inde-
+ 
+pendent,this important proposition follows:
+
+Subject to this condition, uniform functions of position
+
+with m arbitrarily assigned simple algebraic discontinuities
+
+exist only if m = p+ 1; and these functions contain mp+ 1
+
+arbitrary constants which enter linearly.
+
+Now let the m innities be moveable, then m new degrees
+
+of freedom are introduced. Moreover it is clear that m arbi-
+
+trary points on the surface can be changed by continuous dis-
+
+placement into m others equally arbitrary. It may therefore
+
+be stated|bearing in mind, however, under what conditions|
+
+that the totality of uniform functions with m simple algebraic
+
+ 
+If they are not so, the consequence will be that the number of uni-
+form functions which are innite at the m given points will be greater
+than that given in the text. The investigations of this possibility, espe-
+cially Roch's (Crelle, t. lxiv.), are well known; cf. also for the algebraical
+formulation, Brill and Nother: \Ueber die algebraischen Functionen und
+ihre Verwendung in der Geometrie," Math. Ann. t. vii. I cannot pursue
+these investigations in the text, although they are easily connected with
+Abel's Theorem as given by Riemann in No. 14 of the Abelian Functions,
+and will merely point out with reference to later developments in the text
+(cf. x 19) that the 2p equations are certainly not linearly independent if
+m surpasses the limit 2p 2.[sect xiii.] riemann's theory.57
+
+
+discontinuities existing on a given surface forms a continuum
+
+of 2m p + 1 dimensions.
+
+Having now proved the existence and ascertained the de-
+
+grees of freedom of the uniform functions, we will, as simply
+
+and directly as possible, enunciate and prove another impor-
+
+tant property that they possess. The number of their inni-
+
+ties m is of far greater import than has yet appeared, for I now
+
+state that the function u+iv assumes any arbitrarily assigned
+
+value u0+ iv0at precisely m points.
+
+To prove this, follow the course of the curves u = u0, v = v0
+
+on the surface. It is clear from x 2 that each of these curves
+
+passes once through every one of the m innities. On the other
+
+hand it follows by the reasoning of x 10 that every circuit of
+
+each of these curves must have at least one innity on it. Hence
+
+the statement is at once proved for very great values of u0, v0;
+
+for it was shewn in x 2 that the corresponding curves u = u0,
+
+v = v0assume in the vicinity of each innity the form of small
+
+circles through these points, which necessarily intersect in one
+
+point other than the discontinuity (which last is hereafter to
+
+be left out of account).
+
+But from this the theorem follows universally, since, by
+
+continuous variation of u0, v0, an intersection of the curves
+
+u = u0, v = v0can never be lost; for, from the foregoing,
+
+this could only occur if several points of intersection were to
+
+coalesce, separating afterwards in diminished numbers. Now
+
+the systems of curves u, v are orthogonal; real points of inter-
+
+section can then only coalesce at cross-points (at which points
+
+coalescence does actually take place); but these cross-points[sect xiv.] riemann's theory.58
+
+
+
+
+
+
+
+
+
+
+
+
+are nite in number and therefore cannot divide the surface
+
+into di erent regions. Thus the possibility of a coalescence
+
+need not be considered and the statement is proved.
+
+It is valuable in what follows to have a clear conception
+
+of the distribution of the values of u + iv near a cross-point.
+
+A careful study of Fig. 1 will su ce for this purpose. For
+
+instance, it will be observed that of the m moveable points of
+
+intersection of the curves u = u0, v = v0,   + 1 coalesce at the
+
+ -fold cross-point.
+
+Considerations similar to those here applied to uniform
+
+functions apply also to multiform functions; I do not enlarge
+
+on them, simply because the limitations of the subject-matter
+
+render them unnecessary; moreover it is only in the very sim-
+
+plest case that a comprehensible result can be obtained. Su ce
+
+it to refer in passing to the fact that a complex function with
+
+more than two incommensurable moduli of periodicity can be
+
+made to approach innitely near every arbitrary value at every
+
+point.[sect xiv.] riemann's theory.59
+
+
+x 14. The ordinary Riemann's Surfaces over the x + iy
+
+Plane.
+
+Instead of considering the distribution of the values of the
+
+function u + iv over the original surface, the process may, so
+
+to speak, be reversed. We may represent the values of the
+
+function|which for this reason is now denoted by x + iy|
+                                       
+in the usual way on the plane (or on the sphere)and we
+
+may study the conformal representation of the original sur-
+
+face which (by x 5) is thus obtained. For simplicity, we again
+
+conne our attention to uniform functions, although the con-
+
+sideration of conformal representation by means of multiform
+                  y
+functions is of particular interest.
+
+A moment's thought shows that we are thus led to the very
+
+surface, many-sheeted, connected by branch-points, extending
+
+over the xy plane, which is commonly known as a Riemann's
+
+surface.
+
+For let m be the number of simple innities of x+iy on the
+
+original surface; then x+iy, as we have seen, takes every value
+
+m times on the given surface. Hence the conformal represen-
+
+tation of the original surface on the x + iy plane covers that
+
+plane, in general, with m sheets. The only exceptional posi-
+
+tions are taken by those values of x+iy for which some of the
+
+ 
+I speak throughout the following discussion of the plane rather than
+of the sphere in order to adhere as far as possible to the usual point of
+view.
+y
+Cf. Riemann's remarks on representation by means of functions
+which are nite everywhere, in No. 12 of his Abelian Functions.[sect xiv.] riemann's theory.60
+
+
+m associated points on the original surface coalesce, positions
+
+therefore which correspond to cross-points. To be perfectly
+
+clear let us once more make use of Fig. 1. It follows from this
+
+gure that the vicinity of a  -fold cross-point can be divided
+
+into   + 1 sectors in such a way that x+iy assumes the same
+
+system of values in each sector. Hence, above the correspond-
+
+ing point of the x + iy plane,   + 1 sheets of the conformal
+
+representation are connected in such a way that in describing
+
+a circuit round the point the variable passes from one sheet to
+
+the next, from this to a third and so on, a (  + 1)-fold circuit
+
+being required to bring it back to the starting-point. But this
+                                   
+is exactly what is usually called a branch-point.The repre-
+
+sentation at this point is of course not conformal; it is easily
+
+shown that the angle between any two curves which meet at
+
+the cross-point on the original surface is multiplied by precisely
+
+  + 1 on the Riemann's surface over the x + iy plane.
+
+But at the same time we recognize the importance of this
+
+many-sheeted surface for the present purpose. All surfaces
+
+which can be derived from one another by a conformal repre-
+
+sentation with a uniform correspondence of points are equiv-
+
+alent for our purposes (x 8). We may therefore adopt the m-
+
+sheeted surface over the plane as the basis of our operations
+
+ 
+In x 11 the number of cross-points of x+iy was stated without proof
+to be 2m+ 2p2. We now see that this statement was a simple inversion
+of the known relation among the number of branch-points (or rather their
+total multiplicity), the number of sheets m, and the p of a many-sheeted
+surface (where p is the maximum number of loop-cuts which can be drawn
+on this many-sheeted surface without resolving it into distinct portions).[sect xiv.] riemann's theory.61
+
+
+instead of the surface hitherto employed, which was supposed
+
+without singularities, anywhere in space. And the di culty
+
+which might be feared owing to the introduction of branch-
+
+points is avoided from the rst; for we consider on the m-
+
+sheeted surface only those streamings whose behaviour near a
+
+branch-point is such that when they are traced on the origi-
+
+nal surface by a reversal of the process, the only singularities
+
+produced are those included in the foregoing discussion. To
+
+this end it is not even necessary to know of a correspond-
+
+ing surface in space; for we are only concerned with ratios in
+
+the immediate vicinity of the branch-points, i.e. with di er-
+                                   
+ential relations to be satised by the streamings.And there
+
+is no longer any reason, in speaking of arbitrarily curved sur-
+
+faces, for postulating them as free from singularities; they may
+
+even consist of several sheets connected by branch-points and
+
+along branch-lines. But whichever of the unlimited number of
+
+equivalent surfaces may be selected as basis, we must distin-
+
+guish between essential properties common to all equivalent
+
+surfaces, and non-essential associated with particular individ-
+
+uals. To the former belongs the integer p; and the \moduli,"
+
+which are discussed more fully in x 18, also belong to them;|
+
+to the latter belong the kind and position of the branch-points
+
+of many-sheeted surfaces. If we take an ideal surface possess-
+
+ing only the essential properties, then the branch-points of a
+
+ 
+For the explicit statement of these relations cf. the usual text-books,
+also in particular C. Neumann: Das Dirichlet'sche Princip in seiner An-
+wendung auf die Riemann'schen Flachen. Leipzig, 1865.[sect xv.] riemann's theory.62
+
+
+many-sheeted surface correspond on this simply to ordinary
+
+points which, generally speaking, are not distinguished from
+
+the other points and which are only noticeable from the fact
+
+that, in the conformal representation leading from the ideal to
+
+the particular surface, they give rise to cross-points.
+
+We have then as a nal result that a greater freedom of
+
+choice has been obtained among the surfaces on which it is
+
+possible to operate and the accidental properties involved by
+
+the consideration of any particular surface can be at once rec-
+
+ognized. Consequently, many-sheeted surfaces over the x +
+
+iy plane are henceforward employed whenever convenient, but
+                                               
+this in no measure detracts from the generality of the results.
+
+
+x 15. The Anchor-ring, p = 1, and the two-sheeted Surface
+
+over the Plane with four Branch-points.
+
+It was possible in the preceding section to make our ex-
+
+planation comparatively brief as a knowledge of the ordinary
+
+Riemann's surface over the plane with its branch-points could
+
+be assumed. But it may nevertheless be useful to illustrate
+
+ 
+The interesting question here arises whether it is always possible
+to transform many-sheeted surfaces, with arbitrary branch-points, by a
+conformal process into surfaces with no singular points. This question
+transcends the limits of the subject under discussion in the text, but
+nevertheless I wish to bring it forward. Even if this transformation is
+impossible in individual cases, still the preceding discussion in the text is
+of importance, in that it led to general ideas by means of the simplest ex-
+amples and thus rendered the treatment of more complicated occurrences
+possible.[sect xv.] riemann's theory.63
+
+
+these results by means of an example. Consider an anchor-
+                          4
+ring, p = 1; on it there exist, by x 13, 1uniform functions
+
+with two innities only; each of these, by the general formula
+
+of x 11, has four cross-points. The anchor-ring can therefore be
+
+mapped in an indenite number of ways upon a two-sheeted
+
+plane surface with four branch-points. With a view to those
+
+readers who are not very familiar with purely intuitive op-
+
+erations, I give explicit formul  for the special case of this
+
+representation which I am about to consider, even though, in
+
+so doing, I partly anticipate the work of the next section.
+
+Imagine the anchor-ring as an ordinary
+
+tore generated by the rotation of a circle
+
+about a non-intersecting axis in its plane.
+
+Let   be the radius of this circle, R the dis-
+
+tance of the centre from the axis,   the polar-
+
+angle.
+
+Take the axis of rotation for axis of Z, the
+
+point O in the gure as origin for a system of
+
+rectangular coordinates, and distinguish the
+
+planes through OZ by means of the angle  
+
+which they make with the positive direction
+
+of the axis of X. Then, for any point on the
+
+anchor-ring, we have,
+
+  8
+      >X = (R  cos ) cos ;
+  <
+(1)Y = (R  cos ) sin ;
+  >
+  :
+      Z =  sin :[sect xv.] riemann's theory.64
+
+
+Hence the element of arc is
+    p
+ds =dX2+ dY2+ dZ2(2)
+    p
+    =(R  cos )2d 2+  2d 2;
+
+or,
+                p
+ds = (R  cos )d 2+ d 2;(3)
+              Z
+                 
+                        d 
+where  ,   are written for  ,.
+                0R  cos 
+By (3) we have a conformal representation of the surface of
+
+the anchor-ring on the    plane. The whole surface is obviously
+                   
+covered once when   and  in (1)each range from   to + .
+
+The conformal representation of the surface of the anchor-ring
+
+therefore covers a rectangle of the plane, as in the following
+
+gure,[sect xv.] riemann's theory.65
+
+
+where p stands for
+        Z
+           
+                  d 
+                        :
+          0R  cos 
+
+To make the relation between the rectangle and the anchor-
+
+ring intuitively clear, imagine the former made of some mate-
+
+rial which is capable of being stretched and let the opposite
+
+edges of the rectangle be brought together without twisting.
+
+Or the anchor-ring may be made of a similar material, and af-
+
+ter cutting along a curve of latitude and a meridian it can be
+
+stretched out over the    plane. Instead of further explanation
+
+I subjoin in a gure the projection of the anchor-ring from the
+
+positive end of the axis of Z upon the xy plane, and in this
+
+gure I have marked the relation to the    plane.[sect xv.] riemann's theory.66
+
+
+The upper surface of the anchor-ring is, of course, alone
+
+visible, the quadrants 3 and 4 on the under side are covered
+
+by 2 and 1 respectively.
+
+Again, let a two-sheeted surface with four branch-points
+1
+z =  1,  be given, where   is real and < 1, and imagine
+ 
+
+
+
+
+
+
+
+
+the two positive half-sheets of the plane to be shaded as in the
+
+gure. Let the branch-lines coincide with the straight lines
+  1 1
+between +1 and, and between 1 andrespectively.
+      
+This two-sheeted surface is known to represent the branching
+p
+222
+of w =(1 z)   (1  z) and by proper choice of branch-
+
+lines we can arrange that the real part of w shall be positive
+
+throughout the upper sheet. Now consider the integral
+
+              Z
+                  z
+                  dz
+          W =:
+                0w
+
+This also, as is well-known, gives a representation of the
+
+two-sheeted surface upon a rectangle, the relation between the
+
+two being given in detail in the following gure, where the
+
+shading and other divisions of Fig. 37 are reproduced. To the[sect xv.] riemann's theory.67
+
+
+
+
+
+
+
+
+
+
+
+
+
+upper sheet of Fig. 37 corresponds the left side of this gure.
+
+The representation near the branch-points of the two-sheeted
+
+surface should be specially noticed.
+
+It would perhaps be simplest to proceed rst from Fig. 37
+
+by stereographic projection to a doubly-covered sphere with
+
+four branch-points on a meridian|then to cut this surface
+
+along the meridian into four hemispheres, which by proper
+
+bending and stretching in the vicinity of the branch-points are
+
+then to be changed into plane rectangles|and lastly to place
+
+these four rectangles, in accordance with the relation among
+
+the four hemispheres, side by side as in Fig. 38. Moreover
+
+it is thus made evident that in Fig. 38 to one and the same
+
+point on the original surface correspond exactly two (associ-
+
+ated) points on the edge. And now to arrive at the required
+
+relation between the anchor-ring and the two-sheeted surface
+
+we have only to ensure by proper choice of   that the rectangle
+
+of Fig. 38 shall be similar to that of Fig. 35. A proportional[sect xv.] riemann's theory.68
+
+
+magnication of the one rectangle (which again is e ected by
+
+a conformal deformation) will then make it exactly cover the
+
+other and the result is a uniform conformal representation of
+
+the two-sheeted surface upon the anchor-ring or vice versa.
+
+Here again it is su cient to give a gure corresponding ex-
+
+actly to Fig. 36. The shading in this gure is conned to the
+
+
+
+
+
+
+
+
+
+
+
+
+
+upper part of the anchor-ring; on the remainder, the lower half
+
+should be shaded while the upper half is blank.
+
+The required conformal representation has thus been actu-
+
+ally e ected. Now, conversely, we will determine on the surface
+
+of the anchor-ring the streamings by means of which (accord-
+
+ing to x 14) the representation is brought about. There are
+      1
+cross-points at  1,  , and algebraic innities of unit multi-
+       
+plicity at the two points at 1. The equipotential curves and
+
+the stream-lines are most easily found by using the rectangle[sect xv.] riemann's theory.69
+
+
+as an intermediate gure. The curves x = const., y = const.
+
+of the z-plane, Fig. 37, obviously correspond on the rectangle
+
+of Fig. 38 to those shown in Fig. 40 and Fig. 41. The arrows
+
+are conned to the curves y = const. to distinguish them as
+
+stream-lines.
+
+
+
+
+
+
+
+
+
+
+We have now only to treat these gures in the manner
+
+described for Fig. 35 and we obtain an anchor-ring and the
+
+required system of curves on its surface. The result is the
+
+following.[sect xvi.] riemann's theory.70
+
+
+In Fig. 42, by reason of the method of projection, the four
+
+cross-points of the streaming appear as points of contact of the
+
+equipotential curves with the apparent rim of the anchor-ring.
+
+
+x 16. Functions of x+iy which correspond to the Stream-
+
+ings already investigated.
+
+Let x + iy, as in x 14, be a uniform complex function of
+
+position on the surface, with m simple algebraic innities; let
+
+us transform the surface by the methods there given into an m-
+                       
+sheeted surface over the x+iy planeand let us then ask into
+
+what functions of the argument x + iy the complex functions
+
+of position we have hitherto investigated have been changed?
+
+The results of x 6 should here be borne in mind.
+
+First, let w be a complex function of position which, like x+
+
+iy, is uniform on the surface. From the assumptions respecting
+
+the innities of the functions, and particularly those of uniform
+
+functions, it follows at once that w, as a function of x+iy, has
+
+no essential singularity. Again, w, on the m-sheeted surface as
+
+on the original surface, is uniform. Hence it follows by known
+
+propositions that w is an algebraic function of z.
+
+We have here not excluded the possibility of the m values
+
+of w which correspond to the same z coinciding everywhere
+
+  at a time (where   must of course be a divisor of m). But
+
+it must be possible to choose functions w such that this may
+
+not be the case. We have already (x 13) determined uniform
+
+ 
+This geometrical transformation is of course not essential; it merely
+preserves the connection with the usual presentations of the subject.[sect xvi.] riemann's theory.71
+
+
+functions with arbitrarily assigned innities; thus, to avoid the
+
+above contingency, we need only choose the innities of w in
+
+such a way that no   of them lead to the same z. Then we
+
+have:
+
+The irreducible equation between w and z
+
+          f(w; z) = 0
+
+is of the mth degree in w.
+
+Similarly, it will be of the nth degree in z, if n is the sum
+
+of the orders of the innities of w.
+
+But the connection between the equation f = 0 and the
+
+surface is still closer than is shown by the mere agreement of
+
+the degree with the number of the sheets. To every point of the
+
+surface there belongs only one pair of values w, z, which satisfy
+
+the equation; and conversely, to every such pair of values there
+     
+belongs, in general,only one point of the surface. Equation
+
+and surface are, so to speak, connected by a uniform relation.
+
+Now let w1be another uniform function on the surface; it
+
+is therefore certainly an algebraic function of z. Then, when
+
+once the equation f(w; z) = 0 has been formed, with the above
+
+assumption, the character of this algebraic function can be ex-
+
+pressed in half a dozen words. For it can be shown that w1is
+
+a rational function of w and z, and, conversely, that every
+
+rational function of w and z is a function with the character-
+
+istics of w1. This last is self-evident. For a rational function
+
+ 
+In special cases this may not be so. If we regard w, z, as coordinates
+and interpret the equation between them by a curve, the double-points
+of this curve, as we know, correspond to these exceptional cases.[sect xvi.] riemann's theory.72
+
+
+of w and z is uniform on the surface; moreover, as an ana-
+
+lytical function of z, it is a complex function of position on
+
+the surface. The rst part is easily proved. Let the m values
+                              (1)(2)(m)
+of w belonging to a special value of z be w, w, : : :, w
+( )
+(in general, w) and the corresponding values of w1(which
+                  (1)(2)(m)
+are not all necessarily distinct) w, w, : : :, w. Then the
+                  111
+sum,
+(1)(1) (2)(2) (m)(m) 
+ww+ ww+ : : : + ww
+111
+
+(where   is an arbitrary integer, positive or negative), being
+                              ( ) 
+                                  ( )
+a symmetric function of the various values ww, is a uni-
+                              1
+form function of z, and therefore, being an algebraic function,
+
+is a rational function of z. From any m of such equations
+
+        (1)(2)(m)
+      w; w; : : : ; w;
+      111
+
+being linearly involved, can be found, and it can easily be
+    ( )
+shown that each wis, as it should be, a rational function of
+  1
+      ( )
+the corresponding wand of z.
+
+With the help of this proposition we can at once deter-
+
+mine the character of those functions of z which arise from
+
+the multiform functions of position of which we have been
+
+treating. Let W be such a function. Then W must certainly
+
+be an analytical function of z; we may therefore speak of a
+        dW
+di erential coe cient, and this again is a complex func-
+        dz
+tion of position on the surface. Qu a function of position it is
+
+necessarily uniform; for the multiformity of W is conned to
+
+constant moduli of periodicity, any multiples of which may be[sect xvi.] riemann's theory.73
+
+
+                                    dW
+additively associated with the initial value. Henceis, by
+                                      dz
+what has just been proved, a rational function of w and z, and
+
+W is therefore the integral of such a function, viz.:
+            R
+        W =R(w; z)dz:
+
+The converse proposition, that every such integral gives
+
+rise to a complex function of position on the surface belonging
+
+to the class of functions hitherto discussed, is self-evident on
+
+the grounds of a known argument which considers, on the one
+
+hand, the innities of the integrals, on the other, the changes
+
+in the values of the integrals caused by alterations in the path
+
+of integration. It is not necessary to discuss this here at greater
+
+length.
+
+We have now arrived at a well-dened result. Having once
+
+determined the algebraical equation which denes the relation
+
+between z and w, where w is highly arbitrary, all other func-
+
+tions of position are given in kind; they are co-extensive in
+
+their totality with the rational functions of w and z and the
+
+integrals of such functions.
+
+A convenient example is the repeatedly considered case of
+
+the anchor-ring, p = 1, with, for z and w, the functions dis-
+
+cussed in the last section, the function z being the one il-
+
+lustrated by Figs. 42, 43. The equation between these being
+
+simply
+    2222
+    w= (1 z)   (1  z);
+R
+the integralsR(w; z)dz are those generally known as elliptic
+
+integrals. Among them, by x 12, there is one single integral,[sect xvii.] riemann's theory.74
+
+
+\nite everywhere." From the representation given in Fig. 38
+                    Z
+                      dz
+it follows that this is no other thanthere considered, the
+                        w
+so-called integral of the rst kind. The equipotential curves
+
+and stream-lines are shown in Figs. 21, 22. But the functions
+
+corresponding to Figs. 29, 30 and to Figs. 31, 32 are also famil-
+
+iar in ordinary analysis. In one case we have a function with
+
+two logarithmic discontinuities, in the other case one with one
+
+algebraic discontinuity. Regarded as functions of z these are
+
+the elliptic integrals usually called integrals of the third kind,
+
+and integrals of the second kind respectively.
+
+
+x 17. Scope and Signicance of the previous Investigations.
+
+The last section has actually accomplished the solution of
+
+the general problem indicated in x 7. The most general of the
+
+complex functions of position here treated of have been de-
+
+termined on an arbitrary surface, and the analytical relations
+
+among these have been dened by observation of the fact that
+
+all are dependent, in the sense of ordinary analysis, on a single,
+
+uniform, but otherwise arbitrarily chosen function of position.
+
+To complete the discussion, therefore, a synoptic review of the
+
+subject alone is wanting, to ascertain the total result of the
+
+investigation. We have obtained, though not the whole con-
+
+tent, yet at least the principles of Riemann's theory, and for
+
+further deductions Riemann's original work as well as other
+
+presentations of the theory may be referred to.
+
+First, to establish that these investigations do actually[sect xvii.] riemann's theory.75
+
+
+comprehend the totality of algebraic functions and their inte-
+
+grals. For if any algebraical equation f(w; z) = 0 is given, we
+
+can construct, as usual, the proper many-sheeted surface over
+
+the z-plane, and on this we can then study the one-valued
+
+streamings and complex functions of position (cf. x 15).
+
+We then enquire, is the knowledge of these functions really
+
+furthered by these investigations? In this connection we must
+
+remember that it was chiey the multiplicity of value of the in-
+
+tegrals which for so long hindered any advance in their theory.
+
+That integrals acquire a multiplicity of value when logarith-
+
+mic discontinuities make their appearance had been already
+
+observed by Cauchy. But it was only through Riemann's sur-
+
+faces that the other kind of periodicity was clearly brought to
+
+light,|that, namely, which has its origin in the connectivity of
+
+the surface, and is measured along the cross-cuts of that sur-
+
+face. Another point is this:|transformation by substitutions
+
+had long been employed in the examination of integrals, but
+
+without much more result than their mere empirical evalua-
+
+tion. In Riemann's theory an extensive class of substitutions
+
+presents itself automatically, and is to be critically examined
+
+in operation. The variables w, z, are merely any two indepen-
+
+dent, uniform functions of position; any other two, w1, z1, can
+
+be equally well assumed as fundamental, whereby w1, z1prove
+
+to be any rational, but otherwise arbitrary functions of w, z,
+
+and these in their turn to be rational functions of w1, z1. The
+
+Riemann's surface is not necessarily a ected by this change.
+
+Hence among the numerous accidental properties of the func-
+
+tions, we distinguish certain essential ones which are unaltered[sect xviii.] riemann's theory.76
+
+
+by uniform transformations. And in the number p especially
+
+such an invariantive element presents itself from the outset.
+
+Thus Riemann's theory, avoiding these two di culties which
+
+had hampered former investigations, proceeds at once to de-
+
+termine in what way the functions in question are arbitrary.
+
+This was accomplished in x 10 by the proposition: the inni-
+
+ties of the functions (with the restrictions we have assumed
+
+throughout) and the moduli of periodicity of its real part at the
+
+cross-cuts, are arbitrary and su cient data for the determina-
+
+tion of the function.
+
+This fairly represents the advantage gained by this treat-
+
+ment if, with most mathematicians, we place the interests of
+
+the theory of functions foremost. But it must be borne in
+
+mind that the opposite point of view is as fundamentally jus-
+
+tiable. The knowledge of one-valued streamings on given
+
+surfaces may with good reason be regarded as an end in it-
+
+self, since in numerous physical problems it leads directly to a
+
+solution. Among the innite possible varieties of these stream-
+
+ings Riemann's theory is a valuable guide for it indicates the
+
+connection between the streamings and the algebraic functions
+
+of analysis.
+
+Finally, we may bring forward the geometrical side of the
+
+subject and consider Riemann's theory as a means of making
+
+the theory of the conformal representation of one closed surface
+
+upon another accessible to analytical treatment. The third
+
+part of this pamphlet is devoted to this view of the subject; it
+
+is unnecessary to dwell on it at present at greater length.[sect xviii.] riemann's theory.77
+
+
+x 18. Extension of the Theory.
+
+In Riemann's own train of thought, as I have here at-
+
+tempted to show, the Riemann's surface not only provides an
+
+intuitive illustration of the functions in question, but it ac-
+
+tually denes them. It seems possible to separate these two
+
+parts, to take the denition of the function from elsewhere and
+
+to retain the surface only as a means of intuitive illustration.
+
+This is, in fact, what has been done by most mathematicians,
+
+the more readily that Riemann's denition of a function in-
+               
+volves considerable di cultieswhen subjected to more exact
+
+scrutiny. They therefore usually begin with the algebraical
+
+equation and the denition of the integral and then construct
+
+the appropriate Riemann's surface.
+
+But this method produces ipso facto a considerable gen-
+
+eralisation of the original conception. Hitherto, two surfaces
+
+were only held to be equivalent when one could be derived
+
+from the other by a conformal representation with a uniform
+
+correspondence of points. Now there is no longer any reason
+
+for retaining the conformal character of the representation.
+
+Every surface which by a continuous uniform transformation
+
+can be changed into the given surface, in fact any geometrical
+
+conguration whose elements can be projected upon the origi-
+
+nal surface by a continuous uniform projection, serves equally
+
+well to give a graphic representation of the functions in ques-
+
+tion. I have, in former papers, followed out this idea in two
+
+di erent ways, to which I should like to refer.
+
+ 
+Cf. the remarks on this subject in the Preface.[sect xviii.] riemann's theory.78
+
+
+On one occasion I used the conception of a normal surface
+
+(cf. x 8) which, although representative, was open to various
+
+modications, and on this I attempted to illustrate the course
+                                           
+of the functions in question by various graphical means.The
+                              y
+nets of polygons which I have repeatedly usedfall also under
+
+this head; these I constructed by means of an appropriate dis-
+
+section of the Riemann's surface afterwards spread out over
+
+the plane. It need not here be discussed whether these gures,
+
+which in the rst place are susceptible of continuous deforma-
+
+tion, may not hereafter, for the sake of further investigations in
+
+the theory of functions, be restricted by a law of form whereby
+
+it may be possible to dene the functions graphically repre-
+
+sented by each gure.
+          z
+On another occasionI undertook to bring out as intu-
+
+itively as possible the connection between the conceptions of
+
+the theory of functions and those of ordinary analytical geom-
+
+etry, in which last an equation in two variables means a curve.
+
+Starting from the proposition that every imaginary straight
+
+line on the plane, and therefore also every imaginary tangent
+
+to a curve, has one and only one real point, I obtained a Rie-
+
+mann's surface depending essentially on the course of the curve
+
+ 
+Cf. my papers on Elliptic Modular-functions in Math. Ann., t. xiv.,
+xv., xvii.
+y
+Cf. especially the diagrams in Math. Ann., t. xiv. (\Zur Trans-
+formation siebenter Ordnung der elliptischen Functionen"), and Dyck's
+paper, to be cited presently, ib., t. xvii.
+z
+\Ueber eine neue Art Riemann'scher Flachen," Math. Ann.,
+t. vii., x.[sect xviii.] riemann's theory.79
+
+
+at every point. These surfaces I have hitherto employed, fol-
+
+lowing my original purpose, only to illustrate intuitively the
+                       
+behaviour of certain simple integrals.But a remark similar
+
+to that on the nets of polygons may here be made. In so far
+
+as the surface is subjected to a law of form, it must be possi-
+
+ble to use it as a denition of the functions which exist on it.
+
+And it is actually possible to form a partial di erential equa-
+
+tion for these functions somewhat analogous to the di erential
+
+equation of the second order considered in xx 1 and 5; except
+
+that the di erential expression on which this equation depends
+
+cannot be directly interpreted by the element of arc.
+
+These few remarks must su ce to indicate developments
+
+which appear to me worthy of consideration.
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+See Harnack (\Ueber die Verwerthung der elliptischen Functionen
+fur die Geometrie der Curven dritten Grades"), Math. Ann., t. ix.; and
+my paper referred to above, \Ueber den Verlauf der Abel'schen Integrale
+bei den Curven vierten Grades," Math. Ann., t. x.          PART III.
+
+          Conclusions.
+
+x 19. On the Moduli of Algebraical Equations.
+
+In one important point, Riemann's theory of algebraic
+
+functions surpasses in results as well as in methods the usual
+
+presentations of this theory. It tells us that, given graphi-
+
+cally a many-sheeted surface over the z plane, it is possible
+
+to construct associated algebraic functions, where it must be
+
+observed that these functions if they exist at all are of a
+
+highly arbitrary character, R(w; z) having in general the same
+
+branchings as w. This theorem is the more remarkable, in that
+
+it implies a statement about an interesting equation of higher
+
+order. For if the branch-points of an m-sheeted surface are
+
+given, there is a nite number of essentially di erent possible
+
+ways of arranging these among the sheets; this number can
+
+be found by considerations belonging entirely to pure anal-
+ 
+ysis situs.But, by the above proposition this number has
+
+its algebraical meaning. Let us with Riemann speak of all
+
+algebraic functions of z as belonging to the same class when
+
+by means of z they can be rationally expressed in terms of
+                            y
+one another. Then the number in questionis the number of
+
+ 
+This number has been determined by Herr Kasten, for instance, in
+his Inaugural Dissertation: Zur Theorie der dreiblattrigen Riemann'schen
+Flache. Bremen, 1876.
+y
+If I may be allowed to refer once more to my own writings, let me
+do so with respect to a passage in Math. Ann., t. xii. (p. 173), which[sect xix.] conclusions.81
+
+
+di erent classes of algebraic functions which, with respect to z,
+
+have the given branch-values.
+
+In the present and following sections various consequences
+
+are drawn from this preliminary proposition and among these
+
+we may consider in the rst place the question of the moduli
+
+of the algebraic functions, i.e. of those constants which play
+
+the part of the invariants in a uniform transformation of the
+
+equation f(w; z) = 0.
+
+For this purpose let   be a number initially unknown, ex-
+
+pressing the number of degrees of freedom in any one-one
+
+transformation of a surface into itself, i.e. in a conformal rep-
+
+resentation of the surface upon itself. Then let us recall the
+
+number of available constants in uniform functions on given
+                                        2mp+1
+surfaces (x 13). We found that there were in general 1
+
+uniform functions with m innities and that this, as we stated
+
+without proof, is the exact number when m > 2p2. Now each
+
+of these functions maps the given surface by a uniform trans-
+
+formation upon an m-sheeted surface over the plane. Hence
+
+the totality of the m-sheeted surfaces upon which a given sur-
+
+face can be conformally mapped by a uniform transformation,
+
+and therefore also the number of m-sheeted surfaces with which
+                                  2mp+1 
+an equation f(w; z) = 0 can be associated, is 1; for
+ 
+1representations give the same m-sheeted surface, by hy-
+
+pothesis.
+
+establishes the result that certain rational functions are fully determined
+by the number of their branchings, and again to ib., t. xv., p. 533, where
+a detailed discussion shows that there are ten rational functions of the
+eleventh degree with certain branch-points.[sect xix.] conclusions.82
+
+
+          w
+But there are in all 1m-sheeted surfaces, where w is the
+
+number of branch-points, i.e. 2m+ 2p2. For, as we observed
+
+above, the surface is given by the branch-points to within a -
+
+nite number of degrees of freedom, and branch-points of higher
+
+multiplicity arise from coalescence of simple branch-points as
+
+we have already explained in connection with the correspond-
+
+ing cross-points in x 1 (cf. Figs. 2, 3). With each of these
+
+surfaces there are, as we know, algebraic functions associated.
+
+The number of moduli is therefore
+
+w (2m + 1 p  ) = 3p 3 +  :
+
+It should be noticed here that the totality of m-sheeted sur-
+                                 
+faces with w branch-points form a continuum,corresponding
+
+to the same fact, pointed out in x 13 with respect to uniform
+
+functions with m innities on a given surface. Hence we con-
+
+clude that all algebraical equations with a given p form a single
+
+continuous manifoldness, in which all equations derivable from
+
+one another by a uniform transformation constitute an indi-
+
+vidual element. Thus, for the rst time, a precise meaning
+
+attaches itself to the number of the moduli; it determines the
+
+dimensions of this continuous manifoldness.
+
+The number   has still to be determined and this is done
+
+by means of the following propositions.
+
+1. Every equation for which p = 0 can by means of a one-
+                          3
+one relation be transformed into itself 1times. For on the
+
+ 
+This follows e.g. from the theorems of Luroth and of Clebsch, Math.
+Ann., t. iv., v.[sect xix.] conclusions.83
+
+
+corresponding Riemann's surface uniform functions with one
+
+innity only are triply innite in number (x 13), and in order
+
+that the transformation of the surface into itself may be uni-
+
+form, it is su cient to make any two of these correspond to
+
+each other. Or the proof may be more fully given as follows.
+
+If one function is called z, all the rest are (by x 16) algebraic
+
+and uniform, i.e. rational functions of z, and since the relation
+
+must be reciprocal, linear functions of z. Conversely every
+
+linear function of z is a uniform function of position on the
+
+surface having one innity only. Hence the most general uni-
+
+form transformation of the equation into itself is obtained by
+
+transforming every point of the Riemann's surface by means
+
+of the formula
+                 z + 
+          z1=;
+              z +  
+
+  :  :  :   being arbitrary.
+
+2. Every equation for which p = 1 can be transformed into
+
+itself in a singly innite number of ways. For proof consider
+
+the integral W nite over the whole surface, and in particular
+
+the representation upon the W-plane of the Riemann's surface
+
+when properly dissected. This has already been done in a
+
+particular case (x 15, Fig. 38) and a minute investigation of the
+
+general case is hardly necessary as the considerations involved
+
+are usually fully worked out in the theory of elliptic functions.
+
+The result is that to every value of W belongs one and only
+
+one point of the Riemann's surface, while the innitely many
+
+values of W corresponding to the same point of the Riemann's
+
+surface can be constructed from one of these values in the form[sect xix.] conclusions.84
+
+
+W + m1!1+ m2!2, where m1, m2are any integers and !1, !2
+
+are the periods of the integral. For a uniform deformation a
+
+point W1must be associated with each point W in such a way
+
+that every increase of W by a period gives rise to a similar
+
+increase of W1and vice versa. This is certainly possible, but
+
+in general only by writing W1=  W + C; in special cases
+                !1
+(when the ratio of the periodspossesses certain properties
+                !2
+belonging to the theory of numbers) W1may also =  iW +C
+                           
+or   W+C (  being a third root of unity).However that may
+
+be we have in each case in the formul  of transformation only
+
+one arbitrary constant and hence corresponding to its di erent
+
+values we have a singly innite number of transformations, as
+
+stated above.
+
+3. Equations for which p > 1 cannot be changed into them-
+                      y
+selves in an innite number of ways.For the analytical proof
+
+of this statement I refer to Schwarz (Crelle, t. lxxxvii.) and
+
+to Hettner (Gott. Nachr., 1880, p. 386). By intuitive methods
+
+the correctness of the statement may be shown as follows. If
+
+there were an innite number of uniform transformations of
+
+the equation into itself, it would be possible to displace the
+
+Riemann's surface continuously over itself in such a way that
+
+ 
+This result, which is well known from the theory of elliptic functions,
+is stated in the text without proof.
+y
+This theorem refers to a continuous group of transformations, those
+with arbitrarily variable parameters. It is not discussed in the text
+whether, under certain circumstances, a surface for which p > 1 may
+not be transformed into itself by an innite number of discrete transfor-
+mations; though when p is nite in value this also seems to be impossible.[sect xix.] conclusions.85
+
+
+every smallest part should remain similar to itself. The curves
+
+of displacement must plainly cover the surface completely and
+
+at the same time simply; there can be no cross-point in this
+
+system, for such a point would have to be regarded as a station-
+
+ary point in order to avoid multiformity in the transformation
+
+and the rate of displacement would there necessarily be zero.
+
+But then an innitesimal element of surface approaching the
+
+cross-point in the course of the displacement would necessarily
+
+be compressed in the direction of motion and perpendicular to
+
+that direction it would be stretched; it could therefore not re-
+
+main similar to itself, contrary to the conception of conformal
+
+representation. But on the other hand all systems of curves
+
+covering a surface for which p > 1 completely and simply must
+
+have cross-points; this is the proposition proved in somewhat
+
+less general form in x 11. The continuous displacement of the
+
+surface over itself is thus impossible, as was to be proved.
+
+By these propositions,   = 3 for p = 0,   = 1 for p = 1,
+
+and for all greater values of p,   = 0. The number of moduli is
+
+therefore, for p = 0 zero, for p = 1 one, and for p > 1 3p 3.
+
+It may be worth while to add the following remarks. To
+
+determine a point in a space of 3p 3 dimensions we do not
+
+generally conne ourselves to 3p3 coordinates; more are em-
+
+ployed connected by algebraical, or transcendental relations.
+
+But moreover it is occasionally convenient to introduce pa-
+
+rameters, of which di erent series denote the same point of
+
+the manifoldness. The relations which then hold among the
+
+3p 3 moduli necessarily existing for p > 1 have been but
+
+little investigated. On the other hand the theory of elliptic[sect xx.] conclusions.86
+
+
+functions has given us an exact knowledge of the subject for
+
+the case p = 1. I mention the results for this case in order
+
+to be able to express myself precisely and yet briey in what
+
+follows. Above all let me point out that for p = 1 the al-
+
+gebraical element (to use the expression employed above) is
+
+actually distinguished by one and only one quantity: the abso-
+      2
+    g
+      2 
+lute invariant J =.Whenever, in what follows, it is said
+     
+that in order to transform two equations for which p = 1 into
+
+each other it is not only su cient but also necessary that the
+
+moduli should be equal, the invariant J is always meant. In
+                                      2
+its place, as we know, it is usual to put Legendre's  , which,
+
+given J, is six-valued, so that by its use a certain clumsiness
+
+in the formulation of general propositions is inevitable. And
+                              !1
+it is even worse if the ratio of the periodsof the elliptic
+                              !2
+integral of the rst kind is taken for the modulus, though this
+
+is convenient in other ways; for an innite number of values of
+
+the modulus then denote the same algebraical element.
+
+
+x 20. Conformed Representation of closed Surfaces upon
+
+themselves.
+
+In accordance with our original plan we now develop the
+
+geometrical side of the subject, in order to obtain at least the
+
+foundations of the theory of conformal representation of sur-
+
+ 
+Cf. Math. Ann., t. xiv., pp. 112 et seq.[sect xx.] conclusions.87
+
+
+       
+faces upon each other,so following up the indications which,
+
+as we have already remarked in the Preface, were given by
+
+Riemann at the close of his Dissertation. For the cases p = 0,
+
+p = 1, I shall for the most part, to avoid di useness, conne
+
+myself to mere statements of results or indications of proofs.
+
+And rst, in treating of the conformal representations of a
+
+closed surface upon itself, a distinction which has been hith-
+
+erto ignored must be introduced: the representation may be
+
+accomplished without or with reversal of angles. We have an
+
+example of the rst case when a sphere is made to coincide
+
+with itself by rotation about its centre; of the second case
+
+when it is reected across a diametral plane with the same re-
+
+sult. The analytical treatment hitherto employed corresponds
+
+to representations of the rst kind only. If u+iv and u1+iv1
+
+are two complex functions of position on the same surface,
+
+u = u1, v = v1gives the most general representation of the
+
+rst kind (cf. x 6). But it is easy to see how to extend the
+
+formula in order to include representations of the second kind
+
+as well. We have simply to write u = u1, v = v1in order to
+
+obtain a representation of the second kind.
+
+ 
+The theorems to be established in the text are, for the most part,
+not explicitly given in the literature of the subject. For the surfaces for
+which p = 0, compare Schwarz's memoir (Berl. Monatsber., 1870), al-
+ready cited. And, further, a paper by Schottky: Ueber die conforme Ab-
+bildung mehrfach zusammenhangender Flachen, which appeared in 1875
+as a Berlin Inaugural Dissertation and was reprinted in a modied form
+in Crelle, t. lxxxiii. It treats of those plane surfaces of connectivity p
+which have p + 1 boundaries.[sect xx.] conclusions.88
+
+
+Let us rst take from the theorems of the last section those
+
+parts which refer to representations of the rst kind; in the
+
+most geometrical language possible we have then the following
+
+theorems:
+
+It is always possible to transform into themselves in an
+
+innite number of ways by a representation of the rst kind
+
+surfaces for which p = 0, p = 1, but never surfaces for which
+
+p > 1.
+
+For the surfaces for which p = 0 the only representation
+
+of the rst kind is determined if three arbitrary points of the
+
+surface are associated with three other arbitrary points of the
+
+same.
+
+If p = 1, to any arbitrary point of the surface a second
+
+point may be arbitrarily assigned, and there is then in general
+
+a two-fold possibility of determination of the representation of
+
+the rst kind, though in special cases there may be a four-fold
+
+or six-fold possibility.
+
+These propositions of course do not exclude the possibility
+
+that special surfaces for which p > 1 may be transformed into
+
+themselves by discontinuous transformations of the rst kind.
+
+If this occurs it constitutes an invariantive property for any
+
+conformal deformation of the surface and by its existence and
+
+modality specially interesting classes of surfaces may be dis-
+                 
+tinguished from the remainder.This point of view, however,
+
+ 
+Algebraical equations with a group of uniform transformations into
+themselves correspond to these surfaces. The observations in the text
+thus refer to investigations such as those lately undertaken by Herr Dyck
+(cf. Math. Ann., t. xvii., \Aufstellung und Untersuchung von Gruppe[sect xx.] conclusions.89
+
+
+need not be discussed more fully here.
+
+With respect to the transformations of the second kind we
+
+may rst say that every such transformation, combined with
+
+one of the rst kind, produces a new transformation of the
+
+second kind. Now by the above theorems we have complete
+
+knowledge of the transformations of the rst kind for surfaces
+
+for which p = 0, p = 1; in these cases therefore it su ces to
+
+enquire whether one transformation of the second kind exists.
+
+For the surfaces for which p = 0 this is at once answered
+
+in the a rmative. For it is su cient to take any one of the
+
+uniform functions of position with only one innity, x + iy,
+
+and then to write x1= x, y1= y. For the surfaces for
+
+which p = 1 the case is di erent. We nd that in general no
+
+transformation of the second kind exists. The easiest way to
+
+prove this is to consider the values which the integral W, nite
+
+over the whole surface, assumes on the anchor-ring, p = 1.
+
+Let the points W = m1!1+m2!2be marked on the W plane,
+
+m1, m2being as before arbitrary positive or negative integers.
+
+It is then easily shown that a transformation of the second
+
+kind can change the surface for which p = 1 into itself only
+
+if this system of points has an axis of symmetry. This case
+
+occurs when the invariant J, dened above, is real; according
+
+as J is < 1 or > 1, these points in the W plane are corners of
+
+a rhomboidal or rectangular system.
+
+Now let p > 1. If one transformation of the second kind
+
+exists for this surface, there will in general be no other of
+
+und Irrationalitat regularer Riemann'scher Flachen").[sect xxi.] conclusions.90
+
+
+ 
+the same kind.For otherwise the repetition or combination
+
+of these transformations would produce a transformation of
+
+the rst kind distinct from the identical transformation. The
+
+transformation must then necessarily be symmetrical, i.e. it
+
+must connect the points of the surface in pairs. The surface
+
+itself will for this reason be called symmetrical. Moreover un-
+
+der this name I shall in future include all those surfaces for
+
+which there exists a transformation of the second kind lead-
+
+ing, when repeated, to identity. To this class belong evidently
+
+all surfaces for which p = 0, and such surfaces for which p = 1
+
+as have real invariants.
+
+
+x 21. Special Treatment of symmetrical Surfaces.
+
+Among the symmetrical surfaces now to be considered, di-
+
+visions at once present themselves according to the number
+
+and kind of the \curves of transition" on the surfaces; i.e. of
+
+those curves whose points remain unchanged during the sym-
+
+metrical transformation in question.
+
+The number of these curves can in no case exceed p + 1.
+
+For if a surface is cut along all its curves of transition with the
+
+exception of one, it will still remain an undivided whole, the
+
+symmetrical halves hanging together along the one remaining
+
+curve of transition. Thus if there were more than p + 1 of
+
+ 
+There are, of course, surfaces capable of a certain number of trans-
+formations of the rst kind, together with an equal number of transfor-
+mations of the second kind; these correspond to the regular symmetrical
+surfaces of Dyck's work.[sect xxi.] conclusions.91
+
+
+these, more than p loop-cuts in the surface could be e ected
+
+without resolving it into distinct portions, thus contradicting
+
+the denition of p.
+
+On the other hand there may be any number of curves of
+
+transition below this limit. It will be su cient here to discuss
+
+the cases p = 0, p = 1; for the higher p's examples will present
+
+themselves naturally.
+
+(1) When a sphere is made to coincide with itself by re-
+
+ection in a diametral plane, the great circle by which the
+
+diametral plane cuts it, is the one curve of transition. An ex-
+
+ample of the other kind is obtained by making every point of
+
+the sphere correspond to the point at the opposite end of its
+
+diameter. Both examples can be easily generalised; the anal-
+
+ysis is as follows. If one curve of transition exists, there are
+
+uniform functions of position with only one innity, which as-
+
+sume real values at all points of the curve of transition. If one
+
+of these functions is x + iy the transformation, already given
+
+as an example above, is x1= x, y1= y. For the second
+
+case, a function x + iy can be so chosen that 1 and 0, and
+
++1 and 1, are corresponding points. Then
+
+                      1
+        x1 iy1=
+                  x + iy
+
+is the analytical formula for the corresponding transformation.
+
+(2) In the case p = 1, the invariant J must in the rst
+
+place, as we know, be assumed to be real. First, let it be > 1.
+
+Then the integral W, which is nite over the whole surface,
+
+can be reduced to a normal form by the introduction of an[sect xxi.] conclusions.92
+
+
+appropriate constant factor in such a manner that one period
+
+becomes real = a and the other purely imaginary = ib. If we
+
+then write
+
+U1= U; V1= V; in W = U + iV;
+
+we obtain a symmetrical transformation of the surface for
+
+which p = 1, with the two curves of transition,
+
+                        b
+      V = 0; V =;
+                        2
+
+but if we write
+
+            a
+    U1= U +; V1= V;
+            2
+
+which again is a symmetrical transformation of the original
+
+surface, we have the case in which there is no curve of transi-
+
+tion. The case with only one curve of transition occurs when
+
+J < 1. W can then be so chosen that its two periods are
+
+conjugately complex. We write, as before,
+
+      U1= U; V1= V;
+
+and obtain a symmetrical transformation with the one curve
+
+of transition, V = 0.
+
+Besides this rst division of symmetrical surfaces according
+
+to the number of the curves of transition there is yet a second.
+
+The cases of no curves of transition and of p + 1 curves of
+
+transition are to be excluded for one moment. Then a two-fold[sect xxi.] conclusions.93
+
+
+possibility presents itself: Dissection of the surface along all
+
+the curves of transition may or may not resolve it into distinct
+
+portions. Let   be the number of curves of transition. It is
+
+easily shown that p  must be uneven if the surface is resolved
+
+into distinct portions; that there is no further limitation may
+
+be shown by examples. We shall therefore distinguish between
+
+symmetrical surfaces of one kind or of the other and count the
+
+surfaces with p+ 1 curves of transition among the rst kind|
+
+those that are resolved into distinct portions|and the surfaces
+
+with no curves of transition among the second kind.
+
+These propositions have a certain analogy with the results
+
+obtained in analytical geometry by investigating the forms of
+       
+curves with a given p.And in fact we see that this analogy
+
+is justied. Analytical geometry is (primarily) concerned only
+
+with equations, f(w; z) = 0, with real coe cients. Let us rst
+
+observe that every such equation determines a symmetrical
+
+Riemann's surface over the z-plane, inasmuch as the equation,
+
+and therefore the surface, remains unchanged if w and z are
+
+simultaneously replaced by their conjugate values, and that
+
+the curves of transition on this surface correspond to the real
+
+series of values of w, z, which satisfy f = 0, i.e. to the various
+
+circuits of the curve f = 0, in the sense of analytical geometry.
+
+But the converse is also easily obtained. Let a symmetrical
+
+ 
+Cf. Harnack, \Ueber die Vieltheiligkeit der ebenen algebraischen
+Curven," Math. Ann., t. x., pp. 189 et seq.; cf. also pp. 415, 416, ib.
+where I have given the two divisions of those curves. It is perhaps as
+well in these investigations to start from the symmetrical surfaces and
+Riemann's Theory as presented in the text.[sect xxi.] conclusions.94
+
+
+surface, and on it any arbitrary complex function of position,
+
+u + iv, be given. The symmetrical deformation causes a re-
+
+versal of angles on the surface. If then to every point of the
+
+surface values u1, v1, are ascribed equal to those u, v, given by
+
+the symmetrical point, u1iv1will be a new complex function
+
+of position. Now construct
+
+  U + iV = (u + u1) + i(v v1);
+
+so obtaining an expression which in general does not vanish
+
+identically; to ensure this, it is su cient to assume that the
+
+innities of u + iv are unsymmetrically placed. We have then
+
+a complex function of position with equal real parts, but equal
+
+and opposite imaginary parts at symmetrically placed points.
+
+Of such functions, U +iV , let any two, W, Z, be taken, these
+
+being moreover uniform functions of position. The algebraical
+
+equation existing between these two has then the characteristic
+
+of remaining unaltered if W, Z are simultaneously replaced by
+
+their conjugate values. It is therefore an equation with real
+
+coe cients and the required proof has been obtained.
+
+I supplement this discussion with a few remarks on the real
+
+uniform transformations of real equations f(w; z) = 0 into
+
+themselves, or, what amounts to the same thing, on confor-
+
+mal representations, of the rst kind, of symmetrical surfaces
+
+upon themselves, in which symmetrical points pass over into
+
+other symmetrical points. Such transformations, by the gen-
+
+eral proposition of x 19, can occur in innite number only for
+
+p = 0, p = 1; we therefore conne ourselves to these cases. Let[sect xxii.] conclusions.95
+
+
+us rst take p = 1. Then we see at once that among the trans-
+
+formations already established, we need now only consider the
+
+one
+
+          W1=  W + C;
+
+where C is a real constant. Similarly when p = 0, for the rst
+
+case. The relations x1= x, y1= y remain unaltered if
+
+  x + iy = z and x1+ iy1= z1
+
+are simultaneously transformed by the substitution
+
+          0 z + 
+        z=;
+              z +  
+
+where the ratios   :  :  :   are real. When p = 0, for
+
+the second case, the matter is rather more complicated. Sim-
+
+ilar transformations with three real parameters are again pos-
+
+sible; but these assume the following form, z being the same
+
+as above,
+
+    0(a + ib)z + (c + id)
+  z=;
+          (c id)z + (a ib)
+
+where a : b : c : d are the three real parameters. This result
+
+is implicitly contained in the investigations referring to the
+
+analytical representation of the rotations of the x + iy sphere
+ 
+about its centre.
+
+ 
+Cf. Cayley, \On the correspondence between homographies and ro-
+tations," Math. Ann., t. xv., pp. 238{240.[sect xxii.] conclusions.96
+
+
+x 22. Conformal Representation of di erent closed Sur-
+
+faces upon each other.
+
+If we now wish to map di erent closed surfaces upon each
+
+other, the foregoing investigation of the conformal representa-
+
+tion of closed surfaces upon themselves will give us the means
+
+of determining how often such a representation can occur, if
+
+it is once possible. Surfaces which can be conformally repre-
+
+sented upon each other certainly possess (as has been already
+
+pointed out) transformations into themselves, consistent with
+
+these. Thus all representations of the one surface upon the
+
+other are obtained by combining one arbitrary representation
+
+with all those which change one of the given surfaces into itself.
+
+To this I need not return.
+
+Let us rst consider general, i.e. non-symmetrical surfaces.
+
+Then the enumerations of the moduli of algebraical equations
+
+given in x 19 are at once applicable.
+
+We have rst: Surfaces for which p = 0 can always be con-
+
+formally represented upon each other, and we nd besides that
+
+surfaces for which p = 1 have one modulus, surfaces for which
+
+p > 1, 3p 3 moduli, unaltered by conformal representation.
+
+Every such modulus is in general a complex constant. Since in
+
+the case of symmetrical surfaces real parameters alone must be
+
+considered, we shall suppose the modulus to be separated into
+
+its real and imaginary parts. Then we have: If two surfaces
+
+for which p > 0 can be represented upon each other there must
+
+exist equations among the real constants of the surface, 2 for
+
+p = 1, and 6p 6 for p > 1.[sect xxii.] conclusions.97
+
+
+Turning now to the symmetrical surfaces, we must make
+
+one preliminary remark. It is evident that two such surfaces
+
+can be \symmetrically" projected upon one another only if
+
+they have, as well as the same p, the same number   of curves
+
+of transition, and moreover if they both belong either to the
+
+rst or to the second kind. The enumeration in x 13 of the
+
+number of constants in uniform functions is now to be made
+
+over again, with the special condition required for symmetrical
+
+surfaces that those functions only are to be considered whose
+
+values at symmetrical places are conjugately imaginary. And
+
+then, as in x 19, we must combine with this the number of
+
+those many-sheeted surfaces which can be spread over the z-
+
+plane and are symmetrical with respect to the axis of real
+
+quantities. To avoid an innite number of transformations
+
+into themselves, I will here assume p > 1. The work is then so
+
+simple that I do not need to reproduce it for this special case.
+
+The only di erence is that those constants which were before
+
+perfectly free from conditions must now be either every one
+
+real or else conjugately complex in pairs. Hence all the arbi-
+
+trary quantities are reduced to half the number. This may be
+
+stated as follows: In order that it may be possible to represent
+
+two symmetrical surfaces for which p > 1 upon one another, it
+
+is necessary that, over and above the agreement of attributes,
+
+3p3 equations should subsist among the real constants of the
+
+surface.
+
+The cases p = 0, p = 1, which were here excluded, are
+
+implicitly considered in the preceding section. Of course two
+
+symmetrical surfaces for which p = 1 which are to be rep-[sect xxiii.] conclusions.98
+
+
+resented upon one another must have the same invariant J,
+
+giving one condition for the constants of the surface, inas-
+
+much as J is certainly real. But besides this we nd at once
+
+that the representation is always possible, so long as the sym-
+
+metrical surfaces agree in the number of curves of transition,
+
+a condition which is obviously always necessary.
+
+
+x 23. Surfaces with Boundaries and unifacial Surfaces.
+
+By means of the results just obtained an apparently im-
+
+portant generalisation may be made in the investigation of the
+
+representations of closed surfaces, and it was for the sake of
+
+this generalisation that symmetrical surfaces were discussed in
+
+so much detail. For surfaces with boundaries and unifacial sur-
+
+faces (which may or may not be bounded) may now be taken
+
+into account and the problems referring to them all solved at
+
+once. With reference to the introduction of boundaries here,
+
+a certain limitation hitherto implicitly accepted must be re-
+
+moved. The surfaces employed have been all assumed to be
+
+of continuous curvature or at least to have discontinuities at
+
+isolated points only (the branch-points). But there is now no
+
+reason against the admission of other discontinuities. For in-
+
+stance, we may suppose that the surface is made up of a nite
+
+number of di erent pieces (in general, of various curvatures)
+
+which meet at nite angles after the manner of a polyhedron;
+
+for there is nothing to prevent the conception of electric cur-
+
+rents on these surfaces as well as on those of continuous curva-
+
+ture. Now surfaces with boundaries are included among such[sect xxiii.] conclusions.99
+
+
+ 
+surfaces.For let the two sides of the bounded surface be con-
+
+ceived to be two faces of a polyhedron meeting along a boundary
+                             
+(and therefore everywhere at an angle of 360), and employ the
+
+total surface composed of these two faces instead of the original
+y
+bounded surface.
+
+This total surface is then in fact a closed surface; but it is
+
+moreover symmetrical, for if the points which lie one above the
+
+other are interchanged, the total surface undergoes a confor-
+
+mal transformation into itself, the angles being reversed; the
+
+boundaries are here the curves of transition. But at the same
+
+time the division of symmetrical surfaces into two kinds ob-
+
+tains an important signicance. The usual bounded surfaces,
+
+in which the two sides are distinguishable, evidently corre-
+
+spond to the rst kind; but unifacial surfaces, in which it is
+
+possible to pass continuously from one side to the other on the
+
+surface itself, belong to the second kind. The case, above men-
+
+tioned, in which the unifacial surface has no boundary has also
+
+to be considered. It is a symmetrical surface without a curve
+
+of transition.
+
+Let us now consider in order the various cases to be distin-
+
+guished.
+
+ 
+I owe this idea to an opportune conversation with Herr Schwarz
+(Easter, 1881). Compare Schottky's paper, already cited, Crelle,
+t. lxxxiii., and Schwarz's original investigations in the representations
+of closed polyhedral surfaces upon the sphere. (Berl. Monatsber., 1865,
+pp. 150 et seq. Crelle, t. lxx., pp. 121{136, t. lxxv., p. 330.)
+y
+I express myself in the text, for brevity, as if the original surface
+were bifacial, but the case of unifacial surfaces is not to be excluded.[sect xxiii.] conclusions.100
+
+
+(1) First, let a simply-connected surface with one boundary
+
+be given. This surface now appears as a closed surface for
+
+which p = 0, which, since there is a curve of transition, can
+
+be symmetrically represented upon itself. We nd therefore
+
+that two such surfaces can always be conformally represented
+
+upon one another by transformations of either kind, and that
+
+there are always three real disposable constants. These can
+
+be employed to make an arbitrary interior point on the one
+
+surface correspond to an arbitrary interior point on the other
+
+surface and also an arbitrary point on the boundary of one to
+
+an arbitrary point on the boundary of the other. This method
+
+of determination corresponds to the well-known proposition
+
+concerning the conformal representation of a simply-connected
+
+plane surface with one boundary upon the surface of a circle,
+
+given by Riemann, and explained at length in No. 21 of his
+
+Dissertation as an example of the application of his theory to
+
+problems of conformal representation.
+
+(2) Further we consider unifacial surfaces for which p = 0,
+
+with no boundaries. From xx 21, 22 it follows at once that two
+
+such surfaces can always be conformally represented upon one
+
+another and that there still remain (by the formul  at the end
+
+of x 21) three real disposable constants.
+
+(3) The di erent cases arising from a total surface for
+
+which p = 1, may be considered together. These include, rst,
+
+the doubly-connected surfaces with two boundaries, that is, sur-
+
+faces which in the simplest form may be thought of as closed
+
+ribbons; and, next, the well-known unifacial surfaces with only
+
+one boundary, obtained by bringing together the two ends of[sect xxiii.] conclusions.101
+
+
+a rectangular strip of paper after twisting it through an angle
+ 
+of 180. Finally, certain unifacial surfaces with no boundaries
+
+belong to this class. An idea of these may be formed by turn-
+
+ing one end of a piece of india-rubber tubing inside out and
+
+then making it pass through itself so that the outer surface of
+
+one end meets the inner surface of the other. With reference
+
+to all these surfaces it has been established by former propo-
+
+sitions that the representation of one surface upon another of
+
+the same kind is possible if one, but only one, equation exists
+
+among the real constants of the surface; and that the repre-
+
+sentation, if possible at all, is possible in an innite number
+
+of ways, since a double sign and a real constant remain at our
+
+disposal.
+
+(4) We now take the general case of a bifacial surface. The
+                                    0
+surface has   boundaries and admits moreover of ploop-cuts
+
+which do not resolve it into distinct portions, where either
+0
+pmust be > 0, or   > 2. Then the total surface composed of
+                        0
+the upper and under sides admits of 2p+ 1 loop-cuts which
+                    0
+leave it still connected; for rst the ppossible loop-cuts can be
+
+e ected twice over (on the upper, as well as on the under side),
+
+and then cuts may be made along  1 of the boundaries, and
+
+the total surface is still simply-connected. We will therefore
+0
+write p = 2p+   1 in the theorems of the foregoing section
+
+and we have the following theorem: Two surfaces of the kind
+
+in question can be represented upon each other, if at all, only
+
+in a nite number of ways. The transformation depends on
+0
+6p+ 3 6 equations among the real constants of the surface.
+
+(5) We have, nally, the general case of unifacial surfaces[sect xxiv.] conclusions.102
+
+
+with   boundaries and P other possible loop-cuts when the
+
+surface is considered as a bifacial total surface. Leaving aside
+
+the three cases given in (1), (2), and (3) (P = 0,   = 0 or 1,
+
+and P = 1,   = 0) we have the same proposition as in (4) only
+0
+that for 2p+ 1 we must write P + , where p may be odd or
+
+even. In particular, the number of real constants of a unifacial
+
+surface which are unchanged by conformal transformation is
+
+          3P + 3  3:
+
+The general theorems and discussions given by Herr Schot-
+
+tky in the paper we have repeatedly cited, are all included in
+
+these results as special cases.
+
+
+x 24. Conclusion.
+
+The discussion in this last section now drawing to its con-
+
+clusion is, as we have repeatedly mentioned, intended to cor-
+
+respond to the indications given by Riemann at the close of
+
+his Dissertation. It is true we have here conned ourselves
+
+to uniform correspondence between two surfaces by means of
+
+conformal representation, whereas Riemann, as he explicitly
+
+states, was also thinking of multiform correspondence. For
+
+this case it would be necessary to imagine each of the surfaces
+
+covered by several sheets and to nd then a conformal rela-
+
+tion establishing uniform correspondence between the many-
+
+sheeted surfaces so obtained. For every branch-point which
+
+these surfaces might possess a new complex constant would be
+
+at our disposal.[sect xxiv.] conclusions.103
+
+
+It may here be remarked that we have already considered
+
+in detail at least one case of such a relation. When an arbi-
+
+trary surface is spread over the plane in several sheets (x 15),
+
+there is established between the surface and plane a correspon-
+
+dence which is multiform on one side. Further we may point
+
+out that by means of this special case two arbitrary surfaces
+
+are in fact connected by a relation establishing a multiform
+
+correspondence. For if the two surfaces are each represented
+
+on the plane, then, by means of the plane, there is a relation
+
+between them. The subject of multiform correspondence is of
+
+course by no means exhausted by these remarks. But we have
+
+laid a foundation for its treatment by showing its connection
+
+with Riemann's other speculations in the Theory of Functions,
+
+to an account of which these pages have been devoted.GLOSSARY OF TECHNICAL TERMS.
+
+      The numbers refer to the pages.
+
+Bifacial, zweiseitig, 101
+Boundary, Randcurve, 31
+Branch-line, Verzweigungsschnitt, 61
+Branch-point, Verzweigungspunct, 59
+Circuit, Ast, Zug, 57
+Circulation, Wirbel, 9
+Conformal representation, conforme Abbildung, 21
+Cross-cut, Querschnitt, 31
+Cross-point, Kreuzungspunct, 4
+Curve of transition, Uebergangscurve, 90
+Equipotential curve, Niveaucurve, 2
+Essential singularity, wesentlich singulare Stelle, 6
+Loop-cut, Ruckkehrschnitt, 31
+Modulus, absoluter Betrag, 10
+Multiform, vieldeutig, 37
+Normal surface, Normalache, 33
+One-valued, einformig, 29
+Source, Quelle, 8
+Steady streaming, stationare Stromung, 2
+Stream-line, Stromungscurve, 2
+Strength, Ergiebigkeit, 8
+Total surface, Gesammtache, 99
+Unifacial surface, Doppelache, 98
+Uniform, eindeutig, 3
+Vortex-point, Wirbelpunct, 8
+
+
+  CAMBRIDGE: PRINTED BY C. J. CLAY, M.A. AND SONS. AT THE UNIVERSITY PRESS.End of the Project Gutenberg EBook of On Riemann's Theory of Algebraic
+Functions and their Integrals, by Felix Klein
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ON RIEMANN'S THEORY ***
+
+***** This file should be named 36959-pdf.pdf or 36959-pdf.zip *****
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/3/6/9/5/36959/
+
+Produced by Andrew D. Hwang
+
+Updated editions will replace the previous one--the old editions
+will be renamed.
+
+Creating the works from public domain print editions means that no
+one owns a United States copyright in these works, so the Foundation
+(and you!) can copy and distribute it in the United States without
+permission and without paying copyright royalties. Special rules,
+set forth in the General Terms of Use part of this license, apply to
+copying and distributing Project Gutenberg-tm electronic works to
+protect the PROJECT GUTENBERG-tm concept and trademark. Project
+Gutenberg is a registered trademark, and may not be used if you
+charge for the eBooks, unless you receive specific permission. If you
+do not charge anything for copies of this eBook, complying with the
+rules is very easy. You may use this eBook for nearly any purpose
+such as creation of derivative works, reports, performances and
+research. They may be modified and printed and given away--you may do
+practically ANYTHING with public domain eBooks. Redistribution is
+subject to the trademark license, especially commercial
+redistribution.
+
+
+*** START: FULL LICENSE ***
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work            license.II
+
+
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg-tm License (available with this file or online at
+http://gutenberg.org/license).
+
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg-tm
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or destroy
+all copies of Project Gutenberg-tm electronic works in your possession.
+If you paid a fee for obtaining a copy of or access to a Project
+Gutenberg-tm electronic work and you do not agree to be bound by the
+terms of this agreement, you may obtain a refund from the person or
+entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this agreement
+and help preserve free future access to Project Gutenberg-tm electronic
+works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the Foundation"
+or PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg-tm electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an
+individual work is in the public domain in the United States and you are
+located in the United States, we do not claim a right to prevent you from
+copying, distributing, performing, displaying or creating derivative
+works based on the work as long as all references to Project Gutenberg
+are removed. Of course, we hope that you will support the Project
+Gutenberg-tm mission of promoting free access to electronic works by            license.III
+
+
+freely sharing Project Gutenberg-tm works in compliance with the terms of
+this agreement for keeping the Project Gutenberg-tm name associated with
+the work. You can easily comply with the terms of this agreement by
+keeping this work in the same format with its attached full Project
+Gutenberg-tm License when you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are in
+a constant state of change. If you are outside the United States, check
+the laws of your country in addition to the terms of this agreement
+before downloading, copying, displaying, performing, distributing or
+creating derivative works based on this work or any other Project
+Gutenberg-tm work. The Foundation makes no representations concerning
+the copyright status of any work in any country outside the United
+States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other immediate
+access to, the full Project Gutenberg-tm License must appear prominently
+whenever any copy of a Project Gutenberg-tm work (any work on which the
+phrase "Project Gutenberg" appears, or with which the phrase "Project
+Gutenberg" is associated) is accessed, displayed, performed, viewed,
+copied or distributed:
+
+This eBook is for the use of anyone anywhere at no cost and with
+almost no restrictions whatsoever. You may copy it, give it away or
+re-use it under the terms of the Project Gutenberg License included
+with this eBook or online at www.gutenberg.org
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is derived
+from the public domain (does not contain a notice indicating that it is
+posted with permission of the copyright holder), the work can be copied
+and distributed to anyone in the United States without paying any fees
+or charges. If you are redistributing or providing access to a work
+with the phrase "Project Gutenberg" associated with or appearing on the
+work, you must comply either with the requirements of paragraphs 1.E.1
+through 1.E.7 or obtain permission for the use of the work and the
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+1.E.9.            license.IV
+
+
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+terms imposed by the copyright holder. Additional terms will be linked
+to the Project Gutenberg-tm License for all works posted with the
+permission of the copyright holder found at the beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including any
+word processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg-tm work in a format other than
+"Plain Vanilla ASCII" or other format used in the official version
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original "Plain Vanilla ASCII" or other
+form. Any alternate format must include the full Project Gutenberg-tm
+License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works provided
+that
+
+- You pay a royalty fee of 20% of the gross profits you derive from
+the use of Project Gutenberg-tm works calculated using the method            license.V
+
+
+you already use to calculate your applicable taxes. The fee is
+owed to the owner of the Project Gutenberg-tm trademark, but he
+has agreed to donate royalties under this paragraph to the
+Project Gutenberg Literary Archive Foundation. Royalty payments
+must be paid within 60 days following each date on which you
+prepare (or are legally required to prepare) your periodic tax
+returns. Royalty payments should be clearly marked as such and
+sent to the Project Gutenberg Literary Archive Foundation at the
+address specified in Section 4, "Information about donations to
+the Project Gutenberg Literary Archive Foundation."
+
+- You provide a full refund of any money paid by a user who notifies
+you in writing (or by e-mail) within 30 days of receipt that s/he
+does not agree to the terms of the full Project Gutenberg-tm
+License. You must require such a user to return or
+destroy all copies of the works possessed in a physical medium
+and discontinue all use of and all access to other copies of
+Project Gutenberg-tm works.
+
+- You provide, in accordance with paragraph 1.F.3, a full refund of any
+money paid for a work or a replacement copy, if a defect in the
+electronic work is discovered and reported to you within 90 days
+of receipt of the work.
+
+- You comply with all other terms of this agreement for free
+distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project Gutenberg-tm
+electronic work or group of works on different terms than are set
+forth in this agreement, you must obtain permission in writing from
+both the Project Gutenberg Literary Archive Foundation and Michael
+Hart, the owner of the Project Gutenberg-tm trademark. Contact the
+Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+public domain works in creating the Project Gutenberg-tm
+collection. Despite these efforts, Project Gutenberg-tm electronic            license.VI
+
+
+works, and the medium on which they may be stored, may contain
+"Defects," such as, but not limited to, incomplete, inaccurate or
+corrupt data, transcription errors, a copyright or other intellectual
+property infringement, a defective or damaged disk or other medium, a
+computer virus, or computer codes that damage or cannot be read by
+your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium with
+your written explanation. The person or entity that provided you with
+the defective work may elect to provide a replacement copy in lieu of a
+refund. If you received the work electronically, the person or entity
+providing it to you may choose to give you a second opportunity to
+receive the work electronically in lieu of a refund. If the second copy
+is also defective, you may demand a refund in writing without further
+opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied            license.VII
+
+
+warranties or the exclusion or limitation of certain types of damages.
+If any disclaimer or limitation set forth in this agreement violates the
+law of the state applicable to this agreement, the agreement shall be
+interpreted to make the maximum disclaimer or limitation permitted by
+the applicable state law. The invalidity or unenforceability of any
+provision of this agreement shall not void the remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in accordance
+with this agreement, and any volunteers associated with the production,
+promotion and distribution of Project Gutenberg-tm electronic works,
+harmless from all liability, costs and expenses, including legal fees,
+that arise directly or indirectly from any of the following which you do
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+work, (b) alteration, modification, or additions or deletions to any
+Project Gutenberg-tm work, and (c) any Defect you cause.
+
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of computers
+including obsolete, old, middle-aged and new computers. It exists
+because of the efforts of hundreds of volunteers and donations from
+people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need, are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future generations.
+To learn more about the Project Gutenberg Literary Archive Foundation
+and how your efforts and donations can help, see Sections 3 and 4
+and the Foundation web page at http://www.pglaf.org.
+
+
+Section 3. Information about the Project Gutenberg Literary Archive
+Foundation            license.VIII
+
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Its 501(c)(3) letter is posted at
+http://pglaf.org/fundraising. Contributions to the Project Gutenberg
+Literary Archive Foundation are tax deductible to the full extent
+permitted by U.S. federal laws and your state's laws.
+
+The Foundation's principal office is located at 4557 Melan Dr. S.
+Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact
+information can be found at the Foundation's web site and official
+page at http://pglaf.org
+
+For additional contact information:
+Dr. Gregory B. Newby
+Chief Executive and Director
+gbnewby@pglaf.org
+
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations            license.IX
+
+
+where we have not received written confirmation of compliance. To
+SEND DONATIONS or determine the status of compliance for any
+particular state visit http://pglaf.org
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations.
+To donate, please visit: http://pglaf.org/donate
+
+
+Section 5. General Information About Project Gutenberg-tm electronic
+works.
+
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+concept of a library of electronic works that could be freely shared
+with anyone. For thirty years, he produced and distributed Project
+Gutenberg-tm eBooks with only a loose network of volunteer support.
+
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as Public Domain in the U.S.
+unless a copyright notice is included. Thus, we do not necessarily
+keep eBooks in compliance with any particular paper edition.
+
+
+Most people start at our Web site which has the main PG search facility:
+
+http://www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary            license.X
+
+
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.

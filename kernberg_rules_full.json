@@ -1,0 +1,896 @@
+[
+  {
+    "id": 1617,
+    "topic": "Borderline Personality Organization",
+    "premise": "borderline|personality|organization|characterized|chronic|instability",
+    "conclusion": "Borderline personality organization is characterized by chronic instability in relationships, self-image, affect, and marked impulsivity"
+  },
+  {
+    "id": 1618,
+    "topic": "Pathological Narcissism",
+    "premise": "pathological|narcissism|arises|failure|integrate|idealized",
+    "conclusion": "Pathological narcissism arises from a failure to integrate idealized and devalued object representations, leading to grandiosity and emptiness"
+  },
+  {
+    "id": 1619,
+    "topic": "Technique",
+    "premise": "early|confrontation|interpretation|patient|hidden|overt",
+    "conclusion": "Early confrontation and interpretation of the patient's hidden or overt aggressiveness is essential in treatment"
+  },
+  {
+    "id": 1620,
+    "topic": "Narcissism",
+    "premise": "narcissism|functions|basic|psychic|structure|influenced",
+    "conclusion": "Narcissism functions as a basic psychic structure influenced by object relations, impacting self-esteem regulation"
+  },
+  {
+    "id": 1621,
+    "topic": "Object Relations Theory",
+    "premise": "object|relations|theory|synthesized|psychology|explain",
+    "conclusion": "Object relations theory can be synthesized with ego psychology to explain borderline and narcissistic pathologies"
+  },
+  {
+    "id": 1622,
+    "topic": "Narcissistic Personality Disorder",
+    "premise": "deficient|empathy|narcissistic|personality|disorder|operates",
+    "conclusion": "Deficient empathy in narcissistic personality disorder operates on three levels: descriptive, psychodynamic, and metapsychological"
+  },
+  {
+    "id": 1623,
+    "topic": "Defense Mechanisms",
+    "premise": "borderline|conditions|involve|primitive|defense|mechanisms",
+    "conclusion": "Borderline conditions involve primitive defense mechanisms like splitting, projective identification, and denial"
+  },
+  {
+    "id": 1624,
+    "topic": "Developmental Theory",
+    "premise": "normal|development|integrates|idealized|object|images",
+    "conclusion": "Normal development integrates idealized object images, while pathological narcissism stems from unresolved conflicts in early object relations"
+  },
+  {
+    "id": 1625,
+    "topic": "Borderline Personality Organization",
+    "premise": "structural|organization|psyche|borderline|patients|features",
+    "conclusion": "The structural organization of the psyche in borderline patients features identity diffusion and poor affect regulation"
+  },
+  {
+    "id": 1626,
+    "topic": "Technique",
+    "premise": "treatment|requires|focus|transference|countertransference|resolve",
+    "conclusion": "Treatment requires a focus on transference and countertransference to resolve primitive object relations"
+  },
+  {
+    "id": 1627,
+    "topic": "Identity",
+    "premise": "integrated|identity|central|healthy|personality|functioning",
+    "conclusion": "An integrated identity is central to healthy personality functioning within object relations theory"
+  },
+  {
+    "id": 1628,
+    "topic": "Object Relations Theory",
+    "premise": "psychic|apparatus|originates|internalization|early|object",
+    "conclusion": "The psychic apparatus originates from the internalization of early object relations, forming the basis of personality structure"
+  },
+  {
+    "id": 1629,
+    "topic": "Object Relations Theory",
+    "premise": "object|relations|theory|integrates|british|american",
+    "conclusion": "Object relations theory integrates British object relations with American ego psychology for a comprehensive model"
+  },
+  {
+    "id": 1630,
+    "topic": "Developmental Theory",
+    "premise": "internalizations|relationships|significant|others|begin|infancy",
+    "conclusion": "Internalizations of relationships with significant others begin from infancy and shape psychic processes"
+  },
+  {
+    "id": 1631,
+    "topic": "Psychopathology",
+    "premise": "personality|pathology|clarified|object|relations|facilitating",
+    "conclusion": "Personality pathology can be clarified through object relations, facilitating analysis in psychotherapy"
+  },
+  {
+    "id": 1632,
+    "topic": "Developmental Theory",
+    "premise": "developmental|stages|involve|progressive|integration|good",
+    "conclusion": "Developmental stages involve progressive integration of good and bad object representations"
+  },
+  {
+    "id": 1633,
+    "topic": "Affect Theory",
+    "premise": "affects|link|drives|libido|aggression|object",
+    "conclusion": "Affects link drives (libido and aggression) to object relations"
+  },
+  {
+    "id": 1634,
+    "topic": "Transference",
+    "premise": "clinical|psychoanalysis|benefits|viewing|transference|reenactments",
+    "conclusion": "Clinical psychoanalysis benefits from viewing transference as reenactments of internalized object relations"
+  },
+  {
+    "id": 1635,
+    "topic": "Identity Diffusion",
+    "premise": "identity|diffusion|severe|disorders|results|unintegrated",
+    "conclusion": "Identity diffusion in severe disorders results from unintegrated split object relations"
+  },
+  {
+    "id": 1636,
+    "topic": "Metapsychology",
+    "premise": "freudian|drive|theory|model|critiqued|expanded",
+    "conclusion": "The Freudian drive theory model should be critiqued and expanded by incorporating relational dynamics"
+  },
+  {
+    "id": 1637,
+    "topic": "Diagnosis",
+    "premise": "severe|personality|disorders|including|borderline|narcissistic",
+    "conclusion": "Severe personality disorders, including borderline and narcissistic structures, require specialized diagnostic tools"
+  },
+  {
+    "id": 1638,
+    "topic": "Identity Diffusion",
+    "premise": "identity|diffusion|hallmark|severe|disorders|leading",
+    "conclusion": "Identity diffusion is a hallmark of severe disorders, leading to disturbances in affect regulation and relationships"
+  },
+  {
+    "id": 1639,
+    "topic": "Treatment of NPD",
+    "premise": "treatment|options|narcissistic|personality|disorder|focus",
+    "conclusion": "Treatment options for narcissistic personality disorder focus on resolving aggression and recovering eroticism"
+  },
+  {
+    "id": 1640,
+    "topic": "Technique",
+    "premise": "verbal|communication|distortions|patients|addressed|interpretive",
+    "conclusion": "Verbal communication distortions in patients must be addressed through interpretive techniques"
+  },
+  {
+    "id": 1641,
+    "topic": "Temperament",
+    "premise": "temperament|forms|fundamental|structure|personality|influencing",
+    "conclusion": "Temperament forms a fundamental structure of personality, influencing psychological manifestations"
+  },
+  {
+    "id": 1642,
+    "topic": "Transference-Focused Psychotherapy",
+    "premise": "transference|focused|psychotherapy|effective|borderline|personality",
+    "conclusion": "Transference-focused psychotherapy (TFP) is effective for borderline personality disorder by interpreting transference"
+  },
+  {
+    "id": 1643,
+    "topic": "Differential Diagnosis",
+    "premise": "histrionic|hysterical|personalities|differ|based|neurotic",
+    "conclusion": "Histrionic and hysterical personalities differ based on neurotic versus borderline levels of functioning"
+  },
+  {
+    "id": 1644,
+    "topic": "Superego Pathology",
+    "premise": "superego|pathology|severe|disorders|contributes|moral",
+    "conclusion": "Superego pathology in severe disorders contributes to moral masochism and self-destructiveness"
+  },
+  {
+    "id": 1645,
+    "topic": "Countertransference",
+    "premise": "countertransference|managed|carefully|treating|severe|cases",
+    "conclusion": "Countertransference must be managed carefully in treating severe cases"
+  },
+  {
+    "id": 1646,
+    "topic": "Aggression",
+    "premise": "integration|object|relations|helps|understanding|treating",
+    "conclusion": "Integration of object relations helps in understanding and treating chronic hatred and rage"
+  },
+  {
+    "id": 1647,
+    "topic": "Aggression",
+    "premise": "aggression|pathological|form|centers|affect|hatred",
+    "conclusion": "Aggression in its pathological form centers on the affect of hatred, underlying severe personality disorders"
+  },
+  {
+    "id": 1648,
+    "topic": "Drive Theory",
+    "premise": "dual|drive|theory|libido|aggression|related",
+    "conclusion": "The dual-drive theory of libido and aggression is related to contemporary affect theory"
+  },
+  {
+    "id": 1649,
+    "topic": "Perversions",
+    "premise": "sadomasochistic|perverse|structures|stem|unresolved|aggressive",
+    "conclusion": "Sadomasochistic and perverse structures stem from unresolved aggressive object relations"
+  },
+  {
+    "id": 1650,
+    "topic": "Aggression",
+    "premise": "hatred|chronic|aggression|manifest|personality|disorders",
+    "conclusion": "Hatred and chronic aggression manifest in personality disorders through self-destructive behaviors"
+  },
+  {
+    "id": 1651,
+    "topic": "Affect Theory",
+    "premise": "affects|serve|building|blocks|linking|drives",
+    "conclusion": "Affects serve as building blocks linking drives to internalized object relations"
+  },
+  {
+    "id": 1652,
+    "topic": "Perversions",
+    "premise": "perversions|involve|enactment|aggressive|impulses|sexualized",
+    "conclusion": "Perversions involve the enactment of aggressive impulses in sexualized forms"
+  },
+  {
+    "id": 1653,
+    "topic": "Technique",
+    "premise": "treatment|requires|interpreting|role|aggression|transference",
+    "conclusion": "Treatment requires interpreting the role of aggression in transference to achieve integration"
+  },
+  {
+    "id": 1654,
+    "topic": "Pathological Narcissism",
+    "premise": "narcissistic|pathology|often|masks|underlying|aggression",
+    "conclusion": "Narcissistic pathology often masks underlying aggression and envy"
+  },
+  {
+    "id": 1655,
+    "topic": "Social Psychology",
+    "premise": "bureaucracy|ideology|serve|social|defenses|against",
+    "conclusion": "Bureaucracy and ideology can serve as social defenses against collective aggression"
+  },
+  {
+    "id": 1656,
+    "topic": "Love Relations",
+    "premise": "mature|sexual|love|integrates|excitement|tenderness",
+    "conclusion": "Mature sexual love integrates sexual excitement, tenderness, idealization, and commitment"
+  },
+  {
+    "id": 1657,
+    "topic": "Pathological Love",
+    "premise": "pathological|love|relations|involve|narcissism|masochism",
+    "conclusion": "Pathological love relations involve narcissism, masochism, and aggression distorting normal bonds"
+  },
+  {
+    "id": 1658,
+    "topic": "Love Relations",
+    "premise": "capacity|love|originates|early|maternal|tenderness",
+    "conclusion": "The capacity for love originates from early maternal tenderness and physical affection"
+  },
+  {
+    "id": 1659,
+    "topic": "Sexuality",
+    "premise": "gender|sexuality|influence|development|love|relations",
+    "conclusion": "Gender and sexuality influence the development of love relations through psychosocial factors"
+  },
+  {
+    "id": 1660,
+    "topic": "Couples Dynamics",
+    "premise": "superego|interactions|partners|affect|dynamics|marriage",
+    "conclusion": "Superego interactions between partners affect the dynamics of marriage and relationships"
+  },
+  {
+    "id": 1661,
+    "topic": "Idealization",
+    "premise": "idealization|love|shifts|primitive|integrated|forms",
+    "conclusion": "Idealization in love shifts from primitive to integrated forms in healthy development"
+  },
+  {
+    "id": 1662,
+    "topic": "Borderline Personality Organization",
+    "premise": "borderline|organization|disrupts|ability|stable|loving",
+    "conclusion": "Borderline organization disrupts the ability for stable, loving attachments"
+  },
+  {
+    "id": 1663,
+    "topic": "Sexuality",
+    "premise": "biological|roots|sexual|experience|interact|object",
+    "conclusion": "Biological roots of sexual experience interact with object relations to shape love pathology"
+  },
+  {
+    "id": 1664,
+    "topic": "Couples Therapy",
+    "premise": "treatment|addresses|unconscious|emotional|interactions|transference",
+    "conclusion": "Treatment addresses unconscious emotional interactions and transference in couples"
+  },
+  {
+    "id": 1665,
+    "topic": "Marriage",
+    "premise": "vicissitudes|marriage|stem|unresolved|oedipal|conflicts",
+    "conclusion": "Vicissitudes of marriage stem from unresolved oedipal conflicts and aggressive impulses"
+  },
+  {
+    "id": 1666,
+    "topic": "Structural Interview",
+    "premise": "structural|interview|diagnostic|tool|assesses|identity",
+    "conclusion": "The structural interview is a diagnostic tool that assesses identity integration, defense mechanisms, and reality testing to differentiate neurotic from borderline personality organization"
+  },
+  {
+    "id": 1667,
+    "topic": "Narcissistic Idealization",
+    "premise": "idealization|narcissistic|patients|serves|defensive|function",
+    "conclusion": "Idealization in narcissistic patients serves a defensive function against underlying envy and devaluation of objects, rather than reflecting genuine admiration"
+  },
+  {
+    "id": 1668,
+    "topic": "Grandiose Self",
+    "premise": "grandiose|self|pathological|narcissism|represents|fusion",
+    "conclusion": "The grandiose self in pathological narcissism represents a pathological fusion of the ideal self, ideal object, and actual self-images, eliminating dependence on external objects"
+  },
+  {
+    "id": 1669,
+    "topic": "Reality Testing",
+    "premise": "reality|testing|remains|intact|borderline|personality",
+    "conclusion": "Reality testing remains intact in borderline personality organization but deteriorates under stress, distinguishing it from psychotic organization"
+  },
+  {
+    "id": 1670,
+    "topic": "Primitive Idealization",
+    "premise": "primitive|idealization|differs|mature|lacks|integration",
+    "conclusion": "Primitive idealization differs from mature idealization in that it lacks integration with the object's negative qualities and serves to protect against persecutory anxiety"
+  },
+  {
+    "id": 1671,
+    "topic": "Narcissistic Dependency",
+    "premise": "narcissistic|patient|apparent|self|sufficiency|masks",
+    "conclusion": "The narcissistic patient's apparent self-sufficiency masks a profound oral rage and envy directed at those upon whom they depend"
+  },
+  {
+    "id": 1672,
+    "topic": "Projective Identification",
+    "premise": "projective|identification|borderline|patients|involves|projection",
+    "conclusion": "Projective identification in borderline patients involves not only projection but also maintaining empathy with the projected content and exerting pressure on the object to conform to it"
+  },
+  {
+    "id": 1673,
+    "topic": "Superego Pathology",
+    "premise": "superego|borderline|patients|remains|poorly|integrated",
+    "conclusion": "The superego in borderline patients remains poorly integrated, with sadistic forerunners predominating over more mature moral structures"
+  },
+  {
+    "id": 1674,
+    "topic": "Omnipotent Control",
+    "premise": "omnipotent|control|represents|primitive|defense|whereby",
+    "conclusion": "Omnipotent control represents a primitive defense whereby the patient attempts to manage persecutory objects through magical manipulation rather than realistic engagement"
+  },
+  {
+    "id": 1675,
+    "topic": "Devaluation",
+    "premise": "devaluation|functions|destroy|significance|objects|threaten",
+    "conclusion": "Devaluation functions to destroy the significance of objects who threaten the narcissistic equilibrium, thereby eliminating envy and dependency"
+  },
+  {
+    "id": 1676,
+    "topic": "Affect Theory",
+    "premise": "affects|primary|motivational|system|organizes|drive",
+    "conclusion": "Affects are the primary motivational system that organizes drive derivatives within the context of internalized object relations"
+  },
+  {
+    "id": 1677,
+    "topic": "Structural Theory",
+    "premise": "self|object|affect|units|constitute|basic",
+    "conclusion": "Self-object-affect units constitute the basic building blocks of psychic structure, formed through the internalization of emotionally charged interactions"
+  },
+  {
+    "id": 1678,
+    "topic": "Developmental Theory",
+    "premise": "transition|part|object|whole|relations|marks",
+    "conclusion": "The transition from part-object to whole-object relations marks a critical developmental achievement, enabling ambivalence tolerance and depressive position functioning"
+  },
+  {
+    "id": 1679,
+    "topic": "Internalization",
+    "premise": "introjection|identification|identity|represent|hierarchical|levels",
+    "conclusion": "Introjection, identification, and ego identity represent hierarchical levels of internalization with increasing structural complexity and stability"
+  },
+  {
+    "id": 1680,
+    "topic": "Developmental Vulnerability",
+    "premise": "rapprochement|subphase|particularly|vulnerable|development|borderline",
+    "conclusion": "The rapprochement subphase is particularly vulnerable for the development of borderline pathology due to conflicts around separation-individuation"
+  },
+  {
+    "id": 1681,
+    "topic": "Neurotic Organization",
+    "premise": "neurotic|personality|organization|maintains|identity|integration",
+    "conclusion": "Neurotic personality organization maintains identity integration but suffers from internalized conflicts between ego and a well-integrated but overly harsh superego"
+  },
+  {
+    "id": 1682,
+    "topic": "Psychic Integration",
+    "premise": "pleasure|principle|reality|become|integrated|metabolism",
+    "conclusion": "The pleasure principle and reality principle become integrated through the metabolism of good and bad object experiences into a cohesive self-structure"
+  },
+  {
+    "id": 1683,
+    "topic": "Affect Development",
+    "premise": "peak|affect|states|early|development|become",
+    "conclusion": "Peak affect states during early development become the nuclei around which self and object representations crystallize"
+  },
+  {
+    "id": 1684,
+    "topic": "Defense Development",
+    "premise": "repression|becomes|predominant|defense|splitting|overcome",
+    "conclusion": "Repression becomes the predominant defense only after splitting has been overcome and object constancy achieved"
+  },
+  {
+    "id": 1685,
+    "topic": "Constitutional Factors",
+    "premise": "constitutional|factors|affect|intensity|threshold|interact",
+    "conclusion": "Constitutional factors in affect intensity and threshold interact with environmental provisions to determine the trajectory of structural development"
+  },
+  {
+    "id": 1686,
+    "topic": "Structural Interview",
+    "premise": "structural|interview|proceeds|three|phases|initial",
+    "conclusion": "The structural interview proceeds through three phases: initial symptom exploration, clarification of identity and relationships, and confrontation of contradictions to assess defense organization"
+  },
+  {
+    "id": 1687,
+    "topic": "Technical Neutrality",
+    "premise": "technical|neutrality|mean|coldness|rather|equidistance",
+    "conclusion": "Technical neutrality does not mean coldness but rather equidistance from id, ego, superego, and external reality, allowing transference to unfold without gratification or punishment"
+  },
+  {
+    "id": 1688,
+    "topic": "Therapeutic Frame",
+    "premise": "therapeutic|frame|consistent|time|place|boundaries",
+    "conclusion": "The therapeutic frame\u2014consistent time, place, and boundaries\u2014serves as a container that reveals primitive object relations through the patient's attempts to violate it"
+  },
+  {
+    "id": 1689,
+    "topic": "Negative Therapeutic Reaction",
+    "premise": "negative|therapeutic|reactions|narcissistic|patients|often",
+    "conclusion": "Negative therapeutic reactions in narcissistic patients often stem from unconscious envy of the analyst's capacity to help, experienced as a narcissistic injury"
+  },
+  {
+    "id": 1690,
+    "topic": "Acting Out",
+    "premise": "acting|represents|form|remembering|action|rather",
+    "conclusion": "Acting out represents a form of remembering through action rather than verbal symbolization, requiring interpretation to convert motor discharge into reflective thought"
+  },
+  {
+    "id": 1691,
+    "topic": "Antisocial Personality",
+    "premise": "antisocial|personality|represents|severe|narcissistic|spectrum",
+    "conclusion": "The antisocial personality represents the most severe end of the narcissistic spectrum, characterized by superego pathology and the incapacity for non-exploitative relationships"
+  },
+  {
+    "id": 1692,
+    "topic": "Depressive-Masochistic Personality",
+    "premise": "depressive|masochistic|personality|organization|differs|borderline",
+    "conclusion": "Depressive-masochistic personality organization differs from borderline organization by maintaining integrated identity and relying on higher-level defenses despite chronic guilt and self-attack"
+  },
+  {
+    "id": 1693,
+    "topic": "Schizoid Personality",
+    "premise": "schizoid|personality|retreats|object|relations|protect",
+    "conclusion": "The schizoid personality retreats from object relations to protect both self and object from destructive aggression, resulting in affective flattening and withdrawal"
+  },
+  {
+    "id": 1694,
+    "topic": "Paranoid Regression",
+    "premise": "paranoid|regression|treatment|signals|activation|persecutory",
+    "conclusion": "Paranoid regression during treatment signals the activation of persecutory object relations in the transference, requiring careful interpretation before trust can develop"
+  },
+  {
+    "id": 1695,
+    "topic": "Intervention Hierarchy",
+    "premise": "hierarchy|intervention|moves|clarification|confrontation|interpretation",
+    "conclusion": "The hierarchy of intervention moves from clarification to confrontation to interpretation, with genetic reconstruction reserved for later phases of treatment"
+  },
+  {
+    "id": 1696,
+    "topic": "Rage vs Hatred",
+    "premise": "rage|represents|core|affect|aggressive|drive",
+    "conclusion": "Rage represents the core affect of the aggressive drive, while hatred develops as a more structured, enduring emotional disposition toward the destruction of a specific object"
+  },
+  {
+    "id": 1697,
+    "topic": "Suicidality",
+    "premise": "self|directed|aggression|suicidal|patients|often",
+    "conclusion": "Self-directed aggression in suicidal patients often represents an identification with a sadistic internal object attacking a helpless victim-self representation"
+  },
+  {
+    "id": 1698,
+    "topic": "Malignant Narcissism",
+    "premise": "malignant|narcissism|occupies|position|narcissistic|personality",
+    "conclusion": "Malignant narcissism occupies a position between narcissistic personality disorder and antisocial personality, featuring ego-syntonic aggression, paranoid traits, and sadism"
+  },
+  {
+    "id": 1699,
+    "topic": "Perversions",
+    "premise": "sexual|perversions|serve|eroticize|aggression|transforming",
+    "conclusion": "Sexual perversions serve to eroticize aggression, transforming potentially destructive impulses into a source of pleasure while maintaining object ties"
+  },
+  {
+    "id": 1700,
+    "topic": "Death Instinct",
+    "premise": "death|instinct|reinterpreted|object|relations|manifests",
+    "conclusion": "The death instinct, reinterpreted through object relations, manifests as primitive aggression activated in the context of frustrating or traumatic early object experiences"
+  },
+  {
+    "id": 1701,
+    "topic": "Self-Mutilation",
+    "premise": "chronic|self|mutilation|borderline|patients|serves",
+    "conclusion": "Chronic self-mutilation in borderline patients serves multiple functions: affect regulation, self-punishment, and communication of unbearable internal states"
+  },
+  {
+    "id": 1702,
+    "topic": "Envy",
+    "premise": "envy|represents|fundamental|aggressive|affect|directed",
+    "conclusion": "Envy represents a fundamental aggressive affect directed at good objects precisely because of their goodness, requiring working through in treatment of severe narcissism"
+  },
+  {
+    "id": 1703,
+    "topic": "Couples Dynamics",
+    "premise": "couple|capacity|contain|mutual|aggression|within",
+    "conclusion": "The couple's capacity to contain mutual aggression within a loving relationship determines whether aggressive affects can be integrated or become destructive"
+  },
+  {
+    "id": 1704,
+    "topic": "Group Psychology",
+    "premise": "institutionalized|aggression|groups|organizations|understood|primitive",
+    "conclusion": "Institutionalized aggression in groups and organizations can be understood through the same primitive defense mechanisms operative in individual pathology"
+  },
+  {
+    "id": 1705,
+    "topic": "Sublimation",
+    "premise": "transformation|aggression|sublimated|assertion|healthy|competition",
+    "conclusion": "The transformation of aggression into sublimated assertion and healthy competition requires the integration of aggressive and libidinal object relations under superego guidance"
+  },
+  {
+    "id": 1706,
+    "topic": "Erotic Desire",
+    "premise": "erotic|desire|mature|level|integrates|bodily",
+    "conclusion": "Erotic desire at its mature level integrates bodily excitement with the crossing of boundaries between separate persons, requiring both self-cohesion and object constancy"
+  },
+  {
+    "id": 1707,
+    "topic": "Sexual Identity",
+    "premise": "consolidation|sexual|identity|involves|integration|core",
+    "conclusion": "The consolidation of sexual identity involves the integration of core gender identity, gender role identity, and sexual object choice into a coherent sexual self"
+  },
+  {
+    "id": 1708,
+    "topic": "Oedipal Development",
+    "premise": "oedipal|guilt|normal|development|moderates|sexual",
+    "conclusion": "Oedipal guilt in normal development moderates sexual excitement and creates the conditions for tenderness, fidelity, and the prohibition against incest"
+  },
+  {
+    "id": 1709,
+    "topic": "Sexual Development",
+    "premise": "polymorphous|perverse|infantile|sexuality|becomes|integrated",
+    "conclusion": "Polymorphous perverse infantile sexuality becomes integrated under genital primacy in normal development, while remaining fragmented in perverse organizations"
+  },
+  {
+    "id": 1710,
+    "topic": "Triangulation",
+    "premise": "triangulation|capacity|tolerate|work|oedipal|rivalry",
+    "conclusion": "Triangulation\u2014the capacity to tolerate and work through oedipal rivalry\u2014is essential for mature love, enabling acceptance of the partner's separate relationships and history"
+  },
+  {
+    "id": 1711,
+    "topic": "Mature Idealization",
+    "premise": "idealization|beloved|mature|love|differs|primitive",
+    "conclusion": "Idealization of the beloved in mature love differs from primitive idealization by acknowledging imperfections while maintaining a valued image of the whole person"
+  },
+  {
+    "id": 1712,
+    "topic": "Capacity for Concern",
+    "premise": "capacity|concern|genuine|regard|partner|welfare",
+    "conclusion": "The capacity for concern\u2014genuine regard for the partner's welfare independent of one's own needs\u2014marks the achievement of the depressive position in love relations"
+  },
+  {
+    "id": 1713,
+    "topic": "Sexual Boredom",
+    "premise": "sexual|boredom|long|term|relationships|often",
+    "conclusion": "Sexual boredom in long-term relationships often signals the defensive exclusion of aggressive components from the erotic relationship, flattening passion"
+  },
+  {
+    "id": 1714,
+    "topic": "Couples Projective Identification",
+    "premise": "projective|identification|partners|serve|either|pathological",
+    "conclusion": "Projective identification between partners can serve either pathological communication of disavowed self-states or mature empathic resonance depending on integration level"
+  },
+  {
+    "id": 1715,
+    "topic": "Joint Ego Ideal",
+    "premise": "couple|creates|joint|ideal|negotiation|individual",
+    "conclusion": "The couple creates a joint ego ideal through the negotiation of individual superego demands, establishing shared values that transcend individual morality"
+  },
+  {
+    "id": 1716,
+    "topic": "Identity Diffusion",
+    "premise": "syndrome|identity|diffusion|manifests|clinically|chronic",
+    "conclusion": "The syndrome of identity diffusion manifests clinically as chronic subjective emptiness, contradictory self-perceptions, and an inability to convey an integrated picture of significant others to the clinician"
+  },
+  {
+    "id": 1717,
+    "topic": "Narcissistic Triad",
+    "premise": "narcissistic|patients|exhibit|characteristic|triad|grandiosity",
+    "conclusion": "Narcissistic patients exhibit a characteristic triad: grandiosity, extreme self-centeredness, and a remarkable absence of interest in and empathy for others despite excessive need for admiration"
+  },
+  {
+    "id": 1718,
+    "topic": "Splitting",
+    "premise": "defensive|constellation|borderline|organization|centers|splitting",
+    "conclusion": "The defensive constellation in borderline organization centers on splitting rather than repression, maintaining contradictory ego states in mutual isolation to prevent anxiety"
+  },
+  {
+    "id": 1719,
+    "topic": "Pseudo-Insight",
+    "premise": "pseudo|insight|narcissistic|patients|represents|intellectual",
+    "conclusion": "Pseudo-insight in narcissistic patients represents intellectual acknowledgment of psychological content without emotional conviction, serving resistance rather than therapeutic progress"
+  },
+  {
+    "id": 1720,
+    "topic": "Oral-Aggressive Fixation",
+    "premise": "oral|aggressive|fixation|borderline|patients|creates",
+    "conclusion": "The oral-aggressive fixation in borderline patients creates intense dependency needs contaminated by equally intense rage, producing the characteristic instability in close relationships"
+  },
+  {
+    "id": 1721,
+    "topic": "Superego Levels",
+    "premise": "kernberg|distinguishes|three|levels|superego|pathology",
+    "conclusion": "Kernberg distinguishes three levels of superego pathology: the integrated but harsh superego of neurotics, the non-integrated superego of borderlines, and the absent or corrupt superego of antisocial personalities"
+  },
+  {
+    "id": 1722,
+    "topic": "Countertransference Use",
+    "premise": "therapist|emotional|response|projective|identification|provides",
+    "conclusion": "The therapist's emotional response to projective identification provides crucial diagnostic and therapeutic information when properly analyzed rather than acted upon"
+  },
+  {
+    "id": 1723,
+    "topic": "Pathological Narcissism",
+    "premise": "pathological|narcissism|represents|specific|structural|organization",
+    "conclusion": "Pathological narcissism represents a specific structural organization rather than simply an exaggeration of normal narcissism or a fixation at a normal developmental stage"
+  },
+  {
+    "id": 1724,
+    "topic": "Narcissistic Mourning",
+    "premise": "incapacity|genuine|mourning|narcissistic|patients|reflects",
+    "conclusion": "The incapacity for genuine mourning in narcissistic patients reflects the poverty of internalized good objects and the predominance of envious devaluation over loving internalization"
+  },
+  {
+    "id": 1725,
+    "topic": "Impulsivity",
+    "premise": "borderline|patients|characteristic|impulsivity|represents|weakness",
+    "conclusion": "Borderline patients' characteristic impulsivity represents ego weakness in tolerating anxiety and drive derivatives, not simply a behavioral symptom to be managed"
+  },
+  {
+    "id": 1726,
+    "topic": "Synthetic Function",
+    "premise": "synthetic|function|becomes|consolidated|integration|split",
+    "conclusion": "The synthetic function of the ego becomes consolidated only after the integration of split object relations, enabling the maintenance of a continuous sense of self across affective states"
+  },
+  {
+    "id": 1727,
+    "topic": "Drive Development",
+    "premise": "drives|present|birth|emerge|organization|peak",
+    "conclusion": "Drives are not present from birth but emerge from the organization of peak affect states into libidinal and aggressive motivational systems"
+  },
+  {
+    "id": 1728,
+    "topic": "Kleinian Positions",
+    "premise": "paranoid|schizoid|position|characterized|splitting|persecutory",
+    "conclusion": "The paranoid-schizoid position, characterized by splitting and persecutory anxiety, must be worked through before the depressive position with its capacity for ambivalence can be achieved"
+  },
+  {
+    "id": 1729,
+    "topic": "Object Constancy",
+    "premise": "object|constancy|capacity|maintain|positive|emotional",
+    "conclusion": "Object constancy\u2014the capacity to maintain a positive emotional connection to the object despite frustration\u2014requires the successful integration of good and bad part-object representations"
+  },
+  {
+    "id": 1730,
+    "topic": "Self-Object Differentiation",
+    "premise": "earliest|self|object|representations|undifferentiated|separation",
+    "conclusion": "The earliest self-object representations are undifferentiated, with separation of self from object occurring through the gradual delineation of boundaries under good-enough environmental conditions"
+  },
+  {
+    "id": 1731,
+    "topic": "Fixation vs Arrest",
+    "premise": "fixation|early|developmental|stages|simply|preserve",
+    "conclusion": "Fixation at early developmental stages does not simply preserve infantile mental content but distorts subsequent development, creating pathological structures rather than developmental arrests"
+  },
+  {
+    "id": 1732,
+    "topic": "Signal Anxiety",
+    "premise": "capacity|signal|anxiety|opposed|traumatic|overwhelming",
+    "conclusion": "The capacity for signal anxiety, as opposed to traumatic overwhelming anxiety, develops only after sufficient ego integration has occurred through successful object relations development"
+  },
+  {
+    "id": 1733,
+    "topic": "Holding Environment",
+    "premise": "internalization|holding|environment|creates|background|safety",
+    "conclusion": "Internalization of the holding environment creates the background of safety that enables exploratory behavior and the tolerance of separateness from primary objects"
+  },
+  {
+    "id": 1734,
+    "topic": "Neutralization",
+    "premise": "neutralization|drives|occurs|integration|loving|aggressive",
+    "conclusion": "Neutralization of drives occurs through the integration of loving and aggressive investments in the same objects, not through the discharge or suppression of drive derivatives"
+  },
+  {
+    "id": 1735,
+    "topic": "Ego Boundaries",
+    "premise": "establishment|firm|boundaries|depends|integration|self",
+    "conclusion": "The establishment of firm ego boundaries depends on the integration of self-representations and the consolidation of a sense of bodily and psychological continuity over time"
+  },
+  {
+    "id": 1736,
+    "topic": "Here and Now Interpretation",
+    "premise": "interpretation|transference|takes|priority|over|genetic",
+    "conclusion": "Interpretation of the here and now transference takes priority over genetic interpretation in treating severe disorders, as the patient's distortions must be addressed before historical reconstruction becomes meaningful"
+  },
+  {
+    "id": 1737,
+    "topic": "Incompatible Realities",
+    "premise": "concept|incompatible|realities|describes|borderline|patient",
+    "conclusion": "The concept of incompatible realities describes the borderline patient's alternation between contradictory perceptions of self and therapist without awareness of the contradiction"
+  },
+  {
+    "id": 1738,
+    "topic": "Treatment Contract",
+    "premise": "contract|setting|treatment|outset|establishes|conditions",
+    "conclusion": "Contract-setting at treatment outset establishes the conditions necessary for therapy to proceed and provides the first opportunity to observe the patient's response to limits and structure"
+  },
+  {
+    "id": 1739,
+    "topic": "Secondary Gain",
+    "premise": "secondary|gain|severe|personality|disorders|often",
+    "conclusion": "Secondary gain in severe personality disorders often involves the maintenance of pathological equilibrium through symptoms that regulate self-esteem and object relations"
+  },
+  {
+    "id": 1740,
+    "topic": "Countertransference Management",
+    "premise": "therapist|resist|pull|toward|either|sadistic",
+    "conclusion": "The therapist must resist the pull toward either sadistic retaliation or masochistic submission when countertransference is activated by the patient's primitive transferences"
+  },
+  {
+    "id": 1741,
+    "topic": "Treatment Splitting",
+    "premise": "splitting|treatment|occurs|patients|compartmentalize|relationships",
+    "conclusion": "Splitting of the treatment occurs when patients compartmentalize relationships with multiple treaters, requiring coordination and communication among the treatment team"
+  },
+  {
+    "id": 1742,
+    "topic": "Therapeutic Alliance",
+    "premise": "patient|capacity|therapeutic|alliance|minimal|initially",
+    "conclusion": "The patient's capacity for therapeutic alliance, even if minimal initially, provides the foundation upon which interpretation of primitive transferences can gradually be metabolized"
+  },
+  {
+    "id": 1743,
+    "topic": "Transference Regression",
+    "premise": "regression|transference|therapeutically|useful|contained|within",
+    "conclusion": "Regression in the transference is therapeutically useful when contained within the session and interpreted, but becomes antitherapeutic when it extends outside the treatment frame"
+  },
+  {
+    "id": 1744,
+    "topic": "Narcissistic Resistance",
+    "premise": "syndrome|arrogance|curiosity|pseudo|stupidity|signals",
+    "conclusion": "The syndrome of arrogance, curiosity, and pseudo-stupidity signals narcissistic resistance where the patient attacks the therapeutic process through devaluation disguised as incomprehension"
+  },
+  {
+    "id": 1745,
+    "topic": "Transference Enactments",
+    "premise": "chronic|lateness|missed|sessions|irregularities|constitute",
+    "conclusion": "Chronic lateness, missed sessions, and fee irregularities constitute transference enactments requiring interpretation as communications about the therapeutic relationship"
+  },
+  {
+    "id": 1746,
+    "topic": "Envy vs Jealousy",
+    "premise": "primitive|envy|differs|jealousy|attacks|goodness",
+    "conclusion": "Primitive envy differs from jealousy in that it attacks goodness itself rather than rival possessors of good objects, making it particularly destructive to therapeutic relationships"
+  },
+  {
+    "id": 1747,
+    "topic": "Idealization-Persecution Cycle",
+    "premise": "idealization|persecution|cycle|represents|rapid|oscillation",
+    "conclusion": "The idealization-persecution cycle represents the rapid oscillation between all-good and all-bad object perceptions when splitting defenses predominate"
+  },
+  {
+    "id": 1748,
+    "topic": "Sadistic Superego",
+    "premise": "sadistic|superego|precursors|severe|pathology|demand",
+    "conclusion": "Sadistic superego precursors in severe pathology demand impossible perfection while attacking any achievement, creating chronic self-hatred and potential for violence"
+  },
+  {
+    "id": 1749,
+    "topic": "Aggression Development",
+    "premise": "aggression|becomes|structured|drive|repeated|activation",
+    "conclusion": "Aggression becomes structured as a drive through the repeated activation of rage affects in frustrating object relationships during early development"
+  },
+  {
+    "id": 1750,
+    "topic": "Identification with Aggressor",
+    "premise": "transformation|victim|victimizer|identification|aggressor|represents",
+    "conclusion": "The transformation of victim into victimizer through identification with the aggressor represents a fundamental mechanism in the transmission of trauma across generations"
+  },
+  {
+    "id": 1751,
+    "topic": "Sexualized Aggression",
+    "premise": "sexualization|aggression|perversions|serves|neutralize|potentially",
+    "conclusion": "Sexualization of aggression in perversions serves to neutralize potentially overwhelming destructive impulses while maintaining connection to objects"
+  },
+  {
+    "id": 1752,
+    "topic": "Schadenfreude",
+    "premise": "schadenfreude|pleasure|others|suffering|represents|normalized",
+    "conclusion": "Schadenfreude\u2014pleasure in others' suffering\u2014represents a normalized derivative of sadistic impulses that maintains connection to aggressive object relations"
+  },
+  {
+    "id": 1753,
+    "topic": "Suicidal Threats",
+    "premise": "suicidal|threats|borderline|patients|often|function",
+    "conclusion": "Suicidal threats in borderline patients often function as aggressive communications designed to control the object through fear, requiring interpretation of their relational meaning"
+  },
+  {
+    "id": 1754,
+    "topic": "Masochistic Character",
+    "premise": "masochistic|character|pathology|involves|triumph|suffering",
+    "conclusion": "Masochistic character pathology involves the triumph of suffering, where moral superiority is achieved through victimization and the aggressive implications remain unconscious"
+  },
+  {
+    "id": 1755,
+    "topic": "Group Regression",
+    "premise": "group|regression|facilitates|expression|primitive|aggression",
+    "conclusion": "Group regression facilitates the expression of primitive aggression through the diffusion of individual superego functions into collective idealization of the leader"
+  },
+  {
+    "id": 1756,
+    "topic": "Sexual Passion",
+    "premise": "capacity|sexual|passion|requires|activation|oedipal",
+    "conclusion": "The capacity for sexual passion requires the activation of oedipal desire\u2014attraction toward what is forbidden\u2014within the sanctioned relationship"
+  },
+  {
+    "id": 1757,
+    "topic": "Gender Identity",
+    "premise": "gender|identity|disturbances|exist|spectrum|core",
+    "conclusion": "Gender identity disturbances exist on a spectrum from core gender dysphoria to conflicts about gender role, each with different structural implications and treatment approaches"
+  },
+  {
+    "id": 1758,
+    "topic": "Oedipal Mourning",
+    "premise": "mourning|oedipal|objects|enables|mature|object",
+    "conclusion": "The mourning of oedipal objects enables mature object choice by freeing libido from incestuous attachments and permitting investment in extra-familial partners"
+  },
+  {
+    "id": 1759,
+    "topic": "Unconscious Collusion",
+    "premise": "unconscious|collusion|partners|often|replicates|complementary",
+    "conclusion": "Unconscious collusion between partners often replicates complementary pathological object relations, with each partner enacting one pole of a split self-object unit"
+  },
+  {
+    "id": 1760,
+    "topic": "Erotic Interest",
+    "premise": "capacity|maintain|erotic|interest|over|time",
+    "conclusion": "The capacity to maintain erotic interest over time requires ongoing curiosity about the partner's separate subjectivity and the tolerance of mystery and otherness"
+  },
+  {
+    "id": 1761,
+    "topic": "Pathological Jealousy",
+    "premise": "pathological|jealousy|involves|projection|disavowed|desires",
+    "conclusion": "Pathological jealousy involves the projection of one's own disavowed desires onto the partner, creating persecutory suspicion that confirms unconscious expectations"
+  },
+  {
+    "id": 1762,
+    "topic": "Inhibited Desire",
+    "premise": "inhibited|sexual|desire|often|masks|unconscious",
+    "conclusion": "Inhibited sexual desire often masks unconscious aggressive wishes toward the partner, with sexual withdrawal serving as a safe expression of hostility"
+  },
+  {
+    "id": 1763,
+    "topic": "Don Juan Syndrome",
+    "premise": "juan|syndrome|represents|narcissistic|inability|integrate",
+    "conclusion": "The Don Juan syndrome represents a narcissistic inability to integrate tenderness with sexuality, requiring constant conquest to maintain fragile self-esteem"
+  },
+  {
+    "id": 1764,
+    "topic": "Shared Regression",
+    "premise": "shared|regression|intimate|relationships|serve|either",
+    "conclusion": "Shared regression in intimate relationships can serve either creative deepening of connection or pathological enactment of primitive object relations depending on the couple's structural organization"
+  },
+  {
+    "id": 1765,
+    "topic": "Mature Gratitude",
+    "premise": "development|mature|gratitude|toward|partner|requires",
+    "conclusion": "The development of mature gratitude toward the partner requires working through envy and establishing a secure sense of goodness within oneself"
+  }
+]

@@ -1,0 +1,15 @@
+=== EMBEDDING LOG FOR JEAN-JACQUES ROUSSEAU ===
+Figure ID: rousseau
+Source Folder: /home/runner/workspace/server/data/rousseau
+Started: 2025-12-13T04:15:11.397Z
+============================================================
+
+[2025-12-13T04:15:11.402Z] FLAGGED | rousseau_complete_works.txt | 0 chunks | Contains "by Montesquieu" - likely wrong author
+
+============================================================
+SUMMARY
+Files processed: 0
+Chunks created: 0
+Files flagged: 1
+Errors: 0
+Completed: 2025-12-13T04:15:11.674Z

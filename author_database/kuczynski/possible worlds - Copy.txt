@@ -1,0 +1,2366 @@
+﻿                Journal of Pragmatics 39 (2007) 872–916
+                                                  www.elsevier.com/locate/pragma
+
+
+
+      Does possible world semantics turn all
+
+          propositions into necessary ones?
+
+                  John-Michael Kuczynski*
+
+              Department of Philosophy, University of California, 5631 South Hall,
+                      Santa-Barbara, CA 931060-3090, USA
+        Received 4 May 2003; received in revised form 30 June 2006; accepted 29 August 2006
+
+
+Abstract
+
+    A number of philosophical and semantic analyses make essential use of the concept of a possible
+      world. Following tradition, we will refer to this family of analyses as ‘‘possible world semantics’’ (PWS).
+      The present work argues that there is no interpretation of the term ‘‘world’’ that validates even a single
+      one of the doctrines composing PWS. It is argued that, depending on what the word ‘‘world’’ is taken to
+      mean, PWS entails either that all modal terms (words like ‘‘necessarily’’ and ‘‘possibly’’) are in nitely
+      ambiguous or that all true propositions are necessarilytrue. It is also argued that David Lewis’ PWS-based
+    analysis of counterfactuals can succeed only relative to decidedly retrograde conceptions of space
+  and time. Most importantly, it is shown that PWS is false even if it  nds a way to neutralize
+  the arguments just described. Given certain truisms about spatiotemporal existence, it is a
+    substantive modal question whether the worlds needed to validate PWS are even possible. (As we
+    will see, there is reason to believe that many of those worlds are in the same category as worlds
+    that comprise light but not electromagnetic radiation.) The modal status of these worlds cannot be
+      non-circularly resolved within a PWS-framework, and must be therefore resolved within some other
+    modal framework, showing that PWS is parasitic on some more fundamental understanding of
+modality.
+# 2006 Elsevier B.V. All rights reserved.
+
+Keywords: Possible-world semantics; David Lewis; Necessity; Modality; Modal knowledge; Modal realism;
+Counterfactuals; Causality
+
+
+
+
+
+
+        * Correspondence at: 5636 Western Avenue, Chevy Chase, MD 20815, USA. Tel.: +1 805 893 3122/301 565 1420.
+E-mail addresses: rconaway@philosophy.ucsb.edu, jsbach@jps.net.
+
+0378-2166/$ – see front matter # 2006 Elsevier B.V. All rights reserved.
+doi:10.1016/j.pragma.2006.08.008                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916873
+
+1. Introduction
+
+    A view known as ‘‘possible world semantics’’ (PWS) provides the basis for clear and rigorous
+analyses of many important concepts. PWS is given by three contentions:
+
+(1) A proposition is possibly true exactly if it is true in some world.
+                                                  1
+(2) A proposition is necessarily true exactly if it is true in every world.
+    (3) A proposition is the set of worlds where it is true (or, equivalently, it is a function that assigns
+truth to all and only the worlds in that set).
+
+  The most obvious applications of PWS relate to the concepts of possibility, necessity, and
+    meaning. But PWS has proven capable of shedding great light on the nature of counterfactuals,
+                            2
+mental content, and even moral obligation.
+    Despite its virtues, PWS is bedeviled by a number of problems. The main purpose of this paper
+    is to show that PWS is evenmoreproblematic than has hitherto been realized. In particular, it will
+  be argued that PWS has the unwelcome consequence that all true propositions become
+    necessarily true, and all false propositions become necessarily false. So George W. Bush is U.S.
+    president in 2006 is in the same modal category as 2 + 2 = 4, the same being true of John Kerry is
+U.S. president in 2006 and 2+2=5.
+  Let us say a word on the basic structure of this paper. In Part I, we will discuss the motivations
+    for PWS, and will delineate some of the applications of that doctrine. In Part II, we will argue that
+    PWS is eviscerated unless the term ‘‘world’’ is taken literally. (Our arguments here will include,
+    but will also go beyond, Lewis’ (1986) arguments for the same point.) In Part III, we will  nd
+    that, given the realistic conception of other worlds demanded by PWS, that doctrine has a number
+    of unpalatable consequences, among them the one previously noted. In Part IV, we will examine
+  some of Hintikka’s applications of PWS to the analysis of substitution failures and of
+    propositional attitudes. Finally, in Part V, we will examine Lewis’ analysis of counterfactuals.
+    Our discussion of PWS will take into account, and  nd many applications for, some striking
+insights due to Bealer (1998).
+
+2. Part I. Some of the virtues of PWS
+
+  Let us begin with a brief discussion of the merits of PWS. (1) and (2) reduce the problematic
+    notions of possible and necessary truth to that of truth simpliciter. (3) reduces the problematic
+
+
+1
+Some expositions of PWS contain, not (1) and (2), but rather:
+(1*) A proposition is possibly true exactly if it is true in some possible world.
+(2*) A proposition is necessarily true exactly if it is true in every possible world.
+      But, of course, (1*) and (2*) are viciously circular since, in each case, a modal term appears on each side of the
+biconditional.
+        (1*) and (2*) are perfectly correct statements. It is true – in fact, truistic – that P is possible (necessary) iff P is true in
+        some (every) possible world. But not all true statements are analyses. If (1*) and (2*) are to constitute analyses of
+          modality, they should be cleansed of vicious circularity (or, if you prefer, of tautological emptiness). This means that the
+        modal terms must be removed from the right side of the biconditional. This is what I have done in the present paper.
+        Throughout this paper, we will  nd that many of the contentions associated with PWS are correct and illuminating if
+taken as statements about modality, but unacceptable if taken as analyses of it.
+2
+      I am thinking in particular of Hintikka’s paper ‘‘Deontic Logic and Its Philosophical Morals’’ (in Hintikka,
+1969:184–214).                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916874
+
+    notion of a proposition to the less problematic notion of a set. (1)–(3) thus reduce the intensional
+to the extensional. (See Blackburn, 1984:214).
+  PWS analyzes other concepts along similar lines. Let P be the proposition Smith is a tall
+    person, and let C be the set of worlds where that proposition is true. P is true in world W exactly if
+  W is a member of C. We may thus identify P’s being true in W with W’s being a member of a
+    certain set. The obscure but pivotal notion of a proposition’s being true is elegantly articulated in
+                                    3
+terms of the transparent notion of membership in a set.
+    PWS extensionalizes other important notions. According to that doctrine, for a proposition
+  P1to entail a proposition P2is for the set of worlds identical with the  rst to be included in
+  the set of worlds identical with the second. The concept of compatibility is also thereby
+  explained, since P1is compatible with P2exactly if P1does not entail the negation of P2.
+  Let us turn to another of PWS’s great (apparent) triumphs. The concept of a property is as
+    problematic as it is fundamental. Instances of properties are spatio-temporal objects, but properties
+    themselves are outside of space and time. The very notion of a non-spatiotemporal object is one that,
+    almost by de nition, lacks empirical respectability and that has consequently been resisted by
+                      4
+  thinkers of an empiricist turn of mind.At the same time, the notion of a property is not easily
+    dispensed with: statements like ‘‘Smith and Jones have many properties in common’’ are often true,
+  and they seem to presuppose the existence not just of property-instances, but of properties
+themselves.
+                        5
+  PWS gives us a way of amelioratingthis uncomfortable situation. Let F be a function that
+  assigns truth to an object exactly if that object is tall. Smith is tall exactly if Smith is assigned
+  truth by F. Given this, we might as well identify the property of tallness with F, and the fact of
+    Smith’s being tall with his being assigned truth by F. In this way a clear and precise meaning is
+    given to obscure and metaphysically loaded statements like ‘‘Bob and Fred both instantiate the
+property of tallness.’’
+    The great virtue of PWS is that, if successful, it reduces the intensional to the extensional. Sets
+  take the place of mysterious entities like propositions and properties. Dark relations like
+    necessitation are replaced by perspicuous facts about set-overlap. An important corollary – one
+  that will play a large role in the present paper – is that PWS is threatened to the extent that
+intensions cannot be eliminated in favor of extensions.
+
+3
+      It is probably not correct to say that this constitutes an analysis of the concept of truth. (Here I am drawing on an
+argument made by Frege, 1956.) Let S be the set of worlds where grass is green, and let w be our world. Even if the
+proposition grass is green is true exactly if w is a member of S, we have not (so one might argue) analyzed the notion of
+truth in terms of set-membership. After all, the proposition w is a member of S is the same as, or at least equivalent with,
+the proposition:
+The proposition w is a member of S is true.
+        So even if the proposition grass is green is true exactly if w is a member of S, the right side of the biconditional uses
+the notion of truth and, consequently, there has been no analysis of that notion. (According to Frege, the concept of truth is
+involved in any assertion, since to make an assertion is to ascribe truth to a proposition. So, since analyses are obviously
+  given by asserted propositions, there can therefore be no analysis of the concept of truth.)
+        This is not the place to analyze this argument. (Dummett, 1973 gives an excellent analysis.) But even if it is cogent, it
+by no means vacates or trivializes what PWS says about the concept of truth. If PWS is right to regard the proposition:
+The proposition grass is green is true
+        as equivalent with w is a member of S, that equivalence is extremely illuminating, even if it does not provide a way of
+eliminating the notion of truth in favor of that of set-membership.
+4
+        Many eminent philosophers are included on that list, among them Hume (2000), Berkeley (1982), Goodman (1977),
+and Quine (1960).
+5
+        I say ‘‘ameliorating’’, as opposed to ‘‘solving’’, because the analysis about to be presented would seem to involve a
+  certain Platonism: mathematical functions are, at least prima facie, Platonic objects.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916875
+
+3. Part II. Why PWS must not identify worlds with sets of propositions
+
+  Let us begin by making clear one of the commitments of PWS. What is a possible world?
+  Trivially, it is either something concrete, like our world, or it is not. If it is not, then it is a
+  description or representation of some kind. In that case, it is most plausibly seen as a set of
+              6
+propositions or sentences.
+    In this section, we will consider the consequences for PWS of supposing that worlds are sets of
+              7
+    propositions or sentences.In section 4, we will consider the consequences of supposing that
+worlds are not such things.
+
+3.1. A world of propositions? General notions
+
+    3.1.1 Let PWSEbe the doctrine that PWS is correct, with the quali cation that worlds are sets of
+          propositions. (The ‘‘E’’ stands for Ersatz.) As is well known, if we accept PWSE, then the
+          identi cation of propositions with sets of worlds collapses into the viciously circular thesis:
+  a proposition is a set of propositions.
+        But PWSEhas deeper problems. To see these, some background is needed. Not every set
+        of propositions corresponds to a (possible) world. For example, no set containing the
+      propositions 2+2=5or Socrates is not self-identical counts as a world. If a set of
+          propositions quali es as a possible world (or, at any rate, as a description thereof), let us say
+    that it is ‘‘admissible’’; otherwise, it is ‘‘inadmissible.’’
+        What conditions must a set satisfy to be admissible? An obvious (partial) answer is this:
+        a set is admissible only if each of the propositions in it can be true, i.e. only if each of those
+                    8
+        propositions is possibly true.But, of course, given that description of what an admissible
+                                                            9
+    set is, PWSEcircularly analyzes the concept of possibility in terms of itself.
+
+    3.1.2 But, by itself, the argument just stated by no means warrants the rejection of PWSE, since
+        the advocate of that doctrine has a powerful counter-argument at his disposal. He can say
+        that there is a characterization of the concept admissible set – a way of singling out all and
+
+6
+        Strictly speaking, there are other options; so it isn’t necessary to say that other worlds are either concrete entities, like
+          our own, or that they are sets of propositions. There are two points to make here. First, many of the arguments that we will
+          direct against the identi cation of worlds with propositions are readily adapted to deal with the identi cation of worlds
+      with non-propositional representations. (In most cases, it is fairly obvious what the needed adjustments are.)
+        Second, Lewis (1986:136–191) has in my view conclusively shown that the remaining options are not feasible. So far
+  as I know, no philosopher has seriously advocated any of these remaining positions.
+        In any case, if I am wrong about these remaining options being non-starters, the present work can be seen as arguing that
+          twoof the more plausible conceptions of what a possible world is (they are either maximal states of affairs, like our world, or
+        are sets of propositions) are untenable and that, if PWS is to stand a chance, then one of the remaining options must be the
+right one. That would not a trivial point.
+        Later, in connection with our discussion of some of Hintikka’s insights into modality, we will discuss the view that
+        possible worlds can be identi ed with state descriptions or with model sets. We will  nd, I believe, that these views are
+ultimately versions of the view that other worlds are sets of propositions.
+7
+      I will choose to speak of propositions, as opposed to sentences. But obvious adaptations of our arguments
+accommodate a decision to speak of sentences, as opposed to propositions.
+8
+        I am assuming that an admissible set contains the conjunction of each of its members. (So even though each of ‘‘x is
+          red all over’’ and ‘‘x is green all over’’ can be true, the same is not true of their conjunction. Incidentally, quotation marks
+          should be read as quasi-quotes wherever applicable.) A corollary is that if each member of an admissible set is a possible
+          proposition, then that set is admissible. So, contrary to  rst appearances, a set is admissible if and only if any given one of
+its members is possible.
+9
+    Lewis (1986:150–153) points this out. Also, see Lewis (1986:160–156) and Lewis (1973:85).                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916876
+
+  only such sets – that doesn’t involve any modal terms, and is thus free of any circularity.
+  The best known effort in this direction involves the concept of a state-description, where a
+                                                        10
+  ‘‘state-description’’ is de ned as a maximal consistent set of propositions.According to
+      this line of thought, P is possible exactly if it belongs to some state description, and
+necessary if it belongs to all of them.
+        However, as Lewis (1986:150–153) points out, there is an obvious problem with this
+  proposal. The concept of consistency is a modal concept (P and P* are consistent with each
+  other exactly if they can jointly be true). Consequently, PWSEwould seem to be reduced to
+          11
+      vicious circularityif it identi es possible truth with truth in some world, and then
+    identi es worlds with state descriptions (i.e. with maximal consistent sets of propositions).
+
+    3.1.3 Nonetheless, the point made in the previous paragraph does not, by itself, require that we
+  give up on the idea that modality can be understood in terms of state descriptions. For there
+  is a well-known and plausible way of analyzing the concept of a maximal consistent set of
+        propositions that does not presuppose any modal concepts and that, if viable, could
+  therefore be used without vicious circularity in this context. The idea is as follows. S is a
+        maximal consistent set of propositions exactly if S ful lls the following conditions:
+
+  (i) For any atomic proposition p, S will contain either p or not-p.
+    (ii) For no proposition p does S contain both p and not-p.
+      (iii) S contains the closure set of its atomic propositions under the operations of
+            conjunction, disjunction, and existential and universal generalization. (So if
+        S contains p and S contains q, then S contains p and q. If S contains p, and
+        S contains either q or not-q, then S contains porq. If S contains Fa, then
+    S contains for some x, Fx. And so on.)
+    (iv) For no object a does S contain a is not identical with a.
+
+  (ii) and (iv) are meant to guarantee S’s consistency. (i) and (iii) are meant to guarantee S’s
+maximality (i.e. completeness).
+
+        Given these points, a certain analysis of modality is clearly suggested: a proposition is
+        possibly (necessarily) true if it belongs to some (every) state description, and a state
+        description is any set of propositions satisfying (i)–(iv). This analysis of possibility
+    involves no circularity, since consistency is analyzed in non-modal terms.
+
+    3.1.4 There are a number of reasons why the analysis just stated cannot be accepted. First of all,
+                                                              12
+      that analysis embodies an untenable conception of the nature of consistency.The
+        proposition x is blue is not the negation of xisred. But surely x is blue is not consistent
+        with xisred. So a set of propositions satisfying requirements (i)–(iv) might fail to be
+consistent.
+      We could try to deal with this by saying that xisredis really identical (or at least
+  equivalent) with some conjunction like x is not blue and x is not green and x is not yellow
+        ...But the problem we are considering would recur. x is blue is not consistent with xis
+
+
+10
+          SeeForbes (1985:75),Lewis (1986:152), andLewis (1973:85). To my knowledge, the term ‘‘state description’’ is  rst
+  found in Carnap (1947). But the concept was used by Wittgenstein in the Tractatus.
+11
+        or – as Lewis (1986:150–153) points out – would, unpalatably, have to take the concept of possibility as a primitive.
+12
+    See Lewis (1986:151–153) for a similar, though distinct, argument.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916877
+
+        yellow, even though neither is negation of the other. Suppose that we tried to deal with this
+        by saying that x is bluewas identical (or equivalent) with some conjunction of the formxis
+      not yellow and x is not green ...In that case, for well known reasons, we would only
+                                                13
+    embark on an in nite regress or be caught in a vicious circle.
+      Where many other properties are concerned, a similar argument shows that
+        consistency cannot be understood wholly in terms of the absence of a conjunction of the
+        form Fx and not-Fx.Ift and t* are different times, then the proposition x’s occurrence
+        began at t is inconsistent with the proposition x’s occurrence began at t*, even though
+        neither proposition is the negation of the other. For analogues of the reasons given in
+        the last paragraph, it would not be possible to represent xoccurredattas a conjunction
+      of the form x’s occurrence did not begin at t1and x’s occurrence did not begin at t2
+and ....
+        Suppose that S is a maximal set of propositions (i.e. that, for any given proposition, S
+          contains either that proposition or its negation). For the reasons just stated, given only that S
+      does not contain both p and not-p, for some proposition p, it does not follow that S is
+        consistent. To guarantee that S is consistent, and thus capable of corresponding to some
+    possible world, we would have to add some proviso like the following:
+
+      (*) For any proposition p1, if S includes p1, then S does not include any proposition
+          p2such that the negation of p1, or of any consequence of p1, is a consequence
+  of p2.
+
+        But (*) is a modal proposition (since a consequence of p is a proposition that must be
+          true, given that p is true) and thus cannot be used without vicious circularity in this context.
+
+    3.1.5 There is another reason why we must reject the analysis of modality described a moment
+                                      14
+      ago. Some states of affairs supervene on others.The fact that your heart is beating
+          supervenes on the fact that various micro-events are occurring. This means that there is no
+          possible world identical with ours in respect of what occurs at the micro-level that does not
+    also include the event of your heart beating. But, of course, the proposition
+
+  (1)such and such sub-atomic events are occurring
+
+      is distinct from the proposition
+
+(2)so and so’s heart is beating.
+
+        Let S be a state description that includes (1). A state description is, by de nition, a set of
+        propositions (or sentences) that is complete (maximal) and consistent. In order to be
+
+
+13
+        Wittgenstein (1922) put forth the view that all inconsistency could ultimately be understood in terms of the absence
+      of explicit contradictions, like John is tall and John is not tall. But in his post-Tractarian work, especially the
+        Philosophical Remarks (Wittgenstein, 1975), he began to question this, citing considerations similar to those cited
+          above. In fact, the argument just given here is virtually identical with one given in that work by Wittgenstein himself. Give
+          many properties F1, there will be innumerable properties F2,F3, and so on, such that x has F1is inconsistent with, though
+        the not the negation of, each of x has F2, x has F3, and so on. In Kuczynski (2003, 2004) I develop this line of thought,
+arguing that what we just said is true of all properties.
+14
+        The argument about to be given borrows an important conceit from an argument given by Lewis (1986:153), but is
+distinct from Lewis’ argument.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916878
+
+  complete, S must include (2) and, in order to be consistent, S therefore cannot include the
+  negation of (2). In general, if a state description includes some proposition p, then it must
+      also include every proposition p* describing a state of affairs supervenient on that
+  described by p and it must not include the negation of p*. So to guarantee S’s consistency
+    and completeness, our description of it must include a statement like:
+
+      (**)For any proposition p, if S contains p, then S contains all the propositions
+          describing the states of affairs that supervene on that described by p, and
+        it does not contain the negation of any such proposition.
+
+      But here we run into a problem. The typical de nition of supervenience is this: E
+  supervenes on E* iff E is the case in any world where E* is the case (see Kim, 1993). Given
+  that de nition of supervenience, use of (**) would be viciously circular in this context,
+since we are using (**) to say what worlds are.
+        Another possible way of de ning supervenience is this: E supervenes on E* iff, given
+  E*, it is necessary that E occur. It is obvious that, given that de nition of supervenience,
+  use of (**) is viciously circular in this context, since we are using (**) to give an analysis of
+necessity.
+
+    3.1.6 One might respond to this last argument by saying the following (I will put this response in
+the voice of an imaginary objector):
+
+        I grant that the standard de nitions of supervenience involve the concept of a world
+      or, perhaps, the concept of necessity, and thus cannot be non-circularly used in our
+      efforts to identify the sets of propositions needed by PWSE. But suppose that we
+        found some way of understanding supervenience that didn’t involve those off-limits
+          concepts. In that case, the argument you just gave would be neutralized.
+
+  Lewis (1986:151–153) has made it clear how we must respond to this sort of objection. It
+  can safely be said that many questions relating to supervenience are not going to be solved
+  any time soon. Consider the proposition:
+
+(*)George is sad at time t.
+
+  Let GS be the state of affairs described by (*). Do we now, or will we any time soon, know
+  exactly which micro-physical, chemical, or biological propositions describe states of
+  affairs on which GS supervenes? Obviously not. So if we accept the objector’s position,
+  then the concept of a world becomes purely programmatic, as does the associated analysis
+    of modality, pending our acquiring knowledge of the sort just described. But, as Lewis says,
+  it intuitively seems that we should be able to develop at least some sort of non-program-
+  matic conception of modality without having to know whether GS supervenes on the state
+of affairs described by (for example):
+
+    (**)sub-atomic mass-energy displacements E1...Enare occurring at t.
+
+                                              15
+        There is one other point to make in response to the objector.Since it is a point that will
+  recur throughout this paper, I will merely outline it now. Suppose that, despite what was just
+
+15
+I don’t believe that this point is made by Lewis.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916879
+
+        said, we give the objector everything he wants; we concede to him that there is a way of
+          non-circularly using the concept of supervenience in his description of the worlds (i.e. sets
+        of propositions) in terms of which PWSEanalyzes modality. At  rst, it sounds as though
+          this would help PWSE. But the opposite is true. So far as the concept of an alternative world
+        is not needed to explicate a modal concept like that of supervenience, the concept of an
+          alternative world is not needed to explicate modality in general. To the extent that modality
+        is not to be understood in terms of the concept of an alternative world, all forms of PWS,
+        including PWSE, are in error. So PWSEis threatened to the extent that the advocate of
+        PWSEcould  nd some way of analyzing supervenience that did not render viciously
+        circular his conception of what a world is. I would now like to clarify and generalize this
+point.
+
+    3.1.7 PWSEanalyzes modality in terms of worlds, and identi es worlds with sets of propositions.
+        As we saw a few pages ago (pp. xxx), PWSEhas great trouble identifying the relevant sets
+      of propositions without circularly using the very notions it is meant to analyze.
+        But for the sake of argument, suppose that PWSEfound a non-circular way of picking
+      out the right sets of propositions. This would involve  nding some non-modal
+      characterization of all and only those propositions that are possibly true. (A ‘‘non-
+        modal’’ characterization would be one that didn’t use any terms like ‘‘necessary’’,
+‘‘possible’’, and the like.)
+      At  rst, the discovery of such a characterization would seem to help PWSE.Butin
+          actuality, it would destroythe need for any form of PWS, including PWSE.Ananalysisof
+      modality is to supposed to say (among other things) what it is for a proposition to be
+        possibly true. That statement must be non-circular: the explanandum cannot be an
+        ingredient of the explanans. It follows that an analysis of modality says what non-modal
+        predicate is satis ed by all and only those propositions (or sentences) that are possibly
+      true. (So it gives us a non-modal characterization of the notion of possibility.) A
+          characterization of the kind we’ve been discussing would give us exactly that information
+        and would amount to nothing less than an analysis of modality. So supposing we found
+          some non-circular way of identifying the sets of propositions that count as possible worlds,
+        we would ipso facto have an analysis of modality, and would therefore cease to have any
+      need for any form of PWS, including PWSE. To sum up, if it is avoid circularly
+        presupposing the very notions it is supposed to analyze, PWSEmust produce some non-
+        modal characterization of all and only those setsthatareadmissible,i.e. of those sets that
+                                    16
+        contain only those propositions that could be true; but, given such a characterization, it is
+        unclear why there would continue to be any need to understand the notion of possibility
+    (or, therefore, of necessity) in terms of the notion of an alternative world.
+        An illustration may be appropriate. Let S be arbitrary set of propositions satisfying
+          requirements (i)–(iv). Of course, we saw a few pages ago that inconsistent propositions may
+        belong to S (e.g. propositions of the form so and so’s heart is not beating and e1...enare
+      occurring, where e1... enare the events on which the beating of so and so’s heart
+          supervenes). But in this context, solely for the purposes of argument and illustration, let us
+      suppose that a proposition P is possible P just in case P belongs to a set like S, i.e. a set
+      satisfying (i)–(iv). Given that this is so, it seems that we no longer have any need to
+
+16
+        Importantly, the characterization in question wouldn’t use the concept of a world since, by hypothesis, possession of
+    such a characterization would be a pre-requisite to saying what worlds, in the relevant sense, are.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916880
+
+  understand modality in terms of other worlds, since we now have an analysis of modality
+  that doesn’t involve the concept of a world, namely: a proposition is possibly true exactly if
+  it belongs to a set satisfying (i)–(iv). Of course, we may referto such a set as a ‘‘world’’, but
+        that would just be an abbreviated way of saying that it is a set of propositions meeting
+requirements (i)–(iv).
+        This brings us to another point. Solely for reasons of argument and illustration, let us
+        continue to suppose (falsely) that a proposition P is possible exactly if it belongs to a set
+  satisfying requirements (i)–(iv); and let us continue to suppose that S is such a set. Given
+  these suppositions, S would describe a possible world, and each proposition P in S would
+      therefore be true in some possible world. But this would be a mere consequence or
+      symptom of the fact that P is necessary. There is no denying that a proposition P is
+        possibly true just in case there is some possible world where P is true. This is a truism,
+        and any analysis of modality must be consistent with it, regardless of whether of that
+  analysis itself employs the concept of a possible or alternative world. So given only that,
+        relative to the suppositions in question, S describes a possible world, it doesn’t follow
+  that the concept of a possible or alternative world has any place within a proper analysis
+      17
+  of modality.What follows is merely the platitude that any tenable analysis of modality
+      must be consistent with the truism that P is possibly true iff P is true in some possible
+world.
+        The upshot of these points is that, if we found some non-circular way of stating which
+        sets of propositions qualify as ‘‘worlds’’, then we would ipso facto no longer need to
+  analyze modality in terms of the concept of a world.
+
+3.2. Hintikka and the role of state descriptions in modal analysis
+
+    Here we must discuss one of Jaakko Hintikka’s many contributions to the study of modality.
+    Four notions are central to Hintikka’s analysis of modality, namely: state description, model set,
+model system, and satis ability.
+  We have already de ned the term ‘‘state description’’, making it easy to de ne the terms
+                                                                18
+    corresponding to the remaining three notions (see Hintikka, 1969:24–26, 57–59). A formulaF
+    is satis able iff there is some sentence s such that,  rst, s is what results when the variables in F
+  are replaced with constants and such that, second, the proposition expressed by s is part of a
+    state description. So the formula *x is tall* is satis able, whereas *x is round and square* is not.
+    (The asterixes are meant to be quasi-quotes, and they will continue to be used in this way for the
+
+
+17
+        Another illustration may clarify my meaning. Suppose that, as some have suggested (e.g. Lewis, 1986:113 and
+Kuczynski, 2005a), a proposition P is possibly true exactly if P has internal, structural properties s1...sn. In that case, the
+fact that P* (an arbitrary proposition) has s1...snwill necessarily be re ected in the fact that P* is true in some possible
+world. But P*’s being possible willconsist in its having s1...sn, not in its being true in some possible world. The statement
+P is possibly true exactly if P is true in some possible world is a good (negative) touchstone for the truth of an analysis of
+possibility. But it doesn’t follow that modality is necessarily correctly analyzed in terms of the notion of a possible or
+alternative world.
+18
+        In this context, the term ‘‘formula’’ is to mean ‘‘open-sentence.’’ Consider the expression ‘‘x has F.’’ This is not an
+actual sentence, since it has two variables in it, namely ‘‘x’’ and ‘‘F’’. (These are variables of different types. But that fact
+isn’t central to what we are discussing, and we may safely omit further discussion of it.) When these variables are replaced
+with constants of the appropriate type (e.g. ‘‘Smith’’ and ‘‘the property of tallness’’), what results is a sentence. In general,
+an open sentence is an expression E such that E contains free variables and such that when those free variables are
+replaced with constants (of the appropriate type), the result is a sentence.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916881
+
+    rest of the paper.) A ‘‘model set’’ is a set of formulae such that the set of propositions expressed
+    by some interpretation of those formulae constitutes a part of maximal consistent set. (By an
+  ‘‘interpretation’’ of a set of formulae is meant a set of sentences resulting from a uniform
+                                        19
+    assignment of constants to the variables in those formulae.)Finally, a ‘‘model system’’ is a set
+of state descriptions.
+  On this basis, Hintikka says the following about the concepts of necessity and possibility.
+  Possibly p is true in state description S, belonging to model set M, iff there is some state
+    description S*, also a member of M, ful lling two conditions. First, p is true in S*. Second, S* is
+    analternativeto S, meaning that the propositions in S* jointly describe how the worldmight have
+    gone, supposing that the propositions in S jointly describe how the world actually is. Necessarily
+    pis true in state description S iff, for every in state description S* in M that is an alternative to S, p
+is true in S*.
+  The system just described has provided the basis for a number of extremely fruitful insights
+    into modality, and its value to manyresearch projects cannot be overstated. But it is not viable if
+    takenas an analysisof modality. By de nition, one maximal consistent set is an ‘‘alternative’’ to
+    another exactly if what is possible in the one is actual in the other. So taken as an analysis of the
+    notion of possibility, the view of possibility stated in the previous paragraph is guilty of vicious
+  circularity. The same point (mutatis mutandis) applies to the corresponding analysis of
+necessity.
+  The circularity is so obvious that Hintikka clearly did not mean it to be taken as an analysis of
+    possibility, but rather as an elucidation of that notion. Thus taken, Hintikka’s view is beyond
+    reproach. But in this context we are looking for an analysis of possibility, and we have not found
+that in this particular quarter of Hintikka’s important work.
+  Within the system just described, state descriptions are meant to be, or at least to represent,
+    possible worlds. (See Hintikka, 1969:79–80.) Given this point, there is another problem with the
+    analysis of Hintikka’s just considered. In order to identify this problem, we must brie y repeat
+    some points made earlier. The expression ‘‘consistent’’ is a modal term. So if we de ne a ‘‘state
+    description’’ as a maximal consistent set of propositions, then we condemn to vicious circularity
+    any analysis of possible truth as truth in some state description. Thus, if the analysis of Hintikka’s
+  that we just considered is to be free of vicious circularity, a ‘‘state description’’ must not be
+    de ned as maximal consistent set. Presumably because he is aware of this very problem, Hintikka
+  does not de ne the term ‘‘state description’’ in this way. Rather, Hintikka says that a ‘‘state
+    description’’ is a set of propositions satisfying requirements (i)–(iv), as de ned a few pages ago
+    (pp. xxx), and thus avoids the just mentioned vicious circularity. But as we saw, given only that a
+    set of propositions satis es conditions (i)–(iv), it does not follow that it is consistent or, therefore,
+that it is (or describes) a possible world.
+
+
+
+19
+  More explicitly, a model set is a of formulae satisfying the following requirements:
+(ii*)
+  For no formula f does S does contain both f and not-f.
+(iii*)
+        S contains the closure set of its atomic formulae under the operations of conjunction, disjunction, and existential and
+        universal generalization. (So if S contains f and S contains g, then S contains f and g. If S contains f, and S contains
+not-g, the S contains forg. And so on.)
+(iv*)
+    The formula a is not identical with a does not belong to S.
+      A model set does not contain any analogue of (i). So a model set is a set of formulas that, on some interpretation,
+        constitute at least a part of a state-description, though not necessarily a complete one. State descriptions may be seen as
+limiting cases of interpretations of model sets.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916882
+
+3.3. PWSEand the PWS-analysis of propertyhood
+
+    3.3.1 Leaving aside everything said so far, if worlds are taken to be sets of propositions, PWS
+  forfeits some of its most important victories. For the next few paragraphs, to put matters
+  into context, we are going to talk about PWS, as opposed to PWSE. (By ‘‘PWS’’, I mean the
+  doctrine that (i)–(iii), as de ned in Section 1, above, are correct, where it is left open how
+        the word ‘‘world’’ is to be taken. So ‘‘PWS’’, in this context, is neutral as to whether
+  ‘‘worlds’’ are meant to be concrete entities or sets of propositions. By contrast, PWSEis the
+  position that (i)–(iii) are correct, where the word ‘‘world’’ is meant to be a representation of
+      some kind, presumably a set of propositions.) We will then return to PWSE.
+        Consider the PWS reduction of properties to functions: a property is a function from
+                20
+    individuals to truth-valuesor, equivalently, is a set of individuals (see Lewis, 1986:50–53).
+    So, for example, the property of being a chordate (a creature with a chorda, the dorsal chord or
+        (proto-)spine) is a function F that assigns truth to all and only those individuals having
+  chordas or, equivalently, is the set of creatures that have chordas. The property of being a
+        rhenate (a creature with kidneys) is a function F* that assigns truth to all and only those
+        individuals having kidneys or, equivalently, is the set of all creatures having kidneys.
+        There is an obvious problem with this analysis. Functions are typically identi ed with,
+  or at least seen as being individuated by, the sets of ordered pairs associated with them. (So,
+  supposing that its domain is the set of whole numbers, the function F(x) = 2x is identi ed
+with the set of pairs:<1,2>, <2,4>, and so on.)
+        Given this, suppose for the sake of argument that, in this world, all and only rhenates are
+  chordates. It follows that, in this world, F and F* generate exactly the same ordered pairs.
+  Thus, F and F* are the same function, meaning that the PWS-analysis of properties falsely
+                                                              21
+      identi es the property of having a chorda with the property of having a kidney.
+        There are two ways that one might respond to this argument. The  rst response is to say
+  that objects fromother worldsare to be included in the domains of the functions with which
+  properties are identi ed. There are other (possible) worlds where there are creatures with
+  chordas but not kidneys. So F and F* generate different sets of ordered pairs, and are thus
+                                                        22
+      distinct functions, if their domains include objects from other worlds.The second
+                                                      23
+  response is to deny that functions are identical with sets of ordered pairs.Let us consider
+each of these options, starting with the second.
+        The view that functions are identical with sets of ordered pairs is sometimes known as
+  ‘‘extensionalism.’’ But a function may also be thought of as a way of generating asetof
+  ordered pairs, without itself being identical with any such set. This way of thinking about
+  functions is sometimes referred to (more among mathematicians than semanticists) as
+    ‘‘intensionalism.’’ From an intensionalist viewpoint, F and F* are different functions because,
+
+20
+        In any case, this is one way that PWS analyzes the notion of a property. What we will say here applies to any PWS-
+analysis of propertyhood. See also Lewis (1986:50–53) for a discussion of the different PWS-analyses of propertyhood.
+21
+        See Lewis (1986:55–56): ‘‘Everyone agrees that it won’t do to take properties as the sets of its this-worldly instances,
+  because then two properties will be taken to be identical if they happen to be co-extensive.’’
+22
+        Lewis (1986:51) makes exactly this point. But Lewis takes other worlds to be concrete entities, and is invulnerable to
+the criticisms of PWS discussed in this section. After all, the purpose of this section is to show how PWS lands into certain
+  traps if it takes other worlds to be sets of propositions (as opposed to concrete entities).
+23
+          See Lewis (1986:56): ‘‘ ‘Triangular’ means having three angles, ‘trilateral’ means having three sides.’’ Lewis goes on
+to say that any conception of propertyhood according to which those are different properties ‘‘demands that properties
+should be structured’’ [Lewis’ emphasis]. This is not exactly the point I am making, but it is obviously similar.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916883
+
+        even though they generate the same ordered pairs (at least in this world), they do so in
+different ways.
+        From an intensionalist viewpoint, what is it that distinguishes F from F*? The answer is
+          basically this. Where the one function is concerned, an object’s having the property of being a
+          chordate is implicated in a certain way in that function’s assigning truth to that object, and that
+          object’s being a rhenate isnotthus implicated; and where the other function is concerned, an
+          object’s having the property of being a rhenate is implicated in a certain way in that function’s
+        assigning truth to that object, and that object’s being a chordate is not thus implicated.
+        The intensionalist distinction between F and F* is thus drawn in terms of the properties
+        rhenate and chordate. Consequently, an intensionalist perspective is not available to
+          someone who wishes to analyze those functions in terms of those properties. PWS is guilty
+        of vicious circularity if it takes an intensionalist view of functions, at least in so far as PWS
+                                                          24
+    aspires to analyze properties as functions (or sets) of the sort in question.
+          Consequently, insofar as she wishes to analyze properties along such lines, the advocate of
+        PWS must take an extensionalist view of functions, i.e. she must see functions as being
+          nothing but sets of ordered pairs. In that case, as we discussed, if she is to distinguish between
+          F and F*, she must allow objects from other worlds into the domains of those functions. Let us
+          now consider the consequences of going this route. More speci cally, let us now see why it is
+    not possible for PWSE(notice the return of the subscript) to go this route.
+
+  3.3.2 Supposing that a possible world is a set of propositions, what do we mean by a possible
+        individual? There are no actual persons who are over 9 ft tall. But such an individual is
+        possible. If we accept PWS, this means that there is such an individual in some world W.
+        AccordingtoPWSE(note the subscript), W is a set of propositions. So if PWSEis right,
+      then a possible individual is one who is described, or otherwise implicated, in an
+      admissible set of propositions. So for PWSE, a possible object would be one that is
+      mentioned or described in a proposition that is a member of a possible world, i.e. an
+          25
+admissible set.
+          The problem is that every proposition consists of properties. Consider the propositionJohn
+                                                26
+          is tall. This proposition attributes the property of tallness to John.The property of tallness
+        thus seems to be a constituent of this proposition or, at any rate, to be a prerequisite to its
+
+
+24
+        There is another, much deeper reason why the intensionalist analysis of functions is not available to the advocate of
+          PWS or, therefore, to the advocate of PWSE. The essence of PWS is that it reduces the intensional to the extensional. For
+        reasons yet to be given, if functions are viewed intensionally, then all of PWS’s analyses must be correspondingly
+        re-intensionalized. But in that case, PWS comes to naught, since has failed to extensionalize anything. We will spend a
+great deal of time delineating and defending this line of thought.
+25
+        A bit more would have to be said. There are maximal consistent sets of propositions that include propositions like John
+  was thinking about the round square. So a maximal consistent set of propositions could describe an impossible object (though
+          it seems far less plausible to say that an impossible object could be aconstituentof any proposition). What seems impossible
+        is that one of the atomic propositions composing a maximal consistent set could describe an impossible object, since
+        descriptions seem to involve the use of generalizations of some sort (‘‘there is a round square x such that ...’’). So,
+  presumably, given a PWS conception of necessity, and given the view that possible worlds are sets of propositions, a possible
+        object becomes one that is mentioned in (or is described by, or is a constituent of) some atomic proposition composing a
+possible world.
+26
+        It isn’t really clear whether the propositionJohn is tallis different fromJohn has the property of tallness.Of course, the
+          sentence ‘‘John is tall’’ is different from the sentence ‘‘John has the property of tallness.’’ One could understand the  rst
+  without understanding the second; the semantic rules assigning meaning to the one do not quite coincide with those assigning
+    meaning to the other. But it is far from clear that those sentences encode different propositions.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916884
+
+  existence. This point generalizes without limit. Pick any atomic proposition you wish: it
+                                                                  27
+  attributes a property to something and thus presupposes the existence of some property.
+  Since molecular propositions are built out of atomic propositions, it follows that every
+    proposition, and thus every set of propositions, presupposes the existence of some property.
+  So if we identify worlds with sets of propositions, we are guilty of vicious circularity if we
+  identify properties with functions involving worlds.
+
+    3.3.3 There is a way that an advocate of PWS might resist this argument. Consider the proposition:
+
+(T)triangles have three sides.
+
+          According to PWS, T is either a function from worlds to truth values (one that assigns truth
+    to every world where that proposition is true) or, equivalently, it is a class of worlds (the class
+  of worlds where it is true). Let U be the class just mentioned. If T is identi ed with U, then T is
+  not (at least not in any obvious way) built out of the properties triangle, three, and so on. For
+        any proposition P, an analogous line of thought would suggest that P is not built out of
+  properties. If this is the case, then the argument given a moment ago would seem to collapse.
+        But there is a well known problem with this maneuver. If propositions are the sets of
+  worlds where they are true, then T is identical with the proposition:
+
+(O)three is an odd number.
+
+But O and T are not identical.
+        Advocates of PWS respond to this by treating propositions as structured assignments of
+  truth-values to worlds. (See Lewis, 1970, Cresswell, 1985.) So even though T and O assign
+    the same truth-values to the same worlds, they are different propositions since they generate
+        those assignments in different ways. In the one case, the property of triangularity is
+  involved in a certain way in the relevant assignment; in the other case, that property is not
+        thus involved. In the one case, the property of oddness involved in a certain way in the
+relevant assignment; in the other case, it is not thus involved.
+        But, of course, the maneuver just described involves taking an intensionalist view of
+  functions and thus, for the reasons given a moment ago, renders viciously circular PWS’s
+                              28
+identi cation of properties with functions.
+        The preceding discussion has a consequence worthy of note. Let us refer to properties of
+        individuals (e.g. tallness, baldness) as ‘‘ rst-order’’ properties, and to properties of
+  propositions (e.g. truth, necessity) as ‘‘second-order’’ properties.
+
+27
+  n-place relations can be treated as properties of ordered n-tuples.
+28
+          There are different PWS reductions of properties to functions. But the argument just given shows that any one of them is
+unfeasible. For example, Lewis (1986:55–57) suggests that a property can be seen as a set of its instances. On this view,
+properties that happen to have the same extensions (e.g. rhenate and chordate) are falsely identi ed with each other, unless
+either objects from other worlds are allowed into the domains of the relevant functions or properties are seen as having
+structure. As we’ve discussed, propositions are themselves built out of properties. So if other worlds are treated as sets of
+propositions, then it becomes viciously circular to allow objects from other worlds to be members of the sets that are being
+identi ed with properties. This leaves us with the option of distinguishing accidentally co-extensive properties by their
+  internal structures. But if we do that, then we are no longer extensionalizing properties; we have given up on the identi cation
+of properties with sets.
+        Sometimes, advocates of PWS identify each property P with a function phi that pairs off each world W with the class of
+individuals in W having P. (See Lewis, 1986:53). Considerations similar to those just stated in the main text (in connection
+    with the identi cation of properties with functions from individuals to truth-values) apply here.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916885
+
+          PWS identi es propositions with functions from worlds to truth-values or, equivalently,
+        with classes of worlds. We’ve seen that, if this identi cation is correct, then  rst-order
+        properties cannot be identi ed with functions. We would therefore be guilty of a certain
+          theoretical arbitrariness if we identi ed some, but not all, properties with functions. Thus, if
+         rst-order properties are not functions, the same is true of second-order properties. PWS
+        thus requires that second-order properties not be functions. But in that case, as I will now
+    argue, the identi cation of necessity with truth in all worlds collapses.
+        Let F be a function that assigns truth to a proposition P exactly if P is true in every world.
+          From the viewpoint of PWS, P’s being necessarily true is identical with P’s being assigned
+        truth by F. We just saw that the property of being necessarily true is not identical with any
+          function. This means that we cannot identify a proposition’s being necessarily true with its
+        being assigned truth by F. That is equivalent to saying that we cannot identify necessary
+truth with truth in all worlds.
+
+  3.4. PWSEand the ineliminability of vicious circularity through use of the meta-language
+
+  I would like to end this section by discussing two more reasons why PWS cannot identify
+worlds with sets of propositions.
+
+3.4.1 Consider the proposition:
+
+(*) necessarily, 1 + 1 = 2.
+
+  According to PWSE, this means (or, at least, is equivalent with):
+
+      (**) the proposition 1+1=2is a member of every world, i.e. of every admissible
+    set of propositions.
+
+        Let U be the class of all admissible sets of propositions. Since (*) is true, it is presumably a
+        member of U. The same is therefore true of (**), supposing that PWSEis right. Let M be
+        one of the admissible sets to which (**) belongs. M is one of U’s members. (**) is one of
+          M’s members. Thus, a member of a member of U quanti es over U. (Roughly, U is built out
+        of (**), and (**) is built out of, or at least presupposes the existence of, U.) This is a classic
+                                      29
+case of a vicious circle, and is thus unacceptable.
+        To prevent this sort of situation, the advocate of PWSEcannot allow statements that
+        quantify over all worlds to belong to admissible sets of propositions. According to PWS
+          (and PWSE) modal statements fall into this category, since they have the form in all worlds
+        P, in some worlds P, and so on. It follows that modal statements must not be members of
+admissible sets.
+        For this reason, advocates of PWSEdo not allow modal statements, like (*) and (**), to
+          be members of worlds. Such statements are relegated to the ‘‘meta-language’’, and vicious
+circularity is thus avoided.
+
+
+29
+          Unless we heroically accept some version of non-standard set-theory. (SeeBarwise and Moss, 1996.) But presumably
+        PWS doesn’t want to make the truth of non-standard set-theory be a pre-condition for its own truth. In any case, if some
+        kind of non-standard set-theory did turn out to be correct, it would still be worth pointing out the dependence of PWS on
+such a theory.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916886
+
+        But not all statements that refer to worlds are modal statements, and this recreates the
+  sort of vicious circularity just considered. For the sake of argument, suppose that there is a
+  class U such that U contains all admissible sets of propositions, and nothing besides. Now
+  suppose that Smith is a cognitively normal person, but has not yet pondered the concept the
+    concept of a possible world. In that case, the proposition
+
+  (a) Smith believes that the propositionpossible worlds are not identical with members
+of U is true.
+
+      is not true, since Smith simply hasn’t contemplated the nature of possible worlds.
+      (Notice that, while (a) has a statement about worlds embedded in it, (a) is not itself a
+  modal statement.) At the same time, (a) obviously could be true. According to PWS, this
+means:
+
+      (b) In some (possible) world, Smith believes that the propositionpossible worlds
+    are not identical with members of U is true.
+
+According to PWSE, (b) means:
+
+      (c) In some member of U, Smith believes that the propositionpossible worlds are
+  not identical with members of U is true.
+
+        U consists of sets of propositions. (c) is one of the members of one those sets. So one of
+  the members of one of the members of U quanti es over U. In fact, U seems to be one of the
+  constituents of (c). U thus ends up being a constituent of a member of a member of itself. In
+  any case, one of the members of the one of the members of U quanti es over U. Either way,
+                    30
+the situation is unacceptable.
+        We cannot eliminate this problem by relegating (c) to the meta-language. (c) merely
+  identi es some fact about Smith’s person, and therefore can no more be relegated to the
+                                            31
+    meta-language than could Smith is happy or Smith is tall.
+      Thinking along lines like those embodied in Russell’s Theory of Types, one
+        might be tempted to say that the occurrence of U in the underlined sentence refers to
+      one set of propositions, while the occurrence of U in the quanti er at the beginning
+        refers to some analogous, but numerically distinct, set of propositions of a different
+  ‘‘type’’ or ‘‘order.’’ (See Russell, 1908.) In this way, vicious circularity could perhaps be
+avoided.
+        But this maneuver is not one that can be made in this context. When we say that (a) could
+        be true, we are saying that Smith could believe the proposition:possible worlds are not
+  identical with members of U. It is a simple modal fact that Smith could believe that exact
+
+
+30
+    This argument has a certain similarity to that given by Bealer (1998), which we will later discuss.
+31
+        Granted, the state of affairs described by (c), and by all others statements about people’s mental states, may well
+supervene on other, lower level states of affairs. But this gives us no grounds at all for excluding (c) from any admissible
+set. After all, the states of affairs described by propositions likeJohn is tall andthat rock weighs four kilograms supervene
+on other, lower-level states of affair, but those propositions obviously belong to some admissible sets. There thus seem to
+be no grounds for denying (c) membership in at least some admissible sets. Consequently, the vicious circularity
+    described a moment ago cannot be removed—at least not by expelling (a) into the metalanguage.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916887
+
+          proposition to be true. We are not talking about some analogous proposition concerning a
+different set of possible worlds.
+
+    3.4.2 This brings us to yet another problem with PSWE. As we just saw, if it is to avoid vicious
+          circularity, PWSEcannot let modal propositions belong to the same admissible sets as non-
+      modal propositions like John is tall. In light of this, consider the proposition:
+
+  (1) it is necessarily the case that, necessarily, 1 + 1 = 2.
+
+        (1) is intuitively plausible and, indeed, is generally taken to be true (see Kripke, 1963).
+  According to PWSE, (1) means:
+
+      (2) The proposition1 + 1 = 2 is a member of every admissible set is a member of
+      every admissible set.
+
+    As before, let U be the set of all admissible sets. In that case, (2) becomes:
+
+    (3) The proposition1 + 1 = 2 is a member of every member of U is a member of
+    every member of U.
+
+        The underlined proposition presupposes the existence of U; indeed, U would seem to be
+                                32
+        one of the constituents of that proposition.But the underlined proposition is itself a
+member of U. So (3) is viciously circular.
+      To prevent this, PWSEwould have to say that the occurrence of U in the underlined
+          sentence refers to one set, or tier, of admissible sets, while the non-underlined occurrence
+        refers to some other tier. In that case, the two occurrences of ‘‘necessarily’’ in (1) have
+          different (though analogous) meanings. The  rst means ‘‘in every admissible set belonging
+          to tier A’’, while the second means ‘‘in every admissible set belonging to tier B’’, where A
+        and B comprise different sets of propositions. For exactly similar reasons, the three
+occurrences of ‘‘necessarily’’ in:
+
+    (4) it is necessarily the case that, necessarily, 1 + 1 necessarily equals 2,
+
+                                        33
+  would have different (though analogous) meanings.
+        But this seems quite unacceptable. If our intuitions are to be trusted, the two occurrences
+        of ‘‘necessarily’’ in (3), and the three occurrences in (4), all have precisely the same
+meaning.
+      Further, if we conceded to PWSEthat those occurrences quanti ed over different
+          worlds, then it would be necessary to subject the basic theorems of modal logic to counter-
+          intuitive reinterpretations. This would obviously be true of the generally accepted principle
+
+
+32
+        In any case, if we think of propositions as having constituents – as being structures consisting of properties, relations,
+        and perhaps individuals – then it seems that U is one of the constituents of that proposition. And this is a widely accepted
+regarding propositions—one held by Russell (1985), Kaplan (1989), and others.
+33
+      Russell’s Theory of Types has a similar consequence. See Russell (1908). If that theory is right, then the word
+          ‘‘three’’ in ‘‘John has three cars’’ has a meaning different from (though analogous to) that borne by its homonym in ‘‘John
+      has three pairs of shoes’’, since the  rst occurrence refers to individuals, whereas the second refers to sets.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916888
+                                      34
+        that necessarily p implies necessarily, necessarily p.But the same would be true of if
+  possibly p, then necessarily possibly p, since possibly p is the same as not necessarily not p.
+  In fact, it seems that no quarter of modal logic would remain untouched, since one of the
+      purposes of that discipline is to study the effects of iterating and permuting modal
+connectives.
+        We may conclude that PWSEis not viable, and that it is therefore not an option for PWS to
+  identify worlds with sets of propositions. So if we wish to hold onto PWS, then we must see
+  possible worlds as being concrete entities (‘‘maximal states of affairs’’, or some such). In
+    other words, we must consider possible worlds as being in the same metaphysical category as
+our world.
+
+4. Part III. Why PWS cannot identify worlds with concrete entities
+
+4.1. Some unwelcome consequences of modal realism
+
+    I will now argue that, if we see possible worlds as concrete entities, then PWS has a number of
+  unpalatable consequences, one of them being that every proposition is necessarily true or
+necessarily false.
+    Suppose that, as PWS requires, there are various alternative worlds. In light of this, consider
+    the proposition Smith is tall in W37, and suppose that it is true. ("W37" is short for "World 37.")
+    That proposition is true in every world. For example, it is true in W867 that, in W37, Smith is tall.
+It is irrelevant whether or not Smith is tall in W867.
+  Here is an analogy. Consider the proposition it is raining in London on March 22, 2006, and
+    suppose that it is true. That proposition is true at places and times where it is not raining. The fact
+    that it is not raining in London on July 22, 2006 is irrelevant to the truth of the proposition that it is
+    raining in London March 22, 2006. Similarly the fact that Smith is short in W867 is irrelevant to
+    the truth of the proposition that he is tall in W37. A similar line of argument shows that Smith is
+                        35
+not tall in W37 is false in every world.
+  If PWS is to avoid making all propositions necessarily true or necessarily false, then it must
+    show that the propositions that we intuitively regard as contingent – the propositions af rmed by
+    utterances of ‘‘Mozart wrote over forty symphonies’’ and ‘‘Napoleon became a famous general’’
+  – are not world-indexed and, further, are not equivalent with world-indexed propositions.
+    In light of this, let W1be our world; and let P be the proposition af rmed by an utterance in W1
+    of ‘‘Mozart wrote over forty symphonies.’’ Presumably P is contingent—it is not in the same
+  category as water is H2O or 1+1=2.What must be the case for P to be true? It is irrelevant
+    whether Mozart wrote over forty symphonies in W87 or W8,986. Only one world counts—W1.
+
+
+34
+      There is one last reason why PWS oughtn’t identify worlds with sets of proposition. We saw earlier how PWS
+elegantly analyzes the notion of truth in terms of set-membership. Let S be the set of worlds where grass is green, and let
+w be our world. For the proposition grass is green to be true is simply for w to be a member of S. If correct, this would
+shed a striking light on the nature of truth. But this illumination is lost if worlds are identi ed with propositions. The
+notion of a proposition is usually understood in terms of that truth: propositions are truths or falsehoods, or they are those
+things that are non-derivatively true or false. (Later we will brie y revisit this topic.) If (as appears to be the case) the
+concept of a proposition is to be understood in terms of that truth, then the same is true of the concept of a world (i.e. an
+admissible set of propositions). In that case, to avoid vicious circularity, the concept of a proposition’s being true would
+  have to be understood independently of the concept of membership in a set of worlds.
+35
+  See Plantinga (1974:62–65) for a similar, if not identical, point.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916889
+
+    The statement is correct exactly if, in W1, Mozart wrote over forty symphonies, i.e. exactly if the
+proposition:
+
+(PW1)Mozart wrote over forty symphonies in W1
+
+is correct.
+  So when you say ‘‘Mozart wrote over forty symphonies’’, the proposition that you are
+    af rming has the same truth conditions as a world-indexed proposition. We’ve seen that, given a
+    PWS framework, PW1 is necessarily true. It follows that, given such a framework, the same is
+    true of the proposition you are af rming. But, in reality, the proposition you are af rming is a
+              36
+paradigm of contingency.
+    The argument just given is anticipated by Plantinga (1974:62–65). Suppose that Socrates is
+    snub-nosed in W65. In that case, Socrates has the property of being snubnosed-in-W65. It is true
+    in every world, even those where he is not snub-nosed, that Socrates has the property of being
+    snubnosed-in-W65. Plantinga goes on to say: ‘‘It is easy to see that being snub-nosed in [W65] is
+    essential to Socrates’’, since Socrates has the property of being snub-nosed-in-W65 in every
+world, and an essential property is one that a thing has in every world.
+  Even though his own logic would seem to demand it, Plantinga does not draw the further
+  conclusion that, if we identify necessity with truth in all worlds, then all propositions are
+    necessarily true. Suppose that you are in W65 (where, to simplify the argument, we may suppose
+    that English is spoken) and you say ‘‘Socrates is snub-nosed.’’ Your statement is true exactly if
+  Socrates is snub-nosed in W65. It is irrelevant whether he is snub-nosed in W876. So your
+    statement is true exactly if Socrates has some property that, by Plantinga’s own lights, he either
+                                                                    37
+    has in every world or in none, and that he therefore necessarily has or necessarily does not have.
+
+36
+        This is not to say that an utterance of ‘‘Mozart wrote over thirty symphonies in W1’’ is identical in respect of linguistic
+  meaning with an utterance, in W1, of ‘‘Mozart wrote over thirty symphonies.’’ A comparison may help. Suppose that you are
+        in location L at time T, and you say ‘‘it is now raining here.’’ The proposition you are af rming is true exactly if the
+        proposition: in place L and time T, it is raining is true. So the proposition you are af rming has exactly the same truth
+          conditions as the proposition encoded in an utterance of ‘‘in place L and time T, it is raining.’’ But there would seem to be a
+          clear sense in which an utterance, in place L and time T, of ‘‘it is now raining here’’ is semantically different from an utterance
+          of ‘‘in place L and time T, it is raining.’’ (See Kaplan, 1989 for a classic defense of this now widely accepted position.) For
+          example, you could not understand an utterance, in place L and time T, of ‘‘it is now raining here’’ without knowing what
+          ‘‘now’’ and ‘‘here’’ meant; but such a de ciency would not necessarily prevent you from understanding an utterance of ‘‘in
+        place L and time T, it is raining.’’ The semantic rules assigning meaning to the one utterance don’t coincide with those
+      assigning meaning to the other, even though the truth conditions assigned to the utterances do coincide.
+        An utterance of ‘‘Mozart wrote over forty symphonies in W1’’ is semantically different from an utterance, in W1,of
+          ‘‘Mozart wrote over forty symphonies.’’ But for analogues of the reasons just considered, this in no way con icts with the
+idea that the propositions encoded in such utterances may be equivalent.
+37
+        In his discussion of world indexed properties,Plantinga (1974:64) makes a suggestive remark that might seem to have
+some bearing on our viewpoint:
+        ‘‘We must not be misled by our terminology to suppose that a possible world is a place, like Wyoming, so that being
+        snub-nosed in [W67] is like being mugged in Chicago. A possible world is a state of affairs, not a place; and far be it
+from me to claim otherwise.’’
+          Plantinga is right that, if there are possible worlds, they are not places. Spatial location is a property that things havewithin
+          a world; worlds themselves do not have it. (If two things are spatially located with respect to one another, then they are ipso
+          factoin the same world.) It might seem that our argument involves a false assimilation of worlds to places. But this is not so. A
+          person cannotjustbe mugged: he must be mugged in Chicago or Paris. Socrates cannotjustbe snub-nosed; he must be snub-
+          nosed in some maximal state of affairs, in W65 or W899. Of course, here the word ‘‘in’’ doesn’t denote spatial location, as
+          Plantinga (in effect) points out. (Perhaps it would be more accurate to say that any case of Socrates’ being snub-nosed is a
+  constituent of a maximal state of affairs.) Any case of Socrates’ being snub-nosed will be given by a proposition that is world-
+        indexed or equivalent to a world-indexed proposition. The fact that worlds are not places doesn’t undermine this.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916890
+
+  In conclusion, if we accept PWS’s framework, then those propositions that we regard as
+contingent become necessarily true or necessarily false.
+A proponent of PWS might respond to our argument by looking for world-neutral
+  propositions—propositions that are not identical with, or equivalent to, world-indexed
+  propositions. But the problem with this approach is clear. Even if it turns out that there are
+  world-neutral propositions, PWS still turns the propositions that we intuitively regard as
+    contingent—e.g. those af rmed by utterances of ‘‘Mozart wrote over forty symphonies’’—into
+    necessary truths or falsehoods. (For further related discussion, see Excursus I ‘On Necessity,
+    Contingency, and the In nite Regressiveness embedded in PWS’, at the end of this article.)
+
+4.2. Bealer’s argument
+
+    Let PWSINbe the doctrine that PWS is correct, with the quali cation that the functions that are
+    identi ed with propositions are to be viewed intensionally. Let PWSEXbe the doctrine that PWS
+    is correct, with the quali cation that those functions are to be viewed extensionally. As we noted
+    earlier, PWSEXcannot distinguish between distinct, but analytically equivalent, propositions—
+    between, for example, triangles have three sides and three is an odd number. Most advocates of
+  PWS deal with this by advocating PWSIN. But in light of what Bealer (1998) says, we must
+seriously question the viability of PWSIN. Let us now turn to his argument.
+  According to any version of PWS (including PWSIN), the property of necessity is either a
+    function F from propositions to truth-values – a function pairing necessarily true propositions
+  with truth and all others with falsity – or, equivalently, it is a class C that includes all and only
+necessarily true propositions.
+  The proposition necessarily 1 + 1 = 2 is itself a member of C. The property of necessity is
+    itself a constituent of that proposition. So if the property of necessity is identical with C, then that
+    property is a proper constituent of one of its own members. Since this is viciously circular, the
+property of necessity cannot be identi ed with C or, by a similar argument, with F.
+    To block this vicious circularity, the concept of necessity would have to be removed from each
+    of the propositions which are members of C (or, equivalently, to which F assigns the property of
+  truth). But this would require that 1+1=2be falsely identi ed with necessarily 1 + 1 = 2.In
+    light of obvious extensions of the argument just given, necessarily necessarily 1 + 1 = 2 would
+  have to be falsely identi ed with 1+1=2 and also with necessarily 1 + 1 = 2, and with
+countless other propositions involving iterated modal operators.
+    As Bealer points out, an argument exactly similar to the one he gives shows that, foranysecond-
+    level property, PWSINgenerates a regress like that discussed above. We thus have good reason to
+    believe that the PWSINanalysis fails for some properties. On this basis, Bealer makes a plausible
+    case that it fails forallproperties. Presumably, the property of a property is not disjunctive; it is not
+    like the property of being EITHER A BIRD OR A HARPSICHORD-PLAYER. If this is right, then
+    given that the PWSINanalysis fails for some properties, considerations of uniformity demand that
+  we see it as failing for all of them. (For more on the consequences of Bealer‘s argument, see
+Excursus II, ‘Bealer and the Problem of Circularity’, at the end of this article).
+
+4.3. Counterpart theory and its discontents
+
+    If worlds are taken to be concrete entities, PWS runs into problems additional to those already
+    discussed. Let us talk about the actual Socrates—the man who, in this world, died of hemlock
+    poisoning a few thousand years ago. Suppose that in some world W, distinct from our world, there                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916891
+
+    is a man x who did not die of hemlock poisoning. In that case, Leibniz’s Law would seem to tell
+                          38
+  us that x is not identical with Socrates.Obvious extensions of this reasoning demand that
+                    39
+Socrates exist only in one world.
+  For this reason, Lewis wisely says that Socrates himself does not exist in other worlds, even
+    though Socrates has counterparts in other worlds (Lewis (1968, 1986)). In general, no object
+  exists in multiple worlds, even though any object will have counterparts in other worlds.
+                                40
+  But there are several problems with this view.Some of these are well known, and some are
+not. Let us start with the former.
+  In our world, Socrates was wise. Given that Socrates exists only in this world, it follows that
+    there is no world where Socrates was not wise. So it would seem to follow that, by PWS’s lights, it
+    is necessarilytrue that Socrates was wise. Given any proposition that we would intuitively regard
+    as contingent, a similar argument shows that, by PWS’s lights, that proposition is necessary.
+    A counterpart-theorist deals with this by saying that Socrates is necessarily wise just in case all
+    of Socrates’ counterparts are wise. In general, counterpart-theory must reject the identi cation of
+  necessity with truth in all worlds. Necessary truth becomes truth under all appropriate
+    substitutions of counterparts for counterparts. The concept of possibility is correspondingly re-
+analyzed.
+    But this view is problematic. First, it lacks a certain consonance with our pre-theoretic modal
+    intuitions. Second, it is, strictly speaking, an abandonment of the corner-stone of PWS—the
+principle that necessary truth is truth in all worlds.
+    Of course, neither of these points necessarily warrants therejectionof counterpart-theory. But,
+    as I now propose to show, it is not hard to give argumentative grounds for the feeling of worry that
+they awaken.
+    First of all, what is a counterpart? Here is David Lewis’ answer. Socrates’ counterpart in W is
+  the thing in W which resembles Socrates more than any other thing in W. If this is right, then
+    counterpart-theory has several problems. First, as Lewis himself points out, by this de nition of
+    ‘‘counterpart’’, Socrates may have several counterparts in W. In that case, since there are worlds
+    where Socrates has multiple counterparts, the proposition Socrates is identical with Socrates
+                            41
+presumably fails to be true in every world.
+
+
+38
+        Suppose that there is some world W where somebody x has exactly the same properties as our Socrates, insofar as this
+        is possible. x is not identical with Socrates since Socrates has the property of being in this world, whereas x does not.
+39
+      One way to resist this would be to say that Socrates is not an intra-, but an inter-mundane entity. (See Lewis,
+        1986:198–210.) A comparison might help. The property of redness does not exist in any speci c place or time, even
+        though each of its instances do. Similarly, Socrates per se does not exist in any speci c world, even though some of his
+        parts or perhaps instances do. Leibniz’s Law obviously doesn’t forbid different parts of a given thing from having
+different properties.
+      Such a view has very little basis in what we know about Socrates. Socrates was born at a certain time and died at
+        certain time. He had a certain height and weight. These are data. If we see Socrates as some kind of compound of various
+        inter-mundane individuals, then these data must be rejected. We must therefore not see Socrates in this way, and must
+        continue see him as we are accustomed to see him. Lewis (1986:198–210) provides a superb and (to me) convincing
+discussion of this whole issue.
+40
+Lewis was aware of many of these. See Lewis (1968, 1986).
+41
+    See Lewis (1968:112–113), Forbes (1985:75), and Kaplan (1968:102).
+      Even if some argument could be produced that reconciled counterpart-theory with the presumption that the
+        proposition Socrates is identical with Socrates is true in every possible world, it shouldn’t be necessary to produce
+        such an argument. The law of identity should be enough. So far as counterpart-theory doesn’t con ict with the non-
+        controversial view that S is true in every possible world, it implausibly makes the truth of that view contingent on
+      arguments that, if they were even to exist, would inevitably have an extremely controversial character.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916892
+
+    Further, it certainlyseemspossible that Socrates might have had very few of the properties that
+  he had in this world, and that somebody other than Socrates might have had many of those
+    properties (seeKaplan, 1968; Kripke, 1980). But if we think of a counterpart in the way proposed,
+    then that is not possible, since anything lacking a high degree of resemblance to Socrates is ipso
+facto not his counterpart.
+  Counterpart theory does have a way of avoiding this last problem. According to a view
+    suggested by Lewis, Socrates’ counterpart in W is the occupant of W which has more of Socrates’
+    essential properties than any other such occupant. Consider any of the propositions known to us
+    that distinguish Socrates from other historical  gures: he was wise; he was a philosopher; he
+    drank hemlock; he was an excellent orator. None of the properties involved (wise, excellent
+  orator ...) is essential to Socrates. So Socrates’ counterpart in some other world might have
+  extremely little resemblance to him, at least by any ordinary measure. In this way, Lewis’
+  counterpart-theory is reconciled with the presumption that Socrates might have been very
+different from how he actually was.
+  But there is a problem with this proposal. ‘‘Essential’’ is a modal term, A property w is an
+  essential property of Socrates exactly if Socrates couldn’t possibly fail to have w. We are
+    therefore guilty of vicious circularity if we try to understand necessity in terms of the counterpart
+    relation and then understand the counterpart relation in terms of the concept of essentiality. It thus
+    seems unlikely that any viable version of counterpart-theory can identify Socrates’ counterpart in
+  W as that thing in W which shares Socrates’ essential properties. (For a discussion of how a
+    counterpart-theorist might parry these points, see Excursus III ‘Counterpart Theory and Essential
+Properties’, at the end of this article.)
+
+4.4. PWS and the epistemology of modality
+
+    There is another well-known problem with modal realism. (By ‘‘modal realism’’ I mean the
+                                                                  42
+    view that PWS is correct, with the quali cation that worlds are to be taken as concrete entities.)
+                                                        43
+Modal realism seems inconsistent with the fact that we can know modal truths.
+    According to modal realism, triangles have three sides is necessarily true because, in every
+                  44
+    world, triangles have three sides.We obviously don’t have to leave this world to know that the
+    proposition triangles have three sides is necessary. This suggests that the grounds of its being
+  necessary lie in something that we don’t have to go to other worlds to discover. This in turn
+    suggests that necessarily, triangles have three sides does not hold in virtue of facts about other
+  worlds. In light of this, the fact that triangles have three sides is true in all other worlds would
+    seem to be, not the basis or essence of its being necessary, but only a symptom or consequence of
+that fact.
+Lewis considers this exact point, giving a clear and powerful response to it:
+
+  ‘‘Certainly the way to come by modal opinions is not to inspect the worlds one at a time, not
+  only because we cannot inspect the worlds at all, but because we would have to work very
+        fast to run through all of them within a conveniently short time. You might as well think
+  that our knowledge of the real numbers comes from inspecting them one at a time! No; our
+  methods must be general, in both the mathematical and the modal cases. Certainly, when
+
+42
+  This is not how the term ‘‘modal realism’’ is always used, but it is how Lewis uses it.
+43
+Blackburn (1984) makes this point.
+44
+        In this context, let us assume, in deference to modal realism, that the problems it has in relation to counterpart-theory
+can somehow be managed.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916893
+
+        we reason from recombination by means of imaginative experiments, the method is
+          general; we imagine only some of the salient features, and thereby cover an in nite class of
+worlds all in one act of imagining.’’ (1986:114)
+
+A page earlier, Lewis writes:
+
+          ‘‘In the mathematical case, the answer [to the question how we know general truths] is that
+        we come by our opinions largely by reasoning from general principles that we already
+          accept; sometimes in a precise and rigorous way, sometimes in a more informal fashion. As
+          when we reject arbitrary-seeming limits on the plentitude of the mathematical universe. I
+          suppose the answer in the modal case is similar. I think our everyday modal opinions are, in
+      large measure, consequences of a principle of recombination.’’ (1986:113)
+
+  Lewis is surely right that our methods for discovering modal truths involve ‘‘general
+    principles.’’ But in saying this Lewis is conceding the very point he is combating. A ‘‘general
+principle’’ of the relevant kind would be given by a statement of the form:
+
+(*) Proposition P is necessary exactly if P has property w,
+
+  for some property w. Of course, w must be such that we don’t have to inspect other worlds to
+    determine whether a proposition instantiates that property. Otherwise, (*) would not give us a
+    way to avoid having to go to other worlds to determine whether P is necessary. So w is an intra-
+    mundane property, as opposed to aninter-mundane one. Further,wcannot itself be the property of
+    being necessary; otherwise (*) becomes a sterile triviality that would be of no use in enabling us
+    to distinguish necessary from non-necessary propositions. So w must be a non-modal, intra-
+mundane property had by all and only necessarily true propositions.
+  But if w satis es these requirements, then it becomes unclear why we need the concept of
+  other worlds to explicate the concept of necessary truth. An adequate analysis of modality
+  cannot be viciously circular, and thus cannot analyze modality in terms of itself. (On those
+    grounds,P is necessarily true iff P is true in all possible worldsis ruled out, at least as ananalysis
+    of the concept of necessity—though not necessarily as an illuminating statement about that
+  concept.) So an analysis of necessity must be given by a statement that gives a non-modal
+  characterization of all and only those propositions that are necessarily true. (*) is just such a
+  statement.Giventhis,whynotsaythatnecessarytruthispossessionofw, and that truth in all
+    worlds is a mere symptom of possession ofw? If this line of thought is right, then (*) constitutes
+    an adequate analysis of modality that doesn’t involve other worlds. Thus, the very existence of
+    the sort of principle that Lewis discusses eliminates the need to understand modality in terms of
+    other worlds. (For further related discussion, see Excursus IV ‘On Lewis and Modality’, at the
+end of this article.)
+
+  5. Part IV. Hintikka on the relevance of sets of worlds to some problems relating to
+mental and linguistic content
+
+    5.1 Hintikka has shown how PWS can be of great assistance in the study of propositional attitudes
+  and mental content. The heart of Hintikka’s work here lies in the following statement:
+
+      (H) Smith believes P exactly if P is the case in every world compatible with what
+    Smith believes.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916894
+
+  Smith believes that snow is white exactly if, in every world compatible with Smith’s belief-
+                                                                  45
+  system, snow is white. Analogues of H can be constructed for other propositional attitudes.
+        Considered as an analysis of the concept of belief, H is viciously circular, since the term
+    ‘‘believes’’ occurs on both sides of the biconditional. Obviously, Hintikka did not mean for H
+  to be an analysis of the concept of belief, but rather as an attempt to show that the contents of
+                                                      46
+    our beliefs can be seen as being individuated in terms of sets of worlds.
+        Looked at from this viewpoint, is H a success? There are some reasons to think not. First of
+  all, H isn’t true. The class of worlds compatible with the belief that
+
+(*) triangles have three sides
+
+  is identical with the class of worlds compatible with the belief that
+
+(**) there are continuous functions that cannot be differentiated at any point.
+
+  But a person could certainly believe (*) without believing (**). So supposing that Smith
+    knows (*) but not (**), the class of worlds compatible with Smith’s belief that (*) is identical
+  with the class of worlds compatible with a belief in (**). From this it follows straightfor-
+wardly that H is false.
+                                          47
+        Beliefs are thus individuated more  nely than H allows.This re ects a fact about the
+    objects of belief, that is, about propositions. If Smith believes (*), the concept of a triangle is a
+  constituent of the proposition he believes; but this is not the case if he believes (**). (In this
+  context, by a ‘‘concept’’ I mean a non-psychological entity: the meaning of a predicate.)
+      To deal with this, we must take care not to strip beliefs and propositions of their
+    individuating constituent-structure. If we wish to continue to operate within a framework at
+  all like that involved in Hintikka’s analysis – that is, if we wish to operate within a PWS-
+  framework – we must see propositions as functions from worlds to truth-values (or,
+  equivalently, as sets of worlds). Given these points, we must say that, even though (*) and
+  (**) are both functions that generate the same ordered pairs, the way they do so differs. (In
+  one case, the property or concept triangle is involved in a certain way; in the other, it is not
+  thus involved ...) In other words, we must take an intensionalist view of those functions.
+        But if we go that route, then the content of Smith’s belief is no longer a class of worlds, but
+  is rather a structure consisting of concepts like triangle, three, and so on. In general, if we go
+    the route just proposed, what becomes relevant to belief-individuation are the structures that
+    generate the assignments of truth-values to worlds. Those assignments themselves drop out,
+along with the worlds they involve.
+
+45
+  Lewis incorporated these views into his work. For example, see Lewis (1986:123).
+46
+      Hintikka himself (1969:156) says that they are not meant to constitute analyses, but only elucidations.
+47
+        Hintikka (1969:156) acknowledges this problem. But he says that it is ‘‘easily parried’’ by considering points he
+makes in his paper ‘‘Are Logical Truths Tautologies?’’ (Hintikka 1973:150–173). This seems to me an over-statement. In
+      that paper, the solution given to the problem in question involves treating worlds as sets of propositions (state
+descriptions), and it makes heavy use of the fact that there are internal, structural differences between analytically
+equivalent propositions. But, in that case, what becomes relevant to the individuation of propositional attitudes are the
+  internal properties of propositions. The role of worlds in attitude-individuation becomes marginal or non-existent. (That is
+why, given two propositions that are true in the same worlds, one can believe the one and disbelieve the other. It seems,
+then, that beliefs are individuated wholly in terms of the internal properties of propositions, and to no degree in terms of
+the sets of worlds where they are true.) This is not to mention the dif culties previously discussed involved in identifying
+worlds with sets of propositions.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916895
+
+  5.2 By itself, this does not mean that it is wrong to see sets of worlds as having a key role in the
+    individuation of mental content. The concepts composing (*) and (**) canthemselvesbe seen
+    as functions involving worlds. For example, the concept triangle might be seen as a function
+  that pairs off each world with the set of things in it that are triangular. Other concepts would
+be seen in similar terms. (See Lewis 1986:56.)
+      Supposing that the approach just described is correct, the functions of which (*) is
+    composed are not identical with the functions of which (**) is composed. Thus, the approach
+  in question is able to distinguish between (*) and (**) and, in general, between distinct but
+  analytically equivalent propositions. Each of (*) and (**) is a function (albeit a highly
+  articulated one) from worlds to truth-values; and both of those propositions assign the
+        same truth-values to the same worlds. But they make those assignments in different
+    ways; and that is why believing (*) is different from believing (**). So it seems that, contrary
+      to what we argued a moment ago, we can continue to see mental content as being
+    individuated in terms of functions involving worlds and, therefore, in terms of (inter alia) sets
+    48
+of worlds.
+        But the problem in question merely recrudesces. Viewed in the manner proposed in the
+    last two paragraphs, the concepts even prime and predecessor of three will generate exactly
+  the same ordered pairs. At the same time, they are obviously distinct concepts (at least from
+  the viewpoint of the individuation of mental content: somebody who believes two is the
+    predecessor of three doesn’t necessarily believe two is the even prime). Consequently, if we
+    view these concepts as functions involving worlds, then we must see those functions as being
+  individuated not by the sets of pairs they generate, but rather by their internal compositions.
+      (See Lewis, 1986:56.) The one does, while the other does not, involve the concept
+  predecessor in a certain way. The one does, while the other does not, involve the concept
+    prime in a certain way. For those reasons, and others like them, those functions are distinct. In
+      general, if we wish to identify concepts with functions, then in order to distinguish
+  necessarily co-extensive concepts (e.g. even prime/predecessor of three), we must take an
+intensionalist view of those functions.
+          But then, as before, what becomes relevant to the individuation of mental content is not the
+  set of ordered pairs generated by those functions, but only the internal structures of those
+    functions. The ordered pairs generated, and the worlds involved in those ordered pairs, drop
+    out. When we want to know whether little Timmy believestwo is the predecessor of three–as
+  opposed to two is the even prime or triangles have three sides or there are continuous
+        functions that can nowhere be differentiated ... – we don’t look to see in what worlds
+  Timmy’s belief is true. That procedure won’t discriminate among these various candidate
+      beliefs. We don’t even look to see at the pairings generated by the functions that are
+  (supposedly) identical with the concepts constitutive of the relevant propositions. That
+  procedure won’t distinguish between two is the even prime and two is the predecessor
+    of three. To adequately individuate Timmy’s mental contents, we must look to the structures
+  of the concepts composing the possible objects of his belief (and we must also, of course,
+        look at the structures of the propositions themselves). So, by itself, the set of worlds
+  where Timmy’s beliefs are true is at multiple removes from being able to adequately
+      individuate Timmy’s mental contents. In fact, that set is idle in terms of content-
+  individuation: what is doing all the work is the apparatus that generates, but is distinct from,
+that set of worlds.
+
+48
+  This is Lewis’s (1986:56) approach to the problem being discussed.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916896
+
+    5.3 As a way of combating this argument, an advocate of PWS could maintain that ultimately we
+  arrive at simple concepts that have no internal composition. The idea would be that, even
+    though the concepts even prime and predecessor of three obviously have structure, leading to
+    the problem just discussed, the same is not true of theultimateconstituents of these concepts. So
+    even though even prime is a complex concept that decomposes into even and prime; and even
+    though (orthography notwithstanding), the concepts even and primeare, in their turn, complex
+    (since, for example,evendecomposes intotwoanddivisibleandnumber...), nonetheless, if we
+    take our conceptual analysis far enough, weeventuallyarrive at some set of concepts C1...Cn
+  such that the concept even prime is built out of C1...Cnand such that, for each i, Ciis simple
+  (i.e. is not built out of other concepts). So, the idea would be, those ultimate concepts
+    are identical with functions (involving worlds) that, lacking as they do any internal structure,
+  are to be individuated entirely in terms of the ordered pairs they generate. In general,
+  complex concepts must ultimately decompose into simple concepts and, when we are
+  dealing with these simple concepts, there is no possibility of  nding a pair of concepts that
+  are distinct but necessarily co-extensive. Thus, when we arrive at these ultimate, simple
+    concepts, the problem we’ve been dealing with – viz. necessarily co-extensive concepts can be
+  distinct (at least from the standpoint of the individuation of mental content) – altogether
+disappears.
+        But there is a reason why we must not accept the viewpoint just described. It is hard to
+    accept the view that there are any concepts that completely lack structure—that there are any
+  ‘‘simple’’ or ‘‘ultimate’’ or ‘‘primitive’’ concepts. In other words, it is hard to believe that
+  there is any set of concepts C1...Cnmeeting the conditions described in the last paragraph;
+    and these days the sort of atomism presupposed by the view there are such concepts is widely
+  49
+    rejected.We’ve already seen why. Given many, if not all, concepts F, there are concepts F1,
+  F2,...such that, for each i, Fiis not identical with not-F, but such that x has Fiis nonetheless
+  incompatible with x has F. These incompatibilities presumably re ect facts about the
+  structure of F. So it seems unlikely that we could ever produce the ‘‘ultimate’’ concepts
+                            50
+needed by the view we are considering.
+
+
+49
+Fodor (1998) is a conspicuous exception.
+50
+        The argument just given presupposes that concepts typically have analytic structure. But some (most notably Fodor,
+1998) argue that no concepts have analytic structure. (Fodor allows that there are a few trivial exceptions to this principle.
+For example, he allows that the concept large brown cow has analytic structure, the same being true of all other concepts
+that are arti cially constructedout of other concepts.) If that sort of conceptual atomism is correct, then the argument that
+I just gave would be scuttled. It should be noted that opponents of the analytic-synthetic distinction are committed to the
+idea that concepts do not, as a rule, have any analytic structure.
+        But there are two reasons why it is deeply suspect that PWS – a doctrine about modality – would rely on a denial of the
+analytic-synthetic distinction. First, it is, to say the least, a matter of great controversy whether it is correct to deny that
+there is a legitimate analytic-synthetic distinction. Presumably it is analytic that ‘‘x is a square’’ entails ‘‘x has four sides’’,
+and presumably it is analytic that ‘‘x is an instance of knowledge’’ entails ‘‘x is a belief.’’ If these presumptions are
+    correct, then there is an analytic-synthetic distinction, and concepts do have analytic structure.
+        Second, the denial of the analytic-synthetic distinction, i.e. the denial of analytic truth, would seem to be much more in
+keeping with a nihilistic attitude towards modality than with a doctrine, like PWS, that clearly has a non-nihilistic attitude
+towards it. After all, once analytic truth is taken away, one of the main sources of necessary truth has been abandoned. (It
+is worth noting that Quine – the great opponent of the analytic-synthetic distinction – had a virulently antagonistic attitude
+towards modality. See Quine, 1960.)
+        Also, my guess is that the denial of the analytic-synthetic distinction would wreak all manner of havoc on the internal
+structure of many versions of PWS, especially PWSE. So even if my argument is misguided – even there is a set of
+concepts C1...Cnsatisfying the requirements in question – it is less than clear whether that ultimately helps PWS.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916897
+                                        51
+    5.4 These issues re ect a more general problem with PWS.That doctrine tries to reduce almost
+    everything – propositions, properties, even individuals – to functions. But, as we’ve seen, if
+    we are extensionalist about those functions, then distinct propositions and properties end up
+  collapsing into one another. To prevent that, we must take an intensionalist view of those
+  functions. But in that case, what becomes important is no longer the set of ordered pairs, or
+  the class of objects, associated with those functions; rather, it is the way those classes are
+    generated. The extensions of those functions, and the worlds they involve, are marginalized.
+  The intensions of those functions are what becomes important.
+        The heart of PWS is the belief that extensions can take the place of intensions—that,
+  for example, sets can take the place of mysterious things like properties and meanings. So
+      one is giving up on PWS if one takes an intensionalist view of functions. But if one
+  doesn’t take such a view, then one is stuck with a doctrine that cannot distinguish triangles
+  have three sides from there are continuous functions that cannot be differentiated at any
+point.
+
+5.5 Hintikka on substitution-failures
+        These points help us assess one of Hintikka’s many brilliant applications of PWS to
+  semantics. Consider the expressions ‘‘the inventor of bifocals’’ and ‘‘the  rst postmaster
+  general.’’ On the face of it, these seem to be co-referring terms (that refer to Benjamin
+    Franklin). Now consider the following two sentences:
+
+  (SBFS) ‘‘Smith believesthat the inventor of bifocals snored’’
+  (SIBS) ‘‘Smith believesthat the  rst postmaster general snored.’’
+
+  (SBFS) and (SIBS) may presumably differ in truth-value (on the de dicto reading). This is a
+  consequence of the fact that (when read de dicto) the underlined expressions in those
+  sentences refer to different propositions.
+      We are faced with a serious problem here. Presumably, the referent of a referring
+    expression is a function of the referents of its parts. This is sometimes known as the ‘Principle
+            52
+    of Compositionality’.Supposing that this principle is correct, the underlined part of (SBFS)
+  should co-refer with the underlined part of (SIBS), given that the one is what results when a
+    referring term in the other is replaced with a co-referring term. Russell (1919) dealt with this
+  by saying that de nite descriptions are not singular terms. Frege (1892) dealt with it by
+  saying that, in contexts like the ones discussed here, those expressions refer to their senses,
+                      53
+  not to their ‘‘ordinary referents.’’So in (SIBS), ‘‘the inventor of bifocals’’ refers to a sense
+(the concept bifocal inventor, or some such), not to a person.
+        While both of these views have merit, neither is entirely consistent with our intuitions.
+  Hintikka (1962) proposed a brilliant alternative. We see the occurrences of the de nite
+  descriptions in (SBFS) and (SIBS) as being what they seem to be: expressions that refer to
+  individuals—not quanti ers, and not expressions that refer to senses. But the individuals
+      referred to needn’t belong to the same world. (SIBS) is true only if there is no world
+    compatible with what Smith believes such that the inventor of bifocalsin that worldsnored. It
+
+51
+  The points made in this paragraph and the next are similar to some made in Bealer (1998).
+52
+This principle was stressed by Frege (1892).
+53
+        Drawing on insights due to Strawson, Recanati, and Kaplan, I try to deal with this problem in a very different way.
+          See my forthcoming Conceptual Atomism and the Computational Theory of Mind (John Benjamins) and also my review
+of Bezuidenhout & Reimer Descriptions and Beyond (Kuczynski, 2006).                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916898
+
+    is irrelevant to the truth of (SIBS) if the actual inventor of bifocals (Franklin) snored (though
+  that is obviously relevant to the truth of what Smith himself believes). So we must see the
+  de nite description in (SIBS) as referring not to Franklin, but to some bifocal-inventor in
+      54
+  another world.The same thing mutatis mutandis applies to the de nite description in
+  (SBFS). Given this, there is no expectation that those de nite descriptions should co-refer.
+  Nor is there any reason to adopt the views taken by Frege or Russell.
+        There is one problem with this otherwise estimable analysis. Consider the following
+sentences:
+
+(SEP) ‘‘Smith believes thatthe even prime is less than ten.’’
+(SAI) ‘‘Smith believes thatthe unique number n such that n = 2 iff arithmetic is
+        incomplete and n = 3 otherwise, is less than ten.’’
+
+    The underlined de nite descriptions co-refer; moreover, they refer to the same individuals in
+                                              55
+    every world. So Hintikka’s method cannot deal with the (apparent) difference in truth-value
+                  56
+between these two sentences.
+
+
+54
+        See Hintikka (1969:96–98). Also, consider Hintikka’s (1962:102) statement: ‘‘Seen in this light, the failure of
+referential transparency is due to the possibility that two names or other singular terms which de facto refer to one and the
+same object (or person) are not known (or believed) by someone by someone to do so and that they will refer to different
+objects (or persons) in some of the ‘possible worlds’ we have to discuss (explicitly or implicitly) in order to discuss what
+he knows or believes and what he does not. The referential opacity here is not due to anything strange happening to the
+ways in which our singular terms refer to objects nor to anything unusual about the objects to which they purport to refer.
+It is simply and solely due to the fact that that we have to consider more than one way in which they could refer (or fail to
+refer) to objects. What we have to deal with here is therefore not so much a failure of referentiality as a kind of multiple
+referentiality.’’ (Hintikka’s emphasis.)
+55
+        I say ‘‘apparent’’ because, as I argue elsewhere, when we take into account a number of foundational distinctions –
+  including, but not limited to, the distinction between expression-types and expression-tokens, and the distinction between
+literal and implied meaning – we must rethink what might otherwise appear to be obviously true, even truistic, viewpoints
+in semantics.
+56
+        At this point we must ask a foundational question: what does Hintikka mean by the term ‘‘possible world’’? Hintikka
+straightforwardly acknowledges that he must answer this question, and he gives a clear answer. First, by a ‘‘possible
+world’’, Hintikka does not mean anything like our world. He explicitly says that, as he is using the term ‘‘possible world’’,
+the truth of statements like ‘‘Socrates was a soldier in some possible world’’ does not license the existential: ‘‘there is
+some world W such Socrates is a soldier in W.’’ Borrowing a distinction of Quine’s, Hintikka says that possible worlds are
+part of our ‘‘ideology’’ but not of our ‘‘ontology’’, meaning that they are part of the conceptual machinery by means of
+which we understand the world, and are not part of that world itself. Hence, the illegitimacy of the existential inference
+just discussed. See Hintikka (1969:105, 108).
+        What are we to say about this? Concepts in thepsychologicalsense come and go with every human birth and death. But
+facts about modality are invariant with respect to such changes. The same is therefore true of possible worlds, supposing
+that, as Hintikka holds, modal truths register facts about them. Possible worlds must be public, non-psychological entities.
+If possible worlds are to be a part of our ideology, but not our ontology, then presumably they have a status somewhat like
+that assigned to theoretical entities by those who have an anti-realist view of such things. So possible worlds would be as
+  public as anything posited by any theory, even though they wouldn’t really exist. At the same time, theirsupposedexistence
+would have some kind of explanatory utility – a utility similar, perhaps, to that of mass-points and frictionless planes.
+        But if that is the right view of possible worlds, then we are conceding that they are ultimately not necessary for an
+  understanding of modality. The positivists held that statements about unobservables were eliminable in favor of statements
+  about observables. This is what their anti-realism about unobservables amounts to. Similarly, if we take an anti-realist view of
+possible worlds, then presumably they don’t have any enduring explanatory role to play. So it isn’t clear how Hintikka’s
+  consignment of possible worlds to our ideology, as opposed to our ontology, could be consistent with the belief that they have
+a lasting place in our understanding of modality.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916899
+
+        We saw earlier that mental content cannot be individuated strictly in terms of sets of
+  worlds. Even though there is no possible world where the concepts even prime and unique
+  number n such that n = 2 iff arithmetic is incomplete and n = 3 otherwise differ in extension,
+  Smith can believe that x falls under the one concept while not believing that it falls under the
+  other. The semantic fact that (SAI) and (SEP) differ in meaning re ects this fact about the
+  individuation of mental content. We may thus conclude that, since sets of worlds are
+    inadequate for the individuation of either mental content or linguistic (semantic) meaning, at
+  least some aspects of Hintikka’s important work on mental and semantic content are in
+jeopardy.
+
+
+  6. Part V. Lewis on the relevance of worlds to the analysis of counterfactual truth
+
+    6.1 David Lewis has attempted to show that the concept of counterfactual truth can be understood
+  in terms of the concept of a possible world. In this section, I will argue that Lewis’ view is
+  fallacious and, further, that the problems with it expose problems with PWS additional to
+those already considered.
+        Here is the essence of Lewis’ view. Suppose that, in actuality, Smith shot Jones, thereby
+  killing him. Given this, consider the following counterfactual:
+
+    (SJ) If Smith had not shot Jones, then Jones would now be in good health.
+
+  According to Lewis (1973:13), (SJ) is true exactly if Jones is in good health in any world W
+  such that, in W, Smith does not shoot Jones, and such that W is as much like our world as that
+              57
+last fact allows it to be.
+        Though initially plausible, Lewis’ analysis is not without problems. But we must make
+  some preliminary points before we can discuss these problems. First of all, a theory of
+  counterfactuals should not be revisionist, i.e. it should not require us to regard as false any
+      counterfactuals that we pre-theoretically regard as true, or to regard as true any
+counterfactuals that we pre-theoretically regard as false.
+        There is a related point. While it may be true that the world is indeterministic, a theory of
+    counterfactuals cannot require this. If it is decisively established in ten years that the world is
+  deterministic, does that mean all of the counterfactuals that we now believe true – e.g. ‘‘if
+    Clinton had resigned, Gore would have become president’’ – are false? No. A determinist is not
+    necessarily guilty of incoherence in virtue of believing that counterfactual to be true. There is a
+  corollary. Given only that the counterfactual just stated is true, it cannot be inferred that the
+  world is indeterministic. So while it may be true that the world is indeterministic, a theory of
+  counterfactuals cannot demand that this be the case. In general, a theory of counterfactuals
+  cannot demand that open empirical issues be resolved a certain way.
+          We must make one last preliminary point. Suppose that, as Lewis maintains, (SJ) is true in
+    virtue of the occurrences in some other world W. W must be governed by the same laws as our
+    world. If the laws operative in W are different from those operative here, then perhaps Smith
+  will become injured or dead as a result of not being shot. Also, it seems unlikely that a world
+
+57
+        Lewis (1973:3). It seems to me that the presence of the term ‘‘allows’’ constitutes vicious circularity (as would the
+          presence of a similar term, like ‘‘permits’’–the term that Lewis uses). After all, what is ‘‘allowed’’ is what is possible; and
+          the concept of what is ‘‘allowed’’ itself has counterfactual content. I leave it open whether this circularity can be removed
+through judicious rephrasing.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916900
+
+  with different physical laws would comprise any objects even remotely like Smith. If two
+  worlds differ in their laws, they will differ dramatically in respect of what is in them. (This is
+  a point we will revisit.) In general, the worlds that validate our counterfactuals must be
+    governed by the same laws as our world, except in the atypical case where the counterfactual
+                            58
+in question is a counternomic proposition.
+        In light of these points, let us examine Lewis’ analysis of counterfactuals. For the sake of
+  argument, suppose that (SJ) is a true counterfactual. Let E be the event of Smith’s shooting
+  Jones, and let C1...Cnbe the antecedents of E. (So E is an event that actually, i.e. in our
+  world, occurred; and C1...Cnare the conditions that actually obtained just prior to E’s
+  occurrence.) Finally, let W be a world where Smith does not shoot Jones, but that is as much
+  like our world as that fact permits it to be. (So E does not occur in W.)
+        Trivially, either our world is deterministic or it isn’t. For the sake of argument, let us
+  suppose that our world is deterministic, and see what the consequences are for Lewis’
+    argument. After that, we will consider the consequences for Lewis’ analysis of supposing that
+our world is indeterministic.
+        Supposing that our world is deterministic, then for reasons given a moment ago, W must
+  be deterministic as well. For obvious reasons, this means that there must be some i such that
+  Cidoes not occur in W; and, for analogues of those same reasons, there must be some j such
+  that Cjalso does not occur in W, where Cjis some antecedent of Ci; and there must be some k,
+    such that Ckdoes not occur in W, where Ckis one of the antecedents of Cj—and so on, into the
+                      59
+  most remote recesses of W’s past.For obvious reasons, each of these differences rami es
+    into others. Consequently, W will beverydifferent from our world—so different that it can be
+  doubted whether Jones even exists in W, let alone in good health.
+
+    6.2 Lewis (1973) acknowledges the existence of this very problem, and suggests a plausible way
+  of dealing with it. Suppose that, in W, C1...Cnobtain but that, because of a miracle, they
+  don’t eventuate in E. Thus, Jones remains in good health in W, and W’s past is (almost)
+  exactly like the past of this world. Thus, the occurrences in W do validate (SJ), and the
+criticism that we just put forth is nulli ed.
+      Before we can evaluate this maneuver of Lewis’, we must  rst make it clear what it
+    involves. Suppose that, under the conditions in question, Smith’s trigger  nger is supposed,
+  as a matter of natural law, to do X as opposed to Y. Lewis takes it for granted that the relevant
+  laws and forces can be put out of commission, allowing Smith’s  nger to do Y. This
+    presupposes that the  nger is entirely distinct from the forces governing its behavior. On the
+  one hand, there is the  nger; on the other hand, there are the various causal laws that govern
+  it; and the two are quite distinct. In general, we can vary the causal laws while keeping the
+objects they govern the same.
+        This is a natural, even a standard, way of thinking about physical law. But it is, I believe,
+    one that cannot be accepted. Physical objectsarelaw-governed sequences of events, the same
+  being true of anything that endures for more than an instant (see Russell, 1927). In fact, the
+  notion of enduring is itself a causal notion, and thus has embedded within it the concept of
+
+
+58
+        An example of a counternomic proposition would be: if there were no gravity, then my desk would now be  oating.
+59
+      Strictly speaking, if we really believe that occurrences in other worlds validate (SJ), then we should speak of
+counterparts of C1...Cnoccurring in other worlds, not of those events per se. (In any case, this is, as we discussed earlier,
+what Lewis would say.) But in this context, if only for expository reasons, let us prescind from that fact. It is easy enough
+to make the terminological changes demanded by counterpart theory.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916901
+                60
+    natural law (Russell, ibid.).If this is right, then laws are internal to the states of affairs that they
+    govern, and an object can no more be separated from the forces that govern it than the Cheshire
+    cat’s grin can be removed from the cat itself. The world seems to be nomic through and through;
+    there doesn’t seem to be any anomic residue—there doesn’t seem to be anything that isbeneath
+              61
+    the reach of natural law.Supposing that this is true, it is at best an open question whether there
+  is any sense in which states of affairs can be separated from the laws that govern them and,
+                                                      62
+    consequently, whether there is any sense in which miracles are possible.
+
+    6.3 But even if we leave this question aside, Lewis’ use of miracles is questionable. Consider the
+counterfactual:
+
+      (L) If Lincoln had not been assassinated, then some miracle would have occurred
+    (at some time prior to t),
+
+  where t is the time at which, in actuality, Lincoln died.
+          Lewis’ proposal requires that, if our world is deterministic, then (L) is true. But, regardless
+    of whether our world turns out to be deterministic or not, (L) doesn’t seem to be an intuitively
+    correct counterfactual. So Lewis’ proposal demands the truth of counterfactuals that we have
+    no pre-theoretic inclination to regard as true. Thus, Lewis’ proposal violates the requirement,
+    earlier discussed, that an analysis of counterfactuals not be revisionist.
+        Lewis might try to circumvent these problems by saying that our world is indeterministic
+                                                            63
+  and that, consequently, no miracles need occur in a world that validates (SJ).The idea
+      64
+  would be this.Let WIDbe an indeterministic world whose history up until time t (the time at
+  which E occurs) is just like ours. Because of said indeterminism, C1...Cndon’t eventuate in
+E. Consequently, Jones is in good health in WID.
+          This move violates the condition that we discussed before—that, while it may be true that
+    our world is indeterministic, a theory of counterfactuals cannot require it.
+
+60
+        Oftentimes, the concept of temporal succession is itself analyzed in causal-nomic terms: event E1 occurs before E2
+        iff there is a possible or actual causal process beginning with E1 and ending with E2. See Reichenbach (1958) for one of
+many advocates of this view. See also the very last footnote of Kuczynski (2005b).
+61
+      See Kuczynski (2005b) for a fuller discussion of the legitimacy of the concept of a suspension of natural law.
+62
+        Here we must make a point in Lewis’ defense. Given a certain conception of natural law, there is a clear distinction
+          between the laws, on the one hand, and the objects and states of affairs governed thereby, on the other. According to Hume
+          (2000), laws are just regularities among states of affairs. If Hume’s analysis is to avoid vicious circularity, states of affairs
+        cannot themselves be seen in nomic terms. Otherwise laws are analyzed in terms of states of affairs, and states of affairs
+          are, in their turn, analyzed in terms of law. So if Hume’s view is right, then states of affairs are fundamentally anomic, and
+the criticism we put forth is blocked.
+        According to Ramsey (1929), laws are features of our description of the world, not of the world itself. Let D be a
+        description of the class of all occurrences, past and future, that combines maximal accuracy with maximal economy.
+        Ramsey says that laws are among the statements constituting D. His view, like Hume’s, requires that occurrences be
+        anomic. If occurrences are themselves embodiments of law, then laws cannot be analyzed as statements about
+        occurrences. So if Ramsey’s view is right, then states of affairs are fundamentally anomic, and the criticism we put
+forth is blocked.
+      Signi cantly, Lewis accepts both Hume’s and Ramsey’s views. But for many reasons, one of which we have
+        considered, such views are replete with problems. For that reason, they are no longer generally accepted, though they
+      still have some distinguished proponents, e.g. Van Fraassen (1989). It is not to the credit of Lewis’ analysis of
+counterfactuals that it presupposes the truth of such a problematic view.
+63
+        By a ‘‘world that validates (SJ)’’ I mean a world w such that (SJ) holds in virtue of the occurrences or states of affairs
+in w.
+64
+        To my knowledge, this isnota path that Lewis in fact takes. Nonetheless, it is worth considering the consequences of
+taking it, if only for the sake of discursive completeness.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916902
+
+      But even if we leave aside this last point, the proposal in question fails. If WIDis
+  suf ciently indeterministic to validate the antecedent of (SJ), it may be suf ciently
+  indeterministic that it falsi es its consequent. Any indeterminism suf cient to allow C1...
+    Cnnot to eventuate in E may be suf cient for the occurrence of various outcomes that falsify
+    the counterfactual in question. The very indeterminism that prevents the trigger from being
+  pulled may also permit the gun to  re accidentally, thereby killing Jones. In that case, the
+occurrences in WIDwould not validate (SJ).
+        To prevent this sort of catastrophe, one would have to start being very speci c about the
+    kind of indeterminism that prevails in WID. That world must be indeterministicjustenough to
+prevent C1... Cnfrom not eventuating in E. At the same time, WIDmustn’t be so
+indeterministic that these other unwanted events occur.
+        But it is suspect that we must employ such arti ces to identify worlds that validate our
+  counterfactuals, as it suggests that the occurrences in other worlds tend not to do so. A
+    hypothesis that is con rmed only by gerrymandered data is a hypothesis that isn’t con rmed
+  at all. Lewis’ analysis is supposed to have, and initially appears to have, a  rm basis in our
+  intuition. It forfeits this advantage insofar as it makes such sophisticated and dubious
+    demands of the worlds that, supposedly, validate our counterfactuals.
+
+  6.4 The criticisms just stated presuppose that the worlds mentioned in Lewis’ analysis of
+    counterfactuals are to be taken asconcreteentities, and not as sets of propositions. Given this, it
+might be suggested that those criticisms are voided if we take worlds to be sets of
+    65
+propositions.
+        But if we take worlds to be sets of propositions, then the analysis of counterfactuals just
+discussed collapses into the view that for a counterfactual to hold is for some set of
+    propositions to have the right internal (presumably deductive or con rmational) properties;
+    in other words, that analysis collapses into a version of the so-called ‘‘meta-linguistic’’ view
+  of counterfactuals. But the very raison d’eˆtre for a possible-worlds approach is to avoid the
+                                        66
+supposed inadequacies of the meta-linguistic approach.
+
+  6.5 Previously, we saw a number of reasons to reject the identi cation of possible truth
+  with truth in some alternative world. Given the points just made in connection with
+  Lewis’ analysis of counterfactuals, we  nd additional reasons to reject that analysis of
+modality.
+        Consider a particular chair. That chair is not a simple object. Every nanosecond of its
+    existence involves innumerable displacements of mass-energy; and every property had by the
+  chair is identical with, or supervenient on, some property had by some multiplicity of such
+      67
+  displacements.In general, objects are identical with, or supervene on, causal sequences—
+  series of causally linked states of affairs. (Henceforth, I will say simply that objects are
+
+65
+        In Kuczynski (2005b), I argue that counterfactuals do hold in virtue of inter-propositional relations. In agreement
+  with Lewis himself, I regard such a view as being opposed to the one espoused by Lewis.
+66
+      See Lewis (1973:65–77). Lewis makes it very clear that he wishes the word ‘‘world’’ to be taken literally.
+67
+        One doesn’t want to say that the chair isidentical with a particular causal sequence. After all, the chair might not have
+had exactly the properties that it does have. Youmightnot have spilled your coffee on it; itmightnot have been scratched by
+the movers; and so on. But if we let S be the series of mass-energy displacements that in fact composes the chair, there is no
+world where S exists but where the chair does not. So every fact about the chairsuperveneson some fact about S. In general,
+every fact about any material object is either identical with, or supervenient on, some fact about some causal-series. See
+Wiggins (1968) for the classic exposition of the distinction between realization (or supervenience), on the one hand, and
+identity, on the other.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916903
+
+    identical with causal sequences, since the distinction between identity and supervenience is
+not relevant in this context.)
+        Let S be the series of mass-energy displacements that, in actuality, compose the chair.
+  Supposing that S is governed by physical laws L1...Ln, it is presumably an essential fact
+  about S that it is governed by those laws, and not others. So it makes little or no sense to say
+  that S could exist in a world where physical laws are not the same as they are in this world. In
+  general, it makes little sense to say of any actual causal sequence, or therefore of any object,
+    that it would exist in a world where causal laws are different. (See Kripke, 1980:123–144 for
+similar remarks.).
+      Concepts like electron, proton, and so forth, correspond to fundamental nomic
+  categories—the categories in terms of which the most fundamental causal laws are to be
+    delineated. Supposing that L1...Lmare the laws of physics, it is therefore perilously close to
+  absurd to say that there could be electrons or protons in a world governed by laws different
+  from those that govern our world. (See Pap, 1958, Kripke (1980:123–144).) It thus makes
+    little sense to say that a world governed by different physical laws would comprise electrons
+                                            68
+or protons or any of the micro-particles found in our world.
+        It is very hard to see how a world that comprised none of the same micro-entities as our
+    world could comprise any of the same macro-entities. It follows that only a world nomically
+  identical with ours could comprise any of the same macro-entities or, therefore, any of the
+  same macro-events as ours. Only a world nomically identical with ours can comprise
+Socrates or the event of his drinking hemlock.
+        Here we must head off a confusion. It is presumably a contingent fact that there is gold.
+  But it is not a contingent fact that this particular gold object exists only in worlds where there
+  is gold. As Kripke (1980:123–126) emphasized, given that this object (e.g. my pen) is made
+    of gold, there is no possible world where it exists but where gold doesn’t. Similarly, it may be
+  a contingent fact that L1...Lmare the laws governing our world. But given that the chair’s
+  existence is sustained by the operation of those particular laws, there is no possible world
+  governed by different laws where that chair exists.
+        Let us move onto the next step of our argument. It seems a datum that the proposition
+
+(K) John F. Kennedy lived past the age of seventy
+
+  is only contingently false. According to PWS, that is because there is some world W where
+        Kennedy did live past the age of seventy. As we previously noted, objects are causal
+    sequences. So if the PWS-analysis of possibility is to be correct, W must contain at least some
+    of the same causal sequences found in our world, and must therefore be governed by the same
+  causal laws as our world. At the same time, W cannot contain precisely the same causal
+    sequences as our world. Otherwise Kennedy will not live past the age of seventy in W, foiling
+  PWS’s identi cation of (K)’s being possibly true (in our world) with its being true in W.
+        Causal sequences are individuated by their mutual relations. Once again, consider S (the
+    causal sequence that realizes the chair previously discussed). That causal sequence resulted
+  from many others, e.g. the activities of certain workmen, the tree that yielded the wood of
+  which it is made, the various particles composing the ground that fertilized that tree, the
+
+68
+      This does not mean that there are electrons (or protons or muons ...) has as an analytic consequence any true
+        proposition of the form L1...Lmare the laws that govern the physical world. Rather, it means that some necessities are
+non-analytic. See Kripke (1980:123–144).                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916904
+
+  stellar events that yielded those particles, and so on. Any world that lacks enough of these
+  other causal sequences will ipso facto lack S. Surely it makes no sense to say that S could
+  exist in a world where the sequences that led to its existence do not. (See Kripke, 1980:123–
+  126.) A corollary is that any world that comprises S will ipso facto comprise these other
+    causal sequences, or at least a great many of them. The individuation-conditions of the causal
+    sequences composing objects must be understood in relational, and therefore holistic, terms.
+  Thus, in so far as W comprises any of the same causal sequences as our world – in so far as it
+  has causal sequences corresponding to John F. Kennedy, Joseph Kennedy Sr., the White
+  House, the American political establishment, the nation of Ireland, and so on – it must be
+extremely similar to our world.
+        At the same time, if W is to comprise a Kennedy who lives past the age of seventy, W must
+    comprise many causal sequences that are no part of this world. But for the reasons just given,
+  it is at best an open question whether we can tinker with the events in another world just
+    enough to ensure that Kennedy lives past seventy in that world, while not tinkering with them
+  so much that it fails to meet the conditions on which Kennedy’s existence is constitutively
+dependent.
+          In fact, to adjudicate this very question, we must already have a clear understanding of the
+  relevant modal principles—of the principles telling us exactly how different an object’s
+    origins could have been, and telling us exactly how the degree of difference is to be measured.
+  So in order to settle the question whether it is even coherent to posit the existence of a world
+  like W, we must already employ the modal principles that, according to PWS, are to be
+    understood in terms ofthe existence of such worlds. In general, the modal status of the worlds
+    needed by PWS is itself a substantive modal question; and on pain of vicious circularity, that
+  question cannot itself be answered within a possible-worlds framework, since what is in
+question is the very coherence of such a framework.
+        We saw earlier that Lewis’ analysis of counterfactuals presupposes that the world is
+  permutation-friendly: given any event E that actually occurs, there is a world that doesn’t
+  comprise E but that is otherwise very similar to our world. We further saw that, given some
+plausible views concerning causality, that presupposition may well be false.
+        What is true of Lewis’ analysis of counterfactuals appears to be true of the PWS-analysis
+    of modality. That analysis presupposes that there is a world where Kennedy lives past seventy
+    but is otherwise extremely similar to our world. So that analysis presupposes that the world is
+    highly permutation-friendly. We have seen that, given some reasonable views concerning
+    object-individuation, that presupposition may well be false. The very identities of objects are
+  constitutively linked with many of their causal liaisons. This suggests that any world that is
+  different enough from ours to comprise a Kennedy who lives past seventy may well be so
+    different that it cannot comprise a Kennedy to begin with. In fact, it suggests that such a world
+  will necessarily be systemically different from ours, and may therefore fail to meet the
+  conditions constitutively necessary for the existence of many, or perhaps even any, of the
+objects found in our world.
+        Supposing that this reasoning is on the mark, there are two paths we can take. On the one
+  hand, we can say that (K) is necessarily false. On the other hand, we can say that the attempt
+  to understand modality in terms of other worlds is doomed to failure, the reason being that it
+falsely says of (K) that it is necessarily false.
+        As I said earlier, it seems a datum that (K) is contingently false. In any case, it is obviously
+  not in the same category as1+1=4or water is not H2O; and this difference is appropriately
+    marked by saying that (K) is contingently false, whereas those others are necessarily false. So                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916905
+
+  unless we are willing to take the revisionist approach of saying that (K) is necessarily false,
+  and is thus in the same modal category as1+1=4, we must reject the attempt to understand
+  possibility, and therefore necessity, in terms of other worlds. Once again, we  nd that PWS
+  demands a revision of strongly held modal intuitions.
+        It seems, in fact, that the problems with Lewis’ analysis of counterfactuals are merely
+  special cases of these more general problems with PWS. As we saw, it is reasonable to
+  question whether it is coherent to posit the existence of a world suf ciently like ours to
+  comprise Smith and Jones – i.e. suf ciently like ours to validate the antecedent of (SJ) – but
+        where Jones continues to be in good health. In any case, in order to settle the question
+  of whether the concept of such a world is coherent, we must employ the very counterfactual
+      principles that, according to Lewis’ analysis, are to be understood in terms of such
+  worlds. The proposition such a world is possible is equivalent with some proposition
+      of the form there would be such a world if conditions C1...Cnwere met. The latter is
+  itself a counterfactual proposition. If that counterfactual is false, then Lewis’ analysis is
+  untenable. But Lewis’ analysis is untenable even if that counterfactual is correct; for,
+  on pain of vicious circularity, the correctness of that counterfactual could be established
+  only on the basis of a non-Lewisian conception of counterfactual truth. Thus, Lewis’
+  analysis is, at best, parasitic on some other, more fundamental way of understanding
+counterfactuals.
+        It should be pointed out that all modal propositions can be seen as counterfactuals. The
+  proposition (K) is contingently false is equivalent with (K) might have been true; and the
+  latter is equivalent with some proposition of the form (K) would have been true if conditions
+      C1... Cnwere met. So it is to be expected that the problems with Lewis’ analysis of
+  counterfactuals should correspond to defects with PWS as a whole.
+          In conclusion, PWS embodies questionable principles concerning object-individuation.
+  Even if those principles were to be vindicated, that could be accomplished only through a
+  modal framework that didn’t involve alternative worlds. So PWS ends up being false or, at
+  best, parasitic on some other, more fundamental modal framework.
+
+
+7. Conclusion
+
+    If worlds are taken to be representations of some kind, then PWS ends up circularly requiring
+    the very notions that it seeks to analyze. If the term ‘‘world’’ is taken literally, so as to avoid this
+    last problem, then PWS demands a revision or outright rejection of our basic views concerning
+  logic and modality. In particular, propositions that we know to be contingent – e.g. those
+    expressed by utterances of ‘‘Mozart wrote over forty symphonies’’ and ‘‘John is now making
+    tea’’ – are put in the same modal category as that expressed by ‘‘1 + 1 = 2.’’ In either case, we see,
+    as I said initially, how possible world semantics, despite its obvious merits, appears to lead us into
+    conundrums of the sort that ceteris paribus we should try to avoid. In other words, the jury is still
+out on PWS—a conclusion we may have to live with for some time to come.
+
+    EXCURSUS I. ON NECESSITY, CONTINGENCY, AND THE INFINITE REGRESSIVE-
+NESS EMBEDDED IN PWS
+
+  As regards my contention that PWS is inconsistent with the existence of contingent
+    propositions, a reviewer at the Journal of Pragmatics wisely pointed out that this viewpoint has
+some antecedents in the literature. I would like to discuss two.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916906
+
+  According to Russell (1919:165), necessity and possibility are properties of propositional
+    functions, not of propositions proper. Such a function is necessary if true for all values, possible if
+    true for some. So, to use Russell’s own example, the propositional function ‘‘if x is a man, then x
+    is mortal’’ is necessary, because it is true for all values of the variable. Propositions themselves,
+  says Russell, are either true or false; and there is no sense, he says, in saying that some are
+contingent while others are necessary.
+  Before proceeding, there are a few points to make. The propositional function ‘‘if x is a man,
+    then x is mortal’’ is not in the same modal category from ‘‘if x is a triangle, then has three sides.’’
+  This is a datum, and Russell’s analysis is false since it is inconsistent with this datum. Also,
+    ‘‘Socrates was wise’’ can be thought of as a limiting case of a propositional function—one that
+  contains zero free variables. (See Tarski, 1983.) Because that sentence is true, it follows
+    vacuously that it is true for all values of its free variables and thus is necessary by Russell’s own
+    lights. For similar reasons, it follows that, by Russell’s own lights, ‘‘Socrates was not wise’’ is
+    necessarily false. Thus, given Russell’s own premises, it follows that, contrary to what Russell
+  himself says, necessity and possibility are properties of sentences (and propositions).
+  Like most philosophers, I myself believe that 1+1=2 is in a different category from
+    Socrates was wise, and that this distinction is appropriately marked by describing the  rst as
+  necessary and the second as contingent. But I also believe that if we accept an analysis of
+    modality at all like that put forth by PWS, Russell’s position becomes practically inevitable.
+    Suppose that necessity is identi ed with truth in all worlds or circumstances. First of all, if that
+    identi cation is to be taken seriously, and is not to be a disguised way of expressing some very
+    different conception of modality, then there must be different worlds. It would make little sense to
+    say ‘‘necessity is truth in all worlds, but there is only one world’’, unless the  rst conjunct were
+meant in a highly non-literal fashion.
+  If there are different worlds, then ‘‘John is tall’’ (when assigned the signi cance that it
+                                                            
+  actually, i.e. in our world, has) is true in some of them and false in others—much asx is tallis
+    true for some values of x and false for others. Supposing that this is right, ‘‘John is tall’’ really
+    means John is tall in w (where ‘‘w’’ is a variable ranging over worlds), and is thus true for some
+    values of w and false for others. But in that case, ‘‘John is tall’’ expresses, not a proposition, but
+    rather a propositional function of the form John is tall in w; and in order for that propositional
+    function to yield a genuine proposition, the variable must be replaced with a speci c world. Thus,
+  what is meant by ‘‘John is tall’’ – namely, the propositional function John is tall in w—is
+    necessary if, for all values of w, the result is a truth, and a falsity otherwise. Thus , what is meant
+  by ‘‘John is tall’’ is contingent (possibly true, possibly false) because what it expresses is a
+    propositional function that is true for some, but not all, values of its variable. By contrast, what is
+    expressed by ‘‘John is either tall or not tall’’ – namely, the propositional function John is either
+  tall or not tall in w—is necessary since it is true for all values of the variable; and what is
+    expressed by ‘‘John is tall and not tall’’—namely, John is tall and not tall in w—is necessarily
+false, since it is false for all values of the variable.
+  We would thus have to see every af rmation as involving some kind of relativization to a
+    world, just as in actuality there is always some kind of relativization to a time (though often an
+    implicit one) in our utterances (except in cases of utterances to which temporal considerations are
+    obviously inappropriate, e.g. mathematical statements). So if one said ‘‘Mozart wrote over forty
+    symphonies’’, we would have to take the proposition encoded in that utterance to be equivalent
+    with: in this world Mozart wrote over forty symphonies. For reasons previously discussed this
+  means that all such utterances would be true in all or no worlds, and thus, by PWS’s lights,
+necessarily true or false.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916907
+
+  Thus, if we accept PWS, Russell’s counterintuitive analysis of modality is vindicated:
+    necessary truth is truth for all arguments; possible truth is truth for some arguments. (Of course,
+    Russell did not countenance the idea of other worlds. So this must be seen as an extension, not an
+identi cation, of Russell’s views.)
+  It seems a datum to me and most others that bone  de propositions fall into different modal
+    categories—that some of them are necessary, and others contingent. So we must reject any view
+  that has the consequence that it is propositional functions, not propositions, that have those
+  properties. If the argument put forth in this paper is correct, PWS is in fact such a view.
+  Leibniz held that all true propositions are necessarily true. His reasoning was as follows. If
+    Caesar crossed the Rubicon, then it is part of theconcept(not my or anyone else’s concept, butthe
+    concept) of Caesar that he did so. (‘‘[E]very predicate, necessary or contingent, past, present, or
+                              69
+    future, is comprised in the notion of the subject.’’) Of course, I may be able to entertain thoughts
+    about Caesar without knowing that Caesar crossed the Rubicon. But that merely re ects my
+    ignorance of certain features of that concept, not anything about the concept itself. For exactly
+similar reasons, every fact about Caesar is, for Leibniz, a necessary fact.
+  The problem with Leibniz’s position is not hard to identify. Not every fact about a thing has a
+    purely conceptual basis. Suppose that Smith has as perfect an understanding of the concept even
+  number as is humanly possible. Smith will not on that account know that Jones has an even
+    number of cars. That fact about Jones does not have a basis wholly in facts about the concepteven
+    number; it has a basis in empirical, non-conceptual realities. The same consideration applies to
+    Caesar’s crossing the Rubicon. In Kuczynski (2005a), I discuss this doctrine of Leibniz’s, giving
+a variant of the argument just presented.
+  Let us now consider another point that might be made by an advocate of PWS in response to
+    our argument that PWS turns contingent propositions into necessary ones. (I should point out that
+  the need to address this point was indicated to me by an astute reviewer at the Journal of
+    Pragmatics. I am following, and building on, that reviewer’s suggestions as to how to address this
+objection.) I will put this objection in the mouth of an imaginary interlocutor:
+
+        ‘‘Your argument involves a confusion concerning the theoretical function of possible
+          worlds. Within the framework of PWS, possible worlds are elements of the metalanguage
+        that gives the semantics of sentences of the object language. Suppose that, in our world
+        (W1), somebody utters the sentence ‘John is tall.’ That utterance belongs to the object-
+          language. To say what is meant by that utterance, we must use a meta-language. That meta-
+          language refers to various worlds. The meta-language thus includes statements like: ‘the
+        proposition meant by an utterance in a given world W of ‘‘John is tall’’ is a function which
+        assigns truth to W, if John is tall in W, and falsity otherwise’, and ‘an utterance in W of
+          ‘‘John might have been tall’’ is true if there is a possible world accessible to W where ‘‘John
+is tall’’ is true.’
+
+        ‘‘To avoid various well-known antinomies, we must enforce a rigid distinction between
+          object-language and meta-language. This blocks your argument. That argument asserts that
+        ‘John is tall’, uttered in W1, and ‘John is tall in W1’ have the same truth-conditions. But
+        ‘John is tall’ is a sentence of the object-language, whereas ‘John is tall’ is a sentence of the
+        meta-language. The former is evaluated with respect to the possible worlds referred to in
+          the meta-language. The latter isnotevaluated with respect to those same worlds. (The latter
+          is either evaluated with respect to worlds described in the meta-meta-language, or it is not
+
+69
+Quoted in Russell (1992:27).                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916908
+
+  evaluated with respect to possible worlds at all.) So there is no world with respect to which
+        both of those utterances can be evaluated. Consequently, there is no world W1such that
+        ‘John is tall’, as uttered in W1, is true exactly if John is tall in W1and such that ‘John is tall
+  in W1’ is true exactly if John is tall in W1. So the equivalence on which your argument rests
+        – that between ‘John is tall in W1’ and ‘John is tall’ (as uttered in W1) – does not hold. In
+  conclusion, your argument is null and void, since it con ates object-language with meta-
+language.’’
+
+    There are several problems with this response. According to it, possible worlds are ‘‘elements
+    of the meta-language.’’ But as we saw earlier, PWS needs worlds to be concrete entities. If they
+    are mere representations – e.g. sets of expressions or propositions – then PWS is eviscerated.
+    The objector might counter-respond by saying that, according to PWS, possible worlds arenot
+    merely linguistic entities but that, nonetheless, there must not be any expressions in the object-
+    language referring to them. But this counter-response is not entirely satisfying. The concept of a
+  possible world lies at the heart of PWS. Given this, it is odd (as the aforementioned reviewer
+    pointed out to me) that propositions about worlds should be permissible only under such special
+    circumstances. If, as PWS requires, there are such things as possible worlds, then it ought to be
+    possible to discuss them without having to sequester statements about them within a special
+language.
+    The objector’s position has another unwelcome feature. According to that view, the possible
+    worlds with respect to which statements in the meta-language are to be evaluated are different
+    from those with respect to which statements in the object-language are to be evaluated. By an
+  obvious extension of the objector’s reasoning, the possible worlds with respect to which
+    statements in the meta-meta-language are to be evaluated are different from those with respect to
+    which statements in the meta-language are to be evaluated. And so on ad in nitum. So PWS ends
+    up positing an in nite hierarchy of sets of worlds. But we must question the viability of a theory
+  that has to go to such great lengths to stay a oat. PWS is meant to have a solid footing in our
+  intuitions about modality. But it loses any such footing in so far as it has to posit an in nite
+    hierarchy of in nitely large sets of alternative worlds. This is not to mention that any such ad hoc
+  proliferation of theoretical structure is the mark of what Lakatos (1977) referred to as a
+‘‘degenerating research program.’’
+  To block the need for this in nite hierarchy, an advocate of PWS might say that modal
+    statements in the meta-language (or, at least, in one of the meta-languages) arenotto be evaluated
+  with respect to possible worlds. But to take this position would be to admit that modality is
+ultimately not to be understood in terms of the concept of a possible world.
+    Also, the distinction between object-language and meta-language is not sharply drawn (as the
+    aforementioned reviewer pointed out to me). It seems not to apply to natural languages (as Tarski
+    (1983) and Russell (1908) pointed out), and to apply only to arti cial languages—to languages
+    that we construct with the conscious intention of avoiding the antinomies discussed by Tarski and
+    Russell. The objector requires the possibility of an arti cial language L that is, on the one hand,
+    rich enough to allow us to make the modal statements that we intuitively wish to make and, on the
+    other hand, is suf ciently well-behaved to avoid the antinomies associated with languages that
+    aren’t strati ed into object-language and meta-language. But it is an open question whether such
+    a language is a possibility. In any case, even if such a language is possible (as it may well be), it
+  speaks to the frailty of PWS that the viability of its analysis of notions like possibility and
+    necessity – notions that are so central to our thinking – is predicated on the truth of some exotic
+result in formal semantics.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916909
+
+    This would be a good place to discuss another objection that an advocate of PWS might have
+    to my analysis of that doctrine—or, more speci cally, to my analysis of PWSE. (The need to
+    consider this sort of response was made clear to me by the previously mentioned reviewer at the
+    Journal of Pragmatics.) When discussing PWSE, I made the point that we must use modal terms
+  in order to identify the sets of propositions that are to be identi ed with worlds. Like Lewis
+    (1986:150–153), I concluded that PWSEwas guilty of vicious circularity. But there is a powerful
+  objection to be made to this argument. As before, I will put that objection in the voice of an
+imaginary spokesperson for PWS:
+
+        ‘‘PWSEidenti es possibility with membership in sets of some kind or other. As you’ve
+        discussed, the description of such a set involves use of a modal term, and this certainly
+          creates the appearance of vicious circularity. But those sets do not themselves contain any
+        modal statements. So the structures and relations in terms of which PWSEidenti es
+          possibility are innocent of any modal content. Although we may have to use modal terms to
+        describe the PWSEanalysis of modality, that analysis itself is free of any circularity. The
+        appearance to the contrary involves a failure to distinguish the thing described from the
+      description of it—a failure to distinguish meta-language from object-language.
+
+      ‘‘Here is an analogy: if you use a computer to write an analysis of the concept of a
+          computer, you are not guilty of circularity; for even though a computer is involved in your
+      presentation of your analysis, it is not itself part of the content of that analysis.’’
+
+    Let us make things as simple as possible by conceding everything that the objector says; let’s
+    suppose that my argument against PWSEdoes involve a failure to distinguish PWSE’s analysis of
+    possibility from the mere means used to identify that analysis—a failure, as we might put it, to
+    distinguish meta-language from object-language. Even so, the problem is only pushed back, not
+    eliminated. The purpose of any form of PWS (including PWSE) is to analyze modal notions. If
+    the objector’s point is correct, then PWSEeliminates them from the object-language only by
+    conceding their ineliminability from the meta-language. But in that case we are simply displacing
+  the problem, not solving it: we are stuck with unanalyzed modal expressions in the meta-
+language.
+    For reasons exactly similar to those just given, no progress would be made if we tried to use the
+    notion of a maximal consistent set to analyze the modal terms in the meta-language. We would
+  end up with unanalyzed modal terms in the meta-meta-language. So I don’t believe that the
+  circularity in question is merely a re ection of a failure to distinguish the PWSEanalysis of
+possibility from the means used to describe it.
+                                                                    70
+  There is another possible objection to our analysis of PWS that I would now like to discuss.
+    This objection concerns my attempt to show that, given a realistic understanding of the term
+  ‘‘alternative world’’, PWS incurs the result that every proposition is necessarily true or
+    necessarily false. Once again, I will put that objection in the mouth of an imaginary advocate of
+PWS:
+
+        ‘‘Consider the proposition John is tall in W345. It seems to me that there is no way, even in
+        principle, to know whether this proposition is true or not. Of course, it is easy to know the
+          truth-value of the propositionJohn is tall in some possible world.(That proposition is true.)
+
+70
+        As before, I should point out that the need to address this objection was indicated to me by an astute reviewer – the
+          same as the one previously mentioned – at the Journal of Pragmatics. And as before, I am following, and building on, that
+reviewer’s suggestions as to how to address that objection.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916910
+
+  But given any speci c world, other than our own, it seems necessarily impossible to assess
+        the truth-value of John is tall in that world. Given that fact, it becomes questionable
+whether, for example, John is tall in W345 is true or false at all.
+
+        ‘‘Even though veri cationism is no longer seen as generally viable, some still see it as
+  having certain applications. (For example, some have argued that the undecidability of
+        certain mathematical statements warrants the conclusion that we must adopt a kind of
+  veri cationism or constructivism – x is true iff x is (or can be) proven – with regard to such
+  statements.) Perhaps we’ve just uncovered yet another application for veri cationism.’’
+
+    Whatever merits this position might have, it doesn’t seem to available to a proponent of PWS.
+    The essence of PWS is that there really are other worlds and that there really are facts about them.
+    The kind of veri cationism about possible worlds just discussed seems hardly different from an
+    anti-realism about them. But an anti-realist about possible worlds isn’t really an advocate of PWS.
+    Consider a further possible response to our argument. (Some basis for this response is found in
+    Plantinga, 1974:91–92). As before, I will put this argument in the voice of an imaginary objector:
+
+  ‘‘Suppose that Socrates has the property of being bald in W1and also of being bald in W2.
+        In that case, there is some property (namely, baldness) that Socrates has in at least two
+  different worlds. That much is uncontroversial. Socrates has the further property of being
+        bald-in-W1. That is a different property from that of being bald. You yourself have said
+  why. Socrates has the property of being bald-in-W1in every world, whereas Socrates does
+  not have the property of being bald in every world.
+
+      ‘‘An analogue of this point undermines the argument you’ve given. Consider the
+  proposition:Socrates is bald in W1.Just as the property of being bald must be distinguished
+      from the property of being bald-in-W1, so the proposition Socrates is bald must be
+        distinguished from the proposition Socrates is bald in W1. For reasons that you and
+  Plantinga have given, the latter proposition is true in every world. But just as Socrates is not
+        bald in every world, even though he is bald-in-W1in every world, so the proposition
+  Socrates is bald is not true in every world, even though the same cannot be said of Socrates
+is bald in W.’’
+
+  Suppose that you are in W1(our world) and you say ‘‘Socrates is bald.’’ (For purposes of
+    exposition, let us prescind from the fact that the right sentence would be ‘‘Socrates was bald.’’)
+  For your statement to be true, it is not enough that there be a function F assigning truth to W1
+    exactly on the condition that Socrates is bald in W1. That condition must actually besatis ed. The
+    mere existence of such a function is compatible with Socrates’ not being bald in W1. After all,
+such a function might assign falsity, or might otherwise fail to assign truth, to W1.
+  Given this, suppose for the sake of argument that PWS is right to identify the proposition
+    Socrates is bald with a function F of the kind just described (viz. a function that assigns truth to a
+  world exactly if, in that world, Socrates is bald). In that case, if you are in W1and you say
+    ‘‘Socrates is bald’’, or utter a corresponding sentence of another language, what you are af rming
+has the same truth-conditions as the proposition:
+
+(*)F assigns truth to W1.
+
+  After all, as we discussed, if you are in this world (W1) and you say ‘‘Socrates is bald’’, your
+    statement is true just in case Socrates is bald inthis world, it being irrelevant whether he is bald in                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916911
+
+    other worlds. So your statement is true just in case F assigns truth to W1, and is thus equivalent
+    with (*). Obviously (*) is neither identical nor equivalent with F itself. So if we grant to PWS that
+the proposition:
+
+(**)Socrates is bald
+
+    is some function F from worlds to truth-values, then we must hold that what you af rm when you
+utter ‘‘Socrates was bald’’ is distinct from, and not equivalent with, F.
+    Now we can close the argument. The truth-value of (*) obviously doesn’t vary from world to
+    world. If it is true, then (*) is true ineveryworld (and, if it is false, then (*) is false in every world).
+    So, just as we argued, if there are multiple different (concrete) worlds, then what you af rm when
+    you utter ‘‘Socrates was bald’’ is equivalent with some proposition that is true in all worlds and is
+  therefore, by PWS’s lights, necessarily true. Given any contingently true proposition P, an
+    obvious analogue of this argument shows that, by PWS’s lights, P turns out to be necessarily true
+    and not-P turns out to be necessarily false. So we must reject PWS, unless we are willing to take
+the revisionist approach of saying that all true propositions are necessarily true.
+  There is one last point. As we’ve discussed, if you are in this world and you utter ‘‘Socrates is
+    bald’’, what you are af rming is equivalent with (*), which is neither identical nor equivalent
+    with F. Therefore, if PWS is right to identify (**) with F, then when you say ‘‘Socrates is bald’’,
+  what you are af rming is not identical or equivalent with (**). In a word, if PWS is right, then
+    when you utter ‘‘Socrates is bald’’, you are not af rming (**). But it seems a datum that (**) is
+    precisely what such an utterance af rms. So, to echo what I said a moment ago, we must reject
+    PWS, unless we are willing to take the revisionist (and implausible) approach of saying that an
+utterance of ‘‘Socrates is wise’’ does not af rm the proposition Socrates is wise.
+
+EXCURSUS II. BEALER AND THE PROBLEM OF CIRCULARITY
+
+    As we saw earlier, Bealer shows that PWS is guilty of a certain kind of vicious circularity. But
+    the circularity in question goes much deeper than Bealer himself indicates. Whenever PWS
+  analyzes a concept, it does so by extensionalizing it: propositions become sets of worlds (or
+    functions characteristic of those sets); properties becomes sets of individuals (or functions
+    characteristic thereof); and the proposition x has F becomes the proposition x is a member of K,
+where K is the class of all individuals (including those in other worlds) that have F.
+      It would thus be no exaggeration to say that PWS cannot analyze what it cannot
+    extensionalize. For the reasons discussed in Section 4.2, P is necessary cannot be analyzed as P
+    falls into C (where C is the class containing all necessary propositions, and nothing besides).
+    This means that PWS is either forced to take the property of being necessarily true as a primitive,
+    i.e. to regard it as unanalyzable, or that it must analyze it very differently from the way it analyzes
+other properties.
+  Of course, the analysis of P is necessary typically associated with PWS is P is true in all
+    worlds, not P falls into C. But if the PWS identi cation of necessity with truth in all worlds is to
+    harmonize with the PWS analysis of properties, and of intensions generally, then PWS must, at
+    the very least, regard P is true in all worlds as being equivalent with P falls into C. But PWS does
+not do so, as I would now like to show.
+  Since (**) is a member of C, and the property of necessity is a component of (**), we would
+  circularly make (**) be a member of a proper part of itself if we said that being necessary
+    involved being a member of C. So to avoid the circularity discussed by Bealer, PWS must say that
+  P is a member of C is not equivalent with P is necessary. So PWS cannot, without vicious                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916912
+
+    circularity, regard P is a member of C as equivalent with P is necessary. Thus, PWS is not able to
+    make its identi cation of necessity with truth in all worlds  t naturally with its general analysis of
+property instantiation. By itself, this sort of inconsistency is worrisome.
+  Moreover, it seems a simple fact of logic that P is a member of C is equivalent with Pis
+    necessary. It is thus to the discredit of PWS that it cannot recognize that equivalence (at least not
+    without lapsing into vicious circularity). So PWS proves to be incapable of accommodating a
+rather basic theorem of logic.
+  To deal with this, PWS would presumably have to say that the concept of all necessary
+  propositions – and therewith the concept of a class such as C – violates some sort of type-
+  theoretic stricture, like the concept of the class of all classes that don’t have themselves as
+    members. But if that concept does violate some such stricture (as, I suspect, it does), that isitselfa
+strike against PWS, as the following shows.
+    As we’ve already discussed, we don’t want the word ‘‘necessary’’ to become ‘‘systematically
+    ambiguous’’ (to use Russell’s, (1908) expression) between ‘‘necessary1’’, ‘‘necessary2’’, and so
+  on, where for each i, *necessaryi* is a predicate of propositions of leveli. In light of this,
+                                                     1
+    suppose that PWS puts into effect the type-theoretic strati cation demanded by the move just
+    proposed. So PWS distinguishes between C1,C2, and so on, where for each i, Ciis a class that
+    includes the propositions of levelithat would intuitively be regarded as necessary. So C1would
+                   1
+include 1+1=2, and C2would include necessarily, 1 + 1 = 2, and so on.
+  In that case, for each i, P is a member of Ciwould be equivalent with P is necessary, provided
+    that P was a proposition of the appropriate level. So necessarily 1 + 1 = 2 would be equivalent
+  with the proposition 1 + 1 = 2 is a member of C1; and necessarily, necessarily 1 + 1 = 2 would
+    be equivalent withthe proposition that 1 + 1 = 2 is necessary is a member of C2; and so on. In this
+  way, PWS would, after a fashion, be able to recognize the presumptive equivalence of Pisa
+    member of C with P is necessary. But this equivalence would be purchased by seeing the three
+  occurrences of ‘‘necessarily’’ in ‘‘it is necessarily the case that, necessarily, Socrates is
+    necessarily self-identical’’ as having three different (though parallel) meanings. (One would
+    correspond to membership in C3, the other to membership in C2, and so on.) But, as we previously
+    discussed, this seems very wrong at an intuitive level. So even though appropriate use of type-
+    theory might enable PWS to circumvent the vicious circularities discussed by Bealer, the result
+    would only be a counter-intuitive splitting of the concept of necessity into a number (an in nite
+number, actually) of different (though analogous) concepts.
+  Of course PWS could avoid this problem by choosing not to identify necessity with
+    membership in any class. But in that case, as we saw, the PWS analysis of necessity would not be
+of a piece with its analyses of other properties.
+  An extension of Bealer’s argument makes it clear how deep these problems with PWS are.
+    Consider the property of being false. According to any version of PWS (including PWS*), that
+    property is a function from propositions to truth-values (a function that assigns truth to false
+    propositions and falsity to true propositions) or it is the class of false propositions. LetF be that
+    function (or, if you prefer, that class). Of course, some false propositions themselves have the
+    concept of falsehood as a constituent, e.g. it is a falsehood that Mozart was a composer. Let P be
+    that proposition. Being false, P itself falls in the class of false propositions, i.e. it falls inF (or, if
+  you prefer to think ofF as a function, P itself is in the domain ofF). So P has the concept of
+  falsehood as a constituent. At the same time, that concept is itself a class that has P as a
+    constituent (or, equivalently, is a function whose domain includes P). So P consists ofF, which in
+    turn consists of P. Unless we are willing to take the heroic step of accepting a non-standard form
+of set-theory, this is not an acceptable result.                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916913
+
+  EXCURSUS III. COUNTERPART THEORY AND ESSENTIAL PROPERTIES
+
+  Earlier we argued that counterpart-theory is guilty of vicious circularity: the concept of a
+    counterpart is de ned in terms of the concept of an ‘‘essential’’ property. At the same time, the
+    concept of an ‘‘essential’’ property is a modal concept, and thus cannot be non-circularly used in
+this context.
+    But given only this point, counterpart-theory might still not be guilty of vicious circularity, as
+  the following line of thought shows. As before, I will put that argument in the mouth of an
+imaginary interlocutor:
+
+        ‘‘For the sake of argument, suppose that we found a way to understand the concept of
+      essentiality that did not, in its turn, involve the notion of necessity or the notion of a
+        counterpart. (This is not an unreasonable supposition.) In that case, counterpart-theory
+          wouldnotbe guilty of any vicious circularity in saying that Socrates’ counterparts are those
+          things which share his essential properties. So your argument against counterpart-theory
+would be nulli ed.’’
+
+  The objector is right that counterpart-theory wouldn’t be guilty of vicious circularity if it
+    turned out that the concept of an essential property could be understood in non-modal terms.
+    But this would not help the counterpart-theorist. If, as the interlocutor’s argument requires, we
+  had a non-modal characterization of the concept of essentiality, then there would be no
+    need whatsoever for any form of counterpart-theory. For, by supposition, we would no longer
+    need the notion of a counterpart to say what properties Socrates must have and, therefore, what
+    properties he might not have. The objector’s point liberates counterpart-theory from vicious
+    circularityonlybymakingcounterpart-theorycompletely unnecessary for an understanding of
+modality.
+    There is another problem with the proposal that Socrates’ counterparts are those things which
+    share his essential properties. Suppose that Socrates parents were A and B. According to the
+    plausible and widely accepted doctrine of the ‘‘essentiality of origins’’ – henceforth referred to as
+    ‘‘(EO)’’ – it is an essential fact about Socrates that these were his parents. (Kripke (1980) gives a
+    clear and powerful statement of this view.) According to counterpart-theory, A and B don’t exist
+    in W: only their counterparts do. So, according to counter-part theory, the fact that Socrates’
+    origins are essential to him corresponds to the fact that, in W, the counterparts of A and B were
+    parents of Socrates’ counterpart. But who are the counterparts of A and B? Presumably they are
+  the people whose parents were, respectively, the counterparts of the parents of A and the
+counterparts of the parents of B.
+  But now we are caught in a circle. EO says: if x has parents y and z, this is an essential fact
+  about x. Counterpart theory says: for this to be an essential fact about x is for the parents of x’s
+    counterpart in any world W to be the counterparts of y and z in W. The concept of a counterpart is
+  understood in terms of the concept of same origins; and the concept of same origins is in its
+understood in terms of notion of a counterpart. Clearly this is viciously circular.
+  But if we choose not to understand the notion of counterpart in terms of the notion of an
+  essential property, how are we to understand it? We could understand it in the way that was
+  proposed earlier: x is Socrates’ counterpart in W iff x resembles Socrates more closely than
+  anything else in W, provided that the notion of resemblance is not understood in terms of an
+essential property. But we’ve already seen the problems with this proposal.
+  The only remaining option, as Lewis (1986) points out, is to take the counterpart relation as
+    primitive: x just is Socrates’ counterpart in W; this fact about x does not supervene on x’s having                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916914
+
+    such and such properties—on, for example, x’s having such and such parents or on x’s being a
+    wise, bald Greek philosopher. But in that case, as Lewis himself (1968:126) says counterpart-
+  theory ceases to have much basis in our intuitions. Suppose that x is somebody in some other
+  world W whose life bears little or no resemblance to mine. It is hard to see why x’s fortunes
+should validate modal or counterfactual claims about me.
+  There is a problem with counterpart-theory deeper than any thus far discussed. For obvious
+  reasons, if the analysis of counterfactuals given by counterpart-theory is to avoid vicious
+    circularity, then there must be some way of individuating properties, of giving their essences, that
+    does not involve claims about counterparts. But this does not appear to be possible, since the very
+notion of a property has counterfactual content.
+    Clarence Lewis (1929) showed that, when we classify a thing as having a particular property –
+  as being wet or cold or solid – we are ipso facto making claims about its behavior under
+    counterfactual circumstances. His point applies to almost all of the properties in terms of which
+    we describe and understand spatiotemporal individuals. (I say ‘‘almost’’ because there may be a
+    few exceptions to it. For example, it may not apply to strictly phenomenal properties.) If this is
+    right, then practically any attribution of a property to anything spatiotemporal has counterfactual
+    content. In that case, for the reasons given in the last paragraph, counterpart-theory is guilty of
+vicious circularity.
+    But counterpart-theory fails even if it turns out that there is some innocent characterization of
+    things’ essential properties. (By an ‘‘innocent’’ characterization, I mean one that doesn’t use
+  notions like counterpart or necessity or any other notion that, in this context, would lead to
+    vicious circularity.) As we saw earlier, if there were such a characterization of the concept of an
+  essential property, then we wouldn’t need to invoke the notion of an alternative world, or a
+  fortiori of a counterpart, to explicate modal propositions. So if the concept of an essential
+    property is to be understood in counterfactual terms, then counterpart-theory is guilty of vicious
+    circularity. If the concept of an essential property is not to be thus understood, then the concept of
+a counterpart becomes irrelevant to modal analysis.
+
+EXCURSUS IV. ON LEWIS AND MODALITY
+
+  We previously saw some reason to believe that a proposition is necessarily true wholly in
+    virtue of its internal-structural properties. In connection with this, we saw that a proposition’s
+  being true in all worlds is merely a symptom, and not the essence, of its being necessary.
+    Ironically, Lewis’ own remarks seem to reinforce the plausibility of such a view, as I would now
+like to argue.
+  Lewis says that we discover whether P is necessarily true by employing ‘‘a principle of
+    recombination.’’ (See Lewis, 1986:113–114.) The idea seems to be this. P is necessarily true
+  exactly if P’s constituents are combined in a certain way, i.e. if P has certain internal,
+    combinatorial features. Of course, we can know that P has such features without leaving this
+    world. Further, by Lewis’ own hypothesis, we know that P’s having such features is suf cient for
+    P’s being true in all worlds. So if P has said structural features, we may correctly conclude that P
+is true in all worlds.
+But in that case, why not analyze ‘‘P is necessary’’ as ‘‘P has the aforementioned
+    combinatorial features’’? In other words, given Lewis’ views on the epistemology of modality –
+  given his point that we know the modal status of a proposition by employing a ‘‘principle of
+    recombination’’ – it seems to follow that modality is not to be understood in terms of the concept
+of other worlds.
+An illustration may be in order. Consider the proposition                    J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916915
+
+(T)triangles have three sides.
+
+  (T) is necessarily true. How do we know this? Here is an answer that, while being vague, has
+  some intuitive appeal (and that the present author believes to be correct, at least on one of its
+    delineations). We look at how T’s ingredients – the concepts three, triangle, side, and so on –
+    relate to one another, and at how they are organized in that proposition. On the basis, we can infer
+  that T is true in every world. But supposing that this is correct, why not say that (T)’s being
+    necessarily true consists in its having those internal, structural properties, and that its being true
+    in all other worlds is a symptom or expression of its being necessary, and not the essence of it?
+  This is what many of us are independently inclined to say. We know that (T) is true in every
+    world because we know that (T) has the right internal properties. This means that we see (T)’s
+    being true in every possible world as a consequence of its having those internal properties. In
+Kuczynski (2005a), I argue on behalf of this view.
+
+Acknowledgments
+
+    This paper bene ted immeasurably from an anonymous reviewer at the Journal of Pragmatics.
+    Had it not been for that reviewer’s sharp insights, many of the arguments and counter-arguments
+    put forth in the  rst Excursus would not have occurred to me. But that reviewer’s in uence is not
+    con ned to that one Excursus, and is to be found on virtually every page of this paper. I also owe
+    deep thanks to Professor Jacob Mey for his invaluable editorial suggestions, which dramatically
+enhanced the  ow and readability of the present paper.
+
+References
+
+  Barwise, Jon, Moss, Lawrence, 1996. Vicious Circles. CSLI Publications, Palo Alto, CA.
+Bealer, George, 1998. Propositions. Mind 107, 1–33.
+        Berkeley, George, 1982. A Treatise Concerning the Principles of Human Knowledge. Hackett, Indianapolis, IN.
+          Blackburn, Simon, 1984. Spreading the Word: Groundings in the Philosophy of Language. Oxford University Press, New
+York, NY.
+  Carnap, Rudolf, 1947. Meaning and Necessity. University of Chicago Press, Chicago IL.
+Cresswell, M.J., 1985. Structured Meanings. M.I.T. Press, Cambridge MA.
+      Dummett, Michael, 1973. Frege: Philosophy of Language. Harvard University Press, Cambridge, MA.
+Fodor, Jerry, 1998. Concepts. Clarendon Press, Oxford.
+Forbes, Graeme, 1985. The Metaphysics of Modality. Clarendon Press, Oxford.
+Goodman, Nelson, 1977. The Structure of Appearance. Reidel, Boston, MA.
+        Frege, Gottlob, 1892. On sense and nominatum. In: Martinich, A.P. (Ed.), The Philosophy of Language. Oxford
+University Press, New York, pp. 190–202.
+  Frege, Gottlob, 1956. The Thought: A Logical Inquiry. Mind, LXV, pp. 289–311.
+        Hintikka, Jaakko, 1962. Knowledge and Belief: An Introduction to the Logic of the Two Notions. Cornell University
+Press, Ithaca, NY.
+Hintikka, Jaakko, 1969. Models for Modalities. D. Reidel, Dordrecht.
+  Hume, David, 2000. A Treatise of Human Nature. Oxford University Press, New York.
+          Kaplan, David, 1968. Trans-world Heir-lines. In: Loux, M. (Ed.), The Actual and the Possible. Cornell University Press,
+Ithaca, NY, pp. 88–109.
+        Kaplan, David, 1989. Demonstratives. In: Almog, J., et al. (Eds.), Themes from Kaplan. New York, Oxford, pp. 481–
+563.
+    Kim, Jaegwon, 1993. Supervenience and Mind. Cambridge University Press, Cambridge, MA.
+      Kripke, Saul, 1963. Semantical considerations in modal logic. Acta Philosophica Fennica 16, 83–94.
+  Kripke, Saul, 1980. Naming and Necessity. Harvard University Press, Cambridge, MA.
+      Kuczynski, John-Michael, 2003. Some arguments against intentionalism. Acta Analytica 19, 107–142.                J.-M Kuczynski / Journal of Pragmatics 39 (2007) 872–916916
+
+Kuczynski, John-Michael, 2004. Another argument against the thesis that there is a language of thought. Communication
+and Cognition 37 (2), 83–104.
+  Kuczynski, John-Michael, 2005a. Outlining a non-possible-worlds based conception of modality. Metaphysica 6 (1), 41–68.
+Kuczynski, John-Michael, 2005b. Counterfactuals: The Epistemic Approach. Philosophia Scientiae 9 (1), 1–45.
+  Kuczynski, John-Michael, 2006. Review of Anne Bezuidenhout & Marga Reimer, descriptions and beyond. Pragmatics &
+Cognition 14 (1), 198–206.
+Lakatos, Imre, 1977. The Methodology of Scienti c Research Programmes: Philosophical Papers, vol. 1. Cambridge
+University Press, Cambridge.
+Lewis, Clarence Irving, 1929. Mind and the World Order. Scribners, New York.
+      Lewis, David, 1968. Counterpart theory and quanti ed modal logic. Journal of Philosophy 65, 113–126.
+Lewis, David, 1970. General semantics. Synthese 22, 18–67.
+Lewis, David, 1973. Counterfactuals. Blackwell, Oxford.
+  Lewis, David, 1986. On the Plurality of Worlds. Oxford University Press, New York.
+    Pap, Arthur, 1958. Semantics and Necessary Truth. Yale University Press, New Haven, CT.
+Plantinga, Alvin, 1974. The Nature of Necessity. Clarendon Press, Oxford.
+  Quine, Willard van Orman, 1960. Word and Object. M.I.T. Press, Cambridge, MA.
+Ramsey, F.P., 1929. Theories. In: Mellor, D.H. (Ed.), Frank Ramsey: Philosophical Papers. Cambridge University Press,
+Cambridge, pp. 112–136.
+Reichenbach, Hans, 1958. The Philosophy of Space-Time. Dover, New York.
+  Russell, Bertrand, 1908. Mathematical logic as based on the theory of types. American Journal of Mathematics 30, 222–262.
+      Russell, Bertrand, 1919. Introduction to Mathematical Philosophy. George Allen and Unwin, London.
+  Russell, Bertrand, 1927. The Analysis of Matter. George Allen and Unwin, London.
+  Russell, Bertrand, 1985. The Philosophy of Logical Atomism. Open Court, LaSalle, IN.
+Russell, Bertrand, 1992. The Philosophy of Leibniz. Routledge, London.
+Tarski, Alfred, 1983. The concept of truth in formalized languages. In: Corcoran, J. (Ed.), Logic, Semantics, and
+Metamathematics. Hackett, Indianapolis, IN, pp. 152–178.
+Van Fraassen, Bas C., 1989. Laws and Symmetry. Clarendon Press, Oxford.
+      Wiggins, David, 1968. On being in the same place at the same time. Philosophical Review 77, 90–95.
+  Wittgenstein, Ludwig, 1922. Tractatus Logico-Philosophicus. Kegan Paul, London.
+Wittgenstein, Ludwig, 1975. Philosophical Remarks. Blackwell, Oxford.
+
+John-Michael Kuczynski was awarded a PhD in philosophy from the University of California, Santa Barbara for his
+dissertation The Moral Structure of Legal Obligation. In his forthcoming book Conceptual Atomism and the Computa-
+tional Theory of Mind (John Benjamins), he argues that a misunderstanding of the concept of computation has resulted
+from, and then gone on to reinforce, some widely held, but spurious, views on linguistic and cognitive meaning. This book
+is a development of ideas put forth in his article ‘‘Two Concepts of Sentential Form and the so-called Computational
+Theory of Mind’’ (forthcoming in Philosophical Psychology).
